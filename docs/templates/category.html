@@ -1,0 +1,53 @@
+<details class="category_container" data-name="{{ category.name }}" open>
+    <summary class="no-summary-style background category_name h2-style" data-count="0" id="{{ category.id }}">{{ category.name }}</summary>
+    <div class="category">
+        <div class="row game">
+            <p>Mod</p>
+            <p>Compatibilités</p>
+            <p>Auteurs</p>
+            <p>Description / Notes</p>
+            <img src="{{ static }}img/download.png" title="Téléchargement" alt="Image de téléchargement" width="42" height="42">
+        </div>
+        {% for mod in category.mods %}
+            <div class="row mod" id="{{ mod.id }}">
+                <div class="title">
+                    <a class="discret name" href="#{{ mod.id }}">{{ mod.name }}</a>
+                    <p class="icons">{% for icon in mod.icons %}<span aria-label='{{ icon.label }}'>{{ icon.icon }}</span>{% endfor %}</p>
+                </div>
+                <div class="jeu">
+                    {% for game in mod.order_games %}<p>{{ game }}</p>{% endfor %}
+                </div>
+                {% if mod.authors|length <= 2 %}
+                    <div class="team">
+                        {% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}
+                    </div>
+                {% else %}
+                    <details class="team">
+                        <summary>Équipe</summary>
+                        <div class="content">{% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}</div>
+                    </details>
+                {% endif %}
+                <details class="desc">
+                    <summary>Description</summary>
+                    <div class="content">
+                        {{ mod.full_description|safe }}
+                        {% if mod.full_notes|length > 0 %}
+                            <br/><br/>{% for note in mod.full_notes %}{{ note|safe }}{% if not loop.last %}<br/>{% endif %}{% endfor %}
+                        {% endif %}
+                    </div>
+                </details>
+                <div class="url">
+                    {% for url in mod.urls_instance %}
+                        <a href="{{ url.url }}" target="{% if url.is_external %}_blank{% else %}_self{% endif %}">
+                        {% if url.img %}
+                            <img src="{{ static }}{{ url.img.src }}" alt="{{ url.img.alt|default('Lien vers le mod',true) }}" width="{{ url.img.width }}" height="{{ url.img.height }}" title="{{ url.img.title }}" lazy="loading">
+                        {% else %}
+                            Lien
+                        {% endif %}
+                        </a>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</details>
