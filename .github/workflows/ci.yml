@@ -1,0 +1,73 @@
+name: Test & Build
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v5
+      with:
+        version: "0.5.29"
+        enable-cache: true
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Run tests
+      run: uv run check_mods_json.py
+
+  build:
+    needs: test
+    if: >-
+      success() &&
+      github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v5
+      with:
+        version: "0.5.29"
+        enable-cache: true
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install Dependencies
+      run: uv sync
+
+    - name: Generate HTML
+      run: uv run update_index.py
+
+    - name: Deploy to gh-pages
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+
+        git checkout --orphan gh-pages
+
+        cp -r docs/* .
+
+        git add -f docs/index.html
+        git commit -m "Update site from branch main changes [ci skip]" || echo "No changes to commit"
+        git push --force origin gh-pages
