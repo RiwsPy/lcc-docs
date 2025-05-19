@@ -46762,7 +46762,7 @@
     },
     {
         "name": "Of Paths and Ways",
-        "description": "Ce mod contient 12 kits.|Voleur : `Arcane Trickster`, `Divine Trickster`, `Wilderness' Trickster`, `Lucky Tusks`|Barde : `Arcane Chef`, `Fleshshaper`|Sorcier : `Magivore-Infected`|Paladin : `Honey-Sipper`, `Hallowed Reconnoitrer`|Moine `Rose Blade Monk`|Rôdeur : `Night Challenger`|Guerrier : `3-Foot-Tall Fury`|N'hésitez pas à lire le readme pour avoir des informations plus complètes.",
+        "description": "Ce mod contient 13 kits.|Voleur : `Arcane Trickster`, `Divine Trickster`, `Wilderness' Trickster`, `Lucky Tusks`|Barde : `Arcane Chef`, `Fleshshaper`|Sorcier : `Magivore-Infected`|Paladin : `Honey-Sipper`, `Hallowed Reconnoitrer`|Moine `Rose Blade Monk`|Rôdeur : `Night Challenger`|Guerrier : `3-Foot-Tall Fury`|Druide : `Decay Overseer`|N'hésitez pas à lire le readme pour avoir des informations plus complètes.",
         "urls": [
             "https://downloads.weaselmods.net/download/of-paths-and-ways/"
         ],
@@ -53825,5 +53825,32 @@
         "status": "active",
         "last_update": "2023-12",
         "tp2": "iwd2-ease"
+    },
+    {
+        "name": "Arszyk’s Wonderful Decay",
+        "description": "Arszyk est un guerrier/druide d'alignement neutre mauvais, un vampire qui a été envoyé à Icewind Dale pour trouver un artefact perdu, mais qui entre-temps s'est attiré des ennuis et a besoin d'un coup de main s'il veut reprendre ses recherches. Il est accompagné de quelques interjections, objets et d'un kit de druide (Decay Overseer, inclus également dans [[Of Paths and Ways]] du même auteur).",
+        "urls": [
+            "https://downloads.weaselmods.net/download/arszyk/"
+        ],
+        "categories": [
+            "PNJ recrutable",
+            "Quête"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2025-05",
+        "tp2": "ArszyksWonderfulDecay"
     }
 ]
