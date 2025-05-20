@@ -331,6 +331,12 @@ section {
     background: var(--background-secondary);
 }
 
+summary.category_name {
+    position: sticky;
+    top: 102px;
+    z-index: 5;
+}
+
 .table .category_container .category_name::after {
     content: " (" attr(data-count) ")";
 }
