@@ -331,7 +331,7 @@ section {
     background: var(--background-secondary);
 }
 
-summary.category_name {
+details[open]>summary.category_name {
     position: sticky;
     top: 102px;
     z-index: 5;
