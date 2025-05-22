@@ -53852,5 +53852,76 @@
         "status": "wip",
         "last_update": "2025-05",
         "tp2": "ArszyksWonderfulDecay"
+    },
+    {
+        "name": "Kit de Gelée",
+        "description": "Ce kit de Guerrier permet au personnage de se transformer en gelée moutarde. Il possède de nombreux atouts, comme l'immunité au poison, au sommeil, aux attaques mentales et des bonus à ses jets de sauvegarde. Les caractéristiques de sa transformation évoluent en fonction de ses niveaux, notamment des bonus de Classe d'armure, de caractéristiques et de régénération. Sa couleur de peau est… inhabituelle.",
+        "urls": [
+            "https://cafe.naver.com/f-e/cafes/12857088/articles/85256",
+            "https://github.com/Plutonium-X/KIT_Slime/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "BGT",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "JB",
+            "Choi"
+        ],
+        "team": [
+            "Deratiseur"
+        ],
+        "notes": [
+            "Choisissez le lien github pour la version EE et la version française."
+        ],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "kr",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2025-05",
+        "tp2": "SB"
+    },
+    {
+        "name": "Un souhait inhabituel",
+        "description": "Ce mod propose une quête accessible via le sort Souhait limité. Le djinn vous remet alors une note qui a été rédigé par un barde. C'est une histoire de princesse. Enfin, presque.",
+        "urls": [
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=6294",
+            "https://github.com/Plutonium-X/QUETE_WISH/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Tuldor88"
+        ],
+        "team": [
+            "Deratiseur"
+        ],
+        "notes": [
+            "Choisissez le lien github pour la version EE et la version française."
+        ],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "pl",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2025-05",
+        "tp2": "Tlol"
     }
 ]
