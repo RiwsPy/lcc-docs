@@ -11,7 +11,7 @@ Le fichier `db/mods.json` contient les informations nécessaires à la générat
 
 ### Le minimum vital
 
-[Python](https://www.python.org/downloads/)3.9+\
+[Python](https://www.python.org/downloads/)3.11+\
 [uv](https://docs.astral.sh/uv/getting-started/installation/), le gestionnaire de paquet
 
 ### Créez l'environnement virtuel

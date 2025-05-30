@@ -3,7 +3,7 @@ name = "Lcc-Mod-List"
 version = "2.2.0"
 description = "Liste des mods de l'infinity engine"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.11"
 dependencies = [
     "beautifulsoup4>=4.13.3",
     "curl-cffi>=0.10.0",
