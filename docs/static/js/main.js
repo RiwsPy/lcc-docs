@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", function () {
     let target = document.querySelector(hash)
     if (target) {
       let offsetSearch = document.querySelector("#search_text").offsetHeight
-      let offsetCategory = target.closest("summary").offsetHeight
+      let offsetCategory = document.querySelector("summary.category_name").offsetHeight
       window.scrollTo({
         top: target.offsetTop - offsetSearch - offsetCategory - 1,
         behavior: "smooth"
