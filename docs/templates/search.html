@@ -7,7 +7,7 @@
             {% for game in games %}
                 <div class="search_item game">
                     <input type="radio" id="{{ game }}" oninput="filterMod()" name="game" value="{{ game }}">
-                    <label for="{{ game }}"><img src="{{ static }}img/ie_games_{{ game.lower() }}.png" height="66" alt="{{ game }}" title="{{ game }}"/></label>
+                    <label for="{{ game }}"><img src="{{ static }}img/ie_games_{{ game.lower() }}.avif" height="66" alt="{{ game }}" title="{{ game }}"/></label>
                 </div>
             {% endfor %}
         </div>
