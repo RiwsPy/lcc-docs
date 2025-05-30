@@ -25,7 +25,7 @@ class Icon:
     label: str
 
 
-@dataclass(kw_only=True)
+@dataclass(kw_only=True, eq=False, frozen=True)
 class Mod:
     name: str
     categories: list
