@@ -1,6 +1,7 @@
-from dataclasses import dataclass
 import enum
 import re
+
+from pydantic.dataclasses import dataclass
 
 from models.url import Url
 from models.utils import slugify
