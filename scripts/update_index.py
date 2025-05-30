@@ -31,7 +31,7 @@ def main():
     for mod_json in mods:
         mod = Mod(**mod_json)
 
-        for category in mod.get_categories():
+        for category in mod.categories:
             categories_mod[category].append(mod)
 
     page_html = env.get_template("base.html").render(

@@ -1,6 +1,9 @@
+from datetime import datetime
 import enum
 import re
+from typing import Annotated, Literal
 
+from pydantic import ConfigDict, StringConstraints, field_validator
 from pydantic.dataclasses import dataclass
 
 from models.url import Url
@@ -9,6 +12,7 @@ from settings import CategoryEnum, Games, attrs_icon_data, language_translate
 
 link_regex = re.compile(r"\[\[[^].]+\]\]")
 quote_regex = re.compile(r"`[^`]+`")
+YearMonthFormat = Annotated[str, StringConstraints(pattern=r"^(\d{4}-\d{2})?$")]
 
 
 class ModStatus(enum.StrEnum):
@@ -26,29 +30,37 @@ class Icon:
     label: str
 
 
-@dataclass(kw_only=True, eq=False, frozen=True)
+@dataclass(kw_only=True, eq=False, frozen=True, config=ConfigDict(extra="forbid"))
 class Mod:
     name: str
-    categories: list
-    urls: list
-    notes: list
+    categories: list[CategoryEnum]
+    urls: list[str]
+    notes: list[str]
     description: str
-    team: list
-    games: list
-    safe: int
-    translation_state: str
-    languages: list
-    authors: list
-    status: str
-    last_update: str
+    team: list[str]
+    games: list[Games]
+    safe: Literal[0, 1, 2]
+    translation_state: Literal["yes", "todo", "no", "wip", "n/a"]
+    languages: list[str]
+    authors: list[str]
+    status: ModStatus
+    last_update: YearMonthFormat
     tp2: str
+
+    @field_validator("last_update")
+    def check_last_update(cls, v):
+        if not v:
+            return v
+        current_month = datetime.now().strftime("%Y-%m")
+        if "1999-01" <= v <= current_month:
+            return v
+        raise ValueError(
+            f"Date impossible, doit être comprise entre 1999-01 et {current_month}"
+        )
 
     @property
     def id(self) -> str:
         return slugify(self.name)
-
-    def get_status(self):
-        return ModStatus(self.status)
 
     @property
     def is_weidu(self) -> bool:
@@ -56,7 +68,7 @@ class Mod:
 
     def get_urls(self) -> list[Url]:
         # Pour éviter d'afficher des liens morts tout en les conservant
-        if self.get_status() == ModStatus.MISSING:
+        if self.status == ModStatus.MISSING:
             return list()
         urls = self.urls.copy()
         # troncate url to remove zip and rar files
@@ -108,9 +120,6 @@ class Mod:
     def get_description(self) -> str:
         return self.convert_txt(self.description)
 
-    def get_categories(self) -> list[CategoryEnum]:
-        return [CategoryEnum(cat) for cat in self.categories]
-
     @property
     def safe_note(self) -> int:
         note = 2
@@ -120,11 +129,11 @@ class Mod:
             note -= 1
         if "temnix" in self.authors:  # déso
             note -= 1
-        if self.get_status() == ModStatus.ARCHIVED:
+        if self.status == ModStatus.ARCHIVED:
             note -= 1
-        elif self.get_status() in (ModStatus.EMBED, ModStatus.OBSOLETE):
+        elif self.status in (ModStatus.EMBED, ModStatus.OBSOLETE):
             note = 0
-        elif self.get_status() in (ModStatus.WIP, ModStatus.MISSING):
+        elif self.status in (ModStatus.WIP, ModStatus.MISSING):
             note = min(1, note)
         return max(0, note)
 
@@ -170,13 +179,13 @@ class Mod:
             auto_notes.append(
                 "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le à vos risques et périls."
             )
-        if self.get_status() == ModStatus.ARCHIVED:
+        if self.status == ModStatus.ARCHIVED:
             auto_notes.append(
                 "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui donner suite."
             )
-        elif self.get_status() == ModStatus.WIP:
+        elif self.status == ModStatus.WIP:
             auto_notes.append("Ce mod est toujours en cours de réalisation.")
-        elif self.get_status() == ModStatus.MISSING:
+        elif self.status == ModStatus.MISSING:
             if self.urls:
                 url = self.urls[0]
                 note = f"Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
@@ -209,6 +218,3 @@ class Mod:
 
     def get_notes(self) -> list:
         return [self.convert_txt(note) for note in self.notes + self.get_auto_notes()]
-
-    def get_games(self) -> list:
-        return [game for game in Games if game in self.games]

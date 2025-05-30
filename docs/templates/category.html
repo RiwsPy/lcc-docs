@@ -18,7 +18,7 @@
                     {% for icon in mod.icons %}<span aria-label='{{ icon.label }}'>{{ icon.icon }}</span>{% endfor %}
                 </div>
                 <div class="column jeu">
-                    {% for game in mod.get_games() %}<p>{{ game }}</p>{% endfor %}
+                    {% for game in mod.games %}<p>{{ game }}</p>{% endfor %}
                 </div>
                 {% if mod.authors|length <= 2 %}
                     <div class="column team">
