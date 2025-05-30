@@ -8,7 +8,7 @@ from pydantic.dataclasses import dataclass
 
 from models.url import Url
 from models.utils import slugify
-from settings import CategoryEnum, Games, attrs_icon_data, language_translate
+from settings import CategoryEnum, GameEnum, attrs_icon_data, language_translate
 
 link_regex = re.compile(r"\[\[[^].]+\]\]")
 quote_regex = re.compile(r"`[^`]+`")
@@ -38,7 +38,7 @@ class Mod:
     notes: list[str]
     description: str
     team: list[str]
-    games: list[Games]
+    games: list[GameEnum]
     safe: Literal[0, 1, 2]
     translation_state: Literal["yes", "todo", "no", "wip", "n/a"]
     languages: list[str]
@@ -139,7 +139,7 @@ class Mod:
 
     @property
     def is_EE(self) -> bool:
-        return bool(set(self.games) & set(Games.EE()))
+        return bool(set(self.games) & set(GameEnum.EE()))
 
     @property
     def is_outdated(self) -> bool:

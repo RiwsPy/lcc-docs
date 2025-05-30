@@ -6,7 +6,7 @@ from pathlib import Path
 from jinja2 import Environment, PackageLoader, select_autoescape
 
 from models import Mod
-from settings import CategoryEnum, Games, attrs_icon_data, resize_image_from_width
+from settings import CategoryEnum, GameEnum, attrs_icon_data, resize_image_from_width
 
 
 def main():
@@ -35,7 +35,7 @@ def main():
             categories_mod[category].append(mod)
 
     page_html = env.get_template("base.html").render(
-        games=Games,
+        games=GameEnum,
         categories=categories_mod,
         static=f"static{os_sep}",
         attrs_icon_data=attrs_icon_data,

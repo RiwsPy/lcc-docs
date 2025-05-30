@@ -56,7 +56,7 @@ attrs_icon_data: dict[str, dict[tuple, dict[str, str]]] = {
 
 
 # TODO: ordre à définir
-class Games(enum.StrEnum):
+class GameEnum(enum.StrEnum):
     BG = "BG"
     BG2 = "BG2"
     TUTU = "Tutu"
