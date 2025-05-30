@@ -4,6 +4,7 @@ from pathlib import Path
 
 # import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
+
 from models import Mod
 from settings import CategoryEnum, Games, attrs_icon_data, resize_image_from_width
 

@@ -1,9 +1,9 @@
 [project]
-name="Lcc-Mod-List"
-version="2.2.0"
-description="Liste des mods de l'infinity engine"
-readme="README.md"
-requires-python=">=3.9"
+name = "Lcc-Mod-List"
+version = "2.2.0"
+description = "Liste des mods de l'infinity engine"
+readme = "README.md"
+requires-python = ">=3.9"
 dependencies = [
     "beautifulsoup4>=4.13.3",
     "curl-cffi>=0.10.0",
@@ -12,38 +12,42 @@ dependencies = [
 ]
 
 [tool.pyright]
-    ignore = [".venv/"]
-    venv = "./.venv"
-    venvPath = "."
-    pythonVersion = "3.11"
-    # typeCheckingMode = "basic"
-    reportMissingTypeStubs = false
-    reportMissingImports = false
-    reportIncompatibleMethodOverride = false
+ignore = [".venv/"]
+venv = "./.venv"
+venvPath = "."
+pythonVersion = "3.11"
+# typeCheckingMode = "basic"
+reportMissingTypeStubs = false
+reportMissingImports = false
+reportIncompatibleMethodOverride = false
 
 [tool.ruff]
-    exclude = [".venv/"]
-    line-length = 96
-    include = ["**/pyproject.toml", "*.py"]
-    extend-exclude = [
-        "__pycache__",
-        ".venv"
-    ]
-    target-version = "py311"
+exclude = [".venv/"]
+line-length = 96
+include = ["**/pyproject.toml", "*.py"]
+extend-exclude = ["__pycache__", ".venv"]
+target-version = "py311"
 
 [tool.ruff.lint]
-    # https://docs.astral.sh/ruff/rules
-    select = ["F", "I", "E", "B"]
-    ignore = ["E501"]
+# https://docs.astral.sh/ruff/rules
+select = ["F", "I", "E", "B"]
+ignore = ["E501"]
 
 [tool.ruff.lint.isort]
-    length-sort = false
-    force-single-line = false
-    force-sort-within-sections = true
-    section-order = ["future", "standard-library", "third-party", "local-folder"]
+length-sort = false
+force-single-line = false
+force-sort-within-sections = true
+known-first-party = ["models", "scripts", "tests"]
+section-order = [
+    "future",
+    "standard-library",
+    "third-party",
+    "first-party",
+    "local-folder",
+]
 
 [tool.ruff.format]
-    quote-style = "double"
-    indent-style = "space"
-    skip-magic-trailing-comma = false
-    line-ending = "auto"
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+line-ending = "auto"
