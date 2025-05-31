@@ -32306,7 +32306,8 @@
         "name": "Tenya Thermidor",
         "description": "Bien qu'âgée d'une vingtaine d'années, Tenya est très puissante pour son âge, grâce à l'entraînement prodigué par sa mère pour la gloire d'Umberlie. Et elle est très en colère après le meurtre de sa mère... Elle dispose d'une mini-quête qui lui permettra d'utiliser son bol de contrôle élémentaire, et éventuellement de ramasser un ou deux autres objets en cours de route. C'est une clerc d'alignement Chaotique Neutre avec un talent inné pour l'élément eau. Elle compense ses caractéristiques assez moyennes par des objets efficaces.|FOR 9, DEX 16, CON 14, INT 12, SAG 16, CHA 13.",
         "urls": [
-            "https://forums.beamdog.com/discussion/33291/"
+            "https://forums.beamdog.com/discussion/33291/",
+            "https://www.mediafire.com/file/ar99e68bb21ae7h/BGT+Converted+BWP+Tenya15c.zip"
         ],
         "categories": [
             "PNJ recrutable"
@@ -32321,14 +32322,16 @@
         ],
         "team": [],
         "notes": [
-            "Le lien mediafire permet de télécharger une version pour BGT. ⚠️ Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+            "Le lien mediafire permet de télécharger une version pour BGT."
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2023-08",
-        "tp2": "tenyathermidor"
+        "last_update": "2015-02",
+        "tp2": "TenyaThermidor"
     },
     {
         "name": "Terror of the Skineater",
