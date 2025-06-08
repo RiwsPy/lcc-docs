@@ -53954,5 +53954,65 @@
         "status": "active",
         "last_update": "2025-05",
         "tp2": "Tlol"
+    },
+    {
+        "name": "Gilbertus et Kri'binn son araignée semi-mécanique",
+        "description": "Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or. Si vous prévoyez vraiment beaucoup de pièce d'or et si vous êtes persuasif, vous pourrez peut être acheter 'plus'.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34676",
+            "https://github.com/Deratiseur/Gilbertus/"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Deratiseur"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "fr",
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-05",
+        "tp2": "Derats_Kribinn"
+    },
+    {
+        "name": "CrossClass Powerkits",
+        "description": "Des combinaisons de kits vanilla pour des résultats détonants.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34909",
+            "https://github.com/Deratiseur/CrossClass/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Deratiseur"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "fr",
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-06",
+        "tp2": "Derats_Powerkits"
     }
 ]
