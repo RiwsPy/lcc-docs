@@ -9079,7 +9079,7 @@
         ],
         "status": "active",
         "last_update": "2025-04",
-        "tp2": "Ti`dings"
+        "tp2": "Tidings"
     },
     {
         "name": "Darkest Dungeon Soundset",
@@ -27968,27 +27968,34 @@
         "urls": [
             "http://www.shsforums.net/topic/57056-bwpv14/#entry565797",
             "https://baldur.cob-bg.pl/download/bg2/kits/Runiczny_v2.0.zip",
-            "https://www.mediafire.com/file/gapml3rqa09xmpe/run.zip/file"
+            "https://github.com/Plutonium-X/KIT_Runic/"
         ],
         "categories": [
             "Kit"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Riklaunim"
         ],
-        "team": [],
-        "notes": [],
-        "translation_state": "no",
+        "team": [
+            "Deratiseur"
+        ],
+        "notes": [
+            "Choisissez le lien github pour la version française compatible EE."
+        ],
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "pl"
+            "pl",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2003-11",
+        "last_update": "2025-05",
         "tp2": "Run"
     },
     {
@@ -38047,29 +38054,36 @@
         "description": "Ce mod ajoute un profil de druide, le Maître des éléments.",
         "urls": [
             "https://baldur.cob-bg.pl/node/944",
-            "https://baldur.cob-bg.pl/download/bg2/kits/WLadca.zip"
+            "https://baldur.cob-bg.pl/download/bg2/kits/WLadca.zip",
+            "https://github.com/Plutonium-X/KIT_Elements"
         ],
         "categories": [
             "Kit"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Aroc"
         ],
-        "team": [],
-        "notes": [
-            "Cliquez sur le deuxième lien pour télécharger le fichier."
+        "team": [
+            "Deratiseur"
         ],
-        "translation_state": "no",
+        "notes": [
+            "Cliquez sur le deuxième lien pour télécharger le fichier de la version originale.",
+            "Choisissez le lien github pour la version traduite et compatible EE."
+        ],
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "pl"
+            "pl",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2006-08",
+        "last_update": "2025-05",
         "tp2": "wladca"
     },
     {
@@ -47304,26 +47318,34 @@
         "name": "Kalah",
         "description": "Ce mod modifie la quête du cirque en y ajoutant de petites épreuves. Le résultat de ces épreuves influencent la difficulté du combat final. Un autre composant rend à Aerie métamorphosée son apparence originellement prévue par les développeurs (spoil : ce n'est pas un ogre).",
         "urls": [
-            "https://baldur.cob-bg.pl/node/1936"
+            "https://baldur.cob-bg.pl/node/1936",
+            "https://github.com/Plutonium-X/QUETE_KALAH/"
         ],
         "categories": [
             "Quête"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Picollo"
         ],
-        "team": [],
-        "notes": [],
-        "translation_state": "no",
+        "team": [
+            "Deratiseur"
+        ],
+        "notes": [
+            "Choisissez le lien github pour la version française ou la version EE."
+        ],
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "pl"
+            "pl",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2010-09",
+        "last_update": "2025-04",
         "tp2": "Kalah"
     },
     {
@@ -53582,31 +53604,37 @@
     },
     {
         "name": "Xardas",
-        "description": "Ce ajoute Mag Xardas le nécromancien à l'entrée du donjon de'Arnise. Il est équipé d'un anneau d'archimage.",
+        "description": "Ce ajoute Mag Xardas le nécromancien à l'entrée du donjon de'Arnise. Il est équipé d'un anneau d'archimage.|FOR 12, DEX 18, CON 14, INT 20, SAG 19, CHA 17",
         "urls": [
-            "https://baldur.cob-bg.pl/download/bg2/npc/Xardas.zip"
+            "https://baldur.cob-bg.pl/download/bg2/npc/Xardas.zip",
+            "https://github.com/Plutonium-X/1D_NPC_Xardas/"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "BOSS"
         ],
-        "team": [],
-        "notes": [
-            "FOR 12, DEX 18, CON 14, INT 20, SAG 19, CHA 17."
+        "team": [
+            "Deratiseur"
         ],
-        "translation_state": "no",
+        "notes": [
+            "Choisissez le lien github pour la version française compatible EE."
+        ],
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "pl"
+            "pl",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2004-01",
+        "last_update": "2025-05",
         "tp2": "Xardas"
     },
     {
