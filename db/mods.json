@@ -2346,7 +2346,7 @@
         "description": "Ce mod est un add-on créé par David Gaider (principal concepteur de ToB), assisté de passionnés d'un forum américain, qui a été ensuite converti en WeiDU par Weimer, ce dernier assurant la compatibilité. Il change beaucoup de choses dans ToB : chaque combat avec les enfants de Bhaal est bien plus difficile, les nouveaux pouvoirs de Bhaal sont inclus également, Demogorgon est redevenu un monstre redoutable, et on y trouve surtout un combat final complètement remodelé. Vous pourrez enrôler soit Balthazar, soit Bodhi pour combattre Amélissane. Celle-ci sera une machine de guerre, redoutable. A ses côtés, la Main. Oui, les 5 enfants de Bhaal (excepté Balthazar si vous l'avez recruté), Yaga, Abazigal, Sendai, Illasera, tous sont là pour combattre aux côtés d'Amelyssane, et de niveau supérieur à leur version originelle. À noter qu'avant ce combat, vous aurez un avant-goût du défi en combattant Bohdi et Irenicus, complètement boostés évidement, et qui vous poseront pas mal de problèmes sans doute.",
         "urls": [
             "https://www.gibberlings3.net/mods/quests/ascension/",
-            "https://github.com/InfinityMods/Ascension"
+            "https://github.com/Gibberlings3/Ascension"
         ],
         "categories": [
             "Quête",
@@ -3651,7 +3651,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2021-05",
+        "last_update": "2025-05",
         "tp2": "bg1ub"
     },
     {
@@ -4272,7 +4272,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2023-02",
+        "last_update": "2025-05",
         "tp2": "BGSpawn"
     },
     {
@@ -5513,7 +5513,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2023-12",
         "tp2": "BiG World Fixpack"
     },
     {
@@ -5570,7 +5570,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-06",
         "tp2": "n/a"
     },
     {
@@ -8742,7 +8742,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-05",
         "tp2": "d2-mira"
     },
     {
@@ -9078,7 +9078,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "Tidings"
     },
     {
@@ -9516,7 +9516,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-06",
         "tp2": "Derats_dawap"
     },
     {
@@ -10071,7 +10071,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-03",
+        "last_update": "2022-05",
         "tp2": "Dorn"
     },
     {
@@ -12115,7 +12115,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-06",
+        "last_update": "2023-08",
         "tp2": "expandedclasses"
     },
     {
@@ -12843,7 +12843,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-01",
+        "last_update": "2025-05",
         "tp2": "FishingForTrouble"
     },
     {
@@ -16781,7 +16781,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2023-01",
+        "last_update": "2022-12",
         "tp2": "BetterHOF"
     },
     {
@@ -16818,7 +16818,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2019-02",
+        "last_update": "2017-06",
         "tp2": "valhorn"
     },
     {
@@ -17470,13 +17470,13 @@
         ],
         "team": [],
         "notes": [
-            "Contrairement aux autres mods, touts les components du groupe \"options aléatoires\" doivent être installés AVANT le composant principal."
+            "Contrairement aux autres mods, tous les composants du groupe `options aléatoires` doivent être installés AVANT le composant principal."
         ],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2019-02",
+        "last_update": "2018-09",
         "tp2": "randomiser"
     },
     {
@@ -17698,7 +17698,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2018-12",
+        "last_update": "2019-02",
         "tp2": "jpspp"
     },
     {
@@ -18291,7 +18291,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-06",
         "tp2": "Kale"
     },
     {
@@ -22425,6 +22425,7 @@
         "games": [
             "BGT",
             "BGEE",
+            "SoD",
             "EET",
             "Tutu"
         ],
@@ -23026,7 +23027,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2019-07",
+        "last_update": "2019-04",
         "tp2": "Neh'taniel"
     },
     {
@@ -27992,7 +27993,8 @@
         "safe": 2,
         "languages": [
             "pl",
-            "fr"
+            "fr",
+            "en"
         ],
         "status": "active",
         "last_update": "2025-05",
@@ -28069,8 +28071,7 @@
         "safe": 2,
         "languages": [
             "pl",
-            "fr",
-            "en"
+            "fr"
         ],
         "status": "active",
         "last_update": "2025-03",
@@ -29768,7 +29769,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "SkieCost"
     },
     {
@@ -30802,7 +30803,7 @@
             "it"
         ],
         "status": "active",
-        "last_update": "2011-12",
+        "last_update": "2012-08",
         "tp2": "stivan"
     },
     {
@@ -33069,7 +33070,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-05",
         "tp2": "drizztsaga"
     },
     {
@@ -33202,7 +33203,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-05",
         "tp2": "TGC1E"
     },
     {
@@ -34860,7 +34861,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-02",
+        "last_update": "2022-10",
         "tp2": "touched"
     },
     {
@@ -34930,7 +34931,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-01",
+        "last_update": "2025-01",
         "tp2": "tod"
     },
     {
@@ -36152,7 +36153,7 @@
         "safe": 2,
         "languages": [
             "en",
-            "br",
+            "pt",
             "ru",
             "se"
         ],
@@ -36766,7 +36767,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2023-08",
+        "last_update": "2025-06",
         "tp2": "verrsza"
     },
     {
@@ -36825,7 +36826,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-10",
+        "last_update": "2024-11",
         "tp2": "Vienxay"
     },
     {
@@ -38046,7 +38047,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2019-03",
+        "last_update": "2016-08",
         "tp2": "wsr"
     },
     {
@@ -38064,7 +38065,8 @@
             "BG2",
             "BGT",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Aroc"
@@ -38083,7 +38085,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-04",
         "tp2": "wladca"
     },
     {
@@ -40727,7 +40729,8 @@
             "PNJ recrutable"
         ],
         "games": [
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Lava Del'Vortel"
@@ -40738,7 +40741,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-05",
         "tp2": "XzarAndMontaron"
     },
     {
@@ -41328,7 +41331,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2025-04",
+        "last_update": "2025-06",
         "tp2": "eefixpack"
     },
     {
@@ -42004,7 +42007,8 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-02",
@@ -42190,7 +42194,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-06",
         "tp2": "zbpod"
     },
     {
@@ -42718,7 +42722,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-06",
         "tp2": "lca"
     },
     {
@@ -43198,7 +43202,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2022-12",
         "tp2": "IconFix"
     },
     {
@@ -43233,7 +43237,7 @@
         "description": "Cet utilitaire est un launcher pour [[Enhanced Edition Trilogy]]. Il permet de lancer le bon executable du jeu (notamment si [[EEex]] est utilisé) ainsi que d'autres pages relatives à l'utilisation de EET.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/29123-eetlauncher/",
-            "https://github.com/ALIENQuake/EETLauncher/"
+            "https://github.com/Gibberlings3/EETLauncher/"
         ],
         "categories": [
             "Utilitaire"
@@ -43282,7 +43286,7 @@
         "safe": 1,
         "languages": [],
         "status": "archived",
-        "last_update": "2022-09",
+        "last_update": "2022-10",
         "tp2": ""
     },
     {
@@ -43985,7 +43989,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-05",
         "tp2": "mih_fr"
     },
     {
@@ -44575,7 +44579,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-09",
+        "last_update": "2023-11",
         "tp2": "wl_SummonsFoW"
     },
     {
@@ -44971,20 +44975,23 @@
     },
     {
         "name": "Laphysique Kit Pack for Baldur's Gate - Enhanced Edition",
-        "description": "Ce repo contient 4 kits séparément :|`Cruiser` : un mage qui se concentre sur le tir de missiles magiques améliorés.|`Priest of Sun Wukong` : un clerc pour les races de petit taille qui se concentre sur les compétences de combat avec des bâtons.|`Grenadier` : un barde axé sur les fléchettes, les météores et les lames d'énergie.|`Pyroheretic` : un sorcier axé sur la magie du feu.",
+        "description": "Ce repo contient 5 kits séparément :|`Cruiser` : un mage qui se concentre sur le tir de missiles magiques améliorés.|`Priest of Sun Wukong` : un clerc pour les races de petit taille qui se concentre sur les compétences de combat avec des bâtons.|`Grenadier` : un barde axé sur les fléchettes, les météores et les lames d'énergie.|`Pyroheretic` : un sorcier axé sur la magie du feu.|`Monk HLA` qui retravaille les compétences au niveau des moines.",
         "urls": [
             "https://github.com/laphysique/baldursgate-mods"
         ],
         "categories": [
             "Kit"
         ],
-        "games": [],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
         "authors": [
             "Wisp"
         ],
         "team": [],
         "notes": [
-            "La compatibilité est à définir : EE minimum."
+            "La compatibilité est à vérifier : EE minimum."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -44992,7 +44999,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-12",
+        "last_update": "2025-05",
         "tp2": "Cruiser"
     },
     {
@@ -46075,7 +46082,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-06",
         "tp2": "ZS_CanIStabYou"
     },
     {
@@ -46996,7 +47003,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-06",
         "tp2": "bmpp"
     },
     {
@@ -47053,7 +47060,7 @@
         "tp2": "bubb_sprite_highlight_extender;bubb_revert_pathfinding;bubb_fix_bg2_tot_crash;bubb_enable_pst_console;bubb_disable_stoneskin_color;b3_identify"
     },
     {
-        "name": "Neverwinter Night for Baldur's Gate",
+        "name": "Neverwinter Nights for Baldur's Gate",
         "description": "Le mod reprend, avec des modifications mineures, l'intrigue du jeu « Neverwinter Nights ». Il ajoute de nombreux lieux, des personnages connus depuis l'enfance, des quêtes, des boutiques et Lady Aribeth. Pour commencer à passer le mod, il faut que le personnage principal ait un niveau d'expérience d'au moins 1350000 XP. Lorsque vous atteignez ce niveau d'expérience, un messager de Neverwinter vous aborde dans n'importe quel quartier d'Athkatla et vous demande de l'aide.",
         "urls": [
             "https://arcanecoast.ru/forum/viewtopic.php?f=31&t=1773",
@@ -47090,7 +47097,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-06",
         "tp2": "NWNForBG"
     },
     {
@@ -48731,10 +48738,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-06",
         "tp2": "SearchGuild"
     },
     {
@@ -49042,15 +49050,18 @@
             "Shohy"
         ],
         "team": [],
-        "notes": [],
-        "translation_state": "no",
+        "notes": [
+            "La traduction française a été effectuée par IA."
+        ],
+        "translation_state": "todo",
         "safe": 2,
         "languages": [
             "en",
-            "cn"
+            "cn",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-06",
         "tp2": "BardSong_BGEE_IWD"
     },
     {
@@ -49080,7 +49091,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-06",
         "tp2": "DetailedDescription"
     },
     {
@@ -49440,7 +49451,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "OphysiaBG1"
     },
     {
@@ -50248,7 +50259,7 @@
             "en"
         ],
         "status": "missing",
-        "last_update": "2013-03",
+        "last_update": "2014-12",
         "tp2": "mwyvmtan"
     },
     {
@@ -53198,7 +53209,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2021-03",
+        "last_update": "2020-06",
         "tp2": "non-weidu"
     },
     {
@@ -53306,10 +53317,11 @@
         "languages": [
             "en",
             "de",
-            "cn"
+            "cn",
+            "es"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "ThroneoftheMadGod"
     },
     {
@@ -53683,7 +53695,7 @@
             "en"
         ],
         "status": "missing",
-        "last_update": "2006-06",
+        "last_update": "2006-08",
         "tp2": "SQUAREMOD"
     },
     {
@@ -53895,6 +53907,7 @@
             "Kit"
         ],
         "games": [
+            "BG2",
             "BGEE",
             "BG2EE",
             "BGT",
