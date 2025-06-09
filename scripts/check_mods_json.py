@@ -1,8 +1,5 @@
 import re
 
-from pydantic_core._pydantic_core import ValidationError
-
-from models import Mod
 from scripts.utils import ModManager
 from settings import language_flags
 
@@ -10,21 +7,15 @@ from settings import language_flags
 def main():
     mod_link = re.compile(r"\[\[([^\].]+)\]\]")
 
-    mods = ModManager.load()
+    mods = ModManager.get_mod_list()
 
     mod_names_founded = set()
-    mod_names = set(mod["name"] for mod in mods)
+    mod_names = set(mod.name for mod in mods)
     tp2s = set()
     urls_to_mod = dict()
     nb_warnings = 0
 
-    for mod_data in mods:
-        try:
-            mod = Mod(**mod_data)
-        except ValidationError as e:
-            print(f"🔴 {mod_data['name']} : Erreur de validation")
-            raise e
-
+    for mod in mods:
         # check links
         for text in [mod.description] + mod.notes:
             links = mod_link.findall(text)

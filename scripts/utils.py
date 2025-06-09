@@ -25,6 +25,10 @@ class ModManager:
         with open(cls.db_path() / cls.mod_filename, "w", encoding="utf-8") as f:
             json.dump(mods, f, indent=4, ensure_ascii=False)
 
+    @classmethod
+    def get_mod_list(cls) -> list[Mod]:
+        return [Mod(**mod) for mod in cls.load()]
+
 
 class CleanModMixin:
     def __init__(self, data: dict):
