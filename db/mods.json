@@ -2500,7 +2500,7 @@
         ],
         "status": "active",
         "last_update": "2023-11",
-        "tp2": "Askaria;ChaosKnight"
+        "tp2": "Askaria"
     },
     {
         "name": "Assassinations",
@@ -5391,7 +5391,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Better Spell visual",
+        "name": "Better Spell Visuals",
         "description": "Ce petit mod rend les effets visuels de divers sorts (en particulier les sorts d'abjuration comme Déviation des sorts et Renvoi des sorts, etc.) plus uniformes, moins vrillant pour les yeux, et plus facilement identifiables.",
         "urls": [
             "https://github.com/subtledoctor/Better-Spell-Visuals"
@@ -5419,7 +5419,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-08",
+        "last_update": "2021-07",
         "tp2": "better_spell_visuals"
     },
     {
@@ -6920,7 +6920,7 @@
         ],
         "status": "active",
         "last_update": "2024-06",
-        "tp2": "ChanterKit;A7ChanterKit"
+        "tp2": "ChanterKit"
     },
     {
         "name": "The Chaos Sorcerer: A Wild Magic Kit for Sorcerers",
@@ -31019,7 +31019,7 @@
     },
     {
         "name": "Subtledoc's Random Tweaks",
-        "description": "Il s'agit d'une collection de petits ajustements de sorts, d'objets ou de créatures réalisés par subtledoctor pour les jeux EE. Certains, mais très peu, sont retro-compatibles avec les jeux originaux (comme Ajouter un jet de sauvegarde pour les effets d'absorption de niveau) Chaque composant peut être installé indépendamment.|N'hésitez pas à consulter le <a href=\"http://htmlpreview.github.io/?https://github.com/subtledoctor/d5_Random_Tweaks/blob/master/d5_random_tweaks/readme-d5_random_tweaks.html\">readme</a> pour prendre connaissance de chacun d'eux.",
+        "description": "Il s'agit d'une collection de petits ajustements de sorts, d'objets ou de créatures réalisés par subtledoctor pour les jeux EE. Certains, mais très peu, sont retro-compatibles avec les jeux originaux (comme Ajouter un jet de sauvegarde pour les effets d'absorption de niveau). Chaque composant peut être installé indépendamment.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/31133-subtledocs-random-tweaks/"
         ],
@@ -37068,7 +37068,8 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Kwiat_W"
@@ -37077,11 +37078,14 @@
             "Galathée"
         ],
         "notes": [
-            "Le lien github propose la dernière version compatible avec les versions 2.6"
+            "Le lien github propose la dernière version compatible avec les versions 2.6 et EET."
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2023-12",
         "tp2": "w_packmule"
@@ -47207,7 +47211,8 @@
         "description": "Ce mod permet grâce à un sort de Souhait ou de Souhait mineur, de se téléporter dans une zone déjà visitée.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38986-revisit-the-old-haunt-v01-teleporting-to-areas-youve-already-visited/",
-            "https://github.com/shohysie/RevisitOldHaunt"
+            "https://github.com/shohysie/RevisitOldHaunt",
+            "https://github.com/The-Gate-Project/RevisitOldHaunt"
         ],
         "categories": [
             "Sort et objet"
@@ -47224,7 +47229,8 @@
             "JohnBob"
         ],
         "notes": [
-            "Contrairement à [[Teleport Spell]] il permet de se téléporter y compris dans les zones ajoutées par des mods."
+            "Contrairement à [[Teleport Spell]] il permet de se téléporter y compris dans les zones ajoutées par des mods.",
+            "Le second lien github comporte la traduction française qui n'a pas encore été acceptée par l'auteur."
         ],
         "translation_state": "yes",
         "safe": 2,
