@@ -1,11 +1,9 @@
-from json import load as json_load
 from os import sep as os_sep
 from pathlib import Path
 
-# import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
 
-from models import Mod
+from scripts.utils import ModManager
 from settings import CategoryEnum, GameEnum, attrs_icon_data, resize_image_from_width
 
 
@@ -18,19 +16,14 @@ def main():
     )
 
     root = Path.cwd()
-    with open(root / "db" / "mods.json", "r", encoding="utf-8") as f:
-        mods = json_load(f)
-    # with open("mods.yaml", "r") as f:
-    #     mods = yaml.safe_load(f)
+    mods = ModManager.get_mod_list()
 
-    mods.sort(key=lambda x: x["name"].lower())
+    mods.sort(key=lambda x: x.name.lower())
 
     resize_image_from_width(24)
 
     categories_mod = {cat: list() for cat in CategoryEnum}
-    for mod_json in mods:
-        mod = Mod(**mod_json)
-
+    for mod in mods:
         for category in mod.categories:
             categories_mod[category].append(mod)
 
