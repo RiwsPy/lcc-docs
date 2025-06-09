@@ -2500,7 +2500,7 @@
         ],
         "status": "active",
         "last_update": "2023-11",
-        "tp2": "Askaria"
+        "tp2": "Askaria;ChaosKnight"
     },
     {
         "name": "Assassinations",
@@ -2574,7 +2574,7 @@
         "name": "Au bonheur du tireur",
         "description": "C'est un marchand sur la promenade de Waukyne qui vend tout ce qui sert à tuer à distance (arc, arbalète, fronde, fléchettes, dagues de jet, haches de jet, et un bon paquet de munitions variées venant de BG2 et IWD)",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?f=749&p=506162",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=33754",
             "https://github.com/Deratiseur/Archery",
             "https://app.mediafire.com/depaqus3ma8bt"
         ],
@@ -5699,6 +5699,7 @@
         "name": "Black Rose Part I: Market Prices",
         "description": "Ce mod ajoute une quête initiée par le magicien Menelaun, dans l'auberge des Sept Vaux, sur la Promenade de Waukyne.",
         "urls": [
+            "http://baldur.cob-bg.pl/bg2-mody?pg=3",
             "https://baldur.cob-bg.pl/download/bg2/quests/MarketPrices.zip"
         ],
         "categories": [
@@ -10804,8 +10805,9 @@
     },
     {
         "name": "EE Keeper",
-        "description": "Cet utilitaire vous permet d'éditer vos sauvegardes des jeux EE.|Vous trouverez sa procédure d'installation et de paramétrage <a href=\"https://www.baldursgateworld.fr/viewtopic.php?t=26750\">ici</a>.",
+        "description": "Cet utilitaire vous permet d'éditer vos sauvegardes des jeux EE.",
         "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=26750",
             "https://sourceforge.net/projects/eekeeper/"
         ],
         "categories": [
@@ -17382,7 +17384,8 @@
         "description": "Suivante de Sunie Cheveux-de-flamme, déité chaotique, Isra est une paladine atypique dans le sens où elle fréquente de nombreuses maisons empruntes d'une certaine gaieté et manque de ce fait de la gravité classique propre à cette classe de personnage. Comme tous les paladins, elle tient en haute estime tout ce qui touche à l'honneur, à la discipline et à l'ordre, mais elle tend à estimer davantage le code de conduite de sa classe que les exigences de sa déesse. De ce fait, elle sera plus laxiste envers certains comportements chaotiques. Une voie de l'amitié est possible et quelques flirts sont également disponibles. Sa romance est prévue, mais dans BG2. Isra dispose de contenu supplémentaire si BG:EE est installé (banters).|FOR 16, DEX 12, CON 16, INT 13, SAG 14, CHA 17.",
         "urls": [
             "http://www.shsforums.net/files/file/1042-isra/",
-            "https://github.com/Spellhold-Studios/Isra-NPC"
+            "https://github.com/Spellhold-Studios/Isra-NPC",
+            "https://github.com/11jo/Isra-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -17401,14 +17404,15 @@
             "Streen"
         ],
         "notes": [
-            "La traduction française est disponible <a href='https://www.baldursgateworld.fr/viewtopic.php?t=34887'>ici</a>."
+            "Choisissez le dernier lien github pour la version française pas encore acceptée par l'auteur."
         ],
-        "translation_state": "wip",
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
             "ru",
-            "it"
+            "it",
+            "fr"
         ],
         "status": "active",
         "last_update": "2024-12",
@@ -41072,7 +41076,7 @@
         "name": "Illo le tatoueur",
         "description": "Un marchand qui vend près d'une centaine de tatouages à usage unique qui fonctionnent comme des tomes, mais en version ++.|Vous vous rappelez des tatouages de PST ? Il y a les mêmes, et plein d'autres.",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?f=749&p=511191",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34267",
             "https://forums.beamdog.com/discussion/88006/",
             "https://github.com/Deratiseur/Tatoos",
             "https://app.mediafire.com/depaqus3ma8bt"
@@ -41342,7 +41346,7 @@
         "name": "Imoen Friendship",
         "description": "Ce mod ajoute une série de dialogues avec Imoen, la soeur du PJ, développant son vécu et les luttes d'Imoen.",
         "urls": [
-            "https://www.spellholdstudios.net/ie/imoenfriendship",
+            "https://www.shsforums.net/files/file/901-imoen-friendship-soa-tob/",
             "https://github.com/Spellhold-Studios/Imoen-Friendship"
         ],
         "categories": [
@@ -52917,7 +52921,7 @@
     },
     {
         "name": "Need a Shuriken ?",
-        "description": "Ce mod ajoute 3 types de shurikens dans le jeu. À appeler via la console ou EEkeeper.",
+        "description": "Ce mod ajoute 3 types de shurikens dans le jeu. À appeler via la console ou [[EE Keeper]].",
         "urls": [
             "https://forums.beamdog.com/discussion/15002"
         ],
@@ -52969,7 +52973,7 @@
     },
     {
         "name": "Infinite Spells",
-        "description": "Ce livre à se donner à la console ou avec EEkeeper permet de lancer n'importe quel sort arcanique ou clerical à volonté ou de se donner des capacités telles que Enchaînement, UAI ou Kaï permanentes.",
+        "description": "Ce livre à se donner à la console ou avec [[EE Keeper]] permet de lancer n'importe quel sort arcanique ou clerical à volonté ou de se donner des capacités telles que Enchaînement, UAI ou Kaï permanentes.",
         "urls": [
             "https://forums.beamdog.com/discussion/75309"
         ],
