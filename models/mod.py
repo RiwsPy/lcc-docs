@@ -11,6 +11,7 @@ from models.utils import slugify
 from settings import CategoryEnum, GameEnum, attrs_icon_data, language_translate
 
 link_regex = re.compile(r"\[\[[^].]+\]\]")
+external_link_regex = re.compile(r"\[(?P<name>[^\]]+)\]\((?P<url>[^)]+)\)")
 quote_regex = re.compile(r"`[^`]+`")
 YearMonthFormat = Annotated[str, StringConstraints(pattern=r"^(\d{4}-\d{2})?$")]
 
@@ -110,6 +111,11 @@ class Mod:
             mod_name = link.strip("[] ")
             linked_txt = linked_txt.replace(
                 link, f'<a href="#{slugify(mod_name)}">{mod_name}</a>'
+            )
+        for link in external_link_regex.findall(linked_txt):
+            name, url = link
+            linked_txt = linked_txt.replace(
+                f"[{name}]({url})", f'<a href="{url}" target="_blank">{name}</a>'
             )
 
         return linked_txt
