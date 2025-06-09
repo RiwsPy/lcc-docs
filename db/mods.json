@@ -25,7 +25,7 @@
     },
     {
         "name": "3.5e Pathfinder Thac0 Progression",
-        "description": "Ce mini mod modifie la table de progression des TAC0 pour correspondre à celles de A&D 3.5e et Pathfinder. Celle des guerriers reste inchangée, mais celles des voleurs et des prêtres avancent d'un point par niveau pendant 3 niveaux, puis restent stables le niveaux suivant, et ainsi de suite, jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). Celle des mages avance maintenant de 1 tous les deux niveaux jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). La table THAC0.2da s'étend jusqu'au niveau 50. Nouvelle table <a href=\"https://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29456\">ici</a>.",
+        "description": "Ce mini mod modifie la table de progression des TAC0 pour correspondre à celles de A&D 3.5e et Pathfinder. Celle des guerriers reste inchangée, mais celles des voleurs et des prêtres avancent d'un point par niveau pendant 3 niveaux, puis restent stables le niveaux suivant, et ainsi de suite, jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). Celle des mages avance maintenant de 1 tous les deux niveaux jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). La table THAC0.2da s'étend jusqu'au niveau 50. Nouvelle table [ici](https://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29456).",
         "urls": [
             "https://www.shsforums.net/files/file/1172-35epathfinder-thac0-progression/"
         ],
@@ -112,7 +112,7 @@
     },
     {
         "name": "5E Spellcasting",
-        "description": "Ce mod a pour ambition de remplacer les mécanismes de lancement de sorts des jeux IE par les règles de D&D 5e (lancement de sort\" \"semi-instantané\" ). Plus d'informations <a href=\"https://github.com/UnearthedArcana/5E_spellcasting/blob/master/README.md\" i=\"\">ici</a>",
+        "description": "Ce mod a pour ambition de remplacer les mécanismes de lancement de sorts des jeux IE par les règles de D&D 5e (lancement de sort \"semi-instantané\" ). Plus d'informations [ici](https://github.com/UnearthedArcana/5E_spellcasting/blob/master/README.md).",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32551-5e-spellcasting-rules-conversion/",
             "https://github.com/UnearthedArcana/5E_spellcasting/"
@@ -2020,7 +2020,7 @@
     },
     {
         "name": "Archive of Icendoan",
-        "description": "Ce mod regroupe 3 petits mods créés par Icendoan :|- <a href=\"https://www.shsforums.net/files/file/725-elemental-damage-only-stoneskin/\">#!Stoneskin</a> (Elemental Damage Only) : applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles.|- #!Lightening : un composant délire qui installe une baguette se comportant comme un sac de contenance... ET oui, les fautes d'orthographe, ça craint...|- #!Brage ([[Brage's Penance]]) : ajoute Brage comme PNJ recrutable dans BG. Il est complètement silencieux, mais a une petite quête. Ce mod a été créé en 40 minutes pour fêter le 10e anniversaire de BG1.",
+        "description": "Ce mod regroupe 3 petits mods créés par Icendoan :|- [#!Stoneskin](https://www.shsforums.net/files/file/725-elemental-damage-only-stoneskin/) (Elemental Damage Only) : applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles.|- #!Lightening : un composant délire qui installe une baguette se comportant comme un sac de contenance... ET oui, les fautes d'orthographe, ça craint...|- #!Brage ([[Brage's Penance]]) : ajoute Brage comme PNJ recrutable dans BG. Il est complètement silencieux, mais a une petite quête. Ce mod a été créé en 40 minutes pour fêter le 10e anniversaire de BG1.",
         "urls": [
             "https://www.shsforums.net/files/file/726-archive-of-icendoan/"
         ],
@@ -2984,7 +2984,7 @@
     },
     {
         "name": "AutoDescription",
-        "description": "AutoDescription est un mod, pour BG2, BGT, BGEE, BG2EE et EET, développé sur La Couronne de Cuivre, qui génère et remplace automatiquement la description \"technique\" des objets et des sortilèges.||Cela comporte plusieurs avantages:|- Les descriptions sont normalisées, ce qui les rend plus facile à lire- La description s'adapte aux éventuelles modifications réalisées par les mods et les harmonise avec le reste du jeu- En comparant les descriptions avant/après, on peut détecter d'éventuels bugs, erreurs ou incompatibilités entre mods et sur le jeu de base.- Si des mods non-traduits sont installés, les statistiques des objets de ces mods seront automatiquement traduites et harmonisées.||À l'origine, ce mod a été pensé pour être utilisé par les joueurs, en étant installé après tous les mods ajoutant ou altérant des objets.En effet, AutoDescription s'adapte à tous les mods installés par l'utilisateur, si les capacités de certains objets sont altérées, celles-ci seront mises à jour afin que leur description corresponde à la réalité et dans votre langue d'origine.||<a href=\"https://github.com/Selphira/AutoDescription/blob/master/readme.md\">En pratique, il s'avère qu'AutoDescription peut aussi être utilisé dans le développement de mods, à divers niveaux...</a>||Côté traducteurs, il permet de traduire automatiquement les statistiques contenues dans les descriptions de la plupart des objets, évitant ainsi une tâche souvent pénible et redondante.||Côté développeurs, il peut mettre en évidence certains problèmes, incohérences ou bugs dans les objets en traduisant les effets avec fiabilité. A cet effet, quelques erreurs et avertissements sont remontés dans un fichier de log. Le mod n'étant pas destiné à cela à la base, la liste des erreurs remontées par ce biais est encore faible, mais elle s'étoffera au fil du temps.",
+        "description": "AutoDescription est un mod, pour BG2, BGT, BGEE, BG2EE et EET, développé sur La Couronne de Cuivre, qui génère et remplace automatiquement la description \"technique\" des objets et des sortilèges.||Cela comporte plusieurs avantages:|- Les descriptions sont normalisées, ce qui les rend plus facile à lire- La description s'adapte aux éventuelles modifications réalisées par les mods et les harmonise avec le reste du jeu- En comparant les descriptions avant/après, on peut détecter d'éventuels bugs, erreurs ou incompatibilités entre mods et sur le jeu de base.- Si des mods non-traduits sont installés, les statistiques des objets de ces mods seront automatiquement traduites et harmonisées.||À l'origine, ce mod a été pensé pour être utilisé par les joueurs, en étant installé après tous les mods ajoutant ou altérant des objets.En effet, AutoDescription s'adapte à tous les mods installés par l'utilisateur, si les capacités de certains objets sont altérées, celles-ci seront mises à jour afin que leur description corresponde à la réalité et dans votre langue d'origine.||[En pratique, il s'avère qu'AutoDescription peut aussi être utilisé dans le développement de mods, à divers niveaux...](https://github.com/Selphira/AutoDescription/blob/master/readme.md)||Côté traducteurs, il permet de traduire automatiquement les statistiques contenues dans les descriptions de la plupart des objets, évitant ainsi une tâche souvent pénible et redondante.||Côté développeurs, il peut mettre en évidence certains problèmes, incohérences ou bugs dans les objets en traduisant les effets avec fiabilité. A cet effet, quelques erreurs et avertissements sont remontés dans un fichier de log. Le mod n'étant pas destiné à cela à la base, la liste des erreurs remontées par ce biais est encore faible, mais elle s'étoffera au fil du temps.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33168",
             "https://github.com/Selphira/AutoDescription"
@@ -3462,7 +3462,7 @@
     },
     {
         "name": "BG1 NPCs at Beginning",
-        "description": "Ce mod français rapproche 11 PNJ éloignés de la route directe vers Nashkel (Ajantis, Alora, Coran, Eldoth, Faldorn, Kivan, Quayle, Safana, Shar-Teel, Tiax, Viconia) pour faciliter leur recrutement au début du jeu afin de pouvoir davantage varier les équipes. Vous trouverez plus de détails <a href=\"http://www.anomaly-studios.fr/mods/bg1npcbeg/lisezmoi.html\">ici</a>.|Si vous souhaitez installer [[The BG1NPC Project]], [[Sword Coast Stratagems]] et/ou [[The Tweaks Anthology]], veuillez installer ces modules avant BG1 NPCs at Beginning. Cela évitera à ce dernier de vous proposer de déplacer des PNJ qui ont déjà été déplacés par un de ces 3 mods avant lui, si vous avez choisi de le faire.",
+        "description": "Ce mod français rapproche 11 PNJ éloignés de la route directe vers Nashkel (Ajantis, Alora, Coran, Eldoth, Faldorn, Kivan, Quayle, Safana, Shar-Teel, Tiax, Viconia) pour faciliter leur recrutement au début du jeu afin de pouvoir davantage varier les équipes. Vous trouverez plus de détails [ici](http://www.anomaly-studios.fr/mods/bg1npcbeg/lisezmoi.html).|Si vous souhaitez installer [[The BG1NPC Project]], [[Sword Coast Stratagems]] et/ou [[The Tweaks Anthology]], veuillez installer ces modules avant BG1 NPCs at Beginning. Cela évitera à ce dernier de vous proposer de déplacer des PNJ qui ont déjà été déplacés par un de ces 3 mods avant lui, si vous avez choisi de le faire.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=24228",
             "http://www.anomaly-studios.fr/mods/"
@@ -4874,7 +4874,7 @@
         ],
         "team": [],
         "notes": [
-            "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[Never Ending Journey]] et/ou [[Tortured Souls-BP]]. Dans ce cas, téléchargez le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et [[berelinde's Keldorn Romance]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+            "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[Never Ending Journey]] et/ou [[Tortured Souls-BP]]. Dans ce cas, téléchargez le mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et [[berelinde's Keldorn Romance]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -5545,7 +5545,7 @@
     },
     {
         "name": "Big World Setup FR",
-        "description": "Développé par Selphira sur votre forum préféré, BWS-FR est un fork du défunt <a href=\"https://github.com/BigWorldSetup/BigWorldSetup\">Big World Setup</a> spécialisé dans l'installation des mods traduits en Français et compatibles avec BGT (il installe aussi certains mods anglais qui n'ajoutent pas de texte dans le jeu).|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative fonctionnelle à l'outil Project Infinity, toujours en phase de développement, dont l'utilisation est pour le moins peu intuitive et qui est encore très loin d'être au point.|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter.|- Il applique des corrections sur certains mods.|Vous pouvez consultez le <a href=\"https://www.baldursgateworld.fr/viewforum.php?f=757\">Forum dédié</a> pour de plus ample informations et accéder aux Guides d'utilisation.",
+        "description": "Développé par Selphira sur votre forum préféré, BWS-FR est un fork du défunt [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) spécialisé dans l'installation des mods traduits en Français et compatibles avec BGT (il installe aussi certains mods anglais qui n'ajoutent pas de texte dans le jeu).|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative fonctionnelle à l'outil Project Infinity, toujours en phase de développement, dont l'utilisation est pour le moins peu intuitive et qui est encore très loin d'être au point.|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter.|- Il applique des corrections sur certains mods.|Vous pouvez consultez le [Forum dédié](https://www.baldursgateworld.fr/viewforum.php?f=757) pour de plus ample informations et accéder aux Guides d'utilisation.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33140",
             "https://github.com/Selphira/BigWorldSetupFR"
@@ -5648,7 +5648,7 @@
             "JohnBob"
         ],
         "notes": [
-            "Remarque importante :|Parce que le mod change nécessairement le timing et l'histoire, Baeloth ne pourra pas rejoindre votre groupe si vous décidez de vous rendre aux Fosses noires.|Il disparaîtra donc de la campagne BG1 et ne pourra pas rejoindre Charname dans la campagne de Siege of Dragonspear, pas plus que M'Khiin la gobline shaman.|<a href=\"https://github.com/UnearthedArcana/BP_in_BG/blob/master/README.French.md\">Voir le readme pour les détails du mod....</a>"
+            "Remarque importante :|Parce que le mod change nécessairement le timing et l'histoire, Baeloth ne pourra pas rejoindre votre groupe si vous décidez de vous rendre aux Fosses noires.|Il disparaîtra donc de la campagne BG1 et ne pourra pas rejoindre Charname dans la campagne de Siege of Dragonspear, pas plus que M'Khiin la gobline shaman.|[Voir le readme pour les détails du mod....](https://github.com/UnearthedArcana/BP_in_BG/blob/master/README.French.md)"
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -7245,7 +7245,7 @@
     },
     {
         "name": "Sequencer Memory",
-        "description": "Ce petit script permet au joueur de se rappeler ce qu'il a enregistré dans ses séquenceurs et déclencheurs de sorts.|Veuillez consulter le <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-sequencer_memory.html\">readme</a> pour plus détails.",
+        "description": "Ce petit script permet au joueur de se rappeler ce qu'il a enregistré dans ses séquenceurs et déclencheurs de sorts.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-sequencer_memory.html) pour plus détails.",
         "urls": [
             "https://www.gibberlings3.net/files/file/882-cirerreks-ai-scripts-sequencer-memory/"
         ],
@@ -7278,7 +7278,7 @@
     },
     {
         "name": "Cirerrek's AI Scripts: eSeries",
-        "description": "|Il s'agit d'une collection de scripts d'IA pour Baldur's Gate II avec ou sans l'extension ToB, BG:EE, BG2:EE, et les conversions Tutu, BGT, et EET. Elle comprend sept scripts : eArcher, eFighter, eMage, eMulti, ePriest, ePureF et eThief, adaptés à des classes de personnages spécifiques.|Veuillez consulter le <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-eseries.html\">readme</a> pour plus détails.",
+        "description": "|Il s'agit d'une collection de scripts d'IA pour Baldur's Gate II avec ou sans l'extension ToB, BG:EE, BG2:EE, et les conversions Tutu, BGT, et EET. Elle comprend sept scripts : eArcher, eFighter, eMage, eMulti, ePriest, ePureF et eThief, adaptés à des classes de personnages spécifiques.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-eseries.html) pour plus détails.",
         "urls": [
             "https://www.gibberlings3.net/files/file/708-cirerreks-ai-scripts-eseries/"
         ],
@@ -7310,7 +7310,7 @@
     },
     {
         "name": "gMinion",
-        "description": "Il s'agit d'une collection de scripts d'IA qui améliorent l'intelligence des créatures invoquées par les sorts et les objets, de sorte qu'elles se comportent plus en accord avec les intentions originales de Bioware et de plus de puristes joueurs D&D. Elle comprend :|- des fichiers BCS (Baldurs Character Script) qui remplacent les fichiers BCS en jeu.|- des scripts BCS qui remplacent les invocations alliées.|- des fichiers auxiliaires qui corrigent les problèmes avec les créatures et les sorts (fichiers CRE et SPL).|Remarque : L'IA ne s'applique qu'aux monstres du groupe et n'augmente pas l'intelligence des créatures \"sauvages\" ou ennemies.|Veuillez consulter le <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-gminion.html\">readme</a> pour plus détails.",
+        "description": "Il s'agit d'une collection de scripts d'IA qui améliorent l'intelligence des créatures invoquées par les sorts et les objets, de sorte qu'elles se comportent plus en accord avec les intentions originales de Bioware et de plus de puristes joueurs D&D. Elle comprend :|- des fichiers BCS (Baldurs Character Script) qui remplacent les fichiers BCS en jeu.|- des scripts BCS qui remplacent les invocations alliées.|- des fichiers auxiliaires qui corrigent les problèmes avec les créatures et les sorts (fichiers CRE et SPL).|Remarque : L'IA ne s'applique qu'aux monstres du groupe et n'augmente pas l'intelligence des créatures \"sauvages\" ou ennemies.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-gminion.html) pour plus détails.",
         "urls": [
             "https://www.gibberlings3.net/files/file/717-cirerreks-ai-scripts-gminion/"
         ],
@@ -7342,7 +7342,7 @@
     },
     {
         "name": "Cirerrek's AI Scripts: iSeries (beta)",
-        "description": "Il s'agit d'une collection de scripts d'IA en version bêta pour Icewind Dale II. Ils n'utilisent encore qu'un nombre limité de sorts. Utilisez iBard pour les bardes, iArcher pour les mages, iFighter pour les types combattants ou les clercs et iThief pour les voleurs.|Veuillez consulter le <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-iseries.html\">readme</a> pour plus détails.",
+        "description": "Il s'agit d'une collection de scripts d'IA en version bêta pour Icewind Dale II. Ils n'utilisent encore qu'un nombre limité de sorts. Utilisez iBard pour les bardes, iArcher pour les mages, iFighter pour les types combattants ou les clercs et iThief pour les voleurs.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-iseries.html) pour plus détails.",
         "urls": [
             "https://www.gibberlings3.net/files/file/720-cirerreks-ai-scripts-iseries/"
         ],
@@ -7368,7 +7368,7 @@
     },
     {
         "name": "Cirerrek's AI Scripts: tSeries",
-        "description": "Comme les eSeries pour BG2, tSeries est une collection de scripts d'IA pour Planescape: Torment, inspirés par la documentation \"<i>Planescape: Torment Player AI Scripts</i>\" de Gebhard Blucher's.|Cependant, les commandes de script de Planescape : Torment sont très limitées en comparaison avec  celles des jeux IE les plus récents, mais elles permettent toujours l'automatisation de certaines tâches, comme le lancement de sorts, l'utilisation d'objets, l'attaque et la dissimulation dans l'ombre. Les scripts ciblent l'ennemi le plus proche et l'attaquent par tous les moyens qu'ils ont à leur disposition et qu'ils jugent appropriés, en fonction des points d'expérience de l'ennemi le plus proche.|Veuillez consulter le <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-tseries.html\">readme</a> pour plus détails.",
+        "description": "Comme les eSeries pour BG2, tSeries est une collection de scripts d'IA pour Planescape: Torment, inspirés par la documentation \"<i>Planescape: Torment Player AI Scripts</i>\" de Gebhard Blucher's.|Cependant, les commandes de script de Planescape : Torment sont très limitées en comparaison avec  celles des jeux IE les plus récents, mais elles permettent toujours l'automatisation de certaines tâches, comme le lancement de sorts, l'utilisation d'objets, l'attaque et la dissimulation dans l'ombre. Les scripts ciblent l'ennemi le plus proche et l'attaquent par tous les moyens qu'ils ont à leur disposition et qu'ils jugent appropriés, en fonction des points d'expérience de l'ennemi le plus proche.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-tseries.html) pour plus détails.",
         "urls": [
             "https://www.gibberlings3.net/files/file/892-cirerreks-ai-scripts-tseries/"
         ],
@@ -7395,7 +7395,7 @@
     },
     {
         "name": "Cirerrek's AI Scripts: uScript",
-        "description": "uScript ou \"Universal\" Script est un script d'IA pour joueur de BG2 SoA & ToB créé par Rich Martel. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le <a href=\"https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html\">readme</a> pour plus détails.",
+        "description": "uScript ou \"Universal\" Script est un script d'IA pour joueur de BG2 SoA & ToB créé par Rich Martel. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) pour plus détails.",
         "urls": [
             "https://www.gibberlings3.net/files/file/894-cirerreks-ai-scripts-uscript/"
         ],
@@ -8124,7 +8124,7 @@
     },
     {
         "name": "Correction de la traduction de BG2:EE",
-        "description": "Ce mod a pour objectif de corriger la traduction française de Baldur's Gate II : Enhanced Edition, ainsi que de proposer une version française complète digne de ce nom, aussi bien au niveau des textes que du doublage audio.|Il reprend les textes, les vidéos et le doublage audio de Baldur's Gate 2 et du [[Mod semi-officiel de traduction partielle de BG2:EE]] comme base. Ceux-ci ont été fusionnés avec la traduction officielle du patch 2.6 pour la partie manquante du contenu Enhanced Edition et le Patch correctif des textes pour Baldur's Gate 2 (et ToB).|À cela s'ajoutent des dizaines de milliers de correctifs supplémentaires des textes, du doublage audio et des bogues. Ainsi que quelques ajouts comme les ensembles de voix de BG1 en français, des répliques doublées supplémentaires, etc.|Ce mod vous offre également 3 options au sujet du doublage vidéo et audio (VF / VF + VO / VO). Pour plus de précisions, consultez le <a href=\"https://r-e-d.github.io/correctfrBG2EE/correctfrbg2ee/readme/readme-correctfrbg2ee.html\">readme</a>.",
+        "description": "Ce mod a pour objectif de corriger la traduction française de Baldur's Gate II : Enhanced Edition, ainsi que de proposer une version française complète digne de ce nom, aussi bien au niveau des textes que du doublage audio.|Il reprend les textes, les vidéos et le doublage audio de Baldur's Gate 2 et du [[Mod semi-officiel de traduction partielle de BG2:EE]] comme base. Ceux-ci ont été fusionnés avec la traduction officielle du patch 2.6 pour la partie manquante du contenu Enhanced Edition et le Patch correctif des textes pour Baldur's Gate 2 (et ToB).|À cela s'ajoutent des dizaines de milliers de correctifs supplémentaires des textes, du doublage audio et des bogues. Ainsi que quelques ajouts comme les ensembles de voix de BG1 en français, des répliques doublées supplémentaires, etc.|Ce mod vous offre également 3 options au sujet du doublage vidéo et audio (VF / VF + VO / VO). Pour plus de précisions, consultez le [readme](https://r-e-d.github.io/correctfrBG2EE/correctfrbg2ee/readme/readme-correctfrbg2ee.html).",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33428",
             "https://github.com/r-e-d/correctfrBG2EE"
@@ -8155,7 +8155,7 @@
     },
     {
         "name": "Correction de la traduction de BG:EE et SoD",
-        "description": "Ce mod a pour objectif de corriger la traduction française de Baldur's Gate : Enhanced Edition et extension Siege of Dragonspear, afin que de proposer une version française complète digne de ce nom, aussi bien au niveau des textes que du doublage audio.|Il reprend les textes, les vidéos et le doublage audio de Baldur's Gate 1 et du [[Mod semi-officiel de traduction partielle de BG2:EE]] comme base. Ceux-ci ont été fusionnés avec la traduction officielle du patch 2.6 pour la partie manquante du contenu Enhanced Edition et le Patch correctif des textes pour Baldur's Gate 2 (et ToB) et le [[Patch correctif des erreurs de texte pour BG (et ToSC)]].|À cela s'ajoutent des dizaines de milliers de correctifs supplémentaires des textes, du doublage audio et des bogues. Ainsi que quelques ajouts comme les ensembles de voix de BG2 en français, des répliques doublées supplémentaires, etc.|Ce mod vous offre également 3 options au sujet du doublage vidéo et audio (VF / VF + VO / VO). Pour plus de précisions, consultez le <a href=\"https://github.com/r-e-d/correctfrBG1EE#readme\">readme</a>.",
+        "description": "Ce mod a pour objectif de corriger la traduction française de Baldur's Gate : Enhanced Edition et extension Siege of Dragonspear, afin que de proposer une version française complète digne de ce nom, aussi bien au niveau des textes que du doublage audio.|Il reprend les textes, les vidéos et le doublage audio de Baldur's Gate 1 et du [[Mod semi-officiel de traduction partielle de BG2:EE]] comme base. Ceux-ci ont été fusionnés avec la traduction officielle du patch 2.6 pour la partie manquante du contenu Enhanced Edition et le Patch correctif des textes pour Baldur's Gate 2 (et ToB) et le [[Patch correctif des erreurs de texte pour BG (et ToSC)]].|À cela s'ajoutent des dizaines de milliers de correctifs supplémentaires des textes, du doublage audio et des bogues. Ainsi que quelques ajouts comme les ensembles de voix de BG2 en français, des répliques doublées supplémentaires, etc.|Ce mod vous offre également 3 options au sujet du doublage vidéo et audio (VF / VF + VO / VO). Pour plus de précisions, consultez le [readme](https://github.com/r-e-d/correctfrBG1EE#readme).",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33797",
             "https://github.com/r-e-d/correctfrBG1EE"
@@ -9690,7 +9690,7 @@
     },
     {
         "name": "Dimension Gate: Or How TV Bunny searched TV Remote Control",
-        "description": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doir être installé conjointement avec le mod <a href=\"https://www.shsforums.net/files/file/1271-spellfix-visual-effects/\">SpellFix Visual Effects</a>.",
+        "description": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doir être installé conjointement avec le mod [SpellFix Visual Effects](https://www.shsforums.net/files/file/1271-spellfix-visual-effects/).",
         "urls": [
             "https://www.shsforums.net/files/file/1272-dimension-gate-or-how-tv-bunny-searched-tv-remote-control/",
             "https://github.com/Endarire/Dimension-Gate-for-BG2"
@@ -10195,7 +10195,7 @@
     },
     {
         "name": "Dragonspear UI++",
-        "description": "Anciennement SoD GUI Overhaul, ce mod réalisé par Pecca réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais.||- La <a href=\"https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit\">version d'Anongit</a>, basée sur celle de Pecca / Renegade, elle se concentre sur la compatibilité avec EET et d'autres corrections.",
+        "description": "Anciennement SoD GUI Overhaul, ce mod réalisé par Pecca réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais.||- La [version d'Anongit](https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit), basée sur celle de Pecca / Renegade, elle se concentre sur la compatibilité avec EET et d'autres corrections.",
         "urls": [
             "https://forums.beamdog.com/discussion/50357/",
             "https://github.com/The-Gate-Project/French-Translation_For_Dragonspear-UI_Anongit/releases/tag/Anongit",
@@ -10218,7 +10218,7 @@
             "Shodead"
         ],
         "notes": [
-            "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour.",
+            "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt [GitHub](https://github.com/Renegade0/DragonspearUI/releases) n'est pas à jour.",
             "Le premier lien est compatible avec les BG(EE) et EET",
             "Le second lien est compatible avec IWDEE"
         ],
@@ -10843,7 +10843,7 @@
     },
     {
         "name": "Baldur's Gate: Enhanced Edition Trilogy Tweaks",
-        "description": "Ce mod propose une collection d'ajustements pour les jeux IE. Bien que conçus à l'origine pour EET, certains de ces composants sont universels et peuvent fonctionner avec BG1, BG2, IWD, IWD2, Tutu, BGT, CA, IWD-in-BG2, BG:EE, BG2:EE et IWD:EE.|Il permet entre autres d'harmoniser l'apparence des PNJ recrutables pendant la trilogie ou de modifier la limitation d'XP. Lisez bien le <a href=\"http://htmlpreview.github.io/?https://github.com/K4thos/EET_Tweaks/blob/master/EET_Tweaks/readme-EET_Tweaks.html\">readme</a> pour plus de détails.",
+        "description": "Ce mod propose une collection d'ajustements pour les jeux IE. Bien que conçus à l'origine pour EET, certains de ces composants sont universels et peuvent fonctionner avec BG1, BG2, IWD, IWD2, Tutu, BGT, CA, IWD-in-BG2, BG:EE, BG2:EE et IWD:EE.|Il permet entre autres d'harmoniser l'apparence des PNJ recrutables pendant la trilogie ou de modifier la limitation d'XP. Lisez bien le [readme](http://htmlpreview.github.io/?https://github.com/K4thos/EET_Tweaks/blob/master/EET_Tweaks/readme-EET_Tweaks.html) pour plus de détails.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27754-eet-tweaks-overview",
             "https://github.com/K4thos/EET_Tweaks"
@@ -11426,7 +11426,7 @@
     },
     {
         "name": "Emily, a Half-Elf Archer",
-        "description": "Emily est une femme noble originaire de Téthyr. Lasse des luttes politiques pour déterminer le prochain héritier de la maison Castella, elle est partie vers le nord pour retrouver sa mère biologique. Malheureusement, la fermeture de la route de Baldur's Gate et la présence de bandits l'ont poussée à rechercher un guide pour l'accompagner, en échange de ses compétences martiales. Elle peut être romancée.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Emily\">site de l'auteur</a>.",
+        "description": "Emily est une femme noble originaire de Téthyr. Lasse des luttes politiques pour déterminer le prochain héritier de la maison Castella, elle est partie vers le nord pour retrouver sa mère biologique. Malheureusement, la fermeture de la route de Baldur's Gate et la présence de bandits l'ont poussée à rechercher un guide pour l'accompagner, en échange de ses compétences martiales. Elle peut être romancée.|Plus d'informations sur le [site de l'auteur](https://skitias-stories.com/mods-view.php?name=Emily).",
         "urls": [
             "https://forums.beamdog.com/discussion/74672/",
             "https://github.com/Skitia/Emily-BG1"
@@ -12090,7 +12090,7 @@
     },
     {
         "name": "Expanded Classes and Kits",
-        "description": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[War Hulk Kit]], [[Universal Archer]], <a href='https://forums.beamdog.com/discussion/69127/shapeshifter-kit-for-fighters' target='_blank'>Shapeshifter</a>, <a href='https://forums.beamdog.com/discussion/76756/simplified-psionicist-kit' target='_blank'>Simplified Psionicist</a>, <a href='https://forums.beamdog.com/discussion/75696/sword-dancer-kit-for-fighters-paladins-and-monks' target='_blank'>Sword Dancer</a>.|- Paladins : [[Universal Archer]], Kensai.|- Moines : Kensai, Stalker, Assassin, <a href='https://forums.beamdog.com/discussion/76756/simplified-psionicist-kit' target='_blank'>Simplified Psionicist</a>, Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[Alchemist kit for mages]], [[Red soul and Green soul Kits]], <a href='https://forums.beamdog.com/discussion/77517/plasma-wizard-kit-infinite-lightning-bolts-and-fireballs' target='_blank'>Plasma Wizard</a>, War Mage.|- Sorciers : [[Red soul and Green soul Kits]].|- Clercs : Cleric/Druid, Seer.|- Druides : Seer.|- Voleurs : [[Seducer Kit for Thieves]], [[Universal Archer]], Kensai, <a href='https://forums.beamdog.com/discussion/74379/shapechanger-kit-for-thieves-v0-9' target='_blank'>Shapechanger</a>.|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief.",
+        "description": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[War Hulk Kit]], [[Universal Archer]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins : [[Universal Archer]], Kensai.|- Moines : Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[Alchemist kit for mages]], [[Red soul and Green soul Kits]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage.|- Sorciers : [[Red soul and Green soul Kits]].|- Clercs : Cleric/Druid, Seer.|- Druides : Seer.|- Voleurs : [[Seducer Kit for Thieves]], [[Universal Archer]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief.",
         "urls": [
             "https://forums.beamdog.com/discussion/77859/",
             "https://github.com/Endarire/SemiticsExpandedClasses"
@@ -12437,7 +12437,7 @@
             "mickabouille"
         ],
         "notes": [
-            "N'oubliez pas de bien lire le <a href=\"https://github.com/UnearthedArcana/Faiths_and_Powers/issues/136\">readme</a> avant de l'installer !"
+            "N'oubliez pas de bien lire le [readme](https://github.com/UnearthedArcana/Faiths_and_Powers/issues/136) avant de l'installer !"
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -12849,7 +12849,7 @@
     },
     {
         "name": "Flamewing's Tweaks",
-        "description": "Anciennement \"<a href=\"https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/\">Convenience Tweaks and Glaicas Fix</a>\", ce mod a été adapté aux jeux EE. Il s'agit d'une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants : Toujours gagner contre Aesgareth, Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse, Rendre la Machine de Lum le Fou plus facile à utiliser, Libérer plus facilement Glaicas de son charme, Les armes de jeu ne bénéficient plus de bonus de force au toucher.",
+        "description": "Anciennement \"[Convenience Tweaks and Glaicas Fix](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/)\", ce mod a été adapté aux jeux EE. Il s'agit d'une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants : Toujours gagner contre Aesgareth, Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse, Rendre la Machine de Lum le Fou plus facile à utiliser, Libérer plus facilement Glaicas de son charme, Les armes de jeu ne bénéficient plus de bonus de force au toucher.",
         "urls": [
             "https://github.com/flamewing/m7tweaks/"
         ],
@@ -13233,7 +13233,7 @@
     },
     {
         "name": "Full Plate and Packing Steel",
-        "description": "Ce mod propose une refonte complète du système de défense (armures, boucliers), et, par conséquent, du système de combat et des tactiques en général. Une armure légère et enchantée vous aidera réellement à vous cacher. Une armure lourde et enchantée ne vous aidera pas beaucoup à esquiver, mais elle absorbera peut-être la moitié ou plus des dégâts, tout en vous ralentissant et en vous fatiguant. La furtivité, le vol et la magie en armure lourde seront possibles, mais avec difficulté. Il dispose par ailleurs d'une petite collection d'améliorations.|Sa nature même le rend incompatible avec d'autres mods importants. Consultez le <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-fullplate.htmls\">readme</a> pour ne pas faire d'erreur.",
+        "description": "Ce mod propose une refonte complète du système de défense (armures, boucliers), et, par conséquent, du système de combat et des tactiques en général. Une armure légère et enchantée vous aidera réellement à vous cacher. Une armure lourde et enchantée ne vous aidera pas beaucoup à esquiver, mais elle absorbera peut-être la moitié ou plus des dégâts, tout en vous ralentissant et en vous fatiguant. La furtivité, le vol et la magie en armure lourde seront possibles, mais avec difficulté. Il dispose par ailleurs d'une petite collection d'améliorations.|Sa nature même le rend incompatible avec d'autres mods importants. Consultez le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-fullplate.htmls) pour ne pas faire d'erreur.",
         "urls": [
             "https://www.gibberlings3.net/files/file/710-full-plate-and-packing-steel-mod-for-bg2-iwd-and-tutu/",
             "https://github.com/Gibberlings3/Full_Plate_and_Packing_Steel"
@@ -13659,7 +13659,7 @@
             "Isaya"
         ],
         "notes": [
-            "Attention : De par sa nature, il s'installera généralement en dernier, mais je vous invite fortement à lire <a href=\"https://www.baldursgateworld.fr/viewtopic.php?t=23052\">ce sujet</a> avant de songer à l'utiliser."
+            "Attention : De par sa nature, il s'installera généralement en dernier, mais je vous invite fortement à lire [ce sujet](https://www.baldursgateworld.fr/viewtopic.php?t=23052) avant de songer à l'utiliser."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -14854,7 +14854,7 @@
     },
     {
         "name": "Helga, a Dwarven Priestess of Haela Brightaxe",
-        "description": "Helga sort de sa retraite après des années de service au temple de Haela et de garde d'enfants pour revivre ses jeunes années de combat. Dans BG1 et SoD, elle combattra volontiers aux côtés du protagoniste, à condition qu'il l'aide à protéger son peuple ou à chasser sa proie. Possédant une force remarquable malgré son âge, elle n'est pas aussi résistante que les autres guerriers. Capable d'appeler temporairement dans sa main une lame puissante, elle peut encore déchirer les lignes ennemies.|Elle se soucie peu des règles et des solutions pacifiques, et favorise des résultats plus violents et risqués dans vos choix. Elle n'est pas mauvaise, cependant, et la malveillance manifeste gagnera sa désapprobation. Pas de romance possible, mais une voie de l'amitié chaleureuse pour ceux qui aiment la bataille autant qu'elle.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Helga\">site de l'auteur</a>.",
+        "description": "Helga sort de sa retraite après des années de service au temple de Haela et de garde d'enfants pour revivre ses jeunes années de combat. Dans BG1 et SoD, elle combattra volontiers aux côtés du protagoniste, à condition qu'il l'aide à protéger son peuple ou à chasser sa proie. Possédant une force remarquable malgré son âge, elle n'est pas aussi résistante que les autres guerriers. Capable d'appeler temporairement dans sa main une lame puissante, elle peut encore déchirer les lignes ennemies.|Elle se soucie peu des règles et des solutions pacifiques, et favorise des résultats plus violents et risqués dans vos choix. Elle n'est pas mauvaise, cependant, et la malveillance manifeste gagnera sa désapprobation. Pas de romance possible, mais une voie de l'amitié chaleureuse pour ceux qui aiment la bataille autant qu'elle.|Plus d'informations sur le [https://skitias-stories.com/mods-view.php?name=Helga](site de l'auteur).",
         "urls": [
             "https://forums.beamdog.com/discussion/76460/",
             "https://github.com/Skitia/Helga-BG1/"
@@ -16195,7 +16195,7 @@
     },
     {
         "name": "Icewind Dale Fixpack",
-        "description": "Le IWD FixPack est le fixpack le plus complet à ce jour, totalement WeiDU et en français. Il corrige plusieurs les bugs et erreurs qui subsistent dans le jeu après l'application des correctifs officiels, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation. Il fonctionne avec ou sans les extensions Heart of Winter et [[Trials of the Luremaster (IWD)]].|Plus d'infos dans le <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-iwdfixpack.html\">readme</a>.",
+        "description": "Le IWD FixPack est le fixpack le plus complet à ce jour, totalement WeiDU et en français. Il corrige plusieurs les bugs et erreurs qui subsistent dans le jeu après l'application des correctifs officiels, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation. Il fonctionne avec ou sans les extensions Heart of Winter et [[Trials of the Luremaster (IWD)]].|Plus d'infos dans le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-iwdfixpack.html).",
         "urls": [
             "https://www.gibberlings3.net/mods/fixes/iwd_fixpack/",
             "https://github.com/Gibberlings3/iwdfixpack"
@@ -16263,7 +16263,7 @@
     },
     {
         "name": "Icewind Gate II",
-        "description": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc. Il nécessite Icewind Dale II et Baldur's Gate II - Throne of Bhaal.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur <a href=\"https://weidu.org/iwg2/beta.html\">ce lien</a>.",
+        "description": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc. Il nécessite Icewind Dale II et Baldur's Gate II - Throne of Bhaal.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html).",
         "urls": [
             "https://weidu.org/iwg2/index.html"
         ],
@@ -17053,7 +17053,7 @@
             "Freddy_Gwendo"
         ],
         "notes": [
-            "Ne pas oublier de télécharger <a href=\"https://www.shsforums.net/files/category/98-infinity-animations/\">tous les fichiers d'animation</a> et les décompresser dans le dossier \"infinityanimations/content\" avant d'installer le mod."
+            "Ne pas oublier de télécharger [tous les fichiers d'animation](https://www.shsforums.net/files/category/98-infinity-animations/) et les décompresser dans le dossier \"infinityanimations/content\" avant d'installer le mod."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -17449,7 +17449,7 @@
     },
     {
         "name": "Item Randomiser",
-        "description": "Fatigué de savoir (et donc de faire du méta-jeu) que l'anneau des arcanes se trouve au pied de Brasamical ? Ou que vous pouvez trouver une armure d'ankheg au chaud dans un champ à Nashkel ? Donnez du neuf et de l'imprévu à vos parties avec ce mod ! Il rend aléatoire la position des objets que vous pouvez trouver dans BG1 et BG2 (jusqu'à plusieurs centaines dans chaque opus).|Il dispose de deux modes d'installation : le mode 1 (rendre aléatoire par les scripts) permet d'affecter la position des objets à chaque nouvelle partie. Le mode 2 (rendre aléatoire par WeiDU) le fait à l'installation du mod et est donc moins souple, mais il affecte plus d'objets et il est plus fiable, donc recommandé.|Il doit être installé nécessairement APRÈS tous les mods déplaçant les objets ou en ajoutant de nouveaux. Pour la compatibilité avec les autres mods, référez-vous au <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-randomiser.html\">readme</a>.",
+        "description": "Fatigué de savoir (et donc de faire du méta-jeu) que l'anneau des arcanes se trouve au pied de Brasamical ? Ou que vous pouvez trouver une armure d'ankheg au chaud dans un champ à Nashkel ? Donnez du neuf et de l'imprévu à vos parties avec ce mod ! Il rend aléatoire la position des objets que vous pouvez trouver dans BG1 et BG2 (jusqu'à plusieurs centaines dans chaque opus).|Il dispose de deux modes d'installation : le mode 1 (rendre aléatoire par les scripts) permet d'affecter la position des objets à chaque nouvelle partie. Le mode 2 (rendre aléatoire par WeiDU) le fait à l'installation du mod et est donc moins souple, mais il affecte plus d'objets et il est plus fiable, donc recommandé.|Il doit être installé nécessairement APRÈS tous les mods déplaçant les objets ou en ajoutant de nouveaux. Pour la compatibilité avec les autres mods, référez-vous au [readme](https://gibberlings3.github.io/Documentation/readmes/readme-randomiser.html).",
         "urls": [
             "https://www.gibberlings3.net/files/file/875-item-randomiser/",
             "https://github.com/FredrikLindgren/randomiser"
@@ -17524,7 +17524,7 @@
     },
     {
         "name": "Item Revisions Revised",
-        "description": "Ce mod apporte des corrections ou des modifications à [[Item Revisions]]. Vous en trouverez la liste <a href=\"https://www.gibberlings3.net/forums/topic/28894-ir-revised-v13700-2021-november-2nd/\">ici</a>.",
+        "description": "Ce mod apporte des corrections ou des modifications à [[Item Revisions]]. Vous en trouverez la liste [ici](https://www.gibberlings3.net/forums/topic/28894-ir-revised-v13800-2022-january-11th/).",
         "urls": [
             "https://github.com/BartyMae/IR_Revised"
         ],
@@ -18269,7 +18269,7 @@
     },
     {
         "name": "Kale, a Halfling Barbarian",
-        "description": "Conteur de grandes aventures qu'il a peut-être eues ou non, Kale est une petite-personne de Gullykind, se prétendant \"héroïque\", avec un sourire rapide et une cape fringante. Cependant, il semble plus sombre qu'il n'y paraît, son sourire cachant ses frustrations face à l'incapacité d'être grand. Votre groupe lui offre une chance de faire ses preuves auprès de lui-même et du reste du monde, et il apportera volontiers sa capacité astucieuse à prendre beaucoup de coups et à rester debout.|Dans BG:EE, Kale est un barbare, mais dans BG2:EE et éventuellement dans BG:EE, il peut être doté d'un kit de gardien.|Dans SoD, il se trouve dans la taverne du Chant de l'Elfe. Comme il n'aime pas du tout l'idée de voyager avec un gobelin, il faudra le persuader de le supporter ou il ne quittera le groupe.|Dans BG2:EE, il se trouve à l'extérieur de la Couronne de Cuivre, peu de temps après avoir appris la mort de son père.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Kale\">site de l'auteur</a>.",
+        "description": "Conteur de grandes aventures qu'il a peut-être eues ou non, Kale est une petite-personne de Gullykind, se prétendant \"héroïque\", avec un sourire rapide et une cape fringante. Cependant, il semble plus sombre qu'il n'y paraît, son sourire cachant ses frustrations face à l'incapacité d'être grand. Votre groupe lui offre une chance de faire ses preuves auprès de lui-même et du reste du monde, et il apportera volontiers sa capacité astucieuse à prendre beaucoup de coups et à rester debout.|Dans BG:EE, Kale est un barbare, mais dans BG2:EE et éventuellement dans BG:EE, il peut être doté d'un kit de gardien.|Dans SoD, il se trouve dans la taverne du Chant de l'Elfe. Comme il n'aime pas du tout l'idée de voyager avec un gobelin, il faudra le persuader de le supporter ou il ne quittera le groupe.|Dans BG2:EE, il se trouve à l'extérieur de la Couronne de Cuivre, peu de temps après avoir appris la mort de son père.|Plus d'informations sur le [site de l'auteur](https://skitias-stories.com/mods-view.php?name=Kale).",
         "urls": [
             "https://forums.beamdog.com/discussion/74630/",
             "https://github.com/Skitia/Kale-BG1/"
@@ -18857,7 +18857,7 @@
     },
     {
         "name": "Kit Mule kit",
-        "description": "L'accumulateur (pour les jeux Infinity Engine)||Information|Ce kit apprendra toutes les capacités spéciales des classes et des kits présentes dans le jeu, y compris les capacités de haut niveau ainsi que celles ajoutées par les mods.|La table des capacités est construit au moment de l'installation et est basé sur votre installation actuelle.|Peut être installer sur les Enhanced Editions et sur BG2 original||Ce kit s'installe pour les 3 classes suivantes :|Guerrier, Barde et Druide||Fichier \"config.ini\" présent dans le répertoire du mod :|- définir le niveau (level) maximum / les colonnes à contrôler dans les tables des kits (default = 20)|- active ou désactive l'analyse des fichiers clab, hla ou des mods|- active ou désactive l'installation des kits de guerrier, barde, ou druide|- Le paramètre \"level\" acceptera des valeurs de 1 à 50. Tout autre nombre sera par défaut égal à 20.||<a href=\"https://github.com/D2-mods/Kit-Mule-kit-for-IE-games-/blob/main/README.French.md\">Voir le readme pour les détails de ce kit particulier !</a>",
+        "description": "L'accumulateur (pour les jeux Infinity Engine)||Information|Ce kit apprendra toutes les capacités spéciales des classes et des kits présentes dans le jeu, y compris les capacités de haut niveau ainsi que celles ajoutées par les mods.|La table des capacités est construit au moment de l'installation et est basé sur votre installation actuelle.|Peut être installer sur les Enhanced Editions et sur BG2 original||Ce kit s'installe pour les 3 classes suivantes :|Guerrier, Barde et Druide||Fichier \"config.ini\" présent dans le répertoire du mod :|- définir le niveau (level) maximum / les colonnes à contrôler dans les tables des kits (default = 20)|- active ou désactive l'analyse des fichiers clab, hla ou des mods|- active ou désactive l'installation des kits de guerrier, barde, ou druide|- Le paramètre \"level\" acceptera des valeurs de 1 à 50. Tout autre nombre sera par défaut égal à 20.||[Voir le readme pour les détails de ce kit particulier !](https://github.com/D2-mods/Kit-Mule-kit-for-IE-games-/blob/main/README.French.md)",
         "urls": [
             "https://github.com/D2-mods/Kit-Mule-kit-for-IE-games-"
         ],
@@ -19225,7 +19225,7 @@
     },
     {
         "name": "LadeJarl's Tutu GUI (Original BG1 GUI)",
-        "description": "Si vous préférez le look de BG1 à l'ergonomie et aux menus de BG2, ce programme est fait pour vous. Écrit à l'origine écrit pour [[BG1Tutu]], il est également compatible avec BGT et remplace l'interface standard de BG2 par une interface inspirée par celle de Baldur's Gate. Il fonctionne en 800*600, 1024*768 et 640*480.|Voici quelques captures : <a href=\"https://mods.pocketplane.net/bg1tutu/tutuinterface1.jpg\">menu</a>, <a href=\"https://mods.pocketplane.net/bg1tutu/tutuinterface2.jpg\">création de personnage</a>, <a href=\"https://mods.pocketplane.net/bg1tutu/tutuinterface3.jpg\">fenêtre principale</a> et <a href=\"https://mods.pocketplane.net/bg1tutu/tutuinterface4.jpg\">inventaire</a>.",
+        "description": "Si vous préférez le look de BG1 à l'ergonomie et aux menus de BG2, ce programme est fait pour vous. Écrit à l'origine écrit pour [[BG1Tutu]], il est également compatible avec BGT et remplace l'interface standard de BG2 par une interface inspirée par celle de Baldur's Gate. Il fonctionne en 800*600, 1024*768 et 640*480.|Voici quelques captures : [menu](https://mods.pocketplane.net/bg1tutu/tutuinterface1.jpg), [création de personnage](https://mods.pocketplane.net/bg1tutu/tutuinterface2.jpg), [fenêtre principale](https://mods.pocketplane.net/bg1tutu/tutuinterface3.jpg) et [inventaire](https://mods.pocketplane.net/bg1tutu/tutuinterface4.jpg).",
         "urls": [
             "https://www.pocketplane.net/bg1tutu-enhancements/"
         ],
@@ -19551,7 +19551,7 @@
     },
     {
         "name": "Les Exilés de Lunargent",
-        "description": "Conçu et développé par Armand sur le forum <a href=\"http://weiducommando.forumsactifs.com/f50-les-exiles-de-lunargent-v01\">Légendes</a>, ce mod français vous permettra de vivre une nouvelle histoire au sein de Baldur's Gate 2. Vous y ferez la connaissance de nombreux personnages aux caractères assez différents. C'est à la suite d'un étrange rendez-vous qui vous est donné au tout début du jeu que vous aurez l'opportunité de découvrir une mystérieuse confrérie qui semble agir en Amn dans le plus grand secret. Réussirez-vous à en apprendre davantage sur leur compte ? Pour le savoir jouez au mod !|Ce mod fait la part belle aux personnages d'alignement mauvais, au travers de nouvelles quêtes réservées à cet alignement, de nouveaux objets sur le thème du mod, une nouvelle zone où se déroulera une partie de l'action, quantités de nouveaux combats, un nouveau familier d'un genre inédit et une cinquantaine de nouveaux personnages.",
+        "description": "Conçu et développé par Armand sur le forum [Légendes](http://weiducommando.forumsactifs.com/f50-les-exiles-de-lunargent-v01), ce mod français vous permettra de vivre une nouvelle histoire au sein de Baldur's Gate 2. Vous y ferez la connaissance de nombreux personnages aux caractères assez différents. C'est à la suite d'un étrange rendez-vous qui vous est donné au tout début du jeu que vous aurez l'opportunité de découvrir une mystérieuse confrérie qui semble agir en Amn dans le plus grand secret. Réussirez-vous à en apprendre davantage sur leur compte ? Pour le savoir jouez au mod !|Ce mod fait la part belle aux personnages d'alignement mauvais, au travers de nouvelles quêtes réservées à cet alignement, de nouveaux objets sur le thème du mod, une nouvelle zone où se déroulera une partie de l'action, quantités de nouveaux combats, un nouveau familier d'un genre inédit et une cinquantaine de nouveaux personnages.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=28954"
         ],
@@ -19780,9 +19780,10 @@
     },
     {
         "name": "\"Level Up\" Icon Tweaks",
-        "description": "Ce mini mod apporte une modification cosmétique de confort à l'interface de PST:EE. Vous pouvez configurer l'affichage ou non de l'icône de passage au niveau supérieur et choisir de la déplacer sur le portrait du personnage.|Le mod est aussi disponible sur <a href=\"https://www.shsforums.net/files/file/1222-level-up-icon-tweaks/\">Spellhold studios</a>.",
+        "description": "Ce mini mod apporte une modification cosmétique de confort à l'interface de PST:EE. Vous pouvez configurer l'affichage ou non de l'icône de passage au niveau supérieur et choisir de la déplacer sur le portrait du personnage.",
         "urls": [
             "https://forums.beamdog.com/discussion/64259/",
+            "https://www.shsforums.net/files/file/1222-level-up-icon-tweaks/",
             "https://github.com/Argent77/A7-LevelUpTweaks/"
         ],
         "categories": [
@@ -19967,7 +19968,7 @@
     },
     {
         "name": "Lol's RezMod",
-        "description": "Réalisé par Lollorian, ce pack regroupe plusieurs anciens mods convertis au format WeiDU et proposés sous forme de composants indépendants :|- <a href=\"https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/masamune.zip\">Masamune sword mini-mini-quest</a> (de ShadowDaemon) : une petite quête qui s'étend jusqu'au ToB vous permettra de faire forger une épée d'enfer.|- <a href=\"https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/anarg.rar\">Improved Anarg</a> (de knightlight) : Anarg, le chef des Paladins déchus, possède un casque qui l'immunise à de nombreux effets, et le rend donc plus coriace à neutraliser. Mais la récompense sera à la hauteur des risques pris...|- Animations des pierres ioniques étendues (de WoRm) : les pierres ioniques ajoutés par de nombreux mods bénéficieront des animations de pierre tournant autour de la tête de leur possesseur.|- Plus d'autres composants de confort...",
+        "description": "Réalisé par Lollorian, ce pack regroupe plusieurs anciens mods convertis au format WeiDU et proposés sous forme de composants indépendants :|- [Masamune sword mini-mini-quest](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/masamune.zip) (de ShadowDaemon) : une petite quête qui s'étend jusqu'au ToB vous permettra de faire forger une épée d'enfer.|- [Improved Anarg](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/anarg.rar) (de knightlight) : Anarg, le chef des Paladins déchus, possède un casque qui l'immunise à de nombreux effets, et le rend donc plus coriace à neutraliser. Mais la récompense sera à la hauteur des risques pris...|- Animations des pierres ioniques étendues (de WoRm) : les pierres ioniques ajoutés par de nombreux mods bénéficieront des animations de pierre tournant autour de la tête de leur possesseur.|- Plus d'autres composants de confort...",
         "urls": [
             "https://github.com/omni-axa/RezMod"
         ],
@@ -20420,7 +20421,7 @@
     },
     {
         "name": "Macholy's Nameless Melody Inn",
-        "description": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise dans le <a href=\"https://www.shsforums.net/files/file/979-big-world-textpack-english/\">BWP Textpack English</a>.",
+        "description": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise dans le [BWP Textpack English](https://www.shsforums.net/files/file/979-big-world-textpack-english/).",
         "urls": [
             "https://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=28226",
             "https://trow.cc/board/showtopic=14514&hl=Macholy"
@@ -20479,7 +20480,7 @@
     },
     {
         "name": "Macholy's Tweak Pack",
-        "description": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Ce mod ajoute de nombreux ajustements au jeu.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise <a href=\"https://github.com/cygarniczka/NMTP-English\">ici</a>.",
+        "description": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Ce mod ajoute de nombreux ajustements au jeu.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise [ici](https://github.com/cygarniczka/NMTP-English).",
         "urls": [
             "https://trow.cc/board/showtopic=16579"
         ],
@@ -20661,7 +20662,7 @@
     },
     {
         "name": "Magic Battles Revised",
-        "description": "Révision du très vieux mod \"<a href=\"https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/MageDuel12.zip\">Mage Duel</a>\", ce mod s'efforce d'écourter les batailles magiques et de les rendre plus agréables et sensibles. Il s'adresse donc à la fois à tous ceux qui trouvent les combats de [[Sword Coast Stratagems]] bien trop longs et compliqués, et à ceux qui trouvent les combats non moddés trop faciles ou un peu incohérents. Il s'efforce donc de rendre utiles les défenses contre les sorts, préserver l'idée que les utilisateurs de magie peuvent être très puissants, voire temporairement invincibles, tout en donnant aux mages adverses des outils efficaces pour surmonter cette invincibilité et permettre aux batailles de magie d'être résolues de manière assez rapide, décisive et satisfaisante.|Rassurez-vous, l'objectif ne change pas : il faut attaquer les défenses des sorts jusqu'à ce qu'elles disparaissent, puis attaquer le mage.|Ce mod doit être installé après les mods de sorts comme [[Spell Revisions]], [[IWDification]] et [[Sword Coast Stratagems]].",
+        "description": "Révision du très vieux mod \"[Mage Duel](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/MageDuel12.zip)\", ce mod s'efforce d'écourter les batailles magiques et de les rendre plus agréables et sensibles. Il s'adresse donc à la fois à tous ceux qui trouvent les combats de [[Sword Coast Stratagems]] bien trop longs et compliqués, et à ceux qui trouvent les combats non moddés trop faciles ou un peu incohérents. Il s'efforce donc de rendre utiles les défenses contre les sorts, préserver l'idée que les utilisateurs de magie peuvent être très puissants, voire temporairement invincibles, tout en donnant aux mages adverses des outils efficaces pour surmonter cette invincibilité et permettre aux batailles de magie d'être résolues de manière assez rapide, décisive et satisfaisante.|Rassurez-vous, l'objectif ne change pas : il faut attaquer les défenses des sorts jusqu'à ce qu'elles disparaissent, puis attaquer le mage.|Ce mod doit être installé après les mods de sorts comme [[Spell Revisions]], [[IWDification]] et [[Sword Coast Stratagems]].",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/33351-magic-battles-revised-streamlined-rules-for-mage-duels/",
             "https://github.com/UnearthedArcana/magic_battles_revised/"
@@ -21296,7 +21297,7 @@
     },
     {
         "name": "Custom dll Fixes And Tweaks",
-        "description": "Ce mod apporte des modifications de règles à IWD2 : les paladins de Mystra peuvent se multi-classer en mage et sorcier, les paladins de Helm en Clerc de Helm, les moines peuvent porter des robes et conserver leur bonus de sagesse à la CA, les codes de triches sont implantés, possibilité de sauvegarder les points de compétence entre plusieurs montées de niveau... Pour plus d'information, lire <a href=\"https://sorcerers.net/community/threads/bug-fixing.26533/\">ceci</a>.|Vous pouvez personnaliser l'installation en modifiant les paramètres du fichier config.txt.",
+        "description": "Ce mod apporte des modifications de règles à IWD2 : les paladins de Mystra peuvent se multi-classer en mage et sorcier, les paladins de Helm en Clerc de Helm, les moines peuvent porter des robes et conserver leur bonus de sagesse à la CA, les codes de triches sont implantés, possibilité de sauvegarder les points de compétence entre plusieurs montées de niveau... Pour plus d'information, lire [ceci](https://sorcerers.net/community/threads/bug-fixing.26533/).|Vous pouvez personnaliser l'installation en modifiant les paramètres du fichier config.txt.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/IWD2Custom.rar"
         ],
@@ -21496,7 +21497,7 @@
     },
     {
         "name": "D2 Misc kits",
-        "description": "Mod contenant 3 kits :||- Kensaizerker (Kit de guerrier) - EE et BG2o|- Adepte de l'épée (Kit de moine) - EE uniquement|- Bouffon cinglant (Kit de barde) - EE et BG2o||Fichier \"config.ini\" présent dans le répertoire du mod :|Mettez la valeur d'un kit à = 0 pour ne pas l'installer||<a href=\"https://github.com/D2-mods/Misc-kits/blob/main/README.French.md\">Voir le readme pour le détail des kits en spoiler !</a>",
+        "description": "Mod contenant 3 kits :||- Kensaizerker (Kit de guerrier) - EE et BG2o|- Adepte de l'épée (Kit de moine) - EE uniquement|- Bouffon cinglant (Kit de barde) - EE et BG2o||Fichier \"config.ini\" présent dans le répertoire du mod :|Mettez la valeur d'un kit à = 0 pour ne pas l'installer||[Voir le readme pour le détail des kits en spoiler !](https://github.com/D2-mods/Misc-kits/blob/main/README.French.md)",
         "urls": [
             "https://github.com/D2-mods/Misc-kits"
         ],
@@ -23105,7 +23106,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Ce mod nécessite d'installer auparavant le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et [[berelinde's Keldorn Romance]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+            "Ce mod nécessite d'installer auparavant le mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et [[berelinde's Keldorn Romance]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -24681,7 +24682,7 @@
     },
     {
         "name": "Pathfinder Hit Dice",
-        "description": "Ce mini mod modifie les dés de vie des mages, sorciers, voleurs et bardes pour utiliser les valeurs de Pathfinder : 1d6 pour les mages et les sorciers, 1d8 pour les voleurs, les bardes et les disciples de dragon. Les tables de multi-classés ont ont aussi été ajustées. Nouvelles tables <a href=\"https://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29470\">ici</a>.|À l'installation, vous avez quatre options : `Normal Rolls` pour les jeux non moddés, `Average Rolls` si vous avez installé le composant `Higher HP on Level Up: Average Rolls` de [[The Tweaks Anthology]] (résultat moyen des dés de vie modifiés), `Maximum Rolls` si vous avez installé le composant `Higher HP on Level Up: Maximum Rolls` de [[The Tweaks Anthology]] (jet maximum des dés de vie modifiés) et `Ideal Average Rolls`, une option préférée par l'auteur du mod (jets de dés moyens +1).",
+        "description": "Ce mini mod modifie les dés de vie des mages, sorciers, voleurs et bardes pour utiliser les valeurs de Pathfinder : 1d6 pour les mages et les sorciers, 1d8 pour les voleurs, les bardes et les disciples de dragon. Les tables de multi-classés ont ont aussi été ajustées. Nouvelles tables [ici](https://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29470).|À l'installation, vous avez quatre options : `Normal Rolls` pour les jeux non moddés, `Average Rolls` si vous avez installé le composant `Higher HP on Level Up: Average Rolls` de [[The Tweaks Anthology]] (résultat moyen des dés de vie modifiés), `Maximum Rolls` si vous avez installé le composant `Higher HP on Level Up: Maximum Rolls` de [[The Tweaks Anthology]] (jet maximum des dés de vie modifiés) et `Ideal Average Rolls`, une option préférée par l'auteur du mod (jets de dés moyens +1).",
         "urls": [
             "https://www.shsforums.net/files/file/1176-pathfinder-hit-dice/"
         ],
@@ -24998,7 +24999,7 @@
         ],
         "team": [],
         "notes": [
-            "Voici une autre <a href='https://github.com/RoxanneSHS/Magestronghold/' target='_blank'>version non officielle compatible EE</a>."
+            "Voici une autre [version non officielle compatible EE](https://github.com/RoxanneSHS/Magestronghold/)."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -25012,7 +25013,7 @@
     },
     {
         "name": "Planar Sphere Teleporter",
-        "description": "Publié à l'origine sur <a href=\"http://mods.jo-ge.net/bg/index.htm\">ce site</a>, ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
+        "description": "Publié à l'origine sur [ce site](http://mods.jo-ge.net/bg/index.htm), ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
         "urls": [
             "https://www.shsforums.net/files/file/130-planarsphere-return/",
             "https://github.com/Plutonium-X/MISC_Planar-teleport"
@@ -25069,7 +25070,7 @@
     },
     {
         "name": "Planescape: Torment Ultimate WeiDU Fixpack",
-        "description": "Créé par Paul Escalona (alias Qwinn), ce mod rassemble les corrections réalisées par de nombreux moddeurs au fil des années, et converties au format WeiDU, plus compatible. Il ajoute également un bon nombre de corrections supplémentaires. En plus des nouvelles corrections faites par Qwinn, les corrections issues de trois mods non-WeiDU ont été intégrées dans ce mod: \"<a href=\"https://sorcerers.net/Games/Torment/Platter/index.php\">Platter's Fixpack 1.37</a>\", dont Platter est l'auteur principal, mais qui contient aussi les travaux de plusieurs autres contributeurs. Les corrections du Fixpack Beta 1.38, toujours de Platter, sont également incluses |[[Restoration Pack]], par Cilantro, alias Kung Fu Man (qui restaure plusieurs sorts, objets et autres, qui avaient été supprimés de la dernière version de PST).|\"SKARDAVNELNATE'S All-Inclusive Fixpack\", par SKARDAVNELNATE.|Notez que même si ce mod ne contient que des corrections de bogues, plusieurs de ces corrections ont pour résultat de restaurer du contenu non disponible dans le jeu original.|Il comprend trois composants : le premier comporte les principales corrections, le deuxième les corrections d'orthographe et de grammaire anglaise, le troisième rajoute des sous-titres aux dialogues des cinématiques qui étaient auparavant uniquement sous forme de dialogue audio/sonore.",
+        "description": "Créé par Paul Escalona (alias Qwinn), ce mod rassemble les corrections réalisées par de nombreux moddeurs au fil des années, et converties au format WeiDU, plus compatible. Il ajoute également un bon nombre de corrections supplémentaires. En plus des nouvelles corrections faites par Qwinn, les corrections issues de trois mods non-WeiDU ont été intégrées dans ce mod: [Platter's Fixpack 1.37](https://sorcerers.net/Games/Torment/Platter/index.php), dont Platter est l'auteur principal, mais qui contient aussi les travaux de plusieurs autres contributeurs. Les corrections du Fixpack Beta 1.38, toujours de Platter, sont également incluses |[[Restoration Pack]], par Cilantro, alias Kung Fu Man (qui restaure plusieurs sorts, objets et autres, qui avaient été supprimés de la dernière version de PST).|\"SKARDAVNELNATE'S All-Inclusive Fixpack\", par SKARDAVNELNATE.|Notez que même si ce mod ne contient que des corrections de bogues, plusieurs de ces corrections ont pour résultat de restaurer du contenu non disponible dans le jeu original.|Il comprend trois composants : le premier comporte les principales corrections, le deuxième les corrections d'orthographe et de grammaire anglaise, le troisième rajoute des sous-titres aux dialogues des cinématiques qui étaient auparavant uniquement sous forme de dialogue audio/sonore.",
         "urls": [
             "https://www.shsforums.net/files/file/647-PST-ultimate-weidu-fixpack-v413/",
             "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/pstfixpack_v413_correctfr.7z"
@@ -25107,7 +25108,7 @@
     },
     {
         "name": "PS:T Unfinished Business - Reloaded",
-        "description": "Ce mod reprend le mod de Qwinn PS:T Unfinished Business (PST-UB), version 4.12. Complètement remanié, il est compatible aussi bien avec PST:EE qu'avec la version classique de Planescape: Torment (PST). Il restaure le contenu \"presque-mais-pas-complètement-terminé\" (par manque de temps des développeurs) du jeu, le complète et l'améliore, ce qui vous permet de profiter de ces nouveautés dans vos parties. Consultez le <a href=\"https://argent77.github.io/PST-UB-reloaded/index-fr.html\">readme</a> pour en apprendre plus sur sa vingtaine de composants.",
+        "description": "Ce mod reprend le mod de Qwinn PS:T Unfinished Business (PST-UB), version 4.12. Complètement remanié, il est compatible aussi bien avec PST:EE qu'avec la version classique de Planescape: Torment (PST). Il restaure le contenu \"presque-mais-pas-complètement-terminé\" (par manque de temps des développeurs) du jeu, le complète et l'améliore, ce qui vous permet de profiter de ces nouveautés dans vos parties. Consultez le [readme](https://argent77.github.io/PST-UB-reloaded/index-fr.html) pour en apprendre plus sur sa vingtaine de composants.",
         "urls": [
             "https://github.com/Argent77/PST-UB-reloaded",
             "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/pstfixpack_v413_correctfr.7z"
@@ -25682,7 +25683,7 @@
     },
     {
         "name": "Portraits from Icewind Dale II",
-        "description": "Ce mod ajoute 24 portraits d'Icewind Dale II convertis à la résolution et au format EE. En voici la <a href=\"http://htmlpreview.github.io/?https://github.com/Ineth2/PortraitsFromIWD2/blob/main/PortraitsFromIWD2/readme.html\">liste</a>.",
+        "description": "Ce mod ajoute 24 portraits d'Icewind Dale II convertis à la résolution et au format EE. En voici la [liste](http://htmlpreview.github.io/?https://github.com/Ineth2/PortraitsFromIWD2/blob/main/PortraitsFromIWD2/readme.html).",
         "urls": [
             "https://forums.beamdog.com/discussion/81240/",
             "https://github.com/Ineth2/PortraitsFromIWD2"
@@ -25859,7 +25860,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod a subit un \"Overhaul\" de la part de son auteur et a été divisé en deux nouveaux mods  qui sont téléchargeables <a href=\"https://forums.beamdog.com/discussion/42503/mod-reprock-redone-proficiency-class-and-kits-wip/p1\" i=\"\">ici</a>."
+            "Ce mod a subit un \"Overhaul\" de la part de son auteur et a été divisé en deux nouveaux mods  qui sont téléchargeables [ici](https://forums.beamdog.com/discussion/42503/)."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -25910,7 +25911,7 @@
     },
     {
         "name": "Prêtre de Bhaal",
-        "description": "Ce mod français créé sur <a href=\"https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/12344-kit-pretre-de-bhaal-clerc.html\">LCC</a> ajoute un profil de clerc mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs, et est immunisé au poison. Il a des HLA personnalisées.",
+        "description": "Ce mod français créé sur [LCC](https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/12344-kit-pretre-de-bhaal-clerc.html) ajoute un profil de clerc mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs, et est immunisé au poison. Il a des HLA personnalisées.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=12344",
             "https://github.com/Plutonium-X/KIT_Bhaal"
@@ -26002,7 +26003,7 @@
     },
     {
         "name": "Psionics Unleashed",
-        "description": "Toujours en version bêta, ce mod a pour but d'ajouter un système complet de gestion psionique (classe, IA, effets...) basé sur les règles D&D 3.5. Plus de détails dans le <a href=\"https://www.shsforums.net/topic/55711-readme/\">readme</a> et sur les <a href=\"https://www.shsforums.net/topic/55713-psionic-power-list/\">capacités psioniques</a>.",
+        "description": "Toujours en version bêta, ce mod a pour but d'ajouter un système complet de gestion psionique (classe, IA, effets...) basé sur les règles D&D 3.5. Plus de détails dans le [readme](https://www.shsforums.net/topic/55711-readme/) et sur les [capacités psioniques](https://www.shsforums.net/topic/55713-psionic-power-list/).",
         "urls": [
             "https://www.shsforums.net/files/file/1037-psionics-unleashed/"
         ],
@@ -26158,7 +26159,7 @@
     },
     {
         "name": "Qwinn's Planescape: Torment Tweak Pack",
-        "description": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[Power Action Leprechaun Annah]], [[The Ultimate Easter Egg (Morte)]], repos quelle que soit la zone (non recommandé), [[Tome o' Cheats]] (non recommandé) et <a href='https://sorcerers.net/Games/Torment/Platter/index.php?page=mods' target='_blank'>Dustman Robe</a>.",
+        "description": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[Power Action Leprechaun Annah]], [[The Ultimate Easter Egg (Morte)]], repos quelle que soit la zone (non recommandé), [[Tome o' Cheats]] (non recommandé) et [Dustman Robe](https://sorcerers.net/Games/Torment/Platter/index.php?page=mods).",
         "urls": [
             "https://www.shsforums.net/files/file/649-qwinns-pst-tweak-pack-v412/",
             "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/psttweak_v412_correctfr.7z"
@@ -26566,7 +26567,7 @@
     },
     {
         "name": "Recorder, a gnome lorekeeper NPC",
-        "description": "Recorder est une ménestrel gnome, érudite, née dans la nation de Lantan, mais qui travaille pour l'Église d'Oghma en Amn. Bien qu'elle soit moins efficace avec les armes que les autres bardes, sa force réside dans son chant et sa magie, lui permettant de protéger son groupe des enchantements dangereux et de lancer plus de magie que les autres bardes. Elle possède un furet fougueux nommé Gustav qui pat bravement en éclaireur si on le lui demande.|Elle préfère l'approche douce, la miséricorde et la compréhension lorsque cela est possible, et les solutions non violentes, mais comprendra quand il n'y a pas le choix. Elle apprécie également l'art et la musique, et ceux qui apprécient son jeu et sont gentils avec elle gagneront son amitié et son affection.|On la rencontre d'abord à Château-Suif, mais on ne pourra la recruter qu'à l'entrée des ruines d'Ulcaster. Dans SoD, vous la trouverez à l'extérieur du Palais Ducal. Dans BG2, elle se trouve dans le temple d'Oghma, dans le quartier des docks.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Recorder\">site de l'auteur</a>.",
+        "description": "Recorder est une ménestrel gnome, érudite, née dans la nation de Lantan, mais qui travaille pour l'Église d'Oghma en Amn. Bien qu'elle soit moins efficace avec les armes que les autres bardes, sa force réside dans son chant et sa magie, lui permettant de protéger son groupe des enchantements dangereux et de lancer plus de magie que les autres bardes. Elle possède un furet fougueux nommé Gustav qui pat bravement en éclaireur si on le lui demande.|Elle préfère l'approche douce, la miséricorde et la compréhension lorsque cela est possible, et les solutions non violentes, mais comprendra quand il n'y a pas le choix. Elle apprécie également l'art et la musique, et ceux qui apprécient son jeu et sont gentils avec elle gagneront son amitié et son affection.|On la rencontre d'abord à Château-Suif, mais on ne pourra la recruter qu'à l'entrée des ruines d'Ulcaster. Dans SoD, vous la trouverez à l'extérieur du Palais Ducal. Dans BG2, elle se trouve dans le temple d'Oghma, dans le quartier des docks.|Plus d'informations sur le [site de l'auteur](https://skitias-stories.com/mods-view.php?name=Recorder).",
         "urls": [
             "https://forums.beamdog.com/discussion/77784/",
             "https://github.com/Skitia/Recorder-BG1/"
@@ -26746,7 +26747,7 @@
             "Isaya"
         ],
         "notes": [
-            "À l'origine publié dans le forum <a href=\"https://www.shsforums.net/files/category/31-refinements/\">Spellhold Studios</a>, ce mod est désormais maintenu sur GitHub par un moddeur indépendant. Cependant, cette nouvelle version n'est plus compatible avec BG1Tutu."
+            "À l'origine publié dans le forum [Spellhold Studios](https://www.shsforums.net/files/category/31-refinements/), ce mod est désormais maintenu sur GitHub par un moddeur indépendant. Cependant, cette nouvelle version n'est plus compatible avec BG1Tutu."
         ],
         "translation_state": "yes",
         "safe": 1,
@@ -26763,7 +26764,7 @@
     },
     {
         "name": "Region of Terror",
-        "description": "Ce mod assez gros ajoute plus de 30 quêtes dont 10 énormes (la liste se trouve <a href=\"https://www.shsforums.net/topic/15106-quest-list/\">ici</a>), permet de recruter 7 \"nouveaux\" PNJ (Drizzt, Wulfgar, Regis, Catti-Brie, Bruenor, Entreri et Jarlaxle), ajoute une centaine d'objets, de nouveaux kits, de nouveaux sorts et de nouvelles zones.|L'idée principale s'articule autour du sauvetage de Drizzt et de ses compagnons, et de sa confrontation finale avec Artemis Entreri. Si vous êtes d'alignement mauvais, vous pourrez trahir Drizzt et vous acoquiner avec Entreri.",
+        "description": "Ce mod assez gros ajoute plus de 30 quêtes dont 10 énormes (la liste se trouve [ici](https://www.shsforums.net/topic/15106-quest-list/)), permet de recruter 7 \"nouveaux\" PNJ (Drizzt, Wulfgar, Regis, Catti-Brie, Bruenor, Entreri et Jarlaxle), ajoute une centaine d'objets, de nouveaux kits, de nouveaux sorts et de nouvelles zones.|L'idée principale s'articule autour du sauvetage de Drizzt et de ses compagnons, et de sa confrontation finale avec Artemis Entreri. Si vous êtes d'alignement mauvais, vous pourrez trahir Drizzt et vous acoquiner avec Entreri.",
         "urls": [
             "https://www.spellholdstudios.net/ie/rot",
             "https://github.com/Spellhold-Studios/Region-of-Terror"
@@ -27739,7 +27740,7 @@
     },
     {
         "name": "RoorenArt's Portrait Pack",
-        "description": "Il s'agit d'une collection de 47 portraits pour les PNJ de Baldur's Gate et de Baldur's Gate II, éditions originales et améliorées, dont un portrait alternatif pour Edwin quand il est maudit. Vous pouvez voir un aperçu de ces portraits sur DeviantArt. Un composant permet de les installer comme portraits de joueur sur n'importe quel jeu Infinity Engine (sauf PsT et PsT:EE). Ces portraits ont été créés par RoorenArt. Vous pouvez suivre son travail sur <a href=\"https://www.deviantart.com/roorenart\">DeviantArt</a> ou sur son site <a href=\"https://roorenart.com/\">roorenart.com</a>, où elle accepte également des commandes.",
+        "description": "Il s'agit d'une collection de 47 portraits pour les PNJ de Baldur's Gate et de Baldur's Gate II, éditions originales et améliorées, dont un portrait alternatif pour Edwin quand il est maudit. Vous pouvez voir un aperçu de ces portraits sur DeviantArt. Un composant permet de les installer comme portraits de joueur sur n'importe quel jeu Infinity Engine (sauf PsT et PsT:EE). Ces portraits ont été créés par RoorenArt. Vous pouvez suivre son travail sur [DeviantArt](https://www.deviantart.com/roorenart) ou sur son site [roorenart.com](https://roorenart.com/), où elle accepte également des commandes.",
         "urls": [
             "https://www.gibberlings3.net/mods/other/portraitpacks/",
             "https://github.com/Gibberlings3/roorenart_bg2"
@@ -28844,7 +28845,7 @@
     },
     {
         "name": "Shader Pack: Lighting Adjustments",
-        "description": "Ce mod vise à corriger l'absence de réglage de la luminosité dans BG:EE et BG2:EE. Il propose une vingtaine de pré-réglages parmi lesquels il faudra en choisir un. Il suffit de réinstaller le mod pour en choisir un autre. Le <a href=\"https://argent77.github.io/A7-LightingPackEE/index.html\">readme du mod</a> indique aussi quels fichiers modifier pour ajuster le réglage à sa guise après installation.",
+        "description": "Ce mod vise à corriger l'absence de réglage de la luminosité dans BG:EE et BG2:EE. Il propose une vingtaine de pré-réglages parmi lesquels il faudra en choisir un. Il suffit de réinstaller le mod pour en choisir un autre. Le [readme du mod](https://argent77.github.io/A7-LightingPackEE/index.html) indique aussi quels fichiers modifier pour ajuster le réglage à sa guise après installation.",
         "urls": [
             "https://www.shsforums.net/files/file/1080-shader-pack-lighting-adjustments-for-the-enhanced-editions/",
             "https://github.com/Argent77/A7-LightingPackEE"
@@ -30295,7 +30296,7 @@
             "Saiko"
         ],
         "notes": [
-            "Attention : le kit `Archer of Sylvanus` semble poser de <a href=\"https://www.baldursgateworld.fr/viewtopic.php?t=17083\">nombreux problèmes</a> avec les classes et les autres profils."
+            "Attention : le kit `Archer of Sylvanus` semble poser de [nombreux problèmes](https://www.baldursgateworld.fr/viewtopic.php?t=17083) avec les classes et les autres profils."
         ],
         "translation_state": "yes",
         "safe": 1,
@@ -30481,7 +30482,7 @@
     },
     {
         "name": "Spell Revisions Revised",
-        "description": "Ce mod apporte des corrections ou des modifications à [[Spell Revisions]]. Vous en trouverez la liste <a href=\"https://www.gibberlings3.net/forums/topic/29618-sr-revised-v13700-2021-october-26th/\">ici</a>.",
+        "description": "Ce mod apporte des corrections ou des modifications à [[Spell Revisions]]. Vous en trouverez la liste [ici](https://www.gibberlings3.net/forums/topic/29618-sr-revised-v13700-2021-october-26th/).",
         "urls": [
             "https://github.com/BartyMae/SR_Revised"
         ],
@@ -31303,7 +31304,7 @@
     },
     {
         "name": "Sword Coast Map Labels",
-        "description": "Ce mini-mod attribue des étiquettes \"canon\" à toutes les zones de la partie du jeu Baldur's Gate I (Côte des Épées). Si une zone n'a pas de références dans le matériel canon PnP, le mod lui attribuera le label Dudleyville. Dans la mesure du possible, les étiquettes tentent d'éviter les spoilers. Consultez le <a href=\"http://www.farseek.com/bg/mapnames-english.html\">readme</a> pour plus d'informations.|Un composant met à jour le texte sur les pierres de marquage dans les zones \"Chutes de la dryade\" et \"Forêt des feuilles écarlates\" pour ces étiquettes de zone plutôt que \"Pics Brumeux\" qui commencent en fait un peu plus au sud et continuent à l'est de Nashkel.|Un dernier composant corriger les étiquettes de carte des parties sauvegardées.",
+        "description": "Ce mini-mod attribue des étiquettes \"canon\" à toutes les zones de la partie du jeu Baldur's Gate I (Côte des Épées). Si une zone n'a pas de références dans le matériel canon PnP, le mod lui attribuera le label Dudleyville. Dans la mesure du possible, les étiquettes tentent d'éviter les spoilers. Consultez le [readme](http://www.farseek.com/bg/mapnames-english.html) pour plus d'informations.|Un composant met à jour le texte sur les pierres de marquage dans les zones \"Chutes de la dryade\" et \"Forêt des feuilles écarlates\" pour ces étiquettes de zone plutôt que \"Pics Brumeux\" qui commencent en fait un peu plus au sud et continuent à l'est de Nashkel.|Un dernier composant corriger les étiquettes de carte des parties sauvegardées.",
         "urls": [
             "https://www.shsforums.net/files/file/940-sword-coast-map-labels/"
         ],
@@ -32617,7 +32618,7 @@
     },
     {
         "name": "The Big Picture",
-        "description": "À l'origine, BP permettait de pouvoir jouer aux 3 grands mods ([[The Darkest Day]], [[Shadows over Soubar]] et [[Tortured Souls-BP]]) en un seul et même package. Au fil du temps, tous ces mods ont été recodés au format WeiDU. Les ajouts propres de BP ayant eu tellement de succès, son auteur le convertit à son tour en WeiDU, et BP permet aujourd'hui d'améliorer très sensiblement l'IA de tous vos adversaires, ainsi que de votre groupe, tout comme de corser de nombreuses rencontres. Vous trouverez le détail de tous les composants du mod sur la <a href=\"https://www.baldursgateworld.fr/lacouronne/content/big-picture-1509/\">page CMS</a> qui lui est réservée. Vous remarquerez ainsi que de nouvelles rencontres (naturellement ardues) ont également été ajoutées : la liche sur les docks, Orcus le prince-démon... ainsi que des reprises de certains composants de [[Tactics]] et la restauration d'[[Ascension]] dans la version de David Gaider.",
+        "description": "À l'origine, BP permettait de pouvoir jouer aux 3 grands mods ([[The Darkest Day]], [[Shadows over Soubar]] et [[Tortured Souls-BP]]) en un seul et même package. Au fil du temps, tous ces mods ont été recodés au format WeiDU. Les ajouts propres de BP ayant eu tellement de succès, son auteur le convertit à son tour en WeiDU, et BP permet aujourd'hui d'améliorer très sensiblement l'IA de tous vos adversaires, ainsi que de votre groupe, tout comme de corser de nombreuses rencontres. Vous trouverez le détail de tous les composants du mod sur la [page CMS](https://www.baldursgateworld.fr/lacouronne/content/big-picture-1509/) qui lui est réservée. Vous remarquerez ainsi que de nouvelles rencontres (naturellement ardues) ont également été ajoutées : la liche sur les docks, Orcus le prince-démon... ainsi que des reprises de certains composants de [[Tactics]] et la restauration d'[[Ascension]] dans la version de David Gaider.",
         "urls": [
             "https://www.shsforums.net/files/file/546-the-big-picture-v181/"
         ],
@@ -33123,7 +33124,7 @@
         ],
         "team": [],
         "notes": [
-            "Depuis la version 2.0, le mod est désormais compatible avec BGT, BG1Tutu et BG:EE. Attention, il s'agit d'une version bêta. Mais à cette occasion, la compatibilité avec BG a disparu. Utilisez ce <a href=\"http://mods.pocketplane.net/FotDv107.rar\">lien direct</a> pour télécharger la version précédente compatible BG-TotSC."
+            "Depuis la version 2.0, le mod est désormais compatible avec BGT, BG1Tutu et BG:EE. Attention, il s'agit d'une version bêta. Mais à cette occasion, la compatibilité avec BG a disparu. Utilisez ce [lien direct](http://mods.pocketplane.net/FotDv107.rar) pour télécharger la version précédente compatible BG-TotSC."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -34068,7 +34069,7 @@
     },
     {
         "name": "The Vault",
-        "description": "À l'origine, ce mod était surtout centré sur des nouveaux objets répartis un peu partout dans le jeu (monstres, magasins). Avec le temps il s'est agrémenté de plusieurs quêtes accessibles à des groupes de différents niveaux, afin d'accommoder les objets du mod à l'univers BG. Les quêtes restent ardues, tant dans leur résolution que dans les combats qui les peuplent. L'auteur annonce environ deux heures de jeu pour les quatre quêtes, mais vous passerez peut-être plus de temps à vous triturer les méninges pour les résoudre.|\"Retour à Nashkel\" commence lorsque le duc Eltan téléporte le groupe à Château Suif. Elle vous conduit à retourner dans les mines de Nashkel investies de pièges, d'araignées et d'elfes noirs. \"Le Vestibule\" : rendez-vous dans le petit bâtiment attenant au temple de Lathandre et parlez (plusieurs fois) aux prêtres qui s'y trouvent. La quête est constituée de deux combats particulièrement ardus (niveau 8-9 minimum), il faut renvoyer dans les abysses le démon Lestraubimat qui n'apparaîtra que si c'est la première fois que vous pénétrez sur un certain lieu (vous pouvez toutefois visiter la carte sous réserve de ne pas explorer la zone où le démon doit apparaître). \"Les Ogres de Gullykin, le village halfelin\" : une invasion et de gros combats... \"Le Caveau\", ou quête cachée : lisez attentivement les descriptifs des objets trouvés, et rassemblez l'idole de Kozah et l'armure du chevalier maudit du labyrinthe avant de les présenter au fantôme d'Ulcaster, qui vous donne l'épée de la Revanche du vampire en échange. Recherchez une personne qui pourrait vous aider à vous narrer l'histoire de cette épée.|Combiné à [[Sword Coast Stratagems]], ce mod peut rapidement relever de l'impossible, notamment lors de la quête \"Retour à Nashkel\" dans laquelle vous combattrez des hordes d'araignées.|Le lien concerne la version BGT et BG:EE. La <a href=\"http://www.angelfire.com/rpg2/azenmod/#Vault\">version BG1-Tutu</a> ne possède pas de traduction française.",
+        "description": "À l'origine, ce mod était surtout centré sur des nouveaux objets répartis un peu partout dans le jeu (monstres, magasins). Avec le temps il s'est agrémenté de plusieurs quêtes accessibles à des groupes de différents niveaux, afin d'accommoder les objets du mod à l'univers BG. Les quêtes restent ardues, tant dans leur résolution que dans les combats qui les peuplent. L'auteur annonce environ deux heures de jeu pour les quatre quêtes, mais vous passerez peut-être plus de temps à vous triturer les méninges pour les résoudre.|\"Retour à Nashkel\" commence lorsque le duc Eltan téléporte le groupe à Château Suif. Elle vous conduit à retourner dans les mines de Nashkel investies de pièges, d'araignées et d'elfes noirs. \"Le Vestibule\" : rendez-vous dans le petit bâtiment attenant au temple de Lathandre et parlez (plusieurs fois) aux prêtres qui s'y trouvent. La quête est constituée de deux combats particulièrement ardus (niveau 8-9 minimum), il faut renvoyer dans les abysses le démon Lestraubimat qui n'apparaîtra que si c'est la première fois que vous pénétrez sur un certain lieu (vous pouvez toutefois visiter la carte sous réserve de ne pas explorer la zone où le démon doit apparaître). \"Les Ogres de Gullykin, le village halfelin\" : une invasion et de gros combats... \"Le Caveau\", ou quête cachée : lisez attentivement les descriptifs des objets trouvés, et rassemblez l'idole de Kozah et l'armure du chevalier maudit du labyrinthe avant de les présenter au fantôme d'Ulcaster, qui vous donne l'épée de la Revanche du vampire en échange. Recherchez une personne qui pourrait vous aider à vous narrer l'histoire de cette épée.|Combiné à [[Sword Coast Stratagems]], ce mod peut rapidement relever de l'impossible, notamment lors de la quête \"Retour à Nashkel\" dans laquelle vous combattrez des hordes d'araignées.|Le lien concerne la version BGT et BG:EE. La [version BG1-Tutu](http://www.angelfire.com/rpg2/azenmod/#Vault) ne possède pas de traduction française.",
         "urls": [
             "https://www.shsforums.net/topic/55129-the-vault-for-bgt-v72-released/",
             "https://github.com/RoxanneSHS/VaultEE"
@@ -34145,7 +34146,7 @@
     },
     {
         "name": "The Workshop Kitpack",
-        "description": "C'est un pack de Kits sur lequel je travaille depuis un moment. Il comporte actuellement 17 kits + 6 déclinaisons pour multi-classes. Il contient également plus de 20 objets, dont 6 insignes de Chasseur, 12 Runes de Caryll et 10 autres objets divers. Fortement inspiré par les jeux Soulsborne de FromSoft et probablement d'autres sources.||NOTE : Les tables de capacités pour ces kits sont créées au moment de l'installation. Chaque kit clone la table de la classe de base (si elle existe). Cela signifie que toute modification de classe installée au préalable sera incluse dans les kits du mod.||Ce mod dispose de plusieurs kits originaux et plutôt sympas !||<a href=\"https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md\">Voir le readme pour le détail des kits !</a>",
+        "description": "C'est un pack de Kits sur lequel je travaille depuis un moment. Il comporte actuellement 17 kits + 6 déclinaisons pour multi-classes. Il contient également plus de 20 objets, dont 6 insignes de Chasseur, 12 Runes de Caryll et 10 autres objets divers. Fortement inspiré par les jeux Soulsborne de FromSoft et probablement d'autres sources.||NOTE : Les tables de capacités pour ces kits sont créées au moment de l'installation. Chaque kit clone la table de la classe de base (si elle existe). Cela signifie que toute modification de classe installée au préalable sera incluse dans les kits du mod.||Ce mod dispose de plusieurs kits originaux et plutôt sympas !||[Voir le readme pour le détail des kits !](https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md)",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/36122-the-workshop-kitpack-v516-soulsborne-inspired-kit-and-item-pack/",
             "https://github.com/D2-mods/The-Workshop-Kitpack"
@@ -35932,7 +35933,7 @@
     },
     {
         "name": "Under-Represented Items",
-        "description": "Ce mod ajoute un marchand d'Icewind Dale 2 qui propose de puissantes armes parmi les moins présentes dans le jeu (bâtons, dagues, épées bâtardes, haches à deux mains, fléchettes, hallebardes, lances, marteaux, masses).|Plus de détails sur la <a href=\"https://weidu.org/underrep.html\">page originale du mod</a>.",
+        "description": "Ce mod ajoute un marchand d'Icewind Dale 2 qui propose de puissantes armes parmi les moins présentes dans le jeu (bâtons, dagues, épées bâtardes, haches à deux mains, fléchettes, hallebardes, lances, marteaux, masses).|Plus de détails sur la [page originale du mod](https://weidu.org/underrep.html).",
         "urls": [
             "http://weidu.org/underrep.html",
             "https://github.com/Pocket-Plane-Group/Under-Respresented_Items"
@@ -36660,7 +36661,7 @@
     },
     {
         "name": "Vecna",
-        "description": "Quelque chose de maléfique a émergé du Plan astral, d'anciennes puissances sombres se regroupent pour revire. El même les divinités maléfiques tremblent... Aurez vous la volonté et la puissance de vous impliquer sans finir en poussière ?|Ce mod propose 38 nouvelles zones, de nombreux nouveaux monstres et de nouvelles animations. La campagne de Vecna suit les événements du module Die Vecne Die!.|Comme son écriture laissait à désirer, un <a href=\"https://www.shsforums.net/files/file/1095-vecna-v23-text-overhaul/\">correctif des textes</a> a été publié. Extrayez-le dans le répertoire Language du mod et écrasez les fichiers existants AVANT d'installer le mod.",
+        "description": "Quelque chose de maléfique a émergé du Plan astral, d'anciennes puissances sombres se regroupent pour revire. El même les divinités maléfiques tremblent... Aurez vous la volonté et la puissance de vous impliquer sans finir en poussière ?|Ce mod propose 38 nouvelles zones, de nombreux nouveaux monstres et de nouvelles animations. La campagne de Vecna suit les événements du module Die Vecne Die!.|Comme son écriture laissait à désirer, un [correctif des textes](https://www.shsforums.net/files/file/1095-vecna-v23-text-overhaul/) a été publié. Extrayez-le dans le répertoire Language du mod et écrasez les fichiers existants AVANT d'installer le mod.",
         "urls": [
             "https://www.shsforums.net/files/file/880-vecna/",
             "https://github.com/vecna808/vecna"
@@ -36801,7 +36802,7 @@
     },
     {
         "name": "Vienxay, an Elven Shadowdancer Mage",
-        "description": "Difficile à vivre, Vienxay est une elfette magicienne maîtresse des ombres neutre mauvaise qui a été bannie de sa contrée. Faussement accusée de meurtre, du moins selon elle, elle erre sur la Côte des Épées, d'abord en quête de vengeance, puis d'un but, puis de la recherche d'un foyer. Dans la saga, vous pouvez l'aider ou entraver chacune de ces étapes, comme bon vous semble, même si elle se plaindra si elle n'est pas d'accord.|Son alignement peut pencher vers le neutre absolu dans BG1 et SoD ainsi que dans BG2. Son alignement n'étant pas mémorisé lors du passage à BG2, elle retombera dans ses vieilles habitudes et ses choix dangereux dans BG2 et aura besoin des conseils et de l'amitié ou de l'amour du protagoniste pour surmonter sa propre noirceur.|Vous la trouverez à l'extérieur du Bras amical dans BG1, et dans une cellule dans SoD. Dans BG2, elle se trouve sur la Promenade juste devant le Marché des Aventuriers, sur le point d'être arrêtée. Vous pouvez alors intervenir et la recruter, ou la retrouver et la recruter plus tard dans la prison.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Vienxay\">site de l'auteur</a>.",
+        "description": "Difficile à vivre, Vienxay est une elfette magicienne maîtresse des ombres neutre mauvaise qui a été bannie de sa contrée. Faussement accusée de meurtre, du moins selon elle, elle erre sur la Côte des Épées, d'abord en quête de vengeance, puis d'un but, puis de la recherche d'un foyer. Dans la saga, vous pouvez l'aider ou entraver chacune de ces étapes, comme bon vous semble, même si elle se plaindra si elle n'est pas d'accord.|Son alignement peut pencher vers le neutre absolu dans BG1 et SoD ainsi que dans BG2. Son alignement n'étant pas mémorisé lors du passage à BG2, elle retombera dans ses vieilles habitudes et ses choix dangereux dans BG2 et aura besoin des conseils et de l'amitié ou de l'amour du protagoniste pour surmonter sa propre noirceur.|Vous la trouverez à l'extérieur du Bras amical dans BG1, et dans une cellule dans SoD. Dans BG2, elle se trouve sur la Promenade juste devant le Marché des Aventuriers, sur le point d'être arrêtée. Vous pouvez alors intervenir et la recruter, ou la retrouver et la recruter plus tard dans la prison.|Plus d'informations sur le [site de l'auteur](https://skitias-stories.com/mods-view.php?name=Vienxay).",
         "urls": [
             "https://forums.beamdog.com/discussion/74701/",
             "https://github.com/Skitia/Vienxay-BG1/"
@@ -37234,7 +37235,7 @@
     },
     {
         "name": "Warlock Kit",
-        "description": "Ce mod ajoute un profil de barde qui fonctionne comme un véritable Warlock. C'était pour l'auteur la seule manière de créer une classe supplémentaire.|Plus d'informations <a href=\"https://forums.beamdog.com/discussion/69177/v0-1-warlock-mod/p1\">ici</a>.",
+        "description": "Ce mod ajoute un profil de barde qui fonctionne comme un véritable Warlock. C'était pour l'auteur la seule manière de créer une classe supplémentaire.|Plus d'informations [ici](https://forums.beamdog.com/discussion/69177/v0-1-warlock-mod/p1).",
         "urls": [
             "https://www.shsforums.net/files/file/1233-warlock-mod-for-bgee-bg2ee-and-iwdee/",
             "https://github.com/ArtemiusI/Warlock"
@@ -38199,7 +38200,7 @@
             "Isaya"
         ],
         "notes": [
-            "N'oubliez-pas de télécharger l'archive des fonds de carte en français sur <a href=\"https://www.shsforums.net/files/file/917-bp-bgt-worldmap-french-add-on/\">SHS</a> ou <a href=\"https://github.com/SpellholdStudios/BP-BGT-Worldmap_French_addon/releases\">GitHub</a>."
+            "N'oubliez-pas de télécharger l'archive des fonds de carte en français sur [SHS](https://www.shsforums.net/files/file/917-bp-bgt-worldmap-french-add-on/) ou [GitHub](https://github.com/SpellholdStudios/BP-BGT-Worldmap_French_addon/releases)."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -38688,7 +38689,7 @@
     },
     {
         "name": "Zyraen's Miscellany",
-        "description": "Ce mod regroupe une collection d'ajustements au gameplay écrits par Zyraen, comme l'accélération de la quête d'Ust-Natha, l'amélioration des énigmes de la statue dans Spellhold, la suppression des restrictions d'alignement pour tous les objets... Consultez le <a href=\"https://mods.pocketplane.net/zyraenmods/readme-misc.html\">readme</a> pour plus de détails.",
+        "description": "Ce mod regroupe une collection d'ajustements au gameplay écrits par Zyraen, comme l'accélération de la quête d'Ust-Natha, l'amélioration des énigmes de la statue dans Spellhold, la suppression des restrictions d'alignement pour tous les objets... Consultez le [readme](https://mods.pocketplane.net/zyraenmods/readme-misc.html) pour plus de détails.",
         "urls": [
             "https://www.pocketplane.net/zyraens-miscellany/"
         ],
@@ -41906,14 +41907,14 @@
         ],
         "team": [],
         "notes": [
-            "<a href=\"https://github.com/GraionDilach/Icewind-Dale-Voice-Pack-For-EE-2.6\">Pack IWDEE</a>",
-            "<a href=\"https://github.com/GraionDilach/Icewind-Dale-II-Voice-Pack-For-EE-2.6\">Pack IWD2EE</a>",
-            "<a href=\"https://github.com/GraionDilach/Planescape-Torment-Voice-Pack-for-EE-2.6\">Pack PsTEE</a>",
-            "<a href=\"https://github.com/GraionDilach/Baldurs-Gate-Voice-Pack-for-EE-2.6\">Pack BG pour PC</a>",
-            "<a href=\"https://github.com/GraionDilach/Baldurs-Gate-NPC-Voice-Pack-for-EE-2.6\">Pack BG pour NPC</a>",
-            "<a href=\"https://github.com/GraionDilach/Baldurs-Gate-II-Voice-Pack-for-EE-2.6\">Pack BG2EE</a>",
-            "<a href=\"https://github.com/GraionDilach/Neverwinter-Nights-Voice-Pack-for-EE-2.6\">Pack NWN</a>",
-            "<a href=\"https://github.com/GraionDilach/Soul-Calibur-Voice-Pack-for-EE-2.6\">Pack Soul-Calibur </a>"
+            "[Pack IWDEE](https://github.com/GraionDilach/Icewind-Dale-Voice-Pack-For-EE-2.6)",
+            "[Pack IWD2EE](https://github.com/GraionDilach/Icewind-Dale-II-Voice-Pack-For-EE-2.6)",
+            "[Pack PsTEE](https://github.com/GraionDilach/Planescape-Torment-Voice-Pack-for-EE-2.6)",
+            "[Pack BG pour PC](https://github.com/GraionDilach/Baldurs-Gate-Voice-Pack-for-EE-2.6)",
+            "[Pack BG pour NPC](https://github.com/GraionDilach/Baldurs-Gate-NPC-Voice-Pack-for-EE-2.6)",
+            "[Pack BG2EE](https://github.com/GraionDilach/Baldurs-Gate-II-Voice-Pack-for-EE-2.6)",
+            "[Pack NWN](https://github.com/GraionDilach/Neverwinter-Nights-Voice-Pack-for-EE-2.6)",
+            "[Pack Soul-Calibur ](https://github.com/GraionDilach/Soul-Calibur-Voice-Pack-for-EE-2.6)"
         ],
         "translation_state": "no",
         "safe": 2,
@@ -42715,7 +42716,7 @@
         ],
         "team": [],
         "notes": [
-            "Il y a plusieurs options disponibles|<a href=\"https://github.com/LCA-EET/LCA_Explicit\">Version explicite</a>|<a href=\"https://github.com/LCA-EET/LCA_EE\">Version EE sans EET</a>|<a href=\"https://github.com/LCA-EET/LCA_VoicePack\">Pack de voix</a>|Lisez les readme pour en savoir plus."
+            "Il y a plusieurs options disponibles|[Version explicite](https://github.com/LCA-EET/LCA_Explicit)|[Version EE sans EET](https://github.com/LCA-EET/LCA_EE)|[Pack de voix](https://github.com/LCA-EET/LCA_VoicePack)|Lisez les readme pour en savoir plus."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -43179,7 +43180,7 @@
     },
     {
         "name": "Infinity Engine EE Icon Fix",
-        "description": "Les versions EE souffrent toutes d'un problème étrange : les objets de l'inventaire utilisent toujours la version « large » de l'icône. Ce mod corrige ce problème qui a été détaillé <a href=\"https://forums.beamdog.com/discussion/41397/do-the-new-item-icons-suck-in-baldurs-gate\">ici</a>.",
+        "description": "Les versions EE souffrent toutes d'un problème étrange : les objets de l'inventaire utilisent toujours la version « large » de l'icône. Ce mod corrige ce problème qui a été détaillé [ici](https://forums.beamdog.com/discussion/41397/do-the-new-item-icons-suck-in-baldurs-gate).",
         "urls": [
             "https://github.com/tunbridgep/ie-iconfix"
         ],
@@ -46981,7 +46982,7 @@
     },
     {
         "name": "Constient Portraits",
-        "description": "Un ensemble de portraits pour PNJ pour les éditions EE, plus d'informations <a href='https://zenosziggurat.com/rpg-character-sketches-baldurs-gate-revisited-6/' target='_blank'>ici</a>.",
+        "description": "Un ensemble de portraits pour PNJ pour les éditions EE, plus d'informations [ici](https://zenosziggurat.com/rpg-character-sketches-baldurs-gate-revisited-6/).",
         "urls": [
             "https://github.com/dark0dave/bmp_portraits"
         ],
@@ -47159,7 +47160,7 @@
             "Le second lien renvoie vers la version IWD1, le troisième vers la version IWD2, le quatrième vers la version à installer à la fin.",
             "Attention à l'ordre d'installation du mod : lire le readme.",
             "Attention : certains mods semblent avoir été ajoutés par défaut dans l'installation de IWD1.",
-            "Certains mods complètent celui-ci : <a href='https://github.com/subtledoctor/IWD_EET_Integration' target='_blank'>SubtleDoctor's IWD EET Integration</a> et <a href='https://github.com/thisisulb/IWD-IN-EET-ICONS' target='_blank'>IWD-IN-EET-ICONS</a>."
+            "Certains mods complètent celui-ci : [SubtleDoctor's IWD EET Integration](https://github.com/subtledoctor/IWD_EET_Integration) et [IWD-IN-EET-ICONS](https://github.com/thisisulb/IWD-IN-EET-ICONS)."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -47648,7 +47649,7 @@
     },
     {
         "name": "Some Stable Diffusion Potraits",
-        "description": "Ce mod propose de nouveaux portraits pour les personnages recrutables de BG2EE. Le travail de Stable Diffusion est visible <a href='https://www.reddit.com/r/StableDiffusion/comments/11vommp/controlnet_some_character_portraits_from_baldurs/' target='_blank'>ici</a>.",
+        "description": "Ce mod propose de nouveaux portraits pour les personnages recrutables de BG2EE. Le travail de Stable Diffusion est visible [ici](https://www.reddit.com/r/StableDiffusion/comments/11vommp/controlnet_some_character_portraits_from_baldurs/).",
         "urls": [
             "https://forums.beamdog.com/discussion/87200/"
         ],
@@ -51702,7 +51703,7 @@
     },
     {
         "name": "Return To Menzoberranzan",
-        "description": "Un projet ambitieux qui devait recréer <a href=\"https://fr.wikipedia.org/wiki/Menzoberranzan_(jeu_vid%C3%A9o)\" i=\"\">le jeu vidéo éponyme de 1944</a> dans IWDEE. Il inclure une nouvelle interface utilisateur, un nouveau cadre, de nouvelles zones, de nouveaux pnjs, de nouveaux graphiques et, bien sûr, une longue histoire. A ce jour il semble abandonné.",
+        "description": "Un projet ambitieux qui devait recréer le jeu vidéo éponyme de 1944 dans IWDEE. Il inclure une nouvelle interface utilisateur, un nouveau cadre, de nouvelles zones, de nouveaux pnjs, de nouveaux graphiques et, bien sûr, une longue histoire. A ce jour il semble abandonné.",
         "urls": [
             "https://forums.beamdog.com/discussion/36940"
         ],
@@ -52333,7 +52334,7 @@
     },
     {
         "name": "The Isle of Mintarn",
-        "description": "Ce projet manifestement abandonné devait amener les joueurs sur <a href='https://forgottenrealms.fandom.com/wiki/Mintarn' target='_blank'>l’île de Mintarn</a>.",
+        "description": "Ce projet manifestement abandonné devait amener les joueurs sur [l’île de Mintarn](https://forgottenrealms.fandom.com/wiki/Mintarn).",
         "urls": [
             "https://forums.beamdog.com/discussion/41457"
         ],
