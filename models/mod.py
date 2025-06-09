@@ -154,7 +154,7 @@ class Mod:
             )
         )
 
-    def get_auto_notes(self) -> list:
+    def get_auto_notes(self) -> list[str]:
         auto_notes = list()
 
         # Don't download files directly
@@ -216,5 +216,14 @@ class Mod:
             *without_last, last = team_html
             return ", ".join(without_last) + f" et {last}"
 
-    def get_notes(self) -> list:
+    def get_notes(self) -> list[str]:
         return [self.convert_txt(note) for note in self.notes + self.get_auto_notes()]
+
+    @property
+    def is_bws_compatible(self) -> bool:
+        return (
+            GameEnum.EET in self.games
+            and self.translation_state in ("yes", "n/a")
+            and self.tp2 not in ("non-weidu", "n/a")
+            and self.status == ModStatus.ACTIVE
+        )
