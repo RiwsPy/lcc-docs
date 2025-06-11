@@ -229,7 +229,7 @@ class Mod:
     def is_bws_compatible(self) -> bool:
         return (
             GameEnum.EET in self.games
-            and self.translation_state in ("yes", "n/a")
+            and self.translation_state in ("yes", "n/a", "todo")
             and self.tp2 not in ("non-weidu", "n/a")
             and self.status == ModStatus.ACTIVE
         )
