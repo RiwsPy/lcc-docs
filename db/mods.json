@@ -3269,7 +3269,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-06",
         "tp2": "bg1re"
     },
     {
@@ -7108,7 +7108,7 @@
         ],
         "notes": [],
         "translation_state": "yes",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "it",
             "en",
@@ -7117,7 +7117,7 @@
             "pl",
             "ru"
         ],
-        "status": "archived",
+        "status": "active",
         "last_update": "2023-11",
         "tp2": "chattyimoen"
     },
@@ -10447,7 +10447,7 @@
         "tp2": "Drows"
     },
     {
-        "name": "Druid Grove makeover",
+        "name": "Druid Grove Area Visual Makeover",
         "description": "Ce mod a pour but d'améliorer le visuel de la zone extérieure du bosquet des druides et de la rendre plus attrayante et adaptée à la thématique.",
         "urls": [
             "https://forums.beamdog.com/discussion/62981/",
@@ -20554,7 +20554,7 @@
             "Deratiseur"
         ],
         "notes": [],
-        "translation_state": "wip",
+        "translation_state": "todo",
         "safe": 2,
         "languages": [
             "en"
@@ -26852,7 +26852,8 @@
         "team": [],
         "notes": [
             "Attention : Relieve Wizard Slayer doit être installé après [[Wizard Slayer Rebalancing]] !",
-            "Le second lien propose un patch qui n'est pas encore accepté par l'auteur."
+            "Le second lien github propose un patch qui n'est pas encore accepté par l'auteur.",
+            "Le [[BWS-FR Fixpack]] propose une traduction française."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -29335,10 +29336,11 @@
     },
     {
         "name": "Sheena - The Half Dragon Tale",
-        "description": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ? Ses caractéristiques sont FOR 16, DEX 12, CON 16, INT 15, SAG 10 et CHA 15. Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).|Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE.",
+        "description": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ? Ses caractéristiques sont FOR 16, DEX 12, CON 16, INT 15, SAG 10 et CHA 15. Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/download.php",
-            "https://forums.beamdog.com/discussion/60784/"
+            "https://forums.beamdog.com/discussion/60784/",
+            "https://www.dropbox.com/s/mxavndwl5ptvshx/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -29356,14 +29358,17 @@
         "team": [
             "Stargazer"
         ],
-        "notes": [],
+        "notes": [
+            "Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE. Le dernier lien contient la version 2.6 intégrant la traduction russe."
+        ],
         "translation_state": "yes",
         "safe": 1,
         "languages": [
             "en",
             "fr",
             "es",
-            "cz"
+            "cz",
+            "ru"
         ],
         "status": "active",
         "last_update": "2018-01",
@@ -32414,13 +32419,16 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "EET"
         ],
         "authors": [
             "White Agnus"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Bien qu'ancien, ce mod semble compatible avec EET."
+        ],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [
@@ -36147,7 +36155,9 @@
             "Magus"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Le [[BWS-FR Fixpack]] propose une traduction française."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -39544,7 +39554,7 @@
     },
     {
         "name": "Kurosaï le combineur",
-        "description": "Kurosaï est un pnj pour BG2EE qui peut moyennant moult pièces d'or combiner trois objets +x en un objet +x+1. Il peut ainsi combiner les objets jusqu'à +6.",
+        "description": "Kurosaï est un pnj qui peut moyennant moult pièces d'or combiner trois objets +x en un objet +x+1. Il peut ainsi combiner les objets jusqu'à +6.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34425",
             "https://github.com/Deratiseur/Combino/",
