@@ -161,3 +161,23 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - `"n/a"` : non concerné (notamment pour les utilitaires)
  - `"non-weidu"` : pas de fichier tp2 car non-WeiDU
  - `"multiple"` : plusieurs fichiers tp2 dans le dossier (plusieurs mods ou plusieurs versions selon le jeu)
+
+
+### Traductions
+
+`db/translations.json` fournit des traductions pour les champs `description` et `notes` des mods. Inclut actuellement 32 mods (50 premières chaînes). Contient les chaînes françaises originales pour référence, issues de mods.json au 2025-06-11, et des traductions en anglais par IA. Peut être utilisé pour les traductions sans modifier mods.json.
+
+Structure :
+```json
+    {
+        "name": "",
+        "description": {
+            "fr": "",
+            "en": ""
+        },
+        "notes": {
+            "fr": [],
+            "en": []
+        }
+    }
+```
