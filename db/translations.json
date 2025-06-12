@@ -1,0 +1,424 @@
+[
+  {
+    "name": "\"Don't Delete my gear\" script",
+    "description": {
+      "fr": "Ce mod permet au personnage de conserver son équipement et son or au début de la partie.",
+      "en": "This mod allows the character to keep their equipment and gold at the start of the game."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "3.5e Pathfinder Thac0 Progression",
+    "description": {
+      "fr": "Ce mini mod modifie la table de progression des TAC0 pour correspondre à celles de A&D 3.5e et Pathfinder. Celle des guerriers reste inchangée, mais celles des voleurs et des prêtres avancent d'un point par niveau pendant 3 niveaux, puis restent stables le niveaux suivant, et ainsi de suite, jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). Celle des mages avance maintenant de 1 tous les deux niveaux jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). La table THAC0.2da s'étend jusqu'au niveau 50. Nouvelle table [ici](https://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29456).",
+      "en": "This mini mod adjusts the THAC0 progression table to match A&D 3.5e and Pathfinder. The warriors' table remains unchanged, but those for thieves and clerics improve by one point per level for three levels, then remain stable the next level, and so on, capping at 5 at level 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). The mages' table now improves by 1 every two levels, capping at 5 at level 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). The THAC0.2da table extends to level 50. New table [here](https://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29456)."
+    },
+    "notes": {
+      "fr": [
+        "Il s'agit d'un mod override qui écrase le fichier THAC0.2da."
+      ],
+      "en": [
+        "This is an override mod that overwrites the THAC0.2da file."
+      ]
+    }
+  },
+  {
+    "name": "3.5e Pathfinder Universal (All Classes) Constitution Bonus",
+    "description": {
+      "fr": "Ce mini mod fait en sorte que toutes les classes (pas seulement les guerriers) gagnent le bonus de points de vie complet pour une Constitution supérieure, alors que dans le jeu (et la 2e édition), un mage, un voleur ou un clerc ayant une Constitution de 19 aurait le même bonus de points de vie qu'avec une Constitution de 16. Désormais, la Constitution se rapproche de son fonctionnement dans la 3e édition, et accorde les mêmes bonus de points de vie pour toutes les classes.",
+      "en": "This mini mod ensures all classes (not just warriors) gain the full hit point bonus for higher Constitution, whereas in the game (and 2nd edition), a mage, thief, or cleric with 19 Constitution would have the same hit point bonus as with 16. Now, Constitution functions closer to 3rd edition, granting the same hit point bonuses for all classes."
+    },
+    "notes": {
+      "fr": [
+        "Il s'agit d'un mod override qui écrase le fichier HPCONBON.2da."
+      ],
+      "en": [
+        "This is an override mod that overwrites the HPCONBON.2da file."
+      ]
+    }
+  },
+  {
+    "name": "3.5e Weapon Style Rebalance",
+    "description": {
+      "fr": "Ce mod rééquilibre les quatre compétences de \"style d'arme\" pour les rendre plus conformes à leur fonctionnement dans AD&D 3.5 et Pathfinder, et pour corriger le déséquilibre assez important entre les styles d'armes dans BG2, dans lequel investir 2 étoiles dans tout autre style que \"2 armes\" était plutôt inutile et le double maniement presque toujours la construction optimale pour un guerrier. Il propose les 5 composants optionnels suivants :|- Rééquilibrage des styles de combat (3.5 Édition) : deux étoiles suffisent à obtenir la spécialisation maximale, presque toutes les classes peuvent placer au moins un point de compétence dans chaque style.|- Styles d'armes étendus pour les non-guerriers : permet aux voleurs et aux bardes d'investir 2 points dans le style à deux armes et le style à une arme.|- Les bâtons ne peuvent pas effectuer d'attaques sournoises.|- Les rôdeurs n'ont pas de pénalité de toucher en main gauche.|- Mise à jour de la cape de Montolio : pour être en harmonie avec le composant précédent.",
+      "en": "This mod rebalances the four 'weapon style' proficiencies to align with AD&D 3.5 and Pathfinder, addressing the significant imbalance in BG2 where investing two stars in any style other than 'two weapons' was largely ineffective, and dual-wielding was almost always the optimal build for warriors. It offers the following five optional components:|- Combat style rebalance (3.5 Edition): two stars suffice for maximum specialization, and nearly all classes can allocate at least one proficiency point to each style.|- Extended weapon styles for non-warriors: allows thieves and bards to invest two points in two-weapon and single-weapon styles.|- Staves cannot perform sneak attacks.|- Rangers have no off-hand hit penalty.|- Update to Montolio’s cloak: to align with the previous component."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "5E Spellcasting",
+    "description": {
+      "fr": "Ce mod a pour ambition de remplacer les mécanismes de lancement de sorts des jeux IE par les règles de D&D 5e (lancement de sort \"semi-instantané\" ). Plus d'informations [ici](https://github.com/UnearthedArcana/5E_spellcasting/blob/master/README.md).",
+      "en": "This mod aims to replace the spellcasting mechanics of IE games with D&D 5e rules ('semi-instantaneous' spellcasting). More information [here](https://github.com/UnearthedArcana/5E_spellcasting/blob/master/README.md)."
+    },
+    "notes": {
+      "fr": [
+        "Mod incompatible avec une version du jeu antérieure au patch 2.5."
+      ],
+      "en": [
+        "Mod incompatible with game versions prior to patch 2.5."
+      ]
+    }
+  },
+  {
+    "name": "6 Pre-Made Characters",
+    "description": {
+      "fr": "Il s'agit d'une collection de six personnages pré-tirés pour IWD, de niveau assez haut (10 à 11), sauf un de niveau 1, et plutôt bien équipés.",
+      "en": "This is a collection of six pre-generated characters for IWD, mostly high-level (10 to 11), except one at level 1, and well-equipped."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "A Few Less Master Areas and Something for Traps",
+    "description": {
+      "fr": "Ce petit mod dispose de deux composants :|- Le premier enlève le statut de \"zone principale\" à certaines cartes, supprimant ainsi l'obligation de réunir le groupe pour aller ailleurs. Notez que cela désactive aussi l'enregistrement automatique lors du changement de zone. Cela concerne la tente de Tazok dans le camp de bandits (Le combat à l'intérieur peut être continué à l'extérieur, les ennemis poursuivant des personnages si la zone intérieure est toujours active - il y a toujours un membre du groupe à l'intérieur). Le labyrinthe des voleurs devient une extension de la guilde des voleurs à l'étage, et vous pouvez conduire des monstres difficiles jusqu'aux épées des voleurs. Vous pouvez aussi faire entrer et sortir séparément les membres de votre groupe de l'auberge du Bras amical (Tarnesh peut vous y poursuivre). Idem pour le Temple de Bhaal dans la Cité souterraine (vous pouvez attirer Sarevok et ses sbires à l'extérieur).|- le second modifie tous les pièges détectables au sol pour qu'ils réagissent aussi au passage des ennemis et des PNJ, pas seulement au groupe : libre à vous de planifier des embuscades.",
+      "en": "This small mod has two components:|- The first removes the 'main zone' status from certain maps, eliminating the need to gather the party to move elsewhere. Note that this also disables autosaving when changing zones. This affects Tazok’s tent in the bandit camp (combat inside can continue outside, with enemies pursuing characters if the interior zone remains active—i.e., a party member is still inside). The thieves’ maze becomes an extension of the upstairs thieves’ guild, allowing you to lead tough monsters to the thieves’ swords. You can also have party members enter and exit the Friendly Arm Inn separately (Tarnesh can pursue you there). Similarly, the Temple of Bhaal in the Undercity (you can lure Sarevok and his minions outside).|- The second modifies all detectable floor traps to trigger for enemies and NPCs as well, not just the party: feel free to plan ambushes."
+    },
+    "notes": {
+      "fr": [
+        "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De son propre aveu, il n'est pas très fiable..."
+      ],
+      "en": [
+        "Unfortunately, as is often the case with this author’s work, the quality of this mod is lacking. By their own admission, it’s not very reliable..."
+      ]
+    }
+  },
+  {
+    "name": "A Frosty Journey: The IWDEE Kitpack",
+    "description": {
+      "fr": "Ce mod ajoute 34 nouveaux profils :|- guerriers : Gnome de choc, Mercenaire, Soldat et Rat de tunnel.|- rôdeurs : Tueur de géant.|- paladins : Chevalier du feu mystique, Serviteur de la forêt et Guerrier sanctifié de la souffrance.|- moines : Frères et sœurs de la Flamme pure, Enfant de la Voix passive, Disciple du Visage immuable, Disciple du Phénix, Disciple de la Salamandre, Disciple de la Baguette blanche, Disciple de la Voie du renoncement, Moine de l'Ordre ancien, Moine de l'Ordre de la longue mort, Moine des vents légers, Moine de la Main étincelante, Moine des Frères pleureurs, Zélateur des Grands écrits.|- voleurs : Petit rat, Dératiseur, Éclaireur, Voltigeur, Tueur de vermines.|- clercs : Marcheterre de Grumbar, Gardien des glaces d'Ulutiu, Prêtre des glaces d'Aurile, Soigne-feuilles, Prêtre de Luthic, Chaman de Gruumsh, Soigne-bois.|- druides : Essaimeur.",
+      "en": "This mod adds 34 new kits:|- Warriors: Shock Gnome, Mercenary, Soldier, and Tunnel Rat.|- Rangers: Giant Slayer.|- Paladins: Mystic Fire Knight, Forest Servant, and Sanctified Warrior of Suffering.|- Monks: Brothers and Sisters of the Pure Flame, Child of the Passive Voice, Disciple of the Immutable Face, Disciple of the Phoenix, Disciple of the Salamander, Disciple of the White Wand, Disciple of the Path of Renunciation, Monk of the Old Order, Monk of the Long Death Order, Monk of the Light Winds, Monk of the Sparkling Hand, Monk of the Weeping Brothers, Zealot of the Great Writings.|- Thieves: Little Rat, Pest Controller, Scout, Acrobat, Vermin Slayer.|- Clerics: Earthwalker of Grumbar, Ice Guardian of Ulutiu, Ice Priest of Auril, Leafhealer, Priest of Luthic, Shaman of Gruumsh, Woodhealer.|- Druids: Swarmer."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "A Mod for the Orderly",
+    "description": {
+      "fr": "Un mod pour les maniaques puisqu'il ajoute un porte-clefs via une petite quête sympathique ou auprès des marchands (au choix lors de l'installation).",
+      "en": "A mod for perfectionists, as it adds a keyring through a charming little quest or from merchants (chosen during installation)."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "AC's Miscellaneous Tweaks",
+    "description": {
+      "fr": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si 1PP est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personnages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur.",
+      "en": "This mod stems from tweaks and modifications by Andrea C. to their BGT installation. Over time, it has grown with many components and is now compatible with all Baldur’s Gate games, original and EE. It includes components that restore BG1 icons for items from that game, restore original icons for all bonus merchant items in SoA if 1PP is installed, restore original portraits for new recruitable NPCs in EE games, fix dragon breaths, offer the use of character soundsets in classic games... In short, read the mod’s presentation via the download link, and you’ll likely find something you love."
+    },
+    "notes": {
+      "fr": [
+        "Attention : de nombreux composants rétablissent des textes anglais."
+      ],
+      "en": [
+        "Warning: many components restore English text."
+      ]
+    }
+  },
+  {
+    "name": "APR on Spec",
+    "description": {
+      "fr": "Ce mod est obsolète. Comme de plus, il s'agit d'un mod override, préférez-lui le composant `Tout le monde obtient le bonus d'attaque par round de spécialisation` de [[The Tweaks Anthology]].",
+      "en": "This mod is obsolete. Since it’s also an override mod, prefer the `Everyone gets the specialization attack per round bonus` component from [[The Tweaks Anthology]]."
+    },
+    "notes": {
+      "fr": [
+        "Remplacé par [[Combat Skills & Proficiencies]] du même auteur."
+      ],
+      "en": [
+        "Replaced by [[Combat Skills & Proficiencies]] by the same author."
+      ]
+    }
+  },
+  {
+    "name": "Ace's Enchanters Portrait Pack",
+    "description": {
+      "fr": "Il s'agit d'une collection de 8 portraits (de Christine Leonardi) redimensionnés pour être utilisés par vos personnages dans n'importe quel jeu Infinity Engine (sauf PsT et PsT:EE).",
+      "en": "This is a collection of 8 portraits (by Christine Leonardi) resized for use by your characters in any Infinity Engine game (except PsT and PsT:EE)."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "Achievements!",
+    "description": {
+      "fr": "Ce mod permet de débloquer les succès des jeux EE disponibles seulement via le client Steam. Il détecte les succès déverrouillés et les affichent dans le journal pour tout joueur sans avoir besoin d'utiliser le client Steam. De plus, il est possible d'acheter un trophée des succès qui suit l'état de succès débloqués. En plus des succès officiels de Steam, le mod débloque également un petit nombre de succès inutilisés pour SoD qui sont implémentés dans le jeu mais non enregistrés par Steam.|Le mod peut être installé à tout moment. Il n'est pas nécessaire de démarrer une nouvelle partie. Les succès qui ont déjà été débloqués avant l'installation du mod seront détectés et ajoutés au journal.",
+      "en": "This mod unlocks EE game achievements exclusive to the Steam client. It detects unlocked achievements and displays them in the journal for any player without needing the Steam client. Additionally, you can purchase an achievement trophy that tracks unlocked achievements. Beyond Steam’s official achievements, the mod also unlocks a few unused SoD achievements implemented in the game but not recorded by Steam.|The mod can be installed at any time; a new game isn’t required. Achievements unlocked before installation will be detected and added to the journal."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "Acid Elementalist Kit",
+    "description": {
+      "fr": "Ce mod ajoute le profil un profil de guerrier spécialisé dans les armes et les sorts infligeant des dégâts d'acide. Il rajoute également des armes adaptées à ce kit.",
+      "en": "This mod adds a warrior kit specialized in acid-damage weapons and spells. It also includes weapons tailored to this kit."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "Adalon's Blood",
+    "description": {
+      "fr": "Ce mini mod permet aux joueurs d'alignement bon principalement, de terminer la quête des meurtres du district du Pont sans avoir à tuer Adalon pour récupérer son sang. Les joueurs d'alignement mauvais peuvent également tenter leur chance : ils auront alors une petite chance de duper le dragon d'argent. Muni du sang, il sera désormais possible de débusquer les commanditaires du tanneur et de nettoyer l'armure dans un temple.",
+      "en": "This mini mod allows primarily good-aligned players to complete the Bridge District murder quest without killing Adalon to obtain her blood. Evil-aligned players can also try their luck, with a small chance to deceive the silver dragon. With the blood, you can now uncover the tanner’s masterminds and cleanse the armor in a temple."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "Add Morningstar of Action +4 to random treasure list",
+    "description": {
+      "fr": "Ce mod ajoute l'étoile du matin d'action dans la liste des trésors aléatoires disponibles.",
+      "en": "This mod adds the action morning star to the list of available random treasures."
+    },
+    "notes": {
+      "fr": [
+        "Incompatible avec les versions 2.5+."
+      ],
+      "en": [
+        "Incompatible with versions 2.5+."
+      ]
+    }
+  },
+  {
+    "name": "Adrian NPC",
+    "description": {
+      "fr": "Adrian Sianodel est un mage demi-elfe loyal mauvais vieux de 33 ans, que vous rencontrerez à la fin du donjon d'Irenicus. Il dispose d'une quête personnelle et romancera les PJs féminins humaines ou demi-elfes sans restriction d'alignement ni de classe. Votre PJ devra toutefois disposer d'un minimum de 12 en charisme. Les mangeurs de feuilles ne sont pas spécialement sa tasse de thé.",
+      "en": "Adrian Sianodel is a 33-year-old lawful evil half-elf mage you’ll meet at the end of Irenicus’ dungeon. He has a personal quest and will romance female human or half-elf PCs without alignment or class restrictions. However, your PC must have at least 12 Charisma. Leaf-eaters aren’t exactly his cup of tea."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "Adventurer's Miscellany",
+    "description": {
+      "fr": "Ce mod un peu brouillon ajoute un certain nombre d'objets permettant de varier les plaisirs dans le jeu : on peut allumer des torches, jongler avec des pommes, utiliser des flasques d'huile, se déguiser, etc. L'auteur a décidé de ne pas dévoiler leur mod de fonctionnement et vous laisse le découvrir en jouant.",
+      "en": "This somewhat messy mod adds various items to diversify gameplay: you can light torches, juggle apples, use oil flasks, disguise yourself, etc. The author chose not to reveal their mechanics, leaving you to discover them in-game."
+    },
+    "notes": {
+      "fr": [
+        "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
+      ],
+      "en": [
+        "Unfortunately, as is often the case with this author’s work, the quality of this mod is lacking. Moreover, they tend to claim their mods are compatible with all game types, which is often untrue... Install at your own risk."
+      ]
+    }
+  },
+  {
+    "name": "Adventures in Papperland",
+    "description": {
+      "fr": "Ce mini mod n'est rien d'autre qu'une plaisanterie. Il vous permet de rencontrer et de discuter avec un groupe légendaire, les Beatles. Vous les trouverez dans l'auberge des Cinq Chopes.",
+      "en": "This mini mod is nothing but a joke. It lets you meet and chat with the legendary band, the Beatles, found in the Five Flagons Inn."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "Aeon",
+    "description": {
+      "fr": "Aeon est un jeune abjurateur/voleur fougueux, heureux possesseur d'une épée de lune. Dénichez-le au fin fond du cimetière pour découvrir pourquoi cet humain peut porter une telle arme. Vous pourrez également expérimenter un nouveau genre de relations basée sur la fraternité ; cette voie étant réservée à des PJ mâles uniquement.",
+      "en": "Aeon is a spirited young abjurer/thief, proud owner of a moonblade. Find him deep in the graveyard to uncover why this human can wield such a weapon. You can also experience a new type of relationship based on brotherhood, exclusive to male PCs."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "Aerie Portrait Pack",
+    "description": {
+      "fr": "Contrairement à ce que son nom suggère, ce mod install toute une série de portraits utilisables par vos personnages, ainsi que des portraits alternatifs pour la plupart des PNJ recrutables de BG et de BG2.",
+      "en": "Despite its name, this mod installs a series of portraits usable by your characters, as well as alternative portraits for most recruitable NPCs in BG and BG2."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "Aerie in BG:EE",
+    "description": {
+      "fr": "Ce petit mod fait apparaître Aerie dans BG1. Si vous la connaissez déjà de BG2, vous savez déjà où vous avez le plus de chances de la trouver. Sinon... eh bien, c'est à la foire de Nashkel (dans BG2, elle dit que le cirque avait l'habitude d'y aller...). Elle n'est pas recrutable, mais vous pourrez effectuer de petites quêtes pour elle, à l'issue desquelles elle s'installera dans la tente de Benta et fournira ses services (temple et magasin).",
+      "en": "This small mod makes Aerie appear in BG1. If you know her from BG2, you likely know where to find her. If not... well, it’s at the Nashkel fair (in BG2, she mentions the circus used to visit there). She’s not recruitable, but you can complete small quests for her, after which she’ll settle in Benta’s tent, offering temple and shop services."
+    },
+    "notes": {
+      "fr": [
+        "Depuis la version 2.0, seule la version sur github semble compatible avec EET."
+      ],
+      "en": [
+        "Since version 2.0, only the GitHub version appears compatible with EET."
+      ]
+    }
+  },
+  {
+    "name": "Afaaq, the Djinni Companion",
+    "description": {
+      "fr": "Ce mod ajoute un djinn se comportant comme un septième membre du groupe. Il dialogue avec le personnage principal et les membres du groupe (partie en travaux) et donne son avis dans les autres dialogues, comme un PNJ classique. Il propose également plusieurs quêtes faisant découvrir de nouveaux lieux. Il est assimilé à un guerrier-mage.",
+      "en": "This mod adds a djinn acting as a seventh party member. It converses with the main character and party members (work in progress) and offers opinions in other dialogues, like a typical NPC. It also provides several quests revealing new locations. It’s treated as a fighter-mage."
+    },
+    "notes": {
+      "fr": [
+        "Dans IWD:EE, il ne dialogue pas avec le PNJ, mais échange seulement quelques propos avec un PNJ drow associé. Il n'y a également pas de nouveaux lieux."
+      ],
+      "en": [
+        "In IWD:EE, it doesn’t converse with NPCs, only exchanging a few words with an associated drow NPC. There are also no new locations."
+      ]
+    }
+  },
+  {
+    "name": "Aftermotions",
+    "description": {
+      "fr": "Ce mod a pour objectif de rendre les combats plus animés en permettant des feintes, le recul d'un personnage touché, des chutes et des variations de mouvement supplémentaires pour certaines armes. Il permet aussi de contrôler le terrain grâce à la portée de son arme, en bloquant plusieurs ennemis ou en les tenant à distance. Vos personnages devront parfois changer d'arme ou se battre à mains nues pour pouvoir approcher vos adversaires. Quelques corrections d'animations et de types de dégâts pour les armes, en particulier les lances, sont aussi disponibles.",
+      "en": "This mod aims to make combat more dynamic by enabling feints, knockbacks for hit characters, falls, and additional movement variations for certain weapons. It also lets you control the battlefield through weapon range, blocking multiple enemies or keeping them at bay. Your characters may need to switch weapons or fight unarmed to approach foes. Some animation and weapon damage type fixes, especially for spears, are also included."
+    },
+    "notes": {
+      "fr": [
+        "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
+      ],
+      "en": [
+        "Unfortunately, as is often the case with this author’s work, the quality of this mod is lacking. Moreover, they tend to claim their mods are compatible with all game types, which is often untrue... Install at your own risk."
+      ]
+    }
+  },
+  {
+    "name": "Ajantis BG1 Expansion Modification",
+    "description": {
+      "fr": "Ce mod ajoute une romance et une voie de l'amitié avec le célèbre paladin de BG.|Suivant votre type d'installation, le contenu ajouté sera différent : avec BG original, le mod ajoute la romance du [[The BG1NPC Project]] et la voie de l'amitié ; avec BGT, Tutu, BG:EE et EET, le mod ajoute la voie de l'amitié et plus de contenu pour la romance du [[The BG1NPC Project]]. Ce mod est en effet considéré comme une extension du [[The BG1NPC Project]], mais peut être installé et joué sans lui. Dans ce cas, la voie de l'amitié est immédiatement disponible.",
+      "en": "This mod adds a romance and a friendship path with the famous BG paladin.|Depending on your installation type, the added content varies: with original BG, the mod adds the [[The BG1NPC Project]] romance and friendship path; with BGT, Tutu, BG:EE, and EET, it adds the friendship path and more content for the [[The BG1NPC Project]] romance. This mod is considered an extension of [[The BG1NPC Project]] but can be installed and played without it, in which case the friendship path is immediately available."
+    },
+    "notes": {
+      "fr": [
+        "[[Ajantis Portrait Pack]] propose des portraits alternatifs.",
+        "BG sans TotSC n'est plus supporté depuis la version 21."
+      ],
+      "en": [
+        "[[Ajantis Portrait Pack]] offers alternative portraits.",
+        "BG without TotSC is no longer supported since version 21."
+      ]
+    }
+  },
+  {
+    "name": "Ajantis NPC for BGII",
+    "description": {
+      "fr": "Avec ce mod, Ajantis, le paladin de l'Ordre du Cœur Radieux dans BG1, peut intégrer le groupe après le combat dans les Collines de Lancevent. Il comporte une romance qui poursuit celle du [[The BG1NPC Project]] (en cas de trilogie), ou toute une nouvelle, ainsi que la possibilité de développer une profonde amitié avec lui. Le mod suppose qu'Ajantis a voyagé avec le PC dans BG1 pendant un certain temps. C'est là qu'Ajantis a gagné suffisamment d'honneur pour être fait chevalier.",
+      "en": "With this mod, Ajantis, the paladin of the Order of the Radiant Heart in BG1, can join the party after the battle in the Windspear Hills. It includes a romance continuing from [[The BG1NPC Project]] (for trilogies) or an entirely new one, plus the option to develop a deep friendship with him. The mod assumes Ajantis traveled with the PC in BG1 for some time, during which he earned enough honor to be knighted."
+    },
+    "notes": {
+      "fr": [
+        "[[Ajantis Portrait Pack]] propose des portraits alternatifs."
+      ],
+      "en": [
+        "[[Ajantis Portrait Pack]] offers alternative portraits."
+      ]
+    }
+  },
+  {
+    "name": "Ajoc's Mini Mod",
+    "description": {
+      "fr": "Créé à l'origine pour Baldur's Gate 2 avec le mod [[The Darkest Day]], ce mod a été réécrit pour ne pas nécessiter TDD. Il ajoute du nouveau contenu : des quêtes (dont certaines très courtes), des monstres, des objets et de nouvelles zones.",
+      "en": "Originally created for Baldur’s Gate 2 with the [[The Darkest Day]], this mod has been rewritten to not require TDD. It adds new content: quests (some very short), monsters, items, and new areas."
+    },
+    "notes": {
+      "fr": [
+        "Le second lien renvoie vers une version de Roxanne plus récente et plus complète. Uniquement compatible EE, cette version est également non officielle, son nom est devenu `Loron's Return`."
+      ],
+      "en": [
+        "The second link points to a newer, more complete version by Roxanne. Only compatible with EE, this version is also unofficial, named `Loron’s Return`."
+      ]
+    }
+  },
+  {
+    "name": "Akun's Gear",
+    "description": {
+      "fr": "C'est un mod d'objets qui contient 2 katanas enchantés et 1 armure pour Tueur de magiciens. Tous les objets ne peuvent être équipés que par un Tueur de magiciens de niveau 4.||Les objets peuvent être achetés auprès du marchand Erdane dans la zone de la Tour de Durlag. Le marchand vend les objets directement à partir de son stock (pas d'options de dialogue). Le prix est de plusieurs milliers de PO par objet.",
+      "en": "This is an item mod containing 2 enchanted katanas and 1 armor for Mage Slayers. All items can only be equipped by a level 4 Mage Slayer.||The items can be purchased from the merchant Erdane in the Durlag’s Tower area. The merchant sells the items directly from his stock (no dialogue options). The price is several thousand GP per item."
+    },
+    "notes": {
+      "fr": [
+        "Comme il écrit dynamiquement une nouvelle catégorie d'objets dans le système, il est recommandé d'installer ce mod en dernier."
+      ],
+      "en": [
+        "Since it dynamically writes a new item category into the system, it’s recommended to install this mod last."
+      ]
+    }
+  },
+  {
+    "name": "Alabaster Sands",
+    "description": {
+      "fr": "Alabaster Sands est un petit mod de quête de la série The Athkatlan Grounds, qui ajoute de nouvelles zones et quêtes à la ville principale de Shadow of Amn. Il y a une quête principale, et quelques autres plus petites, toutes orientées autour de la zone titrée, qui n'est rien d'autre que la plage publique d'Athkatla. Visitez donc l'endroit, aidez ceux que vous y rencontrerez et découvrez cette nouvelle partie de la cité de la monnaie.|Le mod ajoute 7 nouvelles quêtes qui introduisent de nouveaux personnages, objets et graphismes d'objets.",
+      "en": "Alabaster Sands is a small quest mod from the Athkatlan Grounds series, adding new areas and quests to the main city of Shadows of Amn. It features one main quest and a few smaller ones, all centered around the titular area, which is none other than Athkatla’s public beach. Visit the place, help those you meet, and explore this new part of the city of coin.|The mod adds 7 new quests introducing new characters, items, and graphical assets."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  },
+  {
+    "name": "Alassa",
+    "description": {
+      "fr": "Une voleuse mauvaise avec voix, quelques banters légers et un portrait original. Nécessite ToB.",
+      "en": "An evil thief with voice acting, some light banter, and an original portrait. Requires ToB."
+    },
+    "notes": {
+      "fr": [
+        "Choisissez le lien github pour la version BG2EE/EET."
+      ],
+      "en": [
+        "Choose the GitHub link for the BG2EE/EET version."
+      ]
+    }
+  },
+  {
+    "name": "Alchemist kit for mages",
+    "description": {
+      "fr": "Ce mod ajoute un nouveau profil de mage : l'alchimiste. Il dispose de moins d'emplacements de sorts que les autres mages, mais peut créer des potions uniques très différentes de celles que l'on trouve dans les jeux originaux, ainsi que plusieurs types de grenades hautement volatiles. Ce mod ajoute 34 nouveaux objets avec des effets inédits, depuis une potion de guérison écœurante sous forme de lait de vampire jusqu'à une adorable boule de mousse qui peut ressusciter les morts, en passant par des choses plus bizarres comme des baguettes de tendon d'elfe, de la lymphe de serpent, des gouttes d'os, du nectar de sang, de l'huile de fée et des engins de guerre apocalyptiques de 100 kg. Toutes les icônes sont tirées d'Icewind Dale 2 pour leur donner un aspect unique.|L'alchimiste est un personnage de soutien unique qui peut faire une variété de choses différentes, mais obtenir le maximum de ses objets coûte des centaines d'or au début du jeu, et des milliers, voire des dizaines de milliers d'or à la fin du jeu. Mais cela en vaut la peine.",
+      "en": "This mod adds a new mage kit: the alchemist. It has fewer spell slots than other mages but can craft unique potions unlike anything in the original games, plus several types of highly volatile grenades. The mod adds 34 new items with novel effects, from a nauseating healing potion in the form of vampire milk to an adorable moss ball that can resurrect the dead, and stranger things like elf tendon wands, snake bile, bone drops, blood nectar, fairy oil, and 100-kg apocalyptic war machines. All icons are sourced from Icewind Dale 2 for a unique look.|The alchemist is a distinctive support character capable of varied tasks, but maximizing their items costs hundreds of gold early in the game, and thousands or even tens of thousands by the end. But it’s worth it."
+    },
+    "notes": {
+      "fr": [
+        "Ce mod est devenu obsolète depuis son intégration dans le mod [[Expanded Classes and Kits]]."
+      ],
+      "en": [
+        "This mod became obsolete after its integration into the [[Expanded Classes and Kits]] mod."
+      ]
+    }
+  },
+  {
+    "name": "Alcool",
+    "description": {
+      "fr": "Ce mod d'expansion ajoute un dialogue à l'initiative de Korgan pour passer une soirée dans une taverne avant de partir pour Spellhold.",
+      "en": "This expansion mod adds a Korgan-initiated dialogue for a tavern evening before departing for Spellhold."
+    },
+    "notes": {
+      "fr": [],
+      "en": []
+    }
+  }
+]
