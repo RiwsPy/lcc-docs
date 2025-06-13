@@ -10,6 +10,7 @@ def main():
     mods = ModManager.get_mod_list()
 
     mod_names_founded = set()
+    mod_ids_founded = set()
     mod_names = set(mod.name for mod in mods)
     tp2s = set()
     urls_to_mod = dict()
@@ -24,7 +25,11 @@ def main():
                     f"🔴 {mod.name} : Lien interne vers un mod inexistant → {link}"
                 )
 
-        # clean name unicity
+        # check id unicity
+        assert mod.id not in mod_ids_founded, f"🔴 {mod.id} : ID déjà existant"
+        mod_ids_founded.add(mod.id)
+
+        # check name unicity
         assert mod.name not in mod_names_founded, f"🔴 {mod.name} : Nom déjà existant"
         mod_names_founded.add(mod.name)
 

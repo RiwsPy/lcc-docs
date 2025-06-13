@@ -10,7 +10,7 @@
             <img src="{{ static }}img/download.png" title="Téléchargement" alt="Image de téléchargement" width="42" height="42">
         </div>
         {% for mod in mods %}
-            <div class="row mod" id="{{ mod.id }}">
+            <div class="row mod" id="{{ mod.slug_name }}">
                 <details class="column title update-hash-parent">
                     <summary class="name">{{ mod.name }}</summary>
                 </details>

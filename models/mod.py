@@ -39,6 +39,7 @@ class Icon:
 
 @dataclass(kw_only=True, eq=False, frozen=True, config=ConfigDict(extra="forbid"))
 class Mod:
+    id: int
     name: str
     categories: list[CategoryEnum]
     urls: list[str]
@@ -66,7 +67,7 @@ class Mod:
         )
 
     @property
-    def id(self) -> str:
+    def slug_name(self) -> str:
         return slugify(self.name)
 
     @property

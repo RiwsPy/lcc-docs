@@ -74,6 +74,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 ### Informations par défaut des mods :
 ```json
     {
+        "id": 0,
         "name": "",
         "description": "",
         "urls": [],
@@ -93,7 +94,8 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 
 
 ### Détails
-`name` : nom du mod\
+`id`: identifiant unique du mod\
+`name` : nom unique du mod\
 `description` : description du mod\
 `urls` : liste de lien, généralement lien de téléchargement ou/et lien du forum le présentant\
 `categories`: liste des catégories dans lesquelles le mod est placé. Valeurs possibles :
