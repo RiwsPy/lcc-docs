@@ -3658,7 +3658,13 @@
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "pl",
+            "it",
+            "de",
+            "fr",
+            "en"
+        ],
         "status": "active",
         "last_update": "2003-10",
         "tp2": "n/a"
@@ -4520,7 +4526,14 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "fr",
+            "it",
+            "ru",
+            "es"
+        ],
         "status": "active",
         "last_update": "2017-10",
         "tp2": "bpseries"
@@ -33838,7 +33851,7 @@
     {
         "id": 1051,
         "name": "The Big Picture",
-        "description": "À l'origine, BP permettait de pouvoir jouer aux 3 grands mods ([[The Darkest Day]], [[Shadows over Soubar]] et [[Tortured Souls-BP]]) en un seul et même package. Au fil du temps, tous ces mods ont été recodés au format WeiDU. Les ajouts propres de BP ayant eu tellement de succès, son auteur le convertit à son tour en WeiDU, et BP permet aujourd'hui d'améliorer très sensiblement l'IA de tous vos adversaires, ainsi que de votre groupe, tout comme de corser de nombreuses rencontres. Vous trouverez le détail de tous les composants du mod sur la [page CMS](https://www.baldursgateworld.fr/lacouronne/content/big-picture-1509/) qui lui est réservée. Vous remarquerez ainsi que de nouvelles rencontres (naturellement ardues) ont également été ajoutées : la liche sur les docks, Orcus le prince-démon... ainsi que des reprises de certains composants de [[Tactics]] et la restauration d'[[Ascension]] dans la version de David Gaider.",
+        "description": "À l'origine, BP permettait de pouvoir jouer aux 3 grands mods ([[The Darkest Day]], [[Shadows over Soubar]] et [[Tortured Souls-BP]]) en un seul et même package. Au fil du temps, tous ces mods ont été recodés au format WeiDU. Les ajouts propres de BP ayant eu tellement de succès, son auteur le convertit à son tour en WeiDU, et BP permet aujourd'hui d'améliorer très sensiblement l'IA de tous vos adversaires, ainsi que de votre groupe, tout comme de corser de nombreuses rencontres. Vous remarquerez ainsi que de nouvelles rencontres (naturellement ardues) ont également été ajoutées : la liche sur les docks, Orcus le prince-démon... ainsi que des reprises de certains composants de [[Tactics]] et la restauration d'[[Ascension]] dans la version de David Gaider.",
         "urls": [
             "https://www.shsforums.net/files/file/546-the-big-picture-v181/"
         ],
@@ -33861,7 +33874,14 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "fr",
+            "es",
+            "it",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2014-02",
         "tp2": "bp"
@@ -35885,10 +35905,17 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "it",
+            "ru",
+            "cn"
+        ],
         "status": "active",
         "last_update": "2013-03",
-        "tp2": "n/a"
+        "tp2": "TobEx"
     },
     {
         "id": 1112,
@@ -36479,7 +36506,9 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "fr"
+        ],
         "status": "active",
         "last_update": "2001-07",
         "tp2": "n/a"
@@ -36635,10 +36664,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "archived",
         "last_update": "2020-07",
-        "tp2": ""
+        "tp2": "TsukiBG2"
     },
     {
         "id": 1135,
@@ -36660,7 +36691,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "2021-09",
         "tp2": "turaldnpc"
@@ -37200,7 +37233,9 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2016-10",
         "tp2": "7C#Unbiased"
@@ -37257,11 +37292,11 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2001-12",
         "tp2": "non-weidu"
     },
     {
@@ -37565,10 +37600,12 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "obsolete",
         "last_update": "2019-05",
-        "tp2": ""
+        "tp2": "UniversalArcherKit"
     },
     {
         "id": 1163,
@@ -37645,7 +37682,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "missing",
@@ -37673,7 +37710,10 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cz"
+        ],
         "status": "active",
         "last_update": "2021-07",
         "tp2": "Unofficial Item Pack"
@@ -37725,7 +37765,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2014-01",
         "tp2": "dakkon"
@@ -37750,7 +37792,10 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2024-01",
         "tp2": "urchin"
@@ -37984,7 +38029,10 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de"
+        ],
         "status": "active",
         "last_update": "2003-06",
         "tp2": "Vanim"
@@ -38061,7 +38109,7 @@
         "name": "Lost Items",
         "description": "Ce mod implante plusieurs objets de BG2 and BG1Tutu et dans la partie BG de BGT, essentiellement des contenants et des armes exotiques. D'autres composants transforment Xan en sorcier, améliore les moines et Viconia, et proposent d'autres ajustements cosmétiques comme des nouveaux portraits pour les PNJ recrutables.",
         "urls": [
-            "http://america.iegmc.net/lostitems/"
+            "http://america.iegmc.net/lostitems/LostItems_vR2.rar"
         ],
         "categories": [
             "Sort et objet"
@@ -38076,7 +38124,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
@@ -38104,10 +38152,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "verrbg2"
+        "tp2": "VerrBG2"
     },
     {
         "id": 1182,
@@ -38132,7 +38182,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2025-06",
         "tp2": "verrsza"
@@ -38164,7 +38216,11 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2025-04",
         "tp2": "ViconiaRevamped"
@@ -38488,10 +38544,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2022-12",
-        "tp2": "Walahnan"
+        "tp2": "WalahnanBG2"
     },
     {
         "id": 1194,
@@ -38515,7 +38573,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2022-12",
         "tp2": "Walahnan"
@@ -38578,7 +38638,9 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "obsolete",
         "last_update": "2019-07",
         "tp2": ""
