@@ -1,10 +1,56 @@
+from contextlib import contextmanager
 import enum
 import os
+import threading
 
 from models.utils import slugify
 
 STATIC_ROOT = os.path.join("docs", "static")
 IMG_ROOT = os.path.join(STATIC_ROOT, "img")
+LANGUAGE_DEFAULT = "fr"
+
+
+class LanguageConfig:
+    _instance = None
+    _lock = threading.Lock()
+
+    def __new__(cls):
+        with cls._lock:
+            if cls._instance is None:
+                cls._instance = super().__new__(cls)
+                cls._instance._language = LANGUAGE_DEFAULT
+                cls._instance._local = threading.local()
+        return cls._instance
+
+    @property
+    def LANGUAGE(self):
+        return getattr(self._local, "language", self._language)
+
+    @LANGUAGE.setter
+    def LANGUAGE(self, value):
+        self._language = value
+
+    @contextmanager
+    def override_language(self, lang: str):
+        """Temporarily override language in a context"""
+        old_lang = getattr(self._local, "language", LANGUAGE_DEFAULT)
+        self._local.language = lang
+        try:
+            yield
+        finally:
+            self._local.language = old_lang
+
+
+LANGUAGE_CONFIG = LanguageConfig()
+
+
+def set_language(lang: str) -> None:
+    LANGUAGE_CONFIG.LANGUAGE = lang
+
+
+def current_language() -> str:
+    return LANGUAGE_CONFIG.LANGUAGE
+
 
 """
     safe: les paramètres qui font baisser la note :
@@ -28,7 +74,7 @@ attrs_icon_data: dict[str, dict[tuple, dict[str, str]]] = {
             "label": "Mod à éviter ou obsolète",
         },
     },
-    "translation_state": {
+    "translation_state_auto": {
         ("yes", "n/a"): {
             "icon": "✅",
             "label": "Mod traduit",
