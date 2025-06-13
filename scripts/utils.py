@@ -3,10 +3,12 @@ import json
 from pathlib import Path
 
 from models.mod import Mod
+from settings import current_language
 
 
 class ModManager:
     mod_filename: str = "mods.json"
+    mod_filename_lang: str = "mods_{lang}.json"
     root = Path.cwd()
 
     @classmethod
@@ -14,20 +16,41 @@ class ModManager:
         return cls.root / "db"
 
     @classmethod
-    def load(cls) -> dict:
-        with open(cls.db_path() / cls.mod_filename, "r", encoding="utf-8") as f:
+    def get_language_filename(cls, language: str | None = None) -> str:
+        if language is None:
+            language = current_language()
+        if language:
+            return cls.mod_filename_lang.format(lang=language)
+        return cls.mod_filename
+
+    @classmethod
+    def load(cls, language: str | None = None) -> dict:
+        filename = cls.get_language_filename(language=language)
+
+        with open(cls.db_path() / filename, "r", encoding="utf-8") as f:
             return json.load(f)
 
     @classmethod
-    def export(cls, mods: dict) -> None:
+    def export(cls, mods: dict, language: str | None = None) -> None:
         assert mods, "Mods not loaded"
 
-        with open(cls.db_path() / cls.mod_filename, "w", encoding="utf-8") as f:
+        filename = cls.get_language_filename(language=language)
+        with open(cls.db_path() / filename, "w", encoding="utf-8") as f:
             json.dump(mods, f, indent=4, ensure_ascii=False)
 
     @classmethod
-    def get_mod_list(cls) -> list[Mod]:
-        return [Mod(**mod) for mod in cls.load()]
+    def get_mod_list(cls, language: str | None = None) -> list[Mod]:
+        original_list = cls.load(language="")
+        if language == "":
+            return [Mod(**mod) for mod in original_list]
+
+        language_list = cls.load(language=language)
+        original_list_pks = {mod["id"]: mod for mod in original_list}
+        language_list_pks = {mod["id"]: mod for mod in language_list}
+
+        for pk, data in language_list_pks.items():
+            original_list_pks[pk] |= data
+        return [Mod(**mod) for mod in original_list_pks.values()]
 
 
 class CleanModMixin:
