@@ -19,7 +19,7 @@
                 <input type="radio" id="translation-all" oninput="filterMod()" name="trans" value="" checked />
                 <label for="translation-all">Tous</label>
             </div>
-            {% for icon_data in attrs_icon_data.translation_state.values() %}
+            {% for icon_data in attrs_icon_data.translation_state_auto.values() %}
             <div class="search_item translation">
                 <input type="radio" id="translation-{{ loop.index }}" oninput="filterMod()" name="trans" value="{{ icon_data.icon }}" />
                 <label for="translation-{{ loop.index }}">{{ icon_data.icon }} {{ icon_data.label }}</label>

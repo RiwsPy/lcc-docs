@@ -138,6 +138,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - `"n/a"` : ✅ Mod ne nécessitant pas de traduction
  - `"todo"` : ❎ Mod partiellement traduit
  - `"wip"` : ❌ Mod en cours de traduction
+ - `"auto"` : ? Si le Mod possède la langue courante dans `languages`, alors `yes` sinon `no`
 
 `safe` : si le mod est considéré comme fiable (installable via weidu, maintenu, ne génère pas d'incompatibilités). Valeurs possibles :
  - `2` : 🟢 Mod de qualité

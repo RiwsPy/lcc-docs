@@ -8,7 +8,13 @@ from pydantic.dataclasses import dataclass
 
 from models.url import Url
 from models.utils import slugify
-from settings import CategoryEnum, GameEnum, attrs_icon_data, language_translate
+from settings import (
+    CategoryEnum,
+    GameEnum,
+    attrs_icon_data,
+    current_language,
+    language_translate,
+)
 
 link_regex = re.compile(r"\[\[[^].]+\]\]")
 external_link_regex = re.compile(r"\[(?P<name>[^\]]+)\]\((?P<url>[^)]+)\)")
@@ -41,7 +47,7 @@ class Mod:
     team: list[str]
     games: list[GameEnum]
     safe: Literal[0, 1, 2]
-    translation_state: Literal["yes", "todo", "no", "wip", "n/a"]
+    translation_state: Literal["yes", "todo", "no", "wip", "n/a", "auto"]
     languages: list[str]
     authors: list[str]
     status: ModStatus
@@ -62,6 +68,12 @@ class Mod:
     @property
     def id(self) -> str:
         return slugify(self.name)
+
+    @property
+    def translation_state_auto(self) -> str:
+        if self.translation_state == "auto":
+            return "yes" if current_language() in self.languages else "no"
+        return self.translation_state
 
     @property
     def is_weidu(self) -> bool:
@@ -229,7 +241,7 @@ class Mod:
     def is_bws_compatible(self) -> bool:
         return (
             GameEnum.EET in self.games
-            and self.translation_state in ("yes", "n/a", "todo")
+            and self.translation_state_auto in ("yes", "n/a", "todo")
             and self.tp2 not in ("non-weidu", "n/a")
             and self.status == ModStatus.ACTIVE
         )
