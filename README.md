@@ -53,6 +53,7 @@ Cette version propose plusieurs améliorations techniques notables :
 
 ## Limites
 * Modifier un Json est moins sexy que de passer par un formulaire fait pour ça
+* Le Json est moins sexy d'une base de données relationnelle pour gérer les relations
 * …
 
 
@@ -131,12 +132,12 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - PST
  - PSTEE
 
-`authors`: liste des personnes ayant participé à la création/maintenance du mod, actuellement non affiché\
+`authors`: liste des personnes ayant participé à la création/maintenance du mod\
 `team` : liste des personnes ayant participé à la traduction du mod\
 `notes` : liste de messages indiquant des points d'attention\
 `translation_state` : le mod est traduit ou pas, ou s'il ne nécessite pas de traduction. Valeurs possibles :
- - `"yes"` : ✅ Mod traduit en français
- - `"no"` : ❌ Mod non traduit en français
+ - `"yes"` : ✅ Mod traduit
+ - `"no"` : ❌ Mod non traduit
  - `"n/a"` : ✅ Mod ne nécessitant pas de traduction
  - `"todo"` : ❎ Mod partiellement traduit
  - `"wip"` : ❌ Mod en cours de traduction
@@ -160,7 +161,6 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 `last_update` : date connue de la dernière mise à jour du mod, champ automatique, format YYYY-MM
 
 `tp2` : nom du fichier tp2 du mod. Valeurs possibles :
- - `"nom du tp2"` : le vrai nom du tp2
+ - `"nom du tp2"` : le vrai nom du tp2 (sans le setup-)
  - `"n/a"` : non concerné (notamment pour les utilitaires)
  - `"non-weidu"` : pas de fichier tp2 car non-WeiDU
- - `"multiple"` : plusieurs fichiers tp2 dans le dossier (plusieurs mods ou plusieurs versions selon le jeu)
