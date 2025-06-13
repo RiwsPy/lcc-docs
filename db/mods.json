@@ -944,10 +944,16 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "ru",
+            "fr",
+            "cn"
+        ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "alabastersands"
+        "tp2": "AlabasterSands"
     },
     {
         "id": 30,
@@ -4006,7 +4012,9 @@
         "id": 121,
         "name": "BG2 Tweaks Pack",
         "description": "Ce mod compilait plusieurs autres mods : les G3 Tweak Pack, [[Tutu Tweak Pack]] et Wes Weimer's Ease of Use. Il permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances...).|Il est désormais obsolète et a été remplacé par [[The Tweaks Anthology]].",
-        "urls": [],
+        "urls": [
+            "https://github.com/aVENGER981/BG2_Tweaks"
+        ],
         "categories": [
             "Gameplay"
         ],
@@ -4031,10 +4039,21 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en",
+            "cz",
+            "fr",
+            "de",
+            "it",
+            "kr",
+            "pl",
+            "ru",
+            "es",
+            "cn"
+        ],
         "status": "embed",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2012-05",
+        "tp2": "BG2_Tweaks"
     },
     {
         "id": 122,
@@ -5432,7 +5451,13 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru",
+            "pl",
+            "kr"
+        ],
         "status": "active",
         "last_update": "2024-09",
         "tp2": "InnBB"
@@ -6628,7 +6653,7 @@
         ],
         "team": [],
         "notes": [
-            "Cette version n'est plus maintenue et ne fonctionne plus depuis le patch 2.6. Préférez-lui [[Bubb's Spell Menu (Extended)]]."
+            "Cette version n'est plus maintenue et ne fonctionne plus depuis le patch 2.6. Préférez-lui [[Bubb's Spell Menu Extended]]."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -6639,7 +6664,7 @@
     },
     {
         "id": 204,
-        "name": "Bubb's Spell Menu (Extended)",
+        "name": "Bubb's Spell Menu Extended",
         "description": "Si la vue des sorts en liste de la version normale de ce mod ne vous plaît pas, cette version pourrait bien vous plaire. Elle émule les emplacements de la sélection de sorts par défaut et les organise de telle sorte que tous les sorts soient visibles en même temps.",
         "urls": [
             "https://forums.beamdog.com/discussion/68958/",
@@ -6668,7 +6693,13 @@
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pt",
+            "fr",
+            "de",
+            "es"
+        ],
         "status": "active",
         "last_update": "2024-10",
         "tp2": "bubb_spell_menu_extended"
@@ -10959,10 +10990,20 @@
         ],
         "translation_state": "yes",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "es",
+            "de",
+            "pl",
+            "fr",
+            "ru",
+            "pt",
+            "it",
+            "pl"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": "dungeonbegone"
+        "last_update": "2014-01",
+        "tp2": "DungeonBeGone"
     },
     {
         "id": 339,
@@ -10983,10 +11024,9 @@
         ],
         "team": [],
         "notes": [
-            "La traduction française a été réalisée grâce à des traducteurs automatiques.",
             "Ce mod a été inclu dans [[Autumn's Twilight for BGII]] du même auteur."
         ],
-        "translation_state": "todo",
+        "translation_state": "no",
         "safe": 0,
         "languages": [
             "en",
@@ -11325,10 +11365,18 @@
         ],
         "translation_state": "yes",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en",
+            "it",
+            "fr",
+            "es",
+            "de",
+            "ru",
+            "pl"
+        ],
         "status": "obsolete",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2008-08",
+        "tp2": "Ease"
     },
     {
         "id": 350,
@@ -11601,7 +11649,7 @@
     {
         "id": 359,
         "name": "Eilistraee’s Song",
-        "description": "Un mod de quête pour BG2, créé par Lava, qui se déclenche si vous décidez d'épargner la vie de Solaufein et de le laisser s'enfuir d'Ust Natha. Il vous remerciera après votre évasion d'Ust Natha, et vous parlera d'un nouvel endroit, où vous pourrez demander de l'aide afin de récupérer votre âme... Le mod inclut 6 nouvelles cartes, 21 nouveaux objets et bien entendu de nouvelles quêtes secondaires en marge de celle de votre âme.",
+        "description": "Un mod de quête pour BG2, qui se déclenche si vous décidez d'épargner la vie de Solaufein et de le laisser s'enfuir d'Ust Natha. Il vous remerciera après votre évasion d'Ust Natha, et vous parlera d'un nouvel endroit, où vous pourrez demander de l'aide afin de récupérer votre âme... Le mod inclut 6 nouvelles cartes, 21 nouveaux objets et bien entendu de nouvelles quêtes secondaires en marge de celle de votre âme.",
         "urls": [
             "https://downloads.weaselmods.net/download/eilistraees-song/"
         ],
@@ -11623,7 +11671,16 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru",
+            "de",
+            "it",
+            "pl",
+            "cn",
+            "kr"
+        ],
         "status": "active",
         "last_update": "2024-12",
         "tp2": "Eilistraee"
@@ -11843,10 +11900,17 @@
         ],
         "translation_state": "yes",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "es",
+            "it",
+            "fr",
+            "ru"
+        ],
         "status": "embed",
         "last_update": "2010-07",
-        "tp2": ""
+        "tp2": "A6CharmPatch"
     },
     {
         "id": 367,
@@ -12568,10 +12632,17 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "es",
+            "it",
+            "fr",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2010-07",
-        "tp2": "n/a"
+        "tp2": "A6XPPatch"
     },
     {
         "id": 389,
@@ -13099,7 +13170,13 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "fr",
+            "pl",
+            "kr"
+        ],
         "status": "active",
         "last_update": "2023-03",
         "tp2": "FindIt-IWD"
@@ -16088,10 +16165,13 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "es",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2009-08",
-        "tp2": "huple_npc"
+        "tp2": "Huple_NPC"
     },
     {
         "id": 502,
@@ -19162,7 +19242,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Kensai Ryu"
+        ],
         "team": [
             "Raphaël Mizrahi"
         ],
@@ -19511,16 +19593,21 @@
             "BGT"
         ],
         "authors": [
+            "Demi"
+        ],
+        "team": [
             "Valandil"
         ],
-        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": "wip",
         "last_update": "2018-04",
-        "tp2": "non-weidu"
+        "tp2": "kit_rev"
     },
     {
         "id": 609,
@@ -20411,7 +20498,12 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "pl",
+            "es"
+        ],
         "status": "active",
         "last_update": "2019-01",
         "tp2": "level1npcs"
@@ -24008,7 +24100,13 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru",
+            "pl",
+            "kr"
+        ],
         "status": "active",
         "last_update": "2024-09",
         "tp2": "BlinkingDead"
@@ -24779,7 +24877,15 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn",
+            "pl",
+            "ru",
+            "fr",
+            "kr",
+            "it"
+        ],
         "status": "active",
         "last_update": "2025-04",
         "tp2": "ooze"
@@ -24979,15 +25085,24 @@
             "Kish"
         ],
         "team": [
-            "Mornagest"
+            "Mornagest",
+            "Thot",
+            "Barren Fischa"
         ],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "es",
+            "de",
+            "pl",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2019-02",
-        "tp2": "oversight"
+        "tp2": "Oversight"
     },
     {
         "id": 785,
@@ -26967,7 +27082,14 @@
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "es",
+            "de",
+            "fr",
+            "it",
+            "ru"
+        ],
         "status": "active",
         "last_update": "",
         "tp2": "d0questpack"
@@ -27030,10 +27152,18 @@
         ],
         "translation_state": "yes",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "es",
+            "it",
+            "pl",
+            "ru",
+            "fr"
+        ],
         "status": "embed",
         "last_update": "2012-08",
-        "tp2": ""
+        "tp2": "PST-Tweak"
     },
     {
         "id": 848,
@@ -27587,7 +27717,7 @@
     {
         "id": 865,
         "name": "Refinements",
-        "description": "Ce mod a été conçu pour apporter diverses améliorations aux règles de BG2. Parmi les composants : un profil (Sword Angel) ; un rééquilibrage des métamorphes de façon plus raisonnable que celle de Weimer (Ease of Use, BG2 Tweaks) ; le raffinement des armures avec la prise en compte du poids, l'échec sur les sorts profanes et les compétences de voleur ; et enfin des HLAs entièrement remodelées pour les rendre plus uniques à chaque classe et profil.",
+        "description": "Ce mod a été conçu pour apporter diverses améliorations aux règles de BG2. Parmi les composants : un profil (Sword Angel) ; un rééquilibrage des métamorphes de façon plus raisonnable que celle de [[Ease-of-Use Mod Collection]] ; le raffinement des armures avec la prise en compte du poids, l'échec sur les sorts profanes et les compétences de voleur ; et enfin des HLAs entièrement remodelées pour les rendre plus uniques à chaque classe et profil.",
         "urls": [
             "https://www.shsforums.net/topic/58623-refinements-hlas-modularized-and-on-bg2ee/",
             "https://github.com/UnearthedArcana/refinements"
@@ -31083,7 +31213,13 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "ru",
+            "kr",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2024-03",
         "tp2": "Snowytoes"
@@ -32837,7 +32973,13 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "fr",
+            "pl",
+            "kr"
+        ],
         "status": "active",
         "last_update": "2023-03",
         "tp2": "OurLady"
@@ -33001,10 +33143,19 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "cn",
+            "fr",
+            "pl",
+            "kr",
+            "it",
+            "es"
+        ],
         "status": "active",
         "last_update": "2025-02",
-        "tp2": "tangledisle"
+        "tp2": "TangledIsle"
     },
     {
         "id": 1031,
@@ -33412,7 +33563,13 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru",
+            "pl",
+            "kr"
+        ],
         "status": "active",
         "last_update": "2024-09",
         "tp2": "Skineater"
@@ -33669,7 +33826,11 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2023-07",
         "tp2": "TheBeaurinLegacy"
@@ -33857,10 +34018,20 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "de",
+            "ru",
+            "fr",
+            "kr",
+            "it",
+            "cn",
+            "es"
+        ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "bridgesblock"
+        "tp2": "BridgesBlock"
     },
     {
         "id": 1057,
@@ -36641,7 +36812,7 @@
     {
         "id": 1141,
         "name": "The Tweaks Anthology",
-        "description": "Ce mod permet de faire mille et un petits ajustements au jeu. Vous pouvez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale, ...), faire des changements aux règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances, ...).|Il remplace complètement les anciens mods BG Tweaks, [[BG2 Tweaks Pack]], G3 Tweaks, Tutu Tweaks, Ease of Use, Icewind Dale Tweak, Icewind Dale II Tweak et Planescape: Torment Tweak.",
+        "description": "Ce mod permet de faire mille et un petits ajustements au jeu. Vous pouvez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale, ...), faire des changements aux règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances, ...).|Il remplace complètement les anciens mods BG Tweaks, [[BG2 Tweaks Pack]], G3 Tweaks, Tutu Tweaks, [[Ease-of-Use Mod Collection]], Icewind Dale Tweak, Icewind Dale II Tweak et Planescape: Torment Tweak.",
         "urls": [
             "https://www.gibberlings3.net/mods/tweaks/tweaks/",
             "https://github.com/Gibberlings3/Tweaks-Anthology/"
@@ -37842,10 +38013,15 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "it",
+            "ru",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2024-07",
-        "tp2": "varshoon"
+        "tp2": "Varshoon"
     },
     {
         "id": 1179,
@@ -38713,10 +38889,17 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "it",
+            "ru",
+            "cn",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2022-08",
-        "tp2": "weasels!"
+        "tp2": "Weasels!"
     },
     {
         "id": 1207,
@@ -41795,13 +41978,10 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr",
-            "de",
-            "es",
-            "it",
+            "pl",
             "ru",
-            "cn",
-            "jp"
+            "es",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-12",
