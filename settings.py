@@ -23,7 +23,7 @@ class LanguageConfig:
         return cls._instance
 
     @property
-    def LANGUAGE(self):
+    def LANGUAGE(self) -> str:
         return getattr(self._local, "language", self._language)
 
     @LANGUAGE.setter
