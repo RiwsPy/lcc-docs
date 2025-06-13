@@ -1,9 +1,13 @@
 from dataclasses import fields
 import json
+from json import JSONDecodeError
+import logging
 from pathlib import Path
 
 from models.mod import Mod
 from settings import current_language
+
+logger = logging.getLogger(__name__)
 
 
 class ModManager:
@@ -24,11 +28,17 @@ class ModManager:
         return cls.mod_filename
 
     @classmethod
-    def load(cls, language: str | None = None) -> dict:
+    def load(cls, language: str | None = None) -> list[dict]:
         filename = cls.get_language_filename(language=language)
 
-        with open(cls.db_path() / filename, "r", encoding="utf-8") as f:
-            return json.load(f)
+        try:
+            with open(cls.db_path() / filename, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except FileNotFoundError:
+            logging.error(f"File not found {cls.db_path() / filename}")
+        except JSONDecodeError:
+            logging.error(f"Error decoding {cls.db_path() / filename}")
+        return list()
 
     @classmethod
     def export(cls, mods: dict, language: str | None = None) -> None:
