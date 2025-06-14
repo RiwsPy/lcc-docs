@@ -60,6 +60,8 @@ class Mod:
     status: ModStatus
     last_update: YearMonthFormat
     tp2: str
+    description_meta: dict = None
+    notes_meta: dict = None
 
     @field_validator("last_update")
     def check_last_update(cls, v):
