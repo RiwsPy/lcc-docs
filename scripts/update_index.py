@@ -18,7 +18,7 @@ from settings import (
 # Réorienter automatiquement vers la page de sa langue
 
 
-def main():
+def main(**kwargs):
     env = Environment(
         loader=PackageLoader("docs", "templates"),
         autoescape=select_autoescape(["html"]),
