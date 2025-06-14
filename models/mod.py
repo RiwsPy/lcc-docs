@@ -81,6 +81,8 @@ class Mod:
     @property
     def translation_state_auto(self) -> str:
         if self.translation_state == "auto":
+            if not self.languages:
+                return "todo"
             return "yes" if current_language() in self.languages else "no"
         return self.translation_state
 
