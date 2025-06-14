@@ -16,11 +16,23 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    spec = spec_from_file_location("module", args.filename)
+    spec = spec_from_file_location(args.filename, args.filename)
     module = module_from_spec(spec)
     spec.loader.exec_module(module)
 
-    logging.basicConfig(filename="lccdocs.log", level=logging.INFO)
+    error_format = (
+        "%(asctime)s - %(levelname)s - %(name)s|%(funcName)s:%(lineno)d - %(message)s"
+    )
+
+    log_file = logging.FileHandler("lccdocs.log", encoding="utf-8")
+    log_file.setLevel(logging.INFO)
+    log_file.setFormatter(logging.Formatter(error_format))
+    logging.getLogger().addHandler(log_file)
+
+    log_console = logging.StreamHandler()
+    log_console.setLevel(logging.INFO)
+    log_console.setFormatter(logging.Formatter(error_format))
+    logging.getLogger().addHandler(log_console)
 
     if hasattr(module, "main"):
         module.main()
