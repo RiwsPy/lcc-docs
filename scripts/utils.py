@@ -59,7 +59,7 @@ class ModManager:
         language_list_pks = {mod["id"]: mod for mod in language_list}
 
         for pk, data in language_list_pks.items():
-            original_list_pks[pk] |= data
+            original_list_pks[pk] |= {k: v for k, v in data.items() if v}
         return [Mod(**mod) for mod in original_list_pks.values()]
 
 
