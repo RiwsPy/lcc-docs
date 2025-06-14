@@ -330,10 +330,10 @@
         "notes": [
             "Remplacé par [[Combat Skills & Proficiencies]] du même auteur."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "obsolete",
+        "status": "missing",
         "last_update": "2015-03",
         "tp2": "APR_on_Spec"
     },
@@ -846,7 +846,10 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de",
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-06",
         "tp2": "ajantisbg2"
@@ -7104,11 +7107,13 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 0,
-        "languages": [],
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2018-05",
-        "tp2": "non-weidu"
+        "tp2": "RobeChange"
     },
     {
         "id": 218,
@@ -9792,10 +9797,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2024-01",
-        "tp2": "dendjelion"
+        "tp2": "Dendjelion"
     },
     {
         "id": 301,
@@ -11106,10 +11114,13 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2024-11",
-        "tp2": "dusky"
+        "tp2": "Dusky"
     },
     {
         "id": 342,
@@ -11132,10 +11143,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-09",
-        "tp2": "dvaradime"
+        "tp2": "Dvaradime"
     },
     {
         "id": 343,
@@ -12978,7 +12991,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-05",
         "tp2": "FaldornBG2"
@@ -13005,7 +13020,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2015-07",
         "tp2": "faren"
@@ -13795,7 +13812,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-12",
         "tp2": "fyalvara"
@@ -15997,7 +16016,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-01",
         "tp2": "hommet"
@@ -17617,10 +17638,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "ina"
+        "tp2": "Ina"
     },
     {
         "id": 547,
@@ -19522,10 +19546,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2016-05",
-        "tp2": "kindrek"
+        "tp2": "Kindrek"
     },
     {
         "id": 606,
@@ -21007,7 +21034,7 @@
             "Zyl"
         ],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
@@ -21266,7 +21293,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "cn"
+        ],
         "status": "active",
         "last_update": "",
         "tp2": ""
@@ -27722,7 +27751,9 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "obsolete",
         "last_update": "2007-05",
         "tp2": "non-weidu"
@@ -32641,10 +32672,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "archived",
         "last_update": "2020-07",
-        "tp2": ""
+        "tp2": "Swylif"
     },
     {
         "id": 1015,
@@ -34630,10 +34663,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "whinhill"
+        "tp2": "WhinHill"
     },
     {
         "id": 1074,
@@ -35336,7 +35372,7 @@
     {
         "id": 1094,
         "name": "The Vanishing of Skie Silvershield",
-        "description": "Ce mod permet de recruter Eldoth et Skie dès votre départ de Château-Suif. Eldoth se trouve dans l'auberge du Bras amical et dispose d'un nouveau plan pour kidnapper/libérer Skie Écudargent.Cependant, pour ne pas déséquilibrer le jeu, Eldoth et Skie commencent à niveau 1.",
+        "description": "Ce mod permet de recruter Eldoth et Skie dès votre départ de Château-Suif. Eldoth se trouve dans l'auberge du Bras amical et dispose d'un nouveau plan pour kidnapper/libérer Skie Écudargent.Cependant, pour ne pas déséquilibrer le jeu, Eldoth et Skie commencent au niveau 1.",
         "urls": [
             "https://downloads.weaselmods.net/download/the-vanishing-of-skie-silvershield/"
         ],
@@ -35355,10 +35391,15 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "pl",
+            "cn"
+        ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "thevanishingofskiesilvershield"
+        "tp2": "TheVanishingOfSkieSilvershield"
     },
     {
         "id": 1095,
@@ -35818,7 +35859,9 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-11",
         "tp2": "tipps"
@@ -42326,10 +42369,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-05",
-        "tp2": "bethany"
+        "tp2": "Bethany"
     },
     {
         "id": 1310,
@@ -42352,10 +42397,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "groveofchaos"
+        "tp2": "GroveOfChaos"
     },
     {
         "id": 1311,
@@ -48308,7 +48356,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
@@ -48340,7 +48388,9 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2006-11",
         "tp2": "WxJon"
