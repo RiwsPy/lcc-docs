@@ -14,6 +14,12 @@ if __name__ == "__main__":
         type=str,
         help="Chemin vers le fichier de script, format python",
     )
+    parser.add_argument(
+        "--language",
+        "-l",
+        type=str,
+        help="Langue du script",
+    )
     args = parser.parse_args()
 
     spec = spec_from_file_location(args.filename, args.filename)

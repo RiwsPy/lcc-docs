@@ -31,6 +31,12 @@ class ModStatus(enum.StrEnum):
     WIP = "wip"
 
 
+class MetaStatusEnum(enum.StrEnum):
+    OK = "ok"
+    OUTDATED = "outdated"
+    TODO = "todo"
+
+
 @dataclass(slots=True, kw_only=True)
 class Icon:
     icon: str
