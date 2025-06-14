@@ -53,6 +53,7 @@ def main(**kwargs):
                 static=f"..{os_sep}static{os_sep}",
                 attrs_icon_data=attrs_icon_data,
                 mod_length=len(mods),
+                language=language,
             )
 
             dir_path = root / "docs" / language
