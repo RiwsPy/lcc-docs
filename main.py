@@ -35,7 +35,7 @@ if __name__ == "__main__":
     logging.getLogger().addHandler(log_console)
 
     if hasattr(module, "main"):
-        module.main()
+        module.main(**args.__dict__)
     else:
         print("Erreur : le script n'a pas de méthode main")
         sys.exit(1)
