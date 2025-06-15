@@ -1868,7 +1868,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
@@ -2022,7 +2022,7 @@
         "notes": [
             "Ce mod a été converti en WeiDU et intégré dans [[The Sorcerer's Place Collection]]."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "embed",
@@ -4330,7 +4330,7 @@
             "Si vous envisagez d'installer ce mod, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[BGT Tweak Pack]], ni le mod [[BGSpawn System]], puisque tous modifient la même chose.",
             "Attention : seule la version de GitHub est aussi compatible EET. En plus, c'est la dernière mise à jour."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "archived",
@@ -8828,7 +8828,9 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2002-03",
         "tp2": "non-weidu"
@@ -10530,11 +10532,11 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2001-01",
         "tp2": "non-weidu"
     },
     {
@@ -11794,12 +11796,16 @@
             "Daemon"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "L'utilisation de KitEditor est requise."
+        ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2002-06",
         "tp2": "non-weidu"
     },
     {
@@ -12077,7 +12083,7 @@
     },
     {
         "id": 371,
-        "name": "Enhanced Creatures for BG1-Tutu",
+        "name": "Enhanced Creatures for BG1Tutu",
         "description": "Toujours en version alpha, ce mod avait pour ambition de rendre le jeu plus difficile en augmentant les caractéristiques des créatures et en les dotant de scripts intelligents.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/download.php"
@@ -12088,17 +12094,19 @@
         "games": [
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "Aigleborgne"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, son auteur ne l'a pas finalisé, et je vous déconseille fortement de l'installer si vous ne voulez pas risquer de sérieuses incompatibilités avec les autres mods."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "wip",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-12",
+        "tp2": "Enhanced_Creatures"
     },
     {
         "id": 372,
@@ -12378,7 +12386,7 @@
     {
         "id": 380,
         "name": "Ethereal Blademaster",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], Ethereal Blademaster, [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], Ethereal Blademaster, [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de rôdeur.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -12393,12 +12401,14 @@
             "Medivh"
         ],
         "team": [],
-        "notes": [],
-        "translation_state": "no",
-        "safe": 1,
+        "notes": [
+            "ToB est requis."
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
         "languages": [],
-        "status": "active",
-        "last_update": "",
+        "status": "wip",
+        "last_update": "2002-01",
         "tp2": "non-weidu"
     },
     {
@@ -13897,11 +13907,11 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2001-12",
         "tp2": "non-weidu"
     },
     {
@@ -14939,7 +14949,7 @@
     {
         "id": 461,
         "name": "Grog's Custom AI Scripts",
-        "description": "Il s'agit d'une collection de scripts \"intelligents pour IWD : Mage, Clerc, Druid, Clerc/Mage Script, Clerc/Rôdeur, Paladin, script \"générique\", Guerrier, Anti-lanceur de sorts, Anti-mort-vivant, Barde, Voleur en mode furtif...",
+        "description": "Il s'agit d'une collection de scripts intelligents pour IWD : Mage, Clerc, Druid, Clerc/Mage Script, Clerc/Rôdeur, Paladin, script \"générique\", Guerrier, Anti-lanceur de sorts, Anti-mort-vivant, Barde, Voleur en mode furtif...",
         "urls": [
             "https://sorcerers.net/Games/IWD/index_mods.php"
         ],
@@ -14949,13 +14959,15 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "Grog"
+        ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "missing",
         "last_update": "2005-01",
         "tp2": "p3e"
     },
@@ -15487,7 +15499,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2015-06",
         "tp2": "hellrec"
@@ -18153,7 +18167,10 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2018-09",
         "tp2": "randomiser"
@@ -18715,7 +18732,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "active",
@@ -20430,7 +20447,7 @@
         "translation_state": "no",
         "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "missing",
         "last_update": "2015-10",
         "tp2": "BGeeSA"
     },
@@ -22855,14 +22872,16 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "maus"
+        ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "wip",
-        "last_update": "",
+        "last_update": "2023-01",
         "tp2": ""
     },
     {
@@ -28094,7 +28113,9 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2005-11",
         "tp2": "non-weidu"
@@ -40719,7 +40740,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
@@ -46378,7 +46399,7 @@
     {
         "id": 1439,
         "name": "EEScript",
-        "description": "",
+        "description": "Un script pour voyager facilement dans Baldur's Gate. Il permet de gérer les actions courantes comme l'attaque, la fuite, l'utilisation des compétences actives et la gestion des pièges.",
         "urls": [
             "https://github.com/hybridgame/EEScript"
         ],
@@ -46394,9 +46415,11 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "kr"
+        ],
         "status": "active",
         "last_update": "2022-11",
         "tp2": "EEScript"
