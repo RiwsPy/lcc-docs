@@ -44616,7 +44616,7 @@
         "description": "Ce mod introduit un court chemin d'amitié avec la shamane nommée M'Khiin pendant le Siege of Dragonspear. Il comprend quatre discussions, des conversations supplémentaires répondant à des moments clés de l'histoire, et des interjections élargies lorsque c'est nécessaire.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38825-mkhiin-siege-of-dragonspear-friendship/",
-            "https://github.com/bucketfulofsunshine/M-khiin-Friendship/"
+            "https://america.iegmc.com/bucketfulofsunshine/MKhinnFriendship.zip"
         ],
         "categories": [
             "PNJ (autre)"
@@ -44629,14 +44629,14 @@
         ],
         "team": [],
         "notes": [
-            "Une extension est prévue pour BG2."
+            "Une extension est prévue pour BG2 : [[M'Khiin NPC]]."
         ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
-        "status": "missing",
+        "status": "active",
         "last_update": "2024-11",
         "tp2": "kinfriendship"
     },
@@ -47939,7 +47939,7 @@
         "name": "M'Khiin NPC",
         "description": "Ce mod ajoute M'Khiin Grubdoubler, le compagnon gobelin de Siege of Dragonspear, à BG2EE en tant que PNJ recrutable. Charname peut choisir de la connaître ou de la rencontrer à nouveau dans SOA. Elle peut être recrutée dans le district du Temple. Elle possède plusieurs banters, bon nombre d'interactions ainsi qu'une petite quête.",
         "urls": [
-            "https://github.com/bucketfulofsunshine/mkhiinbg2"
+            "https://america.iegmc.com/bucketfulofsunshine/mkhiinbg2-main.zip"
         ],
         "categories": [
             "PNJ recrutable"
@@ -47957,7 +47957,7 @@
         "languages": [
             "en"
         ],
-        "status": "missing",
+        "status": "wip",
         "last_update": "2025-01",
         "tp2": "mkhiinbg2"
     },
@@ -50902,7 +50902,7 @@
         "name": "RoyalProtector's Item Pack",
         "description": "Ce mod ajoute des objets dans le monde de BGEE et BG2EE. Chaque élément est totalement optionnel lors de l'installation. Vous n'en aimez qu'un ? N'en installez qu'un seul.",
         "urls": [
-            "https://github.com/szaumoor/ZS_ItemPack"
+            "https://github.com/zenblack/ZS_ItemPack"
         ],
         "categories": [
             "Sort et objet"
