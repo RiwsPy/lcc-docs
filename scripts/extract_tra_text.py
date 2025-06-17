@@ -1,40 +1,45 @@
 #!/usr/bin/env python3
-import json
-from pathlib import Path
-
+from models.mod import MetaStatusEnum
 from scripts.utils import ModManager
 from settings import LANGUAGE_DEFAULT
 
+DATA_SEP = ";"
+
 
 def extract_mods_text(language):
-    root = Path.cwd()
-    filename = ModManager.db_path() / ModManager.get_language_filename(language=language)
+    """
+    Extract the text of the mods to translate from the database.
 
-    # use root in paths
-    with open(filename, "r", encoding="utf-8") as f:
-        mods = json.load(f)
+    Outputs:
+        - tra_input_{language}.txt: the text of the description and notes to translate
+        - tra_input_map_{language}.txt: the map of the text to the mod id, text type and index
+    """
+    mods = ModManager.load(language=language)
 
+    db_path = ModManager.db_path()
     with (
-        open(root / "db" / f"tra_input_{language}.txt", "w", encoding="utf-8") as out,
-        open(root / "db" / f"tra_input_map_{language}.txt", "w", encoding="utf-8") as map_out,
+        open(db_path / f"tra_input_{language}.txt", "w", encoding="utf-8") as out,
+        open(db_path / f"tra_input_map_{language}.txt", "w", encoding="utf-8") as map_out,
     ):
         line_number = 1
 
         for mod in mods:
             mod_id = mod["id"]
 
-            if mod["description_meta"]["status"] == "todo":
-                # get description_meta.source
+            if mod["description_meta"]["status"] == MetaStatusEnum.TODO:
                 source = mod["description_meta"]["source"]
                 out.write(source + "\n")
-                map_out.write(f"{line_number}: mod {mod_id} description\n")
+                map_line = DATA_SEP.join([str(line_number), str(mod_id), "description", "0"])
+                map_out.write(map_line + "\n")
                 line_number += 1
 
-            # Write each note on a new line, check if note list is not empty and note is not empty string
-            if mod["notes_meta"]["status"] == "todo":
+            if mod["notes_meta"]["status"] == MetaStatusEnum.TODO:
                 for note_idx, note in enumerate(mod["notes_meta"]["source"]):
                     out.write(note + "\n")
-                    map_out.write(f"{line_number}: mod {mod_id} note {note_idx}\n")
+                    map_line = DATA_SEP.join(
+                        [str(line_number), str(mod_id), "note", str(note_idx)]
+                    )
+                    map_out.write(map_line + "\n")
                     line_number += 1
 
 
