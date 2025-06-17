@@ -1,64 +1,64 @@
 #!/usr/bin/env python3
-import json
-from pathlib import Path
+import logging
 
+from models.mod import MetaStatusEnum
+from scripts.extract_tra_text import DATA_SEP
+from scripts.utils import ModManager
 from settings import LANGUAGE_DEFAULT
 
+logger = logging.getLogger(__name__)
 
-def build_translated_mods(language):
-    root = Path.cwd()
 
+def merge_translated_text(language):
+    """Merge the translated text into the mods_{language}.json, set its status to 'outdated'."""
+    # Load the mods database
+    mods = ModManager.load(language=language)
+
+    db_path = ModManager.db_path()
     # Read the translated text
-    with open(root / "db" / f"tra_output_{language}.txt", "r", encoding="utf-8") as f:
+    with open(db_path / f"tra_output_{language}.txt", "r", encoding="utf-8") as f:
         translated_lines = f.readlines()
 
     # Read the mapping file
-    with open(root / "db" / f"tra_input_map_{language}.txt", "r", encoding="utf-8") as f:
+    with open(db_path / f"tra_input_map_{language}.txt", "r", encoding="utf-8") as f:
         mapping_lines = f.readlines()
-
-    # Read the original mods_{language} file
-    with open(root / "db" / f"mods_{language}.json", "r", encoding="utf-8") as f:
-        mods = json.load(f)
 
     # Create a mapping of line numbers to translations
     translations = {}
     for i, line in enumerate(translated_lines, 1):
         translations[i] = line.strip()
 
+    # Create a mapping of mod ids to mods
+    mapping_id_mod = {mod["id"]: mod for mod in mods}
+
     # Process the mapping and update mods
     for mapping in mapping_lines:
-        line_num, mod_info = mapping.strip().split(": ", 1)
-        line_num = int(line_num)
-
-        # Parse the mod info
-        parts = mod_info.split()
-        mod_id = int(parts[1])
-        field_type = parts[2]  # 'description' or 'note'
+        line_num, mod_id, field_type, idx = [
+            int(x) if i != 2 else x for i, x in enumerate(mapping.split(DATA_SEP))
+        ]
 
         # Find the corresponding mod
-        mod = next((m for m in mods if m["id"] == mod_id), None)
+        mod = mapping_id_mod.get(mod_id)
         if not mod:
+            logger.warning(f"Mod {mod_id} not found in {language} database")
             continue
 
         # Update the appropriate field
         if field_type == "description":
             mod["description"] = translations[line_num]
-            mod["description_meta"]["status"] = "outdated"
+            mod["description_meta"]["status"] = MetaStatusEnum.OUTDATED
         elif field_type == "note":
-            note_idx = int(parts[3])
             # Ensure notes list exists and is long enough
             if "notes" not in mod:
                 mod["notes"] = []
-            while len(mod["notes"]) <= note_idx:
+            while len(mod["notes"]) <= idx:
                 mod["notes"].append("")
-            mod["notes"][note_idx] = translations[line_num]
-            mod["notes_meta"]["status"] = "outdated"
+            mod["notes"][idx] = translations[line_num]
+            mod["notes_meta"]["status"] = MetaStatusEnum.OUTDATED
 
-    # Write the translated mods to a new file
-    with open(root / "db" / f"mods_{language}.json", "w", encoding="utf-8") as f:
-        json.dump(mods, f, ensure_ascii=False, indent=4)
+    ModManager.export(mods, language=language)
 
 
 def main(**kwargs):
     language = kwargs.get("language") or LANGUAGE_DEFAULT
-    build_translated_mods(language)
+    merge_translated_text(language)
