@@ -9,6 +9,11 @@ from settings import LANGUAGE_DEFAULT
 logger = logging.getLogger(__name__)
 
 
+def parse_line(line: str) -> tuple[int, int, str, int]:
+    line_number, mod_id, field_type, idx = line.split(DATA_SEP)
+    return int(line_number), int(mod_id), field_type, int(idx)
+
+
 def merge_translated_text(language):
     """Merge the translated text into the mods_{language}.json, set its status to 'outdated'."""
     # Load the mods database
@@ -33,9 +38,7 @@ def merge_translated_text(language):
 
     # Process the mapping and update mods
     for mapping in mapping_lines:
-        line_num, mod_id, field_type, idx = [
-            int(x) if i != 2 else x for i, x in enumerate(mapping.split(DATA_SEP))
-        ]
+        line_num, mod_id, field_type, idx = parse_line(mapping)
 
         # Find the corresponding mod
         mod = mapping_id_mod.get(mod_id)

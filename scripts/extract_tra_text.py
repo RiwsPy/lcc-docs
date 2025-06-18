@@ -6,6 +6,10 @@ from settings import LANGUAGE_DEFAULT
 DATA_SEP = ";"
 
 
+def build_line(line_number: int, mod_id: int, field_type: str, idx: int) -> str:
+    return DATA_SEP.join([str(line_number), str(mod_id), field_type, str(idx)])
+
+
 def extract_mods_text(language):
     """
     Extract the text of the mods to translate from the database.
@@ -29,16 +33,14 @@ def extract_mods_text(language):
             if mod["description_meta"]["status"] == MetaStatusEnum.TODO:
                 source = mod["description_meta"]["source"]
                 out.write(source + "\n")
-                map_line = DATA_SEP.join([str(line_number), str(mod_id), "description", "0"])
+                map_line = build_line(line_number, mod_id, "description", 0)
                 map_out.write(map_line + "\n")
                 line_number += 1
 
             if mod["notes_meta"]["status"] == MetaStatusEnum.TODO:
                 for note_idx, note in enumerate(mod["notes_meta"]["source"]):
                     out.write(note + "\n")
-                    map_line = DATA_SEP.join(
-                        [str(line_number), str(mod_id), "note", str(note_idx)]
-                    )
+                    map_line = build_line(line_number, mod_id, "note", note_idx)
                     map_out.write(map_line + "\n")
                     line_number += 1
 
