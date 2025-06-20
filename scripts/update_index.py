@@ -1,5 +1,4 @@
 import logging
-import os
 from os import sep as os_sep
 from pathlib import Path
 
