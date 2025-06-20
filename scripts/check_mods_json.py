@@ -4,7 +4,7 @@ from scripts.utils import ModManager
 from settings import language_flags
 
 
-def main():
+def main(**kwargs):
     mod_link = re.compile(r"\[\[([^\].]+)\]\]")
 
     mods = ModManager.get_mod_list()

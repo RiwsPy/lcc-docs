@@ -1,12 +1,18 @@
 from dataclasses import fields
 import json
+from json import JSONDecodeError
+import logging
 from pathlib import Path
 
+from i18n import current_language
 from models.mod import Mod
+
+logger = logging.getLogger(__name__)
 
 
 class ModManager:
     mod_filename: str = "mods.json"
+    mod_filename_lang: str = "mods_{lang}.json"
     root = Path.cwd()
 
     @classmethod
@@ -14,20 +20,47 @@ class ModManager:
         return cls.root / "db"
 
     @classmethod
-    def load(cls) -> dict:
-        with open(cls.db_path() / cls.mod_filename, "r", encoding="utf-8") as f:
-            return json.load(f)
+    def get_language_filename(cls, language: str | None = None) -> str:
+        if language is None:
+            language = current_language()
+        if language:
+            return cls.mod_filename_lang.format(lang=language)
+        return cls.mod_filename
 
     @classmethod
-    def export(cls, mods: dict) -> None:
+    def load(cls, language: str | None = None) -> list[dict]:
+        filename = cls.get_language_filename(language=language)
+
+        try:
+            with open(cls.db_path() / filename, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except FileNotFoundError:
+            logging.error(f"File not found {cls.db_path() / filename}")
+        except JSONDecodeError:
+            logging.error(f"Error decoding {cls.db_path() / filename}")
+        return list()
+
+    @classmethod
+    def export(cls, mods: dict, language: str | None = None) -> None:
         assert mods, "Mods not loaded"
 
-        with open(cls.db_path() / cls.mod_filename, "w", encoding="utf-8") as f:
+        filename = cls.get_language_filename(language=language)
+        with open(cls.db_path() / filename, "w", encoding="utf-8") as f:
             json.dump(mods, f, indent=4, ensure_ascii=False)
 
     @classmethod
-    def get_mod_list(cls) -> list[Mod]:
-        return [Mod(**mod) for mod in cls.load()]
+    def get_mod_list(cls, language: str | None = None) -> list[Mod]:
+        original_list = cls.load(language="")
+        if language == "":
+            return [Mod(**mod) for mod in original_list]
+
+        language_list = cls.load(language=language)
+        original_list_pks = {mod["id"]: mod for mod in original_list}
+        language_list_pks = {mod["id"]: mod for mod in language_list}
+
+        for pk, data in language_list_pks.items():
+            original_list_pks[pk] |= {k: v for k, v in data.items() if v}
+        return [Mod(**mod) for mod in original_list_pks.values()]
 
 
 class CleanModMixin:

@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-
 import argparse
 from importlib.util import module_from_spec, spec_from_file_location
 import logging
 import sys
+
+import i18n  # noqa
 
 logger = logging.getLogger(__name__)
 
@@ -13,6 +14,12 @@ if __name__ == "__main__":
         "filename",
         type=str,
         help="Chemin vers le fichier de script, format python",
+    )
+    parser.add_argument(
+        "--language",
+        "-l",
+        type=str,
+        help="Langue du script",
     )
     args = parser.parse_args()
 
@@ -35,7 +42,7 @@ if __name__ == "__main__":
     logging.getLogger().addHandler(log_console)
 
     if hasattr(module, "main"):
-        module.main()
+        module.main(**args.__dict__)
     else:
         print("Erreur : le script n'a pas de méthode main")
         sys.exit(1)
