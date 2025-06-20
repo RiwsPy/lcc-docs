@@ -8,6 +8,7 @@ from jinja2 import Environment, PackageLoader, select_autoescape
 from i18n import LANGUAGE_CONFIG, LANGUAGE_DEFAULT
 from scripts.utils import ModManager
 from settings import (
+    DB_PATH,
     CategoryEnum,
     GameEnum,
     attrs_icon_data,
@@ -41,7 +42,7 @@ def main(**kwargs):
     resize_image_from_width(24)
 
     # auto-discover languages
-    with os.scandir(ModManager.db_path()) as it:
+    with os.scandir(DB_PATH) as it:
         languages = {
             f.name.removeprefix("mods_").removesuffix(".json")
             for f in it

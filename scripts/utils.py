@@ -2,10 +2,10 @@ from dataclasses import fields
 import json
 from json import JSONDecodeError
 import logging
-from pathlib import Path
 
 from i18n import current_language
 from models.mod import Mod
+from settings import DB_PATH
 
 logger = logging.getLogger(__name__)
 
@@ -13,11 +13,6 @@ logger = logging.getLogger(__name__)
 class ModManager:
     mod_filename: str = "mods.json"
     mod_filename_lang: str = "mods_{lang}.json"
-    root = Path.cwd()
-
-    @classmethod
-    def db_path(cls) -> Path:
-        return cls.root / "db"
 
     @classmethod
     def get_language_filename(cls, language: str | None = None) -> str:
@@ -32,12 +27,12 @@ class ModManager:
         filename = cls.get_language_filename(language=language)
 
         try:
-            with open(cls.db_path() / filename, "r", encoding="utf-8") as f:
+            with open(DB_PATH / filename, "r", encoding="utf-8") as f:
                 return json.load(f)
         except FileNotFoundError:
-            logging.error(f"File not found {cls.db_path() / filename}")
+            logging.error(f"File not found {DB_PATH / filename}")
         except JSONDecodeError:
-            logging.error(f"Error decoding {cls.db_path() / filename}")
+            logging.error(f"Error decoding {DB_PATH / filename}")
         return list()
 
     @classmethod
@@ -45,7 +40,7 @@ class ModManager:
         assert mods, "Mods not loaded"
 
         filename = cls.get_language_filename(language=language)
-        with open(cls.db_path() / filename, "w", encoding="utf-8") as f:
+        with open(DB_PATH / filename, "w", encoding="utf-8") as f:
             json.dump(mods, f, indent=4, ensure_ascii=False)
 
     @classmethod
@@ -90,7 +85,7 @@ def simplify_url(url: str) -> str:
     return url.removesuffix("/")
 
 
-with open(ModManager.db_path() / "author_pseudos.json", "r", encoding="utf-8") as f:
+with open(DB_PATH / "author_pseudos.json", "r", encoding="utf-8") as f:
     author_pseudos = json.load(f)
 
 AUTHOR_PSEUDOS: dict[str, tuple[str]] = {

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from models.mod import MetaStatusEnum
 from scripts.utils import ModManager
-from settings import LANGUAGE_DEFAULT
+from settings import DB_PATH, LANGUAGE_DEFAULT
 
 DATA_SEP = ";"
 
@@ -20,10 +20,9 @@ def extract_mods_text(language):
     """
     mods = ModManager.load(language=language)
 
-    db_path = ModManager.db_path()
     with (
-        open(db_path / f"tra_input_{language}.txt", "w", encoding="utf-8") as out,
-        open(db_path / f"tra_input_map_{language}.txt", "w", encoding="utf-8") as map_out,
+        open(DB_PATH / f"tra_input_{language}.txt", "w", encoding="utf-8") as out,
+        open(DB_PATH / f"tra_input_map_{language}.txt", "w", encoding="utf-8") as map_out,
     ):
         line_number = 1
 

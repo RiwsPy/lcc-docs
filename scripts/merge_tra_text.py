@@ -4,7 +4,7 @@ import logging
 from models.mod import MetaStatusEnum
 from scripts.extract_tra_text import DATA_SEP
 from scripts.utils import ModManager
-from settings import LANGUAGE_DEFAULT
+from settings import DB_PATH, LANGUAGE_DEFAULT
 
 logger = logging.getLogger(__name__)
 
@@ -19,13 +19,12 @@ def merge_translated_text(language):
     # Load the mods database
     mods = ModManager.load(language=language)
 
-    db_path = ModManager.db_path()
     # Read the translated text
-    with open(db_path / f"tra_output_{language}.txt", "r", encoding="utf-8") as f:
+    with open(DB_PATH / f"tra_output_{language}.txt", "r", encoding="utf-8") as f:
         translated_lines = f.readlines()
 
     # Read the mapping file
-    with open(db_path / f"tra_input_map_{language}.txt", "r", encoding="utf-8") as f:
+    with open(DB_PATH / f"tra_input_map_{language}.txt", "r", encoding="utf-8") as f:
         mapping_lines = f.readlines()
 
     # Create a mapping of line numbers to translations

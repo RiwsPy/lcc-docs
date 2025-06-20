@@ -1,11 +1,13 @@
 import enum
 import os
+from pathlib import Path
 
 from i18n import _g
 from models.utils import slugify
 
-STATIC_ROOT = os.path.join("docs", "static")
-IMG_ROOT = os.path.join(STATIC_ROOT, "img")
+STATIC_ROOT: Path = os.path.join("docs", "static")
+IMG_ROOT: Path = os.path.join(STATIC_ROOT, "img")
+DB_PATH: Path = Path.cwd() / "db"
 
 
 """
