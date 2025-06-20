@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-
 import argparse
 from importlib.util import module_from_spec, spec_from_file_location
 import logging
 import sys
+
+import i18n  # noqa
 
 logger = logging.getLogger(__name__)
 

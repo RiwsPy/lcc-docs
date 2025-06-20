@@ -6,13 +6,13 @@ from typing import Annotated, Literal
 from pydantic import ConfigDict, StringConstraints, field_validator
 from pydantic.dataclasses import dataclass
 
+from i18n import _g, current_language
 from models.url import Url
 from models.utils import slugify
 from settings import (
     CategoryEnum,
     GameEnum,
     attrs_icon_data,
-    current_language,
     language_translate,
 )
 
@@ -190,36 +190,46 @@ class Mod:
         for url in self.urls:
             if self.url_is_direct_archive(url):
                 filename = url.rsplit("/", 1)[-1]
-                auto_notes.append(f"Fichier `{filename}`.")
+                auto_notes.append(_g("Fichier `{filename}`.").format(filename=filename))
 
         # check language
         if len(self.languages) == 1 and self.languages[0] not in ("fr", "en"):
             language = language_translate["fr"].get(self.languages[0], "langue inconnue")
-            auto_notes.append(f"Ce mod n'est disponible qu'en {language}.")
+            auto_notes.append(
+                _g("Ce mod n'est disponible qu'en {language}.").format(language=language)
+            )
 
         if self.is_outdated and self.safe <= 1:
             year, _ = self.last_update.split("-")
             if self.is_EE:
                 auto_notes.append(
-                    f"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec la dernière version du jeu."
+                    _g(
+                        "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec la dernière version du jeu."
+                    ).format(year=year)
                 )
 
         if not self.is_weidu:
             auto_notes.append(
-                "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le à vos risques et périls."
+                _g(
+                    "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le à vos risques et périls."
+                )
             )
         if self.status == ModStatus.ARCHIVED:
             auto_notes.append(
-                "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui donner suite."
+                _g(
+                    "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui donner suite."
+                )
             )
         elif self.status == ModStatus.WIP:
-            auto_notes.append("Ce mod est toujours en cours de réalisation.")
+            auto_notes.append(_g("Ce mod est toujours en cours de réalisation."))
         elif self.status == ModStatus.MISSING:
             if self.urls:
                 url = self.urls[0]
-                note = f"Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
+                note = _g(
+                    "Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
+                ).format(url=url)
             else:
-                note = "Ce mod a disparu."
+                note = _g("Ce mod a disparu.")
             auto_notes.append(note)
         # if self.team:
         #     auto_notes.append(

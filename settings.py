@@ -1,55 +1,11 @@
-from contextlib import contextmanager
 import enum
 import os
-import threading
 
+from i18n import _g
 from models.utils import slugify
 
 STATIC_ROOT = os.path.join("docs", "static")
 IMG_ROOT = os.path.join(STATIC_ROOT, "img")
-LANGUAGE_DEFAULT = "fr"
-
-
-class LanguageConfig:
-    _instance = None
-    _lock = threading.Lock()
-
-    def __new__(cls):
-        with cls._lock:
-            if cls._instance is None:
-                cls._instance = super().__new__(cls)
-                cls._instance._language = LANGUAGE_DEFAULT
-                cls._instance._local = threading.local()
-        return cls._instance
-
-    @property
-    def LANGUAGE(self) -> str:
-        return getattr(self._local, "language", self._language)
-
-    @LANGUAGE.setter
-    def LANGUAGE(self, value):
-        self._language = value
-
-    @contextmanager
-    def override_language(self, lang: str):
-        """Temporarily override language in a context"""
-        old_lang = getattr(self._local, "language", LANGUAGE_DEFAULT)
-        self._local.language = lang
-        try:
-            yield
-        finally:
-            self._local.language = old_lang
-
-
-LANGUAGE_CONFIG = LanguageConfig()
-
-
-def set_language(lang: str) -> None:
-    LANGUAGE_CONFIG.LANGUAGE = lang
-
-
-def current_language() -> str:
-    return LANGUAGE_CONFIG.LANGUAGE
 
 
 """
@@ -63,39 +19,39 @@ attrs_icon_data: dict[str, dict[tuple, dict[str, str]]] = {
     "safe": {
         (2, "2"): {
             "icon": "🟢",
-            "label": "Mod de qualité",
+            "label": _g("Mod de qualité"),
         },
         (1, "1"): {
             "icon": "⚠️",
-            "label": "Mod pouvant poser des problèmes",
+            "label": _g("Mod pouvant poser des problèmes"),
         },
         (0, "0"): {
             "icon": "🟥",
-            "label": "Mod à éviter ou obsolète",
+            "label": _g("Mod à éviter ou obsolète"),
         },
     },
     "translation_state_auto": {
         ("yes", "n/a"): {
             "icon": "✅",
-            "label": "Mod traduit",
+            "label": _g("Mod traduit"),
         },
         ("todo",): {
             "icon": "❎",
-            "label": "Mod partiellement traduit",
+            "label": _g("Mod partiellement traduit"),
         },
         ("no", "wip"): {
             "icon": "❌",
-            "label": "Mod non traduit",
+            "label": _g("Mod non traduit"),
         },
     },
     "is_weidu": {
         (True,): {
             "icon": "😀",
-            "label": "Mod Weidu",
+            "label": _g("Mod Weidu"),
         },
         (False,): {
             "icon": "😡",
-            "label": "Mod override, non désinstallable",
+            "label": _g("Mod override, non désinstallable"),
         },
     },
 }
@@ -147,22 +103,22 @@ class GameEnum(enum.StrEnum):
 
 
 class CategoryEnum(enum.StrEnum):
-    FIX = "Patch non officiel"
-    TOOL = "Utilitaire"
-    CONVERSION = "Conversion"
-    INTERFACE = "Interface"
-    COSMETIC = "Cosmétique"
-    PORTRAIT_SOUND = "Portrait et son"
-    QUEST = "Quête"
-    NPC = "PNJ recrutable"
-    NPC_1DAY = "PNJ One Day"
-    NPC_OTHER = "PNJ (autre)"
-    BLACKSMITH_MERCHANT = "Forgeron et marchand"
-    SPELL_ITEM = "Sort et objet"
-    KIT = "Kit"
-    TWEAK = "Gameplay"
-    SCRIPT = "Script et tactique"
-    PARTY_PERSONNALISATION = "Personnalisation du groupe"
+    FIX = _g("Patch non officiel")
+    TOOL = _g("Utilitaire")
+    CONVERSION = _g("Conversion")
+    INTERFACE = _g("Interface")
+    COSMETIC = _g("Cosmétique")
+    PORTRAIT_SOUND = _g("Portrait et son")
+    QUEST = _g("Quête")
+    NPC = _g("PNJ recrutable")
+    NPC_1DAY = _g("PNJ One Day")
+    NPC_OTHER = _g("PNJ (autre)")
+    BLACKSMITH_MERCHANT = _g("Forgeron et marchand")
+    SPELL_ITEM = _g("Sort et objet")
+    KIT = _g("Kit")
+    TWEAK = _g("Gameplay")
+    SCRIPT = _g("Script et tactique")
+    PARTY_PERSONNALISATION = _g("Personnalisation du groupe")
 
     @property
     def id(self) -> str:
@@ -274,26 +230,26 @@ language_flags: dict[str, str] = {
 
 language_translate: dict[str, dict[str, str]] = {
     "fr": {
-        "br": "brésilien",
-        "cn": "chinois",
-        "cz": "tchèque",
-        "de": "allemand",
-        "en": "anglais",
-        "es": "espagnol",
-        "fo": "féroïen",
-        "fr": "français",
-        "hr": "croate",
-        "hu": "hongrois",
-        "it": "italien",
-        "jp": "japonais",
-        "kr": "coréen",
-        "nl": "néerlandais",
-        "no": "norvégien",
-        "pl": "polonais",
-        "pt": "portugais",
-        "ru": "russe",
-        "se": "suédois",
-        "tr": "turc",
-        "ua": "ukrainien",
+        "br": _g("brésilien"),
+        "cn": _g("chinois"),
+        "cz": _g("tchèque"),
+        "de": _g("allemand"),
+        "en": _g("anglais"),
+        "es": _g("espagnol"),
+        "fo": _g("féroïen"),
+        "fr": _g("français"),
+        "hr": _g("croate"),
+        "hu": _g("hongrois"),
+        "it": _g("italien"),
+        "jp": _g("japonais"),
+        "kr": _g("coréen"),
+        "nl": _g("néerlandais"),
+        "no": _g("norvégien"),
+        "pl": _g("polonais"),
+        "pt": _g("portugais"),
+        "ru": _g("russe"),
+        "se": _g("suédois"),
+        "tr": _g("turc"),
+        "ua": _g("ukrainien"),
     }
 }

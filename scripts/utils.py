@@ -4,8 +4,8 @@ from json import JSONDecodeError
 import logging
 from pathlib import Path
 
+from i18n import current_language
 from models.mod import Mod
-from settings import current_language
 
 logger = logging.getLogger(__name__)
 

@@ -5,10 +5,9 @@ from pathlib import Path
 
 from jinja2 import Environment, PackageLoader, select_autoescape
 
+from i18n import LANGUAGE_CONFIG, LANGUAGE_DEFAULT
 from scripts.utils import ModManager
 from settings import (
-    LANGUAGE_CONFIG,
-    LANGUAGE_DEFAULT,
     CategoryEnum,
     GameEnum,
     attrs_icon_data,
@@ -50,7 +49,7 @@ def main(**kwargs):
         }
 
     for language in languages & language_flags.keys():
-        with LANGUAGE_CONFIG.override_language(language):
+        with LANGUAGE_CONFIG.switch_language(language):
             mods = ModManager.get_mod_list()
 
             mods.sort(key=lambda x: x.name.lower())

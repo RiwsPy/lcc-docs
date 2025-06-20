@@ -1,0 +1,246 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2025 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Riws <toto.streak289@passinbox.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-20 15:01+0200\n"
+"PO-Revision-Date: 2025-06-20 16:06+0200\n"
+"Last-Translator: Riws <toto.streak289@passinbox.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: models/mod.py:193
+#, python-brace-format
+msgid "Fichier `{filename}`."
+msgstr "Fichier `{filename}`."
+
+#: models/mod.py:199
+#, python-brace-format
+msgid "Ce mod n'est disponible qu'en {language}."
+msgstr "Ce mod n'est disponible qu'en {language}."
+
+#: models/mod.py:207
+#, python-brace-format
+msgid ""
+"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
+"fonctionner avec la dernière version du jeu."
+msgstr ""
+"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
+"fonctionner avec la dernière version du jeu."
+
+#: models/mod.py:214
+msgid ""
+"⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
+"le à vos risques et périls."
+msgstr ""
+"⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
+"le à vos risques et périls."
+
+#: models/mod.py:220
+msgid ""
+"Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
+"donner suite."
+msgstr ""
+"Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
+"donner suite."
+
+#: models/mod.py:224
+msgid "Ce mod est toujours en cours de réalisation."
+msgstr "Ce mod est toujours en cours de réalisation."
+
+#: models/mod.py:229
+#, python-brace-format
+msgid "Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
+msgstr "This mod has disappeared from <a href='{url}' target='_blank'>{url}</a>."
+
+#: models/mod.py:232
+msgid "Ce mod a disparu."
+msgstr "This mod has disappeared."
+
+#: settings.py:22
+msgid "Mod de qualité"
+msgstr "Mod de qualité"
+
+#: settings.py:26
+msgid "Mod pouvant poser des problèmes"
+msgstr "Mod pouvant poser des problèmes"
+
+#: settings.py:30
+msgid "Mod à éviter ou obsolète"
+msgstr "Mod à éviter ou obsolète"
+
+#: settings.py:36
+msgid "Mod traduit"
+msgstr "Mod translated"
+
+#: settings.py:40
+msgid "Mod partiellement traduit"
+msgstr "Mod partiellement traduit"
+
+#: settings.py:44
+msgid "Mod non traduit"
+msgstr "Mod non traduit"
+
+#: settings.py:50
+msgid "Mod Weidu"
+msgstr "Mod Weidu"
+
+#: settings.py:54
+msgid "Mod override, non désinstallable"
+msgstr "Mod override, non désinstallable"
+
+#: settings.py:106
+msgid "Patch non officiel"
+msgstr "Patch non officiel"
+
+#: settings.py:107
+msgid "Utilitaire"
+msgstr "Utilitaire"
+
+#: settings.py:108
+msgid "Conversion"
+msgstr "Conversion"
+
+#: settings.py:109
+msgid "Interface"
+msgstr "Interface"
+
+#: settings.py:110
+msgid "Cosmétique"
+msgstr "Cosmétique"
+
+#: settings.py:111
+msgid "Portrait et son"
+msgstr "Portrait et son"
+
+#: settings.py:112
+msgid "Quête"
+msgstr "Quête"
+
+#: settings.py:113
+msgid "PNJ recrutable"
+msgstr "PNJ recrutable"
+
+#: settings.py:114
+msgid "PNJ One Day"
+msgstr "PNJ One Day"
+
+#: settings.py:115
+msgid "PNJ (autre)"
+msgstr "PNJ (autre)"
+
+#: settings.py:116
+msgid "Forgeron et marchand"
+msgstr "Forgeron et marchand"
+
+#: settings.py:117
+msgid "Sort et objet"
+msgstr "Sort et objet"
+
+#: settings.py:118
+msgid "Kit"
+msgstr "Kit"
+
+#: settings.py:119
+msgid "Gameplay"
+msgstr "Gameplay"
+
+#: settings.py:120
+msgid "Script et tactique"
+msgstr "Script et tactique"
+
+#: settings.py:121
+msgid "Personnalisation du groupe"
+msgstr "Personnalisation du groupe"
+
+#: settings.py:233
+msgid "brésilien"
+msgstr "brésilien"
+
+#: settings.py:234
+msgid "chinois"
+msgstr "chinois"
+
+#: settings.py:235
+msgid "tchèque"
+msgstr "tchèque"
+
+#: settings.py:236
+msgid "allemand"
+msgstr "allemand"
+
+#: settings.py:237
+msgid "anglais"
+msgstr "anglais"
+
+#: settings.py:238
+msgid "espagnol"
+msgstr "espagnol"
+
+#: settings.py:239
+msgid "féroïen"
+msgstr "féroïen"
+
+#: settings.py:240
+msgid "français"
+msgstr "français"
+
+#: settings.py:241
+msgid "croate"
+msgstr "croate"
+
+#: settings.py:242
+msgid "hongrois"
+msgstr "hongrois"
+
+#: settings.py:243
+msgid "italien"
+msgstr "italien"
+
+#: settings.py:244
+msgid "japonais"
+msgstr "japonais"
+
+#: settings.py:245
+msgid "coréen"
+msgstr "coréen"
+
+#: settings.py:246
+msgid "néerlandais"
+msgstr "néerlandais"
+
+#: settings.py:247
+msgid "norvégien"
+msgstr "norvégien"
+
+#: settings.py:248
+msgid "polonais"
+msgstr "polonais"
+
+#: settings.py:249
+msgid "portugais"
+msgstr "portugais"
+
+#: settings.py:250
+msgid "russe"
+msgstr "russe"
+
+#: settings.py:251
+msgid "suédois"
+msgstr "suédois"
+
+#: settings.py:252
+msgid "turc"
+msgstr "turc"
+
+#: settings.py:253
+msgid "ukrainien"
+msgstr "ukrainien"
