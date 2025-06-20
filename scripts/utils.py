@@ -2,6 +2,7 @@ from dataclasses import fields
 import json
 from json import JSONDecodeError
 import logging
+import os
 
 from i18n import current_language
 from models.mod import Mod
@@ -91,3 +92,13 @@ with open(DB_PATH / "author_pseudos.json", "r", encoding="utf-8") as f:
 AUTHOR_PSEUDOS: dict[str, tuple[str]] = {
     pseudo: k for k, pseudos in author_pseudos.items() for pseudo in pseudos
 }
+
+
+def get_languages() -> set[str]:
+    # auto-discover languages
+    with os.scandir(DB_PATH) as it:
+        return {
+            f.name.removeprefix("mods_").removesuffix(".json")
+            for f in it
+            if f.is_file() and f.name.endswith(".json") and f.name.startswith("mods_")
+        }
