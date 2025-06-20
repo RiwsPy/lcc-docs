@@ -23,12 +23,12 @@ def main(**kwargs):
             "id": mod.id,
             "description": "",
             "description_meta": {
-                "status": MetaStatusEnum.TODO if mod.description else MetaStatusEnum.OK,
+                "status": MetaStatusEnum.TODO if mod.description else MetaStatusEnum.DONE,
                 "source": mod.description,
             },
             "notes": list(),
             "notes_meta": {
-                "status": MetaStatusEnum.TODO if mod.notes else MetaStatusEnum.OK,
+                "status": MetaStatusEnum.TODO if mod.notes else MetaStatusEnum.DONE,
                 "source": mod.notes,
             },
         }
