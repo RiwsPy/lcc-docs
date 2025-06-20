@@ -12,6 +12,7 @@ from models.utils import slugify
 from settings import (
     CategoryEnum,
     GameEnum,
+    TranslationStateEnum,
     attrs_icon_data,
     language_translate,
 )
@@ -54,7 +55,7 @@ class Mod:
     team: list[str]
     games: list[GameEnum]
     safe: Literal[0, 1, 2]
-    translation_state: Literal["yes", "todo", "no", "wip", "n/a", "auto"]
+    translation_state: TranslationStateEnum
     languages: list[str]
     authors: list[str]
     status: ModStatus
@@ -179,7 +180,7 @@ class Mod:
             and self.is_EE
             and (
                 self.last_update < "2016-04"
-                or (self.last_update < "2021-04" and "Interface" in self.categories)
+                or (self.last_update < "2021-04" and CategoryEnum.INTERFACE in self.categories)
             )
         )
 
@@ -262,7 +263,8 @@ class Mod:
     def is_bws_compatible(self) -> bool:
         return (
             GameEnum.EET in self.games
-            and self.translation_state_auto in ("yes", "n/a", "todo")
+            and self.translation_state_auto
+            in (TranslationStateEnum.YES, TranslationStateEnum.NA, TranslationStateEnum.TODO)
             and self.tp2 not in ("non-weidu", "n/a")
             and self.status == ModStatus.ACTIVE
         )

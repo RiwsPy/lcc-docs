@@ -10,6 +10,15 @@ IMG_ROOT: Path = os.path.join(STATIC_ROOT, "img")
 DB_PATH: Path = Path.cwd() / "db"
 
 
+class TranslationStateEnum(enum.StrEnum):
+    TODO = "todo"
+    NO = "no"
+    WIP = "wip"
+    YES = "yes"
+    NA = "n/a"
+    AUTO = "auto"
+
+
 """
     safe: les paramètres qui font baisser la note :
     - incompatibilités avec d'autres mods ou avec la dernière version du jeu (notamment pour les EE) ⇒ les mods override sont toujours concernés
@@ -33,15 +42,15 @@ attrs_icon_data: dict[str, dict[tuple, dict[str, str]]] = {
         },
     },
     "translation_state_auto": {
-        ("yes", "n/a"): {
+        (TranslationStateEnum.YES, TranslationStateEnum.NA): {
             "icon": "✅",
             "label": _g("Mod traduit"),
         },
-        ("todo",): {
+        (TranslationStateEnum.TODO,): {
             "icon": "❎",
             "label": _g("Mod partiellement traduit"),
         },
-        ("no", "wip"): {
+        (TranslationStateEnum.NO, TranslationStateEnum.WIP): {
             "icon": "❌",
             "label": _g("Mod non traduit"),
         },
