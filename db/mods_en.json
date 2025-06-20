@@ -5108,23 +5108,6 @@
         }
     },
     {
-        "id": 351,
-        "description": "This mod aims to make the player's life easier in every way possible. For example, all items are automatically identified, experience is systematically gained for each enemy killed, class-related alignment restrictions are removed, items or skills are improved... With all the consequences this can have on the balance of the game. It's worth noting, however, that the items finally installed can be selected one by one.",
-        "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod veut faciliter la vie du joueur par tous les moyens. Par exemple, tous les objets sont automatiquement identifiés, on obtient systématiquement de l'expérience pour chaque ennemi tué, les restrictions d'alignement liées à la classe sont supprimées, des objets ou compétences sont améliorés... Avec les conséquences que cela peut avoir sur l'équilibre du jeu. À noter toutefois que l'on peut choisir un par un les éléments finalement installés."
-        },
-        "notes": [
-            "It is now obsolete, having been replaced by the mod [[The Tweaks Anthology]]."
-        ],
-        "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Il est désormais obsolète après avoir été remplacé par le mod [[The Tweaks Anthology]]."
-            ]
-        }
-    },
-    {
         "id": 352,
         "description": "This mod provided maximum HP per level and no spell learning failures in all IE games (BG, BG2, IWD, IWD2 and PsT).",
         "description_meta": {
@@ -9006,14 +8989,10 @@
             "status": "needs_review",
             "source": "Ce petit mod ajoute huit nouveaux objets dans BG2 : un casque pour les bardes et les voleurs, un bouclier magique, une dague pour les bardes, une arme pour les guerriers, 2 ninja-to..."
         },
-        "notes": [
-            "Written by Lava in 2008 for his personal use, then shared with the community, its author decided to archive it and no longer maintain it, considering that it wasn't up to scratch..."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Écrit par Lava en 2008 pour son usage personnel, puis partagé avec la communauté, son auteur a décidé de l'archiver et de ne plus le maintenir, considérant qu'il n'était pas à la hauteur..."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {

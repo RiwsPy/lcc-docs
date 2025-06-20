@@ -3768,9 +3768,13 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Rabain"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Allez plutôt voir [[Gerri's NPC Portraits Pack]] qui sa continuation."
+        ],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
@@ -4176,16 +4180,18 @@
             "EET"
         ],
         "authors": [
-            "requiem22"
+            "Requiem"
         ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "obsolete",
         "last_update": "2013-02",
-        "tp2": ""
+        "tp2": "kitpack"
     },
     {
         "id": 130,
@@ -4263,7 +4269,7 @@
             "SoD"
         ],
         "authors": [
-            "requiem22"
+            "Requiem"
         ],
         "team": [],
         "notes": [],
@@ -6019,7 +6025,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2001-06",
-        "tp2": ""
+        "tp2": "n/a"
     },
     {
         "id": 188,
@@ -6268,11 +6274,13 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
-        "languages": [],
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2014-09",
+        "tp2": "BBBKPG-BG2;BBPBAG;BBQUIV-BG2;BBQUIVB-BG2;BBQUIVC-BG2;BBSCCS;BBSCARDR-BG2"
     },
     {
         "id": 196,
@@ -6287,14 +6295,18 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Brendan Bellina"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2014-06",
         "tp2": ""
     },
     {
@@ -7848,7 +7860,9 @@
         ],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2017-07",
         "tp2": ""
@@ -11184,31 +11198,6 @@
         "tp2": "BG1-ease-v2.1"
     },
     {
-        "id": 351,
-        "name": "Ease-of-use pack for IWD2",
-        "description": "Ce mod veut faciliter la vie du joueur par tous les moyens. Par exemple, tous les objets sont automatiquement identifiés, on obtient systématiquement de l'expérience pour chaque ennemi tué, les restrictions d'alignement liées à la classe sont supprimées, des objets ou compétences sont améliorés... Avec les conséquences que cela peut avoir sur l'équilibre du jeu. À noter toutefois que l'on peut choisir un par un les éléments finalement installés.",
-        "urls": [
-            "https://weidu.org/iwd2.html"
-        ],
-        "categories": [
-            "Gameplay"
-        ],
-        "games": [
-            "IWD2"
-        ],
-        "authors": [],
-        "team": [],
-        "notes": [
-            "Il est désormais obsolète après avoir été remplacé par le mod [[The Tweaks Anthology]]."
-        ],
-        "translation_state": "auto",
-        "safe": 0,
-        "languages": [],
-        "status": "obsolete",
-        "last_update": "",
-        "tp2": ""
-    },
-    {
         "id": 352,
         "name": "Easy Core Rules",
         "description": "Ce mod permettait d'obtenir un maximum de PV par niveau et aucun échec dans l'apprentissage des sorts dans tous les jeux IE (BG, BG2, IWD, IWD2 et PsT).",
@@ -14110,7 +14099,7 @@
         "name": "Gerri's NPC Portraits Pack",
         "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalon's Questpack]], [[Assassinations]], [[Baldur's Gate Mini Quests and Encounters Modification]], [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[Baldur's Gate Romantic Encounters Modification]], [[Romantic Encounters MOD for Baldur's Gate II]], [[Secret of Bone Hill]], [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
         "urls": [
-            "https://www.baldurs-gate.de/index.php?threads/gerris-nsc-portraits.44541/",
+            "https://www.baldurs-gate.de/index.php?threads/neue-mod-npc-portraits.37417/",
             "https://github.com/gboeck/NSC-Portraits"
         ],
         "categories": [
@@ -15461,12 +15450,12 @@
         "notes": [
             "Comme il est très ancien, préférez-lui le composant de [[Sword Coast Stratagems]] qui fait la même chose."
         ],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "obsolete",
         "last_update": "2010-09",
-        "tp2": ""
+        "tp2": "highlevelABILITIES"
     },
     {
         "id": 488,
@@ -16013,10 +16002,12 @@
         ],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "obsolete",
         "last_update": "2018-09",
-        "tp2": ""
+        "tp2": "spells"
     },
     {
         "id": 506,
@@ -16572,11 +16563,13 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
-        "languages": [],
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
         "status": "wip",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2012-12",
+        "tp2": "non-weidu"
     },
     {
         "id": 525,
@@ -18471,7 +18464,7 @@
         ],
         "status": "embed",
         "last_update": "2011-05",
-        "tp2": ""
+        "tp2": "JondalarFix"
     },
     {
         "id": 583,
@@ -19652,22 +19645,25 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Écrit par Lava en 2008 pour son usage personnel, puis partagé avec la communauté, son auteur a décidé de l'archiver et de ne plus le maintenir, considérant qu'il n'était pas à la hauteur..."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "pl"
+        ],
         "status": "archived",
         "last_update": "2020-04",
-        "tp2": ""
+        "tp2": "LavaIt!"
     },
     {
         "id": 622,
-        "name": "Le Champion De Bhaal",
+        "name": "Le champion de Bhaal",
         "description": "Créé par Cocrane sur ce site, ce mod français, fait partie d'un projet plus important, \"Le protecteur de Baldur\", en cours de réalisation, qui est une suite de BG1 après la mort de Sarevok. L'aventure commence à l'auberge du Heaume et de la cape où vous pourrez recruter vos fidèles compagnons de BG1 (3 nouveaux PNJ sont proposés). Vous rechercherez une sortie dans un donjon entouré de mystères liés à votre père, Bhaal. Le mod contient 16 nouvelles cartes pour environ 10 heures de jeu.",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?t=32721"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=32721",
+            "https://github.com/Cocrane/Le_champion_de_Bhaal"
         ],
         "categories": [
             "Quête"
@@ -19681,13 +19677,13 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "fr"
         ],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "status": "active",
+        "last_update": "2020-06",
+        "tp2": "CDB"
     },
     {
         "id": 623,
@@ -22979,7 +22975,7 @@
             "BGT"
         ],
         "authors": [
-            "the bigg"
+            "Macholy"
         ],
         "team": [],
         "notes": [
@@ -22987,10 +22983,13 @@
         ],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "cn",
+            "en"
+        ],
         "status": "embed",
         "last_update": "2013-01",
-        "tp2": ""
+        "tp2": "NMR-HAPPY"
     },
     {
         "id": 730,
@@ -23932,7 +23931,7 @@
         "languages": [],
         "status": "obsolete",
         "last_update": "2017-01",
-        "tp2": ""
+        "tp2": "NoRaceRestrictions"
     },
     {
         "id": 760,
@@ -46516,8 +46515,8 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2017-10",
-        "tp2": ""
+        "last_update": "2021-01",
+        "tp2": "Mercenaries"
     },
     {
         "id": 1475,
@@ -55005,6 +55004,7 @@
         "name": "Icewind Dale II Ease of Use Mod",
         "description": "Il s'agit d'une collection de mods utiles dans IWD2 assemblés par Wes Weimer.",
         "urls": [
+            "https://weidu.org/iwd2.html",
             "https://github.com/Pocket-Plane-Group/iwd2_ease_of_use/"
         ],
         "categories": [
