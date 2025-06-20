@@ -55,6 +55,7 @@ jobs:
 
         cp -r docs/* .
 
+        git add -f docs/index.html
         git add -f docs/**/index.html
         git commit -m "Update site from branch main changes [ci skip]" || echo "No changes to commit"
         git push --force origin gh-pages
