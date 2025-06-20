@@ -33,7 +33,7 @@ class ModStatus(enum.StrEnum):
 
 class MetaStatusEnum(enum.StrEnum):
     OK = "ok"
-    OUTDATED = "outdated"
+    NEEDS_REVIEW = "needs_review"
     TODO = "todo"
 
 

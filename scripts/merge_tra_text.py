@@ -15,7 +15,7 @@ def parse_line(line: str) -> tuple[int, int, str, int]:
 
 
 def merge_translated_text(language):
-    """Merge the translated text into the mods_{language}.json, set its status to 'outdated'."""
+    """Merge the translated text into the mods_{language}.json, set its status to 'needs_review'."""
     # Load the mods database
     mods = ModManager.load(language=language)
 
@@ -49,7 +49,7 @@ def merge_translated_text(language):
         # Update the appropriate field
         if field_type == "description":
             mod["description"] = translations[line_num]
-            mod["description_meta"]["status"] = MetaStatusEnum.OUTDATED
+            mod["description_meta"]["status"] = MetaStatusEnum.NEEDS_REVIEW
         elif field_type == "note":
             # Ensure notes list exists and is long enough
             if "notes" not in mod:
@@ -57,7 +57,7 @@ def merge_translated_text(language):
             while len(mod["notes"]) <= idx:
                 mod["notes"].append("")
             mod["notes"][idx] = translations[line_num]
-            mod["notes_meta"]["status"] = MetaStatusEnum.OUTDATED
+            mod["notes_meta"]["status"] = MetaStatusEnum.NEEDS_REVIEW
 
     ModManager.export(mods, language=language)
 
