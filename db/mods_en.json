@@ -2115,10 +2115,10 @@
     },
     {
         "id": 145,
-        "description": "Initiated by plainab, aka Sasha al'Therin, this project aimed to correct the various bugs and malfunctions found in BG and its expansion. Although not yet complete, this pack includes all Baldurdash fixes (created by Kevin Dorner) and some DudleyFix adjustments.",
+        "description": "Initiated by plainab, aka Sasha al'Therin, this project aimed to correct the various bugs and malfunctions found in BG and its expansion. Although not yet complete, this pack includes all Baldurdash fixes (created by Kevin Dorner) and some adjustments from [[DudleyFix for BG1]].",
         "description_meta": {
             "status": "needs_review",
-            "source": "Initié par plainab, aka Sasha al'Therin, ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du DudleyFix."
+            "source": "Initié par plainab, aka Sasha al'Therin, ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du [[DudleyFix for BG1]]."
         },
         "notes": [
             "To be used only for an original BG game, without Tutu or BGT."
@@ -9216,7 +9216,7 @@
     },
     {
         "id": 637,
-        "description": "This mod modifies five spell scrolls (Impenetrable Spirit, Incendiary Cloud, Killer Power Word, Monster Summon VI and Monster Summon VII) to enable you to learn them.",
+        "description": "This mod modifies five spell scrolls (Mind Blank, Incendiary Cloud, Power Word Kill, Monster Summoning VI and Monster Summoning VII) to enable you to learn them.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod modifie cinq parchemins de sort (Esprit impénétrable, Nuage incendiaire, Mot de pouvoir tueur, Convocation de monstres VI et Convocation de monstres VII) afin de vous permettre de les apprendre."
@@ -11276,12 +11276,12 @@
             "source": "Osvald, le nain d'Icewind Dale, s'est écrasé dans le carnaval de Nashkel. Il vend des potions pour les voyageurs."
         },
         "notes": [
-            "Warning: As this mod overwrites the graphics files of the Carnival map, it may be incompatible with other mods. In addition, it is only available in Russian, and you need to register on the arcanecoast forum to download it."
+            "Warning: As this mod overwrites the graphics files of the Carnival map, it may be incompatible with other mods."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : Comme ce mod écrase les fichiers graphiques de la carte du Carnaval, il pourrait être incompatible avec d'autres mods. De plus, il n'est disponible qu'en russe et il faut s'inscrire sur le forum arcanecoast pour pouvoir le télécharger."
+                "Attention : Comme ce mod écrase les fichiers graphiques de la carte du Carnaval, il pourrait être incompatible avec d'autres mods."
             ]
         }
     },

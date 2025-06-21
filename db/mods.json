@@ -3618,7 +3618,9 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "Methuselah"
+        ],
         "team": [],
         "notes": [
             "Il écrase les fichiers du jeu. Désormais obsolète, il a été remplacé par [[The Tweaks Anthology]]."
@@ -3837,7 +3839,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "chevar"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -4651,7 +4655,7 @@
     {
         "id": 145,
         "name": "Baldur's Gate Fixpack",
-        "description": "Initié par plainab, aka Sasha al'Therin, ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du DudleyFix.",
+        "description": "Initié par plainab, aka Sasha al'Therin, ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du [[DudleyFix for BG1]].",
         "urls": [
             "https://github.com/Sasha-alTherin/BGFixPack"
         ],
@@ -7185,7 +7189,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2017-06",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "id": 225,
@@ -10511,7 +10515,9 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Balquo"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -10693,7 +10699,7 @@
     },
     {
         "id": 336,
-        "name": "Dudleyfix pour BG (et ToSC)",
+        "name": "DudleyFix for BG1",
         "description": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\". Ces patchs ne sont pas à proprement parler traduits, mais la plupart n'ont pas besoin de traduction (ils n'ajoutent et ne modifient aucun texte).",
         "urls": [
             "http://www.forgottenwars.com/dudleyfix/fixpacks.htm"
@@ -10704,17 +10710,19 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "Dudley"
+        ],
         "team": [],
         "notes": [
             "À n'utiliser que pour un jeu BG original, sans Tutu ni BGT. Ne prenez surtout pas le FixPack #2 sous peine de passer votre jeu en Anglais !"
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2006-07",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "id": 337,
@@ -11277,7 +11285,9 @@
         "games": [
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "Macready"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -11302,7 +11312,9 @@
         "games": [
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "Macready"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
@@ -13449,7 +13461,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
@@ -18630,7 +18644,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Kensai Ryu"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
@@ -20060,7 +20076,7 @@
     },
     {
         "id": 636,
-        "name": "Level 40 rules for Icewind Dale by TeamBG",
+        "name": "Level 40 rules for Icewind Dale",
         "description": "Ce mod vous permet d'atteindre le niveau 40 dans IWD.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=IWD&f=IWD/IWD_lvl40.zip"
@@ -20071,7 +20087,9 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "James Schumacher"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -20083,7 +20101,7 @@
     },
     {
         "id": 637,
-        "name": "Level 8 & 9 Mage Spells by TeamBG",
+        "name": "Level 8 and 9 IWD Mage Replacement Spells",
         "description": "Ce mod modifie cinq parchemins de sort (Esprit impénétrable, Nuage incendiaire, Mot de pouvoir tueur, Convocation de monstres VI et Convocation de monstres VII) afin de vous permettre de les apprendre.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=IWD&f=IWD/iwd_mage8-9.exe"
@@ -20092,7 +20110,7 @@
             "Sort et objet"
         ],
         "games": [
-            "IWD2"
+            "IWD"
         ],
         "authors": [
             "Giggling Gelugon"
@@ -21129,7 +21147,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Jondalar"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
@@ -21139,7 +21159,7 @@
         ],
         "status": "missing",
         "last_update": "",
-        "tp2": ""
+        "tp2": "magosarqueros"
     },
     {
         "id": 672,
@@ -24109,7 +24129,7 @@
         "safe": 1,
         "languages": [],
         "status": "missing",
-        "last_update": "",
+        "last_update": "2005-09",
         "tp2": ""
     },
     {
@@ -24563,16 +24583,21 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "boristen70",
+            "Aldark"
+        ],
         "team": [],
         "notes": [
-            "Attention : Comme ce mod écrase les fichiers graphiques de la carte du Carnaval, il pourrait être incompatible avec d'autres mods. De plus, il n'est disponible qu'en russe et il faut s'inscrire sur le forum arcanecoast pour pouvoir le télécharger."
+            "Attention : Comme ce mod écrase les fichiers graphiques de la carte du Carnaval, il pourrait être incompatible avec d'autres mods."
         ],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "ru"
+        ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2012-07",
         "tp2": ""
     },
     {
@@ -24773,7 +24798,21 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "La Voix 2 la Sagesse",
+            "Isaya",
+            "Freddy_Gwendo",
+            "Luren",
+            "Graoumf",
+            "McGregor777",
+            "N3ige",
+            "Scylla",
+            "slip",
+            "sombrepiaf",
+            "zelurker",
+            "Cruller",
+            "Leninator"
+        ],
         "team": [],
         "notes": [
             "Ne vous trompez pas de version sous peine d'avoir un mélange de voix dans le jeu !",
@@ -24785,8 +24824,8 @@
             "fr"
         ],
         "status": "embed",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2018-05",
+        "tp2": "non-weidu"
     },
     {
         "id": 789,
@@ -29638,12 +29677,16 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Nicolas Peters"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "de"
+        ],
         "status": "active",
         "last_update": "2003-10",
         "tp2": "sharteel"
@@ -29977,7 +30020,10 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "es"
+        ],
         "status": "active",
         "last_update": "",
         "tp2": ""
@@ -30899,13 +30945,15 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "archmage183"
+        ],
         "team": [],
         "notes": [
-            "Attention : Modifiez l'extension du fichier téléchargé en .exe pour pouvoir l'installer."
+            "Attention : Modifiez l'extension du fichier téléchargé en .exe pour pouvoir l'installer. Bien que WeiDU, ce mod override de nombreux fichiers."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "ru"
@@ -33533,7 +33581,9 @@
             "PST",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Platter"
+        ],
         "team": [],
         "notes": [
             "Cette quête a été ajoutée à [[PS:T Unfinished Business - Reloaded]] et PSTEE."
@@ -37088,7 +37138,7 @@
         "safe": 1,
         "languages": [],
         "status": "missing",
-        "last_update": "",
+        "last_update": "2009-06",
         "tp2": ""
     },
     {
