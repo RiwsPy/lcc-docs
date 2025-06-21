@@ -232,10 +232,6 @@ class Mod:
             else:
                 note = _g("Ce mod a disparu.")
             auto_notes.append(note)
-        # if self.team:
-        #     auto_notes.append(
-        #         f"Traducteur{'s' * (len(self.team) > 1)} 🇲🇫 : {self.get_team_str()}"
-        #     )
 
         return auto_notes
 
@@ -245,16 +241,6 @@ class Mod:
         return (url.endswith((".rar", ".zip", ".7z", ".exe"))) and not url.startswith(
             ("https://www.mediafire.com/", "https://sorcerers.net/")
         )
-
-    def get_team_str(self) -> str:
-        team_html = [f"<span class='translator'>{member}</span>" for member in self.team]
-        if not team_html:
-            return ""
-        elif len(team_html) == 1:
-            return team_html[0]
-        else:
-            *without_last, last = team_html
-            return ", ".join(without_last) + f" et {last}"
 
     def get_notes(self) -> list[str]:
         return [self.convert_txt(note) for note in self.notes + self.get_auto_notes()]
