@@ -14,7 +14,7 @@ from settings import (
     GameEnum,
     TranslationStateEnum,
     attrs_icon_data,
-    language_translate,
+    language_flags,
 )
 
 link_regex = re.compile(r"\[\[[^].]+\]\]")
@@ -193,13 +193,6 @@ class Mod:
                 filename = url.rsplit("/", 1)[-1]
                 auto_notes.append(_g("Fichier `{filename}`.").format(filename=filename))
 
-        # check language
-        if len(self.languages) == 1 and self.languages[0] not in ("fr", "en"):
-            language = language_translate.get(self.languages[0], "langue inconnue")
-            auto_notes.append(
-                _g("Ce mod n'est disponible qu'en {language}.").format(language=language)
-            )
-
         if self.is_outdated and self.safe <= 1:
             year, _ = self.last_update.split("-")
             if self.is_EE:
@@ -232,6 +225,17 @@ class Mod:
             else:
                 note = _g("Ce mod a disparu.")
             auto_notes.append(note)
+
+        # check language
+        if (
+            self.languages
+            and self.translation_state_auto != "n/a"
+            and current_language() not in self.languages
+        ):
+            country_flags = ""
+            for language in sorted(self.languages):
+                country_flags += f" {language_flags.get(language, '??')}"
+            auto_notes.append(_g("Disponible en {language}.").format(language=country_flags))
 
         return auto_notes
 

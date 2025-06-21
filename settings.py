@@ -238,27 +238,3 @@ language_flags: dict[str, str] = {
     "tr": "🇹🇷",
     "ua": "🇺🇦",
 }
-
-language_translate: dict[str, str] = {
-    "br": _g("brésilien"),
-    "cn": _g("chinois"),
-    "cz": _g("tchèque"),
-    "de": _g("allemand"),
-    "en": _g("anglais"),
-    "es": _g("espagnol"),
-    "fo": _g("féroïen"),
-    "fr": _g("français"),
-    "hr": _g("croate"),
-    "hu": _g("hongrois"),
-    "it": _g("italien"),
-    "jp": _g("japonais"),
-    "kr": _g("coréen"),
-    "nl": _g("néerlandais"),
-    "no": _g("norvégien"),
-    "pl": _g("polonais"),
-    "pt": _g("portugais"),
-    "ru": _g("russe"),
-    "se": _g("suédois"),
-    "tr": _g("turc"),
-    "ua": _g("ukrainien"),
-}

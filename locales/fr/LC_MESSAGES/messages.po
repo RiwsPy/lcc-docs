@@ -24,7 +24,7 @@ msgstr ""
 
 #: models/mod.py:199
 #, python-brace-format
-msgid "Ce mod n'est disponible qu'en {language}."
+msgid "Disponible en {language}."
 msgstr ""
 
 #: models/mod.py:207
@@ -153,88 +153,4 @@ msgstr ""
 
 #: settings.py:121
 msgid "Personnalisation du groupe"
-msgstr ""
-
-#: settings.py:233
-msgid "brésilien"
-msgstr ""
-
-#: settings.py:234
-msgid "chinois"
-msgstr ""
-
-#: settings.py:235
-msgid "tchèque"
-msgstr ""
-
-#: settings.py:236
-msgid "allemand"
-msgstr ""
-
-#: settings.py:237
-msgid "anglais"
-msgstr ""
-
-#: settings.py:238
-msgid "espagnol"
-msgstr ""
-
-#: settings.py:239
-msgid "féroïen"
-msgstr ""
-
-#: settings.py:240
-msgid "français"
-msgstr ""
-
-#: settings.py:241
-msgid "croate"
-msgstr ""
-
-#: settings.py:242
-msgid "hongrois"
-msgstr ""
-
-#: settings.py:243
-msgid "italien"
-msgstr ""
-
-#: settings.py:244
-msgid "japonais"
-msgstr ""
-
-#: settings.py:245
-msgid "coréen"
-msgstr ""
-
-#: settings.py:246
-msgid "néerlandais"
-msgstr ""
-
-#: settings.py:247
-msgid "norvégien"
-msgstr ""
-
-#: settings.py:248
-msgid "polonais"
-msgstr ""
-
-#: settings.py:249
-msgid "portugais"
-msgstr ""
-
-#: settings.py:250
-msgid "russe"
-msgstr ""
-
-#: settings.py:251
-msgid "suédois"
-msgstr ""
-
-#: settings.py:252
-msgid "turc"
-msgstr ""
-
-#: settings.py:253
-msgid "ukrainien"
 msgstr ""

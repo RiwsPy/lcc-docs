@@ -20,12 +20,12 @@ msgstr ""
 #: models/mod.py:193
 #, python-brace-format
 msgid "Fichier `{filename}`."
-msgstr "Fichier `{filename}`."
+msgstr "File `{filename}`."
 
 #: models/mod.py:199
 #, python-brace-format
-msgid "Ce mod n'est disponible qu'en {language}."
-msgstr "This mod is only available in {language}."
+msgid "Disponible en {language}."
+msgstr "Available in {language}."
 
 #: models/mod.py:207
 #, python-brace-format
@@ -160,87 +160,3 @@ msgstr "Script and tactic"
 #: settings.py:121
 msgid "Personnalisation du groupe"
 msgstr "Party customisation"
-
-#: settings.py:233
-msgid "brésilien"
-msgstr "brazilian"
-
-#: settings.py:234
-msgid "chinois"
-msgstr "chinese"
-
-#: settings.py:235
-msgid "tchèque"
-msgstr "czech"
-
-#: settings.py:236
-msgid "allemand"
-msgstr "german"
-
-#: settings.py:237
-msgid "anglais"
-msgstr "english"
-
-#: settings.py:238
-msgid "espagnol"
-msgstr "spanish"
-
-#: settings.py:239
-msgid "féroïen"
-msgstr "faroese"
-
-#: settings.py:240
-msgid "français"
-msgstr "french"
-
-#: settings.py:241
-msgid "croate"
-msgstr "croatian"
-
-#: settings.py:242
-msgid "hongrois"
-msgstr "hungarian"
-
-#: settings.py:243
-msgid "italien"
-msgstr "italian"
-
-#: settings.py:244
-msgid "japonais"
-msgstr "japanese"
-
-#: settings.py:245
-msgid "coréen"
-msgstr "korean"
-
-#: settings.py:246
-msgid "néerlandais"
-msgstr "dutch"
-
-#: settings.py:247
-msgid "norvégien"
-msgstr "norwegian"
-
-#: settings.py:248
-msgid "polonais"
-msgstr "polish"
-
-#: settings.py:249
-msgid "portugais"
-msgstr "portuguese"
-
-#: settings.py:250
-msgid "russe"
-msgstr "russian"
-
-#: settings.py:251
-msgid "suédois"
-msgstr "swedish"
-
-#: settings.py:252
-msgid "turc"
-msgstr "turkish"
-
-#: settings.py:253
-msgid "ukrainien"
-msgstr "ukrainian"
