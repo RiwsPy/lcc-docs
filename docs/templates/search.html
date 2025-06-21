@@ -22,7 +22,7 @@
             {% for icon_data in attrs_icon_data.translation_state_auto.values() %}
             <div class="search_item translation">
                 <input type="radio" id="translation-{{ loop.index }}" oninput="filterMod()" name="trans" value="{{ icon_data.icon }}" />
-                <label for="translation-{{ loop.index }}">{{ icon_data.icon }} {{ icon_data.label }}</label>
+                <label for="translation-{{ loop.index }}">{{ icon_data.icon }} {{ _(icon_data.label) }}</label>
             </div>
             {% endfor %}
         </div>
@@ -37,8 +37,8 @@
             </div>
             {% for category in categories.keys() %}
                 <div class="search_item">
-                    <input type="radio" id="{{ category.value }}" oninput="filterByCategory()" name="cat" value="{{ category.value }}"/>
-                    <label for="{{ category.value }}">{{ category.value }}</label>
+                    <input type="radio" id="{{ category.value }}" oninput="filterByCategory()" name="cat" value="{{ _(category.value) }}"/>
+                    <label for="{{ category.value }}">{{ _(category.value) }}</label>
                 </div>
             {% endfor %}
         </div>
@@ -54,7 +54,7 @@
             {% for icon_data in attrs_icon_data.safe.values() %}
                 <div class="search_item">
                     <input type="radio" id="quality-{{ loop.index }}" oninput="filterMod()" name="quality" value="{{ icon_data.icon }}"/>
-                    <label for="quality-{{ loop.index }}">{{ icon_data.icon }} {{ icon_data.label }}</label>
+                    <label for="quality-{{ loop.index }}">{{ icon_data.icon }} {{ _(icon_data.label) }}</label>
                 </div>
             {% endfor %}
         </div>

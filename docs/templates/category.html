@@ -1,5 +1,5 @@
-<details class="category_container" data-name="{{ category.value }}" open>
-    <summary class="no-summary-style category_name h2-style" data-count="0" id="{{ category.id }}">{{ category.value }}</summary>
+<details class="category_container" data-name="{{ _(category.value) }}" open>
+    <summary class="no-summary-style category_name h2-style" data-count="0" id="{{ category.id }}">{{ _(category.value) }}</summary>
     <div class="category">
         <div class="row game">
             <p>Mod</p>
@@ -15,7 +15,7 @@
                     <summary class="name">{{ mod.name }}</summary>
                 </details>
                 <div class="column icons">
-                    {% for icon in mod.icons %}<span aria-label='{{ icon.label }}'>{{ icon.icon }}</span>{% endfor %}
+                    {% for icon in mod.icons %}<span aria-label='{{ _(icon.label) }}'>{{ icon.icon }}</span>{% endfor %}
                 </div>
                 <div class="column jeu">
                     {% for game in mod.games %}<p>{{ game }}</p>{% endfor %}

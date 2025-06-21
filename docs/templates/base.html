@@ -70,7 +70,7 @@
                                 </p>
                                 <ul>
                                     {% for icon_data in attrs_icon_data.safe.values() %}
-                                    <li>{{ icon_data.icon }} {{ icon_data.label }}</li>
+                                    <li>{{ icon_data.icon }} {{ _(icon_data.label) }}</li>
                                     {% endfor %}
                                 </ul>
                                 <p>
@@ -78,7 +78,7 @@
                                 </p>
                                 <ul>
                                     {% for icon_data in attrs_icon_data.translation_state_auto.values() %}
-                                    <li>{{ icon_data.icon }} {{ icon_data.label }}</li>
+                                    <li>{{ icon_data.icon }} {{ _(icon_data.label) }}</li>
                                     {% endfor %}
                                 </ul>
 
@@ -87,7 +87,7 @@
                                 </p>
                                 <ul>
                                     {% for icon_data in attrs_icon_data.is_weidu.values() %}
-                                    <li>{{ icon_data.icon }} {{ icon_data.label }}</li>
+                                    <li>{{ icon_data.icon }} {{ _(icon_data.label) }}</li>
                                     {% endfor %}
                                 </ul>
                             </div>

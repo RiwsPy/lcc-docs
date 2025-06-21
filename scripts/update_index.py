@@ -4,7 +4,7 @@ from pathlib import Path
 
 from jinja2 import Environment, PackageLoader, select_autoescape
 
-from i18n import LANGUAGE_CONFIG, LANGUAGE_DEFAULT
+from i18n import LANGUAGE_CONFIG, LANGUAGE_DEFAULT, _g
 from scripts.utils import ModManager, get_languages
 from settings import (
     CategoryEnum,
@@ -35,6 +35,12 @@ def main(**kwargs):
         autoescape=select_autoescape(["html"]),
         trim_blocks=True,  # Supprime les retours à la ligne après un bloc Jinja
         lstrip_blocks=True,  # Supprime les espaces avant un bloc Jinja
+        extensions=["jinja2.ext.i18n"],
+    )
+    env.install_gettext_callables(
+        gettext=_g,
+        ngettext=_g,
+        newstyle=True,
     )
 
     resize_image_from_width(24)

@@ -195,7 +195,7 @@ class Mod:
 
         # check language
         if len(self.languages) == 1 and self.languages[0] not in ("fr", "en"):
-            language = language_translate["fr"].get(self.languages[0], "langue inconnue")
+            language = language_translate.get(self.languages[0], "langue inconnue")
             auto_notes.append(
                 _g("Ce mod n'est disponible qu'en {language}.").format(language=language)
             )
