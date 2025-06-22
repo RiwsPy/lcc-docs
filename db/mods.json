@@ -106,10 +106,14 @@
             "Reddbane"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il écrase les fichiers STYLBONU.2DA ainsi que CLCK32.itm en passant sa description en anglais."
+        ],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2018-03",
         "tp2": "35weaponstyle"
@@ -996,7 +1000,9 @@
         ],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2019-05",
         "tp2": "AlchemistKit"
@@ -1128,7 +1134,9 @@
         ],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2012-03",
         "tp2": ""
@@ -1270,7 +1278,7 @@
     },
     {
         "id": 40,
-        "name": "Mana Based Spell System",
+        "name": "Alternate BG2 Spell System",
         "description": "En gros, ce mod implémente un système de basé sur le mana dans BG2. Vous pouvez mémoriser des sorts à tout moment en appuyant sur la touche `V`. Vous pouvez voir combien de points de mana il vous reste en appuyant sur `N`. Lorsque vos points de mana tombent en dessous de 0, vous subissez une pénalité et ne pourrez plus lancer de sorts jusqu'à ce que vous vous reposiez. Les sorts retirent autant de points de mana égales que leur niveau d'incantation. De légères modifications sont également apportées aux sorts existants.|Le lancement de sorts de très bas niveau est maintenant autorisé à Athkatla tant qu'il ne constitue pas une perturbation suffisamment importante pour que le Conseil des Six s'en alarme.",
         "urls": [
             "https://www.shsforums.net/files/file/524-mana-based-spell-system/"
@@ -1283,16 +1291,20 @@
             "BGT"
         ],
         "authors": [
-            "AnnabelleRose"
+            "MaxTeamBG"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "C'est un mod qui date de 2004 qui écrase de nombreux sorts ainsi que leurs descriptions."
+        ],
         "translation_state": "auto",
-        "safe": 1,
-        "languages": [],
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2007-12",
-        "tp2": "non-weidu"
+        "last_update": "2004-04",
+        "tp2": "SpellSystem"
     },
     {
         "id": 41,
@@ -3194,11 +3206,13 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 0,
-        "languages": [],
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
         "status": "wip",
-        "last_update": "2006-08",
-        "tp2": ""
+        "last_update": "2005-09",
+        "tp2": "azure"
     },
     {
         "id": 98,
@@ -3886,7 +3900,8 @@
         "name": "BG2 Improvements",
         "description": "Ce mod ajoute 2 nouveaux profils (le Voleur fidèle et l'Homme brûlant, un profil de guerrier), un nouveau magasin (accessible à l'aide d'un parchemin que l'on trouve sur la Promenade de Waukyne), modifie plusieurs règles (caractéristiques des races, armes utilisables par tous...), améliore le Donjon d'Irenicus, ajoute quelques nouvelles rencontres et une mini-quête à la fin de SoA.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=22"
+            "http://balduran.blackwyrmlair.net/",
+            "http://forums.blackwyrmlair.net/index.php?showtopic=1219"
         ],
         "categories": [
             "Gameplay"
@@ -3897,7 +3912,7 @@
             "BG2"
         ],
         "authors": [
-            "Victor"
+            "Victor Georgiev"
         ],
         "team": [],
         "notes": [
@@ -5958,14 +5973,17 @@
         ],
         "team": [],
         "notes": [
-            "Utilisez le lien polonais pour un jeu original, et l'autre pour un jeu EE."
+            "Utilisez le premier lien pour un jeu original, et l'autre pour un jeu EE (en anglais seulement)."
         ],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de",
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": "bom"
+        "last_update": "2016-08",
+        "tp2": "BoM"
     },
     {
         "id": 186,
@@ -6024,7 +6042,7 @@
         "notes": [
             "Ce mod est très vieux et la méthode d'installation semble un peu particulière…"
         ],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
@@ -6050,12 +6068,12 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2017-07",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "id": 189,
@@ -6617,7 +6635,9 @@
         ],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2015-02",
         "tp2": "non-weidu"
@@ -7403,7 +7423,12 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "es",
+            "de",
+            "fr",
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-02",
         "tp2": "eseries"
@@ -7623,10 +7648,10 @@
         "notes": [
             "De l'avis même de son auteur : `For safety, save the game before you enter the area where the joinable is waiting`..."
         ],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "wip",
         "last_update": "2013-03",
         "tp2": "non-weidu"
     },
@@ -7647,7 +7672,7 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "missing",
@@ -8018,7 +8043,9 @@
         ],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-08",
         "tp2": "ConvinientAmmunition"
@@ -8972,7 +8999,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2000-09",
         "tp2": "n/a"
@@ -8996,9 +9025,11 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
-        "languages": [],
-        "status": "active",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
         "last_update": "",
         "tp2": "n/a"
     },
@@ -9513,7 +9544,7 @@
     {
         "id": 298,
         "name": "Delainy/Durlyle Same-Sex Romance Options",
-        "description": "Il s'agit d'un mini mod qui permet une pseudo romance homosexuelle avec Delainie et Durlyle sans l'île de Baldurien en modifiant le script pour faire apparaître Delainie pour les PJ féminins et/ou Durlyle pour les PJ masculins.|Il devrait fonctionner avec n'importe quelle langue du jeu puisqu'il ne modifie pas les dialogues.",
+        "description": "Il s'agit d'un mini mod qui permet une pseudo romance homosexuelle avec Delainie et Durlyle sans l'île de Baldurien en modifiant le script pour faire apparaître Delainie pour les PJ féminins et/ou Durlyle pour les PJ masculins.",
         "urls": [
             "https://forums.beamdog.com/discussion/37526/"
         ],
@@ -9760,7 +9791,7 @@
         "notes": [
             "Malheureusement, la qualité de ce mod laisse à désirer. À installer à vos risques et périls."
         ],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
@@ -9794,7 +9825,10 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": "active",
         "last_update": "2017-05",
         "tp2": "D2kits"
@@ -12110,10 +12144,12 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": "eternalimoen"
+        "last_update": "2016-05",
+        "tp2": "EternalImoen"
     },
     {
         "id": 380,
@@ -12804,7 +12840,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-12",
         "tp2": "Fhaugy"
@@ -12951,12 +12989,12 @@
             "FinnJO"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce vieux mod n'est pas très fiable."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2012-07",
         "tp2": "BGII-Subrace"
@@ -13167,8 +13205,10 @@
             "elminster"
         ],
         "team": [],
-        "notes": [],
-        "translation_state": "auto",
+        "notes": [
+            "Il override les fichiers SW1H62 et SW1H63."
+        ],
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
@@ -13348,10 +13388,15 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "cn",
+            "ru",
+            "pl",
+            "en"
+        ],
         "status": "active",
-        "last_update": "2024-12",
-        "tp2": "foundling"
+        "last_update": "2025-06",
+        "tp2": "Foundling"
     },
     {
         "id": 420,
@@ -13499,7 +13544,7 @@
         "notes": [
             "Attention : il existe une version piratée pour les jeux EE dont l'auteur n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
@@ -13587,10 +13632,13 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2025-04",
-        "tp2": "gahesh"
+        "tp2": "Gahesh"
     },
     {
         "id": 428,
@@ -13774,7 +13822,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "1999-05",
         "tp2": "n/a"
@@ -14201,7 +14251,7 @@
     {
         "id": 447,
         "name": "Ggib Eht Tweak Pack",
-        "description": "Il s'agit d'un mod pornographique qui propose plusieurs composants dont un système de prostitution, quelques objets pour adultes...|Désolé pour les amateurs, mais le site russe qui l'hébergeait n'existe plus...",
+        "description": "Il s'agit d'un mod pornographique qui propose plusieurs composants dont un système de prostitution, quelques objets pour adultes...",
         "urls": [
             "https://github.com/vbigiani/ggib_tweaks"
         ],
@@ -14222,7 +14272,9 @@
         ],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2015-10",
         "tp2": "ggib_tweaks"
@@ -14533,7 +14585,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "2006-07",
         "tp2": "GreyA"
@@ -15189,6 +15243,7 @@
         "name": "Hephernaan BG2",
         "description": "Ce mod ramène un personnage SoD dans BG2:EE: le diable Hephernaan. Parce que le vrai mal ne meurt jamais. Êtes-vous prêt à prendre un grand risque et à laisser le marionnettiste maléfique entrer dans votre groupe ? Pouvez-vous vraiment avoir confiance en ses motivations et ses plans ? Peut-être devenir encore plus fort... mais pouvez-vous apprendre à voir à travers ses mensonges et ses promesses ? Ou pensez-vous qu'il veut vraiment aider ou se sent-il amusé par tous les événements que vous traversez chaque jour ? C'est votre choix.|Le mod comprend des discussions \"d'amitié\", de nouvelles zones, des objets et des rencontres qui peuvent être rafraîchissantes pour les joueurs qui en ont déjà marre du contenu original de BG2. Comme ce mod utilise les références de Siege of Dragonspear, il peut être utile de jouer la trilogie.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=24",
             "https://downloads.weaselmods.net/download/hephernaan-bg2/",
             "https://forums.beamdog.com/discussion/comment/1126680"
         ],
@@ -15205,7 +15260,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-08",
         "tp2": "hephernaanbg2"
@@ -15642,10 +15699,12 @@
         ],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2009-09",
-        "tp2": "non-weidu"
+        "tp2": "AvengerKit"
     },
     {
         "id": 494,
@@ -16149,7 +16208,7 @@
         "name": "IWD Victor's Improvements Pack",
         "description": "Ce mod modifie plusieurs règles (caractéristiques des races, armes utilisables par tous), augmente le score de connaissance des mages et augmente le multiplicateur d'attaque sournoise à x6 au niveau 26.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=20"
+            "http://balduran.blackwyrmlair.net/"
         ],
         "categories": [
             "Gameplay"
@@ -16158,12 +16217,14 @@
             "IWD"
         ],
         "authors": [
-            "Victor"
+            "Victor Georgiev"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il override les fichiers ABRACEAD, BACKSTAB et LORE."
+        ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2005-12",
@@ -16490,10 +16551,11 @@
             "fr",
             "es",
             "ru",
-            "cn"
+            "cn",
+            "pl"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-06",
         "tp2": "iwdification"
     },
     {
@@ -16967,10 +17029,14 @@
             "Tresset"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ècrase l'objet CLCK06.itm."
+        ],
         "translation_state": "auto",
-        "safe": 1,
-        "languages": [],
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2015-04",
         "tp2": "ImprovedNonDetectionCloak"
@@ -17246,6 +17312,7 @@
         "name": "In Love, Undeath",
         "description": "Le mod ajoute une nouvelle série de quêtes dans une nouvelle zone ainsi qu'un nouveau personnage recrutable : Xzelë Melaenitt une paladine. Qui veut protéger ses amis, même après leur trépas. Elle ne se joindra à vous après être sûre que ses amis sont en sécurité et que rien de mal ne leur arrivera pendant qu'elle vous aide. Elle possède des banters, son propre kit et ses propres capacités. Une romance est possible avec les personnages masculins. Ce mod fait partie de la série The Dreadful Tales.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=65",
             "https://downloads.weaselmods.net/download/in-love-undeath/"
         ],
         "categories": [
@@ -17263,10 +17330,13 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "inloveundeath"
+        "tp2": "InLoveUndeath"
     },
     {
         "id": 546,
@@ -17624,7 +17694,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "",
         "tp2": ""
@@ -18448,10 +18520,12 @@
         ],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2018-03",
-        "tp2": "jkits"
+        "tp2": "JKits"
     },
     {
         "id": 582,
@@ -18757,13 +18831,13 @@
             "BGT"
         ],
         "authors": [
-            "Kevin Derner"
+            "Kevin Dorner"
         ],
         "team": [],
         "notes": [
             "Attention : ce mod a été signalé comme posant des problèmes dans BGT..."
         ],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "active",
@@ -18991,6 +19065,7 @@
         "name": "Khalid BG2",
         "description": "Ce mod permet de décider qui peut rester dans le groupe pendant BG2 et ToB : Khalid ou Jaheira. Il place Khalid près de la cage de Jaheira. Aidez-le, et vous ne pourrez plus recruter Jaheira puisque c'est elle qui aura été emmenée par Irenicus, et Khalid la pleurera. Aidez Jaheira, et Khalid subira son sort initial. Faites votre choix !|Ce mod inclut un nouveau portrait, une nouvelle voix, un chemin de l'amitié, de nouvelles versions des quêtes du Baron Ployer et des problèmes avec les ménestrels, de nouveaux objets, et même la possibilité que Khalid obtienne un nouveau profil après l'Ombreterre. Il n'y a pas de romance, mais un nouveau chemin non romantique pour les PNJ masculins. Il s'agit d'une amitié profonde, mais non romantique, déclenchée par la relation difficile de Khalid avec ses demi-frères à Calimshan et la relation pas très fraternelle de l'enfant de Bhaal avec Sarevok et leur manque de père. Les PJ féminins reçoivent également quelque chose : un cadeau spécial que Jaheira a trouvé à l'époque de la Croisade et qu'elle a donné à Khalid, espérant qu'ils le donneraient un jour ensemble à leur chef.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=58",
             "https://downloads.weaselmods.net/download/khalid-bg2/"
         ],
         "categories": [
@@ -19007,7 +19082,10 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2025-03",
         "tp2": "KhalidBG2"
@@ -19286,7 +19364,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2013-06",
         "tp2": "kittomes"
@@ -19466,6 +19546,7 @@
         "name": "L’anna",
         "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : L'anna Falthisslar, une paladine elfe - Mythseeker of Mythrien Sarath. Aidez-la à trouver la lame sacrée connue sous le nom de Mythalass-Teel. Parlez-lui, apprenez-en plus sur son passé et sur les anciens lieux elfiques comme Myth Drannor, Myth Ondath ou Myth Rhynn. Aidez-la, et elle vous aidera dans enquête sur les événements étranges auxquels le Val de bise est confronté. Elle peut engager une romance avec les hommes elfes non mauvais. Vous pouvez la recruter dans la taverne de la Cave aux racines, à Kuldahar.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=56",
             "https://downloads.weaselmods.net/download/lanna/"
         ],
         "categories": [
@@ -19481,7 +19562,11 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2024-04",
         "tp2": "lanna"
@@ -20232,6 +20317,7 @@
         "name": "Lhannd",
         "description": "Meet Lhannd Valdove, a chaotic good fallen ranger. He hails from a once-noble Athkatlan family who lost their legacy and drowned in problems. Will you lend a hand in breaking what others perceive as a curse, or will the chain of unfortunate events continue?||The mod comprises quests that expand Athkatla's Government District, including the addition of the Valdove Estate, situated above the local prison. If you are open to offering Lhannd a sympathetic ear, you may embark on a friendship or romance path that will help you get to know him even better, and... perhaps see his other side. Both men and women may romance him, however, the player character can't be of chaotic evil alignment for the romance to start.||To find Lhannd, venture into the Crooked Crane tavern located at the City Gates. The initial encounter serves as the starting point for his first quest.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=66",
             "https://downloads.weaselmods.net/download/lhannd/"
         ],
         "categories": [
@@ -20247,7 +20333,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-02",
         "tp2": "Lhannd"
@@ -20534,7 +20622,7 @@
     {
         "id": 651,
         "name": "Lost Crossroads Spellpack",
-        "description": "Ce mod améliore certains sortilèges dans le jeu, pour les rapprocher de leur version AD&D papier ou simplement leur donner plus de logique (par exemple, la Sphère d'Otiluke peut être lancée sur un allié ou le mage lui-même sans qu'il doive rater son jet de sauvegarde). Par ailleurs, il améliore considérablement leurs effets graphiques. Ce mod est en version bêta, donc attention aux bugs éventuels.",
+        "description": "Ce mod améliore certains sortilèges dans le jeu, pour les rapprocher de leur version AD&D papier ou simplement leur donner plus de logique (par exemple, la Sphère d'Otiluke peut être lancée sur un allié ou le mage lui-même sans qu'il doive rater son jet de sauvegarde). Par ailleurs, il améliore considérablement leurs effets graphiques.",
         "urls": [
             "http://forums.blackwyrmlair.net/index.php?showtopic=98&st=260&p=47135&",
             "https://www.mediafire.com/file/oa8qbsz8yeuhp8v/SpellPackB6.exe/file"
@@ -20700,7 +20788,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2007-09",
         "tp2": "Luizmods"
@@ -20726,10 +20816,12 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2006-03",
-        "tp2": "LyricKit"
+        "tp2": "lyricsetup"
     },
     {
         "id": 658,
@@ -21362,7 +21454,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2013-03",
         "tp2": "margarita"
@@ -21720,8 +21814,8 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
-        "safe": 2,
+        "translation_state": "n/a",
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2012-07",
@@ -23342,10 +23436,12 @@
         ],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2013-11",
-        "tp2": "nathaniel"
+        "tp2": "Nathaniel"
     },
     {
         "id": 740,
@@ -23369,7 +23465,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2022-12",
         "tp2": "navarra"
@@ -24090,6 +24188,7 @@
         "name": "Oak-Maw",
         "description": "Ce mod ajoute un nouveau PNJ dans IWD:EE : une créature féérique sombre, un chasseur, que certains décrivent comme un humain ressemblant à un cerf. Pourtant, il n'est ni cerf, ni humain. Cet être inhabituel est le fils du Roi des cerfs, plus connu en Rashéménie. C'est un étranger, quelqu'un qui peut mettre mal à l'aise la plupart des hommes et des femmes de Gélointain (Frozenfar). Allez-vous risquer votre réputation et apprendre à mieux le connaître ? Serez-vous capable de le voir comme quelqu'un d'égal à vous-même ? Lui ferez-vous suffisamment confiance pour construire une éventuelle relation avec quelqu'un de si différent de tous les autres hommes du Val de Bise ?|Oak-Maw pourra se joindre à vous une fois que vous aurez trouvé et manipulé une pierre spéciale, marquée d'une rune lumineuse.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=42",
             "https://downloads.weaselmods.net/download/oak-maw/"
         ],
         "categories": [
@@ -24105,10 +24204,13 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2024-09",
-        "tp2": "oakmaw"
+        "tp2": "OakMaw"
     },
     {
         "id": 765,
@@ -24135,12 +24237,12 @@
     {
         "id": 766,
         "name": "Of Heirlooms and Classes",
-        "description": "Ce mod ajoute 11 artefacts (héritages) que vous pouvez re-fabriquer avec l'aide de Cromwell. Chaque objet est un héritage exclusif, lié à une classe particulière, et ne peut être utilisé que par cette classe. Tous les objets sont disponibles dans Shadows of Amn.",
+        "description": "Ce mod ajoute 12 artefacts (héritages) que vous pouvez re-fabriquer avec l'aide de Cromwell. Chaque objet est un héritage exclusif, lié à une classe particulière, et ne peut être utilisé que par cette classe. Tous les objets sont disponibles dans Shadows of Amn.",
         "urls": [
             "https://downloads.weaselmods.net/download/of-heirlooms-and-classes/"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "Sort et objet"
         ],
         "games": [
             "BG2EE",
@@ -24153,7 +24255,11 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2024-09",
         "tp2": "OfHeirloomsandClasses"
@@ -24340,12 +24446,12 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2014-02",
-        "tp2": ""
+        "tp2": "1pp_hq_music_BGT"
     },
     {
         "id": 773,
@@ -24365,7 +24471,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
@@ -24390,7 +24496,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
@@ -24415,7 +24521,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
@@ -24440,7 +24546,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
@@ -24550,6 +24656,7 @@
         "name": "Orra",
         "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Kozakura, une femme au cœur honnête, qui vient d'une terre lointaine. Elle apprécie la tranquillité, la vérité et la compagnie. Écoutez ses histoires, parlez-lui, et peut-être deviendrez-vous amis. Le mod n'inclut pas de romance. Vous pouvez la recruter dès le début du jeu, à Havredest, sur la plate-forme en bois, non loin d'Elisia.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=50",
             "https://downloads.weaselmods.net/download/orra/"
         ],
         "categories": [
@@ -24565,7 +24672,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-11",
         "tp2": "Orra"
@@ -25302,7 +25411,7 @@
     {
         "id": 804,
         "name": "Petsy",
-        "description": "Le prolifique Lava vous présente son nouveau PNJ, une jeune petite-personne barde, bavarde, joueuse et un brin déjantée. Elle n'est pas très costaud mais devrait égayer votre groupe. La partie ToB n'est pas encore très développée, une nouvelle quête étant disponible dans la partie SoA. Les gnomes, nains et petites-personnes pourront accéder à sa romance, sans restriction de classes, ni d'alignements. Vous la trouverez dans la taverne de la Bonté marine.",
+        "description": "Le prolifique Lava vous présente une jeune petite-personne barde, bavarde, joueuse et un brin déjantée. Elle n'est pas très costaud mais devrait égayer votre groupe. La partie ToB n'est pas encore très développée, une nouvelle quête étant disponible dans la partie SoA. Les gnomes, nains et petites-personnes pourront accéder à sa romance, sans restriction de classes, ni d'alignements. Vous la trouverez dans la taverne de la Bonté marine.",
         "urls": [
             "https://downloads.weaselmods.net/download/petsy/"
         ],
@@ -25322,10 +25431,12 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2022-02",
-        "tp2": "petsy"
+        "tp2": "Petsy"
     },
     {
         "id": 805,
@@ -25846,7 +25957,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2003-01",
         "tp2": "non-weidu"
@@ -26543,7 +26656,7 @@
     {
         "id": 842,
         "name": "Psionics Unleashed",
-        "description": "Toujours en version bêta, ce mod a pour but d'ajouter un système complet de gestion psionique (classe, IA, effets...) basé sur les règles D&D 3.5. Plus de détails dans le [readme](https://www.shsforums.net/topic/55711-readme/) et sur les [capacités psioniques](https://www.shsforums.net/topic/55713-psionic-power-list/).",
+        "description": "Ce mod a pour but d'ajouter un système complet de gestion psionique (classe, IA, effets...) basé sur les règles D&D 3.5. Plus de détails dans le [readme](https://www.shsforums.net/topic/55711-readme/) et sur les [capacités psioniques](https://www.shsforums.net/topic/55713-psionic-power-list/).",
         "urls": [
             "https://www.shsforums.net/files/file/1037-psionics-unleashed/"
         ],
@@ -26564,10 +26677,12 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
-        "status": "obsolete",
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
         "last_update": "2013-11",
-        "tp2": ""
+        "tp2": "w_psionics_unleashed"
     },
     {
         "id": 843,
@@ -26612,6 +26727,7 @@
         "name": "Quayle BG2",
         "description": "Anciennement Quayle Redone, ce mod permet de recruter Quayle en lieu et place d'Aerie qui doit être morte. Le gnome dispose d'une mini-quête et de dialogues avec les PNJ de Bioware et le PJ pour SoA comme pour ToB. Un petit coup d'œil sur ses stats : FOR 8, DEX 15, CON 11, INT 17, SAG 10 et CHA 6.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=11",
             "https://downloads.weaselmods.net/download/quayle-bg2/"
         ],
         "categories": [
@@ -26629,10 +26745,13 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": "active",
-        "last_update": "2025-03",
-        "tp2": "quayle"
+        "last_update": "2025-06",
+        "tp2": "Quayle"
     },
     {
         "id": 845,
@@ -26896,7 +27015,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
@@ -27212,10 +27331,12 @@
         ],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2018-01",
-        "tp2": ""
+        "tp2": "RedSoulKit"
     },
     {
         "id": 863,
@@ -27733,12 +27854,12 @@
         "notes": [
             "Vous devez télécharger les deux parties du mod avant de l'installer : le composant principal (premier lien) et le contenu français (second lien)."
         ],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2012-01",
-        "tp2": ""
+        "tp2": "n/a"
     },
     {
         "id": 879,
@@ -28222,10 +28343,12 @@
         ],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
-        "last_update": "2009-03",
-        "tp2": ""
+        "last_update": "2008-11",
+        "tp2": "Refuge"
     },
     {
         "id": 894,
@@ -28524,12 +28647,12 @@
             "kensai"
         ],
         "team": [],
-        "notes": [
-            "Ce mod n'ayant pas été mis à jour depuis 2014, il est sans doute incompatible avec les nouveaux patches du jeu."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2014-11",
         "tp2": "runescarred"
@@ -29462,6 +29585,7 @@
         "name": "Shades of the Sword Coast",
         "description": "Ce mod ajoute pas moins de 36 nouvelles quêtes et rencontres dans BG, afin de rendre la plupart des zones que vous connaissez bien, et souvent dépourvues d'intérêt, encore plus intéressantes. À l'occasion, il vous permettra de rencontrer de nouvelles espèces de créatures...",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=51",
             "https://downloads.weaselmods.net/download/shades-of-the-sword-coast/"
         ],
         "categories": [
@@ -29469,6 +29593,7 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "EET"
         ],
         "authors": [
@@ -29478,10 +29603,19 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "it",
+            "kr",
+            "ru",
+            "pl",
+            "de",
+            "es",
+            "cn"
+        ],
         "status": "active",
         "last_update": "2025-04",
-        "tp2": "sotsc"
+        "tp2": "SotSC"
     },
     {
         "id": 932,
@@ -29589,7 +29723,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2001-04",
         "tp2": "n/a"
@@ -29656,7 +29792,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "active",
@@ -29711,15 +29847,15 @@
             "elminster"
         ],
         "team": [],
-        "notes": [
-            "L'auteur ne maintient plus ce mod."
-        ],
+        "notes": [],
         "translation_state": "auto",
-        "safe": 2,
-        "languages": [],
-        "status": "active",
-        "last_update": "2022-05",
-        "tp2": "k9sharteelnpc"
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "archived",
+        "last_update": "2020-10",
+        "tp2": "k9SharteelNPC"
     },
     {
         "id": 940,
@@ -30404,7 +30540,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "pl"
+        ],
         "status": "active",
         "last_update": "2009-05",
         "tp2": "Skie"
@@ -31160,7 +31298,7 @@
         "translation_state": "auto",
         "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "missing",
         "last_update": "2017-08",
         "tp2": "spell_weapons"
     },
@@ -31186,7 +31324,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "missing",
         "last_update": "2016-04",
         "tp2": ""
@@ -31368,7 +31508,10 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2015-03",
         "tp2": "StaffOfWithering"
@@ -31929,7 +32072,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "obsolete",
         "last_update": "2008-01",
         "tp2": "n/a"
@@ -32275,7 +32420,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "pl"
+        ],
         "status": "active",
         "last_update": "2011-10",
         "tp2": ""
@@ -34231,9 +34378,11 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2009-03",
+        "last_update": "2004-07",
         "tp2": "1ring"
     },
     {
@@ -35408,7 +35557,9 @@
         ],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2003-01",
         "tp2": ""
@@ -35800,7 +35951,7 @@
         "notes": [
             "utilisez le premier lien pour la version BGEE et le second lien pour la version BG2EE. Pour EET, utilisez la version BG2EE.|Ce mod est obsolète, le mod [[The Tweaks Anthology]] propose un composant similaire qui fonctionne sur toutes les versions du jeu."
         ],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "obsolete",
@@ -36642,7 +36793,7 @@
     {
         "id": 1155,
         "name": "Under-Represented Items",
-        "description": "Ce mod ajoute un marchand d'Icewind Dale 2 qui propose de puissantes armes parmi les moins présentes dans le jeu (bâtons, dagues, épées bâtardes, haches à deux mains, fléchettes, hallebardes, lances, marteaux, masses).|Plus de détails sur la [page originale du mod](https://weidu.org/underrep.html).",
+        "description": "Ce mod ajoute un marchand d'Icewind Dale 2 qui propose de puissantes armes parmi les moins présentes dans le jeu (bâtons, dagues, épées bâtardes, haches à deux mains, fléchettes, hallebardes, lances, marteaux, masses).",
         "urls": [
             "http://weidu.org/underrep.html",
             "https://github.com/Pocket-Plane-Group/Under-Respresented_Items"
@@ -36673,7 +36824,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-06",
         "tp2": "underrep"
     },
     {
@@ -37188,7 +37339,9 @@
         ],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2016-04",
         "tp2": ""
@@ -38495,6 +38648,7 @@
         "name": "White NPC",
         "description": "Ce mod ajoute un barbare humain de niveau 2 (tachez donc de le recruter assez vite) qui peut aussi se révéler bon chasseur. Vous pouvez le recruter près de l'entrée des ruines d'Ulcaster. Les PJ masculins, sans restriction de race, disposant d'au moins 11 de Charisme et 12 de Force peuvent tenter de le romancer. Flirts, interjections et banters avec tous les PNJ (y compris les 3 de BG:EE) sont également au programme.|Il est écrit par Lava Del'Vortel, auteur de [[Tales of the Deep Gardens]], [[Innershade]] et [[The White Queen]] pour BGII, notamment.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=16",
             "https://downloads.weaselmods.net/download/white-npc/"
         ],
         "categories": [
@@ -38513,7 +38667,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-03",
         "tp2": "white"
@@ -38664,6 +38820,7 @@
         "name": "Will of the Wisps",
         "description": "Ce mod apporte des extensions pour le shaman, en particulier une forteresse dont il était privé dans Shadows of Amn. Il comporte un nouveau lieu avec une quête accessible à tous, ainsi que des éléments propres à l'aspect forteresse. Il ajoute également Will, un personnage shaman mort-vivant recrutable, un kit de shaman (Witchlight Shaman) et des objets destinés aux shamans et aux morts-vivants (comme Will et Hexxat).|Conçu à l'origine pour BG2:EE, il est aussi compatible avec BG:EE et IWD:EE, même si tous ses composants ne seront pas installés.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=8",
             "https://downloads.weaselmods.net/download/will-of-the-wisps/"
         ],
         "categories": [
@@ -38683,7 +38840,10 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": "active",
         "last_update": "2025-03",
         "tp2": "willowisp"
@@ -38773,10 +38933,12 @@
         ],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "obsolete",
         "last_update": "2023-09",
-        "tp2": "non-weidu"
+        "tp2": "wso"
     },
     {
         "id": 1224,
@@ -38932,7 +39094,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "active",
@@ -39196,12 +39358,13 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2018-05",
         "tp2": "xulaye"
@@ -39347,6 +39510,7 @@
         "name": "Yvette Romance",
         "description": "Vous êtes-vous déjà procuré un parchemin renfermant autre chose que quelques lignes magiques ? C'est ainsi que vous ferez la connaissance d'Yvette ; aidez-la à se souvenir de son passé, laissez la vivre de nouvelles aventures, laissez la vous accompagner et peut-être pourrez-vous la toucher plus profondément qu'un simple ami. Yvette a du contenu pour SoA et ToB, banters et interjections sont également de la partie. Ce mod fait partie de la série Colours of Infinity, développée par Lava Del'Vortel.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=6",
             "https://downloads.weaselmods.net/download/yvette-romance/"
         ],
         "categories": [
@@ -39364,10 +39528,13 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2022-07",
-        "tp2": "yvette"
+        "tp2": "Yvette"
     },
     {
         "id": 1242,
@@ -39780,7 +39947,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-05",
         "tp2": "jtweaks"
@@ -41318,6 +41487,7 @@
         "name": "Yoshimo Romance",
         "description": "Ce mod ajoute un nouveau genre de romance avec le tristement célèbre chasseur de primes. Disponible pour des PJ féminins humaines, elfes, demi-elfes et tieffelines disposant d'au moins 13 en charisme, cette romance particulière épouse parfaitement la trame principale de SoA. Bien que l'on pourrait penser que tout s'arrêterait avec la rencontre de Jon Irenicus à l'asile de Spellhold, le mod dispose également de contenu pour ToB.| Ce mod est compatible avec [[Yoshimo Friendship]] et [[Tortured Souls-BP]], mais certains dialogues pourraient être affectés par la présence de ces mods.",
         "urls": [
+            " https://www.weaselmods.net/forumdisplay.php?fid=13",
             "https://downloads.weaselmods.net/download/yoshimo-romance/"
         ],
         "categories": [
@@ -41337,10 +41507,13 @@
         ],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "yoshiromance"
+        "tp2": "YoshiRomance"
     },
     {
         "id": 1303,
@@ -41368,10 +41541,14 @@
         ],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2023-03",
-        "tp2": "yoshimosremorse"
+        "tp2": "YoshimosRemorse"
     },
     {
         "id": 1304,
@@ -41478,7 +41655,7 @@
     {
         "id": 1307,
         "name": "Sub-zero",
-        "description": "Sub-Zero est un assassin du clan Lin Kuei. Kuai Liang possède le pouvoir de la glace et du froid. Comme son nom l'indique, le personnage est clairement inspiré du personnage homonyme de Mortal Kombat et possède son style très particulier.",
+        "description": "Sub-Zero est un assassin du clan Lin Kuei. Kuai Liang possède le pouvoir de la glace et du froid. Comme son nom l'indique, le personnage est clairement inspiré du personnage homonyme de Mortal Kombat et possède son style très particulier.|FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18.",
         "urls": [
             "https://www.shsforums.net/topic/61087-mod-sub-zero-companion/",
             "https://github.com/Endarire/BG2-Sub-Zero-Companion"
@@ -41495,7 +41672,6 @@
         ],
         "team": [],
         "notes": [
-            "FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18.",
             "Le lien github est compatible avec EET.",
             "Le mod [[Mods_Tweaker]] rend les caractéristiques du personnage plus RP."
         ],
@@ -41527,7 +41703,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2025-05",
         "tp2": "XzarAndMontaron"
@@ -42559,7 +42737,11 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2019-09",
         "tp2": "sarevokromance"
@@ -43533,7 +43715,9 @@
         ],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2019-01",
         "tp2": "seducerkit"
@@ -43674,6 +43858,7 @@
         "name": "Juniper and the Stone Leech",
         "description": "Juniper and the Stone Leech est un nouveau mod qui introduit une nouvelle aventure dans ToB ainsi qu'une nouvelle compagne qui vous demandera d'investiguer dans le royaume d'Har'Akir, qui fait partie de Ravenloft. Aidez Juniper et voyagez avec elle dans ce pays mystérieux. Visitez le temple obscur, situé dans le désert sombre de Har'Akir, combattez des ennemis, découvrez les salles du temple et trouvez la source de l'inquiétude qui perturbe votre nouvelle amie.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=65",
             "https://downloads.weaselmods.net/download/juniper-and-the-stone-leech/"
         ],
         "categories": [
@@ -43690,10 +43875,13 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": "active",
         "last_update": "2025-04",
-        "tp2": "juniperandthestoneleech"
+        "tp2": "JuniperAndTheStoneLeech"
     },
     {
         "id": 1376,
@@ -43753,10 +43941,12 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2017-05",
-        "tp2": "warlock"
+        "tp2": "WARLOCK"
     },
     {
         "id": 1378,
@@ -44227,12 +44417,12 @@
             "Attention, la première partie n'est pas un composant Weidu et il est nécessaire d'overrider les objets et les magasins correspondants. La seconde est Weidu.",
             "Il est désormais obsolète et a été remplacé par [[Convenient Enhanced Edition NPCs]]."
         ],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "obsolete",
         "last_update": "2014-08",
-        "tp2": "ee_content_tweaks"
+        "tp2": "EE_content_tweaks"
     },
     {
         "id": 1394,
@@ -44295,7 +44485,7 @@
         "name": "ZSTweaks",
         "description": "Ce mod est une compilation de tweaks qui, selon l'auteur, améliorent les choses telles qu'elles sont dans le jeu vanilla. La grande majorité des tweaks sont conçus pour être de simples améliorations d'objets ou de capacités sous-puissants. Certains d'entre eux modifient le jeu un peu plus en profondeur, mais pas de façon radicale.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/38335-royalprotectors-tweaks-zstweaks-%E2%80%93-143/",
+            "https://www.gibberlings3.net/forums/topic/38335-royalprotectors-tweaks-zstweaks/",
             "https://github.com/szaumoor/ZSTweaks"
         ],
         "categories": [
@@ -47497,7 +47687,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
@@ -47820,7 +48010,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
@@ -51165,7 +51355,9 @@
         ],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2022-05",
         "tp2": "Mages Can Specialize"
@@ -53708,9 +53900,11 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2013-12",
         "tp2": "non-weidu"
@@ -53860,7 +54054,7 @@
     {
         "id": 1724,
         "name": "Alexia: An NPC Assassin",
-        "description": "Alexia Kalila Johara Al-Mustafa ou X, comme on l'appelle, se dit originaire de la ville de Calimport, dans le pays de Calimshan. Douce et silencieuse, elle a tendance à se tenir à l'écart et à ne parler à personne. C'est une tueuse bien entraînée qui peut atteindre n'importe qui, peu importe le nombre de pièges ou de personnes qui protègent sa cible. Elle aime relever les défis qui se présentent à elle pour atteindre sa cible. Elle n'est pas vantarde, mais elle excelle dans l'art de donner le meilleur d'elle-même. Sa carte de visite est de laisser une note avec un X sur le corps de sa cible et tous les témoins sont généralement tués. Alexia n'appartient à aucune guilde, elle travaille seule et accepte les contrats qui lui plaisent. L'un de ces contrats consiste à tuer Irenicus, c'est pourquoi elle souhaite rejoindre votre groupe.",
+        "description": "Alexia Kalila Johara Al-Mustafa ou X, comme on l'appelle, se dit originaire de la ville de Calimport, dans le pays de Calimshan. Douce et silencieuse, elle a tendance à se tenir à l'écart et à ne parler à personne. C'est une tueuse bien entraînée qui peut atteindre n'importe qui, peu importe le nombre de pièges ou de personnes qui protègent sa cible. Elle aime relever les défis qui se présentent à elle pour atteindre sa cible. Elle n'est pas vantarde, mais elle excelle dans l'art de donner le meilleur d'elle-même. Sa carte de visite est de laisser une note avec un X sur le corps de sa cible et tous les témoins sont généralement tués. Alexia n'appartient à aucune guilde, elle travaille seule et accepte les contrats qui lui plaisent. L'un de ces contrats consiste à tuer Irenicus, c'est pourquoi elle souhaite rejoindre votre groupe.|FOR 14, DEX 18, CON 12, INT 16, SAG 10, CHA 8.",
         "urls": [
             "https://forums.beamdog.com/discussion/40896"
         ],
@@ -53878,7 +54072,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "missing",
         "last_update": "2015-04",
         "tp2": ""
