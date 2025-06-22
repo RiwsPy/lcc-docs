@@ -31,15 +31,16 @@ if __name__ == "__main__":
         "%(asctime)s - %(levelname)s - %(name)s|%(funcName)s:%(lineno)d - %(message)s"
     )
 
+    logger = logging.getLogger()
+    logger.setLevel(logging.INFO)
+
     log_file = logging.FileHandler("lccdocs.log", encoding="utf-8")
-    log_file.setLevel(logging.INFO)
     log_file.setFormatter(logging.Formatter(error_format))
-    logging.getLogger().addHandler(log_file)
+    logger.addHandler(log_file)
 
     log_console = logging.StreamHandler()
-    log_console.setLevel(logging.INFO)
     log_console.setFormatter(logging.Formatter(error_format))
-    logging.getLogger().addHandler(log_console)
+    logger.addHandler(log_console)
 
     if hasattr(module, "main"):
         module.main(**args.__dict__)
