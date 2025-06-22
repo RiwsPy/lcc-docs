@@ -1645,7 +1645,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2018-09",
+        "last_update": "2018-12",
         "tp2": "AnimalCompanions"
     },
     {
@@ -2016,7 +2016,8 @@
             "EET"
         ],
         "authors": [
-            "Alexander12"
+            "Alexander12",
+            "tipun"
         ],
         "team": [],
         "notes": [],
@@ -2027,7 +2028,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2021-03",
         "tp2": "arcane-treasury-mod"
     },
     {
@@ -2737,7 +2738,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-03",
+        "last_update": "2024-01",
         "tp2": "Aura_BG1"
     },
     {
@@ -3171,7 +3172,7 @@
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien shs pour les versions originelles et le lien github pour la version EE. La seconde version est non officielle et n'est pas disponible en français."
+            "Choisissez le lien shs pour les versions originelles et le lien github pour la version EE. La seconde version est non officielle et n'est disponible ni en français ni en italien, mais elle est disponible en russe."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -3179,7 +3180,8 @@
             "en",
             "fr",
             "de",
-            "it"
+            "it",
+            "ru"
         ],
         "status": "active",
         "last_update": "2022-11",
@@ -3686,7 +3688,8 @@
             "fr",
             "it",
             "pl",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-05",
@@ -5235,7 +5238,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-06",
         "tp2": "BardicWonders"
     },
     {
@@ -5444,7 +5447,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-06",
         "tp2": "d2-script"
     },
     {
@@ -6077,7 +6080,7 @@
     },
     {
         "id": 189,
-        "name": "Boots of Speed",
+        "name": "Boots of Speed+",
         "description": "Ce mini mod n'accorde aux Bottes de rapidité qu'une vitesse de déplacement doublée.",
         "urls": [
             "https://forums.beamdog.com/discussion/51142/"
@@ -8909,7 +8912,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-06",
         "tp2": "d2-mira"
     },
     {
@@ -9636,7 +9639,7 @@
     {
         "id": 301,
         "name": "Deratiseur's Unused Kits Pack",
-        "description": "Ce mod regroupe tous les profils créés par Deratiseur. Vous y retrouverez le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Seigneur de guerre (kit pour jumelé guerrier-&gt;mage) et bien d'autres.|Son contenu évolue selon l'humeur de Deratiseur (ajout ou retrait de profils).",
+        "description": "Ce mod regroupe tous les profils créés par Deratiseur. Vous y retrouverez le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Seigneur de guerre (kit pour jumelé guerrier-mage) et bien d'autres.|Son contenu évolue selon l'humeur de Deratiseur (ajout ou retrait de profils).",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=19490",
             "https://github.com/Deratiseur/DUKP",
@@ -9649,6 +9652,7 @@
             "BG2",
             "BGT",
             "BGEE",
+            "SoD",
             "BG2EE",
             "EET",
             "IWDEE"
@@ -9665,7 +9669,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-06",
         "tp2": "Derats_kits"
     },
     {
@@ -9872,7 +9876,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2016-04",
+        "last_update": "2016-03",
         "tp2": "DiffTweak"
     },
     {
@@ -10035,7 +10039,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2014-12",
+        "last_update": "2014-10",
         "tp2": "s3disclubs"
     },
     {
@@ -11786,7 +11790,8 @@
             "ru",
             "es",
             "br",
-            "cn"
+            "cn",
+            "br"
         ],
         "status": "active",
         "last_update": "2025-02",
@@ -13457,7 +13462,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2015-10",
+        "last_update": "2014-08",
         "tp2": "fr_rov"
     },
     {
@@ -22037,7 +22042,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-06",
         "tp2": "d2-randomkits"
     },
     {
@@ -24403,7 +24408,7 @@
     },
     {
         "id": 771,
-        "name": "One Pixel Productions: animation fixes for IWD:TotLM",
+        "name": "1pp: animation fixes for IWD:TotLM",
         "description": "Ce mod corrige certains dysfonctionnement apparus dans l'extension [[Trials of the Luremaster (IWD)]] : il restaure les animations d'attente pendant les combats, il corrige les sons d'attaque et permet d'utiliser les animations de personnages de BG1 dans Heart of Winter et [[Trials of the Luremaster (IWD)]].",
         "urls": [
             "https://www.shsforums.net/files/file/972-1pp-animation-fixes-for-iwd-totlm/"
@@ -24430,7 +24435,7 @@
     },
     {
         "id": 772,
-        "name": "One Pixel Productions High-Quality Music for BGT",
+        "name": "1pp: High-Quality Music for BGT",
         "description": "Créé par pro5, ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable du mod BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT.",
         "urls": [
             "https://www.shsforums.net/topic/50032-1pp-high-quality-music-for-soatob-tututosc-iwd-pst/page-4#entry567024"
@@ -24455,7 +24460,7 @@
     },
     {
         "id": 773,
-        "name": "One Pixel Productions: high-quality music for IWD",
+        "name": "1pp: high quality music for IWD",
         "description": "Ce mod remplace les musiques du jeu par celles qui ont été éditées sur le CD de la bande originale, de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu, dont ceux des extensions Heart of Winter et [[Trials of the Luremaster (IWD)]].",
         "urls": [
             "https://www.shsforums.net/files/file/971-1pp-high-quality-music-for-iwd/"
@@ -24480,7 +24485,7 @@
     },
     {
         "id": 774,
-        "name": "One Pixel Productions: high-quality music for PS:T",
+        "name": "1pp: high quality music for PS:T",
         "description": "Ce mod remplace les musiques du jeu par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.",
         "urls": [
             "https://www.shsforums.net/files/file/1008-1pp-high-quality-music-for-pst/"
@@ -24505,7 +24510,7 @@
     },
     {
         "id": 775,
-        "name": "One Pixel Productions: high-quality music for SoA/ToB",
+        "name": "1pp: high quality music for SoA/ToB",
         "description": "Ce mod remplace les musiques du jeu par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.",
         "urls": [
             "https://www.shsforums.net/files/file/969-1pp-high-quality-music-for-soatob/"
@@ -24530,7 +24535,7 @@
     },
     {
         "id": 776,
-        "name": "One Pixel Productions: high-quality music for Tutu/ToSC",
+        "name": "1pp: high quality music for Tutu/ToSC",
         "description": "Ce mod remplace les musiques du jeu par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.",
         "urls": [
             "https://www.shsforums.net/files/file/970-1pp-high-quality-music-for-tututosc/"
@@ -26127,7 +26132,8 @@
             "pl",
             "jp",
             "hu",
-            "cz"
+            "cz",
+            "pt"
         ],
         "status": "active",
         "last_update": "2021-09",
@@ -27089,7 +27095,7 @@
     },
     {
         "id": 855,
-        "name": "Random No more Empty Containers",
+        "name": "Random Nomore Empty Containers",
         "description": "Ce mod remplit les conteneurs vides du jeu avec des objets. Pour les moddeurs, ils sont choisis aléatoirement dans les fichiers RNDTRE01.2da et RNDTRE02.2da.",
         "urls": [
             "https://forums.beamdog.com/discussion/70083/"
@@ -28347,7 +28353,7 @@
             "en"
         ],
         "status": "embed",
-        "last_update": "2008-11",
+        "last_update": "2009-03",
         "tp2": "Refuge"
     },
     {
@@ -28673,7 +28679,8 @@
             "BG2",
             "BGT",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Riklaunim"
@@ -28893,7 +28900,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2018-12",
+        "last_update": "2018-04",
         "tp2": "Sacrificer"
     },
     {
@@ -33292,7 +33299,7 @@
         ],
         "team": [],
         "notes": [
-            "Une extension existe pour BGEE : [[Thalantyr Item Upgrade Extensions]]."
+            "Une extension existe pour BGEE : [[Thalantyr Item Upgrade Mod Extensions]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -33842,7 +33849,7 @@
             "en"
         ],
         "status": "missing",
-        "last_update": "2021-06",
+        "last_update": "2020-12",
         "tp2": "The Demon and the Dragon"
     },
     {
@@ -36366,7 +36373,8 @@
             "IWD2",
             "IWDEE",
             "PST",
-            "PSTEE"
+            "PSTEE",
+            "Tutu"
         ],
         "authors": [
             "CamDawg",
@@ -40188,7 +40196,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-06",
         "tp2": "passive_warrior_hlas"
     },
     {
@@ -40498,7 +40506,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2020-04",
         "tp2": "Protagonist_Can_Die"
     },
     {
@@ -41707,7 +41715,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-06",
         "tp2": "XzarAndMontaron"
     },
     {
@@ -41854,7 +41862,8 @@
             "en",
             "de",
             "cn",
-            "ru"
+            "ru",
+            "es"
         ],
         "status": "active",
         "last_update": "2025-05",
@@ -43012,7 +43021,8 @@
         "safe": 2,
         "languages": [
             "en",
-            "cn"
+            "cn",
+            "ru"
         ],
         "status": "active",
         "last_update": "2025-02",
@@ -43052,7 +43062,7 @@
     },
     {
         "id": 1349,
-        "name": "Thalantyr Item Upgrade Extensions",
+        "name": "Thalantyr Item Upgrade Mod Extensions",
         "description": "Ce mod est une extension du mod [[Thalantyr Item Upgrade]] qui ajoute de nouveaux objets combinables par Thalantyr.",
         "urls": [
             "https://github.com/BardezAnAvatar/BGEE-Thalantyr-Ex"
@@ -43975,7 +43985,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-10",
         "tp2": "kinfriendship"
     },
     {
@@ -44510,7 +44520,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-06",
         "tp2": "ZSTweaks"
     },
     {
@@ -45008,7 +45018,7 @@
     },
     {
         "id": 1414,
-        "name": "Ahungry Deletefier",
+        "name": "Ahungry's Deletefier",
         "description": "Supprime de nombreux objets des créatures/magasins/zones - essaie en fait de « rétrograder » tous les types d'objets spéciaux à leur forme de base en fonction d'une certaine probabilité (0 à 100) qui est choisie lors de l'installation du mod.|Note de l'auteur : sur un megamod (plus de 200 mods), j'aime bien les 90 à 95 - cela rend l'acquisition de matériel à nouveau excitante.",
         "urls": [
             "https://github.com/ahungry/ahungry_deletefier"
@@ -45065,7 +45075,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-06",
         "tp2": "mih_fr"
     },
     {
@@ -46536,7 +46546,7 @@
     },
     {
         "id": 1467,
-        "name": "Morg NPC",
+        "name": "Morgul NPC",
         "description": "Morg est un guerrier/nécromancien nain (Duergar) maléfique. En raison de sa race, il peut lancer l'invisibilité comme une capacité innée. Il n'a pas encore de banters.|FOR 15, DEX  8, CON 18, INT 15, SAG 16, CHA 7.|Le mod ajoute également un petit donjon supplémentaire, voir le README pour plus d'informations.",
         "urls": [
             "https://github.com/toopok4k3/Morg_BG1"
@@ -46792,7 +46802,7 @@
     },
     {
         "id": 1476,
-        "name": "Wilson spider transformation",
+        "name": "Wilson spider transformation in underdark",
         "description": "Ce mod complète la transformation du groupe en drow par Adalon, en lui permettant de transformer l'ours Wilson en araignée.",
         "urls": [
             "https://github.com/badungu/Wilson_spider_transformation"
@@ -47648,7 +47658,8 @@
         "description": "Ce mod change l'apparence de plusieurs écrans dans le jeu - comme la boîte de dialogue, l'inventaire ou le journal. Vous pouvez choisir entre différents skins.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/36119-uimodplanescape-ee-book-of-torment-discover-the-dialogues-of-torment-in-a-new-edition/",
-            "https://www.nexusmods.com/planescapetormentenhancededition/mods/9"
+            "https://www.nexusmods.com/planescapetormentenhancededition/mods/9",
+            "https://github.com/szef501/BookOfTorment"
         ],
         "categories": [
             "Interface"
@@ -47663,10 +47674,13 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
-        "last_update": "2024-08",
-        "tp2": "n/a"
+        "last_update": "2025-06",
+        "tp2": "BookOfTorment"
     },
     {
         "id": 1506,
@@ -48134,7 +48148,7 @@
     },
     {
         "id": 1522,
-        "name": "Caravans of Faerun",
+        "name": "Caravans of Faerûn: A Better Way to Travel",
         "description": "Ce mod ajoute une nouvelle façon de voyager à travers la Côte de l'Épée, en ajoutant des Maîtres de Caravane que vous pouvez engager pour vous amener à certains endroits sur la carte avec seulement la moitié du temps de voyage et sans risque de rencontres aléatoires. Vous arriverez sur place bien reposé, avec vos sorts et vos capacités restaurés, ce qui vous permettra d'économiser des heures, voire des jours de jeu. Cependant, ce genre de service n'est pas gratuit, car vous devez payer 10 or par heure de voyage pour chaque membre du groupe. Les frais de déplacement ne sont pas donnés, après tout.",
         "urls": [
             "https://artisans-corner.com/caravans-of-faerun/",
@@ -54717,7 +54731,7 @@
     {
         "id": 1747,
         "name": "Skyfire",
-        "description": "Ce mod propose aux pnjs d’utiliser l'aérostat de la promenade de Waukyne pour visiter de nombreuses zones éloignées et même d'autres plans. Ce mod est toujours en cours de réalisation.",
+        "description": "Ce mod propose aux pnjs d’utiliser l'aérostat de la promenade de Waukyne pour visiter de nombreuses zones éloignées et même d'autres plans.",
         "urls": [
             "https://forums.beamdog.com/discussion/82663"
         ],
@@ -55307,7 +55321,7 @@
     },
     {
         "id": 1767,
-        "name": "Kit de Gelée",
+        "name": "Kit de Mutant de gelée",
         "description": "Ce kit de Guerrier permet au personnage de se transformer en gelée moutarde. Il possède de nombreux atouts, comme l'immunité au poison, au sommeil, aux attaques mentales et des bonus à ses jets de sauvegarde. Les caractéristiques de sa transformation évoluent en fonction de ses niveaux, notamment des bonus de Classe d'armure, de caractéristiques et de régénération. Sa couleur de peau est… inhabituelle.",
         "urls": [
             "https://cafe.naver.com/f-e/cafes/12857088/articles/85256",
