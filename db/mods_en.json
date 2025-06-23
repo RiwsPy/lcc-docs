@@ -55,8 +55,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Il écrase les fichiers STYLBONU.2DA ainsi que CLCK32.itm en passant sa description en anglais."
+            ]
         }
     },
     {
@@ -595,8 +597,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "C'est un mod qui date de 2004 qui écrase de nombreux sorts ainsi que leurs descriptions."
+            ]
         }
     },
     {
@@ -1423,7 +1427,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Choisissez le lien shs pour les versions originelles et le lien github pour la version EE. La seconde version est non officielle et n'est pas disponible en français."
+                "Choisissez le lien shs pour les versions originelles et le lien github pour la version EE. La seconde version est non officielle et n'est disponible ni en français ni en italien, mais elle est disponible en russe."
             ]
         }
     },
@@ -1701,8 +1705,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Allez plutôt voir [[Gerri's NPC Portraits Pack]] qui est sa continuation."
+            ]
         }
     },
     {
@@ -2692,7 +2698,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Utilisez le lien polonais pour un jeu original, et l'autre pour un jeu EE."
+                "Utilisez le premier lien pour un jeu original, et l'autre pour un jeu EE (en anglais seulement)."
             ]
         }
     },
@@ -4374,7 +4380,7 @@
         "description": "This mod brings together all the profiles created by Deratiseur. You'll find the Vermin Hunter (ranger kit), the Bringer of Hatred (fighter kit for half-orcs), the Preacher of Flames (offensive cleric kit), the Warlord (fighter-mage twin kit) and many more. The content evolves according to Deratiseur's mood (adding or removing profiles).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod regroupe tous les profils créés par Deratiseur. Vous y retrouverez le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Seigneur de guerre (kit pour jumelé guerrier-&gt;mage) et bien d'autres.|Son contenu évolue selon l'humeur de Deratiseur (ajout ou retrait de profils)."
+            "source": "Ce mod regroupe tous les profils créés par Deratiseur. Vous y retrouverez le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Seigneur de guerre (kit pour jumelé guerrier-mage) et bien d'autres.|Son contenu évolue selon l'humeur de Deratiseur (ajout ou retrait de profils)."
         },
         "notes": [],
         "notes_meta": {
@@ -5262,8 +5268,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "L'utilisation de KitEditor est requise."
+            ]
         }
     },
     {
@@ -5526,12 +5534,14 @@
         "description": "This mod is part of a series of eight profiles created on the old IE customization & add-ons site: [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], Ethereal Blademaster, [[Gambler]] and [[Undead Warrior]].|This one installs a lurker profile. ToB is required.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], Ethereal Blademaster, [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de rôdeur. ToB est nécessaire."
+            "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], Ethereal Blademaster, [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de rôdeur."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "ToB est requis."
+            ]
         }
     },
     {
@@ -6001,8 +6011,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Écrase SW1H62.itm et SW1H63.itm."
+            ]
         }
     },
     {
@@ -6691,7 +6703,7 @@
         "description": "It's a collection of \"smart\" scripts for IWD: Mage, Cleric, Druid, Cleric/Mage Script, Cleric/Ranger, Paladin, \"generic\" script, Fighter, Anti-spell caster, Anti-undead, Bard, Stealth thief...",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'une collection de scripts \"intelligents pour IWD : Mage, Clerc, Druid, Clerc/Mage Script, Clerc/Rôdeur, Paladin, script \"générique\", Guerrier, Anti-lanceur de sorts, Anti-mort-vivant, Barde, Voleur en mode furtif..."
+            "source": "Il s'agit d'une collection de scripts intelligents pour IWD : Mage, Clerc, Druid, Clerc/Mage Script, Clerc/Rôdeur, Paladin, script \"générique\", Guerrier, Anti-lanceur de sorts, Anti-mort-vivant, Barde, Voleur en mode furtif..."
         },
         "notes": [],
         "notes_meta": {
@@ -7408,8 +7420,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Écrase ABRACEAD.2DA, BACKSTAB.2DA et LORE.2DA."
+            ]
         }
     },
     {
@@ -7778,8 +7792,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Écrase CLCK06.itm."
+            ]
         }
     },
     {
@@ -13236,7 +13252,7 @@
         "description": "Samurai are professional fighters, members of the noble class, trained in the arts of war. They are not only trained for their role in society, they are born into a system of allegiance, loyalty and honor that influences every stage of their lives. A samurai detached from this system is no longer a samurai; he's an ordinary fighter, a ronin with no honor and no status in society.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Les samouraïs sont des guerriers professionnels, membres de la classe noble, formés aux arts de la guerre. Ils ne sont pas seulement formés pour leur rôle dans la société, ils sont nés dans un système d'allégeance, de loyauté et d'honneur qui influence chaque étape de leur vie. Un samouraï détaché de ce système n'est plus un samouraï ; c'est un combattant ordinaire, un ronin sans honneur et sans statut dans la société."
+            "source": "Les samouraïs sont des guerriers professionnels, membres de la classe noble, formés aux arts de la guerre. Ils ne sont pas seulement formés pour leur rôle dans la société, ils sont nés dans un système d'allégeance, de loyauté et d'honneur qui influence chaque étape de leur vie. Un samouraï détaché de ce système n'est plus un samouraï ; c'est un combattant ordinaire, un ronin sans honneur et sans statut dans la société. Il peut devenir grand-maître dans la maîtrise du katana et du wakizashi. Il est immunisé à la peur et peut terroriser ses adversaires."
         },
         "notes": [
             "The first link contains the Maurolava version, compatible with the original games.",
@@ -13244,10 +13260,7 @@
         ],
         "notes_meta": {
             "status": "needs_review",
-            "source": [
-                "La premier lien contient la version de Maurolava, compatible avec les jeux originaux.",
-                "Utilisez le lien github pour la version EE réalisée par Greener. Elle ne fonctionne pas sur les jeux originaux."
-            ]
+            "source": []
         }
     },
     {
@@ -14174,7 +14187,8 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : Modifiez l'extension du fichier téléchargé en .exe pour pouvoir l'installer."
+                "Attention : Modifiez l'extension du fichier téléchargé en .exe pour pouvoir l'installer. Bien que WeiDU, ce mod override de nombreux fichiers.",
+                "Incompatible avec ToB."
             ]
         }
     },
@@ -15866,7 +15880,7 @@
         "description": "This mod allows you to recruit Eldoth and Skie as soon as you leave Candlekeep. Eldoth is in the Friendly Arm Inn and has a new plan to kidnap/release Skie Silvershield, but to keep the game balanced, Eldoth and Skie start at level 1.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet de recruter Eldoth et Skie dès votre départ de Château-Suif. Eldoth se trouve dans l'auberge du Bras amical et dispose d'un nouveau plan pour kidnapper/libérer Skie Écudargent.Cependant, pour ne pas déséquilibrer le jeu, Eldoth et Skie commencent à niveau 1."
+            "source": "Ce mod permet de recruter Eldoth et Skie dès votre départ de Château-Suif. Eldoth se trouve dans l'auberge du Bras amical et dispose d'un nouveau plan pour kidnapper/libérer Skie Écudargent.Cependant, pour ne pas déséquilibrer le jeu, Eldoth et Skie commencent au niveau 1."
         },
         "notes": [],
         "notes_meta": {
@@ -19970,7 +19984,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Une extension est prévue pour BG2."
+                "Une extension est prévue pour BG2 : [[M'Khiin NPC]]."
             ]
         }
     },
@@ -20842,8 +20856,8 @@
         "id": 1439,
         "description": "",
         "description_meta": {
-            "status": "done",
-            "source": ""
+            "status": "todo",
+            "source": "Un script pour voyager facilement dans Baldur's Gate. Il permet de gérer les actions courantes comme l'attaque, la fuite, l'utilisation des compétences actives et la gestion des pièges."
         },
         "notes": [],
         "notes_meta": {
@@ -23596,8 +23610,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Écrase les fichiers MSNKG1.BAM, MSNKG11.BAM et MSNKG12.BAM."
+            ]
         }
     },
     {
@@ -25528,6 +25544,75 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1771,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod permet aux pièges d'être activés par n'importe quel personnage, y compris des ennemis ou des invocations. Cela permet notamment de les utiliser à des fins tactiques. Attention, certaines créatures ou des innocents errent naturellement et peuvent donc être tués."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": []
+        }
+    },
+    {
+        "id": 1772,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Les samouraïs sont des guerriers professionnels, membres de la classe noble, formés aux arts de la guerre. Ils ne sont pas seulement formés pour leur rôle dans la société, ils sont nés dans un système d'allégeance, de loyauté et d'honneur qui influence chaque étape de leur vie. Un samouraï détaché de ce système n'est plus un samouraï ; c'est un combattant ordinaire, un ronin sans honneur et sans statut dans la société. Il peut devenir grand maître en maîtrise de katana, wakizashi, fléau, hallebarde et arc long. Il peut lancer Kai qui lui permet d'augmenter sa Force jusqu'à 18/00 et les dégâts infligés pendant 1 round. Au niveau 9, il obtient un Kai majeur qui lui permet d'étourdir ses adversaires à chaque attaque."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1773,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod modifie le fonctionnement de nombreux sorts, modifie quelques objets et propose également une arène pour des duels."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Il override de très nombreux sorts et projectiles."
+            ]
+        }
+    },
+    {
+        "id": 1774,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute une cape étrange qui permet à son porteur d'améliorer grandement sa capacité à se camoufler dans les ombres et d'esquiver une partie des attaques de projectiles. En contrepartie, le charisme du porteur est réduit mais surtout, il peut à tout moment rentrer dans un état de grande panique. Des potions permettent de soigner de cet état, encore faut-il trouver un moyen de faire boire une potion à un personnage paniqué…"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": []
+        }
+    },
+    {
+        "id": 1775,
+        "description": "With this mod all armor, weapons and shields in the game, which are considered to be enchanted +3 or more, will begin to glow with pulsating light when they are equipped (the color of this light depends on the type of the item and my preferences - for example the elven items will glow with green light etc.).",
+        "description_meta": {
+            "status": "done",
+            "source": "Avec ce mod toutes les armures, armes et boucliers du jeu, avec un enchantement supérieur ou égale à +3, commenceront à briller d'une lumière pulsante lorsqu'ils seront équipés (la couleur de cette lumière dépend du type de l'objet et de mes préférences - par exemple, les objets elfiques brilleront d'une lumière verte, etc.)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Écrase le fichier tlk et tous les objets +3 vanilla."
+            ]
         }
     }
 ]

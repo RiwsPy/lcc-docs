@@ -404,7 +404,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2023-09",
+        "last_update": "2025-06",
         "tp2": "A7-Achievements"
     },
     {
@@ -6177,6 +6177,7 @@
         "description": "Ce mod ajoute un PNJ recrutable pour toute la saga Baldur's Gate. Il est nativement compatible avec BG:EE, SoD, BGII, BGT, BG2:EE et EET. Pour l'instant, seul le contenu BG1 du mod est terminé.|C'est un mage chaotique bon que vous trouverez sur la Côte des Épées, recherchant de l'aide pour combattre un ogre afin de récupérer ses biens. Selon qu'il se trouve ou non dans le groupe lorsque Mélicamp est amené à Thalantyr, il aura une quête supplémentaire qui l'écartera du groupe pendant un certain temps. Brandock est très intéressé par les livres de magie. Chaque fois qu'il a le temps d'étudier les livres de magie que le groupe rencontre dans le jeu, cela augmente son score de connaissance. Il est amical et serviable, mais il faudra un peu de temps avant qu'il s'ouvre et dise au PC d'où il vient, pour des raisons qu'il expliquera volontiers lorsqu'il sera prêt à le faire.|Si votre groupe comprend déjà 6 membres, il pourra vous rejoindre comme \"7eme membre\" et vous suivra à la manière d'un familier.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/brandock-der-magier.48/",
+            "https://www.gibberlings3.net/forums/topic/34687-brandock-the-mage-npc-mod-kerzenburgforum/",
             "https://github.com/Gitjas/Brandock_the_Mage"
         ],
         "categories": [
@@ -28976,29 +28977,22 @@
     {
         "id": 912,
         "name": "Samurai Kit",
-        "description": "Les samouraïs sont des guerriers professionnels, membres de la classe noble, formés aux arts de la guerre. Ils ne sont pas seulement formés pour leur rôle dans la société, ils sont nés dans un système d'allégeance, de loyauté et d'honneur qui influence chaque étape de leur vie. Un samouraï détaché de ce système n'est plus un samouraï ; c'est un combattant ordinaire, un ronin sans honneur et sans statut dans la société.",
+        "description": "Les samouraïs sont des guerriers professionnels, membres de la classe noble, formés aux arts de la guerre. Ils ne sont pas seulement formés pour leur rôle dans la société, ils sont nés dans un système d'allégeance, de loyauté et d'honneur qui influence chaque étape de leur vie. Un samouraï détaché de ce système n'est plus un samouraï ; c'est un combattant ordinaire, un ronin sans honneur et sans statut dans la société. Il peut devenir grand-maître dans la maîtrise du katana et du wakizashi. Il est immunisé à la peur et peut terroriser ses adversaires.",
         "urls": [
-            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Samurai_Kit.rar",
-            "https://github.com/Greener-Mods/Samurai-Kit"
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Samurai_Kit.rar"
         ],
         "categories": [
             "Kit"
         ],
         "games": [
             "BG2",
-            "BGT",
-            "BGEE",
-            "BG2EE"
+            "BGT"
         ],
         "authors": [
-            "Maurolava",
-            "Greener"
+            "Maurolava"
         ],
         "team": [],
-        "notes": [
-            "La premier lien contient la version de Maurolava, compatible avec les jeux originaux.",
-            "Utilisez le lien github pour la version EE réalisée par Greener. Elle ne fonctionne pas sur les jeux originaux."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -31081,6 +31075,7 @@
         "name": "Sorcerer's Place Item Collection",
         "description": "Ce vieux mod ajoute de nombreux objets dans le magasin de Joluv.",
         "urls": [
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/spitems.zip",
             "https://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=28057"
         ],
         "categories": [
@@ -31095,10 +31090,11 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Modifiez l'extension du fichier téléchargé en .exe pour pouvoir l'installer. Bien que WeiDU, ce mod override de nombreux fichiers."
+            "Attention : Modifiez l'extension du fichier téléchargé en .exe pour pouvoir l'installer. Bien que WeiDU, ce mod override de nombreux fichiers.",
+            "Incompatible avec ToB."
         ],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en",
             "ru"
@@ -43964,7 +43960,7 @@
         "description": "Ce mod introduit un court chemin d'amitié avec la shamane nommée M'Khiin pendant le Siege of Dragonspear. Il comprend quatre discussions, des conversations supplémentaires répondant à des moments clés de l'histoire, et des interjections élargies lorsque c'est nécessaire.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38825-mkhiin-siege-of-dragonspear-friendship/",
-            "https://america.iegmc.com/bucketfulofsunshine/MKhinnFriendship.zip"
+            "https://github.com/dark0dave/M-khiin-Friendship/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -51413,7 +51409,7 @@
             "https://www.gibberlings3.net/forums/topic/35417-straight-snakes/"
         ],
         "categories": [
-            "Gameplay"
+            "Cosmétique"
         ],
         "games": [
             "BG",
@@ -51427,7 +51423,9 @@
             "temnix"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Écrase les fichiers MSNKG1.BAM, MSNKG11.BAM et MSNKG12.BAM."
+        ],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
@@ -52437,6 +52435,7 @@
         "name": "NTotSC_Item_Correction_Mod",
         "description": "Ce mod corrige et réduit la puissance de certains objets de [[Northern Tales of the Sword Coast]].",
         "urls": [
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=1830&sid=473c7240dfe94ad896e7ad10dffebce6",
             "https://baldur.cob-bg.pl/download/bg1/tweaks/NTotSC_Item_Correction_Mod_v1.1b.rar"
         ],
         "categories": [
@@ -55296,6 +55295,7 @@
         "name": "Arszyk’s Wonderful Decay",
         "description": "Arszyk est un guerrier/druide d'alignement neutre mauvais, un vampire qui a été envoyé à Icewind Dale pour trouver un artefact perdu, mais qui entre-temps s'est attiré des ennuis et a besoin d'un coup de main s'il veut reprendre ses recherches. Il est accompagné de quelques interjections, objets et d'un kit de druide (Decay Overseer, inclus également dans [[Of Paths and Ways]] du même auteur).",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=71",
             "https://downloads.weaselmods.net/download/arszyk/"
         ],
         "categories": [
@@ -55450,5 +55450,148 @@
         "status": "active",
         "last_update": "2025-06",
         "tp2": "Derats_Powerkits"
+    },
+    {
+        "id": 1771,
+        "name": "Traps Hurt Everyone",
+        "description": "Ce mod permet aux pièges d'être activés par n'importe quel personnage, y compris des ennemis ou des invocations. Cela permet notamment de les utiliser à des fins tactiques. Attention, certaines créatures ou des innocents errent naturellement et peuvent donc être tués.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/35870-traps-hurt-everyone-mod/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "temnix"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-07",
+        "tp2": "Traps Hurt Everyone"
+    },
+    {
+        "id": 1772,
+        "name": "Samurai-Kit",
+        "description": "Les samouraïs sont des guerriers professionnels, membres de la classe noble, formés aux arts de la guerre. Ils ne sont pas seulement formés pour leur rôle dans la société, ils sont nés dans un système d'allégeance, de loyauté et d'honneur qui influence chaque étape de leur vie. Un samouraï détaché de ce système n'est plus un samouraï ; c'est un combattant ordinaire, un ronin sans honneur et sans statut dans la société. Il peut devenir grand maître en maîtrise de katana, wakizashi, fléau, hallebarde et arc long. Il peut lancer Kai qui lui permet d'augmenter sa Force jusqu'à 18/00 et les dégâts infligés pendant 1 round. Au niveau 9, il obtient un Kai majeur qui lui permet d'étourdir ses adversaires à chaque attaque.",
+        "urls": [
+            "https://github.com/Greener-Mods/Samurai-Kit/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Greener"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-10",
+        "tp2": "Samourai"
+    },
+    {
+        "id": 1773,
+        "name": "BG Fight",
+        "description": "Ce mod modifie le fonctionnement de nombreux sorts, modifie quelques objets et propose également une arène pour des duels.",
+        "urls": [
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=2311&sid=473c7240dfe94ad896e7ad10dffebce6"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Shinigami"
+        ],
+        "team": [],
+        "notes": [
+            "Il override de très nombreux sorts et projectiles."
+        ],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2009-07",
+        "tp2": "BG Fight"
+    },
+    {
+        "id": 1774,
+        "name": "ZN Faded Patch",
+        "description": "Ce mod ajoute une cape étrange qui permet à son porteur d'améliorer grandement sa capacité à se camoufler dans les ombres et d'esquiver une partie des attaques de projectiles. En contrepartie, le charisme du porteur est réduit mais surtout, il peut à tout moment rentrer dans un état de grande panique. Des potions permettent de soigner de cet état, encore faut-il trouver un moyen de faire boire une potion à un personnage paniqué…",
+        "urls": [
+            "http://baldur.cob-bg.pl/bg1-mody"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG"
+        ],
+        "authors": [
+            "Zed Nocear"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2004-10",
+        "tp2": "ZN-faded"
+    },
+    {
+        "id": 1775,
+        "name": "The Way of Heroes",
+        "description": "Avec ce mod toutes les armures, armes et boucliers du jeu, avec un enchantement supérieur ou égale à +3, commenceront à briller d'une lumière pulsante lorsqu'ils seront équipés (la couleur de cette lumière dépend du type de l'objet et de mes préférences - par exemple, les objets elfiques brilleront d'une lumière verte, etc.).",
+        "urls": [
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/The_Way_of_Heroes.rar"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "filkam"
+        ],
+        "team": [],
+        "notes": [
+            "Écrase le fichier tlk et tous les objets +3 vanilla."
+        ],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2006-11",
+        "tp2": "non-weidu"
     }
 ]
