@@ -1,5 +1,6 @@
 import logging
 
+from i18n import LANGUAGE_DEFAULT
 from models.mod import MetaStatusEnum
 from scripts.utils import ModManager, get_languages
 
@@ -21,8 +22,10 @@ def main(**kwargs):
 
         # Ajout des nouveaux mods
         for mod_id in mods_id_to_data.keys() - translated_mods_ids:
-            translated_mods.append(
-                {
+            if language == LANGUAGE_DEFAULT:
+                mod_data = {"id": mod_id}
+            else:
+                mod_data = {
                     "id": mod_id,
                     "description": "",
                     "description_meta": {
@@ -35,14 +38,16 @@ def main(**kwargs):
                         "source": list(),
                     },
                 }
-            )
-            logger.info(f"Mod {mod_id} added in {language} database")
+            translated_mods.append(mod_data)
+            logger.info(f"{language}, Mod {mod_id} added")
 
         # Mise à jour des données source des traductions
         for translated_mod in translated_mods:
             mod_main_data = mods_id_to_data.get(translated_mod["id"])
             if mod_main_data is None:
-                logger.warning(f"Mod {translated_mod['id']} not found in main database")
+                logger.warning(
+                    f"{language}, Mod {translated_mod['id']} not found in main database"
+                )
 
             for attr in ("description", "notes"):
                 meta_attr = f"{attr}_meta"
