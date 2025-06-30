@@ -20218,7 +20218,7 @@
     {
         "id": 638,
         "name": "Level One NPCs",
-        "description": "Surnommé ainsi car tous les PNJ seront au niveau 1, avec un excédent de points d'expérience, lorsque vous les rencontrerez. Lorsqu'ils rejoignent votre groupe, vous pouvez alors les faire monter de niveaux et choisir leurs compétences, leurs capacités, leur choix d'armes et ce, jusqu'au même niveau que s'ils avaient rejoint votre groupe sans ce mod installé. Vous pourrez même leur choisir des classes et des profils différents de ceux qu'ils utilisent dans le jeu. Le moine Cernd, la kensaï Jaheira, Valygar le prêcheur des flammes ne sont que des exemples. En effet, les profils provenant d'autres mods seront disponibles même pour les PNJ !|Des composants optionnels modifient aussi certaines caractéristiques des PNJ et les armes utilisables par les classes. C'est le meilleur mod - le plus simple-  pour autoriser les clercs et/ou mages à utiliser toutes les armes : un mage avec un arc, c'est cool. 🙂",
+        "description": "Surnommé ainsi car tous les PNJ seront au niveau 1, avec un excédent de points d'expérience, lorsque vous les rencontrerez. Lorsqu'ils rejoignent votre groupe, vous pouvez alors les faire monter de niveaux et choisir leurs compétences, leurs capacités, leur choix d'armes et ce, jusqu'au même niveau que s'ils avaient rejoint votre groupe sans ce mod installé. Vous pourrez même leur choisir des classes et des profils différents de ceux qu'ils utilisent dans le jeu. Le moine Cernd, la kensaï Jaheira, Valygar le prêcheur des flammes ne sont que des exemples. En effet, les profils provenant d'autres mods seront disponibles même pour les PNJ !|Des composants optionnels modifient aussi certaines caractéristiques des PNJ et les armes utilisables par les classes. C'est le meilleur mod - le plus simple - pour autoriser les clercs et/ou mages à utiliser toutes les armes : un mage avec un arc, c'est cool. 🙂",
         "urls": [
             "https://www.gibberlings3.net/mods/tweaks/levelonenpcs"
         ],
@@ -20229,6 +20229,8 @@
             "Tutu",
             "BGT",
             "BGEE",
+            "BG2",
+            "BG2EE",
             "EET"
         ],
         "authors": [
@@ -20240,7 +20242,9 @@
             "CamDawg"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Une alternative plus récente pour les jeux EE existe : [[NPC Enhanced for Everyone]]."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -23172,7 +23176,7 @@
     {
         "id": 732,
         "name": "NPC Enhanced for Everyone",
-        "description": "Ce mod se veut le successeur du fantastique mod \"Level 1 NPCs\" qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[The Divine Remix]], [[Song and Silence: A Mod for Bards and Thieves]], ou encore [[Scales of Balance]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que L1NPCs, mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier).",
+        "description": "Ce mod se veut le successeur du fantastique mod [[Level One NPCs]] qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[The Divine Remix]], [[Song and Silence: A Mod for Bards and Thieves]], ou encore [[Scales of Balance]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que L1NPCs, mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier).",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27526-npc_ee-new-class-and-kit-options-for-bgee-and-bg2ee-npcs/",
             "https://github.com/UnearthedArcana/NPC_EE/"
@@ -23181,10 +23185,10 @@
             "PNJ (autre)"
         ],
         "games": [
-            "BGT",
             "BGEE",
-            "SoD",
-            "EET"
+            "BG2EE",
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Subtledoctor"
