@@ -9248,8 +9248,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Une alternative plus récente pour les jeux EE existe : [[NPC Enhanced for Everyone]]."
+            ]
         }
     },
     {
@@ -25613,6 +25615,19 @@
             "source": [
                 "Écrase le fichier tlk et tous les objets +3 vanilla."
             ]
+        }
+    },
+    {
+        "id": 1776,
+        "description": "Project Javelin introduces a new class of weaponry to the game in the form of javelins: one-handed spears that can be throw or used in melee. They use the existing spear proficiency, providing a boost to a somewhat neglected class of weapons.",
+        "description_meta": {
+            "status": "done",
+            "source": "Le Project Javelin introduit une nouvelle classe d'armes dans le jeu sous la forme de javelots : des lances à une main qui peuvent être lancées ou utilisées en mêlée. Ces javelots utilisent la compétence de lance existante, ce qui donne un coup de pouce à une classe d'armes quelque peu négligée."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]

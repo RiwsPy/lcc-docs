@@ -55597,5 +55597,38 @@
         "status": "active",
         "last_update": "2006-11",
         "tp2": "non-weidu"
+    },
+    {
+        "id": 1776,
+        "name": "Project Javelin",
+        "description": "Le Project Javelin introduit une nouvelle classe d'armes dans le jeu sous la forme de javelots : des lances à une main qui peuvent être lancées ou utilisées en mêlée. Ces javelots utilisent la compétence de lance existante, ce qui donne un coup de pouce à une classe d'armes quelque peu négligée.",
+        "urls": [
+            "https://www.gibberlings3.net/mods/items/project_javelin/",
+            "https://github.com/Gibberlings3/Project_Javelin/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "CamDawg"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2025-07",
+        "tp2": "cd_project_javelin"
     }
 ]
