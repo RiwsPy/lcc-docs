@@ -29,12 +29,12 @@ def main(**kwargs):
                     "id": mod_id,
                     "description": "",
                     "description_meta": {
-                        "status": MetaStatusEnum.TODO,
+                        "status": MetaStatusEnum.DONE,
                         "source": "",
                     },
                     "notes": list(),
                     "notes_meta": {
-                        "status": MetaStatusEnum.TODO,
+                        "status": MetaStatusEnum.DONE,
                         "source": list(),
                     },
                 }
