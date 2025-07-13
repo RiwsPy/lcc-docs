@@ -5238,7 +5238,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "BardicWonders"
     },
     {
@@ -5662,7 +5662,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "n/a"
     },
     {
@@ -11791,8 +11791,7 @@
             "ru",
             "es",
             "br",
-            "cn",
-            "br"
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-02",
@@ -15807,7 +15806,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-07",
         "tp2": "Horace"
     },
     {
@@ -16561,7 +16560,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "iwdification"
     },
     {
@@ -17204,7 +17203,7 @@
     },
     {
         "id": 542,
-        "name": "Improved movement speed out of combat",
+        "name": "Improved movement speed outside of combat",
         "description": "Ce petit mod de confort permet au groupe de se déplacer plus rapidement tant qu'il ne voit pas d'ennemis à l'aide d'une capacité qu'on peut activer et désactiver. Conçu pour les jeux EE, il est aussi compatible avec oBG2 à condition d'avoir installé [[TobEx]].",
         "urls": [
             "https://forums.beamdog.com/discussion/comment/1011101/#Comment_1011101"
@@ -17552,10 +17551,11 @@
             "de",
             "pl",
             "ru",
-            "en"
+            "en",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2023-10",
+        "last_update": "2025-07",
         "tp2": "infinitysounds"
     },
     {
@@ -17570,7 +17570,6 @@
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -26442,8 +26441,10 @@
         "games": [
             "BG2",
             "BGT",
+            "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Inesius"
@@ -26461,7 +26462,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-06",
         "tp2": "PPK"
     },
     {
@@ -26618,8 +26619,10 @@
         "games": [
             "BG2",
             "BGT",
+            "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Zakinster"
@@ -26634,7 +26637,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-06",
         "tp2": "Mystra"
     },
     {
@@ -26761,7 +26764,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "Quayle"
     },
     {
@@ -27694,7 +27697,8 @@
         "name": "RestBeGone",
         "description": "Ce mini mod installe un nouveau système de récupération des sorts et des capacités inspiré de celui de PoE2. Ils sont désormais récupérés tous les deux rounds en dehors des combats. Il comporte toutefois un effet secondaire un peu ennuyeux : les effets de fatigue disparaissent totalement !",
         "urls": [
-            "https://forums.beamdog.com/discussion/81656/"
+            "https://forums.beamdog.com/discussion/81656/",
+            "https://www.nexusmods.com/baldursgate2ee/mods/47"
         ],
         "categories": [
             "Gameplay"
@@ -27716,7 +27720,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-09",
+        "last_update": "2025-07",
         "tp2": "wl_RestBeGone"
     },
     {
@@ -29892,7 +29896,8 @@
             "fr",
             "de",
             "it",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-05",
@@ -31148,7 +31153,6 @@
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -31741,10 +31745,11 @@
     {
         "id": 999,
         "name": "Subrace mod",
-        "description": "En constant développement, ce mod ajoute la possibilité de sélectionner une sous-race pour le personnage principal. Pour l'instant, il n'y en a que 9 : Aasimar, Tieffelin, Elfe noir, Elfe sauvage, Nain d'or (Nain des collines), Nain gris (Duergar), Costaud et Sagespectre (halfelins), et Gnome des profondeurs (Svirfneblin).|Il donne aussi des sous-races à Viconia (Elfe noir), Baeloth (Elfe noir), Haer'Dalis (Tieffelin) et Caelar (Aasimar).|C'est sans doute le seul qui fonctionne vraiment.",
+        "description": "Ce mod ajoute la possibilité de sélectionner une sous-race pour le personnage principal. Pour l'instant, il n'y en a que 9 : Aasimar, Tieffelin, Elfe noir, Elfe sauvage, Nain d'or (Nain des collines), Nain gris (Duergar), Costaud et Sagespectre (halfelins), et Gnome des profondeurs (Svirfneblin).|Il donne aussi des sous-races à Viconia (Elfe noir), Baeloth (Elfe noir), Haer'Dalis (Tieffelin) et Caelar (Aasimar).|C'est sans doute le seul qui fonctionne vraiment.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32267-subrace-mod/",
-            "https://github.com/tipun81/Subrace-mod/"
+            "https://github.com/tipun81/Subrace-mod/",
+            "https://github.com/dark0dave/Subrace-mod/"
         ],
         "categories": [
             "Gameplay"
@@ -35005,7 +35010,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-07",
         "tp2": "d2-workshopkits"
     },
     {
@@ -39861,7 +39866,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2011-09",
+        "last_update": "2021-09",
         "tp2": "iiProjectileR"
     },
     {
@@ -40256,7 +40261,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-06",
         "tp2": "ZS_WeaponOils"
     },
     {
@@ -40348,7 +40353,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-07",
         "tp2": "Derats_Follower_it"
     },
     {
@@ -41742,7 +41747,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-05",
+        "last_update": "2025-07",
         "tp2": "Bethany"
     },
     {
@@ -41866,7 +41871,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-07",
         "tp2": "Loretakers"
     },
     {
@@ -42305,9 +42310,7 @@
             "DavidW"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est encore en cours de développement."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -42328,7 +42331,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "eefixpack"
     },
     {
@@ -43214,7 +43217,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "zbpod"
     },
     {
@@ -43985,7 +43988,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-06",
         "tp2": "kinfriendship"
     },
     {
@@ -44140,7 +44143,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-07",
         "tp2": "BG1NPCSoA"
     },
     {
@@ -44520,7 +44523,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "ZSTweaks"
     },
     {
@@ -46352,7 +46355,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-07",
         "tp2": "g3cip"
     },
     {
@@ -47072,6 +47075,7 @@
             "Portrait et son"
         ],
         "games": [
+            "BG2",
             "EET",
             "BG2EE",
             "BGEE"
@@ -48143,7 +48147,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-07",
         "tp2": "Derats_Mods_Tweaker"
     },
     {
@@ -48201,7 +48205,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "bmpp"
     },
     {
@@ -48496,7 +48500,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-07",
         "tp2": "XPexchange"
     },
     {
@@ -48648,7 +48652,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-06",
         "tp2": "cd_bs"
     },
     {
@@ -50354,7 +50358,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "DetailedDescription"
     },
     {
@@ -55320,7 +55324,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2025-05",
+        "last_update": "2025-07",
         "tp2": "ArszyksWonderfulDecay"
     },
     {
@@ -55610,6 +55614,7 @@
             "Gameplay"
         ],
         "games": [
+            "Tutu",
             "BG2",
             "BGT",
             "BGEE",
