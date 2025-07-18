@@ -9015,7 +9015,8 @@
         "name": "Dale Keeper2",
         "description": "Cet utilitaire vous permet d'éditer vos sauvegardes de IWD2.",
         "urls": [
-            "http://donniedarko2006.free.fr/dalekeeper2.html"
+            "http://donniedarko2006.free.fr/dalekeeper2.html",
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/DK2-Beta-5.zip"
         ],
         "categories": [
             "Utilitaire"
@@ -9034,7 +9035,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "",
+        "last_update": "2002-10",
         "tp2": "n/a"
     },
     {
@@ -12102,6 +12103,7 @@
         "description": "Parfois appelé The Sovereign's Song, ce mod ajoute plus de 40 nouvelles cinématiques et de nombreux dialogues. Une nuit, vous faites un cauchemar et vous rêvez d'un homme qui veut passer un contrat avec vous. Le lendemain, vous vous réveillez dans votre lit, un parchemin à la main... Cette histoire insolite vous mènera du donjon d'Irenicus jusqu'à ToB",
         "urls": [
             "https://baldur.cob-bg.pl/node/1261",
+            "http://athkatla.cob-bg.pl/viewtopic.php?t=2424",
             "https://baldur.cob-bg.pl/download/bg2/quests/ervonyrah_v1.3.4.rar"
         ],
         "categories": [
@@ -19041,7 +19043,8 @@
         "name": "Khalid for BG2",
         "description": "Ce mod restaure Khalid, le mari de Jaheira que l'on peut trouver dans le quartier général des ménestrels. On peut l'installer comme guerrier ou comme guerrier/mage.",
         "urls": [
-            "https://www.shsforums.net/topic/50083-khalid-mod-for-bg-ii-released/page-9#entry548665"
+            "https://www.shsforums.net/topic/50083-khalid-mod-for-bg-ii-released/page-9#entry548665",
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=6271&sid=83ff6aad36c2eafa5f91d8ef9403222d"
         ],
         "categories": [
             "PNJ recrutable"
@@ -19054,7 +19057,9 @@
             "Zireael"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "La version sur cob est plus récente que celle sur shs."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -19062,7 +19067,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2013-10",
+        "last_update": "2015-07",
         "tp2": "Khalid"
     },
     {
@@ -28675,7 +28680,7 @@
     {
         "id": 903,
         "name": "Runic Bladesinger Elven Kit",
-        "description": "Ce mod installe le profil de Chantelame runique, uniquement pour les guerrier elfes.",
+        "description": "Runiczny Pieśniarz Klingi, de son vrai nom, ce mod installe le profil de Chantelame runique, uniquement pour les guerriers elfes.",
         "urls": [
             "https://www.shsforums.net/topic/57056-bwpv14/#entry565797",
             "https://baldur.cob-bg.pl/download/bg2/kits/Runiczny_v2.0.zip",
@@ -33325,7 +33330,7 @@
     {
         "id": 1048,
         "name": "The Artisan's Kitpack",
-        "description": "Ce mod ajoute plusieurs profils dans le jeu et en modifie certains :|- Guerriers : [[Arcane Archer Redone]], Barbare, The Art of Slaughter (Berserker), Art of the Sword Saint (Kensaï), Vanguard (pour Khalid).|- Rôdeurs : Dark Hunter, [[Rashemi Berserker Ranger]] (pour Minsc).|- Paladins : Divine Champion (Keldorn, Ajantis, Sirene), [[Mystic Fire Paladin Kit]], Way of the Anti-Paladin (Chevalier noir).|- Druides : Elementalist, Hivemaster.|- Voleurs : [[Way of the Assassin]] (assassin), Magekiller, Rogue Archer (Imoen), Trickster (Imoen).|- Ensorceleurs : Dragon Disciple, [[Pale Master Sorcerer]], Enlightened Fist.|- Shaman : [[Warhorn Shaman]].|-Clerc : Sacred Fist.",
+        "description": "Ce mod ajoute plusieurs profils dans le jeu et en modifie certains :|- Guerriers : [[Arcane Archer Redone]], Barbare, The Art of Slaughter (Berserker), Art of the Sword Saint (Kensaï), Vanguard (pour Khalid).|- Rôdeurs : Dark Hunter, [[Rashemi Berserker Ranger]] (pour Minsc).|- Paladins : Divine Champion (Keldorn, Ajantis, Sirene), [[Mystic Fire Paladin Kit]], Way of the Anti-Paladin (Chevalier noir).|- Druides : Elementalist, Hivemaster.|- Voleurs : [[Way of the Assassin]] (assassin), Magekiller, Rogue Archer (Imoen), Trickster (Imoen).|- Ensorceleurs : Dragon Disciple ([[Sacred Fist (Cleric) and Dragon Disciple (3e)]]), [[Pale Master Sorcerer]], Enlightened Fist.|- Shaman : [[Warhorn Shaman]].|-Clerc : Sacred Fist ([[Sacred Fist (Cleric) and Dragon Disciple (3e)]].",
         "urls": [
             "https://artisans-corner.com/the-artisans-kitpack/",
             "https://forums.beamdog.com/discussion/75663/",
@@ -35016,7 +35021,7 @@
     {
         "id": 1098,
         "name": "The bigg Quest Pack",
-        "description": "Ce mod comprend de petites quêtes et batailles, trop petites pour être publiées sous forme de mods séparés. Ces composants vont du sérieux à l'absurde, du respect strict des règles à la tricherie pure et simple. Parmi eux :|- Mprolla, le spammeur : Si vous n'avez pas encore compris la blague, ce composant n'est probablement pas pour vous. En tout cas, il est inspiré par un gars (Mike Prolla) qui avait l'habitude de spammer et de troller sur toutes les communautés de modding d'Infinity Engine il y a très longtemps. Dans le mod, Mprolla est un bouffon de niveau 25 que vous pouvez trouver (bien) caché dans la Promenade de Waukunn. Lorsque vous le verrez, après une scène où il perd son cerveau, il commencera à vous narguer, jusqu'à ce qu'il vous combatte ouvertement. Ce combat est une véritable fête du slip. Toutes ses railleries sont de véritables citations. L'élément optionnel `Mprolla, le tricheur` fait également partie de ce composant : il rend le combat plus difficile en ajoutant de la triche.|- Bataille à grande échelle : Amn est assiégé par une armée d'orques et doit se résoudre à la défaite en raison de leur nombre écrasant. Les mages cagoulés et les soldats amiens ont besoin de l'aide d'aventuriers expérimentés pour porter un coup décisif aux assaillants. Après avoir accepté, vous êtes projeté(e) dans une zone pas plus grande que celle des embuscades standard, mais qui contient bien plus d'une centaine d'orques, et d'autres surgissent sans cesse jusqu'à ce que vous tuiez leur commandant. De votre côté, vous avez quelques soldats amniens et mages cagoulés. Qui va gagner ?",
+        "description": "Ce mod comprend de petites quêtes et batailles, trop petites pour être publiées sous forme de mods séparés. Ces composants vont du sérieux à l'absurde, du respect strict des règles à la tricherie pure et simple. Parmi eux :|- Mprolla, le spammeur : Si vous n'avez pas encore compris la blague, ce composant n'est probablement pas pour vous. En tout cas, il est inspiré par un gars (Mike Prolla) qui avait l'habitude de spammer et de troller sur toutes les communautés de modding d'Infinity Engine il y a très longtemps. Dans le mod, Mprolla est un bouffon de niveau 25 que vous pouvez trouver (bien) caché dans la Promenade de Waukunn. Lorsque vous le verrez, après une scène où il perd son cerveau, il commencera à vous narguer, jusqu'à ce qu'il vous combatte ouvertement. Ce combat est une véritable fête du slip. Toutes ses railleries sont de véritables citations. L'élément optionnel `Mprolla, le tricheur` fait également partie de ce composant : il rend le combat plus difficile en ajoutant de la triche.|- Bataille à grande échelle : Amn est assiégé par une armée d'orques et doit se résoudre à la défaite en raison de leur nombre écrasant. Les mages cagoulés et les soldats amiens ont besoin de l'aide d'aventuriers expérimentés pour porter un coup décisif aux assaillants. Après avoir accepté, vous êtes projeté(e) dans une zone pas plus grande que celle des embuscades standard, mais qui contient bien plus d'une centaine d'orques, et d'autres surgissent sans cesse jusqu'à ce que vous tuiez leur commandant. De votre côté, vous avez quelques soldats amniens et mages cagoulés. Qui va gagner ? Le mod [[Refinements]] est requis.|- Duel de mage : dans la cité drow, vous rencontrez un mage drow sans nom près de la tour de Deirex (il utilise l'avatar elfe) ; si un mage masculin lui parle, il peut dire (au hasard) qu'il a peur que vous soyez venu prendre sa place à Sorcere. Avec ce composant installé, vous obtiendrez toujours cette phrase si vous lui parlez (son nom est maintenant Laniz) avec un mage (pur ou multiclasse), un barde ou un ensorceleur, et il vous provoquera en duel. Vous pouvez accepter ou refuser.",
         "urls": [
             "https://www.shsforums.net/files/file/96-the-bigg-house-the-bigg-quest-pack/",
             "https://github.com/vbigiani/tb-quest/"
@@ -40148,6 +40153,8 @@
             "Kit"
         ],
         "games": [
+            "BG2",
+            "BGT",
             "BGEE",
             "BG2EE",
             "EET",
@@ -40584,7 +40591,6 @@
         "description": "Un kit qui peut lancer 1x par 2 niveaux une capacité aléatoire reproduisant n'importe quelle capacité spéciale de n'importe quel kit. A partir du niveau 18 il peut lancer 1x par niveau une capacité reproduisant n'importe quel hla/sort épique de n'importe quelle classe.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34583",
-            "https://github.com/Deratiseur/SWP/",
             "https://app.mediafire.com/depaqus3ma8bt"
         ],
         "categories": [
@@ -40599,14 +40605,16 @@
             "Deratiseur"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod a été inclu dans [[Derat's Absolute Wacky Adventurers Pack]] du même auteur."
+        ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "fr",
             "en"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2024-10",
         "tp2": "Derats_SWP"
     },
@@ -50900,7 +50908,9 @@
             "Mordenkainen"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Compatible BG2EE et EET."
+        ],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [
@@ -51583,11 +51593,11 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "kr"
         ],
-        "status": "missing",
+        "status": "active",
         "last_update": "2016-01",
         "tp2": "Danimation"
     },
@@ -55038,7 +55048,7 @@
     {
         "id": 1757,
         "name": "Xardas",
-        "description": "Ce ajoute Mag Xardas le nécromancien à l'entrée du donjon de'Arnise. Il est équipé d'un anneau d'archimage.|FOR 12, DEX 18, CON 14, INT 20, SAG 19, CHA 17",
+        "description": "Ce mod ajoute Mag Xardas le nécromancien à l'entrée du donjon de'Arnise. Il est équipé d'un anneau d'archimage.|FOR 12, DEX 18, CON 14, INT 20, SAG 19, CHA 17",
         "urls": [
             "https://baldur.cob-bg.pl/download/bg2/npc/Xardas.zip",
             "https://github.com/Plutonium-X/1D_NPC_Xardas/"
@@ -55406,7 +55416,7 @@
             "https://github.com/Deratiseur/Gilbertus/"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "PNJ One Day"
         ],
         "games": [
             "BG2EE",
@@ -55520,9 +55530,10 @@
     {
         "id": 1773,
         "name": "BG Fight",
-        "description": "Ce mod modifie le fonctionnement de nombreux sorts, modifie quelques objets et propose également une arène pour des duels.",
+        "description": "Ce mod modifie le fonctionnement de nombreux sorts, modifie quelques objets afin de rendre le jeu plus difficile et propose également une arène pour des duels.",
         "urls": [
-            "https://athkatla.cob-bg.pl/viewtopic.php?t=2311&sid=473c7240dfe94ad896e7ad10dffebce6"
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=2311",
+            "https://baldur.cob-bg.pl/download/applications/BG_Fight_v1.4.rar"
         ],
         "categories": [
             "Gameplay"
@@ -55635,5 +55646,34 @@
         "status": "wip",
         "last_update": "2025-07",
         "tp2": "cd_project_javelin"
+    },
+    {
+        "id": 1777,
+        "name": "Cre Info",
+        "description": "Mettez le jeu en pause, passez votre curseur sur une créature et le log affichera toutes les caractéristiques de cette créature : points de vie, résistance, classe d'armure, etc...",
+        "urls": [
+            "https://cafe.naver.com/f-e/cafes/12857088/articles/77274?boardtype=I&menuid=25&referrerAllArticles=false"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BGEE"
+        ],
+        "authors": [
+            "500원라이터"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2013-11",
+        "tp2": "CREINFO"
     }
 ]
