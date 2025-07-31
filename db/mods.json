@@ -869,10 +869,11 @@
             "es",
             "ru",
             "de",
-            "it"
+            "it",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2022-11",
+        "last_update": "2025-07",
         "tp2": "AjocMod"
     },
     {
@@ -2386,7 +2387,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-07",
         "tp2": "ac_quest"
     },
     {
@@ -3146,7 +3147,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-09",
+        "last_update": "2025-07",
         "tp2": "Ayden"
     },
     {
@@ -3312,7 +3313,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "bg1re"
     },
     {
@@ -3895,7 +3896,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2023-01",
+        "last_update": "2025-07",
         "tp2": "bg2improvedgui"
     },
     {
@@ -6151,21 +6152,24 @@
             "BGT",
             "BGEE",
             "SoD",
-            "EET"
+            "EET",
+            "BG2EE",
+            "BG2"
         ],
         "authors": [
             "jastey"
         ],
         "team": [],
         "notes": [
-            "Officiellement compatible avec BG2EE, pour l'instant, seul le contenu pour BG1 a été créé."
+            "Officiellement compatible avec BG2 et BG2EE, pour l'instant, seul le contenu pour BG1 a été créé."
         ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
             "en",
             "de",
-            "it"
+            "it",
+            "cn"
         ],
         "status": "active",
         "last_update": "2023-09",
@@ -8581,7 +8585,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2007-10",
+        "last_update": "2008-11",
         "tp2": "CGoth"
     },
     {
@@ -8619,7 +8623,7 @@
             "it"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-07",
         "tp2": "crossmodbg2"
     },
     {
@@ -11795,7 +11799,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-07",
         "tp2": "c#endlessbg1"
     },
     {
@@ -19645,7 +19649,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-07",
         "tp2": "Derats_Ogre"
     },
     {
@@ -22051,7 +22055,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "d2-randomkits"
     },
     {
@@ -22243,7 +22247,7 @@
     {
         "id": 703,
         "name": "Moddie the vixen",
-        "description": "Fruit d'une expérience d'Irenicus, cette femelle renard est obsédée par la nourriture. Elle peut se transformer en muloup ou en muloup majeur, ses stats changeant alors. Des banters et quelques dialogues avec le PJ sont au programme.",
+        "description": "Fruit d'une expérience d'Irenicus, cette femelle renard est obsédée par la nourriture. Elle peut se transformer en muloup ou en muloup majeur, ses stats changeant alors. Des banters et quelques dialogues avec le PJ sont au programme.|FOR 13, DEX 18, CON 16, INT 9, SAG 13, CHA 11.",
         "urls": [
             "https://america.iegmc.com/moddie/Moddie_v1.3.rar",
             "https://github.com/Plutonium-X/1D_NPC_Moddie"
@@ -22273,7 +22277,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-07",
         "tp2": "FoxMonster"
     },
     {
@@ -32385,7 +32389,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-07",
         "tp2": "karatur"
     },
     {
@@ -34237,7 +34241,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2022-03",
+        "last_update": "2025-07",
         "tp2": "SirinesCall"
     },
     {
@@ -34490,7 +34494,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2023-10",
+        "last_update": "2025-07",
         "tp2": "kuldahar"
     },
     {
@@ -35479,7 +35483,7 @@
             "en"
         ],
         "status": "embed",
-        "last_update": "2023-01",
+        "last_update": "2025-07",
         "tp2": "TobEx_AfterLife"
     },
     {
@@ -40290,12 +40294,13 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "es"
         ],
-        "status": "missing",
-        "last_update": "2024-12",
+        "status": "active",
+        "last_update": "2025-07",
         "tp2": "peacespeaker"
     },
     {
@@ -40549,7 +40554,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-07",
         "tp2": "Derats_Combino"
     },
     {
@@ -41728,7 +41733,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "XzarAndMontaron"
     },
     {
@@ -43204,7 +43209,7 @@
         "name": "Pits of Despair",
         "description": "Extension pour BG2:EE. Incorpore les Fosses noires 2 : Gladiateurs de Thay dans les campagnes SoA et ToB.",
         "urls": [
-            "https://github.com/zenblack/Pits-of-Despair"
+            "https://github.com/The-Mod-Elephant/Pits-of-Despair"
         ],
         "categories": [
             "Quête"
@@ -43773,7 +43778,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "lca"
     },
     {
@@ -43981,7 +43986,9 @@
             "PNJ (autre)"
         ],
         "games": [
-            "SoD"
+            "BGEE",
+            "SoD",
+            "EET"
         ],
         "authors": [
             "bucketfulofsunshine"
@@ -43993,10 +44000,11 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "es"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "kinfriendship"
     },
     {
@@ -45086,7 +45094,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "mih_fr"
     },
     {
@@ -45115,7 +45123,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-07",
         "tp2": "mih_metamod"
     },
     {
@@ -47295,7 +47303,8 @@
         "name": "M'Khiin NPC",
         "description": "Ce mod ajoute M'Khiin Grubdoubler, le compagnon gobelin de Siege of Dragonspear, à BG2EE en tant que PNJ recrutable. Charname peut choisir de la connaître ou de la rencontrer à nouveau dans SOA. Elle peut être recrutée dans le district du Temple. Elle possède plusieurs banters, bon nombre d'interactions ainsi qu'une petite quête.",
         "urls": [
-            "https://america.iegmc.com/bucketfulofsunshine/mkhiinbg2-main.zip"
+            "https://america.iegmc.com/bucketfulofsunshine/mkhiinbg2-main.zip",
+            "https://github.com/bucketfulofsunshine/mkhiinbg2"
         ],
         "categories": [
             "PNJ recrutable"
@@ -47311,7 +47320,8 @@
         "translation_state": "auto",
         "safe": 1,
         "languages": [
-            "en"
+            "en",
+            "es"
         ],
         "status": "wip",
         "last_update": "2025-01",
@@ -47337,12 +47347,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
-        "status": "missing",
-        "last_update": "2024-11",
+        "status": "active",
+        "last_update": "2025-07",
         "tp2": "reactivitypack"
     },
     {
@@ -48569,7 +48579,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-07",
         "tp2": "Kalah"
     },
     {
@@ -49046,7 +49056,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-07",
         "tp2": "emreborn"
     },
     {
@@ -50007,7 +50017,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "SearchGuild"
     },
     {
@@ -50048,7 +50058,7 @@
     {
         "id": 1586,
         "name": "Baldurian Bar Hop(ping)",
-        "description": "Ce mod ajoute des rencontres fantaisistes dans les tavernes de la ville de Baldur's Gate. Participez à un concours de boisson avec des nains, défiez un barde amateur dans un concours amical, provoquez une bagarre de une taverne…",
+        "description": "Ce mod ajoute des rencontres fantaisistes dans les tavernes de la ville de Baldur's Gate. Participez à un concours de boisson avec des nains, défiez un barde amateur dans un concours amical, provoquez une bagarre dans une taverne…",
         "urls": [
             "https://github.com/bucketfulofsunshine/baldurian-bar-hop"
         ],
@@ -50064,12 +50074,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
-        "status": "missing",
-        "last_update": "2025-01",
+        "status": "active",
+        "last_update": "2025-07",
         "tp2": "baldurianbarhop"
     },
     {
@@ -50734,7 +50744,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-07",
         "tp2": "OphysiaBG1"
     },
     {
@@ -54739,10 +54749,11 @@
             "en",
             "de",
             "cn",
-            "es"
+            "es",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-07",
         "tp2": "ThroneoftheMadGod"
     },
     {
@@ -54987,7 +54998,9 @@
         "name": "Banana! NPC Mod",
         "description": "Ce mod ajoute une banane guerrière/mage/voleuse à l'entrée de la Couronne de cuivre.",
         "urls": [
-            "https://baldur.cob-bg.pl/download/bg2/npc/Banana.rar"
+            "https://www.gibberlings3.net/forums/topic/12947-banana-npc-mod-released",
+            "https://baldur.cob-bg.pl/download/bg2/npc/Banana.rar",
+            "https://github.com/Plutonium-X/1D_NPC_Banana"
         ],
         "categories": [
             "PNJ One Day"
@@ -54996,7 +55009,8 @@
             "BG2",
             "BGT",
             "BG2EE",
-            "BGEE"
+            "BGEE",
+            "EET"
         ],
         "authors": [
             "Noctalys",
@@ -55004,15 +55018,17 @@
         ],
         "team": [],
         "notes": [
-            "FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18, résistance aux dégâts contondants -100%."
+            "FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18, résistance aux dégâts contondants -100%.",
+            "Choisissez le dernier lien github pour la version EE."
         ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2008-01",
+        "last_update": "2025-07",
         "tp2": "Banana"
     },
     {
@@ -55251,6 +55267,7 @@
         "description": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale.  Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 10000 po par niveau du sort désiré, ça vous coute aussi 1000xp par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité. Vous trouverez Oops à coté de la Tour de Garde, au sud ouest. Il est là pour être accessible aussi bien dans SOA que dans TOB.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34841",
+            "https://forums.beamdog.com/discussion/89314",
             "https://github.com/Deratiseur/Oops/"
         ],
         "categories": [
@@ -55404,7 +55421,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-07",
         "tp2": "Tlol"
     },
     {
@@ -55413,6 +55430,7 @@
         "description": "Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or. Si vous prévoyez vraiment beaucoup de pièce d'or et si vous êtes persuasif, vous pourrez peut être acheter 'plus'.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34676",
+            "https://forums.beamdog.com/discussion/89435",
             "https://github.com/Deratiseur/Gilbertus/"
         ],
         "categories": [
@@ -55466,7 +55484,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-07",
         "tp2": "Derats_Powerkits"
     },
     {
@@ -55675,5 +55693,41 @@
         "status": "active",
         "last_update": "2013-11",
         "tp2": "CREINFO"
+    },
+    {
+        "id": 1778,
+        "name": "Levelling Changer",
+        "description": "Ce mod vous permet de changer la table d'xp des classes. Vous pouvez accorder la même table d'xp pour toutes les classes (au choix) ET/OU accorder la table d'xp que vous voulez à la classe que vous voulez.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34939",
+            "https://github.com/Deratiseur/Levelling/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "BGEE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Deratiseur"
+        ],
+        "team": [],
+        "notes": [
+            "Si vous installez une option `Xp infini` d'un autre mod après Levelling Changer, vous écraserez et annulerez les modifications faites par Levelling Changer."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "fr",
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-07",
+        "tp2": "Derats_levelling"
     }
 ]

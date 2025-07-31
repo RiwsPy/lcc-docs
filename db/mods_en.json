@@ -10164,10 +10164,10 @@
     },
     {
         "id": 703,
-        "description": "The result of an experiment by Irenicus, this female fox is obsessed with food. She can transform into a muloup or a major muloup, changing her stats in the process. Banters and a few dialogs with the player are on the program.",
+        "description": "The result of an experiment by Irenicus, this female fox is obsessed with food. She can transform into a muloup or a major muloup, changing her stats in the process. Banters and a few dialogs with the player are on the program.|STR 13, DEX 18, CON 16, INT 9, WIS 13, CHA 11.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Fruit d'une expérience d'Irenicus, cette femelle renard est obsédée par la nourriture. Elle peut se transformer en muloup ou en muloup majeur, ses stats changeant alors. Des banters et quelques dialogues avec le PJ sont au programme."
+            "source": "Fruit d'une expérience d'Irenicus, cette femelle renard est obsédée par la nourriture. Elle peut se transformer en muloup ou en muloup majeur, ses stats changeant alors. Des banters et quelques dialogues avec le PJ sont au programme.|FOR 13, DEX 18, CON 16, INT 9, SAG 13, CHA 11."
         },
         "notes": [
             "Choose the github link for the BG2EE/EET version."
@@ -19600,7 +19600,7 @@
     },
     {
         "id": 1353,
-        "description": "Extension for BG2:EE. Incorporates Black Pits 2: Gladiators of Thay into SoA and ToB campaigns.",
+        "description": "Expansion mod for Baldur's Gate 2: Enhanced Edition. Incorporates and expands the Black Pits 2: Gladiators of Thay into the Shadows of Amn and Throne of Bhaal campaign along with the custom Pits of Despair content that finishes the storyline with intent for a more satisfying end.",
         "description_meta": {
             "status": "needs_review",
             "source": "Extension pour BG2:EE. Incorpore les Fosses noires 2 : Gladiateurs de Thay dans les campagnes SoA et ToB."
@@ -22980,7 +22980,7 @@
         "description": "This mod adds whimsical encounters in the taverns of Baldur's Gate. Take part in a drinking contest with dwarves, challenge an amateur bard to a friendly contest, start a tavern brawl...",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute des rencontres fantaisistes dans les tavernes de la ville de Baldur's Gate. Participez à un concours de boisson avec des nains, défiez un barde amateur dans un concours amical, provoquez une bagarre de une taverne…"
+            "source": "Ce mod ajoute des rencontres fantaisistes dans les tavernes de la ville de Baldur's Gate. Participez à un concours de boisson avec des nains, défiez un barde amateur dans un concours amical, provoquez une bagarre dans une taverne…"
         },
         "notes": [],
         "notes_meta": {
@@ -25325,7 +25325,8 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18, résistance aux dégâts contondants -100%."
+                "FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18, résistance aux dégâts contondants -100%.",
+                "Choisissez le dernier lien github pour la version EE."
             ]
         }
     },
@@ -25643,6 +25644,23 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1778,
+        "description": "This mod lets you change the class xp table. You can grant the same xp table to all classes (your choice) AND/OR grant the xp table you want to the class you want.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod vous permet de changer la table d'xp des classes. Vous pouvez accorder la même table d'xp pour toutes les classes (au choix) ET/OU accorder la table d'xp que vous voulez à la classe que vous voulez."
+        },
+        "notes": [
+            "If you install an `infinite xp` option from another mod after Levelling Changer, you will WRITE OUT and cancel the changes made by Levelling Changer."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Si vous installez une option `Xp infini` d'un autre mod après Levelling Changer, vous écraserez et annulerez les modifications faites par Levelling Changer."
+            ]
         }
     }
 ]
