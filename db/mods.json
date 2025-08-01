@@ -6338,7 +6338,7 @@
         ],
         "status": "active",
         "last_update": "2014-06",
-        "tp2": ""
+        "tp2": "BBBKBG;BBQUIV;BBQUIVB;BBQUIVC"
     },
     {
         "id": 197,
@@ -9287,7 +9287,7 @@
         ],
         "status": "active",
         "last_update": "2016-01",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "id": 290,
@@ -11666,7 +11666,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2003-01",
         "tp2": "Elvan-all"
     },
     {
@@ -20992,7 +20992,7 @@
     {
         "id": 663,
         "name": "Macholy's Tweak Pack",
-        "description": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Ce mod ajoute de nombreux ajustements au jeu.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise [ici](https://github.com/cygarniczka/NMTP-English).",
+        "description": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Ce mod ajoute de nombreux ajustements au jeu.",
         "urls": [
             "https://trow.cc/board/showtopic=16579"
         ],
@@ -21007,7 +21007,9 @@
             "Macholy"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise [ici](https://github.com/cygarniczka/NMTP-English)."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -21015,7 +21017,7 @@
         ],
         "status": "active",
         "last_update": "",
-        "tp2": ""
+        "tp2": "NMTP"
     },
     {
         "id": 664,
@@ -23679,7 +23681,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2015-05",
         "tp2": "NeJ3v71"
     },
     {
@@ -24206,8 +24208,8 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2015-03",
+        "tp2": "non-weidu"
     },
     {
         "id": 764,
@@ -24734,7 +24736,7 @@
         ],
         "status": "active",
         "last_update": "2012-07",
-        "tp2": ""
+        "tp2": "osvald_mod"
     },
     {
         "id": 782,
@@ -26821,7 +26823,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2020-09",
         "tp2": "d0questpack"
     },
     {
@@ -30188,23 +30190,25 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "shoplifting2"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "es"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2007-04",
+        "tp2": "non-weidu"
     },
     {
         "id": 950,
         "name": "Shuri Ninja kit",
-        "description": "Créé il y a de nombreuses années par Twinblades2, ce mod a été réécrit dans les standards modernes de code WeiDU et rendu compatible pour les jeux Enhanced par Aalkaor et Gwendolyne (aka Freddy_Gwendo). Il ajoute un nouveau profil de voleur dans le jeu, le shuri ninja, et offre deux nouveaux composants pour les jeux EE.",
+        "description": "Ce mod ajoute un nouveau profil de voleur dans le jeu, le shuri ninja, et offre deux nouveaux composants pour les jeux EE.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33164",
             "https://github.com/GwendolyneFreddy/Shuri-Ninja"
@@ -31993,7 +31997,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2013-12",
         "tp2": "SuperUltimatePortraitPack"
     },
     {
@@ -36651,7 +36655,7 @@
         "languages": [],
         "status": "embed",
         "last_update": "2019-06",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "id": 1149,
@@ -42965,7 +42969,7 @@
             "[Pack BG pour NPC](https://github.com/GraionDilach/Baldurs-Gate-NPC-Voice-Pack-for-EE-2.6)",
             "[Pack BG2EE](https://github.com/GraionDilach/Baldurs-Gate-II-Voice-Pack-for-EE-2.6)",
             "[Pack NWN](https://github.com/GraionDilach/Neverwinter-Nights-Voice-Pack-for-EE-2.6)",
-            "[Pack Soul-Calibur ](https://github.com/GraionDilach/Soul-Calibur-Voice-Pack-for-EE-2.6)"
+            "[Pack Soul-Calibur](https://github.com/GraionDilach/Soul-Calibur-Voice-Pack-for-EE-2.6)"
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -42974,7 +42978,7 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": ""
+        "tp2": "zg_iwd_voices;zg_iwd2_voices;zg_pst_voices;zg_bg_voices;zg_bgnpc_voices;zg_bg2_voices;zg_nwn_voices;zg_soulcalibur_voices"
     },
     {
         "id": 1345,
@@ -43003,7 +43007,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2016-04",
-        "tp2": ""
+        "tp2": "S9SoundsetsVol1;S9SoundsetsVol2;S9SoundsetsVol3;S9SoundsetsVol4"
     },
     {
         "id": 1346,
@@ -48051,7 +48055,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2006-03",
-        "tp2": ""
+        "tp2": "ysSeries;btSeries;sgSeries"
     },
     {
         "id": 1518,
@@ -51880,7 +51884,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2010-10",
         "tp2": "DeaKn"
     },
     {
