@@ -1459,10 +1459,10 @@
     },
     {
         "id": 99,
-        "description": "Inspired by TWM, ikonomov created this GUI mod to take advantage of the essential 16:9 support and try to preserve as much of the game's graphical elements as possible in their original form.|1. All menus have been centered on their original resolution of 640x480 for all game views, except the game screen, where it is at 1280x720.|2. GUI elements at the bottom of the screen have been centered, and text and message window widths have been resized to 800 pixels for easier reading.|3. The new text and message windows (bottom GUI elements during reading) use a custom font, resembling the original font, created using a bam generator and modified to achieve correct line spacing. Small adjustments to the height of text fields using the new font have been made to allow text to be displayed correctly in all fields. All other text elements in the game are left intact and use the original fonts.",
+        "description": "Inspired by [[TWM_GUI]], ikonomov created this GUI mod to take advantage of the essential 16:9 support and try to preserve as much of the game's graphical elements as possible in their original form.|1. All menus have been centered on their original resolution of 640x480 for all game views, except the game screen, where it is at 1280x720.|2. GUI elements at the bottom of the screen have been centered, and text and message window widths have been resized to 800 pixels for easier reading.|3. The new text and message windows (bottom GUI elements during reading) use a custom font, resembling the original font, created using a bam generator and modified to achieve correct line spacing. Small adjustments to the height of text fields using the new font have been made to allow text to be displayed correctly in all fields. All other text elements in the game are left intact and use the original fonts.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Inspiré par TWM, ikonomov a créé ce mod d'interface graphique pour bénéficier d'un support 16:9 indispensable et tenter de préserver autant que possible les éléments graphiques du jeu dans leur forme originale.|1. Tous les menus ont été centrés sur leur résolution d'origine de 640x480 pour toutes les vues du jeu, sauf à l'écran de jeu, où il est à 1280x720.|2. Les éléments de l'interface graphique en bas de l'écran ont été centrés et les largeurs des fenêtres de texte et de message ont été redimensionnées à 800 pixels pour une lecture plus facile.|3. Les nouvelles fenêtres de texte et de message (éléments de l'interface graphique du bas pendant la lecture) utilisent une police personnalisée, ressemblant à la police d'origine, créée à l'aide d'un générateur de bam et modifiée pour obtenir un espacement correct entre les lignes. De petits ajustements de hauteur des champs de texte qui utilisent la nouvelle police ont été effectués pour permettre au texte de s'afficher correctement dans tous les champs. Tous les autres éléments de texte du jeu sont laissés intacts et utilisent les polices d'origine."
+            "source": "Inspiré par [[TWM_GUI]], ikonomov a créé ce mod d'interface graphique pour bénéficier d'un support 16:9 indispensable et tenter de préserver autant que possible les éléments graphiques du jeu dans leur forme originale.|1. Tous les menus ont été centrés sur leur résolution d'origine de 640x480 pour toutes les vues du jeu, sauf à l'écran de jeu, où il est à 1280x720.|2. Les éléments de l'interface graphique en bas de l'écran ont été centrés et les largeurs des fenêtres de texte et de message ont été redimensionnées à 800 pixels pour une lecture plus facile.|3. Les nouvelles fenêtres de texte et de message (éléments de l'interface graphique du bas pendant la lecture) utilisent une police personnalisée, ressemblant à la police d'origine, créée à l'aide d'un générateur de bam et modifiée pour obtenir un espacement correct entre les lignes. De petits ajustements de hauteur des champs de texte qui utilisent la nouvelle police ont été effectués pour permettre au texte de s'afficher correctement dans tous les champs. Tous les autres éléments de texte du jeu sont laissés intacts et utilisent les polices d'origine."
         },
         "notes": [],
         "notes_meta": {
@@ -6547,12 +6547,12 @@
             "source": "Combiné avec [[Widescreen]], ce mod permet de jouer à PST dans une résolution de l'interface supérieure à 640x480. Pour ce faire, il corrige de nombreux écrans de jeu, notamment le menu Démarrer, les écrans de création de personnage, le journal, l'inventaire, les sorts et les magasins, entre autres, ainsi qu'un certain nombre d'autres composants, comme la barre inférieure de l'interface utilisateur qui a été optimisée, les infobulles et les messages en jeu (qui s'affichent désormais correctement), la boîte de dialogue et la carte du monde. De plus, il permet d'augmenter la taille des polices du jeu."
         },
         "notes": [
-            "Please note: if you have installed the French translation correction mod, download the Couronne de Cuivre mod, otherwise use the SHS link."
+            "Please note: if you have installed the [[Patch de correction des erreurs de la version française de Planescape: Torment]], download the Couronne de Cuivre mod, otherwise use the SHS link."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : si vous avez installé le mod de correction de la traduction française, téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
+                "Attention : si vous avez installé le [[Patch de correction des erreurs de la version française de Planescape: Torment]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
             ]
         }
     },
@@ -11783,12 +11783,12 @@
             "source": "Créé par Paul Escalona (alias Qwinn), ce mod rassemble les corrections réalisées par de nombreux moddeurs au fil des années, et converties au format WeiDU, plus compatible. Il ajoute également un bon nombre de corrections supplémentaires. En plus des nouvelles corrections faites par Qwinn, les corrections issues de trois mods non-WeiDU ont été intégrées dans ce mod: [Platter's Fixpack 1.37](https://sorcerers.net/Games/Torment/Platter/index.php), dont Platter est l'auteur principal, mais qui contient aussi les travaux de plusieurs autres contributeurs. Les corrections du Fixpack Beta 1.38, toujours de Platter, sont également incluses |[[Restoration Pack]], par Cilantro, alias Kung Fu Man (qui restaure plusieurs sorts, objets et autres, qui avaient été supprimés de la dernière version de PST).|\"SKARDAVNELNATE'S All-Inclusive Fixpack\", par SKARDAVNELNATE.|Notez que même si ce mod ne contient que des corrections de bogues, plusieurs de ces corrections ont pour résultat de restaurer du contenu non disponible dans le jeu original.|Il comprend trois composants : le premier comporte les principales corrections, le deuxième les corrections d'orthographe et de grammaire anglaise, le troisième rajoute des sous-titres aux dialogues des cinématiques qui étaient auparavant uniquement sous forme de dialogue audio/sonore."
         },
         "notes": [
-            "Please note: if you have installed the French translation correction mod, download the Couronne de Cuivre mod, otherwise use the SHS link."
+            "Please note: if you have installed the [[Patch de correction des erreurs de la version française de Planescape: Torment]], download the Couronne de Cuivre mod, otherwise use the SHS link."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : si vous avez installé le mod de correction de la traduction française, téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
+                "Attention : si vous avez installé le [[Patch de correction des erreurs de la version française de Planescape: Torment]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
             ]
         }
     },
@@ -11800,12 +11800,12 @@
             "source": "Ce mod reprend le mod de Qwinn PS:T Unfinished Business (PST-UB), version 4.12. Complètement remanié, il est compatible aussi bien avec PST:EE qu'avec la version classique de Planescape: Torment (PST). Il restaure le contenu \"presque-mais-pas-complètement-terminé\" (par manque de temps des développeurs) du jeu, le complète et l'améliore, ce qui vous permet de profiter de ces nouveautés dans vos parties. Consultez le [readme](https://argent77.github.io/PST-UB-reloaded/index-fr.html) pour en apprendre plus sur sa vingtaine de composants."
         },
         "notes": [
-            "Please note: if you have installed the French translation correction mod, download the Couronne de Cuivre mod, otherwise use the SHS link."
+            "Please note: if you have installed the [[Patch de correction des erreurs de la version française de Planescape: Torment]], download the Couronne de Cuivre mod, otherwise use the github link."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : si vous avez installé le mod de correction de la traduction française, téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
+                "Attention : si vous avez installé le [[Patch de correction des erreurs de la version française de Planescape: Torment]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien github."
             ]
         }
     },
@@ -13834,10 +13834,10 @@
     },
     {
         "id": 954,
-        "description": "This is a small collection of AI scripts for the original games. It has no WeiDU installer: extract the .bs files into your game's scripts directory, then assign them to your characters.",
+        "description": "This is a small collection of AI scripts.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'une petite collection de scripts d'IA pour les jeux originaux. Il n'a pas d'installateur WeiDU : extrayez les fichiers .bs dans le répertoire scripts de votre jeu, puis assignez-les à vos personnages."
+            "source": "Il s'agit d'une petite collection de scripts d'IA."
         },
         "notes": [],
         "notes_meta": {
@@ -24092,7 +24092,7 @@
         "description": "This mod adds 22 items and corrects the description of 2 existing items.",
         "description_meta": {
             "status": "needs_review",
-            "source": "ce mod ajoute 22 objets et corrige la description de 2 objets existants"
+            "source": "Ce mod ajoute 22 objets et corrige la description de 2 objets existants."
         },
         "notes": [],
         "notes_meta": {

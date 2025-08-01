@@ -3250,7 +3250,7 @@
     {
         "id": 99,
         "name": "HD GUI",
-        "description": "Inspiré par TWM, ikonomov a créé ce mod d'interface graphique pour bénéficier d'un support 16:9 indispensable et tenter de préserver autant que possible les éléments graphiques du jeu dans leur forme originale.|1. Tous les menus ont été centrés sur leur résolution d'origine de 640x480 pour toutes les vues du jeu, sauf à l'écran de jeu, où il est à 1280x720.|2. Les éléments de l'interface graphique en bas de l'écran ont été centrés et les largeurs des fenêtres de texte et de message ont été redimensionnées à 800 pixels pour une lecture plus facile.|3. Les nouvelles fenêtres de texte et de message (éléments de l'interface graphique du bas pendant la lecture) utilisent une police personnalisée, ressemblant à la police d'origine, créée à l'aide d'un générateur de bam et modifiée pour obtenir un espacement correct entre les lignes. De petits ajustements de hauteur des champs de texte qui utilisent la nouvelle police ont été effectués pour permettre au texte de s'afficher correctement dans tous les champs. Tous les autres éléments de texte du jeu sont laissés intacts et utilisent les polices d'origine.",
+        "description": "Inspiré par [[TWM_GUI]], ikonomov a créé ce mod d'interface graphique pour bénéficier d'un support 16:9 indispensable et tenter de préserver autant que possible les éléments graphiques du jeu dans leur forme originale.|1. Tous les menus ont été centrés sur leur résolution d'origine de 640x480 pour toutes les vues du jeu, sauf à l'écran de jeu, où il est à 1280x720.|2. Les éléments de l'interface graphique en bas de l'écran ont été centrés et les largeurs des fenêtres de texte et de message ont été redimensionnées à 800 pixels pour une lecture plus facile.|3. Les nouvelles fenêtres de texte et de message (éléments de l'interface graphique du bas pendant la lecture) utilisent une police personnalisée, ressemblant à la police d'origine, créée à l'aide d'un générateur de bam et modifiée pour obtenir un espacement correct entre les lignes. De petits ajustements de hauteur des champs de texte qui utilisent la nouvelle police ont été effectués pour permettre au texte de s'afficher correctement dans tous les champs. Tous les autres éléments de texte du jeu sont laissés intacts et utilisent les polices d'origine.",
         "urls": [
             "https://www.nexusmods.com/baldursgate/mods/40/"
         ],
@@ -5410,9 +5410,9 @@
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "embed",
-        "last_update": "",
-        "tp2": ""
+        "status": "obsolete",
+        "last_update": "2005-05",
+        "tp2": "LCCreAnimP1"
     },
     {
         "id": 168,
@@ -14373,7 +14373,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : si vous avez installé le mod de correction de la traduction française, téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
+            "Attention : si vous avez installé le [[Patch de correction des erreurs de la version française de Planescape: Torment]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
         ],
         "translation_state": "n/a",
         "safe": 1,
@@ -22559,7 +22559,9 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "2023-01",
         "tp2": ""
@@ -23394,9 +23396,9 @@
         "languages": [
             "pl"
         ],
-        "status": "missing",
-        "last_update": "",
-        "tp2": "najebawszy"
+        "status": "active",
+        "last_update": "2008-08",
+        "tp2": "Najebawszy"
     },
     {
         "id": 738,
@@ -25758,7 +25760,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : si vous avez installé le mod de correction de la traduction française, téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
+            "Attention : si vous avez installé le [[Patch de correction des erreurs de la version française de Planescape: Torment]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -25795,7 +25797,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : si vous avez installé le mod de correction de la traduction française, téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
+            "Attention : si vous avez installé le [[Patch de correction des erreurs de la version française de Planescape: Torment]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien github."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -26021,7 +26023,7 @@
         ],
         "status": "wip",
         "last_update": "2018-09",
-        "tp2": ""
+        "tp2": "pleasure_&_pain_kits"
     },
     {
         "id": 822,
@@ -30348,7 +30350,7 @@
     {
         "id": 954,
         "name": "Simple Scripts",
-        "description": "Il s'agit d'une petite collection de scripts d'IA pour les jeux originaux. Il n'a pas d'installateur WeiDU : extrayez les fichiers .bs dans le répertoire scripts de votre jeu, puis assignez-les à vos personnages.",
+        "description": "Il s'agit d'une petite collection de scripts d'IA.",
         "urls": [
             "https://www.nexusmods.com/baldursgate/mods/42"
         ],
@@ -30369,11 +30371,11 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2023-06",
-        "tp2": "non-weidu"
+        "tp2": "BG1_Simple_Scripts;BG1EE_Simple_Scripts;BG2_Simple_Scripts;BG2EE_Simple_Scripts"
     },
     {
         "id": 955,
@@ -35612,7 +35614,7 @@
         ],
         "status": "embed",
         "last_update": "2003-01",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "id": 1116,
@@ -36157,7 +36159,7 @@
         ],
         "status": "embed",
         "last_update": "2018-08",
-        "tp2": ""
+        "tp2": "berserkerminsc"
     },
     {
         "id": 1133,
@@ -38153,7 +38155,7 @@
         ],
         "status": "obsolete",
         "last_update": "2019-07",
-        "tp2": ""
+        "tp2": "WarHulkKit"
     },
     {
         "id": 1197,
@@ -39126,7 +39128,7 @@
         ],
         "status": "wip",
         "last_update": "2008-03",
-        "tp2": ""
+        "tp2": "worgas"
     },
     {
         "id": 1228,
@@ -40968,7 +40970,7 @@
         "name": "Imoen the Bard",
         "description": "Ce mod modifie Imoen en barde ou en voleuse arcanique. Il propose aussi quelques nouveaux objets, une révision plus proche des jeux papier pour la progression des sorts de mage, les armures et les boucliers. Il permet aussi de supprimer la première cinématique de SoA et de continuer la partie après le combat final contre Irenicus.",
         "urls": [
-            "http://imoen.blindmonkey.org/downloads.php"
+            "https://www.gibberlings3.net/forums/topic/1102-imoen-the-bard/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -40983,11 +40985,13 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
-        "languages": [],
-        "status": "missing",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
         "last_update": "2004-06",
-        "tp2": ""
+        "tp2": "nmitb"
     },
     {
         "id": 1286,
@@ -46818,7 +46822,7 @@
         ],
         "status": "wip",
         "last_update": "2018-07",
-        "tp2": ""
+        "tp2": "caelar_fall"
     },
     {
         "id": 1476,
@@ -52496,7 +52500,7 @@
     {
         "id": 1667,
         "name": "Lepsze Przedmioty",
-        "description": "ce mod ajoute 22 objets et corrige la description de 2 objets existants",
+        "description": "Ce mod ajoute 22 objets et corrige la description de 2 objets existants.",
         "urls": [
             "https://athkatla.cob-bg.pl/viewtopic.php?t=2733&sid=473c7240dfe94ad896e7ad10dffebce6"
         ],
@@ -52519,7 +52523,7 @@
         ],
         "status": "missing",
         "last_update": "2008-06",
-        "tp2": ""
+        "tp2": "LepszePrzedmioty"
     },
     {
         "id": 1668,
