@@ -67,8 +67,6 @@ class CleanModMixin:
     def clean_all(self) -> None:
         for field in fields(Mod):
             attr = field.name
-            if attr not in self.data:
-                continue
             try:
                 cleaned_value = getattr(self, f"clean_{attr}")()
             except AttributeError:
