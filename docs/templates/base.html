@@ -21,7 +21,7 @@
                 <h1>Liste des mods</h1>
                 <div class="language-picker">
                     {% for language_url, flag in language_flags.items() %}
-                        <a href="https://riwspy.github.io/lcc-docs/{{ language_url }}/">{{ flag }}{% if loop.revindex != 1 %} • {% endif %}</a>
+                        <a href="https://riwspy.github.io/lcc-docs/{{ language_url }}/">{{ flag }}{% if not loop.last %} • {% endif %}</a>
                     {% endfor %}
                 </div>
                 <hr>
@@ -79,7 +79,7 @@
                                     {% endfor %}
                                 </ul>
                                 <p>
-                                    <strong>Traduction française</strong>
+                                    <strong>État de la traduction</strong>
                                 </p>
                                 <ul>
                                     {% for icon_data in attrs_icon_data.translation_state_auto.values() %}
