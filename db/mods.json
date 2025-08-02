@@ -17581,7 +17581,7 @@
     {
         "id": 552,
         "name": "Innershade",
-        "description": "Après [[Tales of the Deep Gardens]], Lava récidive avec un nouvel opus de la série Colours of Infinity. Suivez un chemin au milieu des arbres pour découvrir un tout nouveau village à visiter : Innershade. Il a eu quelques problèmes récemment : des gens ont disparu, et l'attaquant n'a jamais été vu. Vous devez arrêter les responsables, si vous le pouvez.",
+        "description": "Après [[Tales of the Deep Gardens]], Lava récidive avec un nouvel opus de la série Colours of Infinity. Suivez un chemin au milieu des arbres pour découvrir un tout nouveau village à visiter : Innershade. Il connaît quelques problèmes ces derniers temps : certaines personnes ont disparu, et l'agresseur n'a jamais été vu. Vous devez arrêter les responsables, si vous le pouvez. Résoudre le problème ne suffira peut-être pas ; se débarasser de l'agresseur n'est que l'une des façons de gérer cette situation. La seconde, consiste à comprendre les motivations et le passé qui sont devenus un lourd fardeau. C'est à vous d'en juger.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=6",
             "https://downloads.weaselmods.net/download/innershade/"
@@ -17598,7 +17598,9 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Innershade doit être installé avant [[Worldmap]]."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
