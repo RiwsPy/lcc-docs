@@ -20,7 +20,7 @@
                 <div class="column jeu">
                     {% for game in mod.games %}<p>{{ game }}</p>{% endfor %}
                 </div>
-                {% if mod.authors|length <= 2 %}
+                {% if mod.authors|length <= 1 %}
                     <div class="column team">
                         {% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}
                     </div>
@@ -30,7 +30,7 @@
                         <div class="content">{% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}</div>
                     </details>
                 {% endif %}
-                {% if mod.team|length <= 2 %}
+                {% if mod.team|length <= 1 %}
                 <div class="column team translator">
                     {% for user in mod.team %}<p>{{ user }}</p>{% endfor %}
                 </div>
