@@ -4707,8 +4707,7 @@
         "description": "Ce mod énorme ajoute les zones nocturnes qui manquent dans toutes les zones principales sauf Baldur's Gate et ajoute les minimaps nocturnes manquantes dans toutes les zones principales. Il corrige également des défauts graphiques dans les différentes cartes du jeu (fenêtres qui s'affichent la nuit et pas le jour - ou vice versa, porte mal ajustée, défaut dans les images de nuit, etc.). Il donne à tous les braseros muraux leurs flammes manquantes. Enfin, presque toutes les vilaines taches bleues et violettes ont été supprimées des rues. Il a été réalisé en collaboration avec Overhaul Studios.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27768-baldurs-gate-graphics-overhaul-for-eet",
-            "https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul",
-            "https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul-Android"
+            "https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul"
         ],
         "categories": [
             "Cosmétique"
@@ -4730,7 +4729,7 @@
         "team": [],
         "notes": [
             "Installez-le avant tout autre mod qui apporte des modifications aux zones, car sinon le jeu se plantera lorsque vous entrerez dans ces zones !",
-            "Le dernier lien github propose une version pour Android."
+            "Il existe une version pour [Android](https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul-Android)."
         ],
         "translation_state": "n/a",
         "safe": 2,
@@ -14808,10 +14807,10 @@
     {
         "id": 464,
         "name": "Haldamir",
-        "description": "Ce mod ajoute un elfe de la lune de Cormanthor qui a passé à défendre celle-ci des invasions, jusqu'à ce qu'un mystérieux sort le téléporte à Athkatla. L'aiderez-vous ? le mod comprend 2 banters avec chaque PNJ de Bioware, des dialogues amicaux avec le PJ et de nombreuses interjections.|FOR 18, DEX 17, CON 16, INT 11, SAG 9, CHA 9.",
+        "description": "Ce mod ajoute un elfe de la lune guerrier d'alignement neutre strict. Il a grandi à Cormanthor et a passé sa vie à la défendre, jusqu'à ce qu'un hiatus entropique le téléporte à Athkatla. L'aiderez-vous ? le mod comprend 2 banters avec chaque PNJ de Bioware, des dialogues amicaux avec le PJ et de nombreuses interjections. Il se trouve dans l'antre des Sept Vaux sur la Promenade de Waukyne.|FOR 18/92, DEX 17, CON 16, INT 11, SAG 9, CHA 9.",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/haldamir/",
-            "https://github.com/Gibberlings3/Haldamir"
+            "https://github.com/Gibberlings3/Haldamir/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -15107,7 +15106,7 @@
     {
         "id": 474,
         "name": "Heart of the Wood",
-        "description": "Ce mod ajoute une baguette à Kyland Lind, l'acolyte de Faldorn dans le Bosquet des druides. Elle permet d'invoquer des créatures des bois aléatoires et qui sortent de l'ordinaire (tirées du bestiaire monstrueux).",
+        "description": "Ce mod ajoute une baguette druidique magique qui invoque de puissants monstres et créatures de la forêt (dont certains nouveaux issus du bestiaire monstrueux) pour aider votre druide au combat, bien que le nombre total de points de vie des créatures invoquées soit limité à 13. Cet objet peut être obtenu auprès de Kyland Lind (Bosquet des druides). Vous devez bien sûr le tuer au préalable pour l'obtenir.",
         "urls": [
             "https://www.shsforums.net/files/file/134-heart-of-the-wood-item/",
             "https://github.com/Spellhold-Studios/Heart-of-the-Wood"
@@ -15144,7 +15143,7 @@
     {
         "id": 475,
         "name": "Heartwarder of Sune",
-        "description": "Ce mod ajout un nouveau profil de clerc inspiré du manuel Dogmes et Panthéons des R.O (3eme édition), le Garde du cœur de Sunie.",
+        "description": "Ce mod ajout un nouveau kit de clerc inspiré du manuel Dogmes et Panthéons des Royaumes Oubliés (3ème édition) : le Garde du cœur de Sunie. La Dame aux Cheveux de Feu encourage la beauté, la passion et l'amour partout où ils se trouvent. Le personnage est ainsi protégé contre les charmes et possède des capacités qui font de lui un bon support pour le groupe.",
         "urls": [
             "https://www.shsforums.net/files/file/759-heartwarder-of-sune-cleric-kit-v11/"
         ],
@@ -15204,7 +15203,7 @@
     {
         "id": 477,
         "name": "Helga, a Dwarven Priestess of Haela Brightaxe",
-        "description": "Helga sort de sa retraite après des années de service au temple de Haela et de garde d'enfants pour revivre ses jeunes années de combat. Dans BG1 et SoD, elle combattra volontiers aux côtés du protagoniste, à condition qu'il l'aide à protéger son peuple ou à chasser sa proie. Possédant une force remarquable malgré son âge, elle n'est pas aussi résistante que les autres guerriers. Capable d'appeler temporairement dans sa main une lame puissante, elle peut encore déchirer les lignes ennemies.|Elle se soucie peu des règles et des solutions pacifiques, et favorise des résultats plus violents et risqués dans vos choix. Elle n'est pas mauvaise, cependant, et la malveillance manifeste gagnera sa désapprobation. Pas de romance possible, mais une voie de l'amitié chaleureuse pour ceux qui aiment la bataille autant qu'elle.",
+        "description": "Helga sort de sa retraite après des années de service au temple de Haela et de garde d'enfants pour revivre ses jeunes années de combat. Dans BG1 et SoD, elle combattra volontiers aux côtés du protagoniste, à condition qu'il l'aide à protéger son peuple ou à chasser sa proie. Possédant une force remarquable malgré son âge, elle n'est pas aussi résistante que les autres guerriers. Capable d'appeler temporairement dans sa main une lame puissante, elle peut encore déchirer les lignes ennemies.|Elle se soucie peu des règles et des solutions pacifiques, et favorise des résultats plus violents et risqués dans vos choix. Elle n'est pas mauvaise, cependant, et la malveillance manifeste gagnera sa désapprobation. Pas de romance possible, mais une voie de l'amitié chaleureuse pour ceux qui aiment la bataille autant qu'elle.|FOR 18, DEX 14, CON 15, INT 11, SAG 13, CHA 11.",
         "urls": [
             "https://skitias-stories.com/mods-view.php?name=Helga",
             "https://forums.beamdog.com/discussion/76460/",
@@ -19125,7 +19124,7 @@
     {
         "id": 601,
         "name": "Kiara Zaiya",
-        "description": "Ce mod d'Alan MC ajoute 2 nouveaux personnages féminins, une mage chaotique bonne (Zaiya) et une moniale neutre mauvaise (Kiara). Des interactions à foison, de nouveaux ennemis, un réajustement des capacités de haut-niveau des moines, une amélioration du combat contre le golem dans le donjon de'Arnise et des combats des chapitres 2 et 6 contre Amaralis (dans la même veine que ceux de [[Tactics]] ou d'[[Ascension]] pour celui du chapitre 6), sans oublier des personnages avec des capacités et un équipement spéciaux. Enfin, la cerise sur le gâteau, une romance avec Kiara qui pourra peut-être l'amener à la rédemption. Les romances sont parfois très osées (Zaiya romancera Cernd).",
+        "description": "Ce mod ajoute 2 nouveaux personnages féminins, une demi-elfe entropiste chaotique bonne (Zaiya) et une moniale neutre mauvaise (Kiara). Des interactions à foison, de nouveaux ennemis, un réajustement des capacités de haut-niveau des moines, une amélioration du combat contre le golem dans le donjon de'Arnise et des combats des chapitres 2 et 6 contre Amaralis (dans la même veine que ceux de [[Tactics]] ou d'[[Ascension]] pour celui du chapitre 6), sans oublier des personnages avec des capacités et un équipement spéciaux. Enfin, la cerise sur le gâteau, une romance avec Kiara qui pourra peut-être l'amener à la rédemption. Les romances sont parfois très osées (Zaiya romancera Cernd).|Zaiya : FOR 9, DEX 16, CON 16, INT 17, SAG 15, CHA 10|Kiara : FOR 14, DEX 17, CON 12, INT 15, SAG 10, CHA 16",
         "urls": [
             "https://www.shsforums.net/topic/61123-kiara-zaiya-npcs-updated-to-v201-ee-compatible/",
             "https://github.com/Spellhold-Studios/Kiara-Zaiya"
@@ -19145,7 +19144,10 @@
             "Jesara"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "La Tour de Garde n'est plus disponible dans SoA.",
+            "Certains dialogues avec [[Valen NPC]] n'apparaissent plus."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -52386,7 +52388,7 @@
     {
         "id": 1662,
         "name": "Watcher’s Keep Multiplayer Conversion",
-        "description": "Ce mod fait commencer les joueurs dans l'antichambre et leur fait vivre une aventure unique dans la Tour de garde avec des règles modifiées.",
+        "description": "Ce mod fait commencer les joueurs dans l'antichambre et leur fait vivre une aventure unique dans la Tour de Garde avec des règles modifiées.",
         "urls": [
             "https://www.sigil.cz/download-modifikace/watchers-keep-multiplayer-conversion/"
         ],
@@ -55810,6 +55812,7 @@
         "name": "Reduce Save Compression",
         "description": "Réduit le niveau de compression utilisé par l'édition améliorée du moteur Infinity Engine de Beamdog lors de l'enregistrement. Cela accélère le processus de sauvegarde pour les parties en fin de jeu, au prix d'une légère augmentation de la taille de stockage.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/39873-mod-reduce-save-compression-v11/",
             "https://github.com/Bubb13/B3-ReduceSaveCompression/"
         ],
         "categories": [

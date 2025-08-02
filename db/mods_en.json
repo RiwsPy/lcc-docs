@@ -718,7 +718,7 @@
     },
     {
         "id": 48,
-        "description": "Does the name ring a bell? Yes, it does! The dark brute allied to Sarevok and infiltrated into the Flaming Fist... You're now certain that you didn't kill him in your sinister fight under Baldur's Gate, and he'll make you an offer when he meets you in the Athkatla cemetery. He has a few interactions with most of the NPCs in the base game. If you're playing a woman, you can also try to romance him. Finally, he has a personal quest that can extend into ToB.",
+        "description": "Does the name ring a bell? Yes, it does! The dark brute allied to Sarevok and infiltrated into the Flaming Fist... You're now certain that you didn't kill him in your sinister fight under Baldur's Gate, and he'll make you an offer when he meets you in the Athkatla Graveyard. He has a few interactions with most of the NPCs in the base game. If you're playing a woman, you can also try to romance him. Finally, he has a personal quest that can extend into ToB.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce nom vous rappelle-t-il quelque chose ? Eh oui ! La sombre brute alliée de Sarevok et infiltrée au sein du Poing Enflammé... Vous avez désormais la certitude que vous ne l'avez pas tué lors de votre sinistre combat sous la Porte de Baldur, et il vous fera une offre lorsqu'il vous rencontrera au cimetière d'Athkatla. Il dispose de quelques interactions avec la plupart des PNJ du jeu de base. Si vous jouez une femme, vous pourrez également tenter de le romancer. Enfin, il dispose d'une quête personnelle qui peut se prolonger jusque dans ToB."
@@ -2506,7 +2506,7 @@
     },
     {
         "id": 172,
-        "description": "This mod features two recruitable NPCs, Kiyone (lawful good half-elf ranger) and Kova (chaotic good half-elf mage/thief), non-separable (like [[Kiara Zaiya]]) who have a potential romance (with each other), banters with everyone, and a very interesting quest on the links between the Hooded Ones, the Shadow Thieves and the Council of Six, not to mention a bunch of fights throughout SoA (and now interjections in the Watchtower and several romance epilogues in ToB).",
+        "description": "This mod features two recruitable NPCs, Kiyone (lawful good half-elf ranger) and Kova (chaotic good half-elf mage/thief), non-separable (like [[Kiara Zaiya]]) who have a potential romance (with each other), banters with everyone, and a very interesting quest on the links between the Hooded Ones, the Shadow Thieves and the Council of Six, not to mention a bunch of fights throughout SoA (and now interjections in the Watcher's keep and several romance epilogues in ToB).",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod propose deux PNJ recrutables, Kiyone (rôdeuse demi-elfe loyal bon) et Kova (mage/voleuse demi-elfe chaotique bon), non-séparables (comme [[Kiara Zaiya]]) qui ont une romance potentielle (entre eux), des banters avec tout le monde, et une très intéressante quête sur les liens entre les Cagoulés, les Voleurs de l'Ombre et le Conseil des Six, sans parler d'un tas de combats tout au long de SoA (et désormais des interjections dans la Tour de Garde et plusieurs épilogues de romance dans ToB)."
@@ -6744,10 +6744,10 @@
     },
     {
         "id": 464,
-        "description": "This mod adds an elf from the moon of Cormanthor who spent his life defending it from invasion, until a mysterious spell teleported him to Athkatla. Will you help him? the mod includes 2 banters with each Bioware NPC, friendly dialogues with the PJ and numerous interjections.|STR 18, DEX 17, CON 16, INT 11, WIS 9, CHA 9.",
+        "description": "This mod adds a moon elf true neutral fighter. He was raised in Cormanthor, and spent his life defending it, until a wild surge teleported him to Athkatla. Will you help him adapt? The mod includes 2 banters with each of the Bioware NPCs, a short friendship track and numerous interjections. He can be found inside the Den of the Seven Vales in Waukeen's Promenade.|STR 18/92, DEX 17, CON 16, INT 11, WIS 9, CHA 9.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un elfe de la lune de Cormanthor qui a passé à défendre celle-ci des invasions, jusqu'à ce qu'un mystérieux sort le téléporte à Athkatla. L'aiderez-vous ? le mod comprend 2 banters avec chaque PNJ de Bioware, des dialogues amicaux avec le PJ et de nombreuses interjections.|FOR 18, DEX 17, CON 16, INT 11, SAG 9, CHA 9."
+            "source": "Ce mod ajoute un elfe de la lune. Il a grandi à Cormanthor et a passé sa vie à la défendre, jusqu'à ce qu'un hiatus entropique le téléporte à Athkatla. L'aiderez-vous ? le mod comprend 2 banters avec chaque PNJ de Bioware, des dialogues amicaux avec le PJ et de nombreuses interjections. Il se trouve dans l'antre des Sept Vaux sur la Promenade de Waukyne.|FOR 18/92, DEX 17, CON 16, INT 11, SAG 9, CHA 9."
         },
         "notes": [],
         "notes_meta": {
@@ -6886,10 +6886,10 @@
     },
     {
         "id": 474,
-        "description": "This mod adds a wand to Kyland Lind, Faldorn's sidekick in the Druid Grove. It can be used to summon random and unusual woodland creatures (from the monstrous bestiary).",
+        "description": "This mod adds a magic druidic wand that summons some powerful forest monsters and creatures (with some new ones from the monsters compendium) to aid your druid in combat, although the overall HD of the summoned creatures is limited to 13. This item can be acquired from Kyland Lind (Druid Grove). You must kill him first for it of course.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod ajoute une baguette à Kyland Lind, l'acolyte de Faldorn dans le Bosquet des druides. Elle permet d'invoquer des créatures des bois aléatoires et qui sortent de l'ordinaire (tirées du bestiaire monstrueux)."
+            "status": "done",
+            "source": "Ce mod ajoute une baguette druidique magique qui invoque de puissants monstres et créatures de la forêt (dont certains nouveaux issus du bestiaire monstrueux) pour aider votre druide au combat, bien que le nombre total de points de vie des créatures invoquées soit limité à 13. Cet objet peut être obtenu auprès de Kyland Lind (Bosquet des druides). Vous devez bien sûr le tuer au préalable pour l'obtenir."
         },
         "notes": [],
         "notes_meta": {
@@ -6899,10 +6899,10 @@
     },
     {
         "id": 475,
-        "description": "This mod adds a new cleric profile inspired by the R.O. Dogmas and Pantheons manual (3rd edition), the Sunie Heartguard.",
+        "description": "This mod adds a new cleric kit inspired by Faiths and Pantheons manual in the Forgotten Realms (3rd edition), the Heartwarder of Sune. Sune Firehair encourages beauty, passion, and love wherever they may be found. The character is thus protected against charms and possesses abilities that make him a good support for the party.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajout un nouveau profil de clerc inspiré du manuel Dogmes et Panthéons des R.O (3eme édition), le Garde du cœur de Sunie."
+            "source": "Ce mod ajout un nouveau kit de clerc inspiré du manuel Dogmes et Panthéons des Royaumes Oubliés (3ème édition) : le Garde du cœur de Sunie. La Dame aux Cheveux de Feu encourage la beauté, la passion et l'amour partout où ils se trouvent. Le personnage est ainsi protégé contre les charmes et possède des capacités qui font de lui un bon support pour le groupe."
         },
         "notes": [],
         "notes_meta": {
@@ -6912,7 +6912,7 @@
     },
     {
         "id": 476,
-        "description": "This mod adds a new NPC to the game: the priestess Helarine, with a Kelemvor Mortuary Guard profile. You'll find her outside the Friendly Arm Inn (BG:EE) or in the Athkatla Cemetery (BG2:EE).",
+        "description": "This mod adds a new NPC to the game: the priestess Helarine, Doomguide of Kelemvor. You'll find her outside the Friendly Arm Inn (BG:EE) or in the Athkatla Graveyard (BG2:EE).",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute une nouvelle PNJ dans le jeu : la prêtresse Helarine, dotée d'un profil de Garde mortuaire de Kelemvor. Vous la trouverez à l'extérieur de l'auberge du Bras amical (BG:EE) ou dans le cimetière d'Athkatla (BG2:EE)."
@@ -6929,10 +6929,10 @@
     },
     {
         "id": 477,
-        "description": "Helga comes out of retirement after years of service at the Temple of Haela and babysitting to relive her youthful fighting days. In BG1 and SoD, she'll gladly fight alongside the protagonist, provided he helps her protect her people or hunt her prey. Possessing remarkable strength despite her age, she is not as resistant as other fighters. Able to temporarily summon a powerful blade in her hand, she can still tear through enemy lines.|She cares little for rules and peaceful solutions, and favors more violent and risky outcomes in your choices. She's not evil, however, and overt malice will earn her disapproval. No romance possible, but a path of warm friendship for those who love battle as much as she does.",
+        "description": "Helga comes out of retirement after years of temple duty and child caring to relive her younger fighting years. In BG1 and SoD she will gladly fight alongside a protagonist, so long as they help her protect her people or hunt her quarry. Possessing remarkable strength despite her age, she is not as durable as her other warrior kin, and should position herself carry. Able to temporarily call into her hand a powerful blade, she is still nonetheless able to rip through enemy lines.|She cares little for rules and peaceful solutions, and favors more violent, risk taking results in your choices. She is not evil, however, and overt malice will win her disapproval. She is not an available romance, but still provides a warm friendship for those who pursue it and enjoy battle as much as she.|STR 18, DEX 14, CON 15, INT 11, WIS 13, CHA 11.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Helga sort de sa retraite après des années de service au temple de Haela et de garde d'enfants pour revivre ses jeunes années de combat. Dans BG1 et SoD, elle combattra volontiers aux côtés du protagoniste, à condition qu'il l'aide à protéger son peuple ou à chasser sa proie. Possédant une force remarquable malgré son âge, elle n'est pas aussi résistante que les autres guerriers. Capable d'appeler temporairement dans sa main une lame puissante, elle peut encore déchirer les lignes ennemies.|Elle se soucie peu des règles et des solutions pacifiques, et favorise des résultats plus violents et risqués dans vos choix. Elle n'est pas mauvaise, cependant, et la malveillance manifeste gagnera sa désapprobation. Pas de romance possible, mais une voie de l'amitié chaleureuse pour ceux qui aiment la bataille autant qu'elle."
+            "status": "done",
+            "source": "Helga sort de sa retraite après des années de service au temple de Haela et de garde d'enfants pour revivre ses jeunes années de combat. Dans BG1 et SoD, elle combattra volontiers aux côtés du protagoniste, à condition qu'il l'aide à protéger son peuple ou à chasser sa proie. Possédant une force remarquable malgré son âge, elle n'est pas aussi résistante que les autres guerriers. Capable d'appeler temporairement dans sa main une lame puissante, elle peut encore déchirer les lignes ennemies.|Elle se soucie peu des règles et des solutions pacifiques, et favorise des résultats plus violents et risqués dans vos choix. Elle n'est pas mauvaise, cependant, et la malveillance manifeste gagnera sa désapprobation. Pas de romance possible, mais une voie de l'amitié chaleureuse pour ceux qui aiment la bataille autant qu'elle.|FOR 18, DEX 14, CON 15, INT 11, SAG 13, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -8711,15 +8711,21 @@
     },
     {
         "id": 601,
-        "description": "This mod by Alan MC adds 2 new female characters, a good chaotic mage (Zaiya) and an evil neutral nun (Kiara). Interactions galore, new enemies, a readjustment of the monks' high-level abilities, improved combat against the golem in the Arnise dungeon and the battles in chapters 2 and 6 against Amaralis (in the same vein as those in [[Tactics]] or [[Ascension]] for the one in chapter 6), not to mention characters with special abilities and equipment. Last but not least, the icing on the cake is a romance with Kiara that may lead to her redemption. The romances are sometimes quite daring (Zaiya romances Cernd).",
+        "description": "This mod adds 2 new female characters, a Chaotic Good half-elven wild mage (Zaiya) and an Neutral Evil human monk (Kiara). Interactions galore, new enemies, a readjustment of the monks' high-level abilities, improved combat against the golem in the Arnise dungeon and the battles in chapters 2 and 6 against Amaralis (in the same vein as those in [[Tactics]] or [[Ascension]] for the one in chapter 6), not to mention characters with special abilities and equipment. Last but not least, the icing on the cake is a romance with Kiara that may lead to her redemption. The romances are sometimes quite daring (Zaiya romances Cernd).|Zaiya : STR 9, DEX 16, CON 16, INT 17, WIS 15, CHA 10|Kiara : STR 14, DEX 17, CON 12, INT 15, WIS 10, CHA 16",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod d'Alan MC ajoute 2 nouveaux personnages féminins, une mage chaotique bonne (Zaiya) et une moniale neutre mauvaise (Kiara). Des interactions à foison, de nouveaux ennemis, un réajustement des capacités de haut-niveau des moines, une amélioration du combat contre le golem dans le donjon de'Arnise et des combats des chapitres 2 et 6 contre Amaralis (dans la même veine que ceux de [[Tactics]] ou d'[[Ascension]] pour celui du chapitre 6), sans oublier des personnages avec des capacités et un équipement spéciaux. Enfin, la cerise sur le gâteau, une romance avec Kiara qui pourra peut-être l'amener à la rédemption. Les romances sont parfois très osées (Zaiya romancera Cernd)."
+            "source": "Ce mod ajoute 2 nouveaux personnages féminins, une demi-elfe entropiste chaotique bonne (Zaiya) et une moniale neutre mauvaise (Kiara). Des interactions à foison, de nouveaux ennemis, un réajustement des capacités de haut-niveau des moines, une amélioration du combat contre le golem dans le donjon de'Arnise et des combats des chapitres 2 et 6 contre Amaralis (dans la même veine que ceux de [[Tactics]] ou d'[[Ascension]] pour celui du chapitre 6), sans oublier des personnages avec des capacités et un équipement spéciaux. Enfin, la cerise sur le gâteau, une romance avec Kiara qui pourra peut-être l'amener à la rédemption. Les romances sont parfois très osées (Zaiya romancera Cernd).|Zaiya : FOR 9, DEX 16, CON 16, INT 17, SAG 15, CHA 10|Kiara : FOR 14, DEX 17, CON 12, INT 15, SAG 10, CHA 16"
         },
-        "notes": [],
+        "notes": [
+            "Watcher's keep is hidden in SoA.",
+            "Not all [[Valen NPC]] dialogs will appear."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "La Tour de Garde n'est plus disponible dans SoA.",
+                "Certains dialogues avec [[Valen NPC]] n'apparaissent plus."
+            ]
         }
     },
     {
@@ -15834,7 +15840,7 @@
     },
     {
         "id": 1090,
-        "description": "Not to be confused with the mega mod [[Tortured Souls-BP]], this mod adds a little quest, at the end of which you get a brand-new item that lets you summon Baenwuld the Wizard Slayer at will. He can be freed from his slavery to join your group. To start it, use the wand 'dropped' by a new adversary in one of the crypts of the Athkatla cemetery.",
+        "description": "Not to be confused with the mega mod [[Tortured Souls-BP]], this mod adds a little quest, at the end of which you get a brand-new item that lets you summon Baenwuld the Wizard Slayer at will. He can be freed from his slavery to join your group. To start it, use the wand 'dropped' by a new adversary in one of the crypts of the Athkatla Graveyard.",
         "description_meta": {
             "status": "needs_review",
             "source": "À ne pas confondre avec le méga mod [[Tortured Souls-BP]], ce mod ajoute une petite quête, à la fin de laquelle vous obtenez un objet inédit qui vous permet d'invoquer Baenwuld le Tueur de magicien à volonté. Celui-ci peut-être libéré de son esclavage pour rejoindre votre groupe. Pour la démarrer, utilisez la baguette 'droppée' par un nouvel adversaire dans l'une des cryptes du cimetière d'Athkatla."
@@ -20074,7 +20080,7 @@
     },
     {
         "id": 1385,
-        "description": "Across realms and planes, many have already become Liches or Half-Liches in one way or another. Perhaps they sought immortality. Perhaps they were tired of having to eat and breathe. Maybe they were tired of being frozen, stunned, sick, entangled, drained, paralyzed, petrified, poisoned, polymorphing into a squirrel, stunned... Whatever their reasoning, with this mod, you too can become a Lich with the help of Gravetender Morris in the Athkatla Cemetery District (SoA) or in Saradush (ToB).|But wanting it isn't enough. You have to pay the price (120,000 PO), be at least level 12, have the right alignment, pass a series of quests and so on. To become a lich for good, you need to be physically immune to non-magical weapons, poison, cold and electricity... See the readme for more details.",
+        "description": "Across realms and planes, many have already become Liches or Half-Liches in one way or another. Perhaps they sought immortality. Perhaps they were tired of having to eat and breathe. Maybe they were tired of being frozen, stunned, sick, entangled, drained, paralyzed, petrified, poisoned, polymorphing into a squirrel, stunned... Whatever their reasoning, with this mod, you too can become a Lich with the help of Gravetender Morris in the Athkatla Graveyard District (SoA) or in Saradush (ToB).|But wanting it isn't enough. You have to pay the price (120,000 PO), be at least level 12, have the right alignment, pass a series of quests and so on. To become a lich for good, you need to be physically immune to non-magical weapons, poison, cold and electricity... See the readme for more details.",
         "description_meta": {
             "status": "needs_review",
             "source": "À travers les royaumes et les plans, beaucoup sont déjà devenus des Liches ou des Demi-liches d'une façon ou d'une autre. Peut-être recherchaient-ils l'immortalité. Peut-être en ont-ils eu assez de devoir manger et respirer. Peut-être étaient-ils fatigués d'être congelés, étourdis, malades, enchevêtrés, drainés, paralysés, pétrifiés, empoisonnés, polymorphiés en écureuil, assommés… Quel que soit leur raisonnement, avec ce mod, vous pouvez vous aussi devenir une Liche avec l'aide du Gravetender Morris dans le District du Cimetière d'Athkatla (SoA) ou à Saradush (ToB).|Mais le vouloir ne suffit pas. Il faut en payer le prix (120 000 PO), être au minimum de niveau 12, avoir l'alignement adéquat, réussir une série de quête etc. Pour devenir une définitivement une liche.|Les gains physiques sont importants, immunité aux armes non magiques, au poison, au froid et à l'électricité… Consultez le readme pour en savoir plus."
@@ -24029,10 +24035,10 @@
     },
     {
         "id": 1662,
-        "description": "This mod starts players off in the Pocket Plane and takes them on a unique adventure in the Watchtower with modified rules.",
+        "description": "This mod starts players off in the Pocket Plane and takes them on a unique adventure in the Watcher's keep with modified rules.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod fait commencer les joueurs dans l'antichambre et leur fait vivre une aventure unique dans la Tour de garde avec des règles modifiées."
+            "source": "Ce mod fait commencer les joueurs dans l'antichambre et leur fait vivre une aventure unique dans la Tour de Garde avec des règles modifiées."
         },
         "notes": [
             "This multiplayer mod requires you to create a multiplayer session, but there's nothing to stop you playing on your own.",
@@ -25448,7 +25454,7 @@
     },
     {
         "id": 1764,
-        "description": "Oops is a very special character: he has the ability to change a spell scroll into a special ability.  In concrete terms, bring Oops the scroll of the spell you'd like to have as a special ability 1x/day, pay him 10,000 po per level of the desired spell, it also costs you 1,000xp per level of the desired spell, you lose the scroll but you gain a new ability. You'll find Oops next to the Watchtower, to the south-west. It is designed to be accessible in both SOA and TOB.",
+        "description": "Oops is a very special character: he has the ability to change a spell scroll into a special ability.  In concrete terms, bring Oops the scroll of the spell you'd like to have as a special ability 1x/day, pay him 10,000 po per level of the desired spell, it also costs you 1,000xp per level of the desired spell, you lose the scroll but you gain a new ability. You'll find Oops next to the Watcher's keep, to the south-west. It is designed to be accessible in both SOA and TOB.",
         "description_meta": {
             "status": "needs_review",
             "source": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale.  Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 10000 po par niveau du sort désiré, ça vous coute aussi 1000xp par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité. Vous trouverez Oops à coté de la Tour de Garde, au sud ouest. Il est là pour être accessible aussi bien dans SOA que dans TOB."
