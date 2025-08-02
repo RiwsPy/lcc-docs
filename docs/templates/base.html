@@ -19,6 +19,11 @@
         <div id="cartouche">
             <div id="header">
                 <h1>Liste des mods</h1>
+                <div class="language-picker">
+                    {% for language_url, flag in language_flags.items() %}
+                        <a href="https://riwspy.github.io/lcc-docs/{{ language_url }}/">{{ flag }}{% if loop.revindex != 1 %} • {% endif %}</a>
+                    {% endfor %}
+                </div>
                 <hr>
                 <div class="nav-2">
                     <img class="main"

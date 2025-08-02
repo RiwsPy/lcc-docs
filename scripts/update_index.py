@@ -28,6 +28,7 @@ def main(**kwargs):
             attrs_icon_data=attrs_icon_data,
             mod_length=len(mods),
             language=language,
+            language_flags=used_language_flags,
         )
 
     env = Environment(
@@ -45,7 +46,9 @@ def main(**kwargs):
 
     resize_image_from_width(24)
 
-    for language in get_languages() & language_flags.keys():
+    languages = get_languages() & language_flags.keys()
+    used_language_flags = {k: v for k, v in language_flags.items() if k in languages}
+    for language in languages:
         with LANGUAGE_CONFIG.switch_language(language):
             mods = ModManager.get_mod_list()
 
