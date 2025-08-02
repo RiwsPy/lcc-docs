@@ -55804,5 +55804,36 @@
         "status": "active",
         "last_update": "2025-05",
         "tp2": "vveSOD"
+    },
+    {
+        "id": 1780,
+        "name": "Reduce Save Compression",
+        "description": "Réduit le niveau de compression utilisé par l'édition améliorée du moteur Infinity Engine de Beamdog lors de l'enregistrement. Cela accélère le processus de sauvegarde pour les parties en fin de jeu, au prix d'une légère augmentation de la taille de stockage.",
+        "urls": [
+            "https://github.com/Bubb13/B3-ReduceSaveCompression/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE",
+            "PSTEE"
+        ],
+        "authors": [
+            "Bubb"
+        ],
+        "team": [],
+        "notes": [
+            "Ne fonctionne que sur les versions 2.6 du jeu."
+        ],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "B3-ReduceSaveCompression"
     }
 ]

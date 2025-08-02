@@ -8015,8 +8015,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Innershade doit être installé avant [[Worldmap]]."
+            ]
         }
     },
     {
@@ -25667,6 +25669,23 @@
             "status": "todo",
             "source": [
                 "Il existe une version pour BGEE : [[Voices Voices Extravaganza - AI dialog voiceovers]]."
+            ]
+        }
+    },
+    {
+        "id": 1780,
+        "description": "Reduce Save Compression lowers the compression level used by Beamdog's Enhanced Edition of the Infinity Engine when saving. This speeds up the saving process for late-game playthroughs at the cost of marginally increased storage size.",
+        "description_meta": {
+            "status": "done",
+            "source": "Réduit le niveau de compression utilisé par l'édition améliorée du moteur Infinity Engine de Beamdog lors de l'enregistrement. Cela accélère le processus de sauvegarde pour les parties en fin de jeu, au prix d'une légère augmentation de la taille de stockage."
+        },
+        "notes": [
+            "Only works on version 2.6 of the game."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Ne fonctionne que sur les versions 2.6 du jeu."
             ]
         }
     }
