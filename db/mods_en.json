@@ -2622,10 +2622,10 @@
     },
     {
         "id": 180,
-        "description": "This mod adds a quest initiated by the wizard Menelaun, in the inn of the Seven Vales, on the Waukeen's Promenade.",
+        "description": "This mod adds a quest initiated by the wizard Menelaun, in the Den of the Seven Vales, on the Waukeen's Promenade.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute une quête initiée par le magicien Menelaun, dans l'auberge des Sept Vaux, sur la Promenade de Waukyne."
+            "source": "Ce mod ajoute une quête initiée par le magicien Menelaun, dans l'Antre des Sept Vaux, sur la Promenade de Waukyne."
         },
         "notes": [],
         "notes_meta": {
@@ -2788,7 +2788,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Officiellement compatible avec BG2EE, pour l'instant, seul le contenu pour BG1 a été créé."
+                "Officiellement compatible avec BG2 et BG2EE, pour l'instant, seul le contenu pour BG1 a été créé."
             ]
         }
     },
@@ -3075,10 +3075,10 @@
     },
     {
         "id": 211,
-        "description": "This mod adds a new companion to IWD:EE - the tiefling Cassia. Cassia is a young Heaum cleric from Mirabar who has traveled to Easthaven at the request of her church to lend whatever help she can to the Hrothgar expedition. As a dedicated Heaumite, she will do everything in her power to protect the Ten Cities and eradicate the evils that threaten them. But will she be up to the task, or will she buckle under the responsibility? Cassia is a single-class cleric with the Heaum priest kit and can be recruited from outside the Temple of Tempus in Easthaven. She is associated with a small quest that will end naturally over the course of the game and can be romanced by dwarves, humans, elves, half-elves and male half-orcs with a charisma score of 10 or more. She will react and intervene in both the main game and the expansion. She tends to get on better with good characters, but won't hesitate to follow the example of a bad player as long as they don't cross the moral horizon.||Cassia has crossmod content with numerous mods created by Lava!",
+        "description": "This mod adds a new joinable companion to the IWD:EE - the tiefling Cassia. Cassia is a young cleric of Helm who originally hails from Mirabar and has journeyed to Easthaven at the behest of her church to render what aid she can to Hrothgar's expedition. As a devout helmite, she will do everything in her power to protect the Ten Towns and to root out the evils which threaten them. But will she find herself equal to the task or will she break beneath the responsibility? Cassia is a single-classed cleric with the Helm kit and may be recruited outside the Temple of Tempus in Easthaven. She has a small quest associated with her which will naturally conclude over the course of the game and may be romanced by male dwarves, humans, elves, half-elves and half-orcs with a charisma score of 10 or higher. She will react and interject to both the main game and the expansion. She tends to get along better with good aligned characters but she will not object to following the lead of an evil player so long as they don't cross the moral event horizon.||Cassia has crossmod content with numerous mods created by Lava!",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod ajoute un nouveau compagnon à l'IWD:EE - la tiefling Cassia. Cassia est une jeune clerc de Heaum originaire de Mirabar qui s'est rendue à Easthaven à la demande de son église pour apporter toute l'aide possible à l'expédition de Hrothgar. En tant que heaumite dévouée, elle fera tout ce qui est en son pouvoir pour protéger les Dix Cités et éradiquer les maux qui les menacent. Mais sera-t-elle à la hauteur de la tâche ou cédera-t-elle sous la responsabilité ? Cassia est un clerc de classe unique avec le kit prêtre de Heaum et peut être recrutée à l'extérieur du Temple de Tempus à Easthaven. Elle est associée à une petite quête qui se terminera naturellement au cours du jeu et peut être romancée par des nains, des humains, des elfes, des demi-elfes et des demi-orques mâles ayant un score de charisme de 10 ou plus. Elle réagira et interviendra à la fois dans le jeu principal et dans l'extension. Elle a tendance à mieux s'entendre avec les personnages bons, mais elle n'hésitera pas à suivre l'exemple d'un joueur mauvais tant qu'il ne franchit pas l'horizon moral.||Cassia a un contenu crossmod avec de nombreux mods créés par Lava !"
+            "status": "done",
+            "source": "Ce mod ajoute un nouveau compagnon à l'IWD:EE - la tiefling Cassia. Cassia est une jeune clerc de Heaum originaire de Mirabar qui s'est rendue à Easthaven à la demande de son église pour apporter toute l'aide possible à l'expédition de Hrothgar. En tant que heaumite dévouée, elle fera tout ce qui est en son pouvoir pour protéger les Dix Cités et éradiquer les maux qui les menacent. Mais sera-t-elle à la hauteur de la tâche ou cédera-t-elle sous la responsabilité ?||Cassia est un clerc de classe unique avec le kit prêtre de Heaum et peut être recrutée à l'extérieur du Temple de Tempus à Easthaven. Elle est associée à une petite quête qui se terminera naturellement au cours du jeu et peut être romancée par des nains, des humains, des elfes, des demi-elfes et des demi-orques mâles ayant un score de charisme de 10 ou plus. Elle réagira et interviendra à la fois dans le jeu principal et dans l'extension. Elle a tendance à mieux s'entendre avec les personnages bons, mais elle n'hésitera pas à suivre l'exemple d'un joueur mauvais tant qu'il ne franchit pas de ligne rouge morale.||Cassia a un contenu crossmod avec de nombreux mods créés par Lava !"
         },
         "notes": [],
         "notes_meta": {
@@ -3329,7 +3329,8 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
+                "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET.",
+                "Il existe une variante non officielle du mod : https://github.com/RoxanneSHS/ChloeEET"
             ]
         }
     },
@@ -8098,10 +8099,10 @@
     },
     {
         "id": 559,
-        "description": "A follower of Sune Firehair, a chaotic deity, Isra is an atypical paladin in that she frequents many houses with a certain cheerfulness, and therefore lacks the classic gravity typical of this character class. Like all paladins, she holds everything to do with honor, discipline and order in high esteem, but tends to esteem the code of conduct of her class more than the demands of her goddess. As a result, she will be more lax towards certain chaotic behaviors. A path of friendship is possible, and a few flirtations are also available. Her romance is planned for BG2. Isra has additional content if BG:EE is installed (banters).|STR 16, DEX 12, CON 16, INT 13, WIS 14, CHA 17.",
+        "description": "A follower of Sune Firehair, a chaotic deity, Isra is an atypical paladin in that she frequents many houses with a certain cheerfulness, and therefore lacks the classic gravity typical of this character class. Like all paladins, she holds everything to do with honor, discipline and order in high esteem, but tends to esteem the code of conduct of her class more than the demands of her goddess. As a result, she will be more lax towards certain chaotic behaviors. A path of friendship is possible, and a few flirtations are also available. Her romance is planned for BG2. Isra has additional content if BG:EE is installed (banters).|STR 16, DEX 12, CON 16, INT 13, WIS 14, CHA 17",
         "description_meta": {
             "status": "needs_review",
-            "source": "Suivante de Sunie Cheveux-de-flamme, déité chaotique, Isra est une paladine atypique dans le sens où elle fréquente de nombreuses maisons empruntes d'une certaine gaieté et manque de ce fait de la gravité classique propre à cette classe de personnage. Comme tous les paladins, elle tient en haute estime tout ce qui touche à l'honneur, à la discipline et à l'ordre, mais elle tend à estimer davantage le code de conduite de sa classe que les exigences de sa déesse. De ce fait, elle sera plus laxiste envers certains comportements chaotiques. Une voie de l'amitié est possible et quelques flirts sont également disponibles. Sa romance est prévue, mais dans BG2. Isra dispose de contenu supplémentaire si BG:EE est installé (banters).|FOR 16, DEX 12, CON 16, INT 13, SAG 14, CHA 17."
+            "source": "Suivante de Sunie Cheveux-de-flamme, déité chaotique, Isra est une paladine atypique dans le sens où elle fréquente de nombreuses maisons empruntes d'une certaine gaieté et manque de ce fait de la gravité classique propre à cette classe de personnage. Comme tous les paladins, elle tient en haute estime tout ce qui touche à l'honneur, à la discipline et à l'ordre, mais elle tend à estimer davantage le code de conduite de sa classe que les exigences de sa déesse. De ce fait, elle sera plus laxiste envers certains comportements chaotiques. Une voie de l'amitié est possible et quelques flirts sont également disponibles. Sa romance est prévue, mais dans BG2. Isra dispose de contenu supplémentaire si BG:EE est installé (banters).|FOR 16, DEX 12, CON 16, INT 13, SAG 14, CHA 17"
         },
         "notes": [
             "Choose the last github link for the French version not yet accepted by the author."
@@ -8115,7 +8116,7 @@
     },
     {
         "id": 560,
-        "description": "Isra is a paladin, following Sunie Firehair, whom you can meet in the Antre des Sept Vaux on the Waukeen's Promenade. You'll need to complete a few quests before she can be recruited - make sure your reputation is at least 14. Isra will romanticize good PJs with charisma above 13, regardless of race, class or gender. And she won't join your group if your PJ is of the evil alignment.",
+        "description": "Isra is a paladin, following Sunie Firehair, whom you can meet in the Den of the Seven Vales on the Waukeen's Promenade. You'll need to complete a few quests before she can be recruited - make sure your reputation is at least 14. Isra will romanticize good charname with charisma above 13, regardless of race, class or gender. And she won't join your group if charname is of the evil alignment.",
         "description_meta": {
             "status": "needs_review",
             "source": "Isra est une paladine, suivante de Sunie Cheveux-de-flamme, que vous pouvez rencontrer dans l'Antre des Sept Vaux sur la Promenade de Waukyne. Vous devrez accomplir quelques quêtes pour pouvoir la recruter - soignez votre réputation pour pouvoir en bénéficier (14 et plus). Isra romancera les PJ bons disposant d'un charisme supérieur à 13, sans restriction de race, de classe ou de sexe. Elle n'intégrera d'ailleurs pas votre groupe si votre PJ est d'alignement mauvais."
@@ -8218,10 +8219,10 @@
     },
     {
         "id": 567,
-        "description": "A lawful good monk from Amkethran, he seems distant and serious at first, but rather deadpan once you talk to him. He seems a bit of a brawler, which is surprising for a monk... A few dialogues are included, notably with other NPCs from mods, and a little flirting is possible with the NPC if he's a lady.",
+        "description": "A lawful good monk from Amkethran. He is a very serious man at first glance, but a second shows that he has an ironic, slightly twisted sense of humour which doesn't exactly fit with one's general idea of a monk. He fights offensively and aggressively, seeking out the weakness of an opponent before taking them out as quickly and efficiently as possible, and possesses a somewhat sour disposition. Many dialogues are included, notably with other NPCs from mods, and a little flirting is possible with the NPC if she's a lady.|STR 16, DEX 17, CON 14, INT 15, WIS 12, CHA 14",
         "description_meta": {
             "status": "needs_review",
-            "source": "Moine loyal bon originaire d'Amkethran, il a l'air distant et sérieux de prime abord, mais plutôt pince-sans-rire une fois qu'on lui parle un peu. Il a l'air plutôt bagarreur, étonnant pour un moine... Quelques dialogues inclus, notamment avec d'autres PNJ de mods, un petit flirt possible avec le PJ si c'est une dame."
+            "source": "Moine loyal bon originaire d'Amkethran, À première vue, c'est un homme très sérieux, mais dès qu'on le connaît un peu mieux, on découvre qu'il a un sens de l'humour ironique et légèrement tordu qui ne correspond pas vraiment à l'image que l'on se fait généralement d'un moine. Il combat de manière offensive et agressive, cherchant à exploiter les faiblesses de son adversaire avant de l'éliminer aussi rapidement et efficacement que possible, et possède un caractère quelque peu acerbe. Beaucoup de dialogues inclus, notamment avec d'autres PNJ de mods, un petit flirt possible avec le PJ si c'est une dame.|FOR 16, DEX 17, CON 14, INT 15, SAG 12, CHA 14"
         },
         "notes": [],
         "notes_meta": {
@@ -8554,7 +8555,7 @@
         "description": "This mod adds a new NPC to IWD:EE: Karihi, a neutral pyromancer fire genasi from the remote land of Frozenfar. She's a fallen noblewoman with a rather unpleasant past. As befits her fire genasi heritage, she's feisty, bossy, quick-tempered and quick to take offense, as well as self-assured and arrogant, but her skills as a pyromancer and scholar are undeniably impressive. And she'd make a powerful mage... provided you can tolerate her arrogance and endless complaints about the cold and long treks through the World's Backbone. You'll find her in Havredest, outside the Snowdrift Inn... shivering and complaining about the winter wind.|Karihi has a series of friendly dialogues throughout the game, and a human, elf or half-elven male PC with at least 9 Charisma can start a romance with her. In addition, a mage PC can learn a few pyromancy spells.|STR 10, DEX 18, CON 16, INT 19, WIS 13, CHA 13.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Karihi, une génasi du feu pyromancienne chaotique neutre, originaire de la terre éloignée du Gélointain (Frozenfar). C'est une noble déchu au passé plutôt désagréable. Comme il sied à son héritage de genasi du feu, elle est fougueuse, autoritaire, colérique et prompte à s'offenser, ainsi que sûre d'elle et arrogante, mais ses compétences en tant que pyromancienne et érudite sont indéniablement impressionnantes. Et elle ferait un puissant mage... à condition que l'on puisse tolérer son arrogance et ses plaintes sans fin à l'égard du froid et des longues randonnées à travers l'Épine dorsale du Monde. Vous la trouverez à Havredest, devant l'auberge des congères... grelottante et se plaignant du vent d'hiver.|Karihi a une série de dialogues d'amitié tout au long du jeu, et un PC masculin humain, elfe ou demi-elfe avec au moins de 9 de Charisme peut commencer une romance avec elle. Par ailleurs, un PC mage pourra apprendre quelques sorts de pyromancie.|FOR 10, DEX 18, CON 16, INT 19, SAG 13, CHA 13."
+            "source": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Karihi, une génasi du feu pyromancienne chaotique neutre, originaire de la terre éloignée du Gélointain (Frozenfar). C'est une noble déchu au passé plutôt désagréable. Comme il sied à son héritage de genasi du feu, elle est fougueuse, autoritaire, colérique et prompte à s'offenser, ainsi que sûre d'elle et arrogante, mais ses compétences en tant que pyromancienne et érudite sont indéniablement impressionnantes. Et elle ferait un puissant mage... à condition que l'on puisse tolérer son arrogance et ses plaintes sans fin à l'égard du froid et des longues randonnées à travers l'Épine dorsale du Monde. Vous la trouverez à Havredest, devant l'auberge des congères... grelottante et se plaignant du vent d'hiver.|Karihi a une série de dialogues d'amitié tout au long du jeu, et un PC masculin humain, elfe ou demi-elfe avec au moins de 9 de Charisme peut commencer une romance avec elle. Par ailleurs, un PC mage pourra apprendre quelques sorts de pyromancie.|FOR 10, DEX 18, CON 16, INT 19, SAG 13, CHA 13"
         },
         "notes": [],
         "notes_meta": {
@@ -8751,10 +8752,10 @@
     },
     {
         "id": 604,
-        "description": "Incredibly beautiful, deliciously sensual... and a terrible pain in the ass, Kim the pirate is stopping off in Athkatla. Can you tame her? This French mod was developed on these forums by GrenouilleBleue. It adds a new NPC, Kim, and a quest of her own, as well as a romance.|Here are her stats: STR 17, DEX 18, CON 10, INT 14, WIS 7 and CHA 16.",
+        "description": "Incredibly beautiful, deliciously sensual...  and terribly unnerving. Kim makes a detour to Athkathla. Can you tame her? This mod adds a new NPC, Kim, and a quest of her own, as well as a romance. You can find her near Renald Bloodscalp.|STR 17, DEX 18, CON 10, INT 14, WIS 7 and CHA 16.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Incroyablement belle, délicieusement sensuelle... et terriblement chieuse, Kim la pirate fait escale à Athkatla. Saurez-vous l'apprivoiser ? Ce mod français (hé oui) a été développé sur ces forums par GrenouilleBleue. Il ajoute un nouveau PNJ, Kim, et une quête propre ainsi qu'une romance.|Voici ses caractéristiques : FOR 17, DEX 18, CON 10, INT 14, SAG 7 et CHA 16."
+            "status": "done",
+            "source": "Incroyablement belle, délicieusement sensuelle... et terriblement chieuse, Kim la pirate fait escale à Athkatla. Saurez-vous l'apprivoiser ? Ce mod ajoute un nouveau PNJ, Kim, et une quête propre ainsi qu'une romance. Vous pouvez la retrouver à proximité de Renal Bloodscalp.|FOR 17, DEX 18, CON 10, INT 14, SAG 7 et CHA 16"
         },
         "notes": [],
         "notes_meta": {
@@ -9286,8 +9287,8 @@
         "id": 641,
         "description": "Meet Lhannd Valdove, a chaotic good fallen ranger. He hails from a once-noble Athkatlan family who lost their legacy and drowned in problems. Will you lend a hand in breaking what others perceive as a curse, or will the chain of unfortunate events continue?||The mod comprises quests that expand Athkatla's Government District, including the addition of the Valdove Estate, situated above the local prison. If you are open to offering Lhannd a sympathetic ear, you may embark on a friendship or romance path that will help you get to know him even better, and... perhaps see his other side. Both men and women may romance him, however, the player character can't be of chaotic evil alignment for the romance to start.||To find Lhannd, venture into the Crooked Crane tavern located at the City Gates. The initial encounter serves as the starting point for his first quest.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Meet Lhannd Valdove, a chaotic good fallen ranger. He hails from a once-noble Athkatlan family who lost their legacy and drowned in problems. Will you lend a hand in breaking what others perceive as a curse, or will the chain of unfortunate events continue?||The mod comprises quests that expand Athkatla's Government District, including the addition of the Valdove Estate, situated above the local prison. If you are open to offering Lhannd a sympathetic ear, you may embark on a friendship or romance path that will help you get to know him even better, and... perhaps see his other side. Both men and women may romance him, however, the player character can't be of chaotic evil alignment for the romance to start.||To find Lhannd, venture into the Crooked Crane tavern located at the City Gates. The initial encounter serves as the starting point for his first quest."
+            "status": "done",
+            "source": "Rencontez Lhannd Valdove, un rôdeur déchu chaotique bon. Il est issu d'une famille athkatlienne autrefois noble qui a perdu son héritage et sombré dans les problèmes. Allez-vous l'aider à briser ce que les autres considèrent comme une malédiction, ou la série d'événements malheureux va-t-elle se poursuivre ?||Le mod comprend des quêtes qui élargissent le quartier du gouvernement d'Athkatla, notamment l'ajout du domaine Valdove, situé au-dessus de la prison locale. Si vous êtes prêt à écouter Lhannd avec bienveillance, vous pourrez vous engager dans une relation amicale ou amoureuse qui vous aidera à mieux le connaître et... peut-être à découvrir son autre facette. Les hommes comme les femmes peuvent avoir une relation amoureuse avec lui, mais charname ne peut pas être chaotique mauvais pour que la relation puisse commencer.||Pour trouver Lhannd, aventurez-vous dans l'auberge du Crâne Tordu située aux portes de la ville. La première rencontre sert de point de départ à sa première quête."
         },
         "notes": [],
         "notes_meta": {
@@ -9585,12 +9586,14 @@
         "description": "It's one of three Macholy mods designed to make the game more realistic. If you're interested in this mod, you'll find a draft English translation [here](https://github.com/cygarniczka/NMTP-English).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Ce mod ajoute de nombreux ajustements au jeu.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise [ici](https://github.com/cygarniczka/NMTP-English)."
+            "source": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Ce mod ajoute de nombreux ajustements au jeu."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise [ici](https://github.com/cygarniczka/NMTP-English)."
+            ]
         }
     },
     {
@@ -9957,10 +9960,10 @@
     },
     {
         "id": 690,
-        "description": "For those who enjoyed travelling with Aura in BG:EE (and for those who are waiting for the sequel to BG2), here's another companion in the same vein for IWD:EE: Minerva Gwyndoline Glimmershine, a neutral good fighter gnome. Minerva Glimmershine is Aura's paternal grandmother and a free-spirited adventurer. Confident, daring and full of spirit, she'll jump at the chance to join the group in Havredest, and will be a valuable companion thanks to her fireworks skills, knife-throwing expertise and boundless optimism. The mod includes a friendship path and a romance.|STR 12, DEX 17, CON 15, INT 19, WIS 10, CHA 16.",
+        "description": "For those who enjoyed travelling with Aura in [[Aura NPC for BG:EE and EET]] (and for those who are waiting for the sequel to BG2), here's another companion in the same vein for IWD:EE: Minerva Gwyndoline Glimmershine, a neutral good fighter gnome. Minerva Glimmershine is Aura's paternal grandmother and a free-spirited adventurer. Confident, daring and full of spirit, she'll jump at the chance to join the group in Havredest, and will be a valuable companion thanks to her fireworks skills, knife-throwing expertise and boundless optimism. The mod includes a friendship path and a romance.|STR 12, DEX 17, CON 15, INT 19, WIS 10, CHA 16.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Pour ceux qui ont aimé voyager avec Aura dans BG:EE (ainsi que pour ceux qui attendent la suite de BG2), voici une autre compagne dans la même veine pour IWD:EE : Minerva Gwyndoline Glimmershine, une gnome guerrière neutre bonne. Minerva Glimmershine est la grand-mère paternelle d'Aura et une aventurière à l'esprit libre. Sûre d'elle, audacieuse et pleine d'entrain, elle sautera sur l'occasion de rejoindre le groupe à Havredest, et sera une compagne précieuse grâce à ses talents d'artificière, son expertise du lancer de couteau et son optimisme sans limite. Le mod comprend une voie d'amitié et une romance.|FOR 12, DEX 17, CON 15, INT 19, SAG 10, CHA 16."
+            "source": "Pour ceux qui ont aimé voyager avec Aura de [[Aura NPC for BG:EE and EET]] (ainsi que pour ceux qui attendent la suite de BG2), voici une autre compagne dans la même veine pour IWD:EE : Minerva Gwyndoline Glimmershine, une gnome guerrière neutre bonne. Minerva Glimmershine est la grand-mère paternelle d'Aura et une aventurière à l'esprit libre. Sûre d'elle, audacieuse et pleine d'entrain, elle sautera sur l'occasion de rejoindre le groupe à Havredest, et sera une compagne précieuse grâce à ses talents d'artificière, son expertise du lancer de couteau et son optimisme sans limite. Le mod comprend une voie d'amitié et une romance.|FOR 12, DEX 17, CON 15, INT 19, SAG 10, CHA 16."
         },
         "notes": [],
         "notes_meta": {
@@ -10486,10 +10489,10 @@
     },
     {
         "id": 725,
-        "description": "This is a module adding a rather special NPC to the Nashkel mines. A servant of Ghaunadaur, god of frost, silt, gray slime and other such creatures, he too is a slime given human form by his god. He can transform himself at will, and is of neutral chaotic alignment, hence the many tensions with your team, except for Xzar (as luck would have it), for example. He has a specific kit based on that of the thief. He can speak and interact, including with Indira. He can be found in the Nashkel mines. His characteristics are For 12, Dex 15, Con 16, Int 13, Sag 12 and Cha 16.",
+        "description": "This is a module adding a rather special NPC to the Nashkel mines. A servant of Ghaunadaur, god of frost, silt, gray slime and other such creatures, he too is a slime given human form by his god. He can transform himself at will, and is of neutral chaotic alignment, hence the many tensions with your team, except for Xzar (as luck would have it), for example. He has a specific kit based on that of the thief. He can speak and interact, including with [[Indira NPC]]. He can be found in the Nashkel mines.|STR 12, DEX 15, CON 16, INT 13, WIS 12, CHA 16",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'un module rajoutant un PNJ assez particulier dans les mines de Nashkel. Serviteur de Ghaunadaur, dieu des gelées, limons, vases grises et autres créatures de ce genre, il est lui-aussi une vase à qui son dieu a donné une forme humaine. Il peut se transformer à loisir, est d'alignement chaotique neutre, d'où de nombreuses tensions avec votre équipe sauf Xzar (comme par hasard) par exemple. Il a un kit spécifique basé sur celui du voleur. Il possède des interventions vocales, de nombreuses interactions y compris avec Indira. On le rencontre dans les mines de Nashkel. Ses caractéristiques sont For 12, Dex 15, Con 16, Int 13, Sag 12 et Cha 16."
+            "source": "Il s'agit d'un module rajoutant un PNJ assez particulier dans les mines de Nashkel. Serviteur de Ghaunadaur, dieu des gelées, limons, vases grises et autres créatures de ce genre, il est lui-aussi une vase à qui son dieu a donné une forme humaine. Il peut se transformer à loisir, est d'alignement chaotique neutre, d'où de nombreuses tensions avec votre équipe sauf Xzar (comme par hasard) par exemple. Il a un kit spécifique basé sur celui du voleur. Il possède des interventions vocales, de nombreuses interactions y compris avec [[Indira NPC]]. On le rencontre dans les mines de Nashkel.|FOR 12, DEX 15, CON 16, INT 13, SAG 12, CHA 16"
         },
         "notes": [],
         "notes_meta": {
@@ -10705,10 +10708,10 @@
     },
     {
         "id": 740,
-        "description": "This mod adds a good chaotic human barbarian to BG2. Navarra grew up in the harsh lands of Narfell. Slavery was not uncommon, and her tribe was no exception. She doesn't like slaves, but they've taken care of her since childhood. Because she grew up with slaves, she thinks men are weak-willed and unworthy of her. She knows only what she has been taught and what she has experienced in her tribe. What she has learned about men has been instilled in her over many years. Will she be able to cope with the events to come? Will a male PJ be able to help her see the truth, or even love her? To find out, go and meet her in the Cave of Seven Vales. Specifications: FOR 18/91 - DEX 16 - CON 16 - INT 10 - SAG 10 - CHA 10.",
+        "description": "This mod adds a good chaotic human barbarian to BG2. Navarra grew up in the harsh lands of Narfell. Slavery was not uncommon, and her tribe was no exception. She doesn't like slaves, but they've taken care of her since childhood. Because she grew up with slaves, she thinks men are weak-willed and unworthy of her. She knows only what she has been taught and what she has experienced in her tribe. What she has learned about men has been instilled in her over many years. Will she be able to cope with the events to come? Will a male PJ be able to help her see the truth, or even love her? To find out, go and meet her in the Den of the Seven Vales.|STR 18/91, DEX 16, CON 16, INT 10, WIS 10, CHA 10",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute une barbare humaine chaotique bonne dans BG2. Navarra a grandi sur les terres rudes de Narfell. L'esclavage n'était pas rare et sa tribu ne faisait pas exception à la règle. Elle n'aime pas les esclaves, mais ils se sont occupés d'elle depuis son enfance. Parce qu'elle a grandi auprès d'esclaves, elle pense que les hommes ont une volonté faible et sont indignes d'elle. Elle ne connaît que ce qu'on lui a appris et ce qu'elle a vécu dans sa tribu. Ce qu'elle a appris sur les hommes lui a été inculqué pendant de nombreuses années. Sera-t-elle capable de gérer cela avec les événements à venir ? Un PJ masculin sera-t-il capable de l'aider à voir la vérité ou même de l'aimer ? Pour le savoir, allez la rencontrer dans l'Antre des sept vaux. Ses caractéristiques : FOR 18/91 - DEX 16 - CON 16 - INT 10 - SAG 10 - CHA 10."
+            "source": "Ce mod ajoute une barbare humaine chaotique bonne dans BG2. Navarra a grandi sur les terres rudes de Narfell. L'esclavage n'était pas rare et sa tribu ne faisait pas exception à la règle. Elle n'aime pas les esclaves, mais ils se sont occupés d'elle depuis son enfance. Parce qu'elle a grandi auprès d'esclaves, elle pense que les hommes ont une volonté faible et sont indignes d'elle. Elle ne connaît que ce qu'on lui a appris et ce qu'elle a vécu dans sa tribu. Ce qu'elle a appris sur les hommes lui a été inculqué pendant de nombreuses années. Sera-t-elle capable de gérer cela avec les événements à venir ? Un PJ masculin sera-t-il capable de l'aider à voir la vérité ou même de l'aimer ? Pour le savoir, allez la rencontrer dans l'Antre des Sept Vaux.|FOR 18/91, DEX 16, CON 16, INT 10, SAG 10, CHA 10"
         },
         "notes": [],
         "notes_meta": {
@@ -10755,6 +10758,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
+                "La version nexusmods est la plus à jour et avec une traduction russe.",
                 "Choisissez `Neht_V5.5.rar` pour la version BG2/BGT et `Neht_V6.7.rar` pour la version BG2EE/EET."
             ]
         }
@@ -10880,7 +10884,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Le lien premier est contient la version originale pour BG2/BGT."
+                "Le premier lien contient la version originale pour BG2/BGT."
             ]
         }
     },
@@ -10891,14 +10895,10 @@
             "status": "needs_review",
             "source": "Ninde Amblecrown est une jeune ingénue d'Eauprofonde. Aujourd'hui pourchassée, elle n'a pas la langue dans sa poche, dispose de formidables capacités magiques et d'un ego démesuré. Arriverez-vous à la supporter ? Ces charmes vous laisseront-ils de glace ? Des événements de sa vie passée ne semblent pas étrangers à son tempérament sombre... Que ce soit par l'entremise d'une romance ou d'une amitié, Ninde, sorcière d'alignement mauvais, vous fera découvrir le pan obscur de son histoire ainsi que celle de Lassal. Vous ne pourrez la dénicher dans l'antre de Bodhi que si vous avez choisi de vous allier à Aran Linvail. Sa romance n'est possible que pour un PJ disposant de plus de 13 en charisme, aucune restriction de race / classe n'est cependant à observer. Ce mod ajute également une nouvelle rencontre dans Athkatla, des banters avec les PNJ de Bioware et de juteux échanges avec Bodhi, Lassal et Aran Linvail."
         },
-        "notes": [
-            "Warning: a pirated version exists for EET, whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk, and don't complain!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -11408,10 +11408,10 @@
     },
     {
         "id": 789,
-        "description": "This mod makes Pai'Na, the neutral semi-drow druidess of the graveyard tombs, a recruitable NPC with banters and interjections. She is equipped with a swarm master kit.",
+        "description": " This mod makes Pai’Na, the true neutral half-drow druid in the Graveyard tombs, a playable NPC with banters and interjections. She using the Hivemaster druid kit.|STR 10, DEX 18, CON 15, INT 14, WIS 16, CHA 15",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod fait de Pai'Na, la druidesse semi-drow neutre des tombes du cimetière, un PNJ recrutable avec des banters et des interjections. Elle est dotée d'un kit de maître des essaims."
+            "source": "Ce mod fait de Pai'Na, la druidesse semi-drow neutre stricte du district du cimetière, un PNJ recrutable avec des banters et des interjections. Elle est dotée du kit Hivemaster du mod [[The Artisan's Kitpack]].|FOR 10, DEX 18, CON 15, INT 14, SAG 16, CHA 15"
         },
         "notes": [],
         "notes_meta": {
@@ -12927,15 +12927,18 @@
     },
     {
         "id": 890,
-        "description": "Rjali is a loving cleric/thief who won't leave your side. She'll accept your other loves as long as you take good care of her. She has a full romance with the PC, player/NPC-initiated flirtations, banter with other NPCs, a number of interjections, character reactions and other dialogs. Adult content.",
+        "description": "Rjali is a loving cleric/thief who won't leave your side. She will accept your other amours as long as you take good care of her. She has a full romance with the PC, player/NPC-initiated flirtations, banter with other NPCs, a number of interjections, character reactions and other dialogs. Adult content.",
         "description_meta": {
             "status": "needs_review",
             "source": "Rjali est une clerc/voleuse amoureuse qui ne vous quittera pas. Elle acceptera vos autres amours tant que vous prendrez bien soin d'elle. Elle a une romance complète avec le PC, des flirts initiés par les joueurs/PNJ, des plaisanteries avec d'autres PNJ, un certain nombre d'interjections, de réactions de personnages et d'autres dialogues. Contenu adulte."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "La dernière version en data (12.6) est disponible ici : http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=389",
+                "Ce mod possède une préquelle du même auteur : [[Jini NPC Romance]]."
+            ]
         }
     },
     {
@@ -13669,12 +13672,14 @@
         "description": "Voice pack for a man of evil alignment. Included in the [[Voices of Faerun]] compilation.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Pack de voix (en anglais) pour un homme d'alignement mauvais. A été intégré dans la compilation [[Voices of Faerun]]."
+            "source": "Pack de voix (en anglais) pour un homme d'alignement mauvais."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "A été intégré dans la compilation [[Voices of Faerun]]."
+            ]
         }
     },
     {
@@ -13682,12 +13687,14 @@
         "description": "Voice pack for a man of lawful evil alignment. Has been integrated into the [[Voices of Faerun]] compilation.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Pack de voix (en anglais) pour un homme d'alignement loyal mauvais. A été intégré dans la compilation [[Voices of Faerun]]."
+            "source": "Pack de voix (en anglais) pour un homme d'alignement loyal mauvais."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "A été intégré dans la compilation [[Voices of Faerun]]."
+            ]
         }
     },
     {
@@ -13695,12 +13702,14 @@
         "description": "Voice pack for a neutral chaotic man. Included in the [[Voices of Faerun]] compilation.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Pack de voix (en anglais) pour un homme chaotique neutre. A été intégré dans la compilation [[Voices of Faerun]]."
+            "source": "Pack de voix (en anglais) pour un homme chaotique neutre."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "A été intégré dans la compilation [[Voices of Faerun]]."
+            ]
         }
     },
     {
@@ -13708,12 +13717,14 @@
         "description": "Voice pack for a lawful good man. Has been integrated into the [[Voices of Faerun]] compilation.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Pack de voix (en anglais) pour un homme loyal bon. A été intégré dans la compilation [[Voices of Faerun]]."
+            "source": "Pack de voix (en anglais) pour un homme loyal bon."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "A été intégré dans la compilation [[Voices of Faerun]]."
+            ]
         }
     },
     {
@@ -14402,10 +14413,10 @@
     },
     {
         "id": 993,
-        "description": "This mod adds a new recruitable NPC: the notorious seagull-hating halfling from the Pont district. This neutral chaotic fighter/thief will have banters, interjections, a friendship path and quests. He has content for SoA and ToB. His stats are STR 14, DEX 19, CON 16, INT 13, WIS 8 and CHA 10.",
+        "description": "This mod adds a new recruitable NPC: the notorious seagull-hating halfling from the Pont district. This neutral chaotic fighter/thief will have banters, interjections, a friendship path and quests. He has content for SoA and ToB.|STR 14, DEX 19, CON 16, INT 13, WIS 8, CHA 10",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un nouveau PNJ recrutable : le célèbre halfelin détracteur des mouettes du quartier du Pont. Ce guerrier/voleur chaotique neutre aura des banters, des interjections, une voie de l'amitié et des quêtes. Il dispose de contenu pour SoA et ToB. Ses caractéristiques sont FOR 14, DEX 19, CON 16, INT 13, SAG 8 et CHA 10."
+            "source": "Ce mod ajoute un nouveau PNJ recrutable : le célèbre halfelin détracteur des mouettes du quartier du Pont. Ce guerrier/voleur chaotique neutre aura des banters, des interjections, une voie de l'amitié et des quêtes. Il dispose de contenu pour SoA et ToB.|FOR 14, DEX 19, CON 16, INT 13, SAG 8, CHA 10"
         },
         "notes": [],
         "notes_meta": {
@@ -19744,19 +19755,15 @@
     },
     {
         "id": 1363,
-        "description": "Wallace is a Druidic pumpkin who grew up on a farm. His metamorphosis occurred after an encounter with a wizard. Like all pumpkins, he is resistant to physical attack. His natural fondness for vegetables makes him unromanticizable, especially by humanoids with no respect for nature. Needless to say, he's a fervent defender of pumpkins of all sizes.",
+        "description": "Wallace is a Druidic pumpkin who grew up on a farm. His metamorphosis occurred after an encounter with a wizard. Like all pumpkins, he is resistant to physical attack. His natural fondness for vegetables makes him unromanticizable, especially by humanoids with no respect for nature. Needless to say, he's a fervent defender of pumpkins of all sizes.|STR 14, DEX 16, CON 16, INT 9, WIS 16, CHA 13",
         "description_meta": {
             "status": "needs_review",
-            "source": "Wallace est une citrouille druidique qui a grandi dans une ferme. Sa métamorphose s'est produite suite à une rencontre avec un sorcier. Comme toutes les citrouilles, il est résistant aux attaques physiques. Son penchant naturel pour les légumes fait qu'il n'est pas romançable, surtout pas par des humanoïdes sans respect pour la nature. Il va s'en dire que c'est un fervent défenseur des citrouilles de toute taille."
+            "source": "Wallace est une citrouille druidique qui a grandi dans une ferme. Sa métamorphose s'est produite suite à une rencontre avec un sorcier. Comme toutes les citrouilles, il est résistant aux attaques physiques. Son penchant naturel pour les légumes fait qu'il n'est pas romançable, surtout pas par des humanoïdes sans respect pour la nature. Il va s'en dire que c'est un fervent défenseur des citrouilles de toute taille.|FOR 14, DEX 16, CON 16, INT 9, SAG 16, CHA 13"
         },
-        "notes": [
-            "STR 14, DEX 16, CON 16, INT 9, SAG 16, CHA 13"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "STR 14, DEX 16, CON 16, INT 9, SAG 16, CHA 13"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -19764,7 +19771,7 @@
         "description": "Orelios is a kitless monk from Aglarond who fought Thay for a long time before opting for a more contemplative lifestyle. Or so he claims... He gains special skills with each level. He has his own voice.|STR 15, DEX 18, CON 16, INT 13, WIS 17, CHA 8.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Orelios est un moine sans kit d'Aglarond qui a longtemps combattu Thay avant d'opter pour un mode de vie plus contemplatif. C'est du moins ce qu'il prétend... Il gagne des compétences spéciales au fil des niveaux. Il possède sa propre voix.|FOR 15, DEX 18, CON 16, INT 13, SAG 17, CHA 8."
+            "source": "Orelios est un moine sans kit d'Aglarond qui a longtemps combattu Thay avant d'opter pour un mode de vie plus contemplatif. C'est du moins ce qu'il prétend... Il gagne des compétences spéciales au fil des niveaux. Il possède sa propre voix.|FOR 15, DEX 18, CON 16, INT 13, SAG 17, CHA 8"
         },
         "notes": [],
         "notes_meta": {
@@ -20768,8 +20775,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Une version pour SoD existe : [[Voices Voices Extravaganza SOD - AI dialog voiceovers]]."
+            ]
         }
     },
     {
@@ -22860,7 +22869,7 @@
         "description": "This mod features Nirik, a dwarf druid.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod propose Nirik, un druide nain."
+            "source": "Ce mod propose Nirik Bannerstone, un druide nain neutre strict.|FOR 12, DEX 16, CON 16, INT 14, SAG 16, CHA 15"
         },
         "notes": [],
         "notes_meta": {
@@ -22873,7 +22882,7 @@
         "description": "This mod features Guldruk, a half-orc Kensaï.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod propose Guldruk, un demi-orc Kensaï."
+            "source": "Ce mod propose Guldruk, un demi-orc Kensaï loyal bon.|FOR 19, DEX 12, CON 16, INT 16, SAG 17, CHA 12"
         },
         "notes": [],
         "notes_meta": {
@@ -22886,7 +22895,7 @@
         "description": "This mod features Athanasios, a halfling priest of Tempus.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod propose Athanasios, un halfling prêtre de Tempus."
+            "source": "Ce mod propose Athanasios, un halfling chaotique bon prêtre de Tempus. Il possède son propre set de voix.|FOR 17, DEX 17, CON 16, INT 12, SAG 16, CHA 9"
         },
         "notes": [],
         "notes_meta": {
@@ -25639,6 +25648,21 @@
             "status": "done",
             "source": [
                 "Si vous installez une option `Xp infini` d'un autre mod après Levelling Changer, vous écraserez et annulerez les modifications faites par Levelling Changer."
+            ]
+        }
+    },
+    {
+        "id": 1779,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Mod Weidu qui ajoute des voix off en anglais générées par l'IA pour tous les personnages de SoD."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Il existe une version pour BGEE : [[Voices Voices Extravaganza - AI dialog voiceovers]]."
             ]
         }
     }
