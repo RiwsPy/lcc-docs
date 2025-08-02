@@ -43041,7 +43041,7 @@
     {
         "id": 1346,
         "name": "Black Hearts",
-        "description": "Black Hearts est un mod de quête pour BG:EE qui suit une intrigue impliquant un personnage de Throne of Bhaal : Illasera, et une intrigue du Sorcier Rouge impliquant un nouvel allié dangereux qui a rejoint la cause de Sarevok. Ce mod reprend les combats du module Black Pits, en les utilisant comme base pour les différents objectifs donnés aux joueurs pour la quête (avec quelques variations dans de nombreux cas).",
+        "description": "Black Hearts est un mod de quête pour BG:EE et SoD qui suit une intrigue impliquant un personnage de Throne of Bhaal : Illasera, et une intrigue du Sorcier Rouge impliquant un nouvel allié dangereux qui a rejoint la cause de Sarevok. Ce mod reprend les combats du module Black Pits, en les utilisant comme base pour les différents objectifs donnés aux joueurs pour la quête (avec quelques variations dans de nombreux cas).|Une seconde intrigue se déroule dans SoD, alors que le joueur poursuit la Croisade brillante de Caelar Argent, il découvre la piste de Sarevok, qui cherchait de nouvelles informations sur sa lignée et le pouvoir du Porteur de mort. Accompagnez les anciens alliés de Sarevok pour découvrir l'héritage de Bhaal et les forces obscures qui manipulent ses enfants.",
         "urls": [
             "https://forums.beamdog.com/discussion/82484/",
             "https://github.com/A-Wizard-Did-It/Black-Hearts"
@@ -43059,7 +43059,9 @@
             "AWizardDidIt"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Black Hearts doit être installé avant [[Brandock the Mage]] et [[Worldmap]]."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
