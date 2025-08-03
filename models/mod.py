@@ -256,5 +256,5 @@ class Mod:
             and self.translation_state_auto
             in (TranslationStateEnum.YES, TranslationStateEnum.NA, TranslationStateEnum.TODO)
             and self.tp2 not in ("non-weidu", "n/a")
-            and self.status == ModStatus.ACTIVE
+            and self.status in (ModStatus.ACTIVE, ModStatus.EMBED)
         )
