@@ -2328,19 +2328,6 @@
         }
     },
     {
-        "id": 159,
-        "description": "This mod revisits the bard profiles (pure bard, blademaster, jester and scalde) and adds new songs, some of which come from Icewind Dale: the Ballad of the Three Heroes, The Melody of Tymora, the Song of Kaudiès, the Ballad of Curran Coeurvaillant, etc... It is compatible with [[Rogue Rebalancing]].",
-        "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod revisite les profils de barde (barde pur, maître-lames, bouffon et scalde) et leur ajoute de nouveaux chants, dont certains sont issus d'Icewind Dale : la Ballade des Trois Héros, La Mélodie de Tymora, le Chant de Kaudiès, la Ballade de Curran Cœurvaillant, etc... Il est compatible avec [[Rogue Rebalancing]]."
-        },
-        "notes": [],
-        "notes_meta": {
-            "status": "done",
-            "source": []
-        }
-    },
-    {
         "id": 160,
         "description": "This little mod adds an ability to bards (including all profiles) that allows them to assess the value at will of any identified item in the group's possession. Note that the prices indicated by the skill will probably not reflect the real value at which you can sell an item due to various factors linked to the game engine, such as merchants' margins, the bonuses or maluses of your charisma and reputation, the number of charges of items...",
         "description_meta": {
@@ -23092,10 +23079,10 @@
     },
     {
         "id": 1595,
-        "description": "This mod allows Bards to change their song as in IWD. As kit vocals cannot change, they have been enhanced to compensate. The effects of different songs can be cumulated. One component even allows the same songs to be used several times if several bards form a choir.",
+        "description": "This mod allows Bards to change their song as in IWD. As kit vocals cannot change, they have been enhanced to compensate. The effects of different songs can be cumulated. One component even allows the same songs to be used several times if several bards form a choir. He adds new songs, some of which are from Icewind Dale: The Ballad of the Three Heroes, Tymora's Melody, Song of Kaudies, The Tale of Curran Strongheart, etc.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet aux Bardes de changer de chant comme dans IWD. Les chants des kits ne pouvant pas changer, ils ont été améliorés pour compenser. Les effets des différents chants peuvent se cumuler. Un composant permet même de cumuler plusieurs fois les mêmes chants dans le cas où plusieurs bardes forment un chœur."
+            "source": "Ce mod permet aux Bardes de changer de chant comme dans IWD. Les chants des kits ne pouvant pas changer, ils ont été améliorés pour compenser. Les effets des différents chants peuvent se cumuler. Un composant permet même de cumuler plusieurs fois les mêmes chants dans le cas où plusieurs bardes forment un chœur. Il ajoute de nouveaux chants, dont certains sont issus d'Icewind Dale : la Ballade des Trois Héros, La Mélodie de Tymora, le Chant de Kaudiès, la Ballade de Curran Cœurvaillant, etc"
         },
         "notes": [
             "French translation by IA."

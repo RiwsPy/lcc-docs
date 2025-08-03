@@ -5140,41 +5140,6 @@
         "tp2": "ClubOfPain"
     },
     {
-        "id": 159,
-        "name": "Bard Song Switching (Icewind Mode)",
-        "description": "Ce mod revisite les profils de barde (barde pur, maître-lames, bouffon et scalde) et leur ajoute de nouveaux chants, dont certains sont issus d'Icewind Dale : la Ballade des Trois Héros, La Mélodie de Tymora, le Chant de Kaudiès, la Ballade de Curran Cœurvaillant, etc... Il est compatible avec [[Rogue Rebalancing]].",
-        "urls": [
-            "https://www.shsforums.net/files/file/743-bard-song-switching-icewind-mode-for-bg2-and-ee-series/"
-        ],
-        "categories": [
-            "Kit"
-        ],
-        "games": [
-            "BG2",
-            "Tutu",
-            "BGT",
-            "BGEE",
-            "BG2EE",
-            "SoD",
-            "EET"
-        ],
-        "authors": [
-            "Shohy"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "auto",
-        "safe": 2,
-        "languages": [
-            "en",
-            "cn",
-            "fr"
-        ],
-        "status": "active",
-        "last_update": "2021-08",
-        "tp2": "BardSong_BG2_IWD"
-    },
-    {
         "id": 160,
         "name": "Bardic Appraisal",
         "description": "Ce petit mod ajoute une capacité aux bardes (y compris tous les profils) qui leur permet d'évaluer la valeur à volonté tout objet identifié en possession du groupe. Notez que les prix indiqués par la compétence ne refléteront probablement pas la valeur réelle à laquelle vous pouvez vendre un objet en raison de divers facteurs liés au moteur du jeu, comme la marge des marchands, les bonus ou malus de votre charisme et de votre réputation, le nombre de charges des objets...",
@@ -50368,9 +50333,10 @@
     {
         "id": 1595,
         "name": "Bard Song Switching",
-        "description": "Ce mod permet aux Bardes de changer de chant comme dans IWD. Les chants des kits ne pouvant pas changer, ils ont été améliorés pour compenser. Les effets des différents chants peuvent se cumuler. Un composant permet même de cumuler plusieurs fois les mêmes chants dans le cas où plusieurs bardes forment un chœur.",
+        "description": "Ce mod permet aux Bardes de changer de chant comme dans IWD. Les chants des kits ne pouvant pas changer, ils ont été améliorés pour compenser. Les effets des différents chants peuvent se cumuler. Un composant permet même de cumuler plusieurs fois les mêmes chants dans le cas où plusieurs bardes forment un chœur. Il ajoute de nouveaux chants, dont certains sont issus d'Icewind Dale : la Ballade des Trois Héros, La Mélodie de Tymora, le Chant de Kaudiès, la Ballade de Curran Cœurvaillant, etc",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/37103-bard-song-switching-icewind-mode-for-bgee-series-v46/",
+            "https://www.gibberlings3.net/forums/topic/37103-bard-song-switching-icewind-mode-for-bgee-series-v47/",
+            "https://www.shsforums.net/files/file/743-bard-song-switching-icewind-mode-for-bg2-and-ee-series/",
             "https://github.com/shohysie/Bardsong_Switching"
         ],
         "categories": [
