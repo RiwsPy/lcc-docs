@@ -6246,12 +6246,12 @@
             "source": "CHARNAME est loin d'être votre atout le plus solide, et vous en avez ras le bol de devoir recharger chaque fois qu'il mord la poussière ? Avec ce mod, vos compagnons continueront la lutte en dépit de l'état cadavérique de l'enfant de Bhaal. La fin de la partie n'est sifflée que lorsque l'ensemble de votre groupe a été décimé par l'ennemi.|Quand le protagoniste principal est éliminé du combat (quand ses points de vie sont de 1 ou moins), tout repose sur le reste de l'équipe : soit ils gagnent la bataille, permettant au héros de les rejoindre ensuite, soit la partie prend réellement fin. Dans le premier cas, il n'est pas nécessaire de ramener le personnage principal à la vie, mais notez que sa condition physique sera critique !"
         },
         "notes": [
-            "A similar mod exists for EE versions: [[Protagonist Can Die]]."
+            "A similar mod exists for EE versions: [[Protagonist can die]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Il est existe un mod similaire pour les versions EE : [[Protagonist Can Die]]."
+                "Il existe un mod similaire pour les versions EE : [[Protagonist can die]]."
             ]
         }
     },
@@ -10163,13 +10163,13 @@
         },
         "notes": [
             "This mod is designed to work with BG2:EE v2.3.67.3 and v2.5.16.6.",
-            "Since the release of the mod [[Correction de la traduction de BG2:EE]], this mod has been rendered obsolete for games with patch 2.6 or later."
+            "Since the release of the mod [[Correction de la traduction de Baldur's Gate II : Enhanced Edition]], this mod has been rendered obsolete for games with patch 2.6 or later."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
                 "Ce mod est prévu pour fonctionner avec BG2:EE v2.3.67.3 et v2.5.16.6.",
-                "Depuis la sortie du mod [[Correction de la traduction de BG2:EE]], ce mod a été rendu obsolète pour les jeux dotés du patch 2.6 ou ultérieur."
+                "Depuis la sortie du mod [[Correction de la traduction de Baldur's Gate II : Enhanced Edition]], ce mod a été rendu obsolète pour les jeux dotés du patch 2.6 ou ultérieur."
             ]
         }
     },
@@ -11404,13 +11404,13 @@
         },
         "notes": [
             "Don't get the wrong version, or you'll get a mix of voices in the game!",
-            "Since the release of the mod [[Correction de la traduction de BG2:EE]], this mod has been rendered obsolete for games with patch 2.6 or later."
+            "Since the release of the mod [[Correction de la traduction de Baldur's Gate II : Enhanced Edition]], this mod has been rendered obsolete for games with patch 2.6 or later."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
                 "Ne vous trompez pas de version sous peine d'avoir un mélange de voix dans le jeu !",
-                "Depuis la sortie du mod [[Correction de la traduction de BG2:EE]], ce mod a été rendu obsolète pour les jeux dotés du patch 2.6 ou ultérieur."
+                "Depuis la sortie du mod [[Correction de la traduction de Baldur's Gate II : Enhanced Edition]], ce mod a été rendu obsolète pour les jeux dotés du patch 2.6 ou ultérieur."
             ]
         }
     },
@@ -12156,10 +12156,10 @@
     },
     {
         "id": 839,
-        "description": "This French mod created on [LCC](https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/12344-kit-pretre-de-bhaal-clerc.html) adds an evil cleric profile that can cast Chaos, mock Fireball and mock Chain Lightning, and is immune to poison. It has custom HLA.",
+        "description": "This mod adds an evil cleric profile that can cast Chaos, mock Fireball and mock Chain Lightning, and is immune to poison. It has custom HLA.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod français créé sur [LCC](https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/12344-kit-pretre-de-bhaal-clerc.html) ajoute un profil de clerc mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs, et est immunisé au poison. Il a des HLA personnalisées."
+            "source": "Ce mod ajoute un profil de clerc mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs, et est immunisé au poison. Il a des HLA personnalisées."
         },
         "notes": [],
         "notes_meta": {
@@ -12233,10 +12233,10 @@
     },
     {
         "id": 844,
-        "description": "Formerly Quayle Redone, this mod allows you to recruit Quayle in place of Aerie, who must be dead. The gnome has a mini-quest and dialogs with Bioware NPCs and the PJ for both SoA and ToB. A quick look at his stats: STR 8, DEX 15, CON 11, INT 17, WIS 10 and CHA 6.",
+        "description": "Formerly Quayle Redone, this mod allows you to recruit Quayle in place of Aerie, who must be dead. The gnome has a mini-quest and dialogs with Bioware NPCs and the PJ for both SoA and ToB.|STR 8, DEX 15, CON 11, INT 17, WIS 10, CHA 6.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Anciennement Quayle Redone, ce mod permet de recruter Quayle en lieu et place d'Aerie qui doit être morte. Le gnome dispose d'une mini-quête et de dialogues avec les PNJ de Bioware et le PJ pour SoA comme pour ToB. Un petit coup d'œil sur ses stats : FOR 8, DEX 15, CON 11, INT 17, SAG 10 et CHA 6."
+            "source": "Anciennement Quayle Redone, ce mod permet de recruter Quayle en lieu et place d'Aerie qui doit être morte. Le gnome dispose d'une mini-quête et de dialogues avec les PNJ de Bioware et le PJ pour SoA comme pour ToB.|FOR 8, DEX 15, CON 11, INT 17, SAG 10, CHA 6."
         },
         "notes": [],
         "notes_meta": {
@@ -12246,18 +12246,20 @@
     },
     {
         "id": 845,
-        "description": "This SimDing0 mod not only adds a multitude of small quests, but also modifies the AI of certain monsters, adding certain abilities (for example, mummies can now cast a kind of stun blast on you... gnark). You'll also be able to make other choices in existing quests, such as betraying Edwin, or even Renal Bloodscalp himself... at your peril.|Note: the latest versions include the old mod [[Kensai Ryu's Restored Drow Innates Abilities]].",
+        "description": "This SimDing0 mod not only adds a multitude of small quests, but also modifies the AI of certain monsters, adding certain abilities (for example, mummies can now cast a kind of stun blast on you... gnark). You'll also be able to make other choices in existing quests, such as betraying Edwin, or even Renal Bloodscalp himself... at your peril.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod de SimDing0 ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls.|Note : les dernières versions incluent l'ancien mod [[Kensai Ryu's Restored Drow Innates Abilities]]."
+            "source": "Ce mod de SimDing0 ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls."
         },
         "notes": [
-            "Warning: the component `New Fate for Dryad Acorns` prevents access to the Firkraag dungeon until the quest has been resolved."
+            "Warning: the component `New Fate for Dryad Acorns` prevents access to the Firkraag dungeon until the quest has been resolved.",
+            "The latest versions include the old mod [[Kensai Ryu's Restored Drow Innates Abilities]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : le composant `Nouveau destin pour les glands des Dryades` empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue."
+                "Attention : le composant `Nouveau destin pour les glands des Dryades` empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue.",
+                "Les dernières versions incluent l'ancien mod [[Kensai Ryu's Restored Drow Innates Abilities]]."
             ]
         }
     },
@@ -12342,10 +12344,10 @@
     },
     {
         "id": 851,
-        "description": "This mod makes the 33 profiles of the [[Return to Trademeet]] conversion module available. A few examples? Here we go: Amazon, Gladiator, Samurai (fighters), Anti-paladin, Messiah and Black Paladin (paladins); Timekeeper and Elementalist (rangers); Ninja and Treasure Hunter (thieves); Storyteller, Juggler and Golem Master (bards), Shadow Druid, and many more.",
+        "description": "This mod makes 30 kits of the [[Return to Trademeet]] conversion module available. A few examples? Here we go: Amazon, Gladiator, Samurai (fighters), Anti-paladin, Messiah and Black Knight (paladins); Time Keeper and Elementalist (rangers); Ninja and Treasure Hunter (thieves); Minstrel, Juggler and Golem Trainer (bards), Dark Druid, and many more.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod rend disponibles les 33 profils du module de conversion [[Return to Trademeet]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres."
+            "source": "Ce mod rend disponibles 30 profils du module de conversion [[Return to Trademeet]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres."
         },
         "notes": [
             "Whatever kits you install, you MUST install the final component.",
@@ -14832,13 +14834,13 @@
         },
         "notes": [
             "For BG2:EE only, use the adaptation of the Beamdog link, the work of a new author, Musigny, who treats all the components of the original mod as you go along.",
-            "EET-compatible kits translated into French are available in [[Tactics Kits]]."
+            "EET-compatible kits translated into French are available in [[Tactics kits]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
                 "Pour BG2:EE seulement, utilisez l'adaptation du lien Beamdog, œuvre d'un nouvel auteur, Musigny, qui traite au fur et à mesure l'ensemble des composants du mod d'origine.",
-                "Les kits traduits en français et compatibles EET sont disponibles dans [[Tactics Kits]]."
+                "Les kits traduits en français et compatibles EET sont disponibles dans [[Tactics kits]]."
             ]
         }
     },
@@ -16620,7 +16622,7 @@
     },
     {
         "id": 1144,
-        "description": "Meet Tyris Flare, an ass-kicking, fire-magic-controlling Amazon redhead. Sound familiar? In fact, the author drew inspiration from an old Mega Drive game (Golden Axe, released in 1989). Once in your group, Tyris will chat with all Bioware NPCs and can be romanced by a human/elf/half-hal NPC.|STR 15, DEX 17, CON 14, INT 17, WIS 10, CHA 12.",
+        "description": "Meet Tyris Flare, a red-haired amazon who can kick ass and hurl fire! Sound familiar? In fact, the author drew inspiration from an old Mega Drive game (Golden Axe, released in 1989). Once in your party, Tyris will banter with all BioWare NPCs and can be romanced by any human/elf/half-elf male PC.|STR 15, DEX 17, CON 14, INT 17, WIS 10, CHA 12.",
         "description_meta": {
             "status": "needs_review",
             "source": "Rencontrez Tyris Flare, une rouquine amazone botteuse de fesses et contrôlant la magie du feu. Ce nom vous semble familier ? L'auteur s'est en effet inspiré d'un vieux jeu sur Mega Drive (Golden Axe sorti en 1989). Une fois dans votre groupe, Tyris discutera avec tous les PNJ de Bioware et pourra être romancée par un PNJ humain/elfe/demi-elfe.|FOR 15, DEX 17, CON 14, INT 17, SAG 10, CHA 12."
@@ -19427,12 +19429,12 @@
             "source": "Ce mod vise à utiliser des opérations de couleur plus cohérentes, des filtres d'accentuation et de mise à l'échelle alternatifs via les fichiers de shaders introduits dans BG(2)EE."
         },
         "notes": [
-            "Although inspired by the [[Shader Pack: Lighting Adjustments]] mod, these two mods are incompatible."
+            "Although inspired by the [[Shader Pack: Lighting Adjustments for the Enhanced Editions]] mod, these two mods are incompatible."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Bien qu'inspiré par le mod [[Shader Pack: Lighting Adjustments]], ces deux mods sont incompatibles."
+                "Bien qu'inspiré par le mod [[Shader Pack: Lighting Adjustments for the Enhanced Editions]], ces deux mods sont incompatibles."
             ]
         }
     },

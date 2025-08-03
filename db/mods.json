@@ -6489,7 +6489,7 @@
     },
     {
         "id": 202,
-        "name": "Bubb's Auto Looting",
+        "name": "Bubb's Auto Loot",
         "description": "Ce mod vise à faciliter le ramassage du butin afin de réduire la quantité d'objets que le joueur rate et laisse sur le sol, en particulier les petits tas d'or. Vous pouvez filtrer le pillage automatique par objet critique, niveau d'enchantement des armes, or, prix et prix par poids. Pour le moment, le pillage automatique ne concerne que les objets au sol.",
         "urls": [
             "https://forums.beamdog.com/discussion/69899/",
@@ -8285,7 +8285,7 @@
     },
     {
         "id": 259,
-        "name": "Correction de la traduction de BG2:EE",
+        "name": "Correction de la traduction de Baldur's Gate II : Enhanced Edition",
         "description": "Ce mod a pour objectif de corriger la traduction française de Baldur's Gate II : Enhanced Edition, ainsi que de proposer une version française complète digne de ce nom, aussi bien au niveau des textes que du doublage audio.|Il reprend les textes, les vidéos et le doublage audio de Baldur's Gate 2 et du [[Mod semi-officiel de traduction partielle de BG2:EE]] comme base. Ceux-ci ont été fusionnés avec la traduction officielle du patch 2.6 pour la partie manquante du contenu Enhanced Edition et le Patch correctif des textes pour Baldur's Gate 2 (et ToB).|À cela s'ajoutent des dizaines de milliers de correctifs supplémentaires des textes, du doublage audio et des bogues. Ainsi que quelques ajouts comme les ensembles de voix de BG1 en français, des répliques doublées supplémentaires, etc.|Ce mod vous offre également 3 options au sujet du doublage vidéo et audio (VF / VF + VO / VO). Pour plus de précisions, consultez le [readme](https://r-e-d.github.io/correctfrBG2EE/correctfrbg2ee/readme/readme-correctfrbg2ee.html).",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33428",
@@ -13737,7 +13737,7 @@
         ],
         "team": [],
         "notes": [
-            "Il est existe un mod similaire pour les versions EE : [[Protagonist Can Die]]."
+            "Il existe un mod similaire pour les versions EE : [[Protagonist can die]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -21767,7 +21767,7 @@
     },
     {
         "id": 687,
-        "name": "Might and Guile",
+        "name": "Might & Guile",
         "description": "Ce mod apporte des modifications de règles et de nouveaux kits pour combattants, rôdeurs, bardes et roublards. Vous avez le choix d'installer ou pas des dizaines de composants selon votre manière de jouer. Il est régulièrement mis à jour.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27573-unearthed-arcana-presents-might-guile-tweaks-and-kits-for-warriors-and-rogues/",
@@ -22256,7 +22256,7 @@
         "team": [],
         "notes": [
             "Ce mod est prévu pour fonctionner avec BG2:EE v2.3.67.3 et v2.5.16.6.",
-            "Depuis la sortie du mod [[Correction de la traduction de BG2:EE]], ce mod a été rendu obsolète pour les jeux dotés du patch 2.6 ou ultérieur."
+            "Depuis la sortie du mod [[Correction de la traduction de Baldur's Gate II : Enhanced Edition]], ce mod a été rendu obsolète pour les jeux dotés du patch 2.6 ou ultérieur."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -23988,7 +23988,7 @@
     },
     {
         "id": 756,
-        "name": "Usable Scarlet-Ninja To",
+        "name": "Usable Scarlet-Ninja To+3",
         "description": "Ce mini mod rend le Ninja-to violet +3 utilisable par tout le monde.",
         "urls": [
             "https://forums.beamdog.com/discussion/45241/"
@@ -24971,7 +24971,7 @@
         "team": [],
         "notes": [
             "Ne vous trompez pas de version sous peine d'avoir un mélange de voix dans le jeu !",
-            "Depuis la sortie du mod [[Correction de la traduction de BG2:EE]], ce mod a été rendu obsolète pour les jeux dotés du patch 2.6 ou ultérieur."
+            "Depuis la sortie du mod [[Correction de la traduction de Baldur's Gate II : Enhanced Edition]], ce mod a été rendu obsolète pour les jeux dotés du patch 2.6 ou ultérieur."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -26612,7 +26612,7 @@
     {
         "id": 839,
         "name": "Prêtre de Bhaal",
-        "description": "Ce mod français créé sur [LCC](https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/12344-kit-pretre-de-bhaal-clerc.html) ajoute un profil de clerc mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs, et est immunisé au poison. Il a des HLA personnalisées.",
+        "description": "Ce mod ajoute un profil de clerc mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs, et est immunisé au poison. Il a des HLA personnalisées.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=12344",
             "https://github.com/Plutonium-X/KIT_Bhaal"
@@ -26778,7 +26778,7 @@
     {
         "id": 844,
         "name": "Quayle BG2",
-        "description": "Anciennement Quayle Redone, ce mod permet de recruter Quayle en lieu et place d'Aerie qui doit être morte. Le gnome dispose d'une mini-quête et de dialogues avec les PNJ de Bioware et le PJ pour SoA comme pour ToB. Un petit coup d'œil sur ses stats : FOR 8, DEX 15, CON 11, INT 17, SAG 10 et CHA 6.",
+        "description": "Anciennement Quayle Redone, ce mod permet de recruter Quayle en lieu et place d'Aerie qui doit être morte. Le gnome dispose d'une mini-quête et de dialogues avec les PNJ de Bioware et le PJ pour SoA comme pour ToB.|FOR 8, DEX 15, CON 11, INT 17, SAG 10, CHA 6.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=11",
             "https://downloads.weaselmods.net/download/quayle-bg2/"
@@ -26809,7 +26809,7 @@
     {
         "id": 845,
         "name": "Ding0's Quest Pack",
-        "description": "Ce mod de SimDing0 ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls.|Note : les dernières versions incluent l'ancien mod [[Kensai Ryu's Restored Drow Innates Abilities]].",
+        "description": "Ce mod de SimDing0 ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls.",
         "urls": [
             "https://www.pocketplane.net/quest-pack/"
         ],
@@ -26829,7 +26829,8 @@
         ],
         "team": [],
         "notes": [
-            "Attention : le composant `Nouveau destin pour les glands des Dryades` empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue."
+            "Attention : le composant `Nouveau destin pour les glands des Dryades` empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue.",
+            "Les dernières versions incluent l'ancien mod [[Kensai Ryu's Restored Drow Innates Abilities]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -27010,7 +27011,7 @@
     {
         "id": 851,
         "name": "RTT Kit Pack",
-        "description": "Ce mod rend disponibles les 33 profils du module de conversion [[Return to Trademeet]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
+        "description": "Ce mod rend disponibles 30 profils du module de conversion [[Return to Trademeet]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
         "urls": [
             "https://www.shsforums.net/files/file/51-return-to-trademeet-kit-pack/",
             "https://github.com/Plutonium-X/KIT_RTT"
@@ -29600,7 +29601,7 @@
     },
     {
         "id": 930,
-        "name": "Shader Pack: Lighting Adjustments",
+        "name": "Shader Pack: Lighting Adjustments for the Enhanced Editions",
         "description": "Ce mod vise à corriger l'absence de réglage de la luminosité dans BG:EE et BG2:EE. Il propose une vingtaine de pré-réglages parmi lesquels il faudra en choisir un. Il suffit de réinstaller le mod pour en choisir un autre. Le [readme du mod](https://argent77.github.io/A7-LightingPackEE/index.html) indique aussi quels fichiers modifier pour ajuster le réglage à sa guise après installation.",
         "urls": [
             "https://www.shsforums.net/files/file/1080-shader-pack-lighting-adjustments-for-the-enhanced-editions/",
@@ -32518,7 +32519,7 @@
         "team": [],
         "notes": [
             "Pour BG2:EE seulement, utilisez l'adaptation du lien Beamdog, œuvre d'un nouvel auteur, Musigny, qui traite au fur et à mesure l'ensemble des composants du mod d'origine.",
-            "Les kits traduits en français et compatibles EET sont disponibles dans [[Tactics Kits]]."
+            "Les kits traduits en français et compatibles EET sont disponibles dans [[Tactics kits]]."
         ],
         "translation_state": "auto",
         "safe": 1,
@@ -33455,7 +33456,7 @@
     },
     {
         "id": 1050,
-        "name": "Beaurin Legacy",
+        "name": "The Beaurin Legacy",
         "description": "Ce mod ajoute un enchanteur/voleur elfe et un PNJ caché. Vous trouverez Minyae Beaurin à l'extérieur de l'auberge du Crâne tordu, aux portes de la ville. Il comprend des portraits personnalisés, une voie de l'amitié pour Minyae et le PNJ caché, de nombreuses plaisanteries et interjections, des rencontres et des quêtes, une voix pour les deux PNJ (seule Minyae dispose d'un jeu complet), une romance avec un PNJ Bioware...|FOR 11, DEX 19, CON 12, INT 17, SAG 12, CHA 16.",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/beaurin",
@@ -40556,7 +40557,7 @@
     },
     {
         "id": 1272,
-        "name": "Protagonist Can Die",
+        "name": "Protagonist can die",
         "description": "Habituellement le jeu se termine lorsque le protagoniste meurt. Ce mini-mod empêche ce fonctionnement, la fin du jeu ne se produira pas tant qu'un membre du groupe est encore en vie. Dans le cas contraire, le protagoniste pourra être ressuscité par le groupe.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/28910-protagonist-can-die/page/2/#comment-280191",
@@ -42891,7 +42892,7 @@
         ],
         "team": [],
         "notes": [
-            "Bien qu'inspiré par le mod [[Shader Pack: Lighting Adjustments]], ces deux mods sont incompatibles."
+            "Bien qu'inspiré par le mod [[Shader Pack: Lighting Adjustments for the Enhanced Editions]], ces deux mods sont incompatibles."
         ],
         "translation_state": "n/a",
         "safe": 2,
@@ -48566,7 +48567,7 @@
     },
     {
         "id": 1533,
-        "name": "Interjection lister",
+        "name": "Interjection lister utility",
         "description": "Ce petit mod Weidu permet de créer un fichier out.txt qui liste toutes les interactions avec un PNJ Bioware.",
         "urls": [
             "https://www.shsforums.net/topic/40412-interjection-lister-utility/",
@@ -50218,7 +50219,7 @@
     },
     {
         "id": 1590,
-        "name": "Tactics Kits",
+        "name": "Tactics kits",
         "description": "Certains kits de [[Tactics]] sont obsolètes avec les dernières versions de EE, ce mod les proposent à nouveau et en français. Il s'agit de l'Archer (de la classe Guerrier) et de l'Anti-Paladin.",
         "urls": [
             "https://github.com/Plutonium-X/KIT_Tactics_kits"
