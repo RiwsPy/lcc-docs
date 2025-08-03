@@ -5962,7 +5962,7 @@
     },
     {
         "id": 410,
-        "description": "Elminster himself assigns you to investigate the disappearance of the inhabitants of a village south of Athkatla. You set off immediately and come face-to-face with a demon who has taken up residence in the village lighthouse. He promises to enlighten you in return for a small favor. Thus begins your adventure, announced as anything but linear, which will take you through 100 new maps (including 5 major ones) on the trail of new quests, in which you'll come across over 200 NPCs, 17 stores, 4 cinematics... a mod to renew the BG2 experience.",
+        "description": "Elminster himself assigns you to investigate the disappearance of the inhabitants of a village south of Athkatla. You set off immediately and come face-to-face with a demon who has taken up residence in the village's lighthouse. He promises to enlighten you in return for a small favor. Thus begins your adventure, announced as anything but linear, which will take you through 100 new maps (including 5 major ones) on the trail of new quests, in which you'll come across over 200 NPCs, 17 stores, 4 cutscenes... a mod to renew the BG2 experience.",
         "description_meta": {
             "status": "needs_review",
             "source": "Elminster en personne vous charge d'enquêter sur la disparition des habitants d'un village au sud d'Athkatla. Vous partez sur le champ et tombez nez-à-nez avec un démon qui a élu domicile dans le phare du village. Ce dernier vous promet d'éclairer votre lanterne contre une petite faveur. Ainsi débute votre aventure annoncée comme toute sauf linéaire et qui vous mènera au travers d'une 100aine de nouvelles cartes (dont 5 majeures) sur la trace de nouvelles quêtes, dans lesquelles vous croiserez plus de 200 PNJ, 17 magasins, 4 cinématiques... un mod pour renouveler l'expérience BG2."
@@ -5975,10 +5975,10 @@
     },
     {
         "id": 411,
-        "description": "Formerly known as \"[Convenience Tweaks and Glaicas Fix](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/)\", this mod has been adapted for EE games. It's a (small) collection of tweaks, cheats and fixes that make some things slightly more convenient than they were in the original game, especially if you're playing for the 100th time. It includes several components: Always win against Aesgareth, Reduce the number of draws to get what you want from the Wonderful Card Game, Make Lum the Fool's Machine easier to use, Free Glaicas from his spell more easily, Game weapons no longer benefit from strength bonuses on touch.",
+        "description": "Formerly known as [Convenience Tweaks and Glaicas Fix](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/), this mod has been adapted for EE games. It's a (small) collection of tweaks, cheats and fixes that make some things slightly more convenient than they were in the original game, especially if you're playing for the 100th time. It includes several components:|- Always win against Aesgareth|- Reduce the number of draws to get what you want from the Wonderful Card Game|- Make Lum the Fool's Machine easier to use|- Free Glaicas from his spell more easily|- Thrown Weapon do not gain Strength bonus to THAC0",
         "description_meta": {
             "status": "needs_review",
-            "source": "Anciennement \"[Convenience Tweaks and Glaicas Fix](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/)\", ce mod a été adapté aux jeux EE. Il s'agit d'une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants : Toujours gagner contre Aesgareth, Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse, Rendre la Machine de Lum le Fou plus facile à utiliser, Libérer plus facilement Glaicas de son charme, Les armes de jeu ne bénéficient plus de bonus de force au toucher."
+            "source": "Anciennement [Convenience Tweaks and Glaicas Fix](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/), ce mod a été adapté aux jeux EE. Il s'agit d'une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants :|- Toujours gagner contre Aesgareth|- Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse|- Rendre la Machine de Lum le Fou plus facile à utiliser|- Libérer plus facilement Glaicas de son charme|- Les armes de jet ne bénéficient plus de bonus de force au toucher"
         },
         "notes": [],
         "notes_meta": {
@@ -6005,10 +6005,10 @@
     },
     {
         "id": 413,
-        "description": "This mini mod corrects the damage inflicted by the Sangplan sword against extra-planar creatures. From now on, it will do the same extra damage against elementals, githyankis, imps, genies and tiefelins.",
+        "description": "This mini mod corrects the damage inflicted by the Sangplan sword against extra-planar creatures. From now on, it will do the same extra damage against solars, planatars, elementals, githyankis, imps, genies and tieflings.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mini mod corrige les dégâts infligés par l'épée Sangplan contre les créatures extra planaires. Désormais, elles causera les mêmes dégâts supplémentaires contre les élémentaires, les githyankis, les diablotins, les génies et les tiefelins."
+            "source": "Ce mini mod corrige les dégâts infligés par l'épée Sangplan contre les créatures extra planaires. Désormais, elles causera les mêmes dégâts supplémentaires contre les solaires et planétaires, les élémentaires, les githyankis, les diablotins, les génies et les tiefelins."
         },
         "notes": [],
         "notes_meta": {
@@ -6023,7 +6023,7 @@
         "description": "Created in 4 days for a modding contest on the theme of \"History\", this mod adds a lawful good bard who sings worse than an unsuccessful American Idol contestant! Interactions with everyone and a specific kit. Beware, his stats are pitiful: are you prepared to put up with him?",
         "description_meta": {
             "status": "needs_review",
-            "source": "Créé en 4 jours pour un concours de modding sur le thème \"Histoire\", ce mod ajoute au jeu un barde loyal bon qui chante encore plus mal qu'un candidat malheureux à la Nouvelle Star ! Des interactions avec tout le monde et un kit spécifique. Attention, ses statistiques sont lamentables : êtes-vous prêt à le supporter (le traîner ) ?"
+            "source": "Créé en 4 jours pour un concours de modding sur le thème \"Histoire\", ce mod ajoute au jeu un barde loyal bon qui chante encore plus mal qu'un candidat malheureux à la Nouvelle Star ! Des interactions avec tout le monde et un kit spécifique. Attention, ses statistiques sont lamentables : êtes-vous prêt à le supporter (le traîner) ?"
         },
         "notes": [],
         "notes_meta": {
@@ -6059,9 +6059,9 @@
     },
     {
         "id": 417,
-        "description": "This mod adds a set of 8 powerful new artifacts to IWD:EE. You'll first need to find all the items you need to restore them to their former glory, like Wave or the Equalizer in BG2. Elements for the new items are scattered throughout the game, including in the HoW and TotL campaigns.|An optional component enhances Icasaracht's scale armor.",
+        "description": "This mod adds a set of 8 new powerful artifacts to your IWD:EE game. But you don't just find them and put them to use. First you have to find all the needed elements and return them to their former glory: just like the Wave or The Equalizer in BG2. Elements of the new items are scattered throughout the whole game, including HoW and TotL campaigns.|An optional component enhances Icasaracht's scale armor.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute un ensemble de 8 nouveaux artefacts puissants dans IWD:EE. Vous devrez d'abord trouver tous les éléments nécessaires pour les redonner leur gloire d'antan, comme Vague ou l'Égaliseur dans BG2. Les éléments des nouveaux objets sont disséminés dans l'ensemble du jeu, y compris dans les campagnes HoW et TotL.|Un composant optionnel améliore l'armure d'écailles d'Icasaracht."
         },
         "notes": [],
@@ -6093,10 +6093,10 @@
     },
     {
         "id": 419,
-        "description": "This mod is part of the Colours of Infinity series, developed by Lava Del'Vortel. Cold and calculating, Foundling is a slave of Thaxll'ssillvia, the shadow dragon, who wants to free himself from his influence. He can't stand up to his master alone, but the arrival of Bhaal's child could perhaps change his situation. He's an adept of shadow magic who can't cast traditional mage spells, but has a whole range of alternatives at his disposal. The mod provides quests, locations and encounters. His quest begins as soon as his master dies.",
+        "description": "This mod is part of the Colours of Infinity series, developed by Lava Del'Vortel. Cold and calculating, Foundling is a slave of Thaxll'ssillvia, the Shadow Dragon, who wants to free himself from his influence. He can never oppose his master on his own, but everything can change thanks to the influence of the Bhaalspawn. He's an adept of shadow magic who can't cast traditional mage spells, but has a whole range of alternatives at his disposal and he has his own HLA. The mod introduces new characters, areas, music, items, soundset etc. His quest begins as soon as his master dies.|STR 14, DEX 17, CON 11, INT 17, WIS 11, CHA 7.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod fait partie de la série Colours of Infinity, développée par Lava Del'Vortel. Froid et calculateur, Foundling est un esclave de Thaxll'ssillvia, le dragon d'ombre, qui veut se libérer de son influence. il ne peut pas s'opposer seul à son maître, mais l'arrivée de l'enfant de Bhaal pourrait peut-être changer sa situation. C'est un adepte de la magie de l'ombre qui ne peut pas lancer les sorts de mage traditionnel, mais dispose de toute une gamme alternative. Le mod apporte des quêtes, des lieux, des rencontres. Sa quête commence dès la mort de son maître."
+            "source": "Ce mod fait partie de la série Colours of Infinity, développée par Lava Del'Vortel. Froid et calculateur, Foundling est un esclave de Thaxll'ssillvia, le dragon d'ombre, qui veut se libérer de son influence. il ne peut pas s'opposer seul à son maître, mais l'arrivée de l'enfant de Bhaal pourrait peut-être changer sa situation. C'est un adepte de la magie de l'ombre qui ne peut pas lancer les sorts de mage traditionnel, mais dispose de toute une gamme alternative et ses propres HLA. Le mod apporte de nouvelles quêtes, lieux, rencontres, objets etc. Sa quête commence dès la mort de son maître.|FOR 14, DEX 17, CON 11, INT 17, SAG 11, CHA 7."
         },
         "notes": [],
         "notes_meta": {
@@ -6145,7 +6145,7 @@
     },
     {
         "id": 423,
-        "description": "The Irenicus Dungeon doppelganger becomes a recruitable character. But beware: its writing leaves much to be desired and it is incompatible with a number of mods.",
+        "description": "The doppelganger Frennedan from Irenicus' dungeon becomes a recruitable NPC. But beware: its writing leaves much to be desired and it is incompatible with a number of mods.",
         "description_meta": {
             "status": "needs_review",
             "source": "Le doppelganger du Donjon d'Irenicus devient un personnage recrutable. Mais faites attention : son écriture laisse à désirer et il est incompatible avec bon nombre de mods."
@@ -6158,27 +6158,23 @@
     },
     {
         "id": 424,
-        "description": "This mod offers a complete overhaul of the defense system (armor, shields), and consequently of the combat system and tactics in general. Light, enchanted armor really helps you hide. Heavy, enchanted armor won't help you dodge much, but it will absorb perhaps half or more of the damage, while slowing you down and tiring you out. Stealth, flight and magic in heavy armor will be possible, but with difficulty. Its very nature makes it incompatible with other important mods. Check the [readme](https://gibberlings3.github.io/Documentation/readmes/readme-fullplate.htmls) to avoid making a mistake.",
+        "description": "This mod offers a complete overhaul of the defense system (armor, shields), and consequently of the combat system and tactics in general. Light, enchanted armor really helps you hide. Heavy, enchanted armor won't help you dodge much, but it will absorb perhaps half or more of the damage, while slowing you down and tiring you out. Stealth, flight and magic in heavy armor will be possible, but with difficulty. Its very nature makes it incompatible with other important mods.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod propose une refonte complète du système de défense (armures, boucliers), et, par conséquent, du système de combat et des tactiques en général. Une armure légère et enchantée vous aidera réellement à vous cacher. Une armure lourde et enchantée ne vous aidera pas beaucoup à esquiver, mais elle absorbera peut-être la moitié ou plus des dégâts, tout en vous ralentissant et en vous fatiguant. La furtivité, le vol et la magie en armure lourde seront possibles, mais avec difficulté. Il dispose par ailleurs d'une petite collection d'améliorations.|Sa nature même le rend incompatible avec d'autres mods importants. Consultez le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-fullplate.htmls) pour ne pas faire d'erreur."
+            "source": "Ce mod propose une refonte complète du système de défense (armures, boucliers), et, par conséquent, du système de combat et des tactiques en général. Une armure légère et enchantée vous aidera réellement à vous cacher. Une armure lourde et enchantée ne vous aidera pas beaucoup à esquiver, mais elle absorbera peut-être la moitié ou plus des dégâts, tout en vous ralentissant et en vous fatiguant. La furtivité, le vol et la magie en armure lourde seront possibles, mais avec difficulté. Il dispose par ailleurs d'une petite collection d'améliorations.|Sa nature même le rend incompatible avec d'autres mods importants."
         },
-        "notes": [
-            "Warning: there is a pirated version for EE games whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk, and don't complain!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : il existe une version piratée pour les jeux EE dont l'auteur n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
         "id": 425,
-        "description": "This mod adds a new companion to BG2EE: Fyalvara, a human fighter from the distant land of Rashmenia. On installation, she can be a fighter without kit, a witch slayer, or a totemic druidess twin fighter.",
+        "description": "The mod adds a new companion to BG2EE: Fyalvara, a human warrioress from the distant land of Rashemen. Upon install, she can be a kitless fighter, a wizard slayer, or a totemic druid / fighter dual-class (may only level up as a fighter).|Fyalvara can be found in the docks district.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod ajoute un nouveau compagnon à BG2EE : Fyalvara, une guerrière humaine de la lointaine terre de Rashéménie. À l'installation, elle peut être une combattante sans kit, une tueuse de sorciers, ou une combattante jumelée druidesse totémique."
+            "status": "done",
+            "source": "Ce mod ajoute un nouveau compagnon à BG2EE : Fyalvara, une guerrière humaine de la lointaine terre de Rashéménie. À l'installation, elle peut être une combattante sans kit, une tueuse de sorciers, ou une combattante jumelée druidesse totémique (ne peut passer au niveau supérieur qu'en tant que combattante).|Fyalvara se trouve dans le quartier des Docks."
         },
         "notes": [],
         "notes_meta": {
@@ -13752,10 +13748,10 @@
     },
     {
         "id": 947,
-        "description": "This mod adds a special new NPC: Sheena is a young woman... half-dragon. Yes, you read that right. She's full of passion and stories. Would you like to share your adventure with her? Her characteristics are FOR 16, DEX 12, CON 16, INT 15, SAG 10 and CHA 15. She also has 5% magic resistance, 50% fire resistance and is immune to mental spells. She also has a much more powerful dragon form. Fortunately, she has a few drawbacks to compensate for this power (notably 10% less XP received). She's a multi-classed fighter/mage, neutral, good-looking and very pretty (in her human form). You can recruit her in the Firkraag dungeon after slicing up her daddy. She can have a romance with a male PJ of good or neutral alignment, who doesn't already have another romance underway, and only if Mazzy is also in the group (incidentally, the banters between the huge half-dragoness and the miniature knight, who quickly become buddies, are pretty funny).",
+        "description": "This mod adds a special new NPC: Sheena is a young woman... half-dragon. Yes, you read that right. She's full of passion and stories. Would you like to share your adventure with her?|STR 16, DEX 12, CON 16, INT 15, WIS 10, CHA 15. She also has 5% magic resistance, 50% fire resistance and is immune to mental spells. She also has a much more powerful dragon form. Fortunately, she has a few drawbacks to compensate for this power (notably 10% less XP received). She's a multi-classed fighter/mage, neutral, good-looking and very pretty (in her human form). You can recruit her in the Firkraag dungeon after slicing up her daddy. She can have a romance with a male PJ of good or neutral alignment, who doesn't already have another romance underway, and only if Mazzy is also in the group (incidentally, the banters between the huge half-dragoness and the miniature knight, who quickly become buddies, are pretty funny).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ? Ses caractéristiques sont FOR 16, DEX 12, CON 16, INT 15, SAG 10 et CHA 15. Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles)."
+            "source": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ?|FOR 16, DEX 12, CON 16, INT 15, SAG 10, CHA 15. Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles)."
         },
         "notes": [
             "Use the Beamdog link to download the version for EE games. The last link contains version 2.6 with Russian translation."

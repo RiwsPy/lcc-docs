@@ -2510,7 +2510,7 @@
     },
     {
         "id": 77,
-        "name": "Askaria Quest NPC & Chaos Knight kit",
+        "name": "Askaria Npc and Quest & ChaosKnight Kit and Npc",
         "description": "Il s'agit d'un pack de deux mods coréens pour BGT (traduits en anglais) : installez d'abord le profil, puisque Askaria en a besoin.|- Chaos Knight kit : ce mod ajoute le profil de Chevalier du Chaos et Jacob, un PNJ recrutable près du manoir de Bérégost, inspiré de Dota dans WoW3.|- Askaria Quest NPC : Au premier étage de l'Auberge de Feldpost à Bérégost, Askaria de l'aide contre des bandits. Une fois ces derniers éliminés, elle vous rejoindra pour retrouver ses parents.",
         "urls": [
             "https://www.shsforums.net/topic/51321-askaria-quest-chaosknight-kit-mod-v13/",
@@ -13146,7 +13146,7 @@
     {
         "id": 411,
         "name": "Flamewing's Tweaks",
-        "description": "Anciennement \"[Convenience Tweaks and Glaicas Fix](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/)\", ce mod a été adapté aux jeux EE. Il s'agit d'une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants : Toujours gagner contre Aesgareth, Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse, Rendre la Machine de Lum le Fou plus facile à utiliser, Libérer plus facilement Glaicas de son charme, Les armes de jeu ne bénéficient plus de bonus de force au toucher.",
+        "description": "Anciennement [Convenience Tweaks and Glaicas Fix](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/), ce mod a été adapté aux jeux EE. Il s'agit d'une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants :|- Toujours gagner contre Aesgareth|- Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse|- Rendre la Machine de Lum le Fou plus facile à utiliser|- Libérer plus facilement Glaicas de son charme|- Les armes de jet ne bénéficient plus de bonus de force au toucher",
         "urls": [
             "https://github.com/flamewing/m7tweaks/"
         ],
@@ -13165,7 +13165,9 @@
             "FlameWing"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Attention, le dernier composant est absent de la dernière release du mod."
+        ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -13209,7 +13211,7 @@
     {
         "id": 413,
         "name": "Foebane +3 and +5 improvement mod",
-        "description": "Ce mini mod corrige les dégâts infligés par l'épée Sangplan contre les créatures extra planaires. Désormais, elles causera les mêmes dégâts supplémentaires contre les élémentaires, les githyankis, les diablotins, les génies et les tiefelins.",
+        "description": "Ce mini mod corrige les dégâts infligés par l'épée Sangplan contre les créatures extra planaires. Désormais, elles causera les mêmes dégâts supplémentaires contre les solaires et planétaires, les élémentaires, les githyankis, les diablotins, les génies et les tiefelins.",
         "urls": [
             "https://forums.beamdog.com/discussion/31391/"
         ],
@@ -13323,6 +13325,7 @@
         "name": "ForgeIt-IWD",
         "description": "Ce mod ajoute un ensemble de 8 nouveaux artefacts puissants dans IWD:EE. Vous devrez d'abord trouver tous les éléments nécessaires pour les redonner leur gloire d'antan, comme Vague ou l'Égaliseur dans BG2. Les éléments des nouveaux objets sont disséminés dans l'ensemble du jeu, y compris dans les campagnes HoW et TotL.|Un composant optionnel améliore l'armure d'écailles d'Icasaracht.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=39",
             "https://downloads.weaselmods.net/download/forgeit-iwd/"
         ],
         "categories": [
@@ -13387,8 +13390,9 @@
     {
         "id": 419,
         "name": "Foundling: Between the Shades",
-        "description": "Ce mod fait partie de la série Colours of Infinity, développée par Lava Del'Vortel. Froid et calculateur, Foundling est un esclave de Thaxll'ssillvia, le dragon d'ombre, qui veut se libérer de son influence. il ne peut pas s'opposer seul à son maître, mais l'arrivée de l'enfant de Bhaal pourrait peut-être changer sa situation. C'est un adepte de la magie de l'ombre qui ne peut pas lancer les sorts de mage traditionnel, mais dispose de toute une gamme alternative. Le mod apporte des quêtes, des lieux, des rencontres. Sa quête commence dès la mort de son maître.",
+        "description": "Ce mod fait partie de la série Colours of Infinity, développée par Lava Del'Vortel. Froid et calculateur, Foundling est un esclave de Thaxll'ssillvia, le dragon d'ombre, qui veut se libérer de son influence. il ne peut pas s'opposer seul à son maître, mais l'arrivée de l'enfant de Bhaal pourrait peut-être changer sa situation. C'est un adepte de la magie de l'ombre qui ne peut pas lancer les sorts de mage traditionnel, mais dispose de toute une gamme alternative et ses propres HLA. Le mod apporte de nouvelles quêtes, lieux, rencontres, objets etc. Sa quête commence dès la mort de son maître.|FOR 14, DEX 17, CON 11, INT 17, SAG 11, CHA 7.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=6",
             "https://downloads.weaselmods.net/download/foundling-between-the-shades/"
         ],
         "categories": [
@@ -13456,7 +13460,8 @@
             "https://america.iegmc.com/fr-rov/FreedomsReign_ROV_V8.rar"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "Forgeron et marchand",
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -13542,7 +13547,7 @@
     {
         "id": 424,
         "name": "Full Plate and Packing Steel",
-        "description": "Ce mod propose une refonte complète du système de défense (armures, boucliers), et, par conséquent, du système de combat et des tactiques en général. Une armure légère et enchantée vous aidera réellement à vous cacher. Une armure lourde et enchantée ne vous aidera pas beaucoup à esquiver, mais elle absorbera peut-être la moitié ou plus des dégâts, tout en vous ralentissant et en vous fatiguant. La furtivité, le vol et la magie en armure lourde seront possibles, mais avec difficulté. Il dispose par ailleurs d'une petite collection d'améliorations.|Sa nature même le rend incompatible avec d'autres mods importants. Consultez le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-fullplate.htmls) pour ne pas faire d'erreur.",
+        "description": "Ce mod propose une refonte complète du système de défense (armures, boucliers), et, par conséquent, du système de combat et des tactiques en général. Une armure légère et enchantée vous aidera réellement à vous cacher. Une armure lourde et enchantée ne vous aidera pas beaucoup à esquiver, mais elle absorbera peut-être la moitié ou plus des dégâts, tout en vous ralentissant et en vous fatiguant. La furtivité, le vol et la magie en armure lourde seront possibles, mais avec difficulté. Il dispose par ailleurs d'une petite collection d'améliorations.|Sa nature même le rend incompatible avec d'autres mods importants.",
         "urls": [
             "https://www.gibberlings3.net/files/file/710-full-plate-and-packing-steel-mod-for-bg2-iwd-and-tutu/",
             "https://github.com/Gibberlings3/Full_Plate_and_Packing_Steel"
@@ -13560,9 +13565,7 @@
             "erik"
         ],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour les jeux EE dont l'auteur n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
@@ -13573,7 +13576,7 @@
     {
         "id": 425,
         "name": "Fyalvara",
-        "description": "Ce mod ajoute un nouveau compagnon à BG2EE : Fyalvara, une guerrière humaine de la lointaine terre de Rashéménie. À l'installation, elle peut être une combattante sans kit, une tueuse de sorciers, ou une combattante jumelée druidesse totémique.",
+        "description": "Ce mod ajoute un nouveau compagnon à BG2EE : Fyalvara, une guerrière humaine de la lointaine terre de Rashéménie. À l'installation, elle peut être une combattante sans kit, une tueuse de sorciers, ou une combattante jumelée druidesse totémique (ne peut passer au niveau supérieur qu'en tant que combattante).|Fyalvara se trouve dans le quartier des Docks.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=67",
             "https://downloads.weaselmods.net/download/fyalvara/"
@@ -13635,6 +13638,7 @@
         "name": "Gahesh",
         "description": "Sorcier de son état, ce demi-orque loyal bon est recrutable à la taverne de la Bonté Marine. Il dispose de contenu pour SoA et ToB, des dialogues d'amitié dans SoA et ToB, d'une courte romance pour tous les PJ féminins neutres ou bons dans ToB, et d'une mini-quête.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=36",
             "https://downloads.weaselmods.net/download/gahesh/"
         ],
         "categories": [
@@ -27010,7 +27014,7 @@
     },
     {
         "id": 851,
-        "name": "RTT Kit Pack",
+        "name": "RTT Kitpack",
         "description": "Ce mod rend disponibles 30 profils du module de conversion [[Return to Trademeet]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
         "urls": [
             "https://www.shsforums.net/files/file/51-return-to-trademeet-kit-pack/",
@@ -30133,7 +30137,7 @@
     {
         "id": 947,
         "name": "Sheena - The Half Dragon Tale",
-        "description": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ? Ses caractéristiques sont FOR 16, DEX 12, CON 16, INT 15, SAG 10 et CHA 15. Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).",
+        "description": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ?|FOR 16, DEX 12, CON 16, INT 15, SAG 10, CHA 15. Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/download.php",
             "https://forums.beamdog.com/discussion/60784/",
@@ -48982,7 +48986,7 @@
     },
     {
         "id": 1547,
-        "name": "Fixing Saves BUG for Lecgacy of Bhaal difficulty",
+        "name": "Fixing Saving throws BUG for Lecgacy of Bhaal difficulty",
         "description": "Ce mod propose un fix pour la difficulté Legacy Of Bhaal qui ajustait les jets de sauvegardes à 20. Ce mod modifie les scripts de la plupart des créatures, leur permettant de modifier leurs propres jets de sauvegarde au fur et à mesure qu'ils apparaissent.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38985-legacyofbhaalfix-v04-fixing-saving-throws-bug-for-lecgacy-of-bhaal-difficulty",
