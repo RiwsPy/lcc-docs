@@ -18,7 +18,7 @@ Les données contenues dans ce fichier sont considérées comme les plus fiables
 - `Description` : la description (succinte) du mod
 - `HomePage` : url de présentation du mod
 
-En tant que contributeur, il est conseillé de l'utilliser autant que possible.\
+En tant que contributeur, il est conseillé de l'utiliser autant que possible.\
 En tant que moddeur, il est encouragé de le remplir.
 
 
