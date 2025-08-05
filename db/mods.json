@@ -35015,7 +35015,7 @@
     {
         "id": 1097,
         "name": "The Workshop Kitpack",
-        "description": "C'est un pack de Kits sur lequel je travaille depuis un moment. Il comporte actuellement 17 kits + 6 déclinaisons pour multi-classes. Il contient également plus de 20 objets, dont 6 insignes de Chasseur, 12 Runes de Caryll et 10 autres objets divers. Fortement inspiré par les jeux Soulsborne de FromSoft et probablement d'autres sources.||NOTE : Les tables de capacités pour ces kits sont créées au moment de l'installation. Chaque kit clone la table de la classe de base (si elle existe). Cela signifie que toute modification de classe installée au préalable sera incluse dans les kits du mod.||Ce mod dispose de plusieurs kits originaux et plutôt sympas !||[Voir le readme pour le détail des kits !](https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md)",
+        "description": "C'est un pack de Kits qui comporte actuellement 17 kits + 11 déclinaisons pour multi-classes. Il contient également plus de 30 objets, dont 6 insignes de Chasseur, 12 Runes de Caryll et 17 autres objets divers. Fortement inspiré par les jeux Soulsborne de FromSoft et probablement d'autres sources.||NOTE : Les tables de capacités pour ces kits sont créées au moment de l'installation. Chaque kit clone la table de la classe de base (si elle existe). Cela signifie que toute modification de classe installée au préalable sera incluse dans les kits du mod.||Ce mod dispose de plusieurs kits originaux et plutôt sympas !||[Voir le readme pour le détail des kits !](https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md)",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/36122-the-workshop-kitpack-v516-soulsborne-inspired-kit-and-item-pack/",
             "https://github.com/D2-mods/The-Workshop-Kitpack"
@@ -35111,7 +35111,7 @@
     {
         "id": 1100,
         "name": "Thieving Mod for IWDEE",
-        "description": "Ce mod permet de voler les bracelets, les ceintures, les armes, les munitions et les capes portés par les pnjs neutres ou amical. De plus, il rend possible de voler les anneaux de résistance au feu d'Orrick et d'Oswald.",
+        "description": "Ce mod permet de voler les bracelets, les ceintures, les armes, les munitions et les capes portés par les pnjs neutres ou amicaux. De plus, il rend possible de voler les anneaux de résistance au feu d'Orrick et d'Oswald.",
         "urls": [
             "https://forums.beamdog.com/discussion/36405/"
         ],
@@ -35416,7 +35416,7 @@
     {
         "id": 1110,
         "name": "Throne of Bhaal Tourist",
-        "description": "Ce mini mod permet de se rendre dans les zones de SoA à partir de ToB. Pour cela, il vous suffit d'acheter un livre chez Lazarus. Ce mod peut également être utile sur EET si vous jouez à EET, mais commencez par la section ToB.",
+        "description": "Ce mini mod permet de se rendre dans les zones de SoA à partir de ToB. Pour cela, il vous suffit d'acheter un livre chez Lazarus.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=390",
             "https://github.com/Black-Wyrm-Lair/ToB-Tourist"
@@ -35433,9 +35433,7 @@
             "Ron Joyal"
         ],
         "team": [],
-        "notes": [
-            "La compatibilité EET n'est pas assurée mais pourrait être introduite dans l'avenir."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -35452,7 +35450,9 @@
         "name": "TobEx",
         "description": "Throne of Bhaal Extender est un outil de type patch qui corrige des bugs du moteur de jeu de BG2, et permet de corriger ou de remplacer certains mécanismes du jeu. Son utilisation est réservée aux plus aguerris, rompus aux arcanes des méga-installs et pointilleux lecteurs de Readme.",
         "urls": [
-            "https://www.shsforums.net/files/file/871-bg2tob-throne-of-bhaal-extender/"
+            "https://www.shsforums.net/files/file/871-bg2tob-throne-of-bhaal-extender/",
+            "https://github.com/Ascension64/TobEx",
+            "https://github.com/BGforgeNet/TobEx"
         ],
         "categories": [
             "Patch non officiel"
@@ -35466,7 +35466,9 @@
             "Ascension64"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Baldur's Gate II: Throne of Bhaal version 26498 est requise."
+        ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -35478,7 +35480,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2013-03",
+        "last_update": "2013-04",
         "tp2": "TobEx"
     },
     {
@@ -35722,7 +35724,7 @@
     {
         "id": 1119,
         "name": "Touchstone NPC",
-        "description": "Touchstone est un elfe sauvage guerrier qui semble ne pouvoir s'exprimer en langue commune qu'avec efforts, mais qui tentera cependant de se lier avec vous. Pas de romance néanmoins, il est annoncé comme étant sociable, même si apparemment il n'a pas énormément d'interactions avec les personnages du jeu. Vous le trouverez sur les Docks d'Athkatla. Un composant optionnel permet de lui attribuer un kit de guerrier elfe sauvage.|Le lien pointe vers un téléchargement alternatif de ce mod de Rabain publié à l'origine sur le site Borderkingdoms.net aujourd'hui indisponible.",
+        "description": "Touchstone est un elfe sauvage guerrier qui semble ne pouvoir s'exprimer en langue commune qu'avec efforts, mais qui tentera cependant de se lier avec vous. Pas de romance néanmoins, il est annoncé comme étant sociable, même si apparemment il n'a pas énormément d'interactions avec les personnages du jeu. Vous le trouverez sur les Docks d'Athkatla. Un composant optionnel permet de lui attribuer un kit de guerrier elfe sauvage.",
         "urls": [
             "https://www.shsforums.net/topic/56148-touchstone-a-mod-from-rabain/",
             "https://github.com/RoxanneSHS/Touchstone"
@@ -35782,11 +35784,10 @@
     {
         "id": 1121,
         "name": "Tower of Deception",
-        "description": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il nécessite ToB et s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins un paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?",
+        "description": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il nécessite ToB et s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins une paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?",
         "urls": [
             "http://www.blackwyrmlair.net/~valiant/",
-            "https://github.com/Black-Wyrm-Lair/TowerOfDeception",
-            "https://github.com/The-Gate-Project/TowerOfDeception"
+            "https://github.com/Black-Wyrm-Lair/TowerOfDeception"
         ],
         "categories": [
             "Quête"
@@ -35802,9 +35803,7 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Le lien gihub de The Gate Project est un peu plus en avance sur le mod le temps que la modification soit acceptée par l'auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -35920,7 +35919,7 @@
     {
         "id": 1125,
         "name": "Travellers in Faerun",
-        "description": "Selon son auteure, ce mod vise à faire de EET une histoire plus cohérente :|- il déplace certains PNJ non-recrutables et la préfiguration de leur histoire de BG2/ToB vers des parties plus anciennes du jeu.|- vous pouvez influencer certains événements des chapitres suivants en prenant des décisions plus tôt dans l'histoire (continuité dans EET).|- vous pouvez revenir avec des objets que vous trouverez plus tard dans le jeu pour accomplir des quêtes dans BG1 ou SoD.|- vous obtiendrez des quêtes qui vous obligeront à retourner dans des zones de BG/SoD plus tard dans le jeu pour les accomplir.|Le mod se compose de nombreuses petites rencontres, de quêtes plus ou moins importantes, et d'événements/décisions qui ont des conséquences durables.",
+        "description": "Selon son auteure, ce mod vise à faire de EET une histoire plus cohérente :|- il déplace certains PNJ non-recrutables et donne un aperçu de leur histoire dans BG2/ToB plus tôt dans le jeu|- vous pouvez influencer certains événements des chapitres suivants en prenant des décisions plus tôt dans l'histoire (continuité dans EET)|- vous pouvez revenir en arrière avec des objets trouvés plus tard dans le jeu pour terminer des quêtes dans BG1 ou SoD|- vous obtiendrez des quêtes qui vous obligeront à retourner dans des zones de BG/SoD plus tard dans le jeu pour les accomplir|un marchand ambulant apparait de façon aléatoire et peut conserver des objets tout au long de la partie, mais attention, l'aléatoire peut s'avérer être un allié peu fiable...|Le mod comprend de nombreuses petites rencontres, des quêtes plus ou moins longues, ainsi que des événements/décisions qui ont des effets durables.",
         "urls": [
             "https://github.com/RoxanneSHS/Travellers"
         ],
@@ -36006,7 +36005,7 @@
     {
         "id": 1128,
         "name": "Trials of the Luremaster for Baldur's Gate",
-        "description": "Ce mod permet de jouer l'extension de Icewind Dale « Les Épreuves du Maître des Leurres » dans BG2:EE (version 2.0 ou supérieure), Siege of Dragonspear et EET ([[Enhanced Edition Trilogy]]). Pour initier la quête, parlez au petit-homme Hobart Piévelu, que vous trouverez soit dans les auberges des Collines d'Umar (SoA), de Saradush (ToB) et d'Amkethran (ToB), soit au sud est du Camp de la Coalition (SoD) ou dans le Château de Vougedragon (SoD). Au cours de l'aventure, vous aurez l'opportunité d'explorer un château hanté, de tester votre courage et de faire vos preuves dans des combats difficiles et de lever une ancienne malédiction",
+        "description": "Ce mod permet de jouer l'extension de Icewind Dale « Les Épreuves du Maître des Leurres » dans BG2:EE (version 2.0 ou supérieure), Siege of Dragonspear et EET ([[Enhanced Edition Trilogy]]). Pour initier la quête, parlez au petit-homme Hobart Piévelu, que vous trouverez soit dans l'auberge des Collines d'Umar (SoA), d'Amkethran (ToB) ou au sud est du Camp de la Coalition (SoD). Au cours de l'aventure, vous aurez l'opportunité d'explorer un château hanté, de tester votre courage et de faire vos preuves dans des combats difficiles et de lever une ancienne malédiction.",
         "urls": [
             "https://www.shsforums.net/files/file/1251-trials-of-the-luremaster-for-baldurs-gate/",
             "https://github.com/Argent77/A7-TotLM-BG2EE"

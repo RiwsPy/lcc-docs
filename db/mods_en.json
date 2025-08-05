@@ -15924,10 +15924,10 @@
     },
     {
         "id": 1097,
-        "description": "It's a kit pack I've been working on for a while. It currently includes 17 kits + 6 multi-class variations. It also contains over 20 items, including 6 Hunter badges, 12 Caryll Runes and 10 other miscellaneous items. Strongly inspired by FromSoft's Soulsborne games and probably other sources.||NOTE: Ability tables for these kits are created at the time of installation. Each kit clones the base class table (if one exists). This means that any previously installed class modifications will be included in the mod's kits.||This mod features several original and rather cool kits![See readme for kit details!](https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md)",
+        "description": "This is a kitpack currently contains 17 kits + 11 multiclass variants. Also adds 30+ items, including 6 Hunter Badges, 12 Caryll Runes, and 17 other misc items. Heavily inspired by FromSoft's Soulsborne games and probably other sources.||NOTE: The abilities tables for these kits are made at install time. Every kit clones the table of the base class (if it exists). This means that any class revisions installed before this mod will be included with these kits.||This mod features several original and rather cool kits![See readme for kit details!](https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md)",
         "description_meta": {
-            "status": "needs_review",
-            "source": "C'est un pack de Kits sur lequel je travaille depuis un moment. Il comporte actuellement 17 kits + 6 déclinaisons pour multi-classes. Il contient également plus de 20 objets, dont 6 insignes de Chasseur, 12 Runes de Caryll et 10 autres objets divers. Fortement inspiré par les jeux Soulsborne de FromSoft et probablement d'autres sources.||NOTE : Les tables de capacités pour ces kits sont créées au moment de l'installation. Chaque kit clone la table de la classe de base (si elle existe). Cela signifie que toute modification de classe installée au préalable sera incluse dans les kits du mod.||Ce mod dispose de plusieurs kits originaux et plutôt sympas !||[Voir le readme pour le détail des kits !](https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md)"
+            "status": "done",
+            "source": "C'est un pack de Kits qui comporte actuellement 17 kits + 11 déclinaisons pour multi-classes. Il contient également plus de 30 objets, dont 6 insignes de Chasseur, 12 Runes de Caryll et 17 autres objets divers. Fortement inspiré par les jeux Soulsborne de FromSoft et probablement d'autres sources.||NOTE : Les tables de capacités pour ces kits sont créées au moment de l'installation. Chaque kit clone la table de la classe de base (si elle existe). Cela signifie que toute modification de classe installée au préalable sera incluse dans les kits du mod.||Ce mod dispose de plusieurs kits originaux et plutôt sympas !||[Voir le readme pour le détail des kits !](https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md)"
         },
         "notes": [],
         "notes_meta": {
@@ -15963,10 +15963,10 @@
     },
     {
         "id": 1100,
-        "description": "This mod makes it possible to steal bracelets, belts, weapons, ammunition and capes worn by neutral or friendly npcs. It also makes it possible to steal Orrick's and Oswald's fire-resistant rings.",
+        "description": "This mod makes it possible to steal bracers, belts, weapons, ammo, and cloaks off neutral or friendly targets. It also makes it possible to steal Orrick's and Oswald's rings of fire resistance.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod permet de voler les bracelets, les ceintures, les armes, les munitions et les capes portés par les pnjs neutres ou amical. De plus, il rend possible de voler les anneaux de résistance au feu d'Orrick et d'Oswald."
+            "status": "done",
+            "source": "Ce mod permet de voler les bracelets, les ceintures, les armes, les munitions et les capes portés par les pnjs neutres ou amicaux. De plus, il rend possible de voler les anneaux de résistance au feu d'Orrick et d'Oswald."
         },
         "notes": [],
         "notes_meta": {
@@ -16107,19 +16107,15 @@
     },
     {
         "id": 1110,
-        "description": "This mini-mod allows you to reach SoA areas from ToB. All you need to do is buy a book from Lazarus. This mod can also be useful on EET if you play EET, but start with the ToB section.",
+        "description": "This mini-mod allows you to reach SoA areas from ToB. All you need to do is buy a book from Lazarus.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mini mod permet de se rendre dans les zones de SoA à partir de ToB. Pour cela, il vous suffit d'acheter un livre chez Lazarus. Ce mod peut également être utile sur EET si vous jouez à EET, mais commencez par la section ToB."
+            "source": "Ce mini mod permet de se rendre dans les zones de SoA à partir de ToB. Pour cela, il vous suffit d'acheter un livre chez Lazarus."
         },
-        "notes": [
-            "EET compatibility is not guaranteed, but may be introduced in the future."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "La compatibilité EET n'est pas assurée mais pourrait être introduite dans l'avenir."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16129,10 +16125,14 @@
             "status": "needs_review",
             "source": "Throne of Bhaal Extender est un outil de type patch qui corrige des bugs du moteur de jeu de BG2, et permet de corriger ou de remplacer certains mécanismes du jeu. Son utilisation est réservée aux plus aguerris, rompus aux arcanes des méga-installs et pointilleux lecteurs de Readme."
         },
-        "notes": [],
+        "notes": [
+            "Baldur's Gate II: Throne of Bhaal version 26498 is required."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Baldur's Gate II: Throne of Bhaal version 26498 est requise."
+            ]
         }
     },
     {
@@ -16242,10 +16242,10 @@
     },
     {
         "id": 1119,
-        "description": "Touchstone is a wild elf fighter who seems only able to express himself in the common language with effort, but who will nevertheless try to bond with you. No romance though, he's advertised as sociable, even if he apparently doesn't interact much with the game's characters. You'll find him on the Athkatla Docks. The link points to an alternative download of this Rabain mod originally published on the now unavailable Borderkingdoms.net site.",
+        "description": "Touchstone is a wild elf fighter who seems only able to express himself in the common language with effort, but who will nevertheless try to bond with you. No romance though, he's advertised as sociable, even if he apparently doesn't interact much with the game's characters. You'll find him on the Athkatla Docks.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Touchstone est un elfe sauvage guerrier qui semble ne pouvoir s'exprimer en langue commune qu'avec efforts, mais qui tentera cependant de se lier avec vous. Pas de romance néanmoins, il est annoncé comme étant sociable, même si apparemment il n'a pas énormément d'interactions avec les personnages du jeu. Vous le trouverez sur les Docks d'Athkatla. Un composant optionnel permet de lui attribuer un kit de guerrier elfe sauvage.|Le lien pointe vers un téléchargement alternatif de ce mod de Rabain publié à l'origine sur le site Borderkingdoms.net aujourd'hui indisponible."
+            "source": "Touchstone est un elfe sauvage guerrier qui semble ne pouvoir s'exprimer en langue commune qu'avec efforts, mais qui tentera cependant de se lier avec vous. Pas de romance néanmoins, il est annoncé comme étant sociable, même si apparemment il n'a pas énormément d'interactions avec les personnages du jeu. Vous le trouverez sur les Docks d'Athkatla. Un composant optionnel permet de lui attribuer un kit de guerrier elfe sauvage."
         },
         "notes": [
             "The github link is EE-compatible and is an unofficial version."
@@ -16272,24 +16272,20 @@
     },
     {
         "id": 1121,
-        "description": "It's a quest to explore a tower (new graphics according to the FAQ) that attracts some to imprison them (a bit like TotSC's ice island). It requires ToB and is aimed at characters of level 10-13, equipped with fairly powerful weapons (you need at least a pair of +3 weapons), as there are some pretty hefty monsters. To start the adventure, all you have to do is go and see the mage Tian at the Inn of the Crooked Crane (at the city gates), and talk to him. He has a mission for you: to recover a book hidden in an old abandoned tower, the Tower of No Return... He's willing to pay a hefty sum for it. Will you rise to the challenge?",
+        "description": "It's a quest to explore a tower (new graphics according to the FAQ) that attracts some to imprison them (a bit like TotSC's ice island). It requires ToB and is aimed at characters of level 10-13, equipped with fairly powerful weapons (you need at least a pair of +3 weapons), as there are some pretty hefty monsters. To start the adventure, all you have to do is go and see the mage Tian at the Crooked Crane Inn (at the City Gates), and talk to him. He has a mission for you: to recover a book hidden in an old abandoned tower, the Tower of No Return... He's willing to pay a hefty sum for it. Will you rise to the challenge?",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il nécessite ToB et s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins un paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?"
+            "source": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il nécessite ToB et s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins une paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?"
         },
-        "notes": [
-            "The Gate Project's gihub link is a little ahead of the mod until the modification is accepted by the author."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Le lien gihub de The Gate Project est un peu plus en avance sur le mod le temps que la modification soit acceptée par l'auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
         "id": 1122,
-        "description": "This mod smoothes the transitions between campaigns in EET. It allows you to remain in the BG1 \"world\" after the defeat of Sarevok and in the BG2 \"world\" after the defeat of Irenicus. Progression to the SoD or BGII areas of the game is achieved using an item provided by Duke Belt after completing or skipping the clean-up quests. Progression to ToB is achieved using the Seldarine amulet donated by Queen Ellesime.|In EET, you have the option of having your own personal dwelling which contains a chest that follows you to ToB: after defeating Sarevok, you can move into the Ducal Palace (requires SoD) thanks to Duke Belt; if you've rescued Duke Eltan in EET, he'll give you the keys to a house.|A number of new clean-up quests will be available, depending on which of Sarevok's disciples you have previously eliminated. BG and TotSC quests can be completed after Sarevok's death, allowing you to control the order of events.|You can also choose whether to equip Sarevok with his equipment (including his sword) or leave it in his inventory.|Finally, after defeating Sarevok, you'll receive a new Child of Bhaal ability, different according to your alignment.",
+        "description": "This mod smoothes the transitions between campaigns in EET.  It will provide a mechanism to remain in the BGI \"world\" after Sarevok is defeated and BG2 \"world\" after Irenicus is defeated. Progressing through to SoD or BGII areas of the game is accomplished by using a custom item provided by Duke Belt after the clean-up quests are finished or skipped. Progressing through to ToB is accomplished by using the Amulet of Selderine provided by Queen Ellesime.|In EET, you have the option of having your own personal dwelling which contains a chest that follows you to ToB: after Sarevok has been defeated, you can take up residence at the Ducal Palace (requires SoD), thanks to Duke Belt; if you've rescued Duke Eltan in EET, he will show his appreciation by awarding the keys to a home.|A number of new clean-up quests will be available, depending upon which of Sarevok's followers have been previously eliminated. BG and TotSC quests can be finished after Sarevok's death, giving you to control the order of events.|You can also choose whether to equip Sarevok with his equipment (including his sword) or leave it in his inventory.|Finally, after defeating Sarevok, you'll receive a new Child of Bhaal ability, different according to your alignment.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod adoucit les transitions entre les campagnes dans EET. Il permet de rester dans le \"monde\" de BG1 après la défaite de Sarevok et dans le \"monde\" BG2 après la défaite d'Irenicus. La progression vers les zones SoD ou BGII du jeu est accomplie en utilisant un objet fourni par le duc Belt après avoir terminé ou sauté les quêtes de nettoyage. La progression vers ToB est accomplie en utilisant l'amulette de la Seldarine donnée par la reine Ellesime.|Dans EET, vous avez la possibilité d'avoir votre propre logement personnel qui contient un coffre qui vous suit jusqu'à ToB : après avoir vaincu Sarevok, vous pourrez vous installer dans le Palais Ducal (nécessite SoD) grâce au duc Belt ; si vous avez sauvé le duc Eltan dans EET, il vous remettra les clés d'une maison.|Un certain nombre de nouvelles quêtes de nettoyage seront disponibles en fonction des disciples de Sarevok que vous aurez précédemment éliminés. Les quêtes de BG et de TotSC peuvent être terminées après la mort de Sarevok ; ce qui vous permet de contrôler l'ordre des événements.|Vous pourrez également choisir d'équiper Sarevok de son équipement (dont son épée) ou de le laisser dans son inventaire.|Enfin, après avoir vaincu Sarevok, vous recevrez une nouvelle capacité d'Enfant de Bhaal, différente selon votre alignement."
@@ -16334,10 +16330,10 @@
     },
     {
         "id": 1125,
-        "description": "According to its author, this mod aims to make EET a more coherent story: |- it moves certain non-recruitable NPCs and their story foreshadowing from BG2/ToB to earlier parts of the game. |- you can influence certain events in later chapters by making decisions earlier in the story (continuity in EET).|- You can return with items you find later in the game to complete quests in BG1 or SoD. You'll get quests that require you to return to BG/SoD areas later in the game to complete them.",
+        "description": "According to its author, this mod aims to make EET even more of ONE story:|- it brings some non-joinable NPCs and a foreshadow of their story from BG2/ToB to earlier parts of the game.|- you can influence some later chapter events by decisions you make early (continuity in EET)|- you can go back with items you find later in the game to finish quests in BG1 or SoD|- you get quests for which you need to return to the BG1/SoD areas from later parts|- a randomly appearing peddler can keep items from one part of the game and give them back in a later part, but be careful, random means random...|The mod consists of many smaller encounters, shorter or larger quests, and events/decisions that have lasting effects.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Selon son auteure, ce mod vise à faire de EET une histoire plus cohérente :|- il déplace certains PNJ non-recrutables et la préfiguration de leur histoire de BG2/ToB vers des parties plus anciennes du jeu.|- vous pouvez influencer certains événements des chapitres suivants en prenant des décisions plus tôt dans l'histoire (continuité dans EET).|- vous pouvez revenir avec des objets que vous trouverez plus tard dans le jeu pour accomplir des quêtes dans BG1 ou SoD.|- vous obtiendrez des quêtes qui vous obligeront à retourner dans des zones de BG/SoD plus tard dans le jeu pour les accomplir.|Le mod se compose de nombreuses petites rencontres, de quêtes plus ou moins importantes, et d'événements/décisions qui ont des conséquences durables."
+            "status": "done",
+            "source": "Selon son auteure, ce mod vise à faire de EET une histoire plus cohérente :|- il déplace certains PNJ non-recrutables et donne un aperçu de leur histoire dans BG2/ToB plus tôt dans le jeu|- vous pouvez influencer certains événements des chapitres suivants en prenant des décisions plus tôt dans l'histoire (continuité dans EET)|- vous pouvez revenir en arrière avec des objets trouvés plus tard dans le jeu pour terminer des quêtes dans BG1 ou SoD|- vous obtiendrez des quêtes qui vous obligeront à retourner dans des zones de BG/SoD plus tard dans le jeu pour les accomplir|un marchand ambulant apparait de façon aléatoire et peut conserver des objets tout au long de la partie, mais attention, l'aléatoire peut s'avérer être un allié peu fiable...|Le mod comprend de nombreuses petites rencontres, des quêtes plus ou moins longues, ainsi que des événements/décisions qui ont des effets durables."
         },
         "notes": [],
         "notes_meta": {
@@ -16377,10 +16373,10 @@
     },
     {
         "id": 1128,
-        "description": "This mod allows you to play Icewind Dale's « Trial of the Luremaster » expansion in BG2:EE (version 2.0 or higher), Siege of Dragonspear and EET ([Enhanced Edition Trilogy]). To initiate the quest, talk to the little man Hobart Stubbletoes, whom you'll find either in the inns of the Umar Hills (SoA), Saradush (ToB) and Amkethran (ToB), or south-east of the Coalition Camp (SoD) or in Vougedragon Castle (SoD). In the course of your adventure, you'll have the opportunity to explore a haunted castle, test your courage and prove your worth in difficult battles, and lift an ancient curse.",
+        "description": "This mod makes the Icewind Dale expansion « Trial of the Luremaster » available to BG2:EE (2.0 or higher), Siege of Dragonspear and EET ([[Enhanced Edition Trilogy]]). The quest starts by talking to the halfling Hobart Stubbletoes, who can be found either in the Umar Hills Inn (SoA), Amkethran Inn (ToB) or in the southeastern area of the Coalition Camp (SoD). In the course of the adventure you have the opportunity to explore a haunted castle, test your mettle in challenging combat and lift an ancient curse.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod permet de jouer l'extension de Icewind Dale « Les Épreuves du Maître des Leurres » dans BG2:EE (version 2.0 ou supérieure), Siege of Dragonspear et EET ([[Enhanced Edition Trilogy]]). Pour initier la quête, parlez au petit-homme Hobart Piévelu, que vous trouverez soit dans les auberges des Collines d'Umar (SoA), de Saradush (ToB) et d'Amkethran (ToB), soit au sud est du Camp de la Coalition (SoD) ou dans le Château de Vougedragon (SoD). Au cours de l'aventure, vous aurez l'opportunité d'explorer un château hanté, de tester votre courage et de faire vos preuves dans des combats difficiles et de lever une ancienne malédiction"
+            "status": "done",
+            "source": "Ce mod permet de jouer l'extension de Icewind Dale « Les Épreuves du Maître des Leurres » dans BG2:EE (version 2.0 ou supérieure), Siege of Dragonspear et EET ([[Enhanced Edition Trilogy]]). Pour initier la quête, parlez au petit-homme Hobart Piévelu, que vous trouverez soit dans l'auberge des Collines d'Umar (SoA), d'Amkethran (ToB) ou au sud est du Camp de la Coalition (SoD). Au cours de l'aventure, vous aurez l'opportunité d'explorer un château hanté, de tester votre courage et de faire vos preuves dans des combats difficiles et de lever une ancienne malédiction."
         },
         "notes": [],
         "notes_meta": {
@@ -16403,9 +16399,9 @@
     },
     {
         "id": 1130,
-        "description": "Volo isn't the only one with stories worth telling. Many a troubadour and bard travels the length and breadth of Faerûn, risking their lives to enliven the taverns. This mod adds a very special troubadour, who, for a few gold coins, will tell you untold stories, and even the origins of certain characters, such as the mysterious Riojano, or Artemis Entreri. You can find him on the Waukeen's Promenade. It also adds a store with curious items.",
+        "description": "Volo is not the only one who knows stories worth telling. There are many troubadours and bards who travel all over Faerûn risking their lives in order to brighten up the taverns we visit. This mod adds a very special troubadour, who, for a few gold pieces, will tell you unheard stories and even the origins of certain characters, such as the mysterious Riojano, or Artemis Entreri. You can find him in Waukeen Promenade. It also adds a shop with curious objects.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Volo n'est pas le seul à connaître des histoires qui valent la peine d'être racontées. De nombreux troubadours et bardes parcourent Féérune au péril de leur vie pour égayer les tavernes. Ce mod ajoute un troubadour très spécial, qui, pour quelques pièces d'or, vous racontera des histoires inédites, et même les origines de certains personnages, comme le mystérieux Riojano, ou Artemis Entreri. Vous pouvez le retrouver sur la Promenade de Waukyne. Il ajoute également une boutique avec des objets curieux."
         },
         "notes": [],
@@ -24850,9 +24846,9 @@
     },
     {
         "id": 1722,
-        "description": "Are you tired of your skull traps, glyphs and symbols taking forever to explode? Do you ever place one of these traps in a spot where you know your enemy is going to pass, and then watch him walk past without the trap exploding? Then, after you've killed your enemy, should you disarm the trap that didn't explode before continuing by sending your tank to sit on it until it finally decides to explode? If you answered yes to any of these questions, this mod is for you! It makes trap spells instantaneous. No more problems!",
+        "description": "Are you tired of your Skull Traps, Glyphs, and Symbols taking forever to explode? Do you ever place one of these traps where you know your enemy is going to walk only to have them walk right past it without it blowing up? Then after you kill your enemy do you have to disarm the trap that failed to blow up before you move on by sending your tank in to sit on it until if finally decides it will blow up? If you answered yes to any of these questions then this is the mod for you! With the Instant Trap Spells mod these problems are no more!",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "En avez-vous assez que vos pièges à crânes, vos glyphes et vos symboles mettent une éternité à exploser ? Vous arrive-t-il de placer l'un de ces pièges à un endroit où vous savez que votre ennemi va passer et de le voir passer devant sans que le piège n'explose ? Puis, après avoir tué votre ennemi, devez-vous désarmer le piège qui n'a pas explosé avant de continuer en envoyant votre tank s'asseoir dessus jusqu'à ce qu'il se décide enfin à exploser ? Si vous avez répondu oui à l'une de ces questions, ce mod est fait pour vous ! Avec lui les sort de pièges deviennent instantanés. Plus de problème !"
         },
         "notes": [],
