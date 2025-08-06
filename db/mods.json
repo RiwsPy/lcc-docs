@@ -945,7 +945,7 @@
     {
         "id": 30,
         "name": "Alassa",
-        "description": "Une voleuse mauvaise avec voix, quelques banters légers et un portrait original. Nécessite ToB.",
+        "description": "Une voleuse mauvaise avec voix, quelques banters légers et un portrait original. Nécessite ToB.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16.",
         "urls": [
             "https://www.pocketplane.net/one-day-npcs/",
             "https://github.com/Plutonium-X/1D_NPC_Alassa"
@@ -1078,7 +1078,7 @@
     {
         "id": 34,
         "name": "Allison",
-        "description": "Cette jeune elfe druide, enjouée et haute en couleurs vous demande de l'aide au Bosquet des Druides, et vous propose même de vous rejoindre pour mettre fin au règne de Faldorn. Elle possède de nombreux banters avec les différents PNJ du jeu.",
+        "description": "Cette jeune elfe druide, enjouée et haute en couleurs vous demande de l'aide au Bosquet des Druides, et vous propose même de vous rejoindre pour mettre fin au règne de Faldorn. Elle possède de nombreux banters avec les différents PNJ du jeu.|FOR 14, DEX 14, CON 7, INT 12, SAG 18, CHA 12.",
         "urls": [
             "https://www.shsforums.net/files/file/1260-allison-one-day-npc/",
             "https://github.com/Spellhold-Studios/Allison-One-Day-NPC",
@@ -6761,7 +6761,7 @@
     {
         "id": 212,
         "name": "Cassius",
-        "description": "Cassius est un barde scalde humain et mystérieux qui ne dit pas grand-chose sur son passé. Ce que l'on sait, c'est qu'il a beaucoup voyagé depuis La Porte de Baldur, Eauprofonde, le Calimshan et d'autres endroits sans jamais rester trop longtemps. Il est toujours à la recherche d'aventures pour pouvoir raconter les grandes histoires qu'ils ont rencontrées. Il s'est récemment arrêté en Amn pour recueillir des informations sur les grandes histoires des aventuriers qui y passent. La rumeur veut qu'il soit un agent des Ménestrels.|FOR 16, DEX 17, CON 13, INT 16, SAG 9, CHA 15",
+        "description": "Cassius est un barde scalde humain et mystérieux qui ne dit pas grand-chose sur son passé. Ce que l'on sait, c'est qu'il a beaucoup voyagé depuis La Porte de Baldur, Eauprofonde, le Calimshan et d'autres endroits sans jamais rester trop longtemps. Il est toujours à la recherche d'aventures pour pouvoir raconter les grandes histoires qu'ils ont rencontrées. Il s'est récemment arrêté en Amn pour recueillir des informations sur les grandes histoires des aventuriers qui y passent. La rumeur veut qu'il soit un agent des Ménestrels.|FOR 16, DEX 17, CON 13, INT 16, SAG 9, CHA 15.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?p=231482",
             "https://america.iegmc.com/com/Cassius_v105.rar",
@@ -7267,7 +7267,7 @@
     {
         "id": 227,
         "name": "Chiara NPC",
-        "description": "Ce mod allemand ajoute une guerrière vampire dotée de capacités spéciales. Si vous l'aidez, elle peut être un atout extraordinaire pour le groupe. Si vous la laissez tomber, elle devient un ennemi imprévisible ! Vous la trouverez dans les égouts sous le quartier des temples. Contenu pour SoA et ToB. Elle est équipée d'une épée qui draine des points de vie et d'un harnois en mithral. Ses caractéristiques changent selon l'environnement (lumière/pénombre). Notez qu'elle doit se sustenter au moins une fois par jour sous peine de devenir berserk.",
+        "description": "Ce mod allemand ajoute une guerrière vampire dotée de capacités spéciales. Si vous l'aidez, elle peut être un atout extraordinaire pour le groupe. Si vous la laissez tomber, elle devient un ennemi imprévisible ! Vous la trouverez dans les égouts sous le quartier des temples. Contenu pour SoA et ToB. Elle est équipée d'une épée qui draine des points de vie et d'un harnois en mithral. Ses caractéristiques changent selon l'environnement (lumière/pénombre). Notez qu'elle doit se sustenter au moins une fois par jour sous peine de devenir berserk.|FOR 18/47, DEX 18, CON 18, INT 12, SAG 11, CHA 11.",
         "urls": [
             "https://github.com/Plutonium-X/1D_NPC_Chiara"
         ],
@@ -7302,7 +7302,7 @@
     {
         "id": 228,
         "name": "Chloe NPC",
-        "description": "Ce mod ajoute une kensaï demi-déesse, avec un kit de voix et des armes spécifiques, qui romance exclusivement les personnages féminins. Des interactions ont été écrites avec chaque personnage, mais la romance n'existe pour l'instant que pour SoA. Des quêtes relatives à Chloé complètent l'ensemble. Un petit regard à cette demi-déesse : FOR 13, DEX 25, CON 16, INT 12, SAG 12 et CHA 14.",
+        "description": "Ce mod ajoute une kensaï demi-déesse, avec un kit de voix et des armes spécifiques, qui romance exclusivement les personnages féminins. Des interactions ont été écrites avec chaque personnage, mais la romance n'existe pour l'instant que pour SoA. Des quêtes relatives à Chloé complètent l'ensemble.|FOR 13, DEX 25, CON 16, INT 12, SAG 12 et CHA 14.",
         "urls": [
             "https://www.shsforums.net/files/file/848-chloe-v15/",
             "https://github.com/Plutonium-X/NPC_Chloe"
@@ -7322,7 +7322,7 @@
         "team": [],
         "notes": [
             "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET.",
-            "Il existe une variante non officielle du mod : https://github.com/RoxanneSHS/ChloeEET"
+            "Il existe une [variante non officielle du mod](https://github.com/RoxanneSHS/ChloeEET)."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -12580,7 +12580,7 @@
     {
         "id": 394,
         "name": "Fade NPC",
-        "description": "Il s'agit d'une elfe tieffeline, une Fey'ri, d'alignement chaotique neutre, et voleuse mono-classée. C'est un des lieutenants d'Aran Linvail, et elle dispose de capacités magiques du fait de son ascendance. Sa romance peut être menée par n'importe quel personnage mâle, quel que soit sa classe, sa race ou son alignement. Recrutez-la suffisamment tôt, ses romance et quêtes personnelle étant relativement longues. À l'occasion de la sortie de la partie ToB, le mod est repassé en anglais, et sa verve est conséquente : banters avec les PNJ de Bioware et certains voleurs de l'ombre, des flirts, de nouveaux protagonistes, 2 quêtes principales et une quête plus farfelue.",
+        "description": "Il s'agit d'une elfe tieffeline, une Fey'ri, d'alignement chaotique neutre, et voleuse mono-classée. C'est un des lieutenants d'Aran Linvail, et elle dispose de capacités magiques du fait de son ascendance. Sa romance peut être menée par n'importe quel personnage mâle, quel que soit sa classe, sa race ou son alignement. Recrutez-la suffisamment tôt, ses romance et quêtes personnelle étant relativement longues. À l'occasion de la sortie de la partie ToB, le mod est repassé en anglais, et sa verve est conséquente : banters avec les PNJ de Bioware et certains voleurs de l'ombre, des flirts, de nouveaux protagonistes, 2 quêtes principales et une quête plus farfelue.|FOR 14, DEX 19, CON 10, INT 16, SAG 11, CHA 16.",
         "urls": [
             "https://www.spellholdstudios.net/ie/fade",
             "https://github.com/Spellhold-Studios/Fade-NPC",
@@ -13889,7 +13889,7 @@
     {
         "id": 436,
         "name": "Gemma",
-        "description": "Créé sur La Couronne de Cuivre, ce mod ajoute une nouvelle PNJ recrutable. Adepte d'Umberlie, Gemma n'est pas vraiment le genre de naine à passer son temps à chanter de joyeuses chansons, une chope de bière en main. Non, son truc, c'est utiliser de la rhétorique pour frapper de plein fouet l'hérétique qui ne s'y attend pas. Quand la rhétorique passe par le marteau, c'est sûr, les gens sont plus réceptifs (et morts). Gemma patiente tranquillement (non) sur les Docks d'Athkatla.",
+        "description": "Créé sur La Couronne de Cuivre, ce mod ajoute une nouvelle PNJ recrutable. Adepte d'Umberlie, Gemma n'est pas vraiment le genre de naine à passer son temps à chanter de joyeuses chansons, une chope de bière en main. Non, son truc, c'est utiliser de la rhétorique pour frapper de plein fouet l'hérétique qui ne s'y attend pas. Quand la rhétorique passe par le marteau, c'est sûr, les gens sont plus réceptifs (et morts). Gemma patiente tranquillement (non) sur les Docks d'Athkatla.|FOR 18/05, DEX 13, CON 19, INT 7, SAG 14, CHA 8.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?p=518624",
             "https://github.com/Plutonium-X/1D_NPC_Gemma"
@@ -15761,7 +15761,7 @@
     {
         "id": 496,
         "name": "Horace",
-        "description": "Ce mod ajoute un squelette en tant que PNJ membre du groupe. Vous pourrez le trouver dans la crypte de Franc-Marché. Il dispose d'un kit spécifique à son état, d'HLA et de sorts en partie issus d'IWD2, ainsi que d'une IA spécifique si vous choisissez de l'activer.",
+        "description": "Ce mod ajoute un squelette en tant que PNJ membre du groupe. Vous pourrez le trouver dans la crypte de Franc-Marché. Il dispose d'un kit spécifique à son état, d'HLA et de sorts en partie issus d'IWD2, ainsi que d'une IA spécifique si vous choisissez de l'activer.|FOR 17, DEX 13, CON 18, INT 13, SAG 16, CHA 9.",
         "urls": [
             "https://www.shsforums.net/topic/54902-horace-a-mod-from-seifer/",
             "https://github.com/Plutonium-X/1D_NPC_Horace"
@@ -21323,7 +21323,7 @@
     {
         "id": 674,
         "name": "Malthis",
-        "description": "Malthis est un bretteur chaotique bon que vous pouvez trouver près de Cromwell. Il n'est pas comme les autres et porte un lourd secret. Ses caractéristiques et son alignement vont dépendre de vous. Saurez-vous l'adopter et l'aider dans sa guerre contre une sombre organisation ?|Comme le site hébergeant le mod a disparu (rosenranken.org), le lien renvoie à un compte GitHub d'hébergement temporaire.|FOR 17, DEX 18, CON 17, INT 10, SAG 11, CHA 10",
+        "description": "Malthis est un bretteur chaotique bon que vous pouvez trouver près de Cromwell. Il n'est pas comme les autres et porte un lourd secret. Ses caractéristiques et son alignement vont dépendre de vous. Saurez-vous l'adopter et l'aider dans sa guerre contre une sombre organisation ?|Comme le site hébergeant le mod a disparu (rosenranken.org), le lien renvoie à un compte GitHub d'hébergement temporaire.|FOR 17, DEX 18, CON 17, INT 10, SAG 11, CHA 11.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?p=140073",
             "https://github.com/Plutonium-X/1D_NPC_Malthis"
@@ -21474,7 +21474,7 @@
     {
         "id": 679,
         "name": "Mawgul NPC",
-        "description": "Mawgul est un Guerrier/Mage elfe neutre absolu, servant de Heaum disposant d'un équipement très puissant, ainsi que de capacités spéciales semblables à celles des prêtres de Helm. Ce mod a peu de contenu.",
+        "description": "Mawgul est un Guerrier/Mage elfe neutre absolu, servant de Heaum disposant d'un équipement très puissant, ainsi que de capacités spéciales semblables à celles des prêtres de Helm. Ce mod a peu de contenu.|FOR 10, DEX 19, CON 10, INT 18, SAG 16, CHA 17.",
         "urls": [
             "https://www.shsforums.net/files/file/767-mawgul-npc-v22/",
             "https://github.com/Plutonium-X/1D_NPC_Mawgul"
@@ -21701,7 +21701,7 @@
     {
         "id": 686,
         "name": "Mhoram",
-        "description": "Ce mini-mod d'origine espagnole ajoute un barde elfe, poète du grand Nord disposant d'une quête optionnelle dans le quartier du Pont.",
+        "description": "Ce mini-mod d'origine espagnole ajoute un barde elfe, poète du grand Nord disposant d'une quête optionnelle dans le quartier du Pont.|FOR 16, DEX 18, CON 15, INT 10, SAG 14, CHA 16.",
         "urls": [
             "https://www.shsforums.net/files/file/769-mhoram-npc-v23/",
             "https://github.com/Plutonium-X/1D_NPC_Mhoram"
@@ -32823,7 +32823,7 @@
     {
         "id": 1032,
         "name": "Tashia NPC",
-        "description": "Ce mod ajoute un nouveau PNJ, une elfe sorcière issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue.|FOR 11, DEX 19, CON 15, INT 15, SAG 14 et CHA 12.",
+        "description": "Ce mod ajoute un nouveau PNJ, une elfe sorcière issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue.|FOR 11, DEX 19, CON 15, INT 15, SAG 14, CHA 12.",
         "urls": [
             "https://www.shsforums.net/files/file/33-tashia/",
             "https://github.com/Spellhold-Studios/Tashia-NPC/",
@@ -33274,7 +33274,7 @@
     {
         "id": 1046,
         "name": "Thael NPC",
-        "description": "Ce mod ajoute un nouveau PNJ : un elfe mage/voleur. Il dispose de dialogues avec les PNJ de Bioware, avec le PJ, et d'une quête principale qui débute dans SoA et se poursuit dans ToB. Thael se trouve sur la Promenade de Waukyne, tout près du cirque. Il possède une mystérieuse épée courte, Velvevlos, acquise dans des circonstances non moins particulières ; ce puissant artefact ayant une grande influence sur lui.|Au contact des terribles énergies magiques que renferme Velvelos, Thael a subi quelques mutations. L'une d'entre elles, « Pouvoir Mutant », est très utile en combat. Vous pouvez y accéder dans la partie réservée aux capacités spéciales des personnages.",
+        "description": "Ce mod ajoute un nouveau PNJ : un elfe mage/voleur. Il dispose de dialogues avec les PNJ de Bioware, avec le PJ, et d'une quête principale qui débute dans SoA et se poursuit dans ToB. Thael se trouve sur la Promenade de Waukyne, tout près du cirque. Il possède une mystérieuse épée courte, Velvevlos, acquise dans des circonstances non moins particulières ; ce puissant artefact ayant une grande influence sur lui.|Au contact des terribles énergies magiques que renferme Velvelos, Thael a subi quelques mutations. L'une d'entre elles, « Pouvoir Mutant », est très utile en combat. Vous pouvez y accéder dans la partie réservée aux capacités spéciales des personnages.|FOR 16, DEX 20, CON 16, INT 18, SAG 9, CHA 10.",
         "urls": [
             "https://www.shsforums.net/files/file/776-thael-npc-v-232/",
             "https://github.com/Plutonium-X/1D_NPC_Thael"
@@ -36156,7 +36156,7 @@
     {
         "id": 1133,
         "name": "Tsujatha Melalor",
-        "description": "Ce mod ajoute un personnage romançable, Tsujatha Melalor, nécromancien elfe du royaume de Gilalion, situé sur un autre plan que Toril. Sa psychologie est particulièrement étoffée, cela entre autres de par sa quête personnelle (son ambition et la trahison de son père en ont fait un paria dans son royaume). La romance est longue et les interactions fort nombreuses, de quoi ravir ceux qui souhaitent une alternative au sempiternel Anomen. Attention, même si Tsujatha est un personnage d'alignement mauvais (mais pouvant obtenir une rédemption), il ne romancera que les personnages féminins humains, elfes et demi-elfes d'alignement bon. Vous le trouverez dans la Sphère planaire. Allez-y dès que possible car les banters sont nombreux.|FOR 17, DEX 12, CON 12, INT 19, SAG 16, CHA 14",
+        "description": "Ce mod ajoute un personnage romançable, Tsujatha Melalor, nécromancien elfe du royaume de Gilalion, situé sur un autre plan que Toril. Sa psychologie est particulièrement étoffée, cela entre autres de par sa quête personnelle (son ambition et la trahison de son père en ont fait un paria dans son royaume). La romance est longue et les interactions fort nombreuses, de quoi ravir ceux qui souhaitent une alternative au sempiternel Anomen. Attention, même si Tsujatha est un personnage d'alignement mauvais (mais pouvant obtenir une rédemption), il ne romancera que les personnages féminins humains, elfes et demi-elfes d'alignement bon. Vous le trouverez dans la Sphère planaire. Allez-y dès que possible car les banters sont nombreux.|FOR 17, DEX 12, CON 12, INT 19, SAG 16, CHA 14.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=20092",
             "https://america.iegmc.com/tsujatha/Tsujatha-17.1.zip",
@@ -55012,7 +55012,7 @@
     {
         "id": 1755,
         "name": "Banana! NPC Mod",
-        "description": "Ce mod ajoute une banane guerrière/mage/voleuse à l'entrée de la Couronne de cuivre.",
+        "description": "Ce mod ajoute une banane guerrière/mage/voleuse à l'entrée de la Couronne de cuivre.|FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18. Reçoit le double dégâts contondants.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/12947-banana-npc-mod-released",
             "https://baldur.cob-bg.pl/download/bg2/npc/Banana.rar",
@@ -55034,7 +55034,6 @@
         ],
         "team": [],
         "notes": [
-            "FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18, résistance aux dégâts contondants -100%.",
             "Choisissez le dernier lien github pour la version EE."
         ],
         "translation_state": "auto",
@@ -55080,7 +55079,7 @@
     {
         "id": 1757,
         "name": "Xardas",
-        "description": "Ce mod ajoute Mag Xardas le nécromancien à l'entrée du donjon de'Arnise. Il est équipé d'un anneau d'archimage.|FOR 12, DEX 18, CON 14, INT 20, SAG 19, CHA 17",
+        "description": "Ce mod ajoute Mag Xardas le nécromancien à l'entrée du donjon de'Arnise. Il est équipé d'un anneau d'archimage.|FOR 12, DEX 18, CON 14, INT 20, SAG 19, CHA 17.",
         "urls": [
             "https://baldur.cob-bg.pl/download/bg2/npc/Xardas.zip",
             "https://github.com/Plutonium-X/1D_NPC_Xardas/"
