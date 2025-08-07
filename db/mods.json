@@ -9041,30 +9041,36 @@
     },
     {
         "id": 284,
-        "name": "Darian",
-        "description": "Archer elfe loyal bon de la race des Avariels, Darian se trouve à Athkatla suite à des rumeurs d'emprisonnement d'un de ses compatriotes, mais les choses ne se passent pas comme il s'y attendait. D'un abord méfiant, notamment à l'égard des petites personnes, nains et autres rase-mottes, ce cœur noble sera difficile à apprivoiser. Seules les elfes, demi-elfes et humaines d'alignement bon parviendront peut-être à percer sa coquille. Il développera également une amitié avec Aerie. Il dispose de contenu pour SoA et ToB. Ses caractéristiques sont FOR 12, DEX 19, CON 14, INT 11, SAG 17 et CHA 12. Retrouvez-le à l'extérieur de la Couronne de Cuivre.",
+        "name": "Darian NPC",
+        "description": "Archer elfe loyal bon de la race des Avariels, Darian se trouve à Athkatla suite à des rumeurs d'emprisonnement d'un de ses compatriotes, mais les choses ne se passent pas comme il s'y attendait. D'un abord méfiant, notamment à l'égard des petites personnes, nains et autres rase-mottes, ce cœur noble sera difficile à apprivoiser. Seules les elfes, demi-elfes et humaines d'alignement bon parviendront peut-être à percer sa coquille. Il développera également une amitié avec Aerie. Il dispose de contenu pour SoA et ToB. Retrouvez-le à l'extérieur de la Couronne de Cuivre.|FOR 12, DEX 19, CON 14, INT 11, SAG 17, CHA 12.",
         "urls": [
-            "https://www.shsforums.net/files/file/948-darian/"
+            "https://www.shsforums.net/files/file/948-darian/",
+            "https://github.com/Spellhold-Studios/Darian-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Tempest"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choisissez le lien github pour la version BG2EE/EET."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2013-01",
+        "last_update": "2025-08",
         "tp2": "darian"
     },
     {

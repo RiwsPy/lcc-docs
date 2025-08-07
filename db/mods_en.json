@@ -4115,15 +4115,19 @@
     },
     {
         "id": 284,
-        "description": "A lawful good elf archer of the Avariel race, Darian finds himself in Athkatla following rumors of the imprisonment of one of his compatriots, but things don't turn out as he expected. Suspicious at first sight, especially of little people, dwarves and other lowlifes, this noble heart will be difficult to tame. Only elves, half-elves and humans of good alignment may be able to break through his shell. He will also develop a friendship with Aerie. He has content for SoA and ToB. His characteristics are STR 12, DEX 19, CON 14, INT 11, WIS 17 and CHA 12. Find him outside the Copper Coronet.",
+        "description": "A lawful good elf archer of the Avariel race, Darian finds himself in Athkatla following rumors of the imprisonment of one of his compatriots, but things don't turn out as he expected. Suspicious at first sight, especially of little people, dwarves and other lowlifes, this noble heart will be difficult to tame. Only elves, half-elves and humans of good alignment may be able to break through his shell. He will also develop a friendship with Aerie. He has content for SoA and ToB. Find him outside the Copper Coronet.|STR 12, DEX 19, CON 14, INT 11, WIS 17, CHA 12.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Archer elfe loyal bon de la race des Avariels, Darian se trouve à Athkatla suite à des rumeurs d'emprisonnement d'un de ses compatriotes, mais les choses ne se passent pas comme il s'y attendait. D'un abord méfiant, notamment à l'égard des petites personnes, nains et autres rase-mottes, ce cœur noble sera difficile à apprivoiser. Seules les elfes, demi-elfes et humaines d'alignement bon parviendront peut-être à percer sa coquille. Il développera également une amitié avec Aerie. Il dispose de contenu pour SoA et ToB. Ses caractéristiques sont FOR 12, DEX 19, CON 14, INT 11, SAG 17 et CHA 12. Retrouvez-le à l'extérieur de la Couronne de Cuivre."
+            "source": "Archer elfe loyal bon de la race des Avariels, Darian se trouve à Athkatla suite à des rumeurs d'emprisonnement d'un de ses compatriotes, mais les choses ne se passent pas comme il s'y attendait. D'un abord méfiant, notamment à l'égard des petites personnes, nains et autres rase-mottes, ce cœur noble sera difficile à apprivoiser. Seules les elfes, demi-elfes et humaines d'alignement bon parviendront peut-être à percer sa coquille. Il développera également une amitié avec Aerie. Il dispose de contenu pour SoA et ToB. Retrouvez-le à l'extérieur de la Couronne de Cuivre.|FOR 12, DEX 19, CON 14, INT 11, SAG 17, CHA 12."
         },
-        "notes": [],
+        "notes": [
+            "Choose the github link for the BG2EE/EET version."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Choisissez le lien github pour la version BG2EE/EET."
+            ]
         }
     },
     {
