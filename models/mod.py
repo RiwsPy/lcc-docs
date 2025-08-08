@@ -258,3 +258,7 @@ class Mod:
             and self.tp2 not in ("non-weidu", "n/a")
             and self.status in (ModStatus.ACTIVE, ModStatus.EMBED)
         )
+
+    @property
+    def games_ordered(self) -> list[str]:
+        return [game for game in GameEnum if game in self.games]

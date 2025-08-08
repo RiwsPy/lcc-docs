@@ -68,19 +68,18 @@ attrs_icon_data: dict[str, dict[tuple, dict[str, str]]] = {
 }
 
 
-# TODO: ordre à définir
 class GameEnum(enum.StrEnum):
     BG = "BG"
-    BG2 = "BG2"
     TUTU = "Tutu"
+    BG2 = "BG2"
     BGT = "BGT"
     BGEE = "BGEE"
-    BG2EE = "BG2EE"
     SOD = "SoD"
+    BG2EE = "BG2EE"
     EET = "EET"
     IWD = "IWD"
-    IWD2 = "IWD2"
     IWDEE = "IWDEE"
+    IWD2 = "IWD2"
     PST = "PST"
     PSTEE = "PSTEE"
 
