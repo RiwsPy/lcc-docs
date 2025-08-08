@@ -2619,8 +2619,8 @@
         "description": "C'est un marchand sur la promenade de Waukyne qui vend tout ce qui sert à tuer à distance (arc, arbalète, fronde, fléchettes, dagues de jet, haches de jet, et un bon paquet de munitions variées venant de BG2 et IWD)",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33754",
-            "https://github.com/Deratiseur/Archery",
-            "https://app.mediafire.com/depaqus3ma8bt"
+            "https://forums.beamdog.com/discussion/88029/",
+            "https://github.com/Deratiseur/Archery/"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -3060,11 +3060,11 @@
     {
         "id": 93,
         "name": "AutoRest",
-        "description": "Créé par Deratiseur, ce petit mod bien pratique permet de simuler un repos sans avoir besoin de dormir 8 h. Vous pouvez bien évidemment choisir la qualité du repos. Désormais, il peut aussi rendre les pj immortels.",
+        "description": "Ce petit mod bien pratique permet de simuler un repos sans avoir besoin de dormir 8 h. Vous pouvez bien évidemment choisir la qualité du repos. Désormais, il peut aussi rendre les pj immortels.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33320",
-            "https://github.com/Deratiseur/AutoRest",
-            "https://app.mediafire.com/depaqus3ma8bt"
+            "https://forums.beamdog.com/discussion/73318/",
+            "https://github.com/Deratiseur/AutoRest/"
         ],
         "categories": [
             "Gameplay"
@@ -9619,11 +9619,11 @@
     {
         "id": 301,
         "name": "Deratiseur's Unused Kits Pack",
-        "description": "Ce mod regroupe tous les profils créés par Deratiseur. Vous y retrouverez le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Seigneur de guerre (kit pour jumelé guerrier-mage) et bien d'autres.|Son contenu évolue selon l'humeur de Deratiseur (ajout ou retrait de profils).",
+        "description": "Dans ce kitpack, vous y retrouverez le Chasseur de vermine (rôdeur), le Porteur de haine (guerrier demi-orque), le Prêcheur des flammes (clerc offensif), le Seigneur de guerre (guerrier jumelé mage), le Croisé de Garagos (clerc), l'Anatomiste (multiclassé voleur/nécromancien) et bien d'autres.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=19490",
-            "https://github.com/Deratiseur/DUKP",
-            "https://app.mediafire.com/depaqus3ma8bt"
+            "https://forums.beamdog.com/discussion/60725/",
+            "https://github.com/Deratiseur/DUKP/"
         ],
         "categories": [
             "Kit"
@@ -9658,8 +9658,8 @@
         "description": "Au menu, uniquement pour les jeux EE, des dizaines d'arcanistes qui vous feront changer votre façon de jouer.||Le détail des kits est disponible en suivant le lien de téléchargement.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33790",
-            "https://github.com/Deratiseur/DAWAP",
-            "https://app.mediafire.com/depaqus3ma8bt"
+            "https://forums.beamdog.com/discussion/87104/",
+            "https://github.com/Deratiseur/DAWAP/"
         ],
         "categories": [
             "Kit"
@@ -19584,13 +19584,14 @@
     {
         "id": 616,
         "name": "L'interplan",
-        "description": "L'interplan est un magasin qui vend des objets magiques et plus d'une centaine de sorts originaux. Il se trouve sur la Promenade de Waukyne dans BG2, et est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE.|L'installation de ce mod ajoute en tout une centaine de nouveaux sorts sélectionnables par l'ensorceleur.",
+        "description": "L'interplan est un magasin qui vend près de 100 objets originaux et plus d'une centaine de nouveaux sorts. Il peut aussi combiner plusieurs dizaines de potions. Il se trouve sur la Promenade de Waukyne dans BG2, et est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=31563",
-            "https://github.com/Deratiseur/Interplan"
+            "https://github.com/Deratiseur/Interplan/"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "Forgeron et marchand",
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -29440,7 +29441,7 @@
     },
     {
         "id": 926,
-        "name": "Semi-multi clerics mod (semi-multi mod)",
+        "name": "Semi-multi clerics mod",
         "description": "Ce mod ajoute une marchande, la Dame des Mystères, adoratrice de Mystra, qui vend un manuel de magie donnant accès à une trentaine de sorts divins, dont un inédit. Seuls les lanceurs de sorts profanes peuvent en bénéficier au prix de -2 en Force et Constitution. En d'autres termes, grâce à ce mod, à vous les multi-classes sorcier/prêtre, barde/prêtre, guerrier/mage/prêtre (classe de base guerrier/mage et lecture du livre d'où un gain d'XP conséquent), kensaï/mage (clerc), ensorceleur (clerc) ou scalde (clerc), par exemple... et le très fameux guerrier/mage/voleur/prêtre. Attention cependant, il y a des restrictions : toutes les infos sont dans le readme. Vous la trouverez au nord du Marché de l'Aventurier sur la Promenade de Waukyne, et dans l'Antichambre.",
         "urls": [
             "https://www.shsforums.net/files/category/33-smm-rm/",
@@ -35521,11 +35522,11 @@
     {
         "id": 1113,
         "name": "Todd le super gars testeur",
-        "description": "Ce mod ajoute un marchand anachronique qui vend les objets de Morrowind et d'Arcanum. Il attend les aventuriers à différents endroits selon le jeu.|Note : comme la raison d'être du module est de proposer de manière anachronique tous les objets venant d'autres jeux, il ne fait pas de distinction entre les objets inutiles, les objets équilibrés et les objets surpuissants. Installez-le en connaissance de cause. Si vous cherchez des objets équilibrés, voyez plutôt du côté de [[L'interplan]].",
+        "description": "Ce mod ajoute un marchand anachronique qui vend plus de 200 objets de Morrowind et d'Arcanum. Il attend les aventuriers à différents endroits selon le jeu.|Note : comme la raison d'être du module est de proposer de manière anachronique tous les objets venant d'autres jeux, il ne fait pas de distinction entre les objets inutiles, les objets équilibrés et les objets surpuissants. Installez-le en connaissance de cause. Si vous cherchez des objets équilibrés, voyez plutôt du côté de [[L'interplan]].",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=31924",
-            "https://github.com/Deratiseur/Todd",
-            "https://app.mediafire.com/depaqus3ma8bt"
+            "https://forums.beamdog.com/discussion/76355/",
+            "https://github.com/Deratiseur/Todd/"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -40561,11 +40562,11 @@
     {
         "id": 1273,
         "name": "Kurosaï le combineur",
-        "description": "Kurosaï est un pnj qui peut moyennant moult pièces d'or combiner trois objets +x en un objet +x+1. Il peut ainsi combiner les objets jusqu'à +6.",
+        "description": "Kurosaï est un pnj qui peut moyennant moult pièces d'or combiner trois objets +x en un objet +x+1. Cela marche pour presque tous les objets +x, des armes aux armures en passant par les bijoux. Il peut ainsi combiner les objets jusqu'à +6. Il apparaît à Francmarché après que les Daos soient partis. Plus tard dans le jeu il se déplacera à Saradush, et il disparaîtra avec la destruction de la ville.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34425",
-            "https://github.com/Deratiseur/Combino/",
-            "https://app.mediafire.com/depaqus3ma8bt"
+            "https://forums.beamdog.com/discussion/88467/",
+            "https://github.com/Deratiseur/Combino/"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -40592,11 +40593,11 @@
     {
         "id": 1274,
         "name": "Jazon le revenant",
-        "description": "Jazon le revenant est un revenant qui peut vous suivre comme 7ème membre et vous suivra dans toutes les zones. Il est de niveau 8 et ne progressera jamais, par contre il tape dur et résiste à tout (force et constitution 19, immunités de mort vivant, 75% de résistance à tout et régénération rapide). Son arme n'est pas magique au début mais évolue en fonction de la progression du protagoniste. S'il est tué, il droppe son cœur, que vous pouvez utiliser après une nuit de sommeil pour le ré-invoquer.",
+        "description": "Jazon le revenant est un guerrier mort-vivant muet qui peut vous suivre comme 7ème membre du groupe. Il est de niveau 8 et ne progressera jamais, par contre il tape dur et résiste à tout (force et constitution 19, immunités de mort vivant, 75% de résistance à tout et régénération rapide). Son arme n'est pas magique au début mais évolue en fonction de la progression du protagoniste. S'il est tué, il droppe son cœur, que vous pouvez utiliser après une nuit de sommeil pour le ré-invoquer. Vous trouverez son coeur dans une tombe : dans le cimetière d'Athkatla dans BG2, dans la vallée des ombres de IWDEE.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34466",
-            "https://github.com/Deratiseur/Jazon/",
-            "https://app.mediafire.com/depaqus3ma8bt"
+            "https://forums.beamdog.com/discussion/88526/",
+            "https://github.com/Deratiseur/Jazon/"
         ],
         "categories": [
             "PNJ One Day"
@@ -42111,7 +42112,7 @@
     {
         "id": 1320,
         "name": "Illo le tatoueur",
-        "description": "Un marchand qui vend près d'une centaine de tatouages à usage unique qui fonctionnent comme des tomes, mais en version ++.|Vous vous rappelez des tatouages de PST ? Il y a les mêmes, et plein d'autres.",
+        "description": "Un marchand qui vend près d'une centaine de tatouages à usage unique qui fonctionnent comme des tomes, mais en version ++.|Vous vous rappelez des tatouages de PST ? Il y a les mêmes, et plein d'autres. Vous trouverez le marchand :|- BG2 : à l’extérieur de la guilde des voleurs, au sud sous le préau ombragé|Fosses noires 2 : à l'écart du cercle des marchands|- IWDEE : à coté de la forge de Coulon à Kuldahar",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34267",
             "https://forums.beamdog.com/discussion/88006/",
@@ -48156,7 +48157,7 @@
     {
         "id": 1521,
         "name": "Mods_Tweaker",
-        "description": "Ce mod permet revisite légèrement de vieux mods en leur donnant plus de cohérence. Tous les composants sont optionnels et les mods doivent être installés avant celui-ci. On retrouve notamment : [[Horace]], [[Chiara NPC]], [[Moddie the vixen]], [[Ninafer]], [[Thael NPC]], [[Sub-zero]], [[Yikari]], [[Umbra of T.R.O.W.]], [[Jamella's Diablo2 Item Store]].",
+        "description": "Ce mod permet revisite légèrement de vieux mods en leur donnant plus de cohérence. Tous les composants sont optionnels et les mods doivent être installés avant celui-ci. On retrouve notamment : [[Horace]], [[Chiara NPC]], [[Moddie the vixen]], [[Ninafer]], [[Thael NPC]], [[Tomoyo and the Underground City]], [[Sub-zero]], [[Banana! NPC Mod]], [[Yikari]], [[Mawgul NPC]], [[Umbra of T.R.O.W.]], [[Jamella's Diablo2 Item Store]], [[Lion Warrior kit]], [[The Tortured Soul Quest]].",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34693",
             "https://github.com/Deratiseur/Mods_Tweaker/",
@@ -55285,10 +55286,10 @@
     {
         "id": 1764,
         "name": "Oops le magicien",
-        "description": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale.  Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 10000 po par niveau du sort désiré, ça vous coute aussi 1000xp par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité. Vous trouverez Oops à coté de la Tour de Garde, au sud ouest. Il est là pour être accessible aussi bien dans SOA que dans TOB.",
+        "description": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale.  Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 10000 po par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité.|Vous trouverez Oops à coté de la Tour de Garde, au sud ouest. Il est là pour être accessible aussi bien dans SOA que dans TOB.|Le mod gère aussi des grimoires tirés d'autres mods comme [[L'interplan]], [[Semi-multi clerics mod]], [[Wild Mage Additions]].",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34841",
-            "https://forums.beamdog.com/discussion/89314",
+            "https://forums.beamdog.com/discussion/89314/",
             "https://github.com/Deratiseur/Oops/"
         ],
         "categories": [
@@ -55451,7 +55452,7 @@
         "description": "Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or. Si vous prévoyez vraiment beaucoup de pièce d'or et si vous êtes persuasif, vous pourrez peut être acheter 'plus'.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34676",
-            "https://forums.beamdog.com/discussion/89435",
+            "https://forums.beamdog.com/discussion/89435/",
             "https://github.com/Deratiseur/Gilbertus/"
         ],
         "categories": [
@@ -55479,9 +55480,10 @@
     {
         "id": 1770,
         "name": "CrossClass Powerkits",
-        "description": "Des combinaisons de kits vanilla pour des résultats détonants.",
+        "description": "Des combinaisons de kits vanilla pour des résultats détonants.|Quelques exemples : Kensai disciple du dragon, Clerc bretteur, Ensorceleur moine...",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34909",
+            "https://forums.beamdog.com/discussion/89445/",
             "https://github.com/Deratiseur/CrossClass/"
         ],
         "categories": [
