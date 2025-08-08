@@ -43539,11 +43539,11 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "2024-07",
         "tp2": "wallace"
     },
@@ -44546,11 +44546,11 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "2024-08",
         "tp2": "ZS_StartingGear"
     },
@@ -45439,11 +45439,11 @@
     },
     {
         "id": 1428,
-        "name": "A mod for BG2:EE that lets you keep your stuff from BG1",
+        "name": "www.urstuff2athkatla.com",
         "description": "Vous permet de conserver tous vos objets au début de BG2. Reproduit l'exploit du jeu original qui permettait de mettre en pause et de laisser tomber ses objets au début d'une nouvelle partie.",
         "urls": [
             "https://forums.beamdog.com/discussion/45114/",
-            "https://github.com/ALIENQuake/www.urstuff2athkatla.com"
+            "https://github.com/CrevsDaak/www.urstuff2athkatla.com/"
         ],
         "categories": [
             "Gameplay"
@@ -45464,7 +45464,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2024-01",
         "tp2": "www.urstuff2athkatla"
     },
     {
@@ -46992,8 +46992,7 @@
         "name": "Soundset for the enhanced edition Infinity Engine games",
         "description": "Tous les packs de sons (en anglais) crées par Boooof. Il y a :|[[Benny-soundset]] et Garrett du jeu Thief.|[[Borjoyzee-soundset]], Delphi et Yan du jeu Giants Citizen Kabuto.|Cassandra du jeu Dragon Age Inquisition.|Une garde de l'Oblivion du jeu Oblivion.|Zapp Brannigan de la série tv Futurama.",
         "urls": [
-            "https://drive.google.com/drive/folders/1EzgeRRAoj79BhEsWjUa_7PZrl4QUh4-P",
-            "https://github.com/Boooof"
+            "https://drive.google.com/drive/folders/1EzgeRRAoj79BhEsWjUa_7PZrl4QUh4-P"
         ],
         "categories": [
             "Portrait et son"
@@ -47009,7 +47008,7 @@
         ],
         "team": [],
         "notes": [
-            "Le lien vers Github propose trois soundsets. Le lien vers Drive propose l'intégrale des huit soundsets créés.",
+            "Il existe un lien [Github](https://github.com/Boooof) mais celui-ci ne propose que trois soundsets. Le lien vers Drive propose l'intégrale des huit soundsets créés.",
             "Nécessite BGEE, B2EE ou IWDEE en version 2.6+"
         ],
         "translation_state": "auto",
@@ -50303,11 +50302,11 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "2025-01",
         "tp2": "ZS_CharacterTraits"
     },
@@ -51087,7 +51086,7 @@
         "description": "Areen est un mage sauvage doué qui aborde son art de manière très sérieuse et académique. Il peut être recruté au chapitre 1 et est très difficile à manquer. Bien qu'il ait des statistiques bien optimisées, il a aussi un problème qui peut être résolu progressivement au cours du jeu. Pour le moment il dispose de peu de banters avec les autres personnages Bioware. Il dispose aussi de quelques objets.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/39228-npc-mod-release-areen-the-wild-mage-for-bgee-version-13/",
-            "https://github.com/BE-Mods/Areen/"
+            "https://github.com/BE-Mods/Areen1/"
         ],
         "categories": [
             "PNJ recrutable"

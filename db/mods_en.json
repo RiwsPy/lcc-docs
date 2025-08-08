@@ -20684,9 +20684,9 @@
     },
     {
         "id": 1428,
-        "description": "Allows you to keep all your items at the start of BG2. Replicates the original game's ability to pause and drop items at the start of a new game.",
+        "description": "Lets you keep all of your items at the start of BG2. Replicates the exploit in the original game in which one could pause and drop their items at the start of a new game.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Vous permet de conserver tous vos objets au début de BG2. Reproduit l'exploit du jeu original qui permettait de mettre en pause et de laisser tomber ses objets au début d'une nouvelle partie."
         },
         "notes": [],
@@ -21442,13 +21442,13 @@
             "source": "Tous les packs de sons (en anglais) crées par Boooof. Il y a :|[[Benny-soundset]] et Garrett du jeu Thief.|[[Borjoyzee-soundset]], Delphi et Yan du jeu Giants Citizen Kabuto.|Cassandra du jeu Dragon Age Inquisition.|Une garde de l'Oblivion du jeu Oblivion.|Zapp Brannigan de la série tv Futurama."
         },
         "notes": [
-            "The link to Github offers three soundsets. The Drive link contains all eight soundsets.",
+            "The [Github](https://github.com/Boooof) only offers three soundsets. The Drive link contains all eight soundsets.",
             "Requires BGEE, B2EE or IWDEE version 2.6+."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Le lien vers Github propose trois soundsets. Le lien vers Drive propose l'intégrale des huit soundsets créés.",
+                "Il existe un lien [Github](https://github.com/Boooof) mais celui-ci ne propose que trois soundsets. Le lien vers Drive propose l'intégrale des huit soundsets créés.",
                 "Nécessite BGEE, B2EE ou IWDEE en version 2.6+"
             ]
         }
