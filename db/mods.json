@@ -9566,8 +9566,7 @@
             "EET"
         ],
         "authors": [
-            "Tin",
-            "Freddy_Gwendo"
+            "Tin"
         ],
         "team": [],
         "notes": [
@@ -14947,7 +14946,7 @@
     {
         "id": 469,
         "name": "Harden Coonors Tutu-AddOn",
-        "description": "Ce mod allemand semble avec disparu.",
+        "description": "Ce mod allemand semble avoir disparu.",
         "urls": [],
         "categories": [
             "Gameplay"
@@ -15096,8 +15095,7 @@
             "EET"
         ],
         "authors": [
-            "Tin",
-            "Freddy_Gwendo"
+            "Tin"
         ],
         "team": [],
         "notes": [],
@@ -29763,7 +29761,7 @@
     {
         "id": 936,
         "name": "Shadows over Soubar",
-        "description": "Ce mod de C. Bisson est assez gigantesque et modifie grandement l'histoire de SoA. Il ajoute 4 nouveaux PNJ, 1 nouveau profil, 1 nouveau donjon, 100 nouvelles cartes, 400 nouvelles créatures, 400 nouveaux items, 20 nouveaux magasins (marchands), 30 sous-quêtes et 2 quêtes majeures.",
+        "description": "Ce mod est assez gigantesque et modifie grandement l'histoire de SoA. Il ajoute 4 nouveaux PNJ, 1 nouveau profil, 1 nouveau donjon, 100 nouvelles cartes, 400 nouvelles créatures, 400 nouveaux items, 20 nouveaux magasins (marchands), 30 sous-quêtes et 2 quêtes majeures.",
         "urls": [
             "https://www.spellholdstudios.net/ie/sos",
             "https://github.com/Spellhold-Studios/Shadows-over-Soubar"
@@ -29775,10 +29773,8 @@
         "games": [
             "BG2",
             "BGT",
-            "BGEE",
             "BG2EE",
-            "EET",
-            "IWDEE"
+            "EET"
         ],
         "authors": [
             "CBisson"
@@ -39642,7 +39638,9 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Smiling Imp"
@@ -40450,7 +40448,7 @@
             "https://github.com/The-Gate-Project/IRStore"
         ],
         "categories": [
-            "Sort et objet"
+            "Forgeron et marchand"
         ],
         "games": [
             "BG2",
@@ -42162,7 +42160,7 @@
             "https://github.com/Argent77/A7-WaresOfThePlanes"
         ],
         "categories": [
-            "Sort et objet"
+            "Forgeron et marchand"
         ],
         "games": [
             "BGEE",
@@ -45714,9 +45712,12 @@
             "Ian"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il écrase ar2616.are. À éviter autant que possible.",
+            "Une version pour BG2EE existe : [[Lore Friendly Easy Mod BG2EE]]."
+        ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2022-03",
@@ -46904,6 +46905,7 @@
         "name": "Inventor",
         "description": "Ce mod introduit un nouveau kit pour le voleur. Il est légèrement inspiré du jeu Arcanum : Of Steamworks and Magick Obscura. Les inventeurs sont des voleurs qui se sont consacrés à l'étude des sciences et de l'artisanat. Avec l'expérience, ils peuvent créer et développer des inventions de plus en plus complexes, que l'on peut qualifier de synthétiques et d'avant-gardistes compte tenu des réalités du royaume. Souvent inspirés par les doctrines de Gond, ils peuvent créer de véritables chefs-d'œuvre techniques à partir de tout ce qu'ils rencontrent au cours de leurs voyages. Seuls les gnomes peuvent devenir des inventeurs.",
         "urls": [
+            "https://forums.beamdog.com/discussion/89483/",
             "https://www.nexusmods.com/baldursgate/mods/82"
         ],
         "categories": [
@@ -47113,9 +47115,8 @@
             "Quête"
         ],
         "games": [
-            "BG2",
-            "BG2EE",
-            "IWDEE"
+            "BGEE",
+            "SoD"
         ],
         "authors": [
             "elminster"
@@ -49801,8 +49802,7 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en",
-            "de"
+            "en"
         ],
         "status": "active",
         "last_update": "2023-06",
@@ -49810,8 +49810,8 @@
     },
     {
         "id": 1578,
-        "name": "Ahungry Backstab",
-        "description": "Ce mod permet de retirer l'immunité aux attaques sournoises et à l'arrêt du temps de toutes les créatures.",
+        "name": "Ahungry's Restore Backstab",
+        "description": "Ce mod permet de retirer l'immunité aux attaques sournoises et à l'arrêt du temps de toutes les créatures, exceptée celle des Barbares.",
         "urls": [
             "https://github.com/ahungry/ahungry_backstab"
         ],
@@ -50177,10 +50177,9 @@
             "Kit"
         ],
         "games": [
-            "BG2",
-            "BGT",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Wes Weimer"
@@ -55173,7 +55172,7 @@
     {
         "id": 1761,
         "name": "LaAudio",
-        "description": "Ce mod ajoute trois set de voix crée par Lava Del'Vortel et basés sur sa propre voix (en polonais). Une des sets inclut un effet de réverbération, parfait pour un personnage surnaturel.",
+        "description": "Ce mod ajoute trois sets de voix créés par Lava Del'Vortel et basés sur sa propre voix (en polonais). Un des sets inclut un effet de réverbération, parfait pour un personnage surnaturel.",
         "urls": [
             "https://athkatla.cob-bg.pl/viewtopic.php?t=3741",
             "https://baldur.cob-bg.pl/download/bg2/soundsets/LaAudio_v2.zip"
@@ -55789,5 +55788,201 @@
         "status": "active",
         "last_update": "2025-08",
         "tp2": "B3-ReduceSaveCompression"
+    },
+    {
+        "id": 1781,
+        "name": "IWD Bonus merchants",
+        "description": "Ce module place les deux marchands Deirdre et Joluv dans IWDEE Deirdre et dans la boutique de Gerth et Joluv est dans la taverne.",
+        "urls": [
+            "https://github.com//Deratiseur/IWD_Bonus/"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Deratiseur"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "fr",
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-07",
+        "tp2": "Derats_IWD_Bonus"
+    },
+    {
+        "id": 1782,
+        "name": "WL House Rules",
+        "description": "Ce mod ajoute de nombreux tweaks faits maison. Il ajoute également deux kits : le Grey Guard Paladin et le Chancer Bard. Consultez le [readme](https://www.nexusmods.com/baldursgate2ee/articles/8) pour plus d'informations.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/110/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "AlbiesEmporium"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-07",
+        "tp2": "wl_HouseRules"
+    },
+    {
+        "id": 1783,
+        "name": "Ryoko Kui Portraits Pack",
+        "description": "Pack de 105 portraits dessinés par l'auteure de mangas Ryoko Kui. 21 portraits représentant des nains, des elfes, des gnomes, des petites-personnes et des humains.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/110/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Infornographie"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2025-07",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1784,
+        "name": "Lunia for Good Parties",
+        "description": "La carte de Lunia offre un contraste rafraîchissant avec les nombreux lieux infernaux présents dans Baldur's Gate II. Malheureusement, seuls les groupes qui voyagent avec Dorn, généralement ceux d'alignement neutre ou mauvais, y ont accès.||Ce mod offre un chemin alternatif aux personnages d'alignement bon ou loyal neutre (avec une réputation de 14 ou plus) pour entrer à Lunia et aider les fidèles de Tyr à rendre justice.",
+        "urls": [
+            "https://github.com/bucketfulofsunshine/Lunia-For-Good-Parties/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "bucketfulofsunshine"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2025-07",
+        "tp2": "lfgp"
+    },
+    {
+        "id": 1785,
+        "name": "Edwina Dialogue Tweaks",
+        "description": "Ce mod modifie quatre des options de dialogue de CHARNAME avec Edwina afin de les rendre un peu plus respectueuses.",
+        "urls": [
+            "https://github.com/bucketfulofsunshine/Edwina-Dialogue-Tweaks/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "bucketfulofsunshine"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-07",
+        "tp2": "edwinatweaks"
+    },
+    {
+        "id": 1786,
+        "name": "Lore Friendly Easy Mod BG2EE",
+        "description": "Ce mod ajoute 3 capacités spéciales au joueur afin de rendre le jeu un peu plus facile : Résurrection, Sanctuaire et Soin des blessures graves. Pour obtenir ces sorts, il faut boire la potion rouge ou bleue posée dans sur la table à côté des cellules dans le donjon d'Irenicus.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/116/"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Ian"
+        ],
+        "team": [],
+        "notes": [
+            "Il écrase le fichier dialog.tlk (en anglais) et ar0602.are. À éviter autant que possible.",
+            "Une version pour BGEE existe : [[Lore Friendly Easy Mod]]."
+        ],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-06",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1787,
+        "name": "mixedtweaks",
+        "description": "Ce tweakpack possèdent plusieurs composants assez variés, des modifications de comportements des pnj, à des améliorations visuelles des objets de quêtes en passant par l'ajout de gain d'expérience lors des quêtes. Il propose aussi de nouveaux scripts pour vos coéquipiers.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/82314/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "NathanHades"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "de"
+        ],
+        "status": "active",
+        "last_update": "2025-07",
+        "tp2": "nathanstweak"
     }
 ]

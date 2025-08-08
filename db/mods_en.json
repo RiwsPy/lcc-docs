@@ -2151,7 +2151,7 @@
             "status": "needs_review",
             "source": [
                 "Installez-le avant tout autre mod qui apporte des modifications aux zones, car sinon le jeu se plantera lorsque vous entrerez dans ces zones !",
-                "Le dernier lien github propose une version pour Android."
+                "Il existe une version pour [Android](https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul-Android)."
             ]
         }
     },
@@ -5974,8 +5974,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Attention, le dernier composant est absent de la dernière release du mod."
+            ]
         }
     },
     {
@@ -6015,7 +6017,7 @@
         "description": "Created in 4 days for a modding contest on the theme of \"History\", this mod adds a lawful good bard who sings worse than an unsuccessful American Idol contestant! Interactions with everyone and a specific kit. Beware, his stats are pitiful: are you prepared to put up with him?",
         "description_meta": {
             "status": "needs_review",
-            "source": "Créé en 4 jours pour un concours de modding sur le thème \"Histoire\", ce mod ajoute au jeu un barde loyal bon qui chante encore plus mal qu'un candidat malheureux à la Nouvelle Star ! Des interactions avec tout le monde et un kit spécifique. Attention, ses statistiques sont lamentables : êtes-vous prêt à le supporter (le traîner) ?"
+            "source": "Créé en 4 jours pour un concours de modding sur le thème \"Histoire\", ce mod ajoute au jeu un barde loyal bon qui chante encore plus mal qu'un candidat malheureux à la Nouvelle Star ! Des interactions avec tout le monde et un kit spécifique. Attention, ses statistiques sont lamentables : êtes-vous prêt à le supporter (le traîner ) ?"
         },
         "notes": [],
         "notes_meta": {
@@ -6735,7 +6737,7 @@
         "description": "This mod adds a moon elf true neutral fighter. He was raised in Cormanthor, and spent his life defending it, until a wild surge teleported him to Athkatla. Will you help him adapt? The mod includes 2 banters with each of the Bioware NPCs, a short friendship track and numerous interjections. He can be found inside the Den of the Seven Vales in Waukeen's Promenade.|STR 18/92, DEX 17, CON 16, INT 11, WIS 9, CHA 9.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un elfe de la lune. Il a grandi à Cormanthor et a passé sa vie à la défendre, jusqu'à ce qu'un hiatus entropique le téléporte à Athkatla. L'aiderez-vous ? le mod comprend 2 banters avec chaque PNJ de Bioware, des dialogues amicaux avec le PJ et de nombreuses interjections. Il se trouve dans l'antre des Sept Vaux sur la Promenade de Waukyne.|FOR 18/92, DEX 17, CON 16, INT 11, SAG 9, CHA 9."
+            "source": "Ce mod ajoute un elfe de la lune guerrier d'alignement neutre strict. Il a grandi à Cormanthor et a passé sa vie à la défendre, jusqu'à ce qu'un hiatus entropique le téléporte à Athkatla. L'aiderez-vous ? le mod comprend 2 banters avec chaque PNJ de Bioware, des dialogues amicaux avec le PJ et de nombreuses interjections. Il se trouve dans l'antre des Sept Vaux sur la Promenade de Waukyne.|FOR 18/92, DEX 17, CON 16, INT 11, SAG 9, CHA 9."
         },
         "notes": [],
         "notes_meta": {
@@ -6804,7 +6806,7 @@
         "description": "This German mod seems to have disappeared.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod allemand semble avec disparu."
+            "source": "Ce mod allemand semble avoir disparu."
         },
         "notes": [],
         "notes_meta": {
@@ -13585,10 +13587,10 @@
     },
     {
         "id": 936,
-        "description": "This mod by C. Bisson is quite gigantic and greatly modifies the story of SoA. It adds 4 new NPCs, 1 new profile, 1 new dungeon, 100 new maps, 400 new creatures, 400 new items, 20 new stores (merchants), 30 sub-quests and 2 major quests.",
+        "description": "This mod is quite gigantic and greatly modifies the story of SoA. It adds 4 new NPCs, 1 new profile, 1 new dungeon, 100 new maps, 400 new creatures, 400 new items, 20 new stores (merchants), 30 sub-quests and 2 major quests.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod de C. Bisson est assez gigantesque et modifie grandement l'histoire de SoA. Il ajoute 4 nouveaux PNJ, 1 nouveau profil, 1 nouveau donjon, 100 nouvelles cartes, 400 nouvelles créatures, 400 nouveaux items, 20 nouveaux magasins (marchands), 30 sous-quêtes et 2 quêtes majeures."
+            "source": "Ce mod est assez gigantesque et modifie grandement l'histoire de SoA. Il ajoute 4 nouveaux PNJ, 1 nouveau profil, 1 nouveau donjon, 100 nouvelles cartes, 400 nouvelles créatures, 400 nouveaux items, 20 nouveaux magasins (marchands), 30 sous-quêtes et 2 quêtes majeures."
         },
         "notes": [
             "Warning: a pirated version exists for EET, whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk, and don't complain!"
@@ -16993,7 +16995,7 @@
         "description": "This mod allows all characters to wear Bioware NPC equipment.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet à tous les personnages de porter l'équipement des PNJ de Bioware."
+            "source": "Ce mod contient deux composants, le premier permet à tous les personnages de porter l'équipement des PNJ de Bioware. Le second permet aux voleurs d'utiliser les objets des PNJ de Bioware avec leur capacité Utilisation d'objet."
         },
         "notes": [],
         "notes_meta": {
@@ -18468,7 +18470,7 @@
         "description": "Jazon le revenant is a mute undead warrior who can follow you as a 7th member of the party. He is level 8 and will never progress, but he types hard and resists everything (strength and constitution 19, undead immunities, 75% resistance to everything and fast regeneration). His weapon is not magical at first, but evolves as the protagonist progresses. If he's killed, he drops his heart, which you can use after a night's sleep to re-invoke him. You'll find his heart in a tomb: in the Athkatla Graveyard District in BG2, in the Valley of Shadows in IWDEE.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Jazon le revenant est un guerrier mort-vivant qui peut vous suivre comme 7ème membre du groupe. Il est de niveau 8 et ne progressera jamais, par contre il tape dur et résiste à tout (force et constitution 19, immunités de mort vivant, 75% de résistance à tout et régénération rapide). Son arme n'est pas magique au début mais évolue en fonction de la progression du protagoniste. S'il est tué, il droppe son cœur, que vous pouvez utiliser après une nuit de sommeil pour le ré-invoquer. Vous trouverez son coeur dans une tombe : dans le cimetière d'Athkatla dans BG2, dans la vallée des ombres de IWDEE."
+            "source": "Jazon le revenant est un guerrier mort-vivant muet qui peut vous suivre comme 7ème membre du groupe. Il est de niveau 8 et ne progressera jamais, par contre il tape dur et résiste à tout (force et constitution 19, immunités de mort vivant, 75% de résistance à tout et régénération rapide). Son arme n'est pas magique au début mais évolue en fonction de la progression du protagoniste. S'il est tué, il droppe son cœur, que vous pouvez utiliser après une nuit de sommeil pour le ré-invoquer. Vous trouverez son coeur dans une tombe : dans le cimetière d'Athkatla dans BG2, dans la vallée des ombres de IWDEE."
         },
         "notes": [],
         "notes_meta": {
@@ -20807,15 +20809,21 @@
     },
     {
         "id": 1437,
-        "description": "This mod adds 3 special abilities to the player to make the game a little easier: Resurrection, Sanctuary and Severe Wound Care. To obtain these spells, you need to drink the purple potion on the shelf at the Candlekeep inn.",
+        "description": "This mod adds 3 special abilities to the player to make the game a little easier: Raise Dead, Sanctuary and Cure Serious Wounds. To obtain these spells, you need to drink the purple potion on the shelf at the Candlekeep inn.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute 3 capacités spéciales au joueur afin de rendre le jeu un peu plus facile : Résurrection, Sanctuaire et Soin des blessures graves. Pour obtenir ces sorts, il faut boire la potion violette posée dans l'étagère à l'auberge de Château-Suif."
         },
-        "notes": [],
+        "notes": [
+            "It erases ar2616.are. Avoid as much as possible.",
+            "A version for BG2EE exists: [[Lore Friendly Easy Mod BG2EE]]"
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Il écrase ar2616.are. À éviter autant que possible.",
+                "Une version pour BG2EE existe : [[Lore Friendly Easy Mod BG2EE]]."
+            ]
         }
     },
     {
@@ -21129,7 +21137,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Si le deuxième membre de l'équipe s’appelle Elric, Stormbringer apparaît et vole l'objet avant de disparaître."
+                "Si le deuxième membre de l'équipe s'appelle Elric, Stormbringer apparaît et vole l'objet avant de disparaître."
             ]
         }
     },
@@ -22834,10 +22842,10 @@
     },
     {
         "id": 1578,
-        "description": "This mod removes immunity to sneak attacks and time stoppage from all creatures.",
+        "description": "This mod removes immunity to sneak attacks and time stoppage from all creatures, except Barbarians.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet de retirer l'immunité aux attaques sournoises et à l'arrêt du temps de toutes les créatures."
+            "source": "Ce mod permet de retirer l'immunité aux attaques sournoises et à l'arrêt du temps de toutes les créatures, exceptée celle des Barbares."
         },
         "notes": [
             "This mod is included in [[Ahungry's Tweaks]] by the same author."
@@ -25384,7 +25392,7 @@
         "description": "This mod adds three voice sets created by Lava Del'Vortel and based on his own voice (in Polish). One of the sets includes a reverb effect, perfect for a supernatural character.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute trois set de voix crée par Lava Del'Vortel et basés sur sa propre voix (en polonais). Une des sets inclut un effet de réverbération, parfait pour un personnage surnaturel."
+            "source": "Ce mod ajoute trois sets de voix créés par Lava Del'Vortel et basés sur sa propre voix (en polonais). Un des sets inclut un effet de réverbération, parfait pour un personnage surnaturel."
         },
         "notes": [],
         "notes_meta": {
@@ -25665,6 +25673,103 @@
             "source": [
                 "Ne fonctionne que sur les versions 2.6 du jeu."
             ]
+        }
+    },
+    {
+        "id": 1781,
+        "description": "This module places the two merchants Deirdre and Joluv in IWDEE. Deirdre is in Gerth's shop and Joluv is in the tavern.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce module place les deux marchands Deirdre et Joluv dans IWDEE Deirdre et dans la boutique de Gerth et Joluv est dans la taverne."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1782,
+        "description": "This mod adds many tweaks. It also adds two kits: the Grey Guard Paladin and the Chancer Bard. See the [readme](https://www.nexusmods.com/baldursgate2ee/articles/8) for more information.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute de nombreux tweaks faits maison. Il ajoute également deux kits : le Grey Guard Paladin et le Chancer Bard. Consultez le [readme](https://www.nexusmods.com/baldursgate2ee/articles/8) pour plus d'informations."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1783,
+        "description": "105 portraits drawn by manga author Ryoko Kui. 21 portraits for dwarves, elves, gnomes, halflings and humans.",
+        "description_meta": {
+            "status": "done",
+            "source": "Pack de 105 portraits dessinés par l'auteure de mangas Ryoko Kui. 21 portraits représentant des nains, des elfes, des gnomes, des petites-personnes et des humains."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1784,
+        "description": "Lunia's map is a refreshing contrast to the many hellish locales present in Baldur's Gate II. Unfortunately only parties who travel with Dorn - typically those of neutral or evil alignment - gain access to it.|This mod provides an alternate path for Lawful Good, Neutral Good, Chaotic Good & Lawful Neutral characters (with a reputation of 14 or higher) to enter Lunia & assist Tyr's faithful in doling out his justice.",
+        "description_meta": {
+            "status": "done",
+            "source": "La carte de Lunia offre un contraste rafraîchissant avec les nombreux lieux infernaux présents dans Baldur's Gate II. Malheureusement, seuls les groupes qui voyagent avec Dorn, généralement ceux d'alignement neutre ou mauvais, y ont accès.||Ce mod offre un chemin alternatif aux personnages d'alignement bon ou loyal neutre (avec une réputation de 14 ou plus) pour entrer à Lunia et aider les fidèles de Tyr à rendre justice."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1785,
+        "description": "This mod adjusts four of CHARNAME's dialogue options with Edwina to make them a bit more respectful.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod modifie quatre des options de dialogue de CHARNAME avec Edwina afin de les rendre un peu plus respectueuses."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1786,
+        "description": "This mod adds 3 special abilities to the player to make the game a little easier: Raise Dead, Sanctuary and Cure Serious Wounds. To obtain these spells, you need to drink the red or blue potion on the table next to the cells in the dungeon of Irenicus.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute 3 capacités spéciales au joueur afin de rendre le jeu un peu plus facile : Résurrection, Sanctuaire et Soin des blessures graves. Pour obtenir ces sorts, il faut boire la potion rouge ou bleue posée dans sur la table à côté des cellules dans le donjon d'Irenicus."
+        },
+        "notes": [
+            "It erases the dialog.tlk (in English) and ar0602.are. Avoid as much as possible.",
+            "A version for BGEE exists: [[Lore Friendly Easy Mod]]"
+        ],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Il écrase le fichier dialog.tlk (en anglais) et ar0602.are. À éviter autant que possible.",
+                "Une version pour BGEE existe : [[Lore Friendly Easy Mod]]."
+            ]
+        }
+    },
+    {
+        "id": 1787,
+        "description": "This tweakpack has several components quite varied, modifications of the behavior of NPCs, improvements of the visual rewards of quest objects as well as the addition of experience gain during quests, and also new scripts for your characters.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce tweakpack possèdent plusieurs composants assez variés, des modifications de comportements des pnj, à des améliorations visuelles des objets de quêtes en passant par l'ajout de gain d'expérience lors des quêtes. Il propose aussi de nouveaux scripts pour vos coéquipiers."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]
