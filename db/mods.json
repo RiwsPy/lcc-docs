@@ -36105,31 +36105,6 @@
         "tp2": "trovador"
     },
     {
-        "id": 1131,
-        "name": "True \"Use Any item Hla\"",
-        "description": "Dérivé de [[Use Any NPC Item - Add-on for Use Any Item HLA]], ce mod permet aux voleurs d'utiliser les objets des PNJ de Bioware avec leur capacité Utilisation d'objet.",
-        "urls": [
-            "https://forums.beamdog.com/discussion/26240/"
-        ],
-        "categories": [
-            "Sort et objet"
-        ],
-        "games": [
-            "BG2EE"
-        ],
-        "authors": [
-            "Troodon80"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "n/a",
-        "safe": 0,
-        "languages": [],
-        "status": "active",
-        "last_update": "2013-11",
-        "tp2": "non-weidu"
-    },
-    {
         "id": 1132,
         "name": "Rashemi Berserker Ranger",
         "description": "Ce mod attribue à Minsc un profil de Berserker rashemi (inspiré de la classe de prestige de Berserker frénétique) et ajoute une armure de peau améliorable à la Forge de Grondemarteau.",
@@ -37347,13 +37322,13 @@
     },
     {
         "id": 1171,
-        "name": "Use Any NPC Item - Add-on for Use Any Item HLA",
-        "description": "Ce mod permet à tous les personnages de porter l'équipement des PNJ de Bioware.",
+        "name": "Use Any NPC Item - Add-on for Use Any Item HLA.",
+        "description": "Ce mod contient deux composants, le premier permet à tous les personnages de porter l'équipement des PNJ de Bioware. Le second permet aux voleurs d'utiliser les objets des PNJ de Bioware avec leur capacité Utilisation d'objet.",
         "urls": [
             "https://forums.beamdog.com/discussion/26240/"
         ],
         "categories": [
-            "Sort et objet"
+            "Gameplay"
         ],
         "games": [
             "BG2EE"
