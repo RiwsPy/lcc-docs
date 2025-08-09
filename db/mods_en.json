@@ -1422,12 +1422,12 @@
             "source": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts). Il nécessite ToB."
         },
         "notes": [
-            "Choose the shs link for the original versions and the github link for the EE version. The second version is unofficial."
+            "An unofficial EE-compatible version is available: [[Azengaard Encounter]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Choisissez le lien shs pour les versions originelles et le lien github pour la version EE. La seconde version est non officielle et n'est disponible ni en français ni en italien, mais elle est disponible en russe."
+                "Une version non officielle et compatible EE existe : [[Azengaard Encounter]]."
             ]
         }
     },
@@ -25796,6 +25796,23 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1790,
+        "description": "This mod adds some nice and varied encounters in different parts of SoA... among others. Be sure to read the readme contained in the archive for more details (there are quite a few additions).",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts)."
+        },
+        "notes": [
+            "Unofficial version of [[Azengaard Tactical Encounter]]."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Version non officielle du mod [[Azengaard Tactical Encounter]]."
+            ]
         }
     }
 ]

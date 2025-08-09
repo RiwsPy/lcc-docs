@@ -3161,17 +3161,14 @@
         "name": "Azengaard Tactical Encounter",
         "description": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts). Il nécessite ToB.",
         "urls": [
-            "https://www.shsforums.net/files/file/658-azenmod-v5/",
-            "https://github.com/RoxanneSHS/AzengaardEE"
+            "https://www.shsforums.net/files/file/658-azenmod-v5/"
         ],
         "categories": [
             "Script et tactique"
         ],
         "games": [
             "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Josh Clue",
@@ -3179,7 +3176,7 @@
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien shs pour les versions originelles et le lien github pour la version EE. La seconde version est non officielle et n'est disponible ni en français ni en italien, mais elle est disponible en russe."
+            "Une version non officielle et compatible EE existe : [[Azengaard Encounter]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -3187,12 +3184,11 @@
             "en",
             "fr",
             "de",
-            "it",
-            "ru"
+            "it"
         ],
         "status": "active",
-        "last_update": "2022-11",
-        "tp2": "Azengaard"
+        "last_update": "2009-01",
+        "tp2": "AzenMOD"
     },
     {
         "id": 97,
@@ -56088,5 +56084,39 @@
         "status": "active",
         "last_update": "2008-12",
         "tp2": "Esiriak"
+    },
+    {
+        "id": 1790,
+        "name": "Azengaard Encounter",
+        "description": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts).",
+        "urls": [
+            "https://github.com/RoxanneSHS/AzengaardEE"
+        ],
+        "categories": [
+            "Script et tactique"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Josh Clue",
+            "Erebusant",
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [
+            "Version non officielle du mod [[Azengaard Tactical Encounter]]."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "de",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2022-11",
+        "tp2": "Azengaard"
     }
 ]
