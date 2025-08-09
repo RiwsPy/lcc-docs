@@ -1105,10 +1105,10 @@
     },
     {
         "id": 75,
-        "description": "This mod adds a new recruitable NPC, the half-orc barbarian Ashar, who stands near the entrance to the Copper Coronet, just after the death of tavern owner Lehtinan. Having suffered slavery, Ashar is an aggressive, straightforward woman, but also a little confused. Feel free to tell her whatever you want, there are no \"right\" or \"wrong\" answers in your interviews. However, don't forget that your words and actions can have a big impact on his character.",
+        "description": "This mod adds a new recruitable NPC, the half-orc barbarian Ashar, who stands near the entrance to the Copper Coronet, right after the death of the tavern's owner, Lehtinan. Having suffered slavery, Ashar is aggressive, plainspoken, but also a bit confused woman. Fell free to say what you will, during talks with her, there aren't any \"correct\" or \"incorrect\" answers. However, be aware, because your words and deeds may have a great impact on Ashar's character. The mod offers about 20 dialogues with the PC, a modest romance, as well as many interactions, comments, and banters with all BGII NPCs.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un nouveau PNJ recrutable, la barbare demi-orque Ashar qui se trouve près de l'entrée de la Couronne de Cuivre, juste après la mort du propriétaire de la taverne, Lehtinan. Ayant subi l'esclavage, Ashar est une femme agressive, simple, mais aussi un peu confuse. N'hésitez pas à lui dire ce que vous voulez, lors de vos entretiens, il n'y a pas de réponses \"correctes\" ou \"incorrectes\". Cependant, n'oubliez pas que vos paroles et vos actes peuvent avoir un grand impact sur son caractère."
+            "source": "Ce mod ajoute un nouveau PNJ recrutable, la barbare demi-orque Ashar qui se trouve près de l'entrée de la Couronne de Cuivre, juste après la mort du propriétaire de la taverne, Lehtinan. Ayant subi l'esclavage, Ashar est une femme agressive, simple, mais aussi un peu confuse. N'hésitez pas à lui dire ce que vous voulez, lors de vos entretiens, il n'y a pas de réponses \"correctes\" ou \"incorrectes\". Cependant, n'oubliez pas que vos paroles et vos actes peuvent avoir un grand impact sur son caractère. Le mod propose environ 20 dialogues avec le personnage principal, une petite romance, ainsi que de nombreuses interactions, commentaires et plaisanteries avec tous les PNJ de BGII."
         },
         "notes": [
             "EET compatibility to be tested."
@@ -4813,7 +4813,7 @@
     },
     {
         "id": 332,
-        "description": "This mod changes the portraits of the group's NPCs to dark elves after Adalon casts a metamorphosis spell on the group. The portrait change will last until she transforms you back or you kill her, or until you are discovered by either Ardulace, the Demon Lord, Phaere or Solaufein. Of course, they'll revert to their original portrayal when you reach the exit from Shadowland.",
+        "description": "This mod changes the portraits of the group's NPCs to dark elves after Adalon casts a metamorphosis spell on the group. The portrait change will last until she transforms you back or you kill her, or until you are discovered by either Ardulace, the Demon Lord, Phaere or Solaufein. Of course, they'll revert to their original portrayal when you reach the exit from Underdark.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod modifie les portraits des PNJ du groupe en elfes noirs après qu'Adalon ait lancé un sort de métamorphose sur le groupe. Le changement de portraits durera jusqu'à ce qu'elle vous retransforme ou que vous la tuiez, ou jusqu'à ce que vous soyez découvert soit par Ardulace, soit par le Seigneur Démon, Phaere ou Solaufein. Bien évidemment, ils retrouveront leur portrait initial lorsque vous atteindrez la sortie de l'Ombreterre."
@@ -7817,7 +7817,7 @@
     },
     {
         "id": 539,
-        "description": "This mini-mod upgrades Haer'Dalis swords in Shadowland.",
+        "description": "This mini-mod upgrades Haer'Dalis swords in Underdark.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mini mod permet d'améliorer les épées d'Haer'Dalis en Ombreterre."
@@ -8643,13 +8643,13 @@
     },
     {
         "id": 597,
-        "description": "This small mod restores the Dark Elf innate abilities foreseen by AD&D, but only in Shadowland: Globe of Darkness, Enhanced Globe of Darkness, Dancing Glow and Fairy Fire.",
+        "description": "This small mod restores the Dark Elf innate abilities foreseen by AD&D, but only in Underdark: Globe of Darkness, Enhanced Globe of Darkness, Dancing Glow and Fairy Fire.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce petit mod restaure les capacités innées des elfes noirs prévues par AD&D, mais seulement dans l'Ombreterre : Globe d'obscurité, Globe d'obscurité amélioré, Lueurs dansantes et Feu féerique."
         },
         "notes": [
-            "This mod is obsolete now that it has been integrated into PPG's Ding0's Quest Pack. In addition, the site hosting it is no longer available."
+            "This mod is obsolete now that it has been integrated into PPG's [[Ding0's Quest Pack]]. In addition, the site hosting it is no longer available."
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -8688,7 +8688,7 @@
     },
     {
         "id": 600,
-        "description": "This mod allows you to decide who can remain in the group during BG2 and ToB: Khalid or Jaheira. It places Khalid near Jaheira's cage. Help him, and you'll no longer be able to recruit Jaheira, since she'll be the one taken away by Irenicus, and Khalid will mourn her. Help Jaheira, and Khalid will suffer his original spell. Make your choice!|This mod includes a new portrait, a new voice, a friendship path, new versions of the Baron Ployer quests and Harper problems, new items, and even the possibility of Khalid getting a new profile after Shadowland. There's no romance, but a new non-romantic path for male NPCs. It's a deep but unromantic friendship, triggered by Khalid's difficult relationship with his half-brothers in Calimshan and Bhaal's child's not-so-brotherly relationship with Sarevok and their lack of a father. The female PJs also receive something: a special gift that Jaheira found at the time of the Crusade and gave to Khalid, hoping that one day they would give it to their leader together.",
+        "description": "This mod allows you to decide who can remain in the group during BG2 and ToB: Khalid or Jaheira. It places Khalid near Jaheira's cage. Help him, and you'll no longer be able to recruit Jaheira, since she'll be the one taken away by Irenicus, and Khalid will mourn her. Help Jaheira, and Khalid will suffer his original spell. Make your choice!|This mod includes a new portrait, a new voice, a friendship path, new versions of the Baron Ployer quests and Harper problems, new items, and even the possibility of Khalid getting a new profile after Underdark. There's no romance, but a new non-romantic path for male NPCs. It's a deep but unromantic friendship, triggered by Khalid's difficult relationship with his half-brothers in Calimshan and Bhaal's child's not-so-brotherly relationship with Sarevok and their lack of a father. The female PJs also receive something: a special gift that Jaheira found at the time of the Crusade and gave to Khalid, hoping that one day they would give it to their leader together.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod permet de décider qui peut rester dans le groupe pendant BG2 et ToB : Khalid ou Jaheira. Il place Khalid près de la cage de Jaheira. Aidez-le, et vous ne pourrez plus recruter Jaheira puisque c'est elle qui aura été emmenée par Irenicus, et Khalid la pleurera. Aidez Jaheira, et Khalid subira son sort initial. Faites votre choix !|Ce mod inclut un nouveau portrait, une nouvelle voix, un chemin de l'amitié, de nouvelles versions des quêtes du Baron Ployer et des problèmes avec les ménestrels, de nouveaux objets, et même la possibilité que Khalid obtienne un nouveau profil après l'Ombreterre. Il n'y a pas de romance, mais un nouveau chemin non romantique pour les PNJ masculins. Il s'agit d'une amitié profonde, mais non romantique, déclenchée par la relation difficile de Khalid avec ses demi-frères à Calimshan et la relation pas très fraternelle de l'enfant de Bhaal avec Sarevok et leur manque de père. Les PJ féminins reçoivent également quelque chose : un cadeau spécial que Jaheira a trouvé à l'époque de la Croisade et qu'elle a donné à Khalid, espérant qu'ils le donneraient un jour ensemble à leur chef."
@@ -11058,7 +11058,7 @@
     },
     {
         "id": 765,
-        "description": "This mod allows you to recruit Drizzt Do'Urden when you leave Shadowland in search of Rhynn Lanthorn.",
+        "description": "This mod allows you to recruit Drizzt Do'Urden when you leave Underdark in search of Rhynn Lanthorn.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod vous permet de recruter Drizzt Do‘Urden lorsque vous quittez l'Ombreterre et partez à la recherche du Rhynn Lanthorn."
@@ -12315,7 +12315,7 @@
     },
     {
         "id": 850,
-        "description": "This mod features 51 new items from the [[Return to Trademeet]] mod, grouped together at a single vendor: Ribald, at the Adventurer Mart. Some items, powerful enough to send Gaxx's ring back to oblivion, will be offered to you on leaving Shadowland, in the \"improved\" stock Ribald offers for a fee.",
+        "description": "This mod features 51 new items from the [[Return to Trademeet]] mod, grouped together at a single vendor: Ribald, at the Adventurer Mart. Some items, powerful enough to send Gaxx's ring back to oblivion, will be offered to you on leaving Underdark, in the \"improved\" stock Ribald offers for a fee.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod propose 51 nouveaux objets provenant du mod [[Return to Trademeet]], regroupés chez un seul vendeur : Ribald, au Marché de l'Aventurier. Certains objets étant assez puissants pour renvoyer l'anneau de Gaxx aux oubliettes vous seront proposés à la sortie de l'Ombreterre, dans le stock \"amélioré\" que Ribald propose moyennant un droit d'entrée."
@@ -15533,7 +15533,7 @@
     },
     {
         "id": 1069,
-        "description": "This crazy little mod allows you to obtain the Holy Grenade if you still have the Stone of Light when you leave Shadowland. It's a formidable weapon against certain creatures...",
+        "description": "This crazy little mod allows you to obtain the Holy Grenade if you still have the Stone of Light when you leave Underdark. It's a formidable weapon against certain creatures...",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce petit mod délire vous permettra d'obtenir la Sainte grenade si vous possédez toujours la pierre de lumière lorsque vous quittez l'Ombreterre. C'est une arme redoutable contre certaines créatures..."
@@ -16951,7 +16951,7 @@
     },
     {
         "id": 1168,
-        "description": "This mod adds a small quest to the game, allowing you to improve Dak'kon's Zerth blade by focusing on one of its aspects: attack, defense and magic. Go to Shadowland.",
+        "description": "This mod adds a small quest to the game, allowing you to improve Dak'kon's Zerth blade by focusing on one of its aspects: attack, defense and magic. Go to Underdark.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute une petite quête dans le jeu et vous permet d'améliorer la lame Zerth de Dak'kon en insistant sur l'un de ses aspects : attaque, défense et magie. Rendez-vous dans l'Ombreterre."
@@ -17091,7 +17091,7 @@
     },
     {
         "id": 1178,
-        "description": "This mod adds a new, rather unusual evil NPC: an illithid! Driven by a thirst for knowledge, Varshoon doesn't really have a romance planned, or a friendship to speak of... but something approaching that is possible. In dialogue, Varshoon is curious about the culture of surface beings. He has his own psionic profile and is a kind of \"mental fighter\" who uses his mental abilities to stun, weaken and confuse his enemies. He has his own equipment, which cannot be replaced. This mod also modifies the normal quest area for illithid tunnels in Shadowland.",
+        "description": "This mod adds a new, rather unusual evil NPC: an illithid! Driven by a thirst for knowledge, Varshoon doesn't really have a romance planned, or a friendship to speak of... but something approaching that is possible. In dialogue, Varshoon is curious about the culture of surface beings. He has his own psionic profile and is a kind of \"mental fighter\" who uses his mental abilities to stun, weaken and confuse his enemies. He has his own equipment, which cannot be replaced. This mod also modifies the normal quest area for illithid tunnels in Underdark.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute un nouveau PNJ mauvais un peu particulier : un illithid ! Animé par une grande soif de connaissances, Varshoon n'a pas vraiment de romance prévue, ni d'amitié à proprement parlé... mais quelque chose d'approchant demeure possible. Dans les dialogues, Varshoon se montre curieux de la culture des êtres de la surface. Les relations sont basées sur votre capacité d'influence, votre intelligence et votre race.|Il dispose de son propre profil de psionique et est une sorte de \"guerrier mental\" qui utilise ses capacités mentales pour étourdir, affaiblir et rendre confus ses ennemis. Il dispose de son propre équipement qui ne peut pas être remplacé. Ce mod modifie également la zone de quête normale des tunnels illithids dans l'Ombreterre."
@@ -17917,7 +17917,7 @@
     },
     {
         "id": 1236,
-        "description": "Xulaye Despana is the sister of the insufferable Phaere, and the daughter of the dreaded Mother Matron Ardulace. Will you help her in her quest for power? Will you betray her? Will you try to dissuade her from her dark designs? Xulaye will join your group at Ust Natha's entrance to Shadowland. But beware, she's far from a brainless drow. Arrogance, ambition, cruelty and harshness dominate her dark heart. Recruiting Xulaye will allow you to modify your stay in Shadowland: a new quest, new interjections, 1 to 3 banters with Bioware NPCs, and a new ending in Shadowland.",
+        "description": "Xulaye Despana - sister to the insidious Phaere and daughter of the fearsome Matron Mother Ardulace. Will you help her in her ascent to power? Betray her? Attempt to turn the woman from her dark ways? Xulaye joins your party at the beginning of the Ust Natha section of the Underdark. But watch your back; she is Drow to the core, and not unintelligent. Arrogance, ambition, cruelty and ruthlessness dominate her dark heart. Recruiting Xulaye will allow you to modify your stay in Underdark: a new quest, new interjections, 1 to 3 banters with Bioware NPCs, and a new ending in Underdark.",
         "description_meta": {
             "status": "needs_review",
             "source": "Xulaye Despana est la sœur de l'insupportable Phaere, et la fille de la redoutée Mère Matrone Ardulace. L'aiderez-vous dans sa recherche du pouvoir ? La trahirez-vous ? Tenterez-vous de la détourner de ses noirs desseins ? Xulaye rejoindra votre groupe à l'entrée d'Ust Natha en Ombreterre. Mais prenez garde, c'est une drow loin d'être écervelée. L'arrogance, l'ambition, la cruauté et la rudesse dominent son cœur sombre. Recruter Xulaye vous permettra de modifier quelque peu votre séjour en Ombreterre : une nouvelle quête, de nouvelles interjections, 1 à 3 banters avec les PNJ de Bioware, et une fin inédite en Ombreterre."
@@ -18762,7 +18762,7 @@
     },
     {
         "id": 1295,
-        "description": "In addition to the [[Solaufein NPC]] mod for recruiting the famous drow in Ust Natha, here's the continuation of the romance available for completion, with many ideas compiled in this completed mod, including the possibility of helping him with his choices (he leaves Shadowland after all to follow you...).",
+        "description": "In addition to the [[Solaufein NPC]] mod for recruiting the famous drow in Ust Natha, here's the continuation of the romance available for completion, with many ideas compiled in this completed mod, including the possibility of helping him with his choices (he leaves Underdark after all to follow you...).",
         "description_meta": {
             "status": "needs_review",
             "source": "En complément du mod [[Solaufein NPC]] permettant de recruter le fameux drow à Ust Natha, voici la suite de la romance disponible pour la mener à son terme, avec de nombreuses idées compilées dans ce mod achevé, notamment la possibilité de l'aider dans ses choix (il quitte tout de même l'Ombreterre pour vous suivre...)."
