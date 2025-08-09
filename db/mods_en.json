@@ -442,10 +442,10 @@
     },
     {
         "id": 30,
-        "description": "An evil thief with voice, some light banters and an original portrait. Requires ToB.|STR 10, DEX 15, CON 9, INT 14, WIS 12, CHA 16.",
+        "description": "A neutral evil thief with voice, some light banters and an original portrait. You can find her in the Slums. Requires ToB.|STR 10, DEX 15, CON 9, INT 14, WIS 12, CHA 16.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Une voleuse mauvaise avec voix, quelques banters légers et un portrait original. Nécessite ToB.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16."
+            "source": "Une voleuse neutre mauvaise avec voix, quelques banters légers et un portrait original. Vous pouvez la trouver dans les Bas Quartiers. Nécessite ToB.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16."
         },
         "notes": [
             "Choose the github link for the BG2EE/EET version."
@@ -577,10 +577,10 @@
     },
     {
         "id": 39,
-        "description": "The halfling thief from Baldur's Gate returns with this mod, much to the delight of her fans. She's just as charismatic as she was in the first installment of the saga, with her good-natured manner and friendly exclamations.",
+        "description": "The halfling thief from Baldur's Gate returns with this mod, much to the delight of her fans. She's just as charismatic as she was in the first installment of the saga, with her good-natured manner and friendly exclamations.|STR 12, DEX 19, CON 12, INT 14, WIS 7, CHA 15.",
         "description_meta": {
             "status": "needs_review",
-            "source": "La voleuse halfelin de la Porte de Baldur revient avec ce mod, pour le plus grand plaisir de ses fans. Sa bonhommie et ses exclamations sympathiques la rendent tout autant charismatique que dans le premier opus de la saga."
+            "source": "La voleuse halfelin de la Porte de Baldur revient avec ce mod, pour le plus grand plaisir de ses fans. Sa bonhommie et ses exclamations sympathiques la rendent tout autant charismatique que dans le premier opus de la saga.|FOR 12, DEX 19, CON 12, INT 14, SAG 7, CHA 15."
         },
         "notes": [],
         "notes_meta": {
@@ -791,10 +791,10 @@
     },
     {
         "id": 53,
-        "description": "A neutral chaotic nun that can be recruited from the Mae'Var guild after the cleaning stage.",
+        "description": "A neutral chaotic nun that can be recruited from the Mae'Var guild after the cleaning stage.|STR 14, DEX 17, CON 10, INT 13, WIS 9, CHA 16.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Une moniale chaotique neutre que l'on peut recruter à la guilde de Mae'Var après l'étape du nettoyage."
+            "source": "Une moniale chaotique neutre que l'on peut recruter à la guilde de Mae'Var après l'étape du nettoyage.|FOR 14, DEX 17, CON 10, INT 13, SAG 9, CHA 16."
         },
         "notes": [],
         "notes_meta": {
@@ -3305,10 +3305,10 @@
     },
     {
         "id": 228,
-        "description": "This mod adds a demi-goddess kensai, with a specific voice kit and weapons, who exclusively romances female characters. Interactions have been written with each character, but romance is currently only available for SoA. Quests relating to Chloe complete the package.|STR 13, DEX 25, CON 16, INT 12, WIS 12 and CHA 14.",
+        "description": "This mod adds a demi-goddess kensai true neutral, with a specific voice kit and weapons, who exclusively romances female characters. Interactions have been written with each character, but romance is currently only available for SoA. Quests relating to Chloe complete the package.|STR 13, DEX 25, CON 16, INT 12, WIS 12 and CHA 14.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute une kensaï demi-déesse, avec un kit de voix et des armes spécifiques, qui romance exclusivement les personnages féminins. Des interactions ont été écrites avec chaque personnage, mais la romance n'existe pour l'instant que pour SoA. Des quêtes relatives à Chloé complètent l'ensemble.|FOR 13, DEX 25, CON 16, INT 12, SAG 12 et CHA 14."
+            "source": "Ce mod ajoute une kensaï demi-déesse neutre stricte, avec un kit de voix et des armes spécifiques, qui romance exclusivement les personnages féminins. Des interactions ont été écrites avec chaque personnage, mais la romance n'existe pour l'instant que pour SoA. Des quêtes relatives à Chloé complètent l'ensemble.|FOR 13, DEX 25, CON 16, INT 12, SAG 12 et CHA 14."
         },
         "notes": [
             "Use the shs link for the BG2/BGT version and the github link for the BG2EE/EET version.",
@@ -6014,10 +6014,10 @@
     },
     {
         "id": 414,
-        "description": "Created in 4 days for a modding contest on the theme of \"History\", this mod adds a lawful good bard who sings worse than an unsuccessful American Idol contestant! Interactions with everyone and a specific kit. Beware, his stats are pitiful: are you prepared to put up with him?",
+        "description": "Created in 4 days for a modding contest on the theme of \"History\", this mod adds a lawful good bard who sings worse than an unsuccessful American Idol contestant! Interactions with everyone and a specific kit. Beware, his stats are pitiful: are you prepared to put up with him?|STR 11, DEX 18, CON 18, INT 8, WIS 4, CHA 5.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Créé en 4 jours pour un concours de modding sur le thème \"Histoire\", ce mod ajoute au jeu un barde loyal bon qui chante encore plus mal qu'un candidat malheureux à la Nouvelle Star ! Des interactions avec tout le monde et un kit spécifique. Attention, ses statistiques sont lamentables : êtes-vous prêt à le supporter (le traîner ) ?"
+            "source": "Créé en 4 jours pour un concours de modding sur le thème \"Histoire\", ce mod ajoute au jeu un barde loyal bon qui chante encore plus mal qu'un candidat malheureux à la Nouvelle Star ! Des interactions avec tout le monde et un kit spécifique. Attention, ses statistiques sont lamentables : êtes-vous prêt à le supporter (le traîner ) ?|FOR 11, DEX 18, CON 18, INT 8, SAG 4, CHA 5."
         },
         "notes": [],
         "notes_meta": {
@@ -6506,10 +6506,10 @@
     },
     {
         "id": 448,
-        "description": "It's a human fighter/mage with 20 banters and voice kit.",
+        "description": "It's a human fighter/mage Lawful Neutral. He's a former Cowled Wizard who has grown disenchanted with their ironhanded rule & is willing to help the party take them on. It's provided for an One Day NPC because he has 20 banters and a voice kit.|STR 11, DEX 15, CON 17, INT 15, WIS 11, CHA 13.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'un guerrier/mage humain avec 20 banters et son kit de voix."
+            "source": "Il s'agit d'un guerrier/mage humain d'alignement loyal neutre. C'est un ancien mage cagoulé qui s'est désenchanté de leur règne autoritaire et qui est prêt à aider le groupe à les affronter. Plutôt fourni pour un PNJ One Day car il possède 20 banters et son kit de voix.|FOR 11, DEX 15, CON 17, INT 15, SAG 11, CHA 13."
         },
         "notes": [],
         "notes_meta": {
@@ -6618,10 +6618,10 @@
     },
     {
         "id": 456,
-        "description": "The only NPC to be a floating eye! Gozaloth (Goo to his friends) is the ideal companion for Jan, if you want to see him replicate in an even tastier way! Note that the [[Alternate Goo Portrait]] mod allows you to modify his portrait.",
+        "description": "The only NPC to be a floating eye! Gozaloth (Goo to his friends) is the ideal companion for Jan, if you want to see him replicate in an even tastier way! You'll find him in the Planar Sphere. Note that the [[Alternate Goo Portrait]] mod allows you to modify his portrait.|STR 17, DEX 7, CON 20, INT 15, WIS 9, CHA 4.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Le seul PNJ à être un œil flottant ! Gozaloth (Goo pour ses amis) est le compagnon idéal pour Jan, si vous voulez le voir répliquer de manière encore plus savoureuse ! Vous le trouverez dans la Sphère planaire.|Notez que le mod [[Alternate Goo Portrait]] permet de modifier son portrait."
+            "source": "Le seul PNJ à être un œil flottant ! Gozaloth (Goo pour ses amis) est le compagnon idéal pour Jan, si vous voulez le voir répliquer de manière encore plus savoureuse ! Vous le trouverez dans la Sphère planaire.|Notez que le mod [[Alternate Goo Portrait]] permet de modifier son portrait.|FOR 17, DEX 7, CON 20, INT 15, SAG 9, CHA 4."
         },
         "notes": [
             "Mod v6 directly integrates the [[Alternate Goo Portrait]] mod."
@@ -7014,10 +7014,10 @@
     },
     {
         "id": 484,
-        "description": "She's a neutral bad half-Elf thief with 12 banters, 20 interjections, a quest and a new area.",
+        "description": "She's a neutral evil half-Elf thief with 12 banters, 20 interjections, a quest and a new area.|STR 15, DEX 16, CON 16, INT 13, WIS 12, CHA 10.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'une voleuse demi-elfe neutre mauvaise, avec 12 banters, 20 interjections, une quête et une nouvelle zone."
+            "source": "Il s'agit d'une voleuse demi-elfe neutre mauvaise, avec 12 banters, 20 interjections, une quête et une nouvelle zone.|FOR 15, DEX 16, CON 16, INT 13, SAG 12, CHA 10."
         },
         "notes": [
             "FOR 15, DEX 16, CON 16, INT 13, SAG 12, CHA 10."
@@ -7198,10 +7198,10 @@
     },
     {
         "id": 496,
-        "description": "This mod adds a skeleton as an NPC member of the group. He can be found in the crypt of Trademeet. He has a kit specific to his state, HLA and spells partly taken from IWD2, as well as a specific AI if you choose to activate him.|STR 17, DEX 13, CON 18, INT 13, WIS 16, CHA 9.",
+        "description": "This mod adds a skeleton chaotic good as an NPC member of the group. He can be found in the crypt of Trademeet. He has a kit specific to his state, HLA and spells partly taken from IWD2, as well as a specific AI if you choose to activate him.|STR 17, DEX 13, CON 18, INT 13, WIS 16, CHA 9.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un squelette en tant que PNJ membre du groupe. Vous pourrez le trouver dans la crypte de Franc-Marché. Il dispose d'un kit spécifique à son état, d'HLA et de sorts en partie issus d'IWD2, ainsi que d'une IA spécifique si vous choisissez de l'activer.|FOR 17, DEX 13, CON 18, INT 13, SAG 16, CHA 9."
+            "source": "Ce mod ajoute un squelette d'alignement loyal bon en tant que PNJ membre du groupe. Vous pourrez le trouver dans la crypte de Franc-Marché. Il dispose d'un kit spécifique à son état, d'HLA et de sorts en partie issus d'IWD2, ainsi que d'une IA spécifique si vous choisissez de l'activer.|FOR 17, DEX 13, CON 18, INT 13, SAG 16, CHA 9."
         },
         "notes": [
             "Choose the shs link for the BG2/BGT version and the github link for the BG2EE/EET version."
@@ -7244,7 +7244,7 @@
         "description": "There are people destined for a great future, others filled with power and talent, and still others more sexy-than-thou. But they all need a good cook: hence the usefulness of our druid greengrocer Hubelpot. You can find him in Enge's fruit and vegetable store on the Waukeen's Promenade. Hubelpot offers some 30 jokes, none of which break the 4th wall or include the word \"turnip\". He interacts with all Bioware NPCs except Sarevok. In ToB, he's still pretty quiet, speaking only when called upon, with Volo and at the end of ToB. He also has a quest full of twists and turns, with an unusual reward.|STR 12, DEX 8, CON 10, INT 10, WIS 14, CHA 13.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il y des gens destinés à un avenir grandiose, d'autres remplis de pouvoir et de talents, enfin d'autres plus sexy-que-moi-tu-meurs. Mais tous ont besoin d'un bon cuistot : d'où l'utilité de notre druide marchand de légumes Hubelpot. Vous pouvez le trouver dans le magasin de fruits et légumes d'Enge sur la promenade de Waukyne. Hubelpot propose une trentaine de plaisanteries, aucune ne brise le 4e mur et aucune ne comporte le mot \"navet\". Il interagit avec tous les PNJ Bioware à l'exception de Sarevok. Dans ToB, il est encore assez silencieux, ne parlant que lorsqu'il est appelé, avec Volo et à la fin de ToB. Il dispose aussi d'une quête riche en rebondissements, avec avec une récompense inhabituelle.|FOR 12, DEX 8, CON 10, INT 10, SAG 14, CHA 13."
+            "source": "Il y des gens destinés à un avenir grandiose, d'autres remplis de pouvoir et de talents, enfin d'autres plus sexy-que-moi-tu-meurs. Mais tous ont besoin d'un bon cuistot : d'où l'utilité de notre druide marchand de légumes Hubelpot. Vous pouvez le trouver dans le magasin de fruits et légumes d'Enge sur la promenade de Waukyne. Hubelpot propose une trentaine de plaisanteries, aucune ne brise le 4e mur et aucune ne comporte le mot \"navet\". Il interagit avec tous les PNJ Bioware à l'exception de Sarevok. Dans ToB, il est encore assez silencieux, ne parlant que lorsqu'il est appelé, avec Volo et à la fin de ToB. Il dispose aussi d'une quête riche en rebondissements, avec une récompense inhabituelle.|FOR 12, DEX 8, CON 10, INT 10, SAG 14, CHA 13."
         },
         "notes": [],
         "notes_meta": {
@@ -8600,10 +8600,10 @@
     },
     {
         "id": 594,
-        "description": "This mod adds a sorcerer, with whom a romance is possible, as well as interactions with other NPCs. The romance continues in ToB, but ToB is not mandatory for this to work (2 installations are possible). Kelsey also adds new enemies.",
+        "description": "This mod adds a sorcerer netral good, with whom a romance is possible, as well as interactions with other NPCs. The romance continues in ToB, but ToB is not mandatory for this to work (2 installations are possible). Kelsey also adds new enemies.|STR 12, DEX 16, CON 15, INT 12, WIS 13, CHA 14.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un sorcier, avec qui une romance est possible, ainsi que des interactions avec d'autres PNJ. La romance continue dans ToB, mais ToB n'est pas obligatoire pour que ça marche (2 installations sont possibles). Kelsey ajoute également de nouveaux ennemis."
+            "source": "Ce mod ajoute un sorcier neutre bon, avec qui une romance est possible, ainsi que des interactions avec d'autres PNJ. La romance continue dans ToB, mais ToB n'est pas obligatoire pour que ça marche (2 installations sont possibles). Kelsey ajoute également de nouveaux ennemis.|FOR 12, DEX 16, CON 15, INT 12, SAG 13, CHA 14."
         },
         "notes": [],
         "notes_meta": {
@@ -8660,10 +8660,10 @@
     },
     {
         "id": 598,
-        "description": "Keto is a neutral, good human bard with a penchant for the bottle and stories, whom you'll find at the Five Flagons. Very talkative, she has many dialogues with recruitable NPCs, with a myriad of passing NPCs, and comments on more than one adventure when she's not telling a tale. Considered one of the best NPC modules (two and a half years in the making), Keto also has her own personal quest and her own voice set, plus sets from several speakers (400). The fact that she has no ToB content is a plus, as she can be replaced in ToB by Sarevok or Irenicus (mods [[Redemption]] or [[The Longer Road]]).",
+        "description": "Keto is a neutral good human bard with a penchant for the bottle and stories, whom you'll find at the Five Flagons. Very talkative, she has many dialogues with recruitable NPCs, with a myriad of passing NPCs, and comments on more than one adventure when she's not telling a tale. Considered one of the best NPC modules (two and a half years in the making), Keto also has her own personal quest and her own voice set, plus sets from several speakers (400). The fact that she has no ToB content is a plus, as she can be replaced in ToB by Sarevok or Irenicus (mods [[Redemption]] or [[The Longer Road]]).|STR 11, DEX 15, CON 16, INT 15, WIS 9, CHA 15.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Keto est une barde neutre bonne humaine, avec un penchant certain pour la bouteille et les histoires, que vous trouverez aux Cinq Chopes. Très bavarde, elle dispose de nombreux dialogues avec les PNJ recrutables, avec une myriade de PNJ de passage, et commente plus d'une aventure quand elle ne se fend pas d'un conte. Considéré comme un des meilleurs modules de PNJ (deux ans et demi d'élaboration), Keto dispose également de sa quête personnelle et possède son propre set de voix plus des sets de plusieurs intervenants (400). Elle n'est cependant pas romançable et n'est probablement pas le personnage rêvé pour les fêlés d'optimisation.|Qu'elle n'ait pas de contenu pour ToB est un atout, car elle peut sans scrupule être remplacée dans ToB par Sarevok ou Irenicus (mods [[Redemption]] ou [[The Longer Road]])."
+            "source": "Keto est une barde neutre bonne humaine, avec un penchant certain pour la bouteille et les histoires, que vous trouverez aux Cinq Chopes. Très bavarde, elle dispose de nombreux dialogues avec les PNJ recrutables, avec une myriade de PNJ de passage, et commente plus d'une aventure quand elle ne se fend pas d'un conte. Considéré comme un des meilleurs modules de PNJ (deux ans et demi d'élaboration), Keto dispose également de sa quête personnelle et possède son propre set de voix plus des sets de plusieurs intervenants (400). Elle n'est cependant pas romançable et n'est probablement pas le personnage rêvé pour les fêlés d'optimisation.|Qu'elle n'ait pas de contenu pour ToB est un atout, car elle peut sans scrupule être remplacée dans ToB par Sarevok ou Irenicus (mods [[Redemption]] ou [[The Longer Road]]).|FOR 11, DEX 15, CON 16, INT 15, SAG 9, CHA 15."
         },
         "notes": [],
         "notes_meta": {
@@ -8701,10 +8701,10 @@
     },
     {
         "id": 601,
-        "description": "This mod adds 2 new female characters, a Chaotic Good half-elven wild mage (Zaiya) and an Neutral Evil human monk (Kiara). Interactions galore, new enemies, a readjustment of the monks' high-level abilities, improved combat against the golem in the Arnise dungeon and the battles in chapters 2 and 6 against Amaralis (in the same vein as those in [[Tactics]] or [[Ascension]] for the one in chapter 6), not to mention characters with special abilities and equipment. Last but not least, the icing on the cake is a romance with Kiara that may lead to her redemption. The romances are sometimes quite daring (Zaiya romances Cernd).|Zaiya : STR 9, DEX 16, CON 16, INT 17, WIS 15, CHA 10|Kiara : STR 14, DEX 17, CON 12, INT 15, WIS 10, CHA 16",
+        "description": "This mod adds 2 new female characters, a Chaotic Good half-elven wild mage (Zaiya) and an Neutral Evil human monk (Kiara). Interactions galore, new enemies, a readjustment of the monks' high-level abilities, improved combat against the golem in the Arnise dungeon and the battles in chapters 2 and 6 against Amaralis (in the same vein as those in [[Tactics]] or [[Ascension]] for the one in chapter 6), not to mention characters with special abilities and equipment. Last but not least, the icing on the cake is a romance with Kiara that may lead to her redemption. The romances are sometimes quite daring (Zaiya romances Cernd).|Zaiya : STR 9, DEX 16, CON 16, INT 17, WIS 15, CHA 10.|Kiara : STR 14, DEX 17, CON 12, INT 15, WIS 10, CHA 16.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute 2 nouveaux personnages féminins, une demi-elfe entropiste chaotique bonne (Zaiya) et une moniale neutre mauvaise (Kiara). Des interactions à foison, de nouveaux ennemis, un réajustement des capacités de haut-niveau des moines, une amélioration du combat contre le golem dans le donjon de'Arnise et des combats des chapitres 2 et 6 contre Amaralis (dans la même veine que ceux de [[Tactics]] ou d'[[Ascension]] pour celui du chapitre 6), sans oublier des personnages avec des capacités et un équipement spéciaux. Enfin, la cerise sur le gâteau, une romance avec Kiara qui pourra peut-être l'amener à la rédemption. Les romances sont parfois très osées (Zaiya romancera Cernd).|Zaiya : FOR 9, DEX 16, CON 16, INT 17, SAG 15, CHA 10|Kiara : FOR 14, DEX 17, CON 12, INT 15, SAG 10, CHA 16"
+            "source": "Ce mod ajoute 2 nouveaux personnages féminins, une demi-elfe entropiste chaotique bonne (Zaiya) et une moniale neutre mauvaise (Kiara). Des interactions à foison, de nouveaux ennemis, un réajustement des capacités de haut-niveau des moines, une amélioration du combat contre le golem dans le donjon de'Arnise et des combats des chapitres 2 et 6 contre Amaralis (dans la même veine que ceux de [[Tactics]] ou d'[[Ascension]] pour celui du chapitre 6), sans oublier des personnages avec des capacités et un équipement spéciaux. Enfin, la cerise sur le gâteau, une romance avec Kiara qui pourra peut-être l'amener à la rédemption. Les romances sont parfois très osées (Zaiya romancera Cernd).|Zaiya : FOR 9, DEX 16, CON 16, INT 17, SAG 15, CHA 10.|Kiara : FOR 14, DEX 17, CON 12, INT 15, SAG 10, CHA 16."
         },
         "notes": [
             "Watcher's keep is hidden in SoA.",
@@ -8720,10 +8720,10 @@
     },
     {
         "id": 602,
-        "description": "Already in playable beta, this mod is part of a more ambitious project, \"The Mod for the Wicked\". A jester and Cyric worshipper (yes, yes...), Kido has a quest, a soundset that's outrageously unbelievable (he sings worse than a Star Academician), and numerous dialogues, including one with Ariena the half-orc (from the same author).",
+        "description": "Already in playable beta, this mod is part of a more ambitious project, \"The Mod for the Wicked\". A jester and Cyric worshipper (yes, yes...), Kido is a Jester with a chaotic evil alignment. He has a quest, a soundset that's outrageously unbelievable (he sings worse than a Star Academician), and numerous dialogues, including one with Ariena the half-orc (from the same author). Find him in the Five Flagons Inn.|STR 11, DEX 17, CON 13, INT 16, WIS 8, CHA 15.",
         "description_meta": {
             "status": "needs_review",
-            "source": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec Ariena la demi-orque (du même auteur)."
+            "source": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido est un barde de kit bouffon et d'alignement chaotique mauvais. Il dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec Ariena la demi-orque (du même auteur). Retrouvez-le dans l'auberge des Cinq Chopes.|FOR 11, DEX 17, CON 13, INT 16, SAG 8, CHA 15."
         },
         "notes": [
             "Warning: a pirated version exists for EET, whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk - and don't complain!"
@@ -8763,10 +8763,10 @@
     },
     {
         "id": 605,
-        "description": "This mod adds a very powerful NPC, chaotic neutral and berserker. He has a new race, a sort of half-giant of magical origin. He is unromanceable, but has a personal quest and a specific encounter. He also has numerous interactions, sounds and cinematics with the other characters. Beware of mage, bard, sorcerer and multi-classed mage characters. Kindrek will refuse to join you.",
+        "description": "This mod adds a very powerful NPC, chaotic neutral and berserker. He has a new race, a sort of half-giant of magical origin. He is unromanceable, but has a personal quest and a specific encounter. He also has numerous interactions, sounds and cinematics with the other characters. Beware of mage, bard, sorcerer and multi-classed mage characters. Kindrek will refuse to join you.|STR 20, DEX 16, CON 18, INT 15, WIS 10, CHA 10.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod rajoute un PNJ très puissant, chaotique neutre et berserker. Il a une race inédite, sorte de demi-géant d'origine magique. Il n'est pas romançable, mais possède une quête personnelle ainsi qu'une rencontre spécifique. Il a aussi de nombreuses interactions, sons et cinématiques avec les autres personnages. Attention aux personnages mages, bardes, sorciers et multi-classés mages. Kindrek refusera de vous rejoindre."
+            "source": "Ce mod rajoute un PNJ très puissant, chaotique neutre et berserker. Il a une race inédite, sorte de demi-géant d'origine magique. Il n'est pas romançable, mais possède une quête personnelle ainsi qu'une rencontre spécifique. Il a aussi de nombreuses interactions, sons et cinématiques avec les autres personnages. Attention aux personnages mages, bardes, sorciers et multi-classés mages. Kindrek refusera de vous rejoindre.|FOR 20, DEX 16, CON 18, INT 15, SAG 10, CHA 10."
         },
         "notes": [],
         "notes_meta": {
@@ -8828,29 +8828,27 @@
     },
     {
         "id": 610,
-        "description": "Kitanya is a sympathetic elf magician-slayer with a pleasant, chaotic companionship, lots of interaction and romance. She can even have particularly amusing dialogues with Edwin. You'll find her around the Umar Hills. Her martial skills are focused on longsword and shield handling.",
+        "description": "Kitanya is a sympathetic elf magician-slayer with a pleasant, chaotic companionship, lots of interaction and romance. She can even have particularly amusing dialogues with Edwin. You'll find her around the Umar Hills. Her martial skills are focused on longsword and shield handling.|STR 16, DEX 17, CON 15, INT 12, WIS 10, CHA 19.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Kitanya est une tueuse de magiciens elfe sympathique et de compagnie fort agréable, chaotique bonne avec de nombreuses interactions et une romance. Elle pourra même avoir des dialogues particulièrement amusants avec Edwin. Vous la trouverez dans les environs des Collines d'Umar. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier."
+            "source": "Kitanya est une tueuse de magiciens elfe sympathique et de compagnie fort agréable, chaotique bonne avec de nombreuses interactions et une romance. Elle pourra même avoir des dialogues particulièrement amusants avec Edwin. Vous la trouverez dans les environs des Collines d'Umar. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier.|FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19."
         },
         "notes": [
-            "FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19",
             "The second github link features an EE-compatible version, available in English only."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19",
                 "Le second lien github propose une version compatible avec les versions EE, disponible qu'en anglais."
             ]
         }
     },
     {
         "id": 611,
-        "description": "Formerly Kivan of Shilmista, Kivan is finally back in BG2 thanks to this mod, along with his wife, Dehenaria (under certain conditions). He meets you at the exit of the Irenicus dungeon. For those who haven't played BG1, it's a chance to get to know one of the best NPCs in the original game, and for the rest of us, it's a chance to see what happened to Kivan and how he's changed.",
+        "description": "Formerly Kivan of Shilmista, Kivan is finally back in BG2 thanks to this mod, along with his wife, Dehenaria (under certain conditions). He meets you at the exit of the Irenicus dungeon. For those who haven't played BG1, it's a chance to get to know one of the best NPCs in the original game, and for the rest of us, it's a chance to see what happened to Kivan and how he's changed.|STR 18/21, DEX 17, CON 14, INT 12, WIS 16, CHA 8.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Anciennement Kivan de Shilmista, Kivan est enfin de retour dans BG2 grâce à ce mod, ainsi que sa femme, Dehenaria (sous certaines conditions). Il vous retrouve à la sortie du donjon d'Irenicus. L'occasion pour ceux qui n'ont pas joué à BG1 de connaître un des meilleurs PNJ du jeu originel et pour les autres, la possibilité de voir ce qu'il est advenu de Kivan et comment il a changé."
+            "source": "Anciennement Kivan de Shilmista, Kivan est enfin de retour dans BG2 grâce à ce mod, ainsi que sa femme, Dehenaria (sous certaines conditions). Il vous retrouve à la sortie du donjon d'Irenicus. L'occasion pour ceux qui n'ont pas joué à BG1 de connaître un des meilleurs PNJ du jeu originel et pour les autres, la possibilité de voir ce qu'il est advenu de Kivan et comment il a changé.|FOR 18/21, DEX 17, CON 14, INT 12, SAG 16, CHA 8."
         },
         "notes": [],
         "notes_meta": {
@@ -10615,7 +10613,7 @@
         "description": "This mod allows you to modify the profiles of your NPCs, so that they are closer to their thoughts. For example, Anomen becomes a Priest of Helm when he successfully completes the Order of the Radiant Heart, and a Berserker if he fails, Imoen and Nalia become adventurers (thief profile) or mages, Edwin a Red Wizard, Korgan an Enraged (fighter kit), Sarevok a Sower of Death, Mazzy a Paladin of Arvoreen, Minsc has his kit name changed to Rashmenian Ranger, and so on.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet de modifier les profils de vos PNJ, afin qu'ils soient plus proches de leurs pensées. Entre autres, Anomen devient prêtre de Helm lorsqu'il réussit son adoubement à l'Ordre du Cœur Radieux et devient un Berserker s'il le rate, Imoen et Nalia deviennent des aventurières (profil de voleur) ou des mages, Edwin un Sorcier rouge, Korgan un Enragé (profil de guerrier), Sarevok un Semeur de mort, Mazzy un Paladin d'Arvoreen, Minsc voit le nom de son kit modifié en rôdeur de Rashéménie, etc."
+            "source": "Ce mod permet de modifier les profils de vos PNJ, afin qu'ils soient plus proches de leurs pensées. Entre autres, Anomen devient prêtre de Heaume lorsqu'il réussit son adoubement à l'Ordre du Cœur Radieux et devient un Berserker s'il le rate, Imoen et Nalia deviennent des aventurières (profil de voleur) ou des mages, Edwin un Sorcier rouge, Korgan un Enragé (profil de guerrier), Sarevok un Semeur de mort, Mazzy un Paladin d'Arvoreen, Minsc voit le nom de son kit modifié en rôdeur de Rashéménie, etc."
         },
         "notes": [
             "Please note: contrary to what the readme indicates, it seems that BG1Tutu compatibility has been removed from the installer."
@@ -13226,10 +13224,10 @@
     },
     {
         "id": 910,
-        "description": "Saerileth is a pretty 15-year-old Paladin of Tyre. This mod is complete with content for SoA/ToB, a romance (for humans, elves and half-elves), several quests (bringing 3 new maps). It's very well written, but only for lawful good guys on a quest for courtly love, since flirting with Saerileth isn't exactly... vicony-esque.",
+        "description": "Saerileth is a pretty 15-year-old Paladin of Tyre. This mod is complete with content for SoA/ToB, a romance (for humans, elves and half-elves), several quests (bringing 3 new maps). It's very well written, but only for lawful good guys on a quest for courtly love, since flirting with Saerileth isn't exactly... vicony-esque.|STR 16, DEX 14, CON 12, INT 14, WIS 17, CHA 18.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Saerileth est une Paladine de Tyr âgée de 15 ans, et fort jolie. Ce mod est complet avec du contenu pour SoA/ToB, une romance (pour les humains, elfes et demi-elfes), plusieurs quêtes (apportant 3 nouvelles maps). Il est très bien écrit, mais réservé aux loyaux bons en quête d'amour courtois, le flirt avec Saerileth n'étant pas franchement... viconiesque."
+            "source": "Saerileth est une Paladine de Tyr âgée de 15 ans, et fort jolie. Ce mod est complet avec du contenu pour SoA/ToB, une romance (pour les humains, elfes et demi-elfes), plusieurs quêtes (apportant 3 nouvelles maps). Il est très bien écrit, mais réservé aux loyaux bons en quête d'amour courtois, le flirt avec Saerileth n'étant pas franchement... viconiesque.|FOR 16, DEX 14, CON 12, INT 14, SAG 17, CHA 18."
         },
         "notes": [],
         "notes_meta": {
@@ -13828,10 +13826,10 @@
     },
     {
         "id": 953,
-        "description": "Silver Star is an elven assassin who can join the party in Irenicus' charming underground hole. This project recently underwent a change of direction as original creator Davide Carta decided to open the mod to the community. Seizing this opportunity, the new team decided to modify several original elements in a way that is considered more appropriate for Silver Star.|She's partly crazy and has childhood complexes: for example, she has a real obsession with sweet little lambs... And she sings and laughs. She's chronically poisonous, which explains her high tolerance to poison and her weak constitution.|She's a remorseless killer, when she's in a normal mood, and does evil things, like gambling, blackmail, murder, theft and so on. She has some interaction with NPCs in SoA, but not in ToB.",
+        "description": "Silver Star is an elven assassin Neutral Evil who can join the party in Irenicus' charming underground hole. This project recently underwent a change of direction as original creator Davide Carta decided to open the mod to the community. Seizing this opportunity, the new team decided to modify several original elements in a way that is considered more appropriate for Silver Star.|She's partly crazy and has childhood complexes: for example, she has a real obsession with sweet little lambs... And she sings and laughs. She's chronically poisonous, which explains her high tolerance to poison and her weak constitution.|She's a remorseless killer, when she's in a normal mood, and does evil things, like gambling, blackmail, murder, theft and so on. She has some interaction with NPCs in SoA, but not in ToB.|STR 14, DEX 19, CON 7, INT 16, WIS 6, CHA 14.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Silver Star est une assassin elfe qui peut se joindre à la fête dans le charmant trou souterrain d'Irenicus. Ce projet a récemment pris un changement de direction dans la mesure où le créateur original Davide Carta a décidé d'ouvrir le mod à la communauté. Saisissant cette opportunité, la nouvelle équipe a décidé de modifier plusieurs éléments d'origine avec une voie qui est considérée comme plus appropriée pour Silver Star.|Elle est partiellement folle et a des complexes d'enfance : par exemple, elle a une véritable obsession pour les petits agneaux doux... Et elle chante et rit. Elle est chroniquement empoisonnée, ce qui explique sa grande tolérance au poison et sa faible constitution.|C'est une tueuse sans remords, quand elle est d'humeur normale, et fait des choses maléfiques, comme le jeu, le chantage, le meurtre, le vol, etc. Elle a une certaine interaction avec les PNJ dans SoA, mais pas dans ToB."
+            "source": "Silver Star est une assassin elfe neutre mauvaise qui peut se joindre à la fête dans le charmant trou souterrain d'Irenicus. Ce projet a récemment pris un changement de direction dans la mesure où le créateur original Davide Carta a décidé d'ouvrir le mod à la communauté. Saisissant cette opportunité, la nouvelle équipe a décidé de modifier plusieurs éléments d'origine avec une voie qui est considérée comme plus appropriée pour Silver Star.|Elle est partiellement folle et a des complexes d'enfance : par exemple, elle a une véritable obsession pour les petits agneaux doux... Et elle chante et rit. Elle est chroniquement empoisonnée, ce qui explique sa grande tolérance au poison et sa faible constitution.|C'est une tueuse sans remords, quand elle est d'humeur normale, et fait des choses maléfiques, comme le jeu, le chantage, le meurtre, le vol, etc. Elle a une certaine interaction avec les PNJ dans SoA, mais pas dans ToB.|FOR 14, DEX 19, CON 7, INT 16, SAG 6, CHA 14."
         },
         "notes": [
             "Warning: there's a pirated version for EET whose author didn't hesitate to steal the mod's resources and modify its content. Don't download or install it at your own risk, and don't complain!"
@@ -14974,10 +14972,10 @@
     },
     {
         "id": 1032,
-        "description": "This mod adds a new NPC, a witch elf from the far north, straight out of the Backbone of the World, with a possible romance with a male NPC. What's more, this romance continues in ToB. There are 3 different epilogues for this romance at the end of Throne of Bhaal, depending on the choice you make.|STR 11, DEX 19, CON 15, INT 15, WIS 14, CHA 12.",
+        "description": "This mod adds a new NPC, a witch elf neutral good from the far north, straight out of the Backbone of the World, with a possible romance with a male NPC. What's more, this romance continues in ToB. There are 3 different epilogues for this romance at the end of Throne of Bhaal, depending on the choice you make.|STR 11, DEX 19, CON 15, INT 15, WIS 14, CHA 12.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un nouveau PNJ, une elfe sorcière issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue.|FOR 11, DEX 19, CON 15, INT 15, SAG 14, CHA 12."
+            "source": "Ce mod ajoute un nouveau PNJ, une elfe sorcière neutre bonne issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue.|FOR 11, DEX 19, CON 15, INT 15, SAG 14, CHA 12."
         },
         "notes": [
             "The updated French translation is available on Plutonium's latest link."
@@ -16436,10 +16434,10 @@
     },
     {
         "id": 1133,
-        "description": "This mod adds a fictional character, Tsujatha Melalor, an elven necromancer from the kingdom of Gilalion, located on a plane other than Toril. His psychology is particularly well-developed, not least because of his personal quest (his ambition and his father's betrayal have made him an outcast in his kingdom). The romance is long and the interactions numerous, enough to delight those looking for an alternative to the ever-present Anomen. Please note that although Tsujatha is a character of bad alignment (but can be redeemed), he will only romanticize female human, elf and half-elf characters of good alignment. You'll find him in the Planar Sphere. Get there as soon as you can, as there are plenty of banters.|STR 17, DEX 12, CON 12, INT 19, WIS 16, CHA 14.",
+        "description": "This mod adds a fictional character, Tsujatha Melalor, an elven necromancer neutral evil from the kingdom of Gilalion, located on a plane other than Toril. His psychology is particularly well-developed, not least because of his personal quest (his ambition and his father's betrayal have made him an outcast in his kingdom). The romance is long and the interactions numerous, enough to delight those looking for an alternative to the ever-present Anomen. Please note that although Tsujatha is a character of bad alignment (but can be redeemed), he will only romanticize female human, elf and half-elf characters of good alignment. You'll find him in the Planar Sphere. Get there as soon as you can, as there are plenty of banters.|STR 17, DEX 12, CON 12, INT 19, WIS 16, CHA 14.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un personnage romançable, Tsujatha Melalor, nécromancien elfe du royaume de Gilalion, situé sur un autre plan que Toril. Sa psychologie est particulièrement étoffée, cela entre autres de par sa quête personnelle (son ambition et la trahison de son père en ont fait un paria dans son royaume). La romance est longue et les interactions fort nombreuses, de quoi ravir ceux qui souhaitent une alternative au sempiternel Anomen. Attention, même si Tsujatha est un personnage d'alignement mauvais (mais pouvant obtenir une rédemption), il ne romancera que les personnages féminins humains, elfes et demi-elfes d'alignement bon. Vous le trouverez dans la Sphère planaire. Allez-y dès que possible car les banters sont nombreux.|FOR 17, DEX 12, CON 12, INT 19, SAG 16, CHA 14."
+            "source": "Ce mod ajoute un personnage romançable, Tsujatha Melalor, nécromancien elfe neutre mauvais du royaume de Gilalion, situé sur un autre plan que Toril. Sa psychologie est particulièrement étoffée, cela entre autres de par sa quête personnelle (son ambition et la trahison de son père en ont fait un paria dans son royaume). La romance est longue et les interactions fort nombreuses, de quoi ravir ceux qui souhaitent une alternative au sempiternel Anomen. Attention, même si Tsujatha est un personnage d'alignement mauvais (mais pouvant obtenir une rédemption), il ne romancera que les personnages féminins humains, elfes et demi-elfes d'alignement bon. Vous le trouverez dans la Sphère planaire. Allez-y dès que possible car les banters sont nombreux.|FOR 17, DEX 12, CON 12, INT 19, SAG 16, CHA 14."
         },
         "notes": [
             "Choose the github link for the BG2EE/EET version."
@@ -17080,10 +17078,10 @@
     },
     {
         "id": 1177,
-        "description": "Vanim is an evil assassin who would be perfect for a game in this alignment. You'll find him in the temple district, near a statue. He hasn't been developed for years, but he's recruitable and has a few banters and a small quest. Here's an overview of his stats: STR 15, DEX 18, CON 12, INT 16, WIS 14 and CHA 14.",
+        "description": "Vanim is an neutral evil assassin who would be perfect for a game in this alignment. You'll find him in the temple district, near a statue. He hasn't been developed for years, but he's recruitable and has a few banters and a small quest.|STR 15, DEX 18, CON 12, INT 16, WIS 14, CHA 14.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Vanim est un assassin mauvais qui conviendra parfaitement dans une partie orientée dans cet alignement. Vous le trouverez dans le quartier des temples, près d'une statue.|Il n'est plus développé depuis des années, mais il est recrutable et a quelques banters et une petite quête. Voici un aperçu de ses caractéristiques : FOR 15, DEX 18, CON 12, INT 16, SAG 14 et CHA 14."
+            "source": "Vanim est un assassin neutre mauvais qui conviendra parfaitement dans une partie orientée dans cet alignement. Vous le trouverez dans le quartier des temples, près d'une statue.|Il a quelques banters et une petite quête.|FOR 15, DEX 18, CON 12, INT 16, SAG 14, CHA 14."
         },
         "notes": [],
         "notes_meta": {
@@ -17646,10 +17644,10 @@
     },
     {
         "id": 1217,
-        "description": "This mod adds a new recruitable NPC: Wikaede Olveyn, a lawful neutral human priest of Helm with a special magical mace. You'll find him in the temple of Helm, in the temple district of Athkatla, where he'll return if you part with him. No romance is planned, but he can make friends with Anomen, and he interacts at least once with every NPC in the game.",
+        "description": "This mod adds a new recruitable NPC: Wikaede Olveyn, a lawful neutral human priest of Helm with a special magical mace. You'll find him in the temple of Helm, in the temple district of Athkatla, where he'll return if you part with him. No romance is planned, but he can make friends with Anomen, and he interacts at least once with every NPC in the game.|STR 16, DEX 8, CON 17, INT 10, WIS 16, CHA 12.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un nouveau PNJ recrutable : Wikaede Olveyn, un prêtre de Helm humain, loyal neutre, qui dispose d'une masse magique spéciale. Vous le trouverez dans le temple de Helm, dans le quartier des temples d'Athkatla, où il retournera si vous vous en séparez. Aucune romance n'est prévue, mais il peut devenir ami avec Anomen, et il interagit au moins une fois avec chaque PNJ du jeu."
+            "source": "Ce mod ajoute un nouveau PNJ recrutable : Wikaede Olveyn, un prêtre de Heaume humain, loyal neutre, qui dispose d'une masse magique spéciale. Vous le trouverez dans le temple de Helm, dans le quartier des temples d'Athkatla, où il retournera si vous vous en séparez. Aucune romance n'est prévue, mais il peut devenir ami avec Anomen, et il interagit au moins une fois avec chaque PNJ du jeu.|FOR 16, DEX 8, CON 17, INT 10, SAG 16, CHA 12."
         },
         "notes": [],
         "notes_meta": {
@@ -17945,10 +17943,10 @@
     },
     {
         "id": 1238,
-        "description": "This mod adds a drow NPC with specially designed banters, voices and items. She's a pure fighter, chaotic good, with two swords of her own and an amulet. You meet her at the end of the Irenicus dungeon (note that if you ask her to leave, you'll never find her again). She'll fit in well with your group, provided it's defending worthy objectives (Good or Neutral characters), and has a special voice allotted to her.|Note that she has one extra attack per round; which is abusive, to say the least...",
+        "description": "This mod adds a drow NPC with specially designed banters, voices and items. She's a pure fighter, chaotic good, with two swords of her own and an amulet. You meet her at the end of the Irenicus dungeon (note that if you ask her to leave, you'll never find her again). She'll fit in well with your group, provided it's defending worthy objectives (Good or Neutral characters), and has a special voice allotted to her.|Note that she has one extra attack per round; which is abusive, to say the least...|STR 18/97, DEX 18, CON 12, INT 13, WIS 12, CHA 16.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute une PNJ drow qui a des banters, des voix et des objets spécialement conçus pour elle. C'est une guerrière pure, chaotique bonne, qui possède deux épées personnelles ainsi qu'une amulette. Vous la rencontrez à la fin du donjon d'Irenicus (notez que si vous lui demandez de partir, vous ne la retrouverez plus jamais). Elle s'implante bien dans votre groupe, si ce dernier défend des objectifs louables (personnages Bons ou Neutres) et une voix particulière lui est allouée.|Notez qu'elle dispose d'une attaque supplémentaire par round ; ce qui est pour le moins abusé..."
+            "source": "Ce mod ajoute une PNJ drow qui a des banters, des voix et des objets spécialement conçus pour elle. C'est une guerrière pure, chaotique bonne, qui possède deux épées personnelles ainsi qu'une amulette. Vous la rencontrez à la fin du donjon d'Irenicus (notez que si vous lui demandez de partir, vous ne la retrouverez plus jamais). Elle s'implante bien dans votre groupe, si ce dernier défend des objectifs louables (personnages Bons ou Neutres) et une voix particulière lui est allouée.|Notez qu'elle dispose d'une attaque supplémentaire par round ; ce qui est pour le moins abusé...|FOR 18/97, DEX 18, CON 12, INT 13, SAG 12, CHA 16."
         },
         "notes": [
             "The first link contains the original version, and the github link the EET-compatible version."
@@ -17975,10 +17973,10 @@
     },
     {
         "id": 1240,
-        "description": "This mod adds a new NPC, a monk with his own quest and interactions with each character. Whether or not he has Celestial Fury, version +3 or +5, affects his reactions. Without Celestial Fury, he won't join the team. Some of his characteristics: FOR 16, DEX 18, CON 14, INT 8, SAG 18 and CHA 4.",
+        "description": "This mod adds a new NPC, a monk lawful neutral who comes from Kara-Tur. He has with his own quest and interactions with each character. He's under a vow of silence until he succeeds, so your initial meeting involves an interesting bit of charades. Whether or not he has Celestial Fury, version +3 or +5, affects his reactions. Without Celestial Fury, he won't join the team. Some of his characteristics: FOR 16, DEX 18, CON 14, INT 8, SAG 18 and CHA 4.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un nouveau PNJ, un moine qui possède sa propre quête ainsi que des interactions avec chaque personnage. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe. Un aperçu de ses caractéristiques : FOR 16, DEX 18, CON 14, INT 8, SAG 18 et CHA 4."
+            "source": "Ce mod ajoute un nouveau PNJ, un moine loyal neutre qui vient de Kara-Tur. Il possède sa propre quête ainsi que des interactions avec chaque personnage. Il a fait vœu de silence jusqu'à ce qu'il réussisse sa mission, donc votre première rencontre se déroulera sous forme d'un jeu de charades intéressant. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe.|FOR 16, DEX 18, CON 14, INT 8, SAG 18, CHA 4."
         },
         "notes": [
             "Choose the github link for the EE version and the other link for the original versions."
@@ -18747,10 +18745,10 @@
     },
     {
         "id": 1294,
-        "description": "Sometimes called Weimer's Solaufein, this mod adds a recruitable Dark Elf fighter/mage NPC whose alignment depends on yours (chaotic good if your character is good or neutral, chaotic neutral if he's bad)... This is Ust Natha's Solaufein, whom you hire as you leave the city... His characteristics are as follows: FOR 18/21, DEX 18, CON 10, INT 18, SAG 10 and CHA 16.|Note that he's very pleasant, has several challenges (difficult battles), rewards (which I'll let you discover) and a romance (no restrictions on gender, race or even other ongoing romances). Finally, it adds two scripts, Solo auto buff and Party auto buff (one for solo play, the other for group play). This makes enemies attack, healing potions drink, traps detect and allows mages, clerics, bards and druids to cast all their defense spells in a fraction of a second (if no enemies are present).",
+        "description": "Sometimes called Weimer's Solaufein, this mod adds a recruitable Dark Elf fighter/mage NPC whose alignment depends on yours (chaotic good if your character is good or neutral, chaotic neutral if he's bad)... This is Ust Natha's Solaufein, whom you hire as you leave the city...|Note that he's very pleasant, has several challenges (difficult battles), rewards (which I'll let you discover) and a romance (no restrictions on gender, race or even other ongoing romances). Finally, it adds two scripts, Solo auto buff and Party auto buff (one for solo play, the other for group play). This makes enemies attack, healing potions drink, traps detect and allows mages, clerics, bards and druids to cast all their defense spells in a fraction of a second (if no enemies are present).|STR 18/21, DEX 18, CON 10, INT 18, WIS 10, CHA 16.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Parfois appelé Weimer's Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité... Ses caractéristiques sont les suivantes : FOR 18/21, DEX 18, CON 10, INT 18, SAG 10 et CHA 16.|À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent)."
+            "source": "Parfois appelé Weimer's Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité...|À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent).|FOR 18/21, DEX 18, CON 10, INT 18, SAG 10, CHA 16."
         },
         "notes": [
             "Choose the github link for the EE version (untranslated) and the other link for the original versions. The EE version is not official."
@@ -18816,10 +18814,10 @@
     },
     {
         "id": 1299,
-        "description": "This mod adds a new vampire NPC, a fighter-thief to be precise, who is very effective in combat - too much so for some. She's formidable at night, but becomes very weak during the day. This mod adds plenty of interaction with NPCs, but no romance. She can't stay on the team with Mazzy, Keldorn, Anomen or Aerie, at the risk of... violent quarrelling. She also has a specific quest (of unprecedented difficulty). A glimpse of her characteristics: vampire dual-class fighter/thief chaotic evil, STR 18/75, DEX 17, CON 9, INT 16, WIS 10 and CHA 15.",
+        "description": "This mod adds a new vampire NPC, a fighter-thief neutral evil, who is very effective in combat - too much so for some. She's formidable at night, but becomes very weak during the day. This mod adds plenty of interaction with NPCs, but no romance. She can't stay on the team with Mazzy, Keldorn, Anomen or Aerie, at the risk of... violent quarrelling. She also has a specific quest (of unprecedented difficulty).| Human form: STR 18/75, DEX 17, CON 9, INT 16, WIS 10, CHA 15.|Vampire form: STR 22, DEX 21, CON 9, INT 20, WIS 10, CHA 19.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un nouveau PNJ vampire, une guerrière-voleuse plus précisément, très efficace au combat, trop pour certains. Elle est redoutable la nuit, mais devient très faible le jour. Ce mod rajoute de nombreuses interactions avec les PNJ, mais pas de romance possible. Elle ne peut demeurer dans l'équipe avec Mazzy, Keldorn, Anomen, ou Aerie, au risque de se disputer... violemment. Elle possède aussi une quête spécifique (d'une difficulté réputée inouïe). Un aperçu de ses caractéristiques : vampire bi-classée guerrier/voleur chaotique mauvaise, FOR 18/75, DEX 17, CON 9, INT 16, SAG 10 et CHA 15."
+            "source": "Ce mod ajoute un nouveau PNJ vampire, une guerrière-voleuse neutre mauvaise, très efficace au combat, trop pour certains. Elle est redoutable la nuit, mais devient très faible le jour. Ce mod rajoute de nombreuses interactions avec les PNJ, mais pas de romance possible. Elle ne peut demeurer dans l'équipe avec Mazzy, Keldorn, Anomen, ou Aerie, au risque de se disputer... violemment. Elle possède aussi une quête spécifique (d'une difficulté réputée inouïe).|Forme humaine : FOR 18/75, DEX 17, CON 9, INT 16, SAG 10, CHA 15.|Forme vampire : FOR 22, DEX 21, CON 9, INT 20, SAG 10, CHA 19."
         },
         "notes": [
             "Use the github link for EE versions."
@@ -20299,10 +20297,10 @@
     },
     {
         "id": 1401,
-        "description": "This mod is a stereotypical bully, so Willie Bruce is rude, sexist and racist. Willie's opinions in no way reflect those of the coder or authors. Willie Bruce is a basic, entry-level fighter who likes to hang out in bars, watch soccer on TV and fight. This mod can be offensive, not to be taken at face value.",
+        "description": "This mod is a stereotypical bully, so Willie Bruce is rude, sexist and racist. Willie's opinions in no way reflect those of the coder or authors. Willie Bruce is a basic, entry-level fighter who likes to hang out in bars, watch soccer on TV and fight. This mod can be offensive, not to be taken at face value.|STR 16, DEX 12, CON 18, INT 8, WIS 6, CHA 8.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod est un bourrin stéréotypé, Willie Bruce est donc grossier, sexiste et raciste. Les opinions de Willie ne reflètent en aucun cas les opinions du codeur ou des auteurs. Willie Bruce est un combattant de base, de premier niveau, qui aime traîner dans les bars, regarder le football à la télévision et se battre. Ce mod peut être offensant, à ne pas prendre au premier degré."
+            "source": "Ce mod est un bourrin stéréotypé, Willie Bruce est donc grossier, sexiste et raciste. Les opinions de Willie ne reflètent en aucun cas les opinions du codeur ou des auteurs. Willie Bruce est un combattant de base, de premier niveau, qui aime traîner dans les bars, regarder le football à la télévision et se battre. Ce mod peut être offensant, à ne pas prendre au premier degré.|FOR 16, DEX 12, CON 18, INT 8, SAG 6, CHA 8."
         },
         "notes": [],
         "notes_meta": {
@@ -21539,7 +21537,7 @@
         "description": "Ninafer is a lawful neutral fighter/mage available at the Copper Coronet and created in the chosenofmystra forge.|She has a very powerful irremovable magic ring and a powerful sword.|She has few banters and is entirely vocalized in English.|This mod also adds two merchants, one in the Temple district, the other in Trademeet.|STR 15, DEX 19, CON 12, INT 18, WIS 9, CHA 11.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ninafer est une guerrière/mage loyal neutre disponible à la Couronne de Cuivre et créée dans la forge chosenofmystra.|Elle dispose d'un anneau magique innamovible très puissant ainsi qu'une épée performante.|Elle dispose de peu de banters et est entièrement vocalisée en anglais.|Ce mod ajoute également deux marchands, l'un dans le quartier du Temple, l'autre à Franc-Marché.|FOR 15, DEX 19, CON 12, INT 18, SAG 9, CHA 11."
+            "source": "Ninafer est une elfe guerrière/mage loyal neutre disponible à la Couronne de Cuivre et créée dans la forge chosenofmystra.|Elle dispose d'un anneau magique innamovible très puissant ainsi qu'une épée performante.|Elle dispose de peu de banters et est entièrement vocalisée en anglais.|Ce mod ajoute également deux marchands, l'un dans le quartier du Temple, l'autre à Franc-Marché.|FOR 15, DEX 19, CON 12, INT 18, SAG 9, CHA 11."
         },
         "notes": [
             "Only the github link is compatible with EE versions.",
@@ -22002,10 +22000,10 @@
     },
     {
         "id": 1520,
-        "description": "This mod allows players to negotiate with Umar's hill dragon according to its level. Combat is also modified.",
+        "description": "This mod allows players to negotiate with Umar's Hill dragon according to its level. Combat is also modified.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet aux joueurs de négocier avec le dragon des collines d'Umar en fonction de son niveau. Le combat est également modifié."
+            "source": "Ce mod permet aux joueurs de négocier avec le dragon des Collines d'Umar en fonction de son niveau. Le combat est également modifié."
         },
         "notes": [],
         "notes_meta": {
@@ -25765,6 +25763,19 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce tweakpack possèdent plusieurs composants assez variés, des modifications de comportements des pnj, à des améliorations visuelles des objets de quêtes en passant par l'ajout de gain d'expérience lors des quêtes. Il propose aussi de nouveaux scripts pour vos coéquipiers."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1788,
+        "description": "Krondor is a surly but good-natured Dwarf who's fun to have around. He has an animal companion (Wolfie, a Worg) who factors into several of his dialogues. He encourages the PC to take the Good path in any quest, acting much like Keldorn or Mazzy. He has a heavy accent & is a bit gruff, but very likeable. Unfortunately, you never get to find out about his history, such as how'd he meet Wolfie, where they're from, why'd they come to the Umar Hills.|STR 18/00, DEX 16, CON 15, INT 13, WIS 18, CHA 10.",
+        "description_meta": {
+            "status": "todo",
+            "source": "Krondor est un nain bourru mais bon enfant, avec qui il est agréable de passer du temps. C'est un prêtre de Heaum loyal bon. Il a un compagnon animal (Wolfie, un worg) qui intervient dans plusieurs de ses dialogues. Il encourage le personnage joueur à suivre la voie du bien dans toutes les quêtes, un peu comme Keldorn ou Mazzy. Il a un fort accent et est un peu bourru, mais très sympathique. Vous pouvez le retrouver dans les Collines d'Umar.|FOR 18/00, DEX 16, CON 15, INT 13, SAG 18, CHA 10."
         },
         "notes": [],
         "notes_meta": {

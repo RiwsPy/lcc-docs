@@ -945,7 +945,7 @@
     {
         "id": 30,
         "name": "Alassa",
-        "description": "Une voleuse mauvaise avec voix, quelques banters légers et un portrait original. Nécessite ToB.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16.",
+        "description": "Une voleuse neutre mauvaise avec voix, quelques banters légers et un portrait original. Vous pouvez la trouver dans les Bas Quartiers. Nécessite ToB.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16.",
         "urls": [
             "https://www.pocketplane.net/one-day-npcs/",
             "https://github.com/Plutonium-X/1D_NPC_Alassa"
@@ -1246,7 +1246,7 @@
     {
         "id": 39,
         "name": "Alora NPC for BG2",
-        "description": "La voleuse halfelin de la Porte de Baldur revient avec ce mod, pour le plus grand plaisir de ses fans. Sa bonhommie et ses exclamations sympathiques la rendent tout autant charismatique que dans le premier opus de la saga.",
+        "description": "La voleuse halfelin de la Porte de Baldur revient avec ce mod, pour le plus grand plaisir de ses fans. Sa bonhommie et ses exclamations sympathiques la rendent tout autant charismatique que dans le premier opus de la saga.|FOR 12, DEX 19, CON 12, INT 14, SAG 7, CHA 15.",
         "urls": [
             "https://github.com/GwendolyneFreddy/Alora-NPC-for-BG2",
             "https://america.iegmc.com/com/alora-npc-for-bg2-2.0.zip"
@@ -1717,7 +1717,7 @@
     {
         "id": 53,
         "name": "Anishai one-day NPC",
-        "description": "Une moniale chaotique neutre que l'on peut recruter à la guilde de Mae'Var après l'étape du nettoyage.",
+        "description": "Une moniale chaotique neutre que l'on peut recruter à la guilde de Mae'Var après l'étape du nettoyage.|FOR 14, DEX 17, CON 10, INT 13, SAG 9, CHA 16.",
         "urls": [
             "https://www.gibberlings3.net/files/file/687-anishai-one-day-npc/",
             "https://github.com/Gibberlings3/Anishai"
@@ -6403,7 +6403,7 @@
             "BG2"
         ],
         "authors": [
-            "Bonnie Rutledge"
+            "Bons"
         ],
         "team": [],
         "notes": [],
@@ -7302,7 +7302,7 @@
     {
         "id": 228,
         "name": "Chloe NPC",
-        "description": "Ce mod ajoute une kensaï demi-déesse, avec un kit de voix et des armes spécifiques, qui romance exclusivement les personnages féminins. Des interactions ont été écrites avec chaque personnage, mais la romance n'existe pour l'instant que pour SoA. Des quêtes relatives à Chloé complètent l'ensemble.|FOR 13, DEX 25, CON 16, INT 12, SAG 12 et CHA 14.",
+        "description": "Ce mod ajoute une kensaï demi-déesse neutre stricte, avec un kit de voix et des armes spécifiques, qui romance exclusivement les personnages féminins. Des interactions ont été écrites avec chaque personnage, mais la romance n'existe pour l'instant que pour SoA. Des quêtes relatives à Chloé complètent l'ensemble.|FOR 13, DEX 25, CON 16, INT 12, SAG 12 et CHA 14.",
         "urls": [
             "https://www.shsforums.net/files/file/848-chloe-v15/",
             "https://github.com/Plutonium-X/NPC_Chloe"
@@ -13209,7 +13209,7 @@
     {
         "id": 414,
         "name": "Fonick",
-        "description": "Créé en 4 jours pour un concours de modding sur le thème \"Histoire\", ce mod ajoute au jeu un barde loyal bon qui chante encore plus mal qu'un candidat malheureux à la Nouvelle Star ! Des interactions avec tout le monde et un kit spécifique. Attention, ses statistiques sont lamentables : êtes-vous prêt à le supporter (le traîner ) ?",
+        "description": "Créé en 4 jours pour un concours de modding sur le thème \"Histoire\", ce mod ajoute au jeu un barde loyal bon qui chante encore plus mal qu'un candidat malheureux à la Nouvelle Star ! Des interactions avec tout le monde et un kit spécifique. Attention, ses statistiques sont lamentables : êtes-vous prêt à le supporter (le traîner ) ?|FOR 11, DEX 18, CON 18, INT 8, SAG 4, CHA 5.",
         "urls": [
             "https://www.gibberlings3.net/files/file/701-fonick/"
         ],
@@ -14276,7 +14276,7 @@
     {
         "id": 448,
         "name": "Ghareth NPC",
-        "description": "Il s'agit d'un guerrier/mage humain avec 20 banters et son kit de voix.",
+        "description": "Il s'agit d'un guerrier/mage humain d'alignement loyal neutre. C'est un ancien mage cagoulé qui s'est désenchanté de leur règne autoritaire et qui est prêt à aider le groupe à les affronter. Plutôt fourni pour un PNJ One Day car il possède 20 banters et son kit de voix.|FOR 11, DEX 15, CON 17, INT 15, SAG 11, CHA 13.",
         "urls": [
             "https://www.pocketplane.net/one-day-npcs/"
         ],
@@ -14526,7 +14526,7 @@
     {
         "id": 456,
         "name": "Goo the Disembodied Floating Eyeball",
-        "description": "Le seul PNJ à être un œil flottant ! Gozaloth (Goo pour ses amis) est le compagnon idéal pour Jan, si vous voulez le voir répliquer de manière encore plus savoureuse ! Vous le trouverez dans la Sphère planaire.|Notez que le mod [[Alternate Goo Portrait]] permet de modifier son portrait.",
+        "description": "Le seul PNJ à être un œil flottant ! Gozaloth (Goo pour ses amis) est le compagnon idéal pour Jan, si vous voulez le voir répliquer de manière encore plus savoureuse ! Vous le trouverez dans la Sphère planaire.|Notez que le mod [[Alternate Goo Portrait]] permet de modifier son portrait.|FOR 17, DEX 7, CON 20, INT 15, SAG 9, CHA 4.",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
@@ -15401,7 +15401,7 @@
     {
         "id": 484,
         "name": "Hessa NPC",
-        "description": "Il s'agit d'une voleuse demi-elfe neutre mauvaise, avec 12 banters, 20 interjections, une quête et une nouvelle zone.",
+        "description": "Il s'agit d'une voleuse demi-elfe neutre mauvaise, avec 12 banters, 20 interjections, une quête et une nouvelle zone.|FOR 15, DEX 16, CON 16, INT 13, SAG 12, CHA 10.",
         "urls": [
             "https://www.pocketplane.net/one-day-npcs/"
         ],
@@ -15413,7 +15413,7 @@
             "BGT"
         ],
         "authors": [
-            "Bonnie Rutledge"
+            "Bons"
         ],
         "team": [],
         "notes": [
@@ -15765,7 +15765,7 @@
     {
         "id": 496,
         "name": "Horace",
-        "description": "Ce mod ajoute un squelette en tant que PNJ membre du groupe. Vous pourrez le trouver dans la crypte de Franc-Marché. Il dispose d'un kit spécifique à son état, d'HLA et de sorts en partie issus d'IWD2, ainsi que d'une IA spécifique si vous choisissez de l'activer.|FOR 17, DEX 13, CON 18, INT 13, SAG 16, CHA 9.",
+        "description": "Ce mod ajoute un squelette d'alignement loyal bon en tant que PNJ membre du groupe. Vous pourrez le trouver dans la crypte de Franc-Marché. Il dispose d'un kit spécifique à son état, d'HLA et de sorts en partie issus d'IWD2, ainsi que d'une IA spécifique si vous choisissez de l'activer.|FOR 17, DEX 13, CON 18, INT 13, SAG 16, CHA 9.",
         "urls": [
             "https://www.shsforums.net/topic/54902-horace-a-mod-from-seifer/",
             "https://github.com/Plutonium-X/1D_NPC_Horace"
@@ -15858,7 +15858,7 @@
     {
         "id": 499,
         "name": "Hubelpot the Vegetable Merchant NPC",
-        "description": "Il y des gens destinés à un avenir grandiose, d'autres remplis de pouvoir et de talents, enfin d'autres plus sexy-que-moi-tu-meurs. Mais tous ont besoin d'un bon cuistot : d'où l'utilité de notre druide marchand de légumes Hubelpot. Vous pouvez le trouver dans le magasin de fruits et légumes d'Enge sur la promenade de Waukyne. Hubelpot propose une trentaine de plaisanteries, aucune ne brise le 4e mur et aucune ne comporte le mot \"navet\". Il interagit avec tous les PNJ Bioware à l'exception de Sarevok. Dans ToB, il est encore assez silencieux, ne parlant que lorsqu'il est appelé, avec Volo et à la fin de ToB. Il dispose aussi d'une quête riche en rebondissements, avec avec une récompense inhabituelle.|FOR 12, DEX 8, CON 10, INT 10, SAG 14, CHA 13.",
+        "description": "Il y des gens destinés à un avenir grandiose, d'autres remplis de pouvoir et de talents, enfin d'autres plus sexy-que-moi-tu-meurs. Mais tous ont besoin d'un bon cuistot : d'où l'utilité de notre druide marchand de légumes Hubelpot. Vous pouvez le trouver dans le magasin de fruits et légumes d'Enge sur la promenade de Waukyne. Hubelpot propose une trentaine de plaisanteries, aucune ne brise le 4e mur et aucune ne comporte le mot \"navet\". Il interagit avec tous les PNJ Bioware à l'exception de Sarevok. Dans ToB, il est encore assez silencieux, ne parlant que lorsqu'il est appelé, avec Volo et à la fin de ToB. Il dispose aussi d'une quête riche en rebondissements, avec une récompense inhabituelle.|FOR 12, DEX 8, CON 10, INT 10, SAG 14, CHA 13.",
         "urls": [
             "https://www.shsforums.net/files/file/31-hubelpot-the-vegetable-merchant/",
             "https://github.com/Spellhold-Studios/Hubelpot-NPC"
@@ -18874,7 +18874,7 @@
     {
         "id": 594,
         "name": "Kelsey NPC MOD for Baldur's Gate 2",
-        "description": "Ce mod ajoute un sorcier, avec qui une romance est possible, ainsi que des interactions avec d'autres PNJ. La romance continue dans ToB, mais ToB n'est pas obligatoire pour que ça marche (2 installations sont possibles). Kelsey ajoute également de nouveaux ennemis.",
+        "description": "Ce mod ajoute un sorcier neutre bon, avec qui une romance est possible, ainsi que des interactions avec d'autres PNJ. La romance continue dans ToB, mais ToB n'est pas obligatoire pour que ça marche (2 installations sont possibles). Kelsey ajoute également de nouveaux ennemis.|FOR 12, DEX 16, CON 15, INT 12, SAG 13, CHA 14.",
         "urls": [
             "https://www.pocketplane.net/kelsey",
             "https://github.com/Pocket-Plane-Group/Kelsey"
@@ -19000,7 +19000,7 @@
     {
         "id": 598,
         "name": "Keto NPC MOD For Baldur's Gate 2",
-        "description": "Keto est une barde neutre bonne humaine, avec un penchant certain pour la bouteille et les histoires, que vous trouverez aux Cinq Chopes. Très bavarde, elle dispose de nombreux dialogues avec les PNJ recrutables, avec une myriade de PNJ de passage, et commente plus d'une aventure quand elle ne se fend pas d'un conte. Considéré comme un des meilleurs modules de PNJ (deux ans et demi d'élaboration), Keto dispose également de sa quête personnelle et possède son propre set de voix plus des sets de plusieurs intervenants (400). Elle n'est cependant pas romançable et n'est probablement pas le personnage rêvé pour les fêlés d'optimisation.|Qu'elle n'ait pas de contenu pour ToB est un atout, car elle peut sans scrupule être remplacée dans ToB par Sarevok ou Irenicus (mods [[Redemption]] ou [[The Longer Road]]).",
+        "description": "Keto est une barde neutre bonne humaine, avec un penchant certain pour la bouteille et les histoires, que vous trouverez aux Cinq Chopes. Très bavarde, elle dispose de nombreux dialogues avec les PNJ recrutables, avec une myriade de PNJ de passage, et commente plus d'une aventure quand elle ne se fend pas d'un conte. Considéré comme un des meilleurs modules de PNJ (deux ans et demi d'élaboration), Keto dispose également de sa quête personnelle et possède son propre set de voix plus des sets de plusieurs intervenants (400). Elle n'est cependant pas romançable et n'est probablement pas le personnage rêvé pour les fêlés d'optimisation.|Qu'elle n'ait pas de contenu pour ToB est un atout, car elle peut sans scrupule être remplacée dans ToB par Sarevok ou Irenicus (mods [[Redemption]] ou [[The Longer Road]]).|FOR 11, DEX 15, CON 16, INT 15, SAG 9, CHA 15.",
         "urls": [
             "https://www.pocketplane.net/keto-npc/",
             "https://github.com/Pocket-Plane-Group/Keto"
@@ -19097,7 +19097,7 @@
     {
         "id": 601,
         "name": "Kiara Zaiya",
-        "description": "Ce mod ajoute 2 nouveaux personnages féminins, une demi-elfe entropiste chaotique bonne (Zaiya) et une moniale neutre mauvaise (Kiara). Des interactions à foison, de nouveaux ennemis, un réajustement des capacités de haut-niveau des moines, une amélioration du combat contre le golem dans le donjon de'Arnise et des combats des chapitres 2 et 6 contre Amaralis (dans la même veine que ceux de [[Tactics]] ou d'[[Ascension]] pour celui du chapitre 6), sans oublier des personnages avec des capacités et un équipement spéciaux. Enfin, la cerise sur le gâteau, une romance avec Kiara qui pourra peut-être l'amener à la rédemption. Les romances sont parfois très osées (Zaiya romancera Cernd).|Zaiya : FOR 9, DEX 16, CON 16, INT 17, SAG 15, CHA 10|Kiara : FOR 14, DEX 17, CON 12, INT 15, SAG 10, CHA 16",
+        "description": "Ce mod ajoute 2 nouveaux personnages féminins, une demi-elfe entropiste chaotique bonne (Zaiya) et une moniale neutre mauvaise (Kiara). Des interactions à foison, de nouveaux ennemis, un réajustement des capacités de haut-niveau des moines, une amélioration du combat contre le golem dans le donjon de'Arnise et des combats des chapitres 2 et 6 contre Amaralis (dans la même veine que ceux de [[Tactics]] ou d'[[Ascension]] pour celui du chapitre 6), sans oublier des personnages avec des capacités et un équipement spéciaux. Enfin, la cerise sur le gâteau, une romance avec Kiara qui pourra peut-être l'amener à la rédemption. Les romances sont parfois très osées (Zaiya romancera Cernd).|Zaiya : FOR 9, DEX 16, CON 16, INT 17, SAG 15, CHA 10.|Kiara : FOR 14, DEX 17, CON 12, INT 15, SAG 10, CHA 16.",
         "urls": [
             "https://www.shsforums.net/topic/61123-kiara-zaiya-npcs-updated-to-v201-ee-compatible/",
             "https://github.com/Spellhold-Studios/Kiara-Zaiya"
@@ -19137,7 +19137,7 @@
     {
         "id": 602,
         "name": "Kido NPC",
-        "description": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec Ariena la demi-orque (du même auteur).",
+        "description": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido est un barde de kit bouffon et d'alignement chaotique mauvais. Il dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec Ariena la demi-orque (du même auteur). Retrouvez-le dans l'auberge des Cinq Chopes.|FOR 11, DEX 17, CON 13, INT 16, SAG 8, CHA 15.",
         "urls": [
             "https://www.shsforums.net/files/file/241-kido-version-70/"
         ],
@@ -19231,7 +19231,7 @@
     {
         "id": 605,
         "name": "Kindrek",
-        "description": "Ce mod rajoute un PNJ très puissant, chaotique neutre et berserker. Il a une race inédite, sorte de demi-géant d'origine magique. Il n'est pas romançable, mais possède une quête personnelle ainsi qu'une rencontre spécifique. Il a aussi de nombreuses interactions, sons et cinématiques avec les autres personnages. Attention aux personnages mages, bardes, sorciers et multi-classés mages. Kindrek refusera de vous rejoindre.",
+        "description": "Ce mod rajoute un PNJ très puissant, chaotique neutre et berserker. Il a une race inédite, sorte de demi-géant d'origine magique. Il n'est pas romançable, mais possède une quête personnelle ainsi qu'une rencontre spécifique. Il a aussi de nombreuses interactions, sons et cinématiques avec les autres personnages. Attention aux personnages mages, bardes, sorciers et multi-classés mages. Kindrek refusera de vous rejoindre.|FOR 20, DEX 16, CON 18, INT 15, SAG 10, CHA 10.",
         "urls": [
             "https://america.iegmc.com/kindrek/Kindrek2_7.zip"
         ],
@@ -19382,7 +19382,7 @@
     {
         "id": 610,
         "name": "Kitanya",
-        "description": "Kitanya est une tueuse de magiciens elfe sympathique et de compagnie fort agréable, chaotique bonne avec de nombreuses interactions et une romance. Elle pourra même avoir des dialogues particulièrement amusants avec Edwin. Vous la trouverez dans les environs des Collines d'Umar. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier.",
+        "description": "Kitanya est une tueuse de magiciens elfe sympathique et de compagnie fort agréable, chaotique bonne avec de nombreuses interactions et une romance. Elle pourra même avoir des dialogues particulièrement amusants avec Edwin. Vous la trouverez dans les environs des Collines d'Umar. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier.|FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19.",
         "urls": [
             "https://www.shsforums.net/topic/57821-kitanya-npc-v641-a-mod-from-rastor/",
             "https://github.com/GwendolyneFreddy/Kitanya_NPC",
@@ -19403,7 +19403,6 @@
         ],
         "team": [],
         "notes": [
-            "FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19",
             "Le second lien github propose une version compatible avec les versions EE, disponible qu'en anglais."
         ],
         "translation_state": "auto",
@@ -19419,7 +19418,7 @@
     {
         "id": 611,
         "name": "Kivan and Deheriana Companions for BG2",
-        "description": "Anciennement Kivan de Shilmista, Kivan est enfin de retour dans BG2 grâce à ce mod, ainsi que sa femme, Dehenaria (sous certaines conditions). Il vous retrouve à la sortie du donjon d'Irenicus. L'occasion pour ceux qui n'ont pas joué à BG1 de connaître un des meilleurs PNJ du jeu originel et pour les autres, la possibilité de voir ce qu'il est advenu de Kivan et comment il a changé.",
+        "description": "Anciennement Kivan de Shilmista, Kivan est enfin de retour dans BG2 grâce à ce mod, ainsi que sa femme, Dehenaria (sous certaines conditions). Il vous retrouve à la sortie du donjon d'Irenicus. L'occasion pour ceux qui n'ont pas joué à BG1 de connaître un des meilleurs PNJ du jeu originel et pour les autres, la possibilité de voir ce qu'il est advenu de Kivan et comment il a changé.|FOR 18/21, DEX 17, CON 14, INT 12, SAG 16, CHA 8.",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/kivan/",
             "https://github.com/Gibberlings3/Kivan_and_Deheriana"
@@ -23255,7 +23254,7 @@
     {
         "id": 734,
         "name": "NPC Kitpack",
-        "description": "Ce mod permet de modifier les profils de vos PNJ, afin qu'ils soient plus proches de leurs pensées. Entre autres, Anomen devient prêtre de Helm lorsqu'il réussit son adoubement à l'Ordre du Cœur Radieux et devient un Berserker s'il le rate, Imoen et Nalia deviennent des aventurières (profil de voleur) ou des mages, Edwin un Sorcier rouge, Korgan un Enragé (profil de guerrier), Sarevok un Semeur de mort, Mazzy un Paladin d'Arvoreen, Minsc voit le nom de son kit modifié en rôdeur de Rashéménie, etc.",
+        "description": "Ce mod permet de modifier les profils de vos PNJ, afin qu'ils soient plus proches de leurs pensées. Entre autres, Anomen devient prêtre de Heaume lorsqu'il réussit son adoubement à l'Ordre du Cœur Radieux et devient un Berserker s'il le rate, Imoen et Nalia deviennent des aventurières (profil de voleur) ou des mages, Edwin un Sorcier rouge, Korgan un Enragé (profil de guerrier), Sarevok un Semeur de mort, Mazzy un Paladin d'Arvoreen, Minsc voit le nom de son kit modifié en rôdeur de Rashéménie, etc.",
         "urls": [
             "https://www.gibberlings3.net/mods/kits/npckit"
         ],
@@ -28933,7 +28932,7 @@
     {
         "id": 910,
         "name": "Saerileth",
-        "description": "Saerileth est une Paladine de Tyr âgée de 15 ans, et fort jolie. Ce mod est complet avec du contenu pour SoA/ToB, une romance (pour les humains, elfes et demi-elfes), plusieurs quêtes (apportant 3 nouvelles maps). Il est très bien écrit, mais réservé aux loyaux bons en quête d'amour courtois, le flirt avec Saerileth n'étant pas franchement... viconiesque.",
+        "description": "Saerileth est une Paladine de Tyr âgée de 15 ans, et fort jolie. Ce mod est complet avec du contenu pour SoA/ToB, une romance (pour les humains, elfes et demi-elfes), plusieurs quêtes (apportant 3 nouvelles maps). Il est très bien écrit, mais réservé aux loyaux bons en quête d'amour courtois, le flirt avec Saerileth n'étant pas franchement... viconiesque.|FOR 16, DEX 14, CON 12, INT 14, SAG 17, CHA 18.",
         "urls": [
             "https://smolderingmodsbar.com/saerileth-bg2-ee/",
             "https://github.com/PaulaMigrate/Saerileth"
@@ -30309,7 +30308,7 @@
     {
         "id": 953,
         "name": "Silver Star NPC",
-        "description": "Silver Star est une assassin elfe qui peut se joindre à la fête dans le charmant trou souterrain d'Irenicus. Ce projet a récemment pris un changement de direction dans la mesure où le créateur original Davide Carta a décidé d'ouvrir le mod à la communauté. Saisissant cette opportunité, la nouvelle équipe a décidé de modifier plusieurs éléments d'origine avec une voie qui est considérée comme plus appropriée pour Silver Star.|Elle est partiellement folle et a des complexes d'enfance : par exemple, elle a une véritable obsession pour les petits agneaux doux... Et elle chante et rit. Elle est chroniquement empoisonnée, ce qui explique sa grande tolérance au poison et sa faible constitution.|C'est une tueuse sans remords, quand elle est d'humeur normale, et fait des choses maléfiques, comme le jeu, le chantage, le meurtre, le vol, etc. Elle a une certaine interaction avec les PNJ dans SoA, mais pas dans ToB.",
+        "description": "Silver Star est une assassin elfe neutre mauvaise qui peut se joindre à la fête dans le charmant trou souterrain d'Irenicus. Ce projet a récemment pris un changement de direction dans la mesure où le créateur original Davide Carta a décidé d'ouvrir le mod à la communauté. Saisissant cette opportunité, la nouvelle équipe a décidé de modifier plusieurs éléments d'origine avec une voie qui est considérée comme plus appropriée pour Silver Star.|Elle est partiellement folle et a des complexes d'enfance : par exemple, elle a une véritable obsession pour les petits agneaux doux... Et elle chante et rit. Elle est chroniquement empoisonnée, ce qui explique sa grande tolérance au poison et sa faible constitution.|C'est une tueuse sans remords, quand elle est d'humeur normale, et fait des choses maléfiques, comme le jeu, le chantage, le meurtre, le vol, etc. Elle a une certaine interaction avec les PNJ dans SoA, mais pas dans ToB.|FOR 14, DEX 19, CON 7, INT 16, SAG 6, CHA 14.",
         "urls": [
             "https://github.com/Spellhold-Studios/Silver-Star-NPC"
         ],
@@ -32826,7 +32825,7 @@
     {
         "id": 1032,
         "name": "Tashia NPC",
-        "description": "Ce mod ajoute un nouveau PNJ, une elfe sorcière issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue.|FOR 11, DEX 19, CON 15, INT 15, SAG 14, CHA 12.",
+        "description": "Ce mod ajoute un nouveau PNJ, une elfe sorcière neutre bonne issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue.|FOR 11, DEX 19, CON 15, INT 15, SAG 14, CHA 12.",
         "urls": [
             "https://www.shsforums.net/files/file/33-tashia/",
             "https://github.com/Spellhold-Studios/Tashia-NPC/",
@@ -36134,7 +36133,7 @@
     {
         "id": 1133,
         "name": "Tsujatha Melalor",
-        "description": "Ce mod ajoute un personnage romançable, Tsujatha Melalor, nécromancien elfe du royaume de Gilalion, situé sur un autre plan que Toril. Sa psychologie est particulièrement étoffée, cela entre autres de par sa quête personnelle (son ambition et la trahison de son père en ont fait un paria dans son royaume). La romance est longue et les interactions fort nombreuses, de quoi ravir ceux qui souhaitent une alternative au sempiternel Anomen. Attention, même si Tsujatha est un personnage d'alignement mauvais (mais pouvant obtenir une rédemption), il ne romancera que les personnages féminins humains, elfes et demi-elfes d'alignement bon. Vous le trouverez dans la Sphère planaire. Allez-y dès que possible car les banters sont nombreux.|FOR 17, DEX 12, CON 12, INT 19, SAG 16, CHA 14.",
+        "description": "Ce mod ajoute un personnage romançable, Tsujatha Melalor, nécromancien elfe neutre mauvais du royaume de Gilalion, situé sur un autre plan que Toril. Sa psychologie est particulièrement étoffée, cela entre autres de par sa quête personnelle (son ambition et la trahison de son père en ont fait un paria dans son royaume). La romance est longue et les interactions fort nombreuses, de quoi ravir ceux qui souhaitent une alternative au sempiternel Anomen. Attention, même si Tsujatha est un personnage d'alignement mauvais (mais pouvant obtenir une rédemption), il ne romancera que les personnages féminins humains, elfes et demi-elfes d'alignement bon. Vous le trouverez dans la Sphère planaire. Allez-y dès que possible car les banters sont nombreux.|FOR 17, DEX 12, CON 12, INT 19, SAG 16, CHA 14.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=20092",
             "https://america.iegmc.com/tsujatha/Tsujatha-17.1.zip",
@@ -37504,7 +37503,7 @@
     {
         "id": 1177,
         "name": "Vanim NPC",
-        "description": "Vanim est un assassin mauvais qui conviendra parfaitement dans une partie orientée dans cet alignement. Vous le trouverez dans le quartier des temples, près d'une statue.|Il n'est plus développé depuis des années, mais il est recrutable et a quelques banters et une petite quête. Voici un aperçu de ses caractéristiques : FOR 15, DEX 18, CON 12, INT 16, SAG 14 et CHA 14.",
+        "description": "Vanim est un assassin neutre mauvais qui conviendra parfaitement dans une partie orientée dans cet alignement. Vous le trouverez dans le quartier des temples, près d'une statue.|Il a quelques banters et une petite quête.|FOR 15, DEX 18, CON 12, INT 16, SAG 14, CHA 14.",
         "urls": [
             "http://maus.mm-inventions.de/web/start_e.html"
         ],
@@ -38741,7 +38740,7 @@
     {
         "id": 1217,
         "name": "Wikaede One-Day-NPC Revisited",
-        "description": "Ce mod ajoute un nouveau PNJ recrutable : Wikaede Olveyn, un prêtre de Helm humain, loyal neutre, qui dispose d'une masse magique spéciale. Vous le trouverez dans le temple de Helm, dans le quartier des temples d'Athkatla, où il retournera si vous vous en séparez. Aucune romance n'est prévue, mais il peut devenir ami avec Anomen, et il interagit au moins une fois avec chaque PNJ du jeu.",
+        "description": "Ce mod ajoute un nouveau PNJ recrutable : Wikaede Olveyn, un prêtre de Heaume humain, loyal neutre, qui dispose d'une masse magique spéciale. Vous le trouverez dans le temple de Helm, dans le quartier des temples d'Athkatla, où il retournera si vous vous en séparez. Aucune romance n'est prévue, mais il peut devenir ami avec Anomen, et il interagit au moins une fois avec chaque PNJ du jeu.|FOR 16, DEX 8, CON 17, INT 10, SAG 16, CHA 12.",
         "urls": [
             "http://america.iegmc.net/moongaze/wikaede_v34.rar"
         ],
@@ -39424,7 +39423,7 @@
     {
         "id": 1238,
         "name": "Yasraena",
-        "description": "Ce mod ajoute une PNJ drow qui a des banters, des voix et des objets spécialement conçus pour elle. C'est une guerrière pure, chaotique bonne, qui possède deux épées personnelles ainsi qu'une amulette. Vous la rencontrez à la fin du donjon d'Irenicus (notez que si vous lui demandez de partir, vous ne la retrouverez plus jamais). Elle s'implante bien dans votre groupe, si ce dernier défend des objectifs louables (personnages Bons ou Neutres) et une voix particulière lui est allouée.|Notez qu'elle dispose d'une attaque supplémentaire par round ; ce qui est pour le moins abusé...",
+        "description": "Ce mod ajoute une PNJ drow qui a des banters, des voix et des objets spécialement conçus pour elle. C'est une guerrière pure, chaotique bonne, qui possède deux épées personnelles ainsi qu'une amulette. Vous la rencontrez à la fin du donjon d'Irenicus (notez que si vous lui demandez de partir, vous ne la retrouverez plus jamais). Elle s'implante bien dans votre groupe, si ce dernier défend des objectifs louables (personnages Bons ou Neutres) et une voix particulière lui est allouée.|Notez qu'elle dispose d'une attaque supplémentaire par round ; ce qui est pour le moins abusé...|FOR 18/97, DEX 18, CON 12, INT 13, SAG 12, CHA 16.",
         "urls": [
             "https://america.iegmc.com/yasraena/Yasraena_v16.zip",
             "https://github.com/RoxanneSHS/YasraenaEET"
@@ -39497,7 +39496,7 @@
     {
         "id": 1240,
         "name": "Yikari",
-        "description": "Ce mod ajoute un nouveau PNJ, un moine qui possède sa propre quête ainsi que des interactions avec chaque personnage. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe. Un aperçu de ses caractéristiques : FOR 16, DEX 18, CON 14, INT 8, SAG 18 et CHA 4.",
+        "description": "Ce mod ajoute un nouveau PNJ, un moine loyal neutre qui vient de Kara-Tur. Il possède sa propre quête ainsi que des interactions avec chaque personnage. Il a fait vœu de silence jusqu'à ce qu'il réussisse sa mission, donc votre première rencontre se déroulera sous forme d'un jeu de charades intéressant. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe.|FOR 16, DEX 18, CON 14, INT 8, SAG 18, CHA 4.",
         "urls": [
             "https://www.shsforums.net/files/file/34-yikari-v-17/",
             "https://www.spellholdstudios.net/ie/yikari/",
@@ -41238,7 +41237,7 @@
     {
         "id": 1294,
         "name": "Solaufein NPC",
-        "description": "Parfois appelé Weimer's Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité... Ses caractéristiques sont les suivantes : FOR 18/21, DEX 18, CON 10, INT 18, SAG 10 et CHA 16.|À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent).",
+        "description": "Parfois appelé Weimer's Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité...|À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent).|FOR 18/21, DEX 18, CON 10, INT 18, SAG 10, CHA 16.",
         "urls": [
             "https://weidu.org/",
             "https://github.com/RoxanneSHS/Solaufein"
@@ -41412,7 +41411,7 @@
     {
         "id": 1299,
         "name": "Valen NPC",
-        "description": "Ce mod ajoute un nouveau PNJ vampire, une guerrière-voleuse plus précisément, très efficace au combat, trop pour certains. Elle est redoutable la nuit, mais devient très faible le jour. Ce mod rajoute de nombreuses interactions avec les PNJ, mais pas de romance possible. Elle ne peut demeurer dans l'équipe avec Mazzy, Keldorn, Anomen, ou Aerie, au risque de se disputer... violemment. Elle possède aussi une quête spécifique (d'une difficulté réputée inouïe). Un aperçu de ses caractéristiques : vampire bi-classée guerrier/voleur chaotique mauvaise, FOR 18/75, DEX 17, CON 9, INT 16, SAG 10 et CHA 15.",
+        "description": "Ce mod ajoute un nouveau PNJ vampire, une guerrière-voleuse neutre mauvaise, très efficace au combat, trop pour certains. Elle est redoutable la nuit, mais devient très faible le jour. Ce mod rajoute de nombreuses interactions avec les PNJ, mais pas de romance possible. Elle ne peut demeurer dans l'équipe avec Mazzy, Keldorn, Anomen, ou Aerie, au risque de se disputer... violemment. Elle possède aussi une quête spécifique (d'une difficulté réputée inouïe).|Forme humaine : FOR 18/75, DEX 17, CON 9, INT 16, SAG 10, CHA 15.|Forme vampire : FOR 22, DEX 21, CON 9, INT 20, SAG 10, CHA 19.",
         "urls": [
             "https://weidu.org/valen.html",
             "https://github.com/hellmouse/valen"
@@ -44646,7 +44645,7 @@
     {
         "id": 1401,
         "name": "Willie Bruce NPC Mod",
-        "description": "Ce mod est un bourrin stéréotypé, Willie Bruce est donc grossier, sexiste et raciste. Les opinions de Willie ne reflètent en aucun cas les opinions du codeur ou des auteurs. Willie Bruce est un combattant de base, de premier niveau, qui aime traîner dans les bars, regarder le football à la télévision et se battre. Ce mod peut être offensant, à ne pas prendre au premier degré.",
+        "description": "Ce mod est un bourrin stéréotypé, Willie Bruce est donc grossier, sexiste et raciste. Les opinions de Willie ne reflètent en aucun cas les opinions du codeur ou des auteurs. Willie Bruce est un combattant de base, de premier niveau, qui aime traîner dans les bars, regarder le football à la télévision et se battre. Ce mod peut être offensant, à ne pas prendre au premier degré.|FOR 16, DEX 12, CON 18, INT 8, SAG 6, CHA 8.",
         "urls": [
             "https://america.iegmc.com/williebruce/WillieBruceV31.rar"
         ],
@@ -47167,7 +47166,7 @@
     {
         "id": 1488,
         "name": "Ninafer",
-        "description": "Ninafer est une guerrière/mage loyal neutre disponible à la Couronne de Cuivre et créée dans la forge chosenofmystra.|Elle dispose d'un anneau magique innamovible très puissant ainsi qu'une épée performante.|Elle dispose de peu de banters et est entièrement vocalisée en anglais.|Ce mod ajoute également deux marchands, l'un dans le quartier du Temple, l'autre à Franc-Marché.|FOR 15, DEX 19, CON 12, INT 18, SAG 9, CHA 11.",
+        "description": "Ninafer est une elfe guerrière/mage loyal neutre disponible à la Couronne de Cuivre et créée dans la forge chosenofmystra.|Elle dispose d'un anneau magique innamovible très puissant ainsi qu'une épée performante.|Elle dispose de peu de banters et est entièrement vocalisée en anglais.|Ce mod ajoute également deux marchands, l'un dans le quartier du Temple, l'autre à Franc-Marché.|FOR 15, DEX 19, CON 12, INT 18, SAG 9, CHA 11.",
         "urls": [
             "https://davelevy.info/wiki/ninafer-a-bg1-mod/",
             "https://github.com/Plutonium-X/1D_NPC_Ninafer"
@@ -48105,7 +48104,7 @@
     {
         "id": 1520,
         "name": "The Dragon of Umar Hills",
-        "description": "Ce mod permet aux joueurs de négocier avec le dragon des collines d'Umar en fonction de son niveau. Le combat est également modifié.",
+        "description": "Ce mod permet aux joueurs de négocier avec le dragon des Collines d'Umar en fonction de son niveau. Le combat est également modifié.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/35177-the-dragon-of-umar-hills-mod-for-bg2ee/"
         ],
@@ -55985,5 +55984,33 @@
         "status": "active",
         "last_update": "2025-07",
         "tp2": "nathanstweak"
+    },
+    {
+        "id": 1788,
+        "name": "Krondor",
+        "description": "Krondor est un nain bourru mais bon enfant, avec qui il est agréable de passer du temps. C'est un prêtre de Heaum loyal bon. Il a un compagnon animal (Wolfie, un worg) qui intervient dans plusieurs de ses dialogues. Il encourage le personnage joueur à suivre la voie du bien dans toutes les quêtes, un peu comme Keldorn ou Mazzy. Il a un fort accent et est un peu bourru, mais très sympathique. Vous pouvez le retrouver dans les Collines d'Umar.|FOR 18/00, DEX 16, CON 15, INT 13, SAG 18, CHA 10.",
+        "urls": [
+            "https://www.insimilion.pl/plik/baldurs-gate-2,112/krondor,112",
+            "http://gamingnerdsrus.co/forum/index.php?action=downloads;sa=view;down=199"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Mike"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "missing",
+        "last_update": "2005-02",
+        "tp2": "krondor"
     }
 ]
