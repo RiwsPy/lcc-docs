@@ -1422,12 +1422,12 @@
             "source": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts). Il nécessite ToB."
         },
         "notes": [
-            "An unofficial EE-compatible version is available: [[Azengaard Encounter]]."
+            "An unofficial EE-compatible version is available: [[Azengaard Encounters]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Une version non officielle et compatible EE existe : [[Azengaard Encounter]]."
+                "Une version non officielle et compatible EE existe : [[Azengaard Encounters]]."
             ]
         }
     },
@@ -14636,7 +14636,7 @@
     },
     {
         "id": 1008,
-        "description": "Baldur's Gate I features two powerful weapons with +2 enchantments and elemental damage: the Varscona longsword and the Ashideena warhammer. This means that longswords and warhammers are the two most powerful skills in the game, and it's difficult to defend the choice of another weapon skill.|The aim of this mod is to allow a wider choice of weapons without affecting balance and difficulty.||To achieve this, it gives players the option of ordering a weapon from Taërom Fuiruim at the \"Grondemarteau\" forge in Beregost, then upgrading it with damage from Thalantyr the mage of Haute-Haie and Toubazar Drin at the Baldur's Gate Magic Bazaar. This will give the player the possibility of creating a halberd of cold, or a ninja-to acid, among others.||There is an additional and optional component, although it is highly recommended, allowing Ashideena and Varscona to be removed or moved later in the game, so that the addition of another weapon inflicting elemental damage does not unbalance the game.",
+        "description": "Baldur's Gate I features two powerful weapons with +2 enchantments and elemental damage: the Varscona longsword and the Ashideena warhammer. This means that longswords and warhammers are the two most powerful skills in the game, and it's difficult to defend the choice of another weapon skill.|The aim of this mod is to allow a wider choice of weapons without affecting balance and difficulty.||To achieve this, it gives players the option of ordering a weapon from Taërom Fuiruim at the \"Grondemarteau\" forge in Beregost, then upgrading it with damage from Thalantyr the mage of Haute-Haie and Toubazar Drin at the Baldur's Gate Sorcerous Sundries. This will give the player the possibility of creating a halberd of cold, or a ninja-to acid, among others.||There is an additional and optional component, although it is highly recommended, allowing Ashideena and Varscona to be removed or moved later in the game, so that the addition of another weapon inflicting elemental damage does not unbalance the game.",
         "description_meta": {
             "status": "needs_review",
             "source": "Baldur's Gate I possède deux armes puissantes dotées d'un enchantements à +2 et de dégâts élémentaires : l'épée longue Varscona et le marteau de guerre Ashideena. Cela implique que les épées longues et les marteaux de guerre sont les deux compétences les plus performantes du jeu, et qu'il est difficile de défendre le choix d'une autre compétence d'arme.|Le but de ce mod est de permettre un plus grand choix d'armes sans pour autant affecter l'équilibre et la difficulté.||Pour y parvenir, il offre aux joueurs la possibilité de commander une arme à Taërom Fuiruim dans la forge de « Grondemarteau » à Bérégost, puis de l'améliorer en lui conférant des dégâts grâce à Thalantyr le mage de Haute-Haie et Toubazar Drin, au Bazar Magique de la Porte de Baldur. Cela donnera au joueur la possibilité de créer une une hallebarde de froid, ou un ninja-to acide, entre autre.||Il y a un composant supplémentaire et optionnel, bien qu'il soit fortement recommandé, permettant de supprimer ou de déplacer plus tard dans le jeu Ashideena et Varscona, afin que l'ajout d'une autre arme infligeant des dégâts élémentaires ne déséquilibre pas le jeu."
@@ -20373,10 +20373,14 @@
             "status": "needs_review",
             "source": "Ce mod propose d'améliorer les moines kittés ou non (avec choix de composant). Il gagne de nouvelles compétences au fil des niveaux comme la capacité de soigner, d'utiliser Poussière scintillante ou Grande Malédiction, de devenir invisible… À haut niveau, ce moine peut apprendre et utiliser les compétences de Balthazar."
         },
-        "notes": [],
+        "notes": [
+            "This mod is included in [[Minor Kit Improvement]] by the same author."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Ce mod est inclus dans [[Minor Kit Improvement]] du même auteur."
+            ]
         }
     },
     {
@@ -20578,12 +20582,14 @@
             "source": "Dans Baldur's Gate, les Shamans ne peuvent pas se déplacer en dansant, et il n'y a pas de bête de somme dans le jeu qui puisse les porter. En revanche, rien n'interdit de les faire porter par des coéquipiers. Pour cela, le Shaman a accès a une nouvelle capacité qui autorise un de ses coéquipiers de porter le Shaman. Celui-ci se voit à son tour offrir une nouvelle capacité lui permettant de déposer le Shaman. Certaines conditions doivent être respectées comme la force du coéquipier, sa proximité etc"
         },
         "notes": [
-            "Despite appearances, this mod looks well done."
+            "Despite appearances, this mod looks well done.",
+            "This mod is included in [[Minor Kit Improvement]] by the same author."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Malgré les apparences, ce mod a l'air bien fait."
+                "Malgré les apparences, ce mod a l'air bien fait.",
+                "Ce mod est inclus dans [[Minor Kit Improvement]] du même auteur."
             ]
         }
     },
@@ -21448,10 +21454,10 @@
     },
     {
         "id": 1482,
-        "description": "All sound packs created by Boooof. There's :|[[Benny-soundset]] and Garrett from the game Thief.|[[Borjoyzee-soundset]], Delphi and Yan from the game Giants Citizen Kabuto.|Cassandra from the game Dragon Age Inquisition.|Une garde de l'Oblivion from the game Oblivion.|Zapp Brannigan from the TV series Futurama.",
+        "description": "All sound packs created by Boooof. There's :|[[Benny-Soundset]] and Garrett from the game Thief.|[[Borjoyzee-Soundset]], Delphi and Yan from the game Giants Citizen Kabuto.|Cassandra from the game Dragon Age Inquisition.|Une garde de l'Oblivion from the game Oblivion.|Zapp Brannigan from the TV series Futurama.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Tous les packs de sons (en anglais) crées par Boooof. Il y a :|[[Benny-soundset]] et Garrett du jeu Thief.|[[Borjoyzee-soundset]], Delphi et Yan du jeu Giants Citizen Kabuto.|Cassandra du jeu Dragon Age Inquisition.|Une garde de l'Oblivion du jeu Oblivion.|Zapp Brannigan de la série tv Futurama."
+            "source": "Tous les packs de sons (en anglais) crées par Boooof. Il y a :|[[Benny-Soundset]] et Garrett du jeu Thief.|[[Borjoyzee-Soundset]], Delphi et Yan du jeu Giants Citizen Kabuto.|Cassandra du jeu Dragon Age Inquisition.|Une garde de l'Oblivion du jeu Oblivion.|Zapp Brannigan de la série tv Futurama."
         },
         "notes": [
             "The [Github](https://github.com/Boooof) only offers three soundsets. The Drive link contains all eight soundsets.",
@@ -24418,7 +24424,7 @@
     },
     {
         "id": 1690,
-        "description": "This mod adds Stormbringer, the cursed sword of Elric of Melniboné, to the stock of the Magic Bazaar for BGEE, the Quill and Parchment store for BG2EE or Ribald's stock for BG2 without TOB.",
+        "description": "This mod adds Stormbringer, the cursed sword of Elric of Melniboné, to the stock of the Sorcerous Sundries for BGEE, the Quill and Parchment store for BG2EE or Ribald's stock for BG2 without TOB.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod rajoute Stormbringer, l'Epée maudite d'Elric de Melniboné dans le stock du Bazar magique pour BGEE, du magasin Plume et parchemin pour BG2EE ou dans le stock de Ribald pour BG2 sans TOB."
@@ -24941,32 +24947,15 @@
     },
     {
         "id": 1729,
-        "description": "Baeltoth voice pack to use for your character.",
+        "description": "Two voice packs in English are proposed: Baeloth (compatible BG2) and Sand, character of the game Nevewinter Night 2",
         "description_meta": {
             "status": "needs_review",
-            "source": "Pack de voix de Baeltoth (en anglais) à utiliser pour votre personnage."
+            "source": "Deux packs de voix en anglais sont proposés : Baeloth (compatible BG2) et Sand, personnage du jeu Nevewinter Night 2"
         },
         "notes": [],
         "notes_meta": {
             "status": "done",
             "source": []
-        }
-    },
-    {
-        "id": 1730,
-        "description": "Sand voice pack (in English), character from the game Nevewinter Night 2, to use for your character.",
-        "description_meta": {
-            "status": "needs_review",
-            "source": "Pack de voix de Sand (en anglais), personnage du jeu Nevewinter Night 2, à utiliser pour votre personnage."
-        },
-        "notes": [
-            "You can also download this voice pack at a reduced volume."
-        ],
-        "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Au même endroit il est possible de télécharger ce set de voix avec un volume réduit."
-            ]
         }
     },
     {
@@ -25438,10 +25427,10 @@
     },
     {
         "id": 1764,
-        "description": "Oops is a very special character: he has the ability to change a spell scroll into a special ability.  In concrete terms, bring Oops the scroll of the spell you'd like to have as a special ability 1x/day, pay him 10,000 po per level of the desired spell, you lose the scroll but you gain a new ability. You'll find Oops next to the Watcher's keep, to the south-west. It is designed to be accessible in both SOA and TOB.|The mod also handles grimoires drawn from other mods like [[L'interplan]], [[Semi-multi clerics mod]], [[Wild Mage Additions]].",
+        "description": "Oops is a very special character: he has the ability to change a spell scroll into a special ability.  In concrete terms, bring Oops the scroll of the spell you'd like to have as a special ability 1x/day, pay him 10,000 po per level of the desired spell, you lose the scroll but you gain a new ability. You'll find Oops next to the Watcher's keep, to the south-west. It is designed to be accessible in both SOA and TOB.|The mod also handles grimoires drawn from other mods like [[L'interplan]], [[Semi Multi Clerics]], [[Wild Mage Additions]].",
         "description_meta": {
             "status": "needs_review",
-            "source": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale.  Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 10000 po par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité.|Vous trouverez Oops à coté de la Tour de Garde, au sud ouest. Il est là pour être accessible aussi bien dans SOA que dans TOB.|Le mod gère aussi des grimoires tirés d'autres mods comme [[L'interplan]], [[Semi-multi clerics mod]], [[Wild Mage Additions]]."
+            "source": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale.  Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 10000 po par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité.|Vous trouverez Oops à coté de la Tour de Garde, au sud ouest. Il est là pour être accessible aussi bien dans SOA que dans TOB.|Le mod gère aussi des grimoires tirés d'autres mods comme [[L'interplan]], [[Semi Multi Clerics]], [[Wild Mage Additions]]."
         },
         "notes": [],
         "notes_meta": {
@@ -25817,6 +25806,36 @@
             "source": [
                 "Version non officielle du mod [[Azengaard Tactical Encounter]]."
             ]
+        }
+    },
+    {
+        "id": 1792,
+        "description": "Here's an anachronic merchant mod that sells some modern firearms (e.g., assault rifles, sniper rifles), military supplies (e.g., bulletproof vests, tactical grenades), and advanced gear. Players with sufficient combat strength can challenge the merchant for rare rewards.|You can find him to the Second floor of Sorcerous Sundries in Baldur's Gate. In SoA, he's at the TradeMeet. In ToB, he's at the Oasis.",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici un mod marchand anachronique qui vend des armes et objets militaires (fusils d'assaut, fusils de précision...), du matériel militaire (par exemple, des gilets pare-balles, des grenades tactiques) et des équipements de pointe. Les joueurs disposant d'une force de combat suffisante peuvent défier le marchand pour obtenir des récompenses rares.|Vous le trouverez au second étage du Bazar Magique dans BG1. À Franc-Marché dans SoA puis à l'Oasis dans ToB."
+        },
+        "notes": [
+            "Install this mod after other equipment mods, as it modifies all armor in the game."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "À installer après tous les mods qui ajoutent de l'équipement car celui-ci mdifie les armures."
+            ]
+        }
+    },
+    {
+        "id": 1791,
+        "description": "Merging two kit mods ([[Shaman Hauler]] and [[Improved Monk]]). This mod also offers an upgrade to the Wizard Slayer kit with a passive ability and new HLA, the Beastmaster, which greatly improves the intelligence and abilities of allied animals, and finally the Dragon Disciple with a reincarnation ability.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Fusion de deux mods de kit comme [[Shaman Hauler]] et [[Improved Monk]]. Ce mod propose également une amélioration du kit de Tueur de magicien avec une capacité passive et de nouvelles HLA, du Druide totémique qui améliore grandement l'intelligence et les capacités des animaux alliés et enfin du Disciple du dragon avec une capacité de réincarnation."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]

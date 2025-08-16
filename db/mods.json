@@ -3176,7 +3176,7 @@
         ],
         "team": [],
         "notes": [
-            "Une version non officielle et compatible EE existe : [[Azengaard Encounter]]."
+            "Une version non officielle et compatible EE existe : [[Azengaard Encounters]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -4736,7 +4736,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "bggo"
     },
     {
@@ -5205,7 +5205,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "BardicWonders"
     },
     {
@@ -5416,7 +5416,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-08",
         "tp2": "d2-script"
     },
     {
@@ -5631,7 +5631,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "n/a"
     },
     {
@@ -6452,7 +6452,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-08",
         "tp2": "butchery"
     },
     {
@@ -9075,7 +9075,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-07",
         "tp2": "darian"
     },
     {
@@ -10449,7 +10449,7 @@
     },
     {
         "id": 326,
-        "name": "Dreamwalker Shaman Kit",
+        "name": "DreamwalkerShamanKit",
         "description": "Ce mod ajoute un nouveau profil de chaman : l'Arpenteur de rêves.",
         "urls": [
             "https://www.shsforums.net/topic/59797-dreamwalker-shaman-kit/",
@@ -11682,7 +11682,7 @@
     },
     {
         "id": 366,
-        "name": "Enable conversations with charmed / dominated creatures",
+        "name": "Enable conversations with charmed/dominated creatures",
         "description": "Ascension64, l'auteur de [[Baldur's Gate Trilogy]], a réalisé deux corrections de défauts du moteur de jeu de Baldur's Gate II. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières. Celle-ci concerne l'aptitude à parler aux personnages sous l'effet d'un charme, qui était possible dans BG, mais avait été supprimée par les développeurs dans le second opus.",
         "urls": [
             "https://www.shsforums.net/files/file/506-bg2-enable-conversations-with-charmeddominated-creatures-4/"
@@ -11917,7 +11917,7 @@
     },
     {
         "id": 373,
-        "name": "Sod2BG2:EE Cosmetic Item Upgrade",
+        "name": "Enhanced Edition Cosmetic Enhancements",
         "description": "Ce mod apporte des ajustements cosmétiques aux objets de BG:EE, SoD, BG2:EE et IWD:EE : nouvelles icônes d'inventaire et de description, nouvelles descriptions, modification de leur apparence, de leurs couleurs et de leur scintillement, nouveaux projectiles et nouveaux effets visuels quand les armes touchent leur cible.",
         "urls": [
             "https://forums.beamdog.com/discussion/80271/",
@@ -12050,7 +12050,7 @@
     },
     {
         "id": 377,
-        "name": "Epic Thieving",
+        "name": "Epic-Thieving",
         "description": "Ce mod permet d'étendre les capacités spéciales des voleurs dotés des compétences de voleur les plus élevées. Il ajoute des bonus supplémentaires pour la spécialisation des voleurs et améliore considérablement la qualité du jeu pour les personnages-voleurs :|- Crocheter certaines serrures du jeu, détecter et désamorcer certains pièges nécessitent désormais des compétences supérieures à 100 %.|- La puissance des pièges posés ne dépend plus du niveau du voleur, mais du nombre de points dont il dispose dans cette compétence.|- Il sera aussi possible de voler des objets auparavant protégés (comme les casques, boucliers, bottes ou armures équipés).|- Quant au vol à l'étage dans certains magasins, il sera soumis à un score de compétence supérieur à 100 %. Chaque point dépensé au dessus de 100 % dans la compétence Détection des illusions donnera 1 % de chance de détection automatique des illusions SANS avoir besoin d'activer cette compétence.|- Enfin, les voleurs disposeront de la nouvelle compétence Utilisation du poison si le mod [[EEex]] est installé.|En contrepartie, il ne sera plus possible de cumuler les effets des potions du Maître-voleur.",
         "urls": [
             "https://forums.beamdog.com/discussion/74158/",
@@ -17025,7 +17025,7 @@
     },
     {
         "id": 536,
-        "name": "Improved Cloak of Non-Detection",
+        "name": "Improved Cloak of Non-Detection.",
         "description": "Ce mod rend la cape de non-détection utile dans le jeu. Elle protège désormais contre tous les sorts dissipant l'illusion (Vision véritable, Oracle, Détection des illusions...).",
         "urls": [
             "https://forums.beamdog.com/discussion/40116/"
@@ -17501,7 +17501,7 @@
     },
     {
         "id": 550,
-        "name": "Infinity Kits",
+        "name": "InfinityKits",
         "description": "Ce mod installe 8 nouveaux profils : Pyromane mystique (barde), Miroir d'argent (guerrier), Corbeau blanc (voleur), Aquarius (druide), Chien de paille (barde), Rejeton de sorcière (paladin), Apprenti du vent (rôdeur) et Prêtre de 8 millions de dieux.",
         "urls": [
             "https://www.shsforums.net/files/file/973-infinitykits/"
@@ -18669,7 +18669,7 @@
     },
     {
         "id": 586,
-        "name": "KR's Difficult Brown Dragon",
+        "name": "Difficult Brown Dragon",
         "description": "Ce petit mod ajoute une nouvelle menace après avoir tué Faldorn : un dragon brun s'installe dans la région. Il doit être vaincu, mais c'est un combat difficile ! Il possède des objets magiques nouveaux...",
         "urls": [
             "https://www.shsforums.net/files/file/126-difficult-brown-dragon/"
@@ -19628,7 +19628,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-08",
         "tp2": "derats_magasin_2"
     },
     {
@@ -19756,7 +19756,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-08",
         "tp2": "Larsha"
     },
     {
@@ -27318,7 +27318,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-02",
+        "last_update": "2025-08",
         "tp2": "Recorder"
     },
     {
@@ -29462,7 +29462,7 @@
     },
     {
         "id": 926,
-        "name": "Semi-multi clerics mod",
+        "name": "Semi Multi Clerics",
         "description": "Ce mod ajoute une marchande, la Dame des Mystères, adoratrice de Mystra, qui vend un manuel de magie donnant accès à une trentaine de sorts divins, dont un inédit. Seuls les lanceurs de sorts profanes peuvent en bénéficier au prix de -2 en Force et Constitution. En d'autres termes, grâce à ce mod, à vous les multi-classes sorcier/prêtre, barde/prêtre, guerrier/mage/prêtre (classe de base guerrier/mage et lecture du livre d'où un gain d'XP conséquent), kensaï/mage (clerc), ensorceleur (clerc) ou scalde (clerc), par exemple... et le très fameux guerrier/mage/voleur/prêtre. Attention cependant, il y a des restrictions : toutes les infos sont dans le readme. Vous la trouverez au nord du Marché de l'Aventurier sur la Promenade de Waukyne, et dans l'Antichambre. Sur BGEE et IWDEE, le vendeur se trouvera près de la tour d'Orrick, chez Perleflamme Cheveuxd'Elfe à Bérégost ou au Bazar Magique de la Porte de Baldur.",
         "urls": [
             "https://www.shsforums.net/files/category/33-smm-rm/",
@@ -29498,7 +29498,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-08",
         "tp2": "semi_multi_clerics"
     },
     {
@@ -30557,6 +30557,7 @@
         "name": "Skie: The Cost of One Girl's Soul",
         "description": "Un nouveau mod de Lava qui traite de Skie. Siege of Dragonspear a donné à la fille d'Entar Écudargent un rôle très important dans l'intrigue, et ce mod donne au joueur la possibilité de la poursuivre dans la partie BG2 du jeu. Il comprend trois composants :|- Une nouvelle quête pour BG2:EE qui donne au joueur une chance de sauver Skie après ce qui s'est passé dans SoD. Cependant, la sauver a un prix. Le mod commence dans le donjon d'Irenicus, lorsque vous trouvez l'objet de la quête principale.|- Skie peut être recrutée si vous parvenez à l'aider. Elle vous cherchera un peu plus tard dans certaines auberges, alors n'oubliez pas de vous arrêter et de vous reposer de temps en temps. Elle disposera de nombreuses interactions, mais pas de romance.|- Sur la Promenade de Waukyne, un nouveau marchand vend des objets ayant une relation avec certains personnages, lieux ou événements de SoD. Ce composant peut être installé indépendamment des autres.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=9",
             "https://downloads.weaselmods.net/download/skie-the-cost-of-one-girls-soul/"
         ],
         "categories": [
@@ -30579,7 +30580,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-08",
         "tp2": "SkieCost"
     },
     {
@@ -33528,7 +33529,7 @@
     },
     {
         "id": 1052,
-        "name": "The Bigg Character Pack",
+        "name": "The Bigg Character Pack.",
         "description": "Il s'agit d'une collection de portraits et de sons tirés de personnages des jeux Valve :|- Alyx Vance (de Half Life 2) : une jeune fille d'une vingtaine d'années, au caractère bien trempé et à la forte tête.|- Jane Doe \"le soldat\" (de Team Fortress 2) : un homme d'une trentaine d'années, obsédé par les combats et chaotique neutre.|- The Heavy weapons guy (de Team Fortress 2 : un homme chaotique bon qui aime rire, les sandwiches, la boxe et les mitrailleuses Gatling.",
         "urls": [
             "https://www.shsforums.net/files/file/915-the-bigg-character-pack/"
@@ -35856,7 +35857,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-05",
         "tp2": "tod"
     },
     {
@@ -36426,6 +36427,7 @@
             "IWDEE",
             "PST",
             "PSTEE",
+            "SoD",
             "Tutu"
         ],
         "authors": [
@@ -36449,7 +36451,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2022-10",
+        "last_update": "2025-08",
         "tp2": "cdtweaks"
     },
     {
@@ -39498,7 +39500,7 @@
         ],
         "status": "active",
         "last_update": "2024-05",
-        "tp2": "Yasraena"
+        "tp2": "Yasraena;YasraenaEET"
     },
     {
         "id": 1239,
@@ -40319,7 +40321,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-08",
         "tp2": "ZS_WeaponOils"
     },
     {
@@ -40333,7 +40335,10 @@
             "Quête"
         ],
         "games": [
-            "BG2EE"
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "bucketfulofsunshine"
@@ -40601,7 +40606,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "Derats_Combino"
     },
     {
@@ -42156,7 +42161,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-08",
         "tp2": "Derats_Illo"
     },
     {
@@ -42598,6 +42603,7 @@
         ],
         "games": [
             "BG",
+            "Tutu",
             "BG2",
             "BGT",
             "BGEE",
@@ -43287,7 +43293,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "zbpod"
     },
     {
@@ -44566,7 +44572,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "ZSTweaks"
     },
     {
@@ -44832,9 +44838,7 @@
         "id": 1406,
         "name": "Improved Monk",
         "description": "Ce mod propose d'améliorer les moines kittés ou non (avec choix de composant). Il gagne de nouvelles compétences au fil des niveaux comme la capacité de soigner, d'utiliser Poussière scintillante ou Grande Malédiction, de devenir invisible… À haut niveau, ce moine peut apprendre et utiliser les compétences de Balthazar.",
-        "urls": [
-            "https://github.com/shohysie/improvedmonk"
-        ],
+        "urls": [],
         "categories": [
             "Kit"
         ],
@@ -44848,14 +44852,16 @@
             "Shohy"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod est inclus dans [[Minor Kit Improvement]] du même auteur."
+        ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en",
             "cn"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2024-12",
         "tp2": "improvedMonk"
     },
@@ -45248,9 +45254,7 @@
         "id": 1420,
         "name": "Shaman Hauler",
         "description": "Dans Baldur's Gate, les Shamans ne peuvent pas se déplacer en dansant, et il n'y a pas de bête de somme dans le jeu qui puisse les porter. En revanche, rien n'interdit de les faire porter par des coéquipiers. Pour cela, le Shaman a accès a une nouvelle capacité qui autorise un de ses coéquipiers de porter le Shaman. Celui-ci se voit à son tour offrir une nouvelle capacité lui permettant de déposer le Shaman. Certaines conditions doivent être respectées comme la force du coéquipier, sa proximité etc",
-        "urls": [
-            "https://github.com/shohysie/shaman_hauler"
-        ],
+        "urls": [],
         "categories": [
             "Gameplay"
         ],
@@ -45264,15 +45268,16 @@
         ],
         "team": [],
         "notes": [
-            "Malgré les apparences, ce mod a l'air bien fait."
+            "Malgré les apparences, ce mod a l'air bien fait.",
+            "Ce mod est inclus dans [[Minor Kit Improvement]] du même auteur."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en",
             "cn"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2024-06",
         "tp2": "shaman_hauler"
     },
@@ -45345,7 +45350,7 @@
         "name": "RoyalProtector's Shadowdancer Overhaul",
         "description": "Ce mod retravaille le kit de Maître des Ombres. Notamment sa capacité à pouvoir se camoufler à la vue de tous (considéré comme trop puissant et source de bug). Et apporte des alternatives intéressantes afin de lui faire gagner en singularité. Plus d'informations en cliquant sur les liens.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/38417-royalprotectors-shadowdancer-overhaul-zs_shadowdanceroverhaul-%E2%80%93-113a/",
+            "https://www.gibberlings3.net/forums/topic/38417-royalprotectors-shadowdancer-overhaul-zs_shadowdanceroverhaul/",
             "https://github.com/szaumoor/ZS_ShadowdancerOverhaul"
         ],
         "categories": [
@@ -45368,7 +45373,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-08",
         "tp2": "ZS_ShadowdancerOverhaul"
     },
     {
@@ -45996,12 +46001,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "cn"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "2024-11",
         "tp2": "Shohy's_Weapon_Style_Rebalance"
     },
@@ -47037,7 +47042,7 @@
     {
         "id": 1482,
         "name": "Soundset for the enhanced edition Infinity Engine games",
-        "description": "Tous les packs de sons (en anglais) crées par Boooof. Il y a :|[[Benny-soundset]] et Garrett du jeu Thief.|[[Borjoyzee-soundset]], Delphi et Yan du jeu Giants Citizen Kabuto.|Cassandra du jeu Dragon Age Inquisition.|Une garde de l'Oblivion du jeu Oblivion.|Zapp Brannigan de la série tv Futurama.",
+        "description": "Tous les packs de sons (en anglais) crées par Boooof. Il y a :|[[Benny-Soundset]] et Garrett du jeu Thief.|[[Borjoyzee-Soundset]], Delphi et Yan du jeu Giants Citizen Kabuto.|Cassandra du jeu Dragon Age Inquisition.|Une garde de l'Oblivion du jeu Oblivion.|Zapp Brannigan de la série tv Futurama.",
         "urls": [
             "https://drive.google.com/drive/folders/1EzgeRRAoj79BhEsWjUa_7PZrl4QUh4-P"
         ],
@@ -47361,7 +47366,7 @@
             "es"
         ],
         "status": "wip",
-        "last_update": "2025-01",
+        "last_update": "2025-08",
         "tp2": "mkhiinbg2"
     },
     {
@@ -48435,7 +48440,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-08",
         "tp2": "iwd1_eet;iwd2_eet;iwd_eet_end"
     },
     {
@@ -48775,7 +48780,7 @@
     },
     {
         "id": 1540,
-        "name": "Borjoyzee-soundset",
+        "name": "Borjoyzee-Soundset",
         "description": "Ce mod ajoute des voix aux personnages et des portraits aux personnages.",
         "urls": [
             "https://github.com/Boooof/Borjoyzee-Soundset"
@@ -48804,7 +48809,7 @@
     },
     {
         "id": 1541,
-        "name": "Benny-soundset",
+        "name": "Benny-Soundset",
         "description": "Ce mod propose un jeu de voix en anglais.",
         "urls": [
             "https://github.com/Boooof/Benny-Soundset"
@@ -49003,7 +49008,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-08",
         "tp2": "LegacyofBhaalFix"
     },
     {
@@ -50179,7 +50184,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2025-02",
+        "last_update": "2025-08",
         "tp2": "Shohy's_Custom_Platform"
     },
     {
@@ -50417,7 +50422,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "DetailedDescription"
     },
     {
@@ -53562,7 +53567,7 @@
     },
     {
         "id": 1704,
-        "name": "Simple Shaman",
+        "name": "Simple Shaman mod",
         "description": "Ce mod modifie le shaman en lui supprimant la possibilité de danser (il peut danser mais ça ne fera rien) mais à la place il gagne les 6 sorts normalement réservés au Druide Justicier.",
         "urls": [
             "https://forums.beamdog.com/discussion/52897"
@@ -54108,7 +54113,7 @@
     },
     {
         "id": 1723,
-        "name": "Original Drizzt",
+        "name": "Original Drizzt for BG1:EE",
         "description": "Avant le patch 1.3, Drizzt était beaucoup plus difficile à embrouiller. Ce mod remet en place Drizzt tel qu'il était avant le patch 1.3.",
         "urls": [
             "https://forums.beamdog.com/discussion/39686"
@@ -54135,7 +54140,7 @@
     },
     {
         "id": 1724,
-        "name": "Alexia: An NPC Assassin",
+        "name": "Alexia: An NPC Assassin Mod",
         "description": "Alexia Kalila Johara Al-Mustafa ou X, comme on l'appelle, se dit originaire de la ville de Calimport, dans le pays de Calimshan. Douce et silencieuse, elle a tendance à se tenir à l'écart et à ne parler à personne. C'est une tueuse bien entraînée qui peut atteindre n'importe qui, peu importe le nombre de pièges ou de personnes qui protègent sa cible. Elle aime relever les défis qui se présentent à elle pour atteindre sa cible. Elle n'est pas vantarde, mais elle excelle dans l'art de donner le meilleur d'elle-même. Sa carte de visite est de laisser une note avec un X sur le corps de sa cible et tous les témoins sont généralement tués. Alexia n'appartient à aucune guilde, elle travaille seule et accepte les contrats qui lui plaisent. L'un de ces contrats consiste à tuer Irenicus, c'est pourquoi elle souhaite rejoindre votre groupe.|FOR 14, DEX 18, CON 12, INT 16, SAG 10, CHA 8.",
         "urls": [
             "https://forums.beamdog.com/discussion/40896"
@@ -54163,7 +54168,7 @@
     },
     {
         "id": 1725,
-        "name": "Glows and Paperdolls",
+        "name": "Glows and Paperdolls mod",
         "description": "Ce mod propose plusieurs options pour donner aux sorts de BG2EE plus d’apparence IWDesque. Il peut changer l'animation d'incantation, le son, l'animation des effets, etc...",
         "urls": [
             "https://forums.beamdog.com/discussion/37669"
@@ -54275,8 +54280,8 @@
     },
     {
         "id": 1729,
-        "name": "Baeloth Soundset",
-        "description": "Pack de voix de Baeltoth (en anglais) à utiliser pour votre personnage.",
+        "name": "Baeloth and Sand soundsets for BGII:EE",
+        "description": "Deux packs de voix en anglais sont proposés : Baeloth (compatible BG2) et Sand, personnage du jeu Nevewinter Night 2",
         "urls": [
             "https://forums.beamdog.com/discussion/64809"
         ],
@@ -54296,40 +54301,6 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
-        "safe": 2,
-        "languages": [
-            "en"
-        ],
-        "status": "active",
-        "last_update": "2017-05",
-        "tp2": "non-weidu"
-    },
-    {
-        "id": 1730,
-        "name": "Sand Soundset",
-        "description": "Pack de voix de Sand (en anglais), personnage du jeu Nevewinter Night 2, à utiliser pour votre personnage.",
-        "urls": [
-            "https://forums.beamdog.com/discussion/64809"
-        ],
-        "categories": [
-            "Portrait et son"
-        ],
-        "games": [
-            "BG2",
-            "BGT",
-            "BGEE",
-            "SoD",
-            "BG2EE",
-            "EET"
-        ],
-        "authors": [
-            "Paradox_Maki"
-        ],
-        "team": [],
-        "notes": [
-            "Au même endroit il est possible de télécharger ce set de voix avec un volume réduit."
-        ],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [
@@ -54422,7 +54393,7 @@
     },
     {
         "id": 1734,
-        "name": "Infinite Spells",
+        "name": "Infinite Spells for BG2EE/EET",
         "description": "Ce livre à se donner à la console ou avec [[EE Keeper]] permet de lancer n'importe quel sort arcanique ou clerical à volonté ou de se donner des capacités telles que Enchaînement, UAI ou Kaï permanentes.",
         "urls": [
             "https://forums.beamdog.com/discussion/75309"
@@ -54651,7 +54622,7 @@
     },
     {
         "id": 1742,
-        "name": "Blackadder Soundset Collection",
+        "name": "Blackadder-Soundset",
         "description": "Trois sets de sons (en anglais) tirés des personnages de la série Blackadder sur la BBC.",
         "urls": [
             "https://forums.beamdog.com/discussion/79706",
@@ -55306,7 +55277,7 @@
     {
         "id": 1764,
         "name": "Oops le magicien",
-        "description": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale.  Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 10000 po par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité.|Vous trouverez Oops à coté de la Tour de Garde, au sud ouest. Il est là pour être accessible aussi bien dans SOA que dans TOB.|Le mod gère aussi des grimoires tirés d'autres mods comme [[L'interplan]], [[Semi-multi clerics mod]], [[Wild Mage Additions]].",
+        "description": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale.  Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 10000 po par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité.|Vous trouverez Oops à coté de la Tour de Garde, au sud ouest. Il est là pour être accessible aussi bien dans SOA que dans TOB.|Le mod gère aussi des grimoires tirés d'autres mods comme [[L'interplan]], [[Semi Multi Clerics]], [[Wild Mage Additions]].",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34841",
             "https://forums.beamdog.com/discussion/89314/",
@@ -55393,7 +55364,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "ArszyksWonderfulDecay"
     },
     {
@@ -55770,7 +55741,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "Derats_levelling"
     },
     {
@@ -55945,7 +55916,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "lfgp"
     },
     {
@@ -56010,7 +55981,7 @@
         "name": "mixedtweaks",
         "description": "Ce tweakpack possèdent plusieurs composants assez variés, des modifications de comportements des pnj, à des améliorations visuelles des objets de quêtes en passant par l'ajout de gain d'expérience lors des quêtes. Il propose aussi de nouveaux scripts pour vos coéquipiers.",
         "urls": [
-            "https://forums.beamdog.com/discussion/82314/"
+            "https://forums.beamdog.com/discussion/82314/#Comment_1217781"
         ],
         "categories": [
             "Gameplay"
@@ -56087,12 +56058,12 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2008-12",
+        "last_update": "2009-03",
         "tp2": "Esiriak"
     },
     {
         "id": 1790,
-        "name": "Azengaard Encounter",
+        "name": "Azengaard Encounters",
         "description": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts).",
         "urls": [
             "https://github.com/RoxanneSHS/AzengaardEE"
@@ -56123,5 +56094,67 @@
         "status": "active",
         "last_update": "2022-11",
         "tp2": "Azengaard"
+    },
+    {
+        "id": 1791,
+        "name": "Minor Kit Improvement",
+        "description": "Fusion de deux mods de kit comme [[Shaman Hauler]] et [[Improved Monk]]. Ce mod propose également une amélioration du kit de Tueur de magicien avec une capacité passive et de nouvelles HLA, du Druide totémique qui améliore grandement l'intelligence et les capacités des animaux alliés et enfin du Disciple du dragon avec une capacité de réincarnation.",
+        "urls": [
+            "https://github.com/shohysie/Minor_Kit_Improvement/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Shohy"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "Minor_Kit_Improvement"
+    },
+    {
+        "id": 1792,
+        "name": "Shohy's Modern Military Store",
+        "description": "Voici un mod marchand anachronique qui vend des armes et objets militaires (fusils d'assaut, fusils de précision...), du matériel militaire (par exemple, des gilets pare-balles, des grenades tactiques) et des équipements de pointe. Les joueurs disposant d'une force de combat suffisante peuvent défier le marchand pour obtenir des récompenses rares.|Vous le trouverez au second étage du Bazar Magique dans BG1. À Franc-Marché dans SoA puis à l'Oasis dans ToB.",
+        "urls": [
+            "https://github.com/shohysie/Modern_Military_Supplies/"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Shohy"
+        ],
+        "team": [],
+        "notes": [
+            "À installer après tous les mods qui ajoutent de l'équipement car celui-ci mdifie les armures."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "mms"
     }
 ]
