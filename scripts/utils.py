@@ -79,7 +79,7 @@ class CleanModMixin:
 def simplify_url(url: str) -> str:
     if url.startswith(
         ("https://github.com/", "https://forums.beamdog.com/discussion/")
-    ) and not url.endswith("https://forums.beamdog.com/discussion/comment/"):
+    ) and not url.startswith("https://forums.beamdog.com/discussion/comment/"):
         url = "/".join(url.split("/")[:5])
     return url.removesuffix("/")
 
