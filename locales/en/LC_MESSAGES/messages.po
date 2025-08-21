@@ -1,0 +1,162 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2025 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Riws <toto.streak289@passinbox.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-20 15:01+0200\n"
+"PO-Revision-Date: 2025-06-20 16:06+0200\n"
+"Last-Translator: Riws <toto.streak289@passinbox.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: models/mod.py:193
+#, python-brace-format
+msgid "Fichier `{filename}`."
+msgstr "File `{filename}`."
+
+#: models/mod.py:199
+#, python-brace-format
+msgid "Disponible en {language}."
+msgstr "Available in {language}."
+
+#: models/mod.py:207
+#, python-brace-format
+msgid ""
+"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
+"fonctionner avec la dernière version du jeu."
+msgstr ""
+"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
+"fonctionner avec la dernière version du jeu."
+
+#: models/mod.py:214
+msgid ""
+"⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
+"le à vos risques et périls."
+msgstr ""
+"⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
+"le à vos risques et périls."
+
+#: models/mod.py:220
+msgid ""
+"Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
+"donner suite."
+msgstr ""
+"Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
+"donner suite."
+
+#: models/mod.py:224
+msgid "Ce mod est toujours en cours de réalisation."
+msgstr "This mod is still in progress."
+
+#: models/mod.py:229
+#, python-brace-format
+msgid "Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
+msgstr "This mod has disappeared from <a href='{url}' target='_blank'>{url}</a>."
+
+#: models/mod.py:232
+msgid "Ce mod a disparu."
+msgstr "This mod has disappeared."
+
+#: settings.py:22
+msgid "Mod de qualité"
+msgstr "Quality mod"
+
+#: settings.py:26
+msgid "Mod pouvant poser des problèmes"
+msgstr "Mod that could cause problems"
+
+#: settings.py:30
+msgid "Mod à éviter ou obsolète"
+msgstr "Mod to avoid or obsolete"
+
+#: settings.py:36
+msgid "Mod traduit"
+msgstr "Mod translated"
+
+#: settings.py:40
+msgid "Mod partiellement traduit"
+msgstr "Mod partially translated"
+
+#: settings.py:44
+msgid "Mod non traduit"
+msgstr "Mod not translated"
+
+#: settings.py:50
+msgid "Mod Weidu"
+msgstr "Weidu Mod"
+
+#: settings.py:54
+msgid "Mod override, non désinstallable"
+msgstr "Override mod, uninstallable"
+
+#: settings.py:106
+msgid "Patch non officiel"
+msgstr "Unofficial Fixpack"
+
+#: settings.py:107
+msgid "Utilitaire"
+msgstr "Tool"
+
+#: settings.py:108
+msgid "Conversion"
+msgstr "Conversion"
+
+#: settings.py:109
+msgid "Interface"
+msgstr "Interface"
+
+#: settings.py:110
+msgid "Cosmétique"
+msgstr "Visual"
+
+#: settings.py:111
+msgid "Portrait et son"
+msgstr "Portrait and audio"
+
+#: settings.py:112
+msgid "Quête"
+msgstr "Quest"
+
+#: settings.py:113
+msgid "PNJ recrutable"
+msgstr "Joinable NPC"
+
+#: settings.py:114
+msgid "PNJ One Day"
+msgstr "One Day NPC"
+
+#: settings.py:115
+msgid "PNJ (autre)"
+msgstr "NPC (misc)"
+
+#: settings.py:116
+msgid "Forgeron et marchand"
+msgstr "Blacksmith and merchant"
+
+#: settings.py:117
+msgid "Sort et objet"
+msgstr "Spell and item"
+
+#: settings.py:118
+msgid "Kit"
+msgstr "Kit"
+
+#: settings.py:119
+msgid "Gameplay"
+msgstr "Tweak"
+
+#: settings.py:120
+msgid "Script et tactique"
+msgstr "Script and tactic"
+
+#: settings.py:121
+msgid "Personnalisation du groupe"
+msgstr "Party customisation"
