@@ -8595,7 +8595,7 @@
             "it"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "crossmodbg2"
     },
     {
@@ -8921,7 +8921,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-08",
         "tp2": "d2-weapon"
     },
     {
@@ -11951,7 +11951,7 @@
     {
         "id": 374,
         "name": "Enhanced Powergaming Scripts",
-        "description": "Ce mod est une collection de scripts d'IA de joueur conçus pour être utilisés dans BG:EE, BG2:EE, EET et IWD:EE. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche (\"B\"), un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[IWDification]], [[Sword Coast Stratagems]], [[Dark Side of the Sword Coast]], [[Song and Silence: A Mod for Bards and Thieves]], [[Tome and Blood]], [[Faiths and Powers]], ainsi que les modifications effectuées par [[Spell Revisions Revised]] et [[Item Revisions Revised]].",
+        "description": "Ce mod est une collection de scripts d'IA de joueur conçus pour être utilisés dans BG:EE, BG2:EE, EET et IWD:EE. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche `B`, un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[IWDification]], [[Sword Coast Stratagems]], [[Dark Side of the Sword Coast]], [[Song and Silence: A Mod for Bards and Thieves]], [[Tome and Blood]], [[Faiths and Powers]], ainsi que les modifications effectuées par [[Spell Revisions Revised]] et [[Item Revisions Revised]].",
         "urls": [
             "https://www.morpheus-mart.com/enhanced-powergaming-scripts"
         ],
@@ -11984,7 +11984,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-07",
         "tp2": "Enhanced-Powergaming-Scripts"
     },
     {
@@ -13365,7 +13365,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-07",
         "tp2": "forgotten-armament"
     },
     {
@@ -14696,7 +14696,7 @@
     {
         "id": 461,
         "name": "Grog's Custom AI Scripts",
-        "description": "Il s'agit d'une collection de scripts intelligents pour IWD : Mage, Clerc, Druid, Clerc/Mage Script, Clerc/Rôdeur, Paladin, script \"générique\", Guerrier, Anti-lanceur de sorts, Anti-mort-vivant, Barde, Voleur en mode furtif...",
+        "description": "Il s'agit d'une collection de scripts intelligents pour IWD : Mage, Clerc, Druide, Clerc/Mage, Clerc/Rôdeur, Paladin, script générique, Guerrier, Anti-lanceur de sorts, Anti-mort-vivant, Barde, Voleur en mode furtif...",
         "urls": [
             "https://sorcerers.net/Games/IWD/index_mods.php"
         ],
@@ -14752,7 +14752,7 @@
     {
         "id": 463,
         "name": "Haiass el Lobo",
-        "description": "Ce mod ajoute un loup, votre fidèle compagnon. Il requiert ToB et est compatible avec BGT. Selon votre partie, vous pourrez trouver Haiass dans l'auberge de Château-Suif (BGT), sur la promenade de Waukyne (SoA) ou l'appeler dans l'Antichambre (ToB).",
+        "description": "Ce mod ajoute un loup, votre fidèle compagnon. Selon votre partie, vous pourrez trouver Haiass dans l'auberge de Château-Suif (BGT), sur la promenade de Waukyne (SoA) ou l'appeler dans l'Antichambre (ToB).",
         "urls": [
             "https://www.shsforums.net/files/file/777-haiass-el-lobo/",
             "https://forums.beamdog.com/discussion/77705/",
@@ -14775,7 +14775,8 @@
         ],
         "team": [],
         "notes": [
-            "Notez que ce n'est pas à proprement parler un PNJ recrutable, mais plutôt un \"7ème membre\" qui vous suivra à la manière d'un familier."
+            "Notez que ce n'est pas à proprement parler un PNJ recrutable, mais plutôt un \"7ème membre\" qui vous suivra à la manière d'un familier.",
+            "ToB est requis."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -14912,7 +14913,9 @@
             "Macready"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il existe un portage de ce mod vers BGT : [[Hard Times for BGT]]."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -14925,7 +14928,7 @@
     {
         "id": 468,
         "name": "Hard Times for BGT",
-        "description": "Ce mod est un portage pour BGT du mod [[Hard Times]]. Il corrige une aberration du jeu, à savoir la prolifération d'objets à bas prix, voire perdus dans la nature, alors qu'on est en période de crise et que le héros est supposé se sentir seul et nu dans ce monde hostile. Oubliez l'opulence à laquelle vous étiez habitué et vivez tel le pauvre orphelin sans le sou ni soutien que vous êtes. Dans presque tous les magasins, les prix seront considérablement augmentés et la quantité d'objets magiques réduite. La location de chambres d'hôtel coûtera plus que quelques pièces de monnaie. De nombreux objets uniques ou magiques dispersés dans le monde du jeu seront remplacés par des objets de moindre valeur. Son second composant ajoute un \"boss\" dans le donjon d'Ulcaster.",
+        "description": "Ce mod est un portage pour BGT du mod [[Hard Times]].",
         "urls": [
             "https://www.shsforums.net/files/file/841-hard-times-for-bgt-24/"
         ],
@@ -15007,7 +15010,7 @@
     {
         "id": 471,
         "name": "Harper Scout kit",
-        "description": "Ce mod installe la classe de prestige de la Campagne des Royaumes oubliés, l'Agent ménestrel, en deux versions : l'une pour voleur, l'autre pour barde. Pas ailleurs, il ajoute quelques objets liés aux Ménestrels.",
+        "description": "Ce mod installe la classe de prestige de la Campagne des Royaumes oubliés, l'Agent ménestrel, en deux versions : l'une pour voleur, l'autre pour barde. Par ailleurs, il ajoute quelques objets liés aux Ménestrels.",
         "urls": [
             "http://iegmc.shphockey.com/yarpen/HarperScoutv1.rar"
         ],
@@ -21196,7 +21199,7 @@
             "https://github.com/UnearthedArcana/magic_battles_revised/"
         ],
         "categories": [
-            "Script et tactique"
+            "Gameplay"
         ],
         "games": [
             "BGEE",
@@ -26191,6 +26194,7 @@
             "Patch non officiel"
         ],
         "games": [
+            "IWD",
             "IWDEE"
         ],
         "authors": [
@@ -26208,7 +26212,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-08",
         "tp2": "d2-iwdee-fixes"
     },
     {
@@ -28113,7 +28117,7 @@
             "it"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-08",
         "tp2": "RevisedBattles"
     },
     {
@@ -29466,7 +29470,7 @@
         "description": "Ce mod ajoute une marchande, la Dame des Mystères, adoratrice de Mystra, qui vend un manuel de magie donnant accès à une trentaine de sorts divins, dont un inédit. Seuls les lanceurs de sorts profanes peuvent en bénéficier au prix de -2 en Force et Constitution. En d'autres termes, grâce à ce mod, à vous les multi-classes sorcier/prêtre, barde/prêtre, guerrier/mage/prêtre (classe de base guerrier/mage et lecture du livre d'où un gain d'XP conséquent), kensaï/mage (clerc), ensorceleur (clerc) ou scalde (clerc), par exemple... et le très fameux guerrier/mage/voleur/prêtre. Attention cependant, il y a des restrictions : toutes les infos sont dans le readme. Vous la trouverez au nord du Marché de l'Aventurier sur la Promenade de Waukyne, et dans l'Antichambre. Sur BGEE et IWDEE, le vendeur se trouvera près de la tour d'Orrick, chez Perleflamme Cheveuxd'Elfe à Bérégost ou au Bazar Magique de la Porte de Baldur.",
         "urls": [
             "https://www.shsforums.net/files/category/33-smm-rm/",
-            "https://github.com/11jo/semi_multi_clerics/"
+            "https://github.com/Spellhold-Studios/Semi-Multi-Clerics/"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -32568,7 +32572,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-05",
+        "last_update": "2025-08",
         "tp2": "tactics-remix"
     },
     {
@@ -34978,7 +34982,7 @@
     {
         "id": 1095,
         "name": "Vault",
-        "description": "À l'origine, ce mod était surtout centré sur des nouveaux objets répartis un peu partout dans le jeu (monstres, magasins). Avec le temps il s'est agrémenté de plusieurs quêtes accessibles à des groupes de différents niveaux, afin d'accommoder les objets du mod à l'univers BG. Les quêtes restent ardues, tant dans leur résolution que dans les combats qui les peuplent. L'auteur annonce environ deux heures de jeu pour les quatre quêtes, mais vous passerez peut-être plus de temps à vous triturer les méninges pour les résoudre.|\"Retour à Nashkel\" commence lorsque le duc Eltan téléporte le groupe à Château Suif. Elle vous conduit à retourner dans les mines de Nashkel investies de pièges, d'araignées et d'elfes noirs. \"Le Vestibule\" : rendez-vous dans le petit bâtiment attenant au temple de Lathandre et parlez (plusieurs fois) aux prêtres qui s'y trouvent. La quête est constituée de deux combats particulièrement ardus (niveau 8-9 minimum), il faut renvoyer dans les abysses le démon Lestraubimat qui n'apparaîtra que si c'est la première fois que vous pénétrez sur un certain lieu (vous pouvez toutefois visiter la carte sous réserve de ne pas explorer la zone où le démon doit apparaître). \"Les Ogres de Gullykin, le village halfelin\" : une invasion et de gros combats... \"Le Caveau\", ou quête cachée : lisez attentivement les descriptifs des objets trouvés, et rassemblez l'idole de Kozah et l'armure du chevalier maudit du labyrinthe avant de les présenter au fantôme d'Ulcaster, qui vous donne l'épée de la Revanche du vampire en échange. Recherchez une personne qui pourrait vous aider à vous narrer l'histoire de cette épée.|Combiné à [[Sword Coast Stratagems]], ce mod peut rapidement relever de l'impossible, notamment lors de la quête \"Retour à Nashkel\" dans laquelle vous combattrez des hordes d'araignées.|Le lien concerne la version BGT et BG:EE. La [version BG1-Tutu](http://www.angelfire.com/rpg2/azenmod/#Vault) ne possède pas de traduction française.",
+        "description": "À l'origine, ce mod était surtout centré sur des nouveaux objets répartis un peu partout dans le jeu (monstres, magasins). Avec le temps il s'est agrémenté de plusieurs quêtes accessibles à des groupes de différents niveaux, afin d'accommoder les objets du mod à l'univers BG. Les quêtes restent ardues, tant dans leur résolution que dans les combats qui les peuplent. L'auteur annonce environ deux heures de jeu pour les quatre quêtes, mais vous passerez peut-être plus de temps à vous triturer les méninges pour les résoudre.|`Retour à Nashkel` commence lorsque le duc Eltan téléporte le groupe à Château Suif. Elle vous conduit à retourner dans les mines de Nashkel investies de pièges, d'araignées et d'elfes noirs.|`Le Vestibule` : rendez-vous dans le petit bâtiment attenant au temple de Lathandre et parlez (plusieurs fois) aux prêtres qui s'y trouvent. La quête est constituée de deux combats particulièrement ardus (niveau 8-9 minimum), il faut renvoyer dans les abysses le démon Lestraubimat qui n'apparaîtra que si c'est la première fois que vous pénétrez sur un certain lieu (vous pouvez toutefois visiter la carte sous réserve de ne pas explorer la zone où le démon doit apparaître).|`Les Ogres de Gullykin, le village halfelin` : une invasion et de gros combats...|`Le Caveau`, ou quête cachée : lisez attentivement les descriptifs des objets trouvés, et rassemblez l'idole de Kozah et l'armure du chevalier maudit du labyrinthe avant de les présenter au fantôme d'Ulcaster, qui vous donne l'épée de la Revanche du vampire en échange. Recherchez une personne qui pourrait vous aider à vous narrer l'histoire de cette épée.|Combiné à [[Sword Coast Stratagems]], ce mod peut rapidement relever de l'impossible, notamment lors de la quête `Retour à Nashkel` dans laquelle vous combattrez des hordes d'araignées.|Le lien concerne la version BGT et BG:EE. La [version BG1-Tutu](http://www.angelfire.com/rpg2/azenmod/#Vault) ne possède pas de traduction française.",
         "urls": [
             "https://www.shsforums.net/topic/55129-the-vault-for-bgt-v72-released/",
             "https://github.com/RoxanneSHS/VaultEE"
@@ -37667,6 +37671,7 @@
         "name": "Verr'Sza (BG2EE)",
         "description": "Ce mod amène Verr’Sza, le compagnon rakshasa, dans Baldur's Gate 2. C'est une continuation du mod [[Verr'Sza (BG1EE)]], du même auteur. Cependant, si les mods ont été écrits pour permettre la poursuite du partenariat entre l'Enfant de Bhaal et Verr’Sza, il est possible de démarrer une toute nouvelle relation avec Verr’Sza, au lieu de continuer le contenu de BG.|Verr’Sza est un rôdeur maléfique ; pas toujours très préoccupé par la loi des hommes. Il est pragmatique, et suit les règles qu'il s'est lui-même fixées et son idée de la façon dont les choses doivent être faites. Pourtant, il s'intéresse aussi à l'apprentissage. Il n'est pas grossier. Il n'est pas imprudent, même s'il n'est pas un exemple de patience, il comprend que certaines questions nécessitent différents types d'actions et d'attitudes. Le mod inclut la romance (pour les enfants de Bhaal, quel que soit leur sexe), qui peut différer légèrement, selon que vous poursuivez ou non votre romance depuis BG1.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=14",
             "https://downloads.weaselmods.net/download/verrsza-bg2ee/"
         ],
         "categories": [
@@ -37695,6 +37700,7 @@
         "name": "Verr'Sza (BG1EE)",
         "description": "Verr’Sza est un chasseur rakshasa d'alignement mauvais que l'on peut recruter à l'auberge de Brasamical. Le mod est compatible avec Siege of Dragonspear et dispose de contenu propre à cette extension, ainsi qu'en rapport avec le mod [[Sirene NPC for BG:EE]].|Il comprend quelques quêtes, ainsi qu'une romance pour les personnages masculins et féminins (la seule condition est de ne pas être d'alignement loyal bon). Bien qu'il s'agisse techniquement d'une romance, Verr’Sza n'est pas un personnage très romantique. Il s'agit plutôt de le faire vous respecter et de ne pas essayer de le lier de quelque façon que ce soit. Il peut être protecteur à sa manière tordue et brutale.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=14",
             "https://forums.beamdog.com/discussion/60614/",
             "https://downloads.weaselmods.net/download/verrsza-bg1ee/"
         ],
@@ -37717,7 +37723,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-08",
         "tp2": "verrsza"
     },
     {
@@ -38738,7 +38744,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-03",
+        "last_update": "2025-08",
         "tp2": "white"
     },
     {
@@ -41976,7 +41982,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-06",
         "tp2": "crucible"
     },
     {
@@ -42402,7 +42408,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "eefixpack"
     },
     {
@@ -46976,7 +46982,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-06",
         "tp2": "Technol"
     },
     {
@@ -48209,7 +48215,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "Derats_Mods_Tweaker"
     },
     {
@@ -55499,7 +55505,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "Derats_Powerkits"
     },
     {
@@ -55815,7 +55821,7 @@
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34958",
             "https://forums.beamdog.com/discussion/89556/",
-            "https://github.com//Deratiseur/IWD_Bonus/"
+            "https://github.com/Deratiseur/IWD_Bonus/"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -56140,6 +56146,7 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "BG2EE",
             "EET"
         ],
