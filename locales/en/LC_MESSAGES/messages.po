@@ -33,24 +33,24 @@ msgid ""
 "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
 "fonctionner avec la dernière version du jeu."
 msgstr ""
-"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
-"fonctionner avec la dernière version du jeu."
+"⚠️ EE: The last update was in {year}. This mod may not "
+"work with the latest version of the game."
 
 #: models/mod.py:214
 msgid ""
 "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
 "le à vos risques et périls."
 msgstr ""
-"⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
-"le à vos risques et périls."
+"⚠️ WeiDU: This mod overwrites files and cannot be uninstalled. Install"
+" it at your own risk.."
 
 #: models/mod.py:220
 msgid ""
 "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
 "donner suite."
 msgstr ""
-"Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
-"donner suite."
+"This mod has been archived by its author/maintainer, who does not seem to want "
+"to continue developing it."
 
 #: models/mod.py:224
 msgid "Ce mod est toujours en cours de réalisation."
