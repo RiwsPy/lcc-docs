@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-20 15:01+0200\n"
-"PO-Revision-Date: 2025-06-20 16:06+0200\n"
+"PO-Revision-Date: 2025-08-26 07:30+0200\n"
 "Last-Translator: Riws <toto.streak289@passinbox.com>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -16,6 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
 
 #: models/mod.py:193
 #, python-brace-format
@@ -33,16 +34,16 @@ msgid ""
 "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
 "fonctionner avec la dernière version du jeu."
 msgstr ""
-"⚠️ EE: The last update was in {year}. This mod may not "
-"work with the latest version of the game."
+"⚠️ EE: The last update was in {year}. This mod may not work with the latest "
+"version of the game."
 
 #: models/mod.py:214
 msgid ""
-"⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
-"le à vos risques et périls."
+"⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le "
+"à vos risques et périls."
 msgstr ""
-"⚠️ WeiDU: This mod overwrites files and cannot be uninstalled. Install"
-" it at your own risk.."
+"⚠️ WeiDU: This mod overwrites files and cannot be uninstalled. Install it at "
+"your own risk.."
 
 #: models/mod.py:220
 msgid ""
