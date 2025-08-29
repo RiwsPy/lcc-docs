@@ -2396,7 +2396,7 @@
     {
         "id": 74,
         "name": "Ascension",
-        "description": "Ce mod est un add-on créé par David Gaider (principal concepteur de ToB), assisté de passionnés d'un forum américain, qui a été ensuite converti en WeiDU par Weimer, ce dernier assurant la compatibilité. Il change beaucoup de choses dans ToB : chaque combat avec les enfants de Bhaal est bien plus difficile, les nouveaux pouvoirs de Bhaal sont inclus également, Demogorgon est redevenu un monstre redoutable, et on y trouve surtout un combat final complètement remodelé. Vous pourrez enrôler soit Balthazar, soit Bodhi pour combattre Amélissane. Celle-ci sera une machine de guerre, redoutable. A ses côtés, la Main. Oui, les 5 enfants de Bhaal (excepté Balthazar si vous l'avez recruté), Yaga, Abazigal, Sendai, Illasera, tous sont là pour combattre aux côtés d'Amelyssane, et de niveau supérieur à leur version originelle. À noter qu'avant ce combat, vous aurez un avant-goût du défi en combattant Bohdi et Irenicus, complètement boostés évidement, et qui vous poseront pas mal de problèmes sans doute.",
+        "description": "Ce mod créé par le principal concepteur de ToB, assisté de passionnés d'un forum américain, qui a été ensuite converti en WeiDU par Weimer, ce dernier assurant la compatibilité. Il change beaucoup de choses dans ToB : chaque combat avec les enfants de Bhaal est bien plus difficile, les nouveaux pouvoirs de Bhaal sont inclus également, Demogorgon est redevenu un monstre redoutable, et on y trouve surtout un combat final complètement remodelé. Vous pourrez enrôler soit Balthazar, soit Bodhi pour combattre Amélissane. Celle-ci sera une machine de guerre, redoutable. A ses côtés, la Main. Oui, les 5 enfants de Bhaal (excepté Balthazar si vous l'avez recruté), Yaga, Abazigal, Sendai, Illasera, tous sont là pour combattre aux côtés d'Amelyssane, et de niveau supérieur à leur version originelle. À noter qu'avant ce combat, vous aurez un avant-goût du défi en combattant Bohdi et Irenicus, complètement boostés évidement, et qui vous poseront pas mal de problèmes sans doute.",
         "urls": [
             "https://www.gibberlings3.net/mods/quests/ascension/",
             "https://forums.beamdog.com/discussion/45563/",
@@ -3003,7 +3003,7 @@
     {
         "id": 91,
         "name": "Auto-detect traps for PST:EE",
-        "description": "Créé par mirandir, ce petit mod français permet à Annah et Sans-Nom de rechercher automatiquement les pièges.",
+        "description": "Ce petit mod permet à Annah et Sans-Nom de rechercher automatiquement les pièges.",
         "urls": [
             "https://mirandir.baldursgateworld.fr/detect_traps_for_pstee/"
         ],
@@ -3251,7 +3251,7 @@
     {
         "id": 99,
         "name": "HD GUI",
-        "description": "Inspiré par [[TWM_GUI]], ikonomov a créé ce mod d'interface graphique pour bénéficier d'un support 16:9 indispensable et tenter de préserver autant que possible les éléments graphiques du jeu dans leur forme originale.|1. Tous les menus ont été centrés sur leur résolution d'origine de 640x480 pour toutes les vues du jeu, sauf à l'écran de jeu, où il est à 1280x720.|2. Les éléments de l'interface graphique en bas de l'écran ont été centrés et les largeurs des fenêtres de texte et de message ont été redimensionnées à 800 pixels pour une lecture plus facile.|3. Les nouvelles fenêtres de texte et de message (éléments de l'interface graphique du bas pendant la lecture) utilisent une police personnalisée, ressemblant à la police d'origine, créée à l'aide d'un générateur de bam et modifiée pour obtenir un espacement correct entre les lignes. De petits ajustements de hauteur des champs de texte qui utilisent la nouvelle police ont été effectués pour permettre au texte de s'afficher correctement dans tous les champs. Tous les autres éléments de texte du jeu sont laissés intacts et utilisent les polices d'origine.",
+        "description": "Inspiré par [[TWM_GUI]], ce mod d'interface graphique bénéficie d'un support 16:9 indispensable et tenter de préserver autant que possible les éléments graphiques du jeu dans leur forme originale.|1. Tous les menus ont été centrés sur leur résolution d'origine de 640x480 pour toutes les vues du jeu, sauf à l'écran de jeu, où il est à 1280x720.|2. Les éléments de l'interface graphique en bas de l'écran ont été centrés et les largeurs des fenêtres de texte et de message ont été redimensionnées à 800 pixels pour une lecture plus facile.|3. Les nouvelles fenêtres de texte et de message (éléments de l'interface graphique du bas pendant la lecture) utilisent une police personnalisée, ressemblant à la police d'origine, créée à l'aide d'un générateur de bam et modifiée pour obtenir un espacement correct entre les lignes. De petits ajustements de hauteur des champs de texte qui utilisent la nouvelle police ont été effectués pour permettre au texte de s'afficher correctement dans tous les champs. Tous les autres éléments de texte du jeu sont laissés intacts et utilisent les polices d'origine.",
         "urls": [
             "https://www.nexusmods.com/baldursgate/mods/40/"
         ],
@@ -3657,6 +3657,8 @@
         "description": "À l'instar du mod du même nom pour Baldur's Gate II, ce mod vient combler un certain nombre d'oublis ou d'éléments inachevés dans le jeu d'origine. Il réintroduit donc dans le jeu un certain nombre de quêtes, d'objets, de personnages... qui figuraient dans le jeu, mais n'étaient pas exploités ou inachevés (en particulier des réactions des personnages recrutables). Vous trouverez notamment le deuxième niveau de l'île des Glaces de BG1, faire que Branwen reconnaisse Tranzig, donner un usage à la potion mystérieuse trouvée dans les mines, etc. Il corrige également certains bugs.",
         "urls": [
             "https://www.pocketplane.net/bg1-unfinished-business/",
+            "https://forums.beamdog.com/discussion/38254/",
+            "https://www.gibberlings3.net/forums/topic/29374-bg1-unfinished-business-bug-reporting-thread/",
             "https://github.com/Pocket-Plane-Group/bg1ub"
         ],
         "categories": [
@@ -3695,7 +3697,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-08",
         "tp2": "bg1ub"
     },
     {
@@ -3982,8 +3984,7 @@
         "description": "Ce mod permet de faire mille et un petits ajustements au jeu, et s'avère être le parfait complément de [[The Tweaks Anthology]]. Vous pouvez rendre les familiers plus intelligents, détecter les pièges plus rapidement et permettre à vos PNJ de \"sentir\" leur présence, modifier les effets de certains objets et sorts pour les rendre plus cohérents, faire des changements aux règles, vendre vos objets sans dépréciation de prix dans les magasins, désactiver les sauvegardes automatiques dans certaines transitions, diminuer le temps de chargement des zones dans les jeux originaux (d'environ 10 à 30 % selon l'auteur), et bien d'autres choses que vous trouverez dans le readme.|Il fonctionne avec n'importe quel jeu IE, mais tous ses composants ne sont pas applicables à tous les jeux.",
         "urls": [
             "https://bgforge.net/tweaks-and-tricks/",
-            "https://github.com/BGforgeNet/bg2-tweaks-and-tricks",
-            "https://github.com/Plutonium-X/FORK_bg2-tweaks-and-tricks"
+            "https://github.com/BGforgeNet/bg2-tweaks-and-tricks"
         ],
         "categories": [
             "Gameplay"
@@ -3999,9 +4000,7 @@
             "Magus"
         ],
         "team": [],
-        "notes": [
-            "La version française est disponible via le lien Plutonium-X."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -4676,7 +4675,7 @@
     {
         "id": 145,
         "name": "Baldur's Gate Fixpack",
-        "description": "Initié par plainab, aka Sasha al'Therin, ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du [[DudleyFix for BG1]].",
+        "description": "Ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du [[DudleyFix for BG1]].",
         "urls": [
             "https://github.com/Sasha-alTherin/BGFixPack"
         ],
@@ -5295,7 +5294,7 @@
     {
         "id": 165,
         "name": "Below & Below Inn",
-        "description": "Ce mod ajoute un nouveau lieu dans IWD:EE : l'Auberge Dessous & Dessous. Vous y trouverez de nombreux services : endroit pour vous reposer entre les batailles, de nouveaux objets sympa, du travail... Dans Kuldahar, l'écrivain vous indiquera où la trouver.",
+        "description": "Ce mod ajoute un nouveau lieu dans IWD:EE : l'Auberge Dessous & Dessous. Vous cherchez un endroit où vous reposer entre deux combats ? Ou peut-être avez-vous besoin de nouveaux objets sympas ? Ou peut-être est-ce son travail dont vous avez réellement besoin ? Tout est là !|Pour visiter ce nouvel endroit, adressez-vous à l'écrivain à Kuldahar. Il vous informera de l'emplacement ou vous devez aller pour trouver l'Auberge Dessous & Dessous. Il devrait vous attendre.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=47",
             "https://forums.beamdog.com/discussion/79987/",
@@ -6338,6 +6337,8 @@
         "name": "Bristlelick",
         "description": "Ce mod ajoute un PNJ, un ancien bandit qui a travaillé pour Garclax, un gnoll que vous pouvez également rencontrer dans le jeu original, lors de l'enquête sur le camp de bandits. Bristlelick est un guerrier de première ligne au caractère maléfique. Il aime la bataille, un bon repas et cherche à se venger du meurtre de son fidèle compagnon, Bull-Tall. Pour qu'il s'intègre parfaitement au concept, il dispose de son propre profil, celui de gnoll cogneur.|Vous pouvez le recruter près de la route rocheuse dans la zone du camp de bandits. Dans SoD, il peut rejoindre l'équipe près du premier camp.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=53",
+            "https://forums.beamdog.com/discussion/81324/",
             "https://downloads.weaselmods.net/download/bristlelick/"
         ],
         "categories": [
@@ -6958,7 +6959,7 @@
     {
         "id": 218,
         "name": "Chantelame",
-        "description": "Créé par Misdrhaal, ce mod ajoute un nouveau profil de guerrier destiné aux elfes, une sorte de guerrier/mage/clerc spécial... Deratiseur l'a converti au format WeiDU, ce qui le rend largement plus compatible avec la plupart des mods récents, et il n'écrase plus le dialog.tlk à l'installation.|Note : ce profil porte le nom de Bladesinger en anglais.",
+        "description": "Ce mod ajoute un nouveau profil de guerrier destiné aux elfes, une sorte de guerrier/mage/clerc spécial... La caste des Chantelames est constituée de guerriers surentraînés, mêlant une maîtrise parfaite de leur arme avec la capacité d'user de puissants sorts. Le chantelame sait manipuler les flux de magie qui l'entourent pour se protéger et se rendre plus fort. Il connaît également la gestuelle et le verbe capable de plier la magie à sa volonté pour en tirer des sorts.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=24080",
             "https://github.com/Plutonium-X/KIT_Chantelame"
@@ -7504,7 +7505,7 @@
     {
         "id": 234,
         "name": "Cirerrek's AI Scripts: uScript",
-        "description": "uScript ou \"Universal\" Script est un script d'IA pour joueur de BG2 SoA & ToB créé par Rich Martel. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) pour plus détails.",
+        "description": "uScript ou \"Universal\" Script est un script de combat généraliste d'IA pour joueur de BG2 SoA & ToB. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) pour plus détails.",
         "urls": [
             "https://www.gibberlings3.net/files/file/894-cirerreks-ai-scripts-uscript/"
         ],
@@ -9306,7 +9307,7 @@
     {
         "id": 291,
         "name": "Daulmakan's Item Pack",
-        "description": "Ce petit mod ajoute environ 45 objets inspirés des séries Icewind Dale et de Planescape: Torment, disséminés dans les magasins et sur le corps de vos ennemis. Il modifie également quelques objets existants (amélioration graphique pour les rendre plus distinguable...), ajoute un nouveau marchand dans votre antichambre, fait apparaître Deirdre et Joluv dans l'auberge d'Amkethran, permet à Cromwell et Cespenar de forger de nouveaux objets... ToB est requis.|Dans Baldur's Gate, il ajoute 13 objets, un sac de contenance dans la boutique de Winthrop; un anneau de l'Académie d'Ulcaster...|Installez-le de préférence après tous les sorts qui ajoutent ou modifient des sorts.",
+        "description": "Ce petit mod ajoute environ 45 objets inspirés des séries Icewind Dale et de Planescape: Torment, disséminés dans les magasins et sur le corps de vos ennemis. Il modifie également quelques objets existants (amélioration graphique pour les rendre plus distinguable...), ajoute un nouveau marchand dans votre antichambre, fait apparaître Deirdre et Joluv dans l'auberge d'Amkethran, permet à Cromwell et Cespenar de forger de nouveaux objets... ToB est requis.|Dans Baldur's Gate, il ajoute 13 objets, un sac de contenance dans la boutique de Winthrop; un anneau de l'Académie d'Ulcaster...|Installez-le de préférence après tous les mods qui ajoutent ou modifient des sorts.",
         "urls": [
             "https://www.shsforums.net/files/file/824-item-pack-v18/",
             "https://www.gibberlings3.net/forums/topic/37067-item-pack-v19/",
@@ -9408,7 +9409,7 @@
     {
         "id": 294,
         "name": "Deecy Patch",
-        "description": "Ce mod français remplace l'animation de la Cape de renvoi par celle, plus discrète, de TDD, restaure le graphisme de BG1 pour l'épée longue Varscona, et permet à Sarevok de rattraper ses niveaux de retard éventuels sur le personnage principal dans ToB (les niveaux se passent un à un pour permettre de choisir ses compétences de haut niveau).",
+        "description": "Ce mod français remplace l'animation de la Cape de renvoi par celle, plus discrète, de [[The Darkest Day]], restaure le graphisme de BG1 pour l'épée longue Varscona, et permet à Sarevok de rattraper ses niveaux de retard éventuels sur le personnage principal dans ToB (les niveaux se passent un à un pour permettre de choisir ses compétences de haut niveau).",
         "urls": [
             "https://akadis.baldursgateworld.fr/Deecy_Patch/Deecy_Patch.html"
         ],
@@ -9597,6 +9598,7 @@
         "description": "Ce mod ajoute un nouveau PNJ recrutable dans IWD:EE : Dendjelion, un chevalier noir halfling de Westgate, une personne grossière et un adepte de Bhaal, l'infâme Seigneur du meurtre. Un homme qui croit que la mort peut apporter un changement. Fort et rancunier. Il est venu à Kuldahar à la recherche de Noon - un chevalier de Lliira qu'il accuse d'avoir tué son frère. Vous le trouverez sur le rocher enneigé à l'est de la maison d'Arundel. Ce mod ne propose pas de romance, mais ceux qui recherchent juste un peu de plaisir avec des conversations en tête-à-tête devraient y trouver leur compte.",
         "urls": [
             "https://weaselmods.net/forumdisplay.php?fid=40",
+            "https://forums.beamdog.com/discussion/79343/",
             "https://downloads.weaselmods.net/download/dendjelion/"
         ],
         "categories": [
@@ -9851,9 +9853,7 @@
             "Borsook"
         ],
         "team": [],
-        "notes": [
-            "Si ce mod est sensé être compatible avec tous les jeux IE, certains composants ne sont pas disponibles pour certains jeux."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -10899,9 +10899,10 @@
     {
         "id": 341,
         "name": "Dusky",
-        "description": "Ce mod ajoute un nouveau PNJ recrutable dans IWD:EE : Dusky, un clerc/voleur demi-orque d'alignement chaotique neutre que vous trouverez près de l'entrée de la grotte, aux environ de Havredest. Il est ouvert à toute romance avec tout personnage masculin ayant au moins 11 de Charisme 11. Il n'aura aucun problème à rejoindre une équipe bonne, neutre ou mauvaise. Le mod comprend aussi une voie d'amitié et quelques interjections.",
+        "description": "Ce mod ajoute un nouveau PNJ recrutable dans IWD:EE : Dusky, un clerc/voleur demi-orque d'alignement chaotique neutre que vous trouverez près de l'entrée de la grotte, aux environ de Havredest. Il est ouvert à toute romance avec tout personnage masculin ayant au moins 11 de Charisme 11. Il n'aura aucun problème à rejoindre une équipe bonne, neutre ou mauvaise. Le mod comprend aussi une voie d'amitié et quelques interjections.|FOR 17, DEX 18, CON 16, INT 10, SAG 16, CHA 9.",
         "urls": [
             "https://weaselmods.net/forumdisplay.php?fid=17",
+            "https://forums.beamdog.com/discussion/64535/",
             "https://downloads.weaselmods.net/download/dusky-iwdee-npc/"
         ],
         "categories": [
@@ -10933,6 +10934,7 @@
         "description": "Ce mod ajoute un nouveau compagnon dans BG2EE : Dvaradime, un nain guerrier / mage / voleur d'alignement bon. Vous pourrez le rencontrer dans la Promenade de Waukyne près de la maison en ruine.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=64",
+            "https://forums.beamdog.com/discussion/87161/",
             "https://downloads.weaselmods.net/download/dvaradime/"
         ],
         "categories": [
@@ -11454,6 +11456,7 @@
         "description": "Un mod de quête pour BG2, qui se déclenche si vous décidez d'épargner la vie de Solaufein et de le laisser s'enfuir d'Ust Natha. Il vous remerciera après votre évasion d'Ust Natha, et vous parlera d'un nouvel endroit, où vous pourrez demander de l'aide afin de récupérer votre âme... Le mod inclut 6 nouvelles cartes, 21 nouveaux objets et bien entendu de nouvelles quêtes secondaires en marge de celle de votre âme.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=7",
+            "https://forums.beamdog.com/discussion/39119/",
             "https://downloads.weaselmods.net/download/eilistraees-song/"
         ],
         "categories": [
@@ -12736,6 +12739,8 @@
         "name": "Faldorn BG2EE",
         "description": "Ce mod vous permet de recruter Faldorn, la druidesse de l'ombre de BG:EE, dans BG2:EE. Cependant, vous devez vous rappeler qu'elle est sauvage et qu'elle ne sera pas aussi paisible que la plupart des druides. Au contraire, elle est l'étincelle sauvage qui peut déclencher un grand feu.|Faldorn peut rejoindre votre groupe après son intrigue originale dans SoA. Une fois que vous aurez terminé les quêtes de Franc-Marché et que vous serez devenu le héros de la ville, attendez un jour ou deux, et un druide vous approchera et vous demandera de retourner au bosquet, car quelque chose d'étrange s'est produit.|Ce mod ajoute trois petites quêtes liées à Faldorn dans SoA et une autre dans ToB. Elle peut être romancée par des hommes et des femmes de n'importe quel alignement chaotique ayant une force de 13 ou plus et une constitution de 11 ou plus. Cependant, gardez à l'esprit qu'elle n'est pas exactement un personnage chaleureux et gentil, et cela se reflète dans tous ses dialogues.|Pour la rendre encore plus utile, son profil comprend une capacité spéciale qui lui permet de se transformer en centipède. Sous cette forme, elle peut utiliser des capacités de voleur, mais ne peut pas lancer de sorts et devient assez faible en combat.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=59",
+            "https://forums.beamdog.com/discussion/83139/",
             "https://downloads.weaselmods.net/download/faldorn-bg2ee/"
         ],
         "categories": [
@@ -12818,9 +12823,10 @@
     {
         "id": 401,
         "name": "Fhaugy",
-        "description": "Fhaugy est un moine demi-orque neutre. Bien qu'il ait encore de la colère et des expériences pénibles qu'il a du mal à oublier, il ne veut pas céder à son côté sombre, mais trouver un moyen de garder les choses sous contrôle. Le mod propose une quête personnelle dans SoA et dans ToB ainsi qu'une romance avec un personnage masculin. Il possède son propre kit.",
+        "description": "Fhaugy est un moine demi-orque neutre. Bien qu'il ait encore de la colère et des expériences pénibles qu'il a du mal à oublier, il ne veut pas céder à son côté sombre, mais trouver un moyen de garder les choses sous contrôle. Il a également un sens de l'humour qu'il se fera un plaisir de partager avec vous, son futur chef et ami.|Le mod propose une quête personnelle dans SoA et dans ToB ainsi qu'une romance avec un personnage masculin.|De plus, Fhaugy a son propre kit de moine.|Vous pouvez trouver Fhaugy dans l'Auberge d'Umar dans Imnesvale.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=62",
+            "https://forums.beamdog.com/discussion/86586/",
             "https://downloads.weaselmods.net/download/fhaugy/"
         ],
         "categories": [
@@ -12941,8 +12947,9 @@
     {
         "id": 405,
         "name": "FindIt-IWD",
-        "description": "Ce mod ajoute de nouveaux objets dans IWD:EE. Vous les trouverez dans l'inventaire de certaines créatures, vendus par des marchands ou laissés dans des conteneurs.",
+        "description": "Ce mod ajoute une trentaine de nouveaux objets dans IWD:EE. Vous les trouverez dans l'inventaire de certaines créatures, vendus par des marchands ou laissés dans des conteneurs.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=38",
             "https://forums.beamdog.com/discussion/63278/",
             "https://downloads.weaselmods.net/download/findit-iwd/"
         ],
@@ -13560,6 +13567,7 @@
         "description": "Ce mod ajoute un nouveau compagnon à BG2EE : Fyalvara, une guerrière humaine de la lointaine terre de Rashéménie. À l'installation, elle peut être une combattante sans kit, une tueuse de sorciers, ou une combattante jumelée druidesse totémique (ne peut passer au niveau supérieur qu'en tant que combattante).|Fyalvara se trouve dans le quartier des Docks.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=67",
+            "https://forums.beamdog.com/discussion/87431/",
             "https://downloads.weaselmods.net/download/fyalvara/"
         ],
         "categories": [
@@ -13617,9 +13625,10 @@
     {
         "id": 427,
         "name": "Gahesh",
-        "description": "Sorcier de son état, ce demi-orque loyal bon est recrutable à la taverne de la Bonté Marine. Il dispose de contenu pour SoA et ToB, des dialogues d'amitié dans SoA et ToB, d'une courte romance pour tous les PJ féminins neutres ou bons dans ToB, et d'une mini-quête.",
+        "description": "Sorcier de son état, ce demi-orque loyal bon est recrutable à la taverne de la Bonté Marine. Gahesh est un paria; un bâtard engendré par un humain. Il dispose de contenu pour SoA et ToB, des dialogues d'amitié dans SoA et ToB, d'une courte romance pour tous les PJ féminins neutres ou bons dans ToB, et d'une mini-quête.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=36",
+            "https://forums.beamdog.com/discussion/76730/",
             "https://downloads.weaselmods.net/download/gahesh/"
         ],
         "categories": [
@@ -13905,7 +13914,7 @@
     {
         "id": 436,
         "name": "Gemma",
-        "description": "Créé sur La Couronne de Cuivre, ce mod ajoute une nouvelle PNJ recrutable. Adepte d'Umberlie, Gemma n'est pas vraiment le genre de naine à passer son temps à chanter de joyeuses chansons, une chope de bière en main. Non, son truc, c'est utiliser de la rhétorique pour frapper de plein fouet l'hérétique qui ne s'y attend pas. Quand la rhétorique passe par le marteau, c'est sûr, les gens sont plus réceptifs (et morts). Gemma patiente tranquillement (non) sur les Docks d'Athkatla.|FOR 18/05, DEX 13, CON 19, INT 7, SAG 14, CHA 8.",
+        "description": "Adepte d'Umberlie, Gemma n'est pas vraiment le genre de naine à passer son temps à chanter de joyeuses chansons, une chope de bière en main. Non, son truc, c'est utiliser de la rhétorique pour frapper de plein fouet l'hérétique qui ne s'y attend pas. Quand la rhétorique passe par le marteau, c'est sûr, les gens sont plus réceptifs (et morts). Gemma patiente tranquillement (non) sur les Docks d'Athkatla.|FOR 18/05, DEX 13, CON 19, INT 7, SAG 14, CHA 8.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?p=518624",
             "https://github.com/Plutonium-X/1D_NPC_Gemma"
@@ -14899,7 +14908,7 @@
     {
         "id": 467,
         "name": "Hard Times",
-        "description": "Créé par Macready, l'auteur de [[EasyTutu]], ce mod corrige une aberration du jeu, à savoir la prolifération d'objets à bas prix, voire perdus dans la nature, alors qu'on est en période de crise et que le héros est supposé se sentir seul et nu dans ce monde hostile. Oubliez l'opulence à laquelle vous étiez habitué et vivez tel le pauvre orphelin sans le sou ni soutien que vous êtes. Dans presque tous les magasins, les prix seront considérablement augmentés et la quantité d'objets magiques réduite. La location de chambres d'hôtel coûtera plus que quelques pièces de monnaie. De nombreux objets uniques ou magiques dispersés dans le monde du jeu seront remplacés par des objets de moindre valeur.|Son second composant ajoute un \"boss\" dans le donjon d'Ulcaster.",
+        "description": "Ce mod corrige une aberration du jeu, à savoir la prolifération d'objets à bas prix, voire perdus dans la nature, alors qu'on est en période de crise et que le héros est supposé se sentir seul et nu dans ce monde hostile. Oubliez l'opulence à laquelle vous étiez habitué et vivez tel le pauvre orphelin sans le sou ni soutien que vous êtes. Dans presque tous les magasins, les prix seront considérablement augmentés et la quantité d'objets magiques réduite. La location de chambres d'hôtel coûtera plus que quelques pièces de monnaie. De nombreux objets uniques ou magiques dispersés dans le monde du jeu seront remplacés par des objets de moindre valeur.|Son second composant ajoute un \"boss\" dans le donjon d'Ulcaster.",
         "urls": [
             "http://www.usoutpost31.com/hardtimes/"
         ],
@@ -15253,8 +15262,8 @@
         "description": "Ce mod ramène un personnage SoD dans BG2:EE: le diable Hephernaan. Parce que le vrai mal ne meurt jamais. Êtes-vous prêt à prendre un grand risque et à laisser le marionnettiste maléfique entrer dans votre groupe ? Pouvez-vous vraiment avoir confiance en ses motivations et ses plans ? Peut-être devenir encore plus fort... mais pouvez-vous apprendre à voir à travers ses mensonges et ses promesses ? Ou pensez-vous qu'il veut vraiment aider ou se sent-il amusé par tous les événements que vous traversez chaque jour ? C'est votre choix.|Le mod comprend des discussions \"d'amitié\", de nouvelles zones, des objets et des rencontres qui peuvent être rafraîchissantes pour les joueurs qui en ont déjà marre du contenu original de BG2. Comme ce mod utilise les références de Siege of Dragonspear, il peut être utile de jouer la trilogie.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=24",
-            "https://downloads.weaselmods.net/download/hephernaan-bg2/",
-            "https://forums.beamdog.com/discussion/comment/1126680"
+            "https://forums.beamdog.com/discussion/comment/1126680",
+            "https://downloads.weaselmods.net/download/hephernaan-bg2/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -15996,9 +16005,10 @@
     {
         "id": 503,
         "name": "I Shall Never Forget",
-        "description": "4ème opus de la série Colours of Infinity, ISNF vous donne la possibilité d'aider un mage d'Athkatla, Orion, qui a sombré dans le désespoir après la mort de sa femme. A vous de voir si vous l'aiderez jusqu'au bout ou l'abandonnerez en route... Ce mod est aussi un moyen alternatif de réunir la somme pour Gaelan Bayle.",
+        "description": "ISNF est un mod de quête de la série Colours of Infinity. Ce mod vous donne la possibilité d'aider Orion, un mage d'Athkatla, Orion, qui a sombré dans le désespoir après la mort de sa femme. A vous de voir si vous l'aiderez jusqu'au bout ou l'abandonnerez en route... Ce mod est aussi un moyen alternatif de réunir la somme pour Gaelan Bayle. La quête commence dans le quartier du Gouvernement.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=6",
+            "https://forums.beamdog.com/discussion/64867/",
             "https://downloads.weaselmods.net/download/i-shall-never-forget/"
         ],
         "categories": [
@@ -16455,7 +16465,7 @@
     {
         "id": 518,
         "name": "IWD2 Unofficial Item/Spell Patch",
-        "description": "Créé par Gimble, ce mod modifie certains sorts et objets pour les rendre conformes à leur description. Il s'agit des sorts Symbole de douleur et de désespoir; et des objets Hache d'armes de Pourrissement +5, Dague de Feu boomerang +1, Masse +5, Épée courte Sanglante chargée +5, Bénédiction de Séluné et Destruction ailée.",
+        "description": "Ce mod modifie certains sorts et objets pour les rendre conformes à leur description. Il s'agit des sorts Symbole de douleur et de désespoir; et des objets Hache d'armes de Pourrissement +5, Dague de Feu boomerang +1, Masse +5, Épée courte Sanglante chargée +5, Bénédiction de Séluné et Destruction ailée.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/IWD2Fix.zip"
         ],
@@ -17326,7 +17336,7 @@
     {
         "id": 545,
         "name": "In Love, Undeath",
-        "description": "Le mod ajoute une nouvelle série de quêtes dans une nouvelle zone ainsi qu'un nouveau personnage recrutable : Xzelë Melaenitt une paladine. Qui veut protéger ses amis, même après leur trépas. Elle ne se joindra à vous après être sûre que ses amis sont en sécurité et que rien de mal ne leur arrivera pendant qu'elle vous aide. Elle possède des banters, son propre kit et ses propres capacités. Une romance est possible avec les personnages masculins. Ce mod fait partie de la série The Dreadful Tales.",
+        "description": "Le mod ajoute une nouvelle série de quêtes dans une nouvelle zone ainsi qu'un nouveau personnage recrutable : Xzelë Melaenitt une paladine de Evening Glory. Qui veut protéger ses amis, même après leur trépas. Elle ne se joindra à vous après être sûre que ses amis sont en sécurité et que rien de mal ne leur arrivera pendant qu'elle vous aide. Elle possède des banters, son propre kit et ses propres capacités. Une romance est possible avec les personnages masculins. Toutefois cela pourrait exiger certains changements.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=65",
             "https://forums.beamdog.com/discussion/87272/",
@@ -17361,6 +17371,7 @@
         "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Ina, une barde et une ancienne enseignante. Mais il y a autre chose que vous devez savoir sur elle : c'est un spectre. Une image de sa propre personne disparue depuis longtemps. Allez-vous la libérer de son sommeil dans la Vallée des Ombres ? Allez-vous la laisser rejoindre votre équipe et marcher à nouveau parmi les vivants ?|Le mod inclut des discussions avec le PJ, ainsi qu'une romance pour un personnage féminin. En raison de son état, la relation sera différente de celles entre deux vivants. Vous pouvez la recruter après la quête principale dans la Vallée des Ombres.",
         "urls": [
             "https://weaselmods.net/forumdisplay.php?fid=41",
+            "https://forums.beamdog.com/discussion/79344/",
             "https://downloads.weaselmods.net/download/ina/"
         ],
         "categories": [
@@ -17577,6 +17588,7 @@
         "description": "Après [[Tales of the Deep Gardens]], Lava récidive avec un nouvel opus de la série Colours of Infinity. Suivez un chemin au milieu des arbres pour découvrir un tout nouveau village à visiter : Innershade. Il connaît quelques problèmes ces derniers temps : certaines personnes ont disparu, et l'agresseur n'a jamais été vu. Vous devez arrêter les responsables, si vous le pouvez. Résoudre le problème ne suffira peut-être pas ; se débarasser de l'agresseur n'est que l'une des façons de gérer cette situation. La seconde, consiste à comprendre les motivations et le passé qui sont devenus un lourd fardeau. C'est à vous d'en juger.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=6",
+            "https://forums.beamdog.com/discussion/30982/",
             "https://downloads.weaselmods.net/download/innershade/"
         ],
         "categories": [
@@ -17642,7 +17654,7 @@
     {
         "id": 554,
         "name": "Interfaces améliorées pour IWD2",
-        "description": "Créé par Luren, ce mod français permet d'optimiser l'interface d'IWD2 modifiée par [[Widescreen]] et calée sur la gauche avec une large bande noire : Les fenêtres sont dorénavant correctement centrées et ne sont plus entourées de bandes noires. Le tout avec plusieurs résolutions d'écran.",
+        "description": "Ce mod permet d'optimiser l'interface d'IWD2 modifiée par [[Widescreen]] et calée sur la gauche avec une large bande noire : les fenêtres sont dorénavant correctement centrées et ne sont plus entourées de bandes noires. Le tout avec plusieurs résolutions d'écran.",
         "urls": [
             "https://havredest.eklablog.fr/interfaces-pour-widescreen-a42876917"
         ],
@@ -19090,9 +19102,10 @@
     {
         "id": 600,
         "name": "Khalid BG2",
-        "description": "Ce mod permet de décider qui peut rester dans le groupe pendant BG2 et ToB : Khalid ou Jaheira. Il place Khalid près de la cage de Jaheira. Aidez-le, et vous ne pourrez plus recruter Jaheira puisque c'est elle qui aura été emmenée par Irenicus, et Khalid la pleurera. Aidez Jaheira, et Khalid subira son sort initial. Faites votre choix !|Ce mod inclut un nouveau portrait, une nouvelle voix, un chemin de l'amitié, de nouvelles versions des quêtes du Baron Ployer et des problèmes avec les ménestrels, de nouveaux objets, et même la possibilité que Khalid obtienne un nouveau profil après l'Ombreterre. Il n'y a pas de romance, mais un nouveau chemin non romantique pour les PNJ masculins. Il s'agit d'une amitié profonde, mais non romantique, déclenchée par la relation difficile de Khalid avec ses demi-frères à Calimshan et la relation pas très fraternelle de l'enfant de Bhaal avec Sarevok et leur manque de père. Les PJ féminins reçoivent également quelque chose : un cadeau spécial que Jaheira a trouvé à l'époque de la Croisade et qu'elle a donné à Khalid, espérant qu'ils le donneraient un jour ensemble à leur chef.",
+        "description": "Ce mod permet de décider qui peut rester dans le groupe pendant BG2 et ToB : Khalid ou Jaheira. Il place Khalid près de la cage de Jaheira. Aidez-le, et vous ne pourrez plus recruter Jaheira puisque c'est elle qui aura été emmenée par Irenicus, et Khalid la pleurera. Aidez Jaheira, et Khalid subira son sort initial. Faites votre choix et... bien... vivez avec les conséquences.|Ce mod inclut un nouveau portrait, une nouvelle voix, un chemin de l'amitié, de nouvelles versions des quêtes du Baron Ployer et des problèmes avec les ménestrels, de nouveaux objets, et même la possibilité que Khalid obtienne un nouveau profil après l'Ombreterre.|Il n'y a pas de romance, mais un nouveau chemin non romantique pour les PNJ masculins. Il s'agit d'une amitié profonde, mais non romantique, déclenchée par la relation difficile de Khalid avec ses demi-frères à Calimshan et la relation pas très fraternelle de l'enfant de Bhaal avec Sarevok et leur manque de père. Les PJ féminins reçoivent également quelque chose : un cadeau spécial que Jaheira a trouvé à l'époque de la Croisade et qu'elle a donné à Khalid, espérant qu'ils le donneraient un jour ensemble à leur chef.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=58",
+            "https://forums.beamdog.com/discussion/82765/",
             "https://downloads.weaselmods.net/download/khalid-bg2/"
         ],
         "categories": [
@@ -19574,9 +19587,10 @@
     {
         "id": 615,
         "name": "L'anna",
-        "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : L'anna Falthisslar, une paladine elfe - Mythseeker of Mythrien Sarath. Aidez-la à trouver la lame sacrée connue sous le nom de Mythalass-Teel. Parlez-lui, apprenez-en plus sur son passé et sur les anciens lieux elfiques comme Myth Drannor, Myth Ondath ou Myth Rhynn. Aidez-la, et elle vous aidera dans enquête sur les événements étranges auxquels le Val de bise est confronté. Elle peut engager une romance avec les hommes elfes non mauvais. Vous pouvez la recruter dans la taverne de la Cave aux racines, à Kuldahar.",
+        "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : L'anna Falthisslar, une paladine elfe - Mythseeker of Mythrien Sarath. Aidez-la à trouver la lame sacrée connue sous le nom de Mythalass-Teel. Parlez-lui, apprenez-en plus sur son passé et sur les anciens lieux elfiques comme Myth Drannor, Myth Ondath ou Myth Rhynn. Aidez-la, et elle vous aidera dans enquête sur les événements étranges auxquels le Val de bise est confronté.|Elle peut engager une romance avec les hommes elfes d'alignement non mauvais.|Vous pouvez la recruter dans la taverne de la Cave aux racines, à Kuldahar.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=56",
+            "https://forums.beamdog.com/discussion/82596/",
             "https://downloads.weaselmods.net/download/lanna/"
         ],
         "categories": [
@@ -19795,7 +19809,7 @@
     {
         "id": 622,
         "name": "Le champion de Bhaal",
-        "description": "Créé par Cocrane sur ce site, ce mod français, fait partie d'un projet plus important, \"Le protecteur de Baldur\", en cours de réalisation, qui est une suite de BG1 après la mort de Sarevok. L'aventure commence à l'auberge du Heaume et de la cape où vous pourrez recruter vos fidèles compagnons de BG1 (3 nouveaux PNJ sont proposés). Vous rechercherez une sortie dans un donjon entouré de mystères liés à votre père, Bhaal. Le mod contient 16 nouvelles cartes pour environ 10 heures de jeu.",
+        "description": "Ce mod fait partie d'un projet plus important : `Le protecteur de Baldur`, en cours de réalisation, qui est une suite de BG1 après la mort de Sarevok. L'aventure commence à l'auberge du Heaume et de la cape où vous pourrez recruter vos fidèles compagnons de BG1 (3 nouveaux PNJ sont proposés). Vous rechercherez une sortie dans un donjon entouré de mystères liés à votre père, Bhaal. Le mod contient 16 nouvelles cartes pour environ 10 heures de jeu.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=32721",
             "https://github.com/Cocrane/Le_champion_de_Bhaal"
@@ -20353,6 +20367,7 @@
         "description": "Rencontez Lhannd Valdove, un rôdeur déchu chaotique bon. Il est issu d'une famille athkatlienne autrefois noble qui a perdu son héritage et sombré dans les problèmes. Allez-vous l'aider à briser ce que les autres considèrent comme une malédiction, ou la série d'événements malheureux va-t-elle se poursuivre ?||Le mod comprend des quêtes qui élargissent le quartier du gouvernement d'Athkatla, notamment l'ajout du domaine Valdove, situé au-dessus de la prison locale. Si vous êtes prêt à écouter Lhannd avec bienveillance, vous pourrez vous engager dans une relation amicale ou amoureuse qui vous aidera à mieux le connaître et... peut-être à découvrir son autre facette. Les hommes comme les femmes peuvent avoir une relation amoureuse avec lui, mais charname ne peut pas être chaotique mauvais pour que la relation puisse commencer.||Pour trouver Lhannd, aventurez-vous dans l'auberge du Crâne Tordu située aux portes de la ville. La première rencontre sert de point de départ à sa première quête.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=66",
+            "https://forums.beamdog.com/discussion/87427/",
             "https://downloads.weaselmods.net/download/lhannd/"
         ],
         "categories": [
@@ -21383,7 +21398,7 @@
     {
         "id": 675,
         "name": "Mang0's Hip Hop Mod",
-        "description": "Créé par SlidMang0 pour célébrer l'anniversaire du forum G3, ce mini mod délire apporte une toute nouvelle ambiance hip-hop à Baldur's Gate II. Irenicus, Bodhi, Mélissane et les membres de la main sont renommés Ice Cube, Dr. Dre, MC Ren et Eazy-E. Les têtes de pierre au début de ToB récitent maintenant les paroles de Gangsta Nation de Westside Connection. Le Puce devient 50 Cent. Les arbalètes et les carreaux sont aussi renommés.",
+        "description": "Créé pour célébrer l'anniversaire du forum G3, ce mini mod délire apporte une toute nouvelle ambiance hip-hop à Baldur's Gate II. Irenicus, Bodhi, Mélissane et les membres de la main sont renommés Ice Cube, Dr. Dre, MC Ren et Eazy-E. Les têtes de pierre au début de ToB récitent maintenant les paroles de Gangsta Nation de Westside Connection. Le Puce devient 50 Cent. Les arbalètes et les carreaux sont aussi renommés.",
         "urls": [
             "https://www.shsforums.net/files/file/1057-almaresurrections-mang0s-hip-hop-mod/"
         ],
@@ -21412,7 +21427,7 @@
     {
         "id": 676,
         "name": "Map Notes",
-        "description": "Créé par Dargor, ce mod français permet de donner un nom à toutes les zones du jeu afin de remédier au problème connu de [[BG1Tutu]] qui affiche toutes les zones de la même couleur, qu'elles soient ou non déjà visitées par le joueur. Les zones connues mais inaccessibles (comme la Porte de Baldur en début de partie) seront affichées en gris, les zones pas encore visitées (découvertes en sortant d'une carte) en bleu, et les zones visitées en blanc. Deux composants optionnels vous permettent d'afficher seulement les villes (masque la Barbe d'Ulgoth, le Festival et les Mines de Nashkel. Comme le joueur n'est pas censé les connaître ces zones, il devra les découvrir par lui-même) ou d'afficher toutes les zones (marque toutes les zones de la carte comme visitées. Fortement déconseillé).",
+        "description": "Ce mod permet de donner un nom à toutes les zones du jeu afin de remédier au problème connu de [[BG1Tutu]] qui affiche toutes les zones de la même couleur, qu'elles soient ou non déjà visitées par le joueur. Les zones connues mais inaccessibles (comme la Porte de Baldur en début de partie) seront affichées en gris, les zones pas encore visitées (découvertes en sortant d'une carte) en bleu, et les zones visitées en blanc. Deux composants optionnels vous permettent d'afficher seulement les villes (masque la Barbe d'Ulgoth, le Festival et les Mines de Nashkel. Comme le joueur n'est pas censé les connaître ces zones, il devra les découvrir par lui-même) ou d'afficher toutes les zones (marque toutes les zones de la carte comme visitées. Fortement déconseillé).",
         "urls": [
             "http://athanatos.free.fr/BG1TUTU/MapNotes/mapnotes_v102.exe"
         ],
@@ -23086,7 +23101,7 @@
     {
         "id": 728,
         "name": "Mystigan the Merchant",
-        "description": "Akadis a créé ce nouveau marchand que vous pourrez rencontrer dans le district du Gouvernement. Il propose toutes sortes de contenants (étuis à parchemins, sacs de gemmes et bien d'autres), mais également des fléchettes +2 et autres dagues de jet enchantées. Le mod nécessite ToB.",
+        "description": "Ce nouveau marchand que vous pourrez rencontrer dans le district du Gouvernement propose toutes sortes de contenants (étuis à parchemins, sacs de gemmes et bien d'autres), mais également des fléchettes +2 et autres dagues de jet enchantées. Le mod nécessite ToB.",
         "urls": [
             "https://akadis.baldursgateworld.fr/Mystigan/MystiganFr.html"
         ],
@@ -24015,7 +24030,7 @@
     {
         "id": 757,
         "name": "No Battle Music",
-        "description": "Créé par Platter, ce petit mod supprime les musiques de combat dans le jeu, sauf celles du combat final.",
+        "description": "Ce petit mod supprime les musiques de combat dans le jeu, sauf celles du combat final.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=PST&f=Torment/bmusic.zip"
         ],
@@ -24234,6 +24249,7 @@
         "description": "Ce mod ajoute un nouveau PNJ dans IWD:EE : une créature féérique sombre, un chasseur, que certains décrivent comme un humain ressemblant à un cerf. Pourtant, il n'est ni cerf, ni humain. Cet être inhabituel est le fils du Roi des cerfs, plus connu en Rashéménie. C'est un étranger, quelqu'un qui peut mettre mal à l'aise la plupart des hommes et des femmes de Gélointain (Frozenfar). Allez-vous risquer votre réputation et apprendre à mieux le connaître ? Serez-vous capable de le voir comme quelqu'un d'égal à vous-même ? Lui ferez-vous suffisamment confiance pour construire une éventuelle relation avec quelqu'un de si différent de tous les autres hommes du Val de Bise ?|Oak-Maw pourra se joindre à vous une fois que vous aurez trouvé et manipulé une pierre spéciale, marquée d'une rune lumineuse.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=42",
+            "https://forums.beamdog.com/discussion/79345/",
             "https://downloads.weaselmods.net/download/oak-maw/"
         ],
         "categories": [
@@ -24284,6 +24300,7 @@
         "name": "Of Heirlooms and Classes",
         "description": "Ce mod ajoute 12 artefacts (héritages) que vous pouvez re-fabriquer avec l'aide de Cromwell. Chaque objet est un héritage exclusif, lié à une classe particulière, et ne peut être utilisé que par cette classe. Tous les objets sont disponibles dans Shadows of Amn.",
         "urls": [
+            "https://forums.beamdog.com/discussion/83906/",
             "https://downloads.weaselmods.net/download/of-heirlooms-and-classes/"
         ],
         "categories": [
@@ -24476,7 +24493,7 @@
     {
         "id": 772,
         "name": "1pp: High-Quality Music for BGT",
-        "description": "Créé par pro5, ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable du mod BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT.",
+        "description": "Ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable du mod BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT.",
         "urls": [
             "https://www.shsforums.net/topic/50032-1pp-high-quality-music-for-soatob-tututosc-iwd-pst/page-4#entry567024"
         ],
@@ -24601,9 +24618,10 @@
     {
         "id": 777,
         "name": "Ooze's Lounge",
-        "description": "Ce mod ajoute une nouvelle zone dans les égouts d'Athkatla : le Salon des vases. Vous pouvez désormais utiliser la grille initialement inactive dans les bas quartiers pour entrer dans une partie verrouillée des égouts et découvrir ses endroits les plus sombres. Le mod propose trois nouvelles zones ainsi que quelques mini-quêtes, de nouveaux objets et de nouveaux graphismes. Rassemblez votre groupe et allez dans le Salon des vases, un lieu spécial avec des marchandises spéciales, inaccessible pour la plupart des gens ordinaires, mais disponible pour des aventuriers comme vous, Enfant de Bhaal.",
+        "description": "Ce mod ajoute une nouvelle zone dans les égouts d'Athkatla : le Salon des vases. Vous pouvez désormais utiliser la grille initialement inactive dans les bas quartiers pour entrer dans une partie verrouillée des égouts et découvrir ses endroits les plus sombres. Le mod propose trois nouvelles zones ainsi que quelques mini-quêtes, de nouveaux objets et de nouveaux graphismes. Rassemblez votre groupe et allez dans le Salon des vases, un lieu spécial avec des marchandises spéciales, inaccessible pour la plupart des gens ordinaires, mais disponible pour des aventuriers comme vous, Enfant de Bhaal.|Pour profiter de ce contenu, vous devez d'abord terminer une quête importante du Quartier du pont.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=5",
+            "https://forums.beamdog.com/discussion/70906/",
             "https://downloads.weaselmods.net/download/oozes-lounge/"
         ],
         "categories": [
@@ -24700,9 +24718,10 @@
     {
         "id": 780,
         "name": "Orra",
-        "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Kozakura, une femme au cœur honnête, qui vient d'une terre lointaine. Elle apprécie la tranquillité, la vérité et la compagnie. Écoutez ses histoires, parlez-lui, et peut-être deviendrez-vous amis. Le mod n'inclut pas de romance. Vous pouvez la recruter dès le début du jeu, à Havredest, sur la plate-forme en bois, non loin d'Elisia.",
+        "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Orra, une guerrière/mage/clerc. Une femme au cœur honnête, qui vient d'une terre lointaine de Kozakura. Elle apprécie la tranquillité, la vérité et la compagnie. Écoutez ses histoires, parlez-lui, et peut-être deviendrez-vous amis.|Le mod n'inclut pas de romance, raison qui sera expliqué lors de vos conversations. Vous pouvez la recruter dès le début du jeu, à Havredest, sur la plate-forme en bois, non loin d'Elisia.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=50",
+            "https://forums.beamdog.com/discussion/80771/",
             "https://downloads.weaselmods.net/download/orra/"
         ],
         "categories": [
@@ -25461,6 +25480,7 @@
         "description": "Le prolifique Lava vous présente une jeune petite-personne barde, bavarde, joueuse et un brin déjantée. Elle n'est pas très costaud mais devrait égayer votre groupe. La partie ToB n'est pas encore très développée, une nouvelle quête étant disponible dans la partie SoA. Les gnomes, nains et petites-personnes pourront accéder à sa romance, sans restriction de classes, ni d'alignements. Vous la trouverez dans la taverne de la Bonté marine.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=10",
+            "https://forums.beamdog.com/discussion/79868/",
             "https://downloads.weaselmods.net/download/petsy/"
         ],
         "categories": [
@@ -25761,7 +25781,7 @@
     {
         "id": 814,
         "name": "Planescape: Torment Ultimate WeiDU Fixpack",
-        "description": "Créé par Paul Escalona (alias Qwinn), ce mod rassemble les corrections réalisées par de nombreux moddeurs au fil des années, et converties au format WeiDU, plus compatible. Il ajoute également un bon nombre de corrections supplémentaires. En plus des nouvelles corrections faites par Qwinn, les corrections issues de trois mods non-WeiDU ont été intégrées dans ce mod: [Platter's Fixpack 1.37](https://sorcerers.net/Games/Torment/Platter/index.php), dont Platter est l'auteur principal, mais qui contient aussi les travaux de plusieurs autres contributeurs. Les corrections du Fixpack Beta 1.38, toujours de Platter, sont également incluses |[[Restoration Pack]], par Cilantro, alias Kung Fu Man (qui restaure plusieurs sorts, objets et autres, qui avaient été supprimés de la dernière version de PST).|\"SKARDAVNELNATE'S All-Inclusive Fixpack\", par SKARDAVNELNATE.|Notez que même si ce mod ne contient que des corrections de bogues, plusieurs de ces corrections ont pour résultat de restaurer du contenu non disponible dans le jeu original.|Il comprend trois composants : le premier comporte les principales corrections, le deuxième les corrections d'orthographe et de grammaire anglaise, le troisième rajoute des sous-titres aux dialogues des cinématiques qui étaient auparavant uniquement sous forme de dialogue audio/sonore.",
+        "description": "Ce mod rassemble les corrections réalisées par de nombreux moddeurs au fil des années, et converties au format WeiDU, plus compatible. Il ajoute également un bon nombre de corrections supplémentaires. En plus des nouvelles corrections faites par Qwinn, les corrections issues de trois mods non-WeiDU ont été intégrées dans ce mod: [Platter's Fixpack 1.37](https://sorcerers.net/Games/Torment/Platter/index.php), dont Platter est l'auteur principal, mais qui contient aussi les travaux de plusieurs autres contributeurs. Les corrections du Fixpack Beta 1.38, toujours de Platter, sont également incluses |[[Restoration Pack]], par Cilantro, alias Kung Fu Man (qui restaure plusieurs sorts, objets et autres, qui avaient été supprimés de la dernière version de PST).|\"SKARDAVNELNATE'S All-Inclusive Fixpack\", par SKARDAVNELNATE.|Notez que même si ce mod ne contient que des corrections de bogues, plusieurs de ces corrections ont pour résultat de restaurer du contenu non disponible dans le jeu original.|Il comprend trois composants : le premier comporte les principales corrections, le deuxième les corrections d'orthographe et de grammaire anglaise, le troisième rajoute des sous-titres aux dialogues des cinématiques qui étaient auparavant uniquement sous forme de dialogue audio/sonore.",
         "urls": [
             "https://www.shsforums.net/files/file/647-PST-ultimate-weidu-fixpack-v413/",
             "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/pstfixpack_v413_correctfr.7z"
@@ -26782,6 +26802,7 @@
         "description": "Anciennement Quayle Redone, ce mod permet de recruter Quayle en lieu et place d'Aerie qui doit être morte. Le gnome dispose d'une mini-quête et de dialogues avec les PNJ de Bioware et le PJ pour SoA comme pour ToB.|FOR 8, DEX 15, CON 11, INT 17, SAG 10, CHA 6.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=11",
+            "https://forums.beamdog.com/discussion/78889/",
             "https://downloads.weaselmods.net/download/quayle-bg2/"
         ],
         "categories": [
@@ -28862,7 +28883,7 @@
     {
         "id": 907,
         "name": "Rodeur de l'ombre",
-        "description": "Créé sur LCC, ce mod français ajoute un nouveau profil de rôdeur, réservé aux humains, elfes et demi-elfes, d'alignement loyal mauvais ou neutre mauvais.",
+        "description": "Ce mod ajoute un nouveau profil de rôdeur, réservé aux humains, elfes et demi-elfes, d'alignement loyal mauvais ou neutre mauvais. Les rôdeurs de l'ombre forment une secte secrète affiliée aux Druides de l'ombre. Ils prônent le pouvoir de la nuit et des ombres qui la peuplent, et n'hésitent pas à recourir à des ruses machiavéliques pour parvenir à leur fin. Ils vénèrent en général la sombre déesse Shar et murmurent son nom lorsqu'ils tranchent la gorge de leurs adversaires dans la pénombre. Les Rôdeurs de l'ombre sont de dangereux combattants capables de faire appel aux ombres pour les épauler...",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=23996",
             "https://forums.beamdog.com/discussion/79293",
@@ -29406,8 +29427,8 @@
     },
     {
         "id": 924,
-        "name": "Selphira Tweaks",
-        "description": "Créé par Selphira, ce mod français modifie certains aspects du jeu (effets du charisme et de la réputation sur les prix, progression des sorts pour chaque classe, érudition des classes, attaque par round bonus des compétences martiales et adaptation des bonus d'expérience des pièges.",
+        "name": "SelphiraTweaks",
+        "description": "Ce mod modifie certains aspects du jeu (effets du charisme et de la réputation sur les prix, progression des sorts pour chaque classe, érudition des classes, attaque par round bonus des compétences martiales et adaptation des bonus d'expérience des pièges.",
         "urls": [
             "https://github.com/Selphira/SelphiraTweaks"
         ],
@@ -29429,8 +29450,7 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "fr",
-            "en"
+            "fr"
         ],
         "status": "active",
         "last_update": "2022-11",
@@ -29644,6 +29664,7 @@
         "description": "Ce mod ajoute pas moins de 36 nouvelles quêtes et rencontres dans BG, afin de rendre la plupart des zones que vous connaissez bien, et souvent dépourvues d'intérêt, encore plus intéressantes. À l'occasion, il vous permettra de rencontrer de nouvelles espèces de créatures...",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=51",
+            "https://forums.beamdog.com/discussion/81003/",
             "https://downloads.weaselmods.net/download/shades-of-the-sword-coast/"
         ],
         "categories": [
@@ -30135,7 +30156,7 @@
     {
         "id": 947,
         "name": "Sheena - The Half Dragon Tale",
-        "description": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ?|FOR 16, DEX 12, CON 16, INT 15, SAG 10, CHA 15. Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).|Forme humaine : FOR 16, DEX 12, CON 16, INT 15, SAG 10, CHA 15.|Forme draconique : FOR 20, DEX 12, CON 18, INT 15, SAG 10, CHA 15.",
+        "description": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ?|Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).|Forme humaine : FOR 16, DEX 12, CON 16, INT 15, SAG 10, CHA 15.|Forme draconique : FOR 20, DEX 12, CON 18, INT 15, SAG 10, CHA 15.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/download.php",
             "https://forums.beamdog.com/discussion/60784/",
@@ -30562,6 +30583,7 @@
         "description": "Un nouveau mod de Lava qui traite de Skie. Siege of Dragonspear a donné à la fille d'Entar Écudargent un rôle très important dans l'intrigue, et ce mod donne au joueur la possibilité de la poursuivre dans la partie BG2 du jeu. Il comprend trois composants :|- Une nouvelle quête pour BG2:EE qui donne au joueur une chance de sauver Skie après ce qui s'est passé dans SoD. Cependant, la sauver a un prix. Le mod commence dans le donjon d'Irenicus, lorsque vous trouvez l'objet de la quête principale.|- Skie peut être recrutée si vous parvenez à l'aider. Elle vous cherchera un peu plus tard dans certaines auberges, alors n'oubliez pas de vous arrêter et de vous reposer de temps en temps. Elle disposera de nombreuses interactions, mais pas de romance.|- Sur la Promenade de Waukyne, un nouveau marchand vend des objets ayant une relation avec certains personnages, lieux ou événements de SoD. Ce composant peut être installé indépendamment des autres.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=9",
+            "https://forums.beamdog.com/discussion/68711/",
             "https://downloads.weaselmods.net/download/skie-the-cost-of-one-girls-soul/"
         ],
         "categories": [
@@ -30911,6 +30933,8 @@
         "name": "Snowytoes Hamlet",
         "description": "Les étendues neigeuses du Val de bise cachent de nombreux secrets. Et vous y trouverez peut-être un refuge sûr. Pas seulement Kuldahar, mais aussi de plus petits hameaux comme Snowytoes - une colonie de halflings qui ont décidé que même les vents glacés et les animaux sauvages ne les effraieraient pas. Allez visiter ce lieu, parlez à ses habitants et voyez si vous pouvez les aider à rendre leur vie un peu plus facile... car une étrange puissance se réveille sous la neige dans une vallée voisine.",
         "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=60",
+            "https://forums.beamdog.com/discussion/85092/",
             "https://downloads.weaselmods.net/download/snowytoes-hamlet/"
         ],
         "categories": [
@@ -30998,7 +31022,7 @@
     {
         "id": 974,
         "name": "Solestia NPC",
-        "description": "Créé par plainab (ancien modeur de l'équipe TeamBG), ce petit mod ajoute un PNJ spécial dans le jeu : Solestia De'Luna. Originaire de Gullykin, cette bretteuse a l'apparence d'une humaine mais est en fait en partie halfelin. Son armure est un héritage familial et elle ne veut pas s'en séparer (petite astuce pour empêcher le jeu de changer son animation en halfling lorsqu'elle change d'armure). Vous la trouverez dans la Couronne de Cuivre avec ses deux cousins halfelins, Shorty et Slinger, qui effectuent des livraisons de vin. Vous n'aurez que trois chances de la recruter : lors de votre première conversation initiale, et deux autres lors de vos visites suivantes à l'auberge. Considérant insultant chaque rejet de ses offres de service, elle et ses cousins finiront par devenir violents.|FOR 16, DEX 17, CON 12, INT 12, SAG 8, CHA 14.",
+        "description": "Ce petit mod ajoute un PNJ spécial dans le jeu : Solestia De'Luna. Originaire de Gullykin, cette bretteuse a l'apparence d'une humaine mais est en fait en partie halfelin. Son armure est un héritage familial et elle ne veut pas s'en séparer (petite astuce pour empêcher le jeu de changer son animation en halfling lorsqu'elle change d'armure). Vous la trouverez dans la Couronne de Cuivre avec ses deux cousins halfelins, Shorty et Slinger, qui effectuent des livraisons de vin. Vous n'aurez que trois chances de la recruter : lors de votre première conversation initiale, et deux autres lors de vos visites suivantes à l'auberge. Considérant insultant chaque rejet de ses offres de service, elle et ses cousins finiront par devenir violents.|FOR 16, DEX 17, CON 12, INT 12, SAG 8, CHA 14.",
         "urls": [
             "https://www.shsforums.net/topic/45601-missing-mods/page-2#entry492803"
         ],
@@ -31010,7 +31034,7 @@
             "BGT"
         ],
         "authors": [
-            "plainab"
+            "Sasha al'Therin"
         ],
         "team": [],
         "notes": [],
@@ -31207,6 +31231,7 @@
         "description": "Ce mod a pour but de rendre les premières heures du jeu plus intéressantes, car certains joueurs se sont peut-être lassés de faire les mêmes quêtes encore et encore. Il ajoute donc un nouveau quartier dans d'Athkatla : Bord Sud, accessible une fois que vous avez parlé à Gaelan et entendu son offre. La zone n'est pas aussi grande que celle des Bas Quartiers ou du Quartier du pont, mais elle a sa propre quête principale (initiée par une petite-personne nommée Maïro Claqueboue) et une série de mini-quêtes et de rencontres initiées par de nouveaux personnages et d'autres que vous avez déjà rencontrés.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=5",
+            "https://forums.beamdog.com/discussion/62845/",
             "https://downloads.weaselmods.net/download/southern-edge/"
         ],
         "categories": [
@@ -33215,7 +33240,7 @@
     {
         "id": 1043,
         "name": "Terror of the Skineater",
-        "description": "Ce mod ajoute une petite quête dans IWD:EE qui vous mènera dans une forêt sombre, une zone de mort et de désespoir. Trouverez-vous un moyen de traquer le Mangepeau - un puissant monstre qui terrorise la région ? Et découvrirez-vous la vérité sur ses origines ?Ce mod ajoute une petite quête dans IWD:EE qui vous mènera dans une forêt sombre, une zone de mort et de désespoir. Trouverez-vous un moyen de traquer le Mangepeau - un puissant monstre qui terrorise la région ? Et découvrirez-vous la vérité sur ses origines ?|Pour commencer la quête, parlez à un homme qui se trouve à proximité juste après votre arrivée à Kuldahar. Bien que la quête soit disponible dès le début, vous devrez peut-être acquérir une certaine expérience avant de vous rendre dans la nouvelle zone.",
+        "description": "Ce mod ajoute une petite quête dans IWD:EE qui vous mènera dans une forêt sombre, une zone de mort et de désespoir. Trouverez-vous un moyen de traquer le Mangepeau - un puissant monstre qui terrorise la région ? Et découvrirez-vous la vérité sur ses origines ?|Pour commencer la quête, parlez à un homme qui se trouve à proximité juste après votre arrivée à Kuldahar. Bien que la quête soit disponible dès le début, vous devrez peut-être acquérir une certaine expérience avant de vous rendre dans la nouvelle zone.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=48",
             "https://downloads.weaselmods.net/download/terror-of-the-skineater/"
@@ -34591,7 +34616,7 @@
     {
         "id": 1084,
         "name": "Secret of Bone Hill",
-        "description": "Qu'est-ce que Secret of Bone Hill ? Hé bien c'est un gros mod de quête pour BG1 (BGT requis), créé par Sir BillyBob, qui adapte deux scénarios de jeu de rôle papier : L1 et L2 dans l'univers Greyhawk. Au programme : des dizaines de nouvelles cartes, des magasins, des quêtes et un personnage recrutable (Fabio).|L'histoire en elle-même se passe sur l'île de Lendore, à proximité de la ville de Restenford. Pelltar, un mage que vous rencontrez dans le temple de Lathandre au chapitre 4 (dès que vous avez fini les mines de Nashkel et que vous pouvez vous rendre au camp des bandits), sera à même de vous y téléporter et de vous en sortir, une fois votre aide apportée au village.|La 1ère partie est pré-requise pour débloquer la 2nde que vous pourrez atteindre après votre sortie des catacombes de Château-Suif. Vous rencontrerez là Fabio (un barde humain) ou Pelltar qui vous demanderont de retourner à Restenford avec eux, pour élucider cette fois-ci un mystérieux meurtre...",
+        "description": "Qu'est-ce que Secret of Bone Hill ? Hé bien c'est un gros mod de quête pour BG1 (BGT requis) qui adapte deux scénarios de jeu de rôle papier : L1 et L2 dans l'univers Greyhawk. Au programme : des dizaines de nouvelles cartes, des magasins, des quêtes et un personnage recrutable (Fabio).|L'histoire en elle-même se passe sur l'île de Lendore, à proximité de la ville de Restenford. Pelltar, un mage que vous rencontrez dans le temple de Lathandre au chapitre 4 (dès que vous avez fini les mines de Nashkel et que vous pouvez vous rendre au camp des bandits), sera à même de vous y téléporter et de vous en sortir, une fois votre aide apportée au village.|La 1ère partie est pré-requise pour débloquer la 2nde que vous pourrez atteindre après votre sortie des catacombes de Château-Suif. Vous rencontrerez là Fabio (un barde humain) ou Pelltar qui vous demanderont de retourner à Restenford avec eux, pour élucider cette fois-ci un mystérieux meurtre...",
         "urls": [
             "https://www.shsforums.net/files/file/1076-the-secret-of-bonehill/",
             "https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507",
@@ -37058,16 +37083,15 @@
             "Magus"
         ],
         "team": [],
-        "notes": [
-            "Le [[BWS-FR Fixpack]] propose une traduction française."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
             "en",
             "pt",
             "ru",
-            "se"
+            "se",
+            "fr"
         ],
         "status": "active",
         "last_update": "2025-03",
@@ -38663,7 +38687,8 @@
         "description": "Ce petit mod tente d'apporter un peu moins de linéarité et des opportunités rôlistes différentes dans ToB, et notamment le chapitre 9. Plus besoin d'attendre d'en avoir décousu avec Sendaï et Abazigal pour pouvoir entrer dans le monastère de Balthazar. Les dialogues de ces 3 protagonistes s'adapteront alors en conséquence à vos choix de jeu. Des dialogues supplémentaires avec Amélissane et Elminster ont été ajoutés, et ceux avec Carras, Saemon, Faheed, Zahee, et Le Solaire modifiés. Bien que le mod ne soit pas présenté comme un challenge tactique, il ajoute quelques rencontres supplémentaires pendant vos négociations avec les membres de la Main. Enfin, il inclut le mini-mod [[Restored ToB Heads]] (restaure une conversation avec les visages de pierre dans la forêt du Nord), et de manière plus générale ajoute de petites modifications pour implémenter du contenu qui ne l'est pas dans le jeu original (notamment avec les contrebandiers d'Amkethran).",
         "urls": [
             "https://www.gibberlings3.net/mods/quests/wheels",
-            "https://github.com/Gibberlings3/WheelsOfProphecy"
+            "https://github.com/Gibberlings3/WheelsOfProphecy",
+            "https://github.com/abalabokhin/WheelsOfProphecy"
         ],
         "categories": [
             "Quête"
@@ -38678,7 +38703,9 @@
             "DavidW"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Le dernier lien propose un fix."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -39387,7 +39414,7 @@
     {
         "id": 1235,
         "name": "iiXando",
-        "description": "Créé par igi, iiXando est un mod assez particulier puisque c'est l'unique conversion totale a avoir été réalisée en un jour ! Bref, c'est... très spécial.",
+        "description": "iiXando est un mod assez particulier puisque c'est l'unique conversion totale a avoir été réalisée en un jour ! Bref, c'est... très spécial.",
         "urls": [
             "https://baldur.cob-bg.pl/node/1495",
             "https://github.com/btigi/iixando"
@@ -39841,7 +39868,7 @@
     {
         "id": 1249,
         "name": "iiKey Names",
-        "description": "Créé par igi, ce petit mod permet de modifier le nom des clés du jeu une fois qu'on les a utilisées. Ainsi, on peut s'en séparer sans crainte pour ne pas encombrer son inventaire.",
+        "description": "Ce petit mod permet de modifier le nom des clés du jeu une fois qu'on les a utilisées. Ainsi, on peut s'en séparer sans crainte pour ne pas encombrer son inventaire.",
         "urls": [
             "https://github.com/btigi/iiKeyNames"
         ],
@@ -39871,7 +39898,7 @@
     {
         "id": 1250,
         "name": "iiLearn Through Use",
-        "description": "Créé par igi, ce petit mod s'efforce d'ajouter un peu de réalisme dans le jeu en modifiant le processus d'acquisition de points de compétences martiales. Le joueur ne les obtiendra plus pour des armes qu'il n'a jamais vues, et encore moins utilisées. Désormais, ils ne dépendront plus du niveau des personnages, mais de l'arme et de la durée pendant laquelle ils se sont battus (alors que les compétences seront limitées par les limites de classe). Si vous utilisez certaines armes assez longtemps, vous apprendrez à mieux les manier, même si vous ne tuez pas plusieurs milliers de créatures ou n'accomplissez pas plusieurs quêtes.|Un point de compétence est accordé après un nombre déterminé de coups réussis. Le programme d'installation vous permet de choisir le nombre de coups nécessaires pour obtenir chacun des 5 points de compétences martiales. De plus, en option, vous pouvez décider de rendre obligatoire un entraînement avant de valider vos points, gratuitement ou pas.",
+        "description": "Ce petit mod s'efforce d'ajouter un peu de réalisme dans le jeu en modifiant le processus d'acquisition de points de compétences martiales. Le joueur ne les obtiendra plus pour des armes qu'il n'a jamais vues, et encore moins utilisées. Désormais, ils ne dépendront plus du niveau des personnages, mais de l'arme et de la durée pendant laquelle ils se sont battus (alors que les compétences seront limitées par les limites de classe). Si vous utilisez certaines armes assez longtemps, vous apprendrez à mieux les manier, même si vous ne tuez pas plusieurs milliers de créatures ou n'accomplissez pas plusieurs quêtes.|Un point de compétence est accordé après un nombre déterminé de coups réussis. Le programme d'installation vous permet de choisir le nombre de coups nécessaires pour obtenir chacun des 5 points de compétences martiales. De plus, en option, vous pouvez décider de rendre obligatoire un entraînement avant de valider vos points, gratuitement ou pas.",
         "urls": [
             "https://github.com/btigi/iiLearnThroughUse"
         ],
@@ -39902,7 +39929,7 @@
     {
         "id": 1251,
         "name": "iiProjectile Retrieval",
-        "description": "Créé par igi, ce petit mod permet au joueur de récupérer les projectiles qu'il a lancés et qui ont atteint leur cible, les autres étant perdus. Des options permettent de personnaliser l'installation :|- Chance de récupérer les projectiles.|- Quel type de projectile est récupéré : seulement les projectiles non magiques, tous les projectiles, tous les projectiles sont récupérés dans leur version normale (ex: on tire une flèche +1 et on récupère une flèche normale), les projectiles magiques sont récupérés dégradés (ex: on tire une flèche +2 et on récupère une flèche +1, on tire une flèche +1 et on récupère une flèche normale...).",
+        "description": "Ce petit mod permet au joueur de récupérer les projectiles qu'il a lancés et qui ont atteint leur cible, les autres étant perdus. Des options permettent de personnaliser l'installation :|- Chance de récupérer les projectiles.|- Quel type de projectile est récupéré : seulement les projectiles non magiques, tous les projectiles, tous les projectiles sont récupérés dans leur version normale (ex: on tire une flèche +1 et on récupère une flèche normale), les projectiles magiques sont récupérés dégradés (ex: on tire une flèche +2 et on récupère une flèche +1, on tire une flèche +1 et on récupère une flèche normale...).",
         "urls": [
             "https://github.com/btigi/iiProjectileR"
         ],
@@ -39936,7 +39963,7 @@
     {
         "id": 1252,
         "name": "iiSpell System Adjustment",
-        "description": "Créé par igi, ce petit mod change le mécanisme de lancement des sorts en permettant aux utilisateurs de magie profane et divine de regagner des sorts sans avoir besoin de se reposer. Il autorise ainsi une nouvelle façon de jouer : les mages et les prêtres peuvent être joués comme une classe de sorcier plus flexible, et de nouvelles tactiques sont possibles, car les sorts peuvent devenir disponibles au milieu d'une bataille.|Vous pouvez personnaliser le délai pour récupérer un sort, de ne récupérer un sort que si l'incantation a réussi ou même si elle a échoué (par exemple si elle a été interrompue). Le tout par niveau de sort. De la même manière, des composants optionnels vous permettent de déterminer de la même manière quel montant d'XP vous gagnez en lançant des sorts.|Notez que ce mod peut sérieusement affecter le jeu et s'applique également aux lanceurs de sorts ennemis. Avec un mod comme [[Sword Coast Stratagems]], les mages ennemis utiliseront - inconsciemment - cette récupération de sorts à leur avantage.",
+        "description": "Ce petit mod change le mécanisme de lancement des sorts en permettant aux utilisateurs de magie profane et divine de regagner des sorts sans avoir besoin de se reposer. Il autorise ainsi une nouvelle façon de jouer : les mages et les prêtres peuvent être joués comme une classe de sorcier plus flexible, et de nouvelles tactiques sont possibles, car les sorts peuvent devenir disponibles au milieu d'une bataille.|Vous pouvez personnaliser le délai pour récupérer un sort, de ne récupérer un sort que si l'incantation a réussi ou même si elle a échoué (par exemple si elle a été interrompue). Le tout par niveau de sort. De la même manière, des composants optionnels vous permettent de déterminer de la même manière quel montant d'XP vous gagnez en lançant des sorts.|Notez que ce mod peut sérieusement affecter le jeu et s'applique également aux lanceurs de sorts ennemis. Avec un mod comme [[Sword Coast Stratagems]], les mages ennemis utiliseront - inconsciemment - cette récupération de sorts à leur avantage.",
         "urls": [
             "https://www.shsforums.net/files/file/961-iispellsystemadjustments/",
             "https://github.com/btigi/iiSpellSystemAdjustments"
