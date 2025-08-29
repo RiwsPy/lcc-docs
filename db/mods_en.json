@@ -1498,7 +1498,7 @@
     },
     {
         "id": 102,
-        "description": "Created for BG with its Tales of the Sword Coast expansion, this mod adds a new blacksmith located at the Brasamical Inn: Thorengrim Poingmarteau. He sells new items and, like Cromwell, can improve 11 others. In addition to its merchant aspect, this mod adds 3 new encounters: ogres in the Bandit Camp, a duergar and his menagerie in the Nashkel mines, and drunken sailors trying to rob you at Baldur's Gate.",
+        "description": "Created for BG with its Tales of the Sword Coast expansion, this mod adds a new blacksmith located at the Friendly Arm Inn: Thorengrim Poingmarteau. He sells new items and, like Cromwell, can improve 11 others. In addition to its merchant aspect, this mod adds 3 new encounters: ogres in the Bandit Camp, a duergar and his menagerie in the Nashkel mines, and drunken sailors trying to rob you at Baldur's Gate.",
         "description_meta": {
             "status": "needs_review",
             "source": "Créé pour BG avec son extension Tales of the Sword Coast, ce mod ajoute un nouveau forgeron situé à l'Auberge de Brasamical : Thorengrim Poingmarteau. Celui vend de nouveaux objets et, à l'instar de Cromwell, peut en améliorer 11 autres. Outre son aspect marchand, ce mod ajoute 3 nouvelles rencontres : des ogres dans le Camp des Bandits, un duergar et sa ménagerie dans les mines de Nashkel, et enfin des marins saouls qui tenteront de vous détrousser à la Porte de Baldur."
@@ -6098,7 +6098,7 @@
     },
     {
         "id": 420,
-        "description": "This mod provides 2 different versions of chapter 6. Returning to Candlekeep becomes a secondary quest without involving the Iron Throne. If you go to Candlekeep before investigating the Iron Throne headquarters, Eltan will give you another mission to complete in chapter 6.|To experience the mod, a mission order will have to be obtained from \"Bentley\" (Brasamical Inn) or \"La Balafre\" (during the initial encounter only and only if the PC admits to having cleared the Nashkel mines) during chapter 5.",
+        "description": "This mod provides 2 different versions of chapter 6. Returning to Candlekeep becomes a secondary quest without involving the Iron Throne. If you go to Candlekeep before investigating the Iron Throne headquarters, Eltan will give you another mission to complete in chapter 6.|To experience the mod, a mission order will have to be obtained from \"Bentley\" (Friendly Arm Inn) or \"La Balafre\" (during the initial encounter only and only if the PC admits to having cleared the Nashkel mines) during chapter 5.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod fournit 2 versions différentes du chapitre 6. Retourner à Château-Suif devient une quête secondaire sans impliquer le Trône de Fer. Si vous allez à Château-Suif avant d'enquêter dans le quartier général du Trône de Fer, Eltan vous confira une autre mission à accomplir au chapitre 6.|Pour expérimenter le mod, un ordre de mission devra être obtenu auprès de \"Bentley\" (Auberge de Brasamical) ou de \"La Balafre\" (lors de la rencontre initiale uniquement et seulement si le PC admet avoir nettoyé les mines de Nashkel) au cours du chapitre 5."
@@ -6408,7 +6408,7 @@
     },
     {
         "id": 442,
-        "description": "This mod sends recruitable NPCs to the Brasamical inn, except for Rasaad who goes to Nashkel to fulfill his quest. An optional component allows the group to teleport once a day to the inn using a teleportation stone sold by Bentley Ombremiroir, as well as two others in Baldur's Gate and Nashkel. Another component offers the special ability to teleport back to one's place of origin. This lasts only one hour (real time) after using a teleportation stone.",
+        "description": "This mod sends recruitable NPCs to the Friendly Arm inn, except for Rasaad who goes to Nashkel to fulfill his quest. An optional component allows the group to teleport once a day to the inn using a teleportation stone sold by Bentley Ombremiroir, as well as two others in Baldur's Gate and Nashkel. Another component offers the special ability to teleport back to one's place of origin. This lasts only one hour (real time) after using a teleportation stone.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod permet d'envoyer les PNJ recrutables dans l'auberge de Brasamical, sauf Rasaad qui se rend à Nashkel pour respecter sa quête. Un composant optionnel permet au groupe de se téléporter une fois par jour dans l'auberge grâce à une pierre de téléportation vendue par Bentley Ombremiroir, ainsi que deux autres dans Baldur's Gate et à Nashkel. Un autre composant offre la capacité spéciale de se téléporter à nouveau vers son lieu d'origine. Celle-ci ne dure qu'une heure (temps réel) après avoir utilisé une pierre de téléportation."
@@ -8125,7 +8125,7 @@
     },
     {
         "id": 561,
-        "description": "Tired of knowing (and therefore metagaming) that the Arcane Ring lies at the foot of Brasamical? Or that you can find a suit of ankheg armor warm in a field in Nashkel? Bring something new and unexpected to your games with this mod! It randomizes the position of the items you can find in BG1 and BG2 (up to several hundred in each opus).|It has two installation modes: mode 1 (randomize by scripts) lets you assign the position of items to each new game. Mode 2 (randomize by WeiDU) does this when the mod is installed, and is therefore less flexible, but it affects more items and is more reliable, so is recommended.|It must be installed AFTER all mods that move items or add new ones. For compatibility with other mods, please refer to [readme](https://gibberlings3.github.io/Documentation/readmes/readme-randomiser.html).",
+        "description": "Tired of knowing (and therefore metagaming) that the Arcane Ring lies at the foot of Friendly Arm? Or that you can find a suit of ankheg armor warm in a field in Nashkel? Bring something new and unexpected to your games with this mod! It randomizes the position of the items you can find in BG1 and BG2 (up to several hundred in each opus).|It has two installation modes: mode 1 (randomize by scripts) lets you assign the position of items to each new game. Mode 2 (randomize by WeiDU) does this when the mod is installed, and is therefore less flexible, but it affects more items and is more reliable, so is recommended.|It must be installed AFTER all mods that move items or add new ones. For compatibility with other mods, please refer to [readme](https://gibberlings3.github.io/Documentation/readmes/readme-randomiser.html).",
         "description_meta": {
             "status": "needs_review",
             "source": "Fatigué de savoir (et donc de faire du méta-jeu) que l'anneau des arcanes se trouve au pied de Brasamical ? Ou que vous pouvez trouver une armure d'ankheg au chaud dans un champ à Nashkel ? Donnez du neuf et de l'imprévu à vos parties avec ce mod ! Il rend aléatoire la position des objets que vous pouvez trouver dans BG1 et BG2 (jusqu'à plusieurs centaines dans chaque opus).|Il dispose de deux modes d'installation : le mode 1 (rendre aléatoire par les scripts) permet d'affecter la position des objets à chaque nouvelle partie. Le mode 2 (rendre aléatoire par WeiDU) le fait à l'installation du mod et est donc moins souple, mais il affecte plus d'objets et il est plus fiable, donc recommandé.|Il doit être installé nécessairement APRÈS tous les mods déplaçant les objets ou en ajoutant de nouveaux. Pour la compatibilité avec les autres mods, référez-vous au [readme](https://gibberlings3.github.io/Documentation/readmes/readme-randomiser.html)."
@@ -14776,7 +14776,7 @@
     },
     {
         "id": 1018,
-        "description": "This mod brings around 30 new items and a store, accessible through the completion of a quest starting at Brasamical.",
+        "description": "This mod brings around 30 new items and a store, accessible through the completion of a quest starting at Friendly Arm.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod apporte environ 30 nouveaux objets et un magasin, accessibles au travers de la réalisation d'une quête commençant au Brasamical."
@@ -14881,10 +14881,10 @@
     },
     {
         "id": 1025,
-        "description": "There are many places marked by the bitter taste of loss and death. A frozen pond, known as the Pond of the Drowned, is one such place. It howls, begging to be changed. Will you be the one to bring peace to this snow-covered place... or will you cause even more suffering? |Conte de Notre-Dame sans rêves adds a new little quest to IWD:EE. To start it, follow the main quest. Once you've found a certain book, a new area of the world map will be discovered. Explore it when you're ready.",
+        "description": "There are many places marked by the bitter taste of loss and death. A frozen pond, known as the Pond of the Drowned, is one such place. It screams, begging for change. Will you be the one to bring peace to that snow-covered place... or will you cause even more pain?|The mod adds a new small quest to Icewind Dale: Enhanced Edition. To start it, follow the main quest. Once you find a certain book, a new worldmap area will be discovered. Visit it once you're ready.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Il existe de nombreux endroits marqués par le goût amer de la perte et de la mort. Un étang gelé, connu sous le nom d'Étang des noyés, est l'un de ces endroits. Il hurle, suppliant qu'on le change. Serez-vous celui ou celle qui apportera la paix à cet endroit recouvert de neige... ou causerez-vous encore plus de souffrance ? |Conte de Notre-Dame sans rêves ajoute une nouvelle petite quête dans IWD:EE. Pour la commencer, suivez la quête principale. Une fois que vous aurez trouvé un certain livre, une nouvelle zone de la carte du monde sera découverte. Explorez-la une fois que vous serez prêt(e)."
+            "status": "done",
+            "source": "Il existe de nombreux endroits marqués par le goût amer de la perte et de la mort. Un étang gelé, connu sous le nom d'Étang des noyés, est l'un de ces endroits. Il hurle, suppliant qu'on le change. Serez-vous celui ou celle qui apportera la paix à cet endroit recouvert de neige... ou causerez-vous encore plus de souffrance ?|Conte de Notre-Dame sans rêves ajoute une nouvelle petite quête dans IWD:EE. Pour la commencer, suivez la quête principale. Une fois que vous aurez trouvé un certain livre, une nouvelle zone de la carte du monde sera découverte. Explorez-la une fois que vous serez prêt(e)."
         },
         "notes": [],
         "notes_meta": {
@@ -14911,10 +14911,10 @@
     },
     {
         "id": 1027,
-        "description": "Your last visions of Athkatla fade as you wake up in an unfamiliar place. Voices and footsteps can be heard in the distance... but where are you? And that headache that just won't stop. Explore this enigmatic realm of mysteries, talk to the locals, solve the riddles, battle the Colored Essences and try to awaken from this dream that could well lose you. TotDG is a new adventure that adds new areas, encounters, items and spells.",
+        "description": "The last thing you remember is a mage on the streets of Athkatla, the building of the Council of Six, the trees and mansions of the Government District. Now you feel only humid air and cold ground... You try to open your eyes, but you are not sure if your senses are to be believed. You are barely able to recognize shapes around you... Crooked trees, bantam buildings, colourful mists... Your head aches. It is impossible for you to focus... Suddenly, you realize something. You hear voices and footsteps... You are not alone in this unknown place.|TotDG is a new adventure that adds new areas, encounters, items and spells.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Vos dernières visions d'Athkatla s'estompent alors que vous vous réveillez dans un lieu inconnu. Des voix et des pas se font entendre au loin... mais où êtes-vous donc ? Et ce mal de tête qui ne veut pas s'arrêter. Explorez cet énigmatique royaume de mystères, abordez les habitants du lieu, résolvez ses énigmes, combattez les Essences Colorées et tentez de vous éveiller de ce rêve qui pourrait bien vous perdre. TotDG est une nouvelle aventure qui ajoute de nouvelles zones, rencontres, objets et sorts."
+            "status": "done",
+            "source": "La dernière chose dont vous vous souvenez, c'est un mage dans les rues d'Athkatla, le bâtiment du Conseil des Six, les arbres et les demeures du quartier du gouvernement. À présent, vous ne sentez plus que l'air humide et le sol froid... Vous essayez d'ouvrir les yeux, mais vous ne savez pas si vous pouvez vous fier à vos sens. Vous distinguez à peine les formes autour de vous... Des arbres tordus, des bâtiments rabougris, des brumes colorées... Vous avez mal à la tête. Vous n'arrivez pas à vous concentrer... Soudain, vous réalisez quelque chose. Vous entendez des voix et des pas... Vous n'êtes pas seul(e) dans cet endroit inconnu.|TotDG est une nouvelle aventure qui ajoute de nouvelles zones, rencontres, objets et sorts."
         },
         "notes": [],
         "notes_meta": {
@@ -14950,9 +14950,9 @@
     },
     {
         "id": 1030,
-        "description": "This mod adds a new area to the town of Athkatla. Once an independent village on an island, the island of Tangled Oak has become part of Athkatla. As the town grew, so did the island, which can now be reached not only by boat, but also by bridge. Although the island is legally part of the City of Money, it has retained its identity, mainly thanks to its villagers and the symbol that unites them: the Tangled Oak that grows between the houses.|In addition, the hooded Magi don't seem to have much interest in what used to be called the Village of the Tangled Oak, and consider those who live there to have been insignificant to Athkatla for a long time. This means that the islanders are left to their own devices when it comes to solving problems. And a serious problem is threatening this peaceful place. Will you, the hero of Baldur's Gate, help restore peace to the island?",
+        "description": "This mod adds a new area to the town of Athkatla. Once an independent village located on an Isle, the Tangled Oak Isle became the part of Athkatla. As the city grew bigger and bigger, it swallowed the isle, which now can be accessed not only by boats but also by a bridge. While Isle is by law part of the City of Coin, it kept its identity, mostly because of the isle's villagers and the symbol that unite them: the Tangled Oak that grows between houses on the isle.|Also, the Cowled Wizards don't seem to be much interested in what was once called Tangled Oak Village and consider those that live there quite insignificant to Athkatla as a while, that means the islanders are on their own when it comes to solving problems and a serious one has just threatened that quiet place. Will you, the Hero of Baldur's Gate, help in restoring the isle's peace?",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute une nouvelle zone dans la ville d'Athkatla. Autrefois village indépendant situé sur une île, l'île du Chêne enchevêtré est devenue une partie d'Athkatla. Au fur et à mesure que la ville s'est agrandie, elle a englobé l'île, à laquelle on peut maintenant accéder non seulement par des bateaux, mais aussi par un pont. Bien que l'île fasse légalement partie de la Cité de la monnaie, elle a conservé son identité, principalement grâce à ses villageois et au symbole qui les unit : le Chêne enchevêtré qui pousse entre les maisons.|En outre, les Mages cagoulés ne semblent pas s'intéresser beaucoup à ce qu'on appelait autrefois le Village du Chêne enchevêtré et considèrent que ceux qui y vivent sont insignifiants pour Athkatla depuis longtemps. Ce qui signifie que les habitants de l'île sont livrés à eux-mêmes quand il s'agit de résoudre les problèmes. Et un problème grave vient menacer cet endroit tranquille. Voulez-vous, vous, le héros de la Porte de Baldur, aider à restaurer la paix sur l'île ?"
         },
         "notes": [],
@@ -15057,7 +15057,7 @@
     },
     {
         "id": 1037,
-        "description": "This mod installs dwarf merchant Kurtz Goldenaxe outside Brasamical. He sells colorful armor and very expensive, magical new armor.",
+        "description": "This mod installs dwarf merchant Kurtz Goldenaxe outside Friendly Arm. He sells colorful armor and very expensive, magical new armor.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod installe le marchand nain Kurtz Goldenaxe à l'extérieur de Brasamical. Il vend des armures colorées et de nouvelles armures magiques et très chères."
@@ -15074,7 +15074,7 @@
     },
     {
         "id": 1038,
-        "description": "This mod installs the dwarf merchant Maltz outside Brasamical. He sells colorful weapons, including some from BG2, and new, expensive, magical armor.",
+        "description": "This mod installs the dwarf merchant Maltz outside Friendly Arm. He sells colorful weapons, including some from BG2, and new, expensive, magical armor.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod installe le marchand nain Maltz à l'extérieur de Brasamical. Il vend des armes colorées, dont certaines de BG2, et de nouvelles armures magiques et très chères."
@@ -15338,9 +15338,9 @@
     },
     {
         "id": 1056,
-        "description": "This mod adds two new areas inside the great north wall of the Athkatla bridge district. You can now enter this massive block and discover what lies inside. You'll be able to meet new characters and see what they're up to. You can also take on a new job - an investigation, as the block's janitor thinks she's seen a strange monster wandering the corridors. The mod adds 4 new quests, 2 new medium-sized areas, and a few new items and spells.",
+        "description": "This project adds two interior areas inside the great wall that's part of the Bridge District. From now on, you may enter that massive block and see what's inside. There you'll be able to meet new characters and see what they're up to. You'll also be able to take a new job - an investigation, as the Block's caretaker believes she saw a strange monster roaming the halls. Is that true, or was it only a figment of her imagination?|The mod adds 4 new quests, 2 new medium-sized areas, and a few new items and spells.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute deux nouvelle zones à l'intérieur du grand mur nord du quartier du pont d'Athkatla. Vous pouvez désormais entrer dans ce bloc massif et découvrir ce qui se trouve à l'intérieur. Vous pourrez y rencontrer de nouveaux personnages et voir ce qu'ils font. Vous pourrez également accepter un nouveau travail - une enquête, car la concierge du bloc pense avoir vu un étrange monstre errer dans les couloirs. Est-ce vrai, ou n'était-ce que le fruit de son imagination ?|Le mod ajoute 4 nouvelles quêtes, 2 nouvelles zones de taille moyenne, et quelques nouveaux objets et sorts."
         },
         "notes": [],
@@ -15593,10 +15593,10 @@
     },
     {
         "id": 1073,
-        "description": "The Journey to the Whin Hill is an IWD adventure for BG2EE, in which you're sent to search for a man in a new region known as Whin Hill. But be warned, the place is notorious for harboring wyverns, but that's not the only threat you'll find there. Besides, why would anyone want to live in such a place? Find out by visiting this new area and following the path under the hill.|This mod also contains a secret recruitable character: Afu-Zuuvi, a neutral chaotic cleric/thief. He has his own kit, voice and abilities, as well as a few banters with Bioware characters.",
+        "description": "The Journey to the Whin Hill is an IWD-style adventure for BG2EE, in which you are sent to find a man in a new area known as the Whin Hill. However beware, as the place is known to be a home for wyverns, but... that's not the only threat you will find there. Also... why would anyone live in such a place? Find out, by visiting this new area and following the path under the hill.|There is also a bonus component: the mod includes a secret optional companion you may add to your game: Afu-Zuuvi, a chaotic neutral cleric/thief. He also includes one banter talk with each BioWare NPC, a personal kit, soundset and a couple of items.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "The Journey to the Whin Hill est une aventure de type IWD pour BG2EE, dans laquelle vous êtes envoyé à la recherche d'un homme dans une nouvelle région connue sous le nom de Whin Hill. Mais attention, l'endroit est connu pour abriter des wyverns, mais ce n'est pas la seule menace que vous y trouverez. De plus, pourquoi quelqu'un voudrait-il vivre dans un tel endroit ? Découvrez-le en visitant cette nouvelle zone et en suivant le chemin sous la colline.|Ce mod contient également, un personnage recrutable secret : Afu-Zuuvi, un clerc/voleur chaotique neutre. Il possède son propre kit, sa voix et ses propres capacités ainsi que quelques banters avec les personnages Bioware."
+            "status": "done",
+            "source": "The Journey to the Whin Hill est une aventure de type IWD pour BG2EE, dans laquelle vous êtes envoyé à la recherche d'un homme dans une nouvelle région connue sous le nom de Whin Hill. Mais attention, l'endroit est connu pour abriter des wyverns, mais ce n'est pas la seule menace que vous y trouverez. De plus, pourquoi quelqu'un voudrait-il vivre dans un tel endroit ? Découvrez-le en visitant cette nouvelle zone et en suivant le chemin sous la colline.|Ce mod contient également, un personnage recrutable secret : Afu-Zuuvi, un clerc/voleur chaotique neutre. Il possède des banters avec chaque personnage de BioWare, son propre kit, sa voix et son équipement."
         },
         "notes": [],
         "notes_meta": {
@@ -15718,7 +15718,7 @@
     },
     {
         "id": 1082,
-        "description": "Kuldahar has its past and its future. It also has its inhabitants. The aim of this mod is to present the stories associated with this town and those who live here. It adds new quests, encounters and stores, not only through new characters, but also new areas that present new parts of the city.|Revisit Kuldahar, see all the changes, do new quests, and enjoy your stay under the cover of the Great Oak.",
+        "description": "Kuldahar has its past and future. It also has its people. This mod's aim is to introduce the stories that are bound with this town and those that live in it. The Rediscovery of Kuldahar adds new quests, encounters and shops. These are filled not only with new characters, but new areas that present new parts of the town.|Revisit Kuldahar, see all the changes, do new quests, and enjoy your stay under the cover of the Great Oak.",
         "description_meta": {
             "status": "needs_review",
             "source": "Kuldahar a son passé et son avenir. Elle a aussi ses habitants. Le but de ce mod est de présenter les histoires liées à cette ville et à ceux qui y vivent. Il ajoute de nouvelles quêtes, rencontres et boutiques, non seulement à travers de nouveaux personnages, mais aussi de nouvelles zones qui présentent de nouvelles parties de la ville.|Revisitez donc Kuldahar, constatez tous les changements, faites de nouvelles quêtes, et profitez de votre séjour sous le couvert du Grand Chêne."
@@ -15894,10 +15894,10 @@
     },
     {
         "id": 1094,
-        "description": "This mod allows you to recruit Eldoth and Skie as soon as you leave Candlekeep. Eldoth is in the Friendly Arm Inn and has a new plan to kidnap/release Skie Silvershield, but to keep the game balanced, Eldoth and Skie start at level 1.",
+        "description": "The mod makes Eldoth and Skie available the moment you leave Candlekeep. It moves Eldoth to the Friendly Arm Inn and expands his plan to kidnap / free Skie Silvershield. Follow his plan, and you will be able to get an alternative for Imoen and Safana sooner than in the original game. To make this happen, Eldoth's quest had to be expanded, but it's easy enough to make a low-level party handle everything without any problems.|To keep the balance, Eldoth and Skie both start at level 1.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod permet de recruter Eldoth et Skie dès votre départ de Château-Suif. Eldoth se trouve dans l'auberge du Bras amical et dispose d'un nouveau plan pour kidnapper/libérer Skie Écudargent.Cependant, pour ne pas déséquilibrer le jeu, Eldoth et Skie commencent au niveau 1."
+            "status": "done",
+            "source": "Ce mod permet de recruter Eldoth et Skie dès votre départ de Château-Suif. Eldoth se trouve dans l'auberge du Bras amical et dispose d'un nouveau plan pour kidnapper/libérer Skie Écudargent. Suivez son plan, et vous pourrez obtenir une alternative à Imoen et Safana plus vite que dans le jeu original. Pour cela, la quête d'Eldoth a dû s'agrandir, mais cela ne posera pas de problèmes pour un groupe de bas niveau.|Pour ne pas déséquilibrer le jeu, Eldoth et Skie commencent au niveau 1."
         },
         "notes": [],
         "notes_meta": {
@@ -15920,7 +15920,7 @@
     },
     {
         "id": 1096,
-        "description": "This mod is the 3rd in the Colours of Infinity series, following [[Tales of the Deep Gardens]] and [[Innershade]]. It all begins with a book purchased from a merchant on the Waukeen's Promenade. It may guide you to one of the strange marshes where terrible events took place earlier: a place of mystery and tragedy. Explore the ruins of a forgotten village, discover what lies beneath the mud and meet the White Queen and her followers... The mod includes 8 new locations, dialogs, new music, items and more. It's more combat-oriented than previous mods in the series.",
+        "description": "This mod is the 3rd in the Colours of Infinity series, following [[Tales of the Deep Gardens]] and [[Innershade]]. To start the quest buy a new book at the book merchant's store on the Promenade. It may guide you to one of the strange marshes where terrible events took place earlier: a place of mystery and tragedy. Explore the ruins of a forgotten village, discover what lies under the layers of the mud and meet the White Queen and her servants... The mod includes 8 new locations, some dialogues, new music, items and more. It's more combat-oriented than previous mods in the series.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod est le 3ème opus de la série Colours of Infinity, après [[Tales of the Deep Gardens]] et [[Innershade]]. Tout commence par un livre acheté auprès d'un marchand de la Promenade de Waukyne. Il vous guidera peut-être dans un des marais étranges où des évènements terribles ont eu lieu un peu plus tôt : un lieu de mystères et de tragédies. Explorez les ruines d'un village oublié, découvrez ce qui se cache sous la boue en allant à la rencontre de la Reine Blanche et de ses adeptes... Pourrez-vous résoudre les conflits enfouis de ce lieu ?|Le mod inclut 8 nouveaux lieux, des dialogues, de nouvelles musiques, des objets, etc. Il est plus orienté vers le combat que les précédents mods de la série."
@@ -16086,9 +16086,9 @@
     },
     {
         "id": 1108,
-        "description": "This mod adds a new NPC to IWD:EE: Tipps Rattletattle, a halfling geomancer sorcerer. Turned to stone a few years ago near the entrance to the Temple of the Forgotten God, he can now return to the world of the living and join the group led by Icewind Dale's hero.|The mod includes friendship discussions, interjections, new items and romance for certain races: if your main character is a halfling, gnome or dwarf, something more than friendship may emerge. Although this can be triggered by all PJs, romance may be slightly easier for female characters, though a charismatic or wise man can also pursue a serious relationship (if racial restrictions are respected).",
+        "description": "The mod adds a brand new companion to Icewind Dale: Enhanced Edition. His name is Tipps Rattletattle; a halfling geomantic sorcerer. Turned to stone some years ago, he now may return to the world of the living and join the group lead by the Hero of Icewind Dale.|The mod includes some friendship talks, situational discussions, interjections, new items and a romance for short races: if your main character is a halfling, gnome or a dwarf, something more than friendship may emerge. While this may be triggered by all PC's, the romance may be slightly easier for female characters, however a charismatic or wise male can also pursue a serious relationship (if racial restrictions are met).",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute un nouveau PNJ dans IWD:EE : Tipps Rattletattle, un sorcier géomancien halfelin. Transformé en pierre il y a quelques années près de l'entrée du Temple du Dieu Oublié, il peut maintenant revenir dans le monde des vivants et rejoindre le groupe dirigé par le héros de Icewind Dale.|Le mod inclut des discussions d'amitié, des des interjections, de nouveaux objets et une romance pour certaines races : si votre personnage principal est un halfelin, un gnome ou un nain, quelque chose de plus que de l'amitié peut émerger. Bien que cela puisse être déclenché par tous les PJ, la romance peut être légèrement plus facile pour les personnages féminins, cependant un homme charismatique ou sage peut également poursuivre une relation sérieuse (si les restrictions raciales sont respectées)."
         },
         "notes": [
@@ -16455,9 +16455,9 @@
     },
     {
         "id": 1134,
-        "description": "Tsuki is a neutral, bisexual chaotic mage/thief, one of Faerûn's worst scum. His parents were an elf from Waterdeep and an oriental girl from Kara-Tur. This mix of genes gave birth to a true bastard. He's cunning. Don't trust him. He's like a weasel trying to catch his prey. Hiding in the weeds, waiting for the bird to leave the nest. He always wants to be on the winning side... which is why he entrusted Mistress Bodhi...",
+        "description": "Tsuki is a neutral, bisexual chaotic mage/thief, one of Faerûn's worst scum. His parents were an elf from Waterdeep and an oriental Kara-Turan girl. That mixture of genes gave life to a true bastard. He's crafty. Tsuki shouldn't be trusted. He's like a weasel which is trying to get the prey. Hiding in her pit, waiting for bird to leave the nest. He always want to be on the winning side...that's why he entrusted Mistress Bodhi...",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Tsuki est un mage/voleur chaotique neutre et bisexuel, l'une des pires ordures de Féérune. Ses parents étaient un elfe d'Eauprofonde et une fille orientale de Kara-Tur. Ce mélange de gènes a donné vie à un vrai bâtard. Il est rusé. Ne lui faites pas confiance. C'est comme une belette qui essaie d'attraper sa proie. Se cachant dans les herbes, attendant que l'oiseau quitte le nid. Il veut toujours être du côté des vainqueurs... c'est pourquoi il a confié à Maîtresse Bodhi..."
         },
         "notes": [],
@@ -16964,10 +16964,10 @@
     },
     {
         "id": 1169,
-        "description": "This mod adds a special NPC to IWD:EE: Urchin. He's an unusual creature, created by a night wasp. He comes with his own customized kit, Hag's Varmint. To recruit him, you'll need to find a new site: a night glade. He works like Wilson, the bear paragon from BG2:EE. He won't be able to use most items, but will become stronger and much more powerful with each level. Will you take the chance to play IWD in a slightly different way? Some will find Urchin strange, others will think he has a weird charm.|The mod also includes a really tiny new store with some really special items.",
+        "description": "The mod adds a brand new and unusual companion for Icewind Dale: Enhanced Edition - Urchin. He is an unusual creature, creation of a Night Hag. He comes with his custom kit - Hag's Varmint. Its mechanic is similar to Wilson, the bear paragon from Baldur's Gate 2: Enhanced Edition. He won't be able to use most of items, but instead will get stronger and much more powerful with each level. That should also become a chance to play Icewind Dale a bit differently. Some will consider Urchin strange, others will think he's got some bizarre charm.|To join Urchin you must find a new location: a Night Glade. Need a hint? Search the areas somehow connected to the mill near Kuldahar. The mod also includes a really tiny new shop with few new peculiarities.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod ajoute un PNJ particulier dans IWD:EE : Urchin. Il s'agit d'une créature inhabituelle, crée par une guenaude de la nuit. Il est livré avec son kit personnalisé, le Hag's Varmint. Pour le recruter, vous devrez trouver un nouveau site : une clairière de la nuit.|Il fonctionne comme Wilson, le parangon d'ours de BG2:EE. Il ne pourra pas utiliser la plupart des objets, mais deviendra plus fort et beaucoup plus puissant à chaque niveau. Saisirez-vous la chance de jouer à IWD d'une manière un peu différente ? Certains trouveront Urchin étrange, d'autres penseront qu'il a un charme bizarre.|Le mod inclut également une nouvelle boutique vraiment minuscule avec des objets vraiment particuliers."
+            "status": "done",
+            "source": "Ce mod ajoute un PNJ particulier dans IWD:EE : Urchin. Il s'agit d'une créature inhabituelle, crée par une guenaude de la nuit. Il est livré avec son kit personnalisé, le Hag's Varmint. Pour le recruter, vous devrez trouver un nouveau site : une clairière de la nuit.|Il fonctionne comme Wilson, le parangon d'ours de BG2:EE. Il ne pourra pas utiliser la plupart des objets, mais deviendra plus fort et beaucoup plus puissant à chaque niveau. Saisirez-vous la chance de jouer à IWD d'une manière un peu différente ? Certains trouveront Urchin étrange, d'autres penseront qu'il a un charme bizarre.|Pour rejoindre Urchin, vous devez trouver un nouvel emplacement : une clairière nocturne. Besoin d'un indice ? Cherchez dans les zones liées d'une manière ou d'une autre au moulin près de Kuldahar. Le mod inclut également une nouvelle boutique vraiment minuscule avec quelques nouveautés."
         },
         "notes": [],
         "notes_meta": {
@@ -17091,10 +17091,10 @@
     },
     {
         "id": 1178,
-        "description": "This mod adds a new, rather unusual evil NPC: an illithid! Driven by a thirst for knowledge, Varshoon doesn't really have a romance planned, or a friendship to speak of... but something approaching that is possible. In dialogue, Varshoon is curious about the culture of surface beings. He has his own psionic profile and is a kind of \"mental fighter\" who uses his mental abilities to stun, weaken and confuse his enemies. He has his own equipment, which cannot be replaced. This mod also modifies the normal quest area for illithid tunnels in Underdark.|STR 13, DEX 18, CON 9, INT 19, WIS 15, CHA 13.",
+        "description": "This mod adds a new, rather unusual evil NPC: an illithid! Driven by a thirst for knowledge, Varshoon doesn't really have a romance planned, or a friendship to speak of... but something approaching that is possible. In dialogue, Varshoon is curious about the culture of surface beings. He has his own kit of Psionic Enforcer. Varshoon is a mental warrior. Who uses his mental abilities to stun, weaken and confuse his enemies. He has his own special equipment that cannot be replaced with any other items. This mod also modifies the normal quest area of the Illithid Tunnels in the Underdark.|STR 13, DEX 18, CON 9, INT 19, WIS 15, CHA 13.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un nouveau PNJ mauvais un peu particulier : un illithid ! Animé par une grande soif de connaissances, Varshoon n'a pas vraiment de romance prévue, ni d'amitié à proprement parlé... mais quelque chose d'approchant demeure possible. Dans les dialogues, Varshoon se montre curieux de la culture des êtres de la surface. Les relations sont basées sur votre capacité d'influence, votre intelligence et votre race.|Il dispose de son propre profil de psionique et est une sorte de \"guerrier mental\" qui utilise ses capacités mentales pour étourdir, affaiblir et rendre confus ses ennemis. Il dispose de son propre équipement qui ne peut pas être remplacé. Ce mod modifie également la zone de quête normale des tunnels illithids dans l'Ombreterre.|FOR 13, DEX 18, CON 9, INT 19, SAG 15, CHA 13."
+            "source": "Ce mod ajoute un nouveau PNJ mauvais un peu particulier : un illithid ! Animé par une grande soif de connaissances, Varshoon n'a pas vraiment de romance prévue, ni d'amitié à proprement parlé... mais quelque chose d'approchant demeure possible. Dans les dialogues, Varshoon se montre curieux de la culture des êtres de la surface. Les relations sont basées sur votre capacité d'influence, votre intelligence et votre race.|Il dispose de son propre kit de Psionic Enforcer. Varshoon est une sorte de guerrier mental. Qui utilise ses capacités mentales pour étourdir, affaiblir et rendre confus ses ennemis. Il dispose de son propre équipement qui ne peut pas être remplacé. Ce mod modifie également la zone de quête normale des tunnels illithids dans l'Ombreterre.|FOR 13, DEX 18, CON 9, INT 19, SAG 15, CHA 13."
         },
         "notes": [],
         "notes_meta": {
@@ -17136,10 +17136,10 @@
     },
     {
         "id": 1181,
-        "description": "This mod brings Verr’Sza, the rakshasa companion, to Baldur's Gate 2. It is a continuation of the mod [[Verr'Sza (BG1EE)]], by the same author. However, if the mods were written to allow the partnership between the Child of Bhaal and Verr’Sza to continue, it is possible to start a whole new relationship with Verr’Sza, instead of continuing the content of BG.|Verr’Sza is an evil ranger; not always very concerned with the law of men. He's a pragmatist, following the rules he's set for himself and his idea of how things should be done. Yet he's also interested in learning. He's not rude. He's not reckless, even if he's not an example of patience, he understands that certain issues require different kinds of actions and attitudes. The mod includes romance (for Bhaal's children, regardless of gender), which may differ slightly, depending on whether or not you've been pursuing your romance since BG1.|Note that due to the attitude and language of the NPCs, the mod's content may be considered explicit. The mod has been written with adult players in mind.",
+        "description": "The mod brings back Verr'Sza, the rakshasa companion, to Baldur's Gate 2. It's a continuation of the mod [[Verr'Sza (BG1EE)]], written by the same author. However the mods was written to allow the continuation of the partnership between the Child of Bhaal and Verr'Sza, it is possible to start a brand new relationship with Verr'Sza, instead of continuing BG1 content.|Verr'Sza is an evil malee ranger; a man who's not always much concerned about the law of the men. He is practical and follows rules set by himself and his idea of how things should be done. Yet he is also interested in learning. He's not crude. He's not reckless, even though he's not an example of patience, he understands some matters need different kinds of actions and attitudes.|Mod includes romance (for both male and female Bhaalspawns), which may differ slightly, depending on if you're continuing your romance from BG1 or not.|Note that due to NPCs attitudes and language, the content of the mod may be considered explicit. The mod was written with adult players in mind.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod amène Verr’Sza, le compagnon rakshasa, dans Baldur's Gate 2. C'est une continuation du mod [[Verr'Sza (BG1EE)]], du même auteur. Cependant, si les mods ont été écrits pour permettre la poursuite du partenariat entre l'Enfant de Bhaal et Verr’Sza, il est possible de démarrer une toute nouvelle relation avec Verr’Sza, au lieu de continuer le contenu de BG.|Verr’Sza est un rôdeur maléfique ; pas toujours très préoccupé par la loi des hommes. Il est pragmatique, et suit les règles qu'il s'est lui-même fixées et son idée de la façon dont les choses doivent être faites. Pourtant, il s'intéresse aussi à l'apprentissage. Il n'est pas grossier. Il n'est pas imprudent, même s'il n'est pas un exemple de patience, il comprend que certaines questions nécessitent différents types d'actions et d'attitudes. Le mod inclut la romance (pour les enfants de Bhaal, quel que soit leur sexe), qui peut différer légèrement, selon que vous poursuivez ou non votre romance depuis BG1.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes."
+            "status": "done",
+            "source": "Ce mod amène Verr’Sza, le compagnon rakshasa, dans Baldur's Gate 2. C'est une continuation du mod [[Verr'Sza (BG1EE)]], écrit par le même auteur. Cependant, si les mods ont été écrits pour permettre la poursuite du partenariat entre l'Enfant de Bhaal et Verr’Sza, il est possible de démarrer une toute nouvelle relation avec Verr’Sza, au lieu de continuer le contenu de BG.|Verr’Sza est un rôdeur maléfique ; pas toujours très préoccupé par la loi des hommes. Il est pragmatique, et suit les règles qu'il s'est lui-même fixées et son idée de la façon dont les choses doivent être faites. Pourtant, il s'intéresse aussi à l'apprentissage. Il n'est pas grossier. Il n'est pas imprudent, même s'il n'est pas un exemple de patience, il comprend que certaines questions nécessitent différents types d'actions et d'attitudes. Le mod inclut la romance (pour les enfants de Bhaal, quel que soit leur sexe), qui peut différer légèrement, selon que vous poursuivez ou non votre romance depuis BG1.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes."
         },
         "notes": [],
         "notes_meta": {
@@ -17149,7 +17149,7 @@
     },
     {
         "id": 1182,
-        "description": "Verr’Sza is a rakshasa hunter of bad alignment who can be recruited at the Brasamical inn. The mod is compatible with Siege of Dragonspear and features content specific to that expansion, as well as related to the [[Sirene NPC for BG:EE]] mod.|It includes a few quests, as well as a romance for both male and female characters (the only condition is that they must not be of lawful good alignment). Although technically a romance, Verr’Sza is not a very romantic character. It's more about making him respect you and not trying to bind him in any way. He can be protective in his own twisted, brutal way.|Note that due to the attitude and language of the NPCs, the content of the mod can be considered explicit. The mod was written with adult players in mind.",
+        "description": "Verr’Sza is a rakshasa hunter of bad alignment who can be recruited at the Friendly Arm inn. The mod is compatible with Siege of Dragonspear and features content specific to that expansion, as well as related to the [[Sirene NPC for BG:EE]] mod.|The mod includes some go-and-kill quests, as well as a romance for both male and female characters (the only condition is not being of Lawful Good alignment). Although it's technically a romance, Verr'Sza isn't a very romantic character. It's more a matter of making him respect you and not trying to bind him in any way. He may be protective in his twisted and blunt way.|Note that due to the attitude and language of the NPCs, the content of the mod can be considered explicit. The mod was written with adult players in mind.",
         "description_meta": {
             "status": "needs_review",
             "source": "Verr’Sza est un chasseur rakshasa d'alignement mauvais que l'on peut recruter à l'auberge de Brasamical. Le mod est compatible avec Siege of Dragonspear et dispose de contenu propre à cette extension, ainsi qu'en rapport avec le mod [[Sirene NPC for BG:EE]].|Il comprend quelques quêtes, ainsi qu'une romance pour les personnages masculins et féminins (la seule condition est de ne pas être d'alignement loyal bon). Bien qu'il s'agisse techniquement d'une romance, Verr’Sza n'est pas un personnage très romantique. Il s'agit plutôt de le faire vous respecter et de ne pas essayer de le lier de quelque façon que ce soit. Il peut être protecteur à sa manière tordue et brutale.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes."
@@ -17308,10 +17308,10 @@
     },
     {
         "id": 1193,
-        "description": "Walahnan is a powerful neutral chaotic timekeeper who suffers from germophobia. But don't worry, he can be more than useful. Although his ambitions aren't above average, he certainly has aspirations that inspire his studies. The mod doesn't include romance. To recruit him, complete Nalia's quest and find him near the rocks to the east of the Arnise fortress. To keep him in the group, you'll need to complete his personal quest.",
+        "description": "Walahnan is a powerful neutral chaotic chronomancer who suffers from germophobia. But worry not, he can prove to be more than useful. While his ambitions do not overwhelm those around, he certainly has some aspirations that inspire his studies.|The mod doesn't include a romance.|To give Walahnan the chance to join you, complete Nalia's quest and check the rest of De'Arnise Hold area. He should be near the rocks to the east of the keep.|To keep Walahnan in your team, you'll need to complete his personal quest.|STR 17, DEX 16, CON 11, INT 18, WIS 11, CHA 11.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Walahnan est un puissant chronomancien chaotique neutre qui souffre de germophobie. Mais ne vous inquiétez pas, il peut se révéler plus qu'utile. Bien que ses ambitions ne dépassent pas la moyenne, il a certainement des aspirations qui inspirent ses études. Le mod n'inclut pas de romance. Cependant, vous aurez l'occasion de lui montrer que vous l'appréciez tout au long de SoA et de ToB.|Pour le recruter, terminez la quête de Nalia et retrouvez-le près des rochers à l'est de la forteresse de'Arnise. Pour le garder dans le groupe, vous devrez accomplir sa quête personnelle."
+            "status": "done",
+            "source": "Walahnan est un puissant chronomancien chaotique neutre qui souffre de germophobie. Mais ne vous inquiétez pas, il peut se révéler plus qu'utile. Bien que ses ambitions ne dépassent pas la moyenne, il a certainement des aspirations qui inspirent ses études. Le mod n'inclut pas de romance. Cependant, vous aurez l'occasion de lui montrer que vous l'appréciez tout au long de SoA et de ToB.|Pour le recruter, terminez la quête de Nalia et retrouvez-le près des rochers à l'est de la forteresse de'Arnise.|Pour le garder dans le groupe, vous devrez accomplir sa quête personnelle.|FOR 17, DEX 16, CON 11, INT 18, SAG 11, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -17321,10 +17321,10 @@
     },
     {
         "id": 1194,
-        "description": "Walahnan is a powerful neutral chaotic timekeeper who suffers from germophobia. But don't worry, he can be more than useful. Although his ambitions aren't above average, he certainly has aspirations that inspire his studies. The mod doesn't include romance. To recruit him, find him at Ulgoth's Beard and agree to help him on his personal quest. The mod also includes content for Siege of Dragonspear.",
+        "description": "Walahnan is a powerful neutral chaotic chronomancer who suffers from germophobia. But worry not, he can prove to be more than useful. While his ambitions do not overwhelm those around, he certainly has some aspirations that inspire his studies.|The mod does not include a romance, however, you may get an option or two to show you like him. To join him, visit Ulgoth's Beard and accept to help him with his personal quest. The mod also includes some content for Siege of Dragonspear.|STR 17, DEX 16, CON 11, INT 18, WIS 11, CHA 11.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Walahnan est un puissant chronomancien chaotique neutre qui souffre de germophobie. Mais ne vous inquiétez pas, il peut se révéler plus qu'utile. Bien que ses ambitions ne dépassent pas la moyenne, il a certainement des aspirations qui inspirent ses études. Le mod n'inclut pas de romance. Cependant, vous aurez l'occasion de lui montrer que vous l'appréciez.|Pour le recruter, retrouvez-le à la Barbe d'Ulgoth et acceptez de l'aider dans sa quête personnelle. Le mod inclut également du contenu pour Siege of Dragonspear."
+            "status": "done",
+            "source": "Walahnan est un puissant chronomancien chaotique neutre qui souffre de germophobie. Mais ne vous inquiétez pas, il peut se révéler plus qu'utile. Bien que ses ambitions ne dépassent pas la moyenne, il a certainement des aspirations qui inspirent ses études.|Le mod n'inclut pas de romance. Cependant, vous aurez l'occasion de lui montrer que vous l'appréciez.|Pour le recruter, retrouvez-le à la Barbe d'Ulgoth et acceptez de l'aider dans sa quête personnelle. Le mod inclut également du contenu pour Siege of Dragonspear.|FOR 17, DEX 16, CON 11, INT 18, SAG 11, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -17497,10 +17497,10 @@
     },
     {
         "id": 1206,
-        "description": "The BG saga is notorious for its lack of weasel-specific items! Lava couldn't let this oversight go unpunished, so we've put it right.|This mod adds 5 new items and 6 new spells (1 for wizards and bards, 2 for bards, 2 divine and 1 for mages and clerics) available when you create your character and/or in-game.",
+        "description": "The BG saga is notorious for its lack of weasel-specific items! Lava couldn't let this oversight go unpunished, so we've put it right.|This mod introduces 5 weasel-themed items and 6 new spells (1 for wizards and bards, 2 for bards, 2 divine and 1 for mages and clerics) available when you create your character and/or in-game.",
         "description_meta": {
             "status": "needs_review",
-            "source": "C'est bien connu, la saga BG manque d'objets spécifiques aux belettes ! Lava ne pouvait pas laisser ce forfait impuni et y a remédié.|Ce mod ajoute donc 5 objets et 6 nouveaux sorts (1 pour magiciens et bardes, 2 pour bardes, 2 divins et 1 pour  mages et clercs) disponibles dès la création de votre personnage et/ou dans le jeu."
+            "source": "C'est bien connu, la saga BG manque d'objets spécifiques aux belettes ! Lava ne pouvait pas laisser ce forfait impuni et y a remédié.|Ce mod ajoute donc 5 objets et 6 nouveaux sorts (1 pour magiciens et bardes, 2 pour bardes, 2 divins et 1 pour mages et clercs) disponibles dès la création de votre personnage et/ou dans le jeu."
         },
         "notes": [],
         "notes_meta": {
@@ -17618,10 +17618,10 @@
     },
     {
         "id": 1215,
-        "description": "This mod adds a level 2 human barbarian (so be sure to recruit him soon enough) who can also be a good hunter. You can recruit him near the entrance to the Ulcaster ruins. Male PJs, regardless of race, with at least 11 Charisma and 12 Strength can try to romance him. Flirtations, interjections and banters with all NPCs (including the 3 from BG:EE) are also on the program.|It's written by Lava Del'Vortel, author of [[Tales of the Deep Gardens]], [[Innershade]] and [[The White Queen]] for BGII, among others.",
+        "description": "This mod adds a level 2 human barbarian (so it's advised to recruit him early in game) who can also be a good hunter. You can recruit him near the entrance to the Ulcaster ruins. Male PJs, regardless of race, with at least 11 Charisma and 12 Strength can try to romance him. Flirtations, interjections and banters with all NPCs (including the 3 from BG:EE) are also on the program.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un barbare humain de niveau 2 (tachez donc de le recruter assez vite) qui peut aussi se révéler bon chasseur. Vous pouvez le recruter près de l'entrée des ruines d'Ulcaster. Les PJ masculins, sans restriction de race, disposant d'au moins 11 de Charisme et 12 de Force peuvent tenter de le romancer. Flirts, interjections et banters avec tous les PNJ (y compris les 3 de BG:EE) sont également au programme.|Il est écrit par Lava Del'Vortel, auteur de [[Tales of the Deep Gardens]], [[Innershade]] et [[The White Queen]] pour BGII, notamment."
+            "source": "Ce mod ajoute un barbare humain de niveau 2 (tachez donc de le recruter assez vite) qui peut aussi se révéler bon chasseur. Vous pouvez le recruter près de l'entrée des ruines d'Ulcaster. Les PJ masculins, sans restriction de race, disposant d'au moins 11 de Charisme et 12 de Force peuvent tenter de le romancer. Flirts, interjections et banters avec tous les PNJ (y compris les 3 de BG:EE) sont également au programme."
         },
         "notes": [],
         "notes_meta": {
@@ -17990,10 +17990,10 @@
     },
     {
         "id": 1241,
-        "description": "Have you ever bought a scroll containing anything more than a few magic lines? That's how you'll get to know Yvette; help her remember her past, let her experience new adventures, let her accompany you, and maybe you'll be able to touch her more deeply than just a friend. Yvette has content for SoA and ToB, as well as banters and interjections. This mod is part of the Colours of Infinity series, developed by Lava Del'Vortel.",
+        "description": "Have you ever bought a scroll containing anything more than a few magic lines? That's how you'll get to know Yvette. Help her to remember who she really is, let her experience adventures, let her stay by your side - that may guide you to something more than friendship. Yvette has content for SoA and ToB, as well as banters and interjections.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Vous êtes-vous déjà procuré un parchemin renfermant autre chose que quelques lignes magiques ? C'est ainsi que vous ferez la connaissance d'Yvette ; aidez-la à se souvenir de son passé, laissez la vivre de nouvelles aventures, laissez la vous accompagner et peut-être pourrez-vous la toucher plus profondément qu'un simple ami. Yvette a du contenu pour SoA et ToB, banters et interjections sont également de la partie. Ce mod fait partie de la série Colours of Infinity, développée par Lava Del'Vortel."
+            "source": "Vous êtes-vous déjà procuré un parchemin renfermant autre chose que quelques lignes magiques ? C'est ainsi que vous ferez la connaissance d'Yvette. Aidez-la à se souvenir de son passé, laissez la vivre de nouvelles aventures, laissez la vous accompagner et peut-être pourrez-vous la toucher plus profondément qu'une simple amie. Yvette a du contenu pour SoA et ToB, banters et interjections sont également de la partie."
         },
         "notes": [],
         "notes_meta": {
@@ -18831,7 +18831,7 @@
     },
     {
         "id": 1300,
-        "description": "Do you wish you could have more conversations with your furry companion - Wilson? This mod extends the BG2:EE mystery character in the form of dialogs, mini-quests, skills and items, and adds a way to call him from the Pocket Plane in ToB. The added dialog maintains the style of the original game: bears have their own language!",
+        "description": "Have you wished you could have more conversations with your furry companion - Wilson, the bear paragon? This mod extends the BG2:EE mystery character in the form of dialogs, mini-quests, skills and items, and adds a way to call him from the Pocket Plane in ToB. The added dialogue maintains the style of the original game: bears have their own language!",
         "description_meta": {
             "status": "needs_review",
             "source": "Avez-vous souhaité pouvoir avoir plus de conversations avec votre compagnon à fourrure - Wilson ? Pensez-vous que les autres membres du groupe devraient partager leurs réflexions avec lui ?|Ce mod apporte une extension à ce personnage mystère de BG2:EE sous forme de dialogues, de mini-quêtes, de compétences, et d'objets et ajoute le moyen de l'appeler à partir de l'antichambre dans ToB. Le dialogue ajouté maintient le style du jeu original : les ours ont leur propre langage !"
@@ -18953,10 +18953,10 @@
     },
     {
         "id": 1308,
-        "description": "This mod adds a new quest after the end of the original Xzar and Montaron quest. By completing the quest, you can join the necromancer and the fighter/thief and learn more about their aspirations and plans. Both characters can be recruited and have a few dialogs and quests.",
+        "description": "The mod adds a new quest after the original Xzar & Montaron quest is finished. Finishing the quest allows you to join the necromancer and the fighter/thief and learn more about their aspirations and plans. The mod also introduces two fully-fledged companions, timered talks, scenery talks, banters, interjections, mini-quests/encounters, items... and, hopefully, some fun.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod ajoute une nouvelle quête après la fin de la quête originale de Xzar et Montaron. En terminant la quête, vous pourrez rejoindre le nécromancien et le combattant/voleur et en apprendre plus sur leurs aspirations et leurs plans. Les deux personnages sont recrutables et possèdent quelques dialogues ainsi que quelques quêtes."
+            "status": "done",
+            "source": "Ce mod ajoute une nouvelle quête après la fin de la quête originale de Xzar et Montaron. En terminant la quête, vous pourrez rejoindre le nécromancien et le combattant/voleur et en apprendre plus sur leurs aspirations et leurs plans. Le mod introduit également deux compagnons à part entière, des conversations chronométrées, des discussions sur le paysage, des plaisanteries, des interjections, des mini-quêtes/rencontres, des objets... et, espérons-le, un peu de divertissement."
         },
         "notes": [],
         "notes_meta": {
@@ -18966,9 +18966,9 @@
     },
     {
         "id": 1309,
-        "description": "The mod adds a new companion, Bethany Vivielle Helena Corthala, a psychic (shaman kit) who has always dreamed of being a milliner. However, she has the ability to see the dead and it's really hard to be a fashion expert, attending all those social events and showing everyone how great you can be when you're haunted by the dead. So she needs a little distraction and... celebrity, as this could be very useful for her, as she wants to open her own business when it's all over.",
+        "description": "The mod adds a new companion, Bethany Vivielle Helena Corthala, a town medium (shaman kit) who always wanted to be a hat-maker. However, she has an ability to see the dead and it's really hard to be a fashion expert, attend to all these social events, and show everyone how great you can be when you are haunted by the dead. So, she could use a little distraction and... fame, because it can be quite useful for someone who wants to open her own business when it's all over.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Le mod ajoute un nouveau compagnon, Bethany Vivielle Helena Corthala, une médium (kit de shaman) qui a toujours rêvé d'être chapelière. Cependant, elle a la capacité de voir les morts et il est vraiment difficile d'être une experte de la mode, d'assister à tous ces événements sociaux et de montrer à tout le monde à quel point on peut être génial quand on est hanté par les morts. Elle a donc besoin d'un peu de distraction et... de célébrité, car cela peut être lui très utile car elle veut ouvrir sa propre entreprise quand tout sera fini."
         },
         "notes": [],
@@ -18979,9 +18979,9 @@
     },
     {
         "id": 1310,
-        "description": "Xikâsz’s Grove of Chaos is a mod that adds a new quest to IWD:EE and provides players with a new recruitable companion: Xikâsz - an entropist elf fighter/thief of neutral alignment.|In this mod, you'll have the opportunity to investigate a new area near Kuldahar. An old grove near which a shady character has been spotted. Friend? Enemy? It's up to you to go and find out. But be careful, as you may have to face new beasts in the course of your investigation.",
+        "description": "Xikâsz's Grove of Chaos is a new mod that adds a new quest to IWD:EE as well as provides players with a new possible companion, Xikâsz - an elven fighter/wildmage/thief of neutral alignment.|In the mod, you will get a chance to investigate a new area near Kuldahar. An old grove near which a shady character has been spotted. Is he a friend? Or a foe? It is up to you to go there and find out. But be careful, as you may need to face some new beasts during your investigation.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Xikâsz’s Grove of Chaos est un mod qui ajoute une nouvelle quête à IWD:EE et fournit aux joueurs un nouveau compagnon recrutable : Xikâsz - un combattant elfe entropiste/voleur d'alignement neutre.|Dans ce mod, vous aurez l'occasion d'enquêter sur une nouvelle zone près de Kuldahar. Un vieux bosquet près duquel un personnage louche a été repéré. Ami ? Ennemi ? C'est à vous d'y aller et de le découvrir. Mais soyez prudent, car vous devrez peut-être affronter de nouvelles bêtes au cours de votre enquête."
         },
         "notes": [],
@@ -19005,9 +19005,9 @@
     },
     {
         "id": 1312,
-        "description": "This mod adds a new dark adventure. It takes the Child of Bhaal and his party to Barovia, part of the kingdom of Ravenloft. In this eerie land, players will face new enemies and fearsome creatures, solve complex puzzles and experience a gripping gothic horror story. Plunge into the mists, traverse dangerous forests and battle undead creatures as you seek to regain Athkatla.",
+        "description": "This mod adds a new dark adventure. It takes the Child of Bhaal and their party to Barovia, part of the realm of Ravenloft. In this ominous land, the player will face new enemies and formidable creatures, solve intricate riddles, and experience a gripping gothic horror story. Immerse yourself in mists, navigate dangerous forests, and confront undead creatures, all while seeking your way back to Athkatla.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute une nouvelle aventure sombre. Elle emmène l'Enfant de Bhaal et son groupe à Barovia, qui fait partie du royaume de Ravenloft. Dans cette contrée inquiétante, le joueur affrontera de nouveaux ennemis et de redoutables créatures, résoudra des énigmes complexes et vivra une histoire d'horreur gothique captivante. Plongez dans les brumes, traversez de dangereuses forêts et affrontez des créatures mortes-vivantes, tout en cherchant à regagner Athkatla."
         },
         "notes": [],
@@ -19907,9 +19907,9 @@
     },
     {
         "id": 1375,
-        "description": "Juniper and the Stone Leech is a new mod that introduces a new adventure in ToB and a new companion who asks you to investigate the kingdom of Har'Akir, part of Ravenloft. Help Juniper and travel with her through this mysterious land. Visit the Dark Temple, located in the dark desert of Har'Akir, fight enemies, discover the temple's halls and find the source of the worry that's troubling your new friend.",
+        "description": "Juniper and the Stone Leech is a new mod that introduces a new Throne of Bhaal adventure along with a new companion that will ask you to join her in the investigation of the otherworldly realm of Har'Akir, part of Ravenloft. Help Juniper and travel with her to the mysterious land. See the dark temple, located in the dark desert of Har'Akir, fight enemies, discover the halls of the temple and find the source of the disturbance that troubles your new friend.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Juniper and the Stone Leech est un nouveau mod qui introduit une nouvelle aventure dans ToB ainsi qu'une nouvelle compagne qui vous demandera d'investiguer dans le royaume d'Har'Akir, qui fait partie de Ravenloft. Aidez Juniper et voyagez avec elle dans ce pays mystérieux. Visitez le temple obscur, situé dans le désert sombre de Har'Akir, combattez des ennemis, découvrez les salles du temple et trouvez la source de l'inquiétude qui perturbe votre nouvelle amie."
         },
         "notes": [],
@@ -22794,7 +22794,7 @@
     },
     {
         "id": 1574,
-        "description": "This mod adds a powerful longsword for purchase at the Auberge de Brasamical.",
+        "description": "This mod adds a powerful longsword for purchase at the Friendly Arm Inn.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute une puissante épée longue à acheter à l'Auberge de Brasamical."
@@ -24760,7 +24760,7 @@
     },
     {
         "id": 1716,
-        "description": "It adds Grazilaxx, an illithid spellcasting npc with many new spells (psionic abilities). She has a voice set but no dialog. You'll find her near the Brasamical inn.",
+        "description": "It adds Grazilaxx, an illithid spellcasting npc with many new spells (psionic abilities). She has a voice set but no dialog. You'll find her near the Friendly Arm inn.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce ajoute Grazilaxx, une pnj illithid ensorceleuse avec de nombreux sorts inédits (capacités psioniques). Elle possède un set de voix mais aucun dialogue. Vous la trouverez prêt de l'auberge de Brasamical."
@@ -25447,10 +25447,10 @@
     },
     {
         "id": 1766,
-        "description": "Arszyk is a fighter/druid of neutral evil alignment, a vampire who was sent to Icewind Dale to find a lost artifact, but in the meantime has run into trouble and needs a helping hand if he is to resume his research. He is accompanied by a few interjections, items and a druid kit (Decay Overseer, also included in [[Of Paths and Ways]] by the same author).",
+        "description": "Arszyk is a neutral evil fighter/druid, a vampire that was sent to Icewind Dale to find a lost artifact, but meanwhile, got into some trouble and needs a hand if he's to resume his search. He comes with a few talks, interjections, items, a druid kit (Decay Overseer, also included in [[Of Paths and Ways]] released by the same author).|You may flirt with Arszyk, but the mod does not include a fully fledged romance.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Arszyk est un guerrier/druide d'alignement neutre mauvais, un vampire qui a été envoyé à Icewind Dale pour trouver un artefact perdu, mais qui entre-temps s'est attiré des ennuis et a besoin d'un coup de main s'il veut reprendre ses recherches. Il est accompagné de quelques interjections, objets et d'un kit de druide (Decay Overseer, inclus également dans [[Of Paths and Ways]] du même auteur)."
+            "source": "Arszyk est un guerrier/druide d'alignement neutre mauvais, un vampire qui a été envoyé à Icewind Dale pour trouver un artefact perdu, mais qui entre-temps s'est attiré des ennuis et a besoin d'un coup de main s'il veut reprendre ses recherches. Il est accompagné de quelques interjections, objets et d'un kit de druide (Decay Overseer, inclus également dans [[Of Paths and Ways]] du même auteur).|Vous pouvez flirter avec Arszyk, mais le mod ne comprend pas de véritable romance."
         },
         "notes": [],
         "notes_meta": {
