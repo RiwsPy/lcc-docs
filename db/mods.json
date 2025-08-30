@@ -4147,11 +4147,13 @@
             "Faydark"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il existe une version directement intégrée dans [[EEUITweaks]]."
+        ],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2019-03",
         "tp2": "non-weidu"
     },
@@ -9641,6 +9643,7 @@
             "SoD",
             "BG2EE",
             "EET",
+            "IWD",
             "IWDEE"
         ],
         "authors": [
@@ -18611,7 +18614,9 @@
             "Mr2150"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il existe une version directement intégrée dans [[EEUITweaks]]."
+        ],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -18623,7 +18628,7 @@
             "de",
             "fr"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2016-06",
         "tp2": "non-weidu"
     },
@@ -19936,7 +19941,7 @@
     {
         "id": 626,
         "name": "lefreut's Enhanced UI for IWDEE",
-        "description": "Lefreut, des d'Oghmatiques, a développé toute une série de mods permettant de modifier la nouvelle interface de jeu de BG:EE et BG2:EE apparue avec la version 2.0 et Siege of Dragonspear. Celui-ci améliore l'interface de IWD:EE avec un certain nombre de modifications d'ergonomie, et permet notamment d'accéder aux hlas dans IWDEE, qui ne les propose pas par défaut, faute d'interface.",
+        "description": "Ce mod améliore l'interface de IWD:EE avec un certain nombre de modifications d'ergonomie. Couplé avec d'autres mods comme [[Skills and Abilities]], ce mod permet d'accéder aux hlas, qui ne les propose pas par défaut, faute d'interface.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/30831-ui-lefreuts-enhanced-ui-for-iwdee",
             "https://github.com/r-e-d/LeUI-IWDEE"
@@ -19952,7 +19957,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Installez la version 1.9.2 à partir du patch 2.6, et la version 1.8.1 pour les patches antérieurs."
+            "Installez la version 2.0 à partir du patch 2.6, et la version 1.8.1 pour les patches antérieurs."
         ],
         "translation_state": "n/a",
         "safe": 2,
@@ -22361,13 +22366,15 @@
             "AncientCowboy"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il existe une version directement intégrée dans [[EEUITweaks]]."
+        ],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2016-07",
         "tp2": "ModOptions"
     },
@@ -24874,7 +24881,7 @@
     {
         "id": 785,
         "name": "PnP Improved invisibility",
-        "description": "Ce mod rend tous les sorts et capacités qui rendent donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il rendent révèle les créatures invisibles qui ratent leu jet de sauvegarde.",
+        "description": "Ce mod rend tous les sorts et capacités qui donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il révèle les créatures invisibles qui ratent leu jet de sauvegarde.",
         "urls": [
             "https://forums.beamdog.com/discussion/39063/"
         ],
@@ -26343,7 +26350,8 @@
         ],
         "team": [],
         "notes": [
-            "Attention : il nécessite une manipulation de certains fichiers. Bien lire le readme inclus."
+            "Attention : il nécessite une manipulation de certains fichiers. Bien lire le readme inclus.",
+            "Il existe une version directement intégrée dans [[EEUITweaks]]."
         ],
         "translation_state": "auto",
         "safe": 1,
@@ -26357,7 +26365,7 @@
             "pt",
             "en"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2016-07",
         "tp2": "ppicker"
     },
@@ -29661,7 +29669,7 @@
     {
         "id": 931,
         "name": "Shades of the Sword Coast",
-        "description": "Ce mod ajoute pas moins de 36 nouvelles quêtes et rencontres dans BG, afin de rendre la plupart des zones que vous connaissez bien, et souvent dépourvues d'intérêt, encore plus intéressantes. À l'occasion, il vous permettra de rencontrer de nouvelles espèces de créatures...",
+        "description": "Ce mod ajoute pas moins de 36 nouvelles quêtes et rencontres dans BG, afin de rendre la plupart des zones que vous connaissez bien, et souvent dépourvues d'intérêt, encore plus intéressantes. Cela permet à de nouvelles histoires d'apparaître. C'est l'objectif principal de ce mod : ajouter de nouvelles histoires, de nouveaux personnages, de nouveaux objets et de nombreuses nouvelles occasions pour votre groupe de montrer ce dont il est capable.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=51",
             "https://forums.beamdog.com/discussion/81003/",
@@ -29879,12 +29887,12 @@
     {
         "id": 938,
         "name": "Shar-Teel NPC",
-        "description": "À ne pas confondre avec [[Shar-Teel NPC for SoD]], ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2. Il ne dispose pas de beaucoup de contenu.",
+        "description": "À ne pas confondre avec [[Shar-Teel NPC for SoD]], ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2.",
         "urls": [
             "https://www.mediafire.com/file/fp1n66gtw7a2490/sharteel.zip/file"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ One Day"
         ],
         "games": [
             "BG2",
@@ -30641,7 +30649,7 @@
     {
         "id": 962,
         "name": "Skills and Abilities",
-        "description": "Ce mod propose une collection de modifications des capacités, des compétences martiales et des caractéristiques des classes. Certains composants nécessitent l'installation de [[EEex]] pour fonctionner. Par exemple, les bardes pourront crocheter les serrures, trouver et désarmer les pièges ; les moines crocheter les serrures, trouver et désarmer les pièges, détecter les illusions et gagner de nouvelles capacités... Un composant permet de modifier le système de compétences martiales et d'en ajouter d'autres, etc.",
+        "description": "Ce mod propose une collection de modifications des capacités, des compétences martiales et des caractéristiques des classes. Par exemple, les bardes pourront crocheter les serrures, trouver et désarmer les pièges ; les moines crocheter les serrures, trouver et désarmer les pièges, détecter les illusions et gagner de nouvelles capacités... Un composant permet de modifier le système de compétences martiales et d'en ajouter d'autres, etc.",
         "urls": [
             "https://www.morpheus-mart.com/skills-and-abilities"
         ],
@@ -30662,6 +30670,7 @@
         "team": [],
         "notes": [
             "La plupart des composants nécessitent [[EEex]].",
+            "Ce mod permet d'activer les hlas dans IWDEE, s'il est couplé avec [[lefreut's Enhanced UI for IWDEE]].",
             "L'auteur a retiré la traduction française et n'est pas disposé à la rajouter."
         ],
         "translation_state": "auto",
@@ -30919,12 +30928,12 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Malheureusement, ce mod ne s'installe pas, mais nécessite de recopier de longues lignes de code dans le fichier UI.menu. À réserver aux utilisateurs avertis."
+            "Il existe une version directement intégrée dans [[EEUITweaks]]."
         ],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2018-09",
         "tp2": "non-weidu"
     },
@@ -32658,7 +32667,7 @@
     {
         "id": 1025,
         "name": "Tale of Our Lady Dreamless",
-        "description": "Il existe de nombreux endroits marqués par le goût amer de la perte et de la mort. Un étang gelé, connu sous le nom d'Étang des noyés, est l'un de ces endroits. Il hurle, suppliant qu'on le change. Serez-vous celui ou celle qui apportera la paix à cet endroit recouvert de neige... ou causerez-vous encore plus de souffrance ? |Conte de Notre-Dame sans rêves ajoute une nouvelle petite quête dans IWD:EE. Pour la commencer, suivez la quête principale. Une fois que vous aurez trouvé un certain livre, une nouvelle zone de la carte du monde sera découverte. Explorez-la une fois que vous serez prêt(e).",
+        "description": "Il existe de nombreux endroits marqués par le goût amer de la perte et de la mort. Un étang gelé, connu sous le nom d'Étang des noyés, est l'un de ces endroits. Il hurle, suppliant qu'on le change. Serez-vous celui ou celle qui apportera la paix à cet endroit recouvert de neige... ou causerez-vous encore plus de souffrance ?|Conte de Notre-Dame sans rêves ajoute une nouvelle petite quête dans IWD:EE. Pour la commencer, suivez la quête principale. Une fois que vous aurez trouvé un certain livre, une nouvelle zone de la carte du monde sera découverte. Explorez-la une fois que vous serez prêt(e).",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=46",
             "https://forums.beamdog.com/discussion/79887/",
@@ -37055,12 +37064,12 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Malheureusement, ce mod ne s'installe pas, mais nécessite de recopier de longues lignes de code dans le fichier UI.menu. À réserver aux utilisateurs avertis."
+            "Il existe une version directement intégrée dans [[EEUITweaks]]."
         ],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2016-06",
         "tp2": "non-weidu"
     },
@@ -40471,7 +40480,7 @@
     {
         "id": 1268,
         "name": "CluaFr",
-        "description": "Ce mod permet traduire les CheatsAreas disponibles via la CLUA console.",
+        "description": "Ce mod permet traduire les CheatsAreas disponibles via la CLUA console, y compris celles ajoutées par d'autres mods. Il ajoute également de nouvelles zones dans la liste.",
         "urls": [
             "https://github.com/The-Gate-Project/CluaFr"
         ],
@@ -44478,11 +44487,13 @@
             "Kilivitz"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il existe une version directement intégrée dans [[EEUITweaks]]."
+        ],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2017-02",
         "tp2": "non-weidu"
     },
@@ -46663,7 +46674,7 @@
     {
         "id": 1467,
         "name": "Morgul NPC",
-        "description": "Morg est un guerrier/nécromancien nain (Duergar) maléfique. En raison de sa race, il peut lancer l'invisibilité comme une capacité innée. Il n'a pas encore de banters.|FOR 15, DEX  8, CON 18, INT 15, SAG 16, CHA 7.|Le mod ajoute également un petit donjon supplémentaire, voir le README pour plus d'informations.",
+        "description": "Morg est un guerrier/nécromancien nain (Duergar) maléfique. En raison de sa race, il peut lancer l'invisibilité comme une capacité innée. Il n'a pas encore de banters.|FOR 15, DEX 18, CON 18, INT 15, SAG 16, CHA 7.|Le mod ajoute également un petit donjon supplémentaire, voir le README pour plus d'informations.",
         "urls": [
             "https://github.com/toopok4k3/Morg_BG1"
         ],
@@ -50188,7 +50199,7 @@
     {
         "id": 1587,
         "name": "Trollkiller's Item-Spell-Kit Pack",
-        "description": "Ce mod apporte de nouveaux objets, sorts et kits. Il est encore en construction.",
+        "description": "Ce mod importe de nouveaux objets, sorts et kits de SoD dans BG2EE. Il est une réécriture du mod [[Sod2BG2:EE Item Upgrade]] du même auteur afin de le rendre plus modulaire et faciliter les compatibilités avec les autres mods.",
         "urls": [
             "https://www.gibberlings3.net/forums/forum/214-sod-to-bg2ee-item-upgrade/",
             "https://github.com/DaerosTrollkiller/Trollkillers-Item-Spell-Kitpack"
@@ -50204,7 +50215,9 @@
             "Daeros Trollkiller"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Incompatible avec [[Sod2BG2:EE Item Upgrade]]."
+        ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -55079,7 +55092,6 @@
             "BG2",
             "BGT",
             "BG2EE",
-            "BGEE",
             "EET"
         ],
         "authors": [
@@ -56218,5 +56230,376 @@
         "status": "active",
         "last_update": "2025-08",
         "tp2": "mms"
+    },
+    {
+        "id": 1793,
+        "name": "Audio Bazaar",
+        "description": "Il est parfois difficile pour les moddeurs de trouver quelqu'un qui serait prêt à prêter sa voix à un personnage de mod. Ce sujet propose des échantillons de voix de personnes intéressées par le doublage (en anglais).",
+        "urls": [
+            "https://forums.beamdog.com/discussion/74406/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [],
+        "authors": [
+            "Multiple"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2019-08",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1794,
+        "name": "A Hero Rises, A Text Adventure",
+        "description": "Ce mod inhabituel propose une nouvelle interface de livre afin de pouvoir lire et vivre de nouvelles aventures dont vous êtes le héros.|Pour commencer, allez voir Winthrop pour lui acheter un nouveau livre appelé : `A Hero Rises`.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/59655/"
+        ],
+        "categories": [
+            "Interface",
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "SoD"
+        ],
+        "authors": [
+            "Mr2150"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2016-06",
+        "tp2": "textgame"
+    },
+    {
+        "id": 1795,
+        "name": "IWDisateur",
+        "description": "Le IWDisateur est un mod qui vous permet d'installer sur IWDEE des mods initialement prévus pour BG2EE. Une trentaine de mods sont actuellement proposés.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34964",
+            "https://github.com//Deratiseur/IWD_Convertiseur/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Deratiseur"
+        ],
+        "team": [],
+        "notes": [
+            "La procédure d'installation est expliquée dans le README du projet."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "fr",
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "Derats_IWDisateur"
+    },
+    {
+        "id": 1796,
+        "name": "StaticPortraits",
+        "description": "Ce mod supprime les petites animations des portraits des personnages jouables.",
+        "urls": [
+            "https://github.com/aquadrizzt/StaticPortraits/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "PST",
+            "PSTEE"
+        ],
+        "authors": [
+            "aquadrizzt"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-03",
+        "tp2": "StaticPortraits"
+    },
+    {
+        "id": 1797,
+        "name": "Sir Arkanis for SoD",
+        "description": "Arkanis, membre de l'équipe Château-Suif et Watcher nain, revient en tant que compagnon potentiel dans le DLC officiel Siege of Dragonspear. Il a été promu et est désormais paladin. Le personnage est doté de dialogues amicaux, d'interjections, de plaisanteries et d'une possible romance avec des personnages non maléfiques (le sexe et les statistiques n'ont pas d'importance, mais vous devez lui faire signe ou lui donner des indices au moins deux fois pendant le parcours amical pour qu'il remarque votre intérêt). Il peut rejoindre le groupe dès que vous quittez Baldur's Gate.",
+        "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=74",
+            "https://forums.beamdog.com/discussion/89672/",
+            "https://downloads.weaselmods.net/download/sir-arkanis-for-sod/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "SoD"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "ArkanisSoD"
+    },
+    {
+        "id": 1798,
+        "name": "Eldoth for SoD",
+        "description": "Eldoth Kron est de retour dans le DLC officiel Siege of Dragonspear. Il est toujours aussi méchant, mais comme il ne peut plus manipuler Skie Silvershield (il ne peut plus que l'importuner de temps en temps, lorsqu'ils se croisent), il devrait avoir suffisamment de temps pour vous taper sur les nerfs à la place. C'est toujours un barde maléfique qui peut désormais être recruté à la taverne du Chant de l'elfe, dans la cave à vin.|Le personnage est accompagné d'une petite quête, de quelques dialogues, d'interjections et de quelques plaisanteries avec d'autres compagnons.",
+        "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=74",
+            "https://forums.beamdog.com/discussion/89672/",
+            "https://downloads.weaselmods.net/download/eldoth-for-sod/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "SoD"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "EldothSoD"
+    },
+    {
+        "id": 1799,
+        "name": "Faldorn for SoD",
+        "description": "Faldorn revient en tant que compagne potentielle dans le DLC officiel Siege of Dragonspear. Vous pouvez désormais la rencontrer à Baldur's Gate, près du bâtiment du Trône de Fer. Convainquez-la de rejoindre votre groupe et vous pourrez la garder pendant tout le DLC. Elle est accompagnée de quelques dialogues, d'interjections, de plaisanteries, d'une petite quête et de quelques conversations quasi-romantiques qui servent en quelque sorte d'introduction au mod [[Faldorn BG2EE]].",
+        "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=74",
+            "https://forums.beamdog.com/discussion/89672/",
+            "https://downloads.weaselmods.net/download/faldorn-for-sod/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "SoD"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "FaldornSoD"
+    },
+    {
+        "id": 1800,
+        "name": "Mother Lost for SoD",
+        "description": "Le mod ajoute un nouveau compagnon pour le DLC officiel Siege of Dragonspear. Elle se fait appeler Mother Lost, mais vous découvrirez son vrai nom au fil du temps. Le personnage peut vous rejoindre tardivement dans le DLC, près du portail Fugue Plane ; certains peuvent donc la considérer comme un personnage temporaire. Elle recherche un autre personnage que vous, l'Enfant de Bhaal, êtes destiné à affronter. Ce personnage est une combattante morte-vivante et ne prononce que quelques phrases/commentaires. Pour mieux apprécier ce personnage, il est suggéré de jouer d'abord à IWD et IWD2, car il fait référence à des événements des deux jeux, et ce mod a été créé pour rapprocher encore davantage les deux séries. Attention, il contient des spoilers pour les deux campagnes.",
+        "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=74",
+            "https://forums.beamdog.com/discussion/89672/",
+            "https://downloads.weaselmods.net/download/mother-lost-for-sod/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "SoD"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "MotherSoD"
+    },
+    {
+        "id": 1801,
+        "name": "Roll First",
+        "description": "Ce md propose de lancer les dés de caractéristiques dès le début de la création du personnage. Ainsi, vous pouvez laisser ce score influencer sur les autres choix comme la race ou la classe du personnage, au lieu de l'inverse.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/59780/"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE",
+            "SoD"
+        ],
+        "authors": [
+            "Mr2150"
+        ],
+        "team": [],
+        "notes": [
+            "Il existe une version directement intégrée dans [[EEUITweaks]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": "embed",
+        "last_update": "2016-06",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1802,
+        "name": "Message Box Quick Resize Button",
+        "description": "Ce mod propose de rajouter un bouton pour basculer entre deux réglages rapides pour la taille de la boîte de dialogue. Un réglage petit (environ 5 lignes de haut), et un réglage grand (taille maximale).",
+        "urls": [
+            "https://forums.beamdog.com/discussion/58926/"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "SoD",
+            "BG2EE"
+        ],
+        "authors": [
+            "Adul"
+        ],
+        "team": [],
+        "notes": [
+            "Il existe une version directement intégrée dans [[EEUITweaks]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "embed",
+        "last_update": "2016-05",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1803,
+        "name": "BGEE 1.3-ish dialog box",
+        "description": "Ce mod propose de recréer la fenêtre de dialogue comme sur la version 1.3 de EE. C'est-à-dire :|Une seule barre de scroll|Lors d'un scroll vers le haut, l'historique s'affiche dans la même fenêtre|Cela fonctionne même avec une modification de la taille de police",
+        "urls": [
+            "https://forums.beamdog.com/discussion/61138/"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE"
+        ],
+        "authors": [
+            "lefreut"
+        ],
+        "team": [],
+        "notes": [
+            "Il existe une version directement intégrée dans [[EEUITweaks]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": "embed",
+        "last_update": "2016-09",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1804,
+        "name": "Area Cheats Made Easier",
+        "description": "La console de triche permet aux personnages de se téléporter d'une carte à l'autre, ce mod propose un élargissement de ces zones afin d'inclure de nouvelles cartes originelles de BG.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/63584/"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE",
+            "SoD"
+        ],
+        "authors": [
+            "elminster"
+        ],
+        "team": [],
+        "notes": [
+            "Il existe une version directement intégrée dans [[EEUITweaks]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": "embed",
+        "last_update": "2017-03",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1805,
+        "name": "How to get transparent sidebars",
+        "description": "Si vous souhaitez des barres latérales transparentes pour récupérer davantage d'espace sur votre écran, ce mod est fait pour vous.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/49786/#Comment_796601"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE",
+            "SoD"
+        ],
+        "authors": [
+            "mf2112",
+            "AncientCowboy"
+        ],
+        "team": [],
+        "notes": [
+            "Il existe une version directement intégrée dans [[EEUITweaks]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": "embed",
+        "last_update": "2016-10",
+        "tp2": "TransparentSidebars"
     }
 ]

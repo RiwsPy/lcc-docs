@@ -1868,10 +1868,14 @@
             "status": "needs_review",
             "source": "Ce mod permet de stocker automatiquement le score de caractéristiques lors de la création d'un personnage en appuyant sur le nouveau bouton \"autoroll\". Ce dernier permet de lancer les dés automatiquement jusqu'à ce que vous obteniez le score souhaité.|Son installation nécessite une manipulation du fichier UI.menu décrite sur la page de téléchargement."
         },
-        "notes": [],
+        "notes": [
+            "There is a version directly integrated into [[EEUITweaks]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Il existe une version directement intégrée dans [[EEUITweaks]]."
+            ]
         }
     },
     {
@@ -8458,10 +8462,14 @@
             "status": "needs_review",
             "source": "Ce mod modifie l'affichage des journaux en permettant notamment de filter les informations."
         },
-        "notes": [],
+        "notes": [
+            "There is a version directly integrated into [[EEUITweaks]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Il existe une version directement intégrée dans [[EEUITweaks]]."
+            ]
         }
     },
     {
@@ -9076,10 +9084,10 @@
     },
     {
         "id": 626,
-        "description": "Lefreut, from Oghmatiques, has developed a series of mods to modify the new BG:EE and BG2:EE game interface introduced with version 2.0 and Siege of Dragonspear. This one improves the IWD:EE interface with a number of ergonomic modifications, and in particular enables access to hlas in IWDEE, which doesn't offer them by default, due to the lack of interface.",
+        "description": "This mod improves the IWD:EE interface with a number of ergonomic modifications. Coupled with other mods like [[Skills and Abilities]], this mod allows you to access the hlas, which doesn't offer them by default, due to the lack of interface.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Lefreut, des d'Oghmatiques, a développé toute une série de mods permettant de modifier la nouvelle interface de jeu de BG:EE et BG2:EE apparue avec la version 2.0 et Siege of Dragonspear. Celui-ci améliore l'interface de IWD:EE avec un certain nombre de modifications d'ergonomie, et permet notamment d'accéder aux hlas dans IWDEE, qui ne les propose pas par défaut, faute d'interface."
+            "source": "Ce mod améliore l'interface de IWD:EE avec un certain nombre de modifications d'ergonomie. Couplé avec d'autres mods comme [[Skills and Abilities]], ce mod permet d'accéder aux hlas, qui ne les propose pas par défaut, faute d'interface."
         },
         "notes": [
             "Warning: install version 1.9.2 from patch 2.6, and version 1.8.1 for earlier patches."
@@ -9087,7 +9095,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : Installez la version 1.9.2 à partir du patch 2.6, et la version 1.8.1 pour les patches antérieurs."
+                "Installez la version 2.0 à partir du patch 2.6, et la version 1.8.1 pour les patches antérieurs."
             ]
         }
     },
@@ -10202,10 +10210,14 @@
             "status": "needs_review",
             "source": "Essentiellement destiné aux moddeurs, ce mod ajoute de nouveaux boutons dans les écrans de lancement et d'options du jeu, qui permettent d'afficher les paramètres de mod, à condition qu'ils aient été définis comme complément de l'UI."
         },
-        "notes": [],
+        "notes": [
+            "There is a version directly integrated into [[EEUITweaks]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Il existe une version directement intégrée dans [[EEUITweaks]]."
+            ]
         }
     },
     {
@@ -11353,7 +11365,7 @@
         "description": "This mod renders all spells and abilities that give enhanced invisibility PnP: the character does not become visible again after attacking. It also modifies the Sparkling Dust spell so that it reveals invisible creatures who fail their saving throw.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod rend tous les sorts et capacités qui rendent donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il rendent révèle les créatures invisibles qui ratent leu jet de sauvegarde."
+            "source": "Ce mod rend tous les sorts et capacités qui donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il révèle les créatures invisibles qui ratent leu jet de sauvegarde."
         },
         "notes": [],
         "notes_meta": {
@@ -12013,12 +12025,14 @@
             "source": "Ce mod modifie l'interface de sélection des portraits."
         },
         "notes": [
-            "Warning: it requires manipulation of certain files. Be sure to read the included readme."
+            "Warning: it requires manipulation of certain files. Be sure to read the included readme.",
+            "There is a version directly integrated into [[EEUITweaks]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : il nécessite une manipulation de certains fichiers. Bien lire le readme inclus."
+                "Attention : il nécessite une manipulation de certains fichiers. Bien lire le readme inclus.",
+                "Il existe une version directement intégrée dans [[EEUITweaks]]."
             ]
         }
     },
@@ -13619,10 +13633,10 @@
     },
     {
         "id": 938,
-        "description": "Not to be confused with [[Shar-Teel NPC for SoD]], this mod allows you to recruit the evil chaotic fighter Shar-Teel in BG2. It doesn't have much content.",
+        "description": "Not to be confused with [[Shar-Teel NPC for SoD]], this mod allows you to recruit the evil chaotic fighter Shar-Teel in BG2. ",
         "description_meta": {
             "status": "needs_review",
-            "source": "À ne pas confondre avec [[Shar-Teel NPC for SoD]], ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2. Il ne dispose pas de beaucoup de contenu."
+            "source": "À ne pas confondre avec [[Shar-Teel NPC for SoD]], ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2."
         },
         "notes": [],
         "notes_meta": {
@@ -13959,19 +13973,21 @@
     },
     {
         "id": 962,
-        "description": "This mod offers a collection of modifications to abilities, martial skills and class characteristics. Some components require the installation of [[EEex]] to function. For example, bards can pick locks, find and disarm traps; monks can pick locks, find and disarm traps, detect illusions and gain new abilities... A component can be used to modify the martial skill system and add new ones, etc.",
+        "description": "This mod offers a collection of modifications to abilities, martial skills and class characteristics. For example, bards can pick locks, find and disarm traps; monks can pick locks, find and disarm traps, detect illusions and gain new abilities... A component can be used to modify the martial skill system and add new ones, etc.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod propose une collection de modifications des capacités, des compétences martiales et des caractéristiques des classes. Certains composants nécessitent l'installation de [[EEex]] pour fonctionner. Par exemple, les bardes pourront crocheter les serrures, trouver et désarmer les pièges ; les moines crocheter les serrures, trouver et désarmer les pièges, détecter les illusions et gagner de nouvelles capacités... Un composant permet de modifier le système de compétences martiales et d'en ajouter d'autres, etc."
+            "source": "Ce mod propose une collection de modifications des capacités, des compétences martiales et des caractéristiques des classes. Par exemple, les bardes pourront crocheter les serrures, trouver et désarmer les pièges ; les moines crocheter les serrures, trouver et désarmer les pièges, détecter les illusions et gagner de nouvelles capacités... Un composant permet de modifier le système de compétences martiales et d'en ajouter d'autres, etc."
         },
         "notes": [
             "Most components require [[EEex]].",
+            "This mod allows to activate hlas in IWDEE, if coupled with [[lefreut's Enhanced UI for IWDEE]].",
             "The author has removed the French translation and is not willing to add it."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
                 "La plupart des composants nécessitent [[EEex]].",
+                "Ce mod permet d'activer les hlas dans IWDEE, s'il est couplé avec [[lefreut's Enhanced UI for IWDEE]].",
                 "L'auteur a retiré la traduction française et n'est pas disposé à la rajouter."
             ]
         }
@@ -14079,12 +14095,12 @@
             "source": "Ce mod a pour but de rendre plus facile et moins longue l'exécution de tâches courantes dans la gestion des magasins et des sacs d'objets, comme vendre ou le déplacer des piles entières d'objets. Par exemple :|- Un simple clic sur un objet dans le volet Vente d'un magasin ou dans l'un ou l'autre volet d'un sac sélectionne la pile entière.|- Le montant par défaut des articles de la pile fractionnée est fixé à 1, de manière cohérente."
         },
         "notes": [
-            "Warning: Unfortunately, this mod does not install itself, but requires you to copy long lines of code into the UI.menu file. For experienced users only."
+            "There is a version directly integrated into [[EEUITweaks]]."
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
-                "Attention : Malheureusement, ce mod ne s'installe pas, mais nécessite de recopier de longues lignes de code dans le fichier UI.menu. À réserver aux utilisateurs avertis."
+                "Il existe une version directement intégrée dans [[EEUITweaks]]."
             ]
         }
     },
@@ -14883,7 +14899,7 @@
         "id": 1025,
         "description": "There are many places marked by the bitter taste of loss and death. A frozen pond, known as the Pond of the Drowned, is one such place. It screams, begging for change. Will you be the one to bring peace to that snow-covered place... or will you cause even more pain?|The mod adds a new small quest to Icewind Dale: Enhanced Edition. To start it, follow the main quest. Once you find a certain book, a new worldmap area will be discovered. Visit it once you're ready.",
         "description_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": "Il existe de nombreux endroits marqués par le goût amer de la perte et de la mort. Un étang gelé, connu sous le nom d'Étang des noyés, est l'un de ces endroits. Il hurle, suppliant qu'on le change. Serez-vous celui ou celle qui apportera la paix à cet endroit recouvert de neige... ou causerez-vous encore plus de souffrance ?|Conte de Notre-Dame sans rêves ajoute une nouvelle petite quête dans IWD:EE. Pour la commencer, suivez la quête principale. Une fois que vous aurez trouvé un certain livre, une nouvelle zone de la carte du monde sera découverte. Explorez-la une fois que vous serez prêt(e)."
         },
         "notes": [],
@@ -16826,12 +16842,12 @@
             "source": "Ce mod restaure les options non disponibles lors de la création de personnages qui avaient disparu avec le patch v2.0. Par exemple, si vous choisissez la race halfling, seules les 4 classes sont disponibles dans la sélection des classes, alors les versions précédentes permettaient de voir toutes les options désactivées. Les éléments suivants seront donc de nouveau affichés :|- Classes exclues par votre sélection de race.|- Le montant par défaut des articles de la pile fractionnée est fixé à 1, de manière cohérente.|- Kits exclus par votre sélection de race.|- Alignements exclus par vos sélections de classes/kits.|- Compétences d'armes exclues par votre sélection de classe/kit."
         },
         "notes": [
-            "Please note: Unfortunately, this mod does not install itself, but requires you to copy long lines of code into the UI.menu file. For experienced users only."
+            "There is a version directly integrated into [[EEUITweaks]]."
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
-                "Attention : Malheureusement, ce mod ne s'installe pas, mais nécessite de recopier de longues lignes de code dans le fichier UI.menu. À réserver aux utilisateurs avertis."
+                "Il existe une version directement intégrée dans [[EEUITweaks]]."
             ]
         }
     },
@@ -17599,8 +17615,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Le dernier lien propose un fix."
+            ]
         }
     },
     {
@@ -18371,10 +18389,10 @@
     },
     {
         "id": 1268,
-        "description": "This mod translates the CheatsAreas available via the CLUA console.",
+        "description": "This mod translates the CheatsAreas available via the CLUA console, including those added by other mods. It also adds new areas to the list.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet traduire les CheatsAreas disponibles via la CLUA console."
+            "source": "Ce mod permet traduire les CheatsAreas disponibles via la CLUA console, y compris celles ajoutées par d'autres mods. Il ajoute également de nouvelles zones dans la liste."
         },
         "notes": [
             "Install this mod after EET and mods adding new areas to the CluaConsole and, if possible, after interface mods. Read the project readme for more details."
@@ -20148,10 +20166,14 @@
             "status": "needs_review",
             "source": "Ce mod rétablit l'interface des livres de Mage et de Prêtre d'avant la version 2.0."
         },
-        "notes": [],
+        "notes": [
+            "There is a version directly integrated into [[EEUITweaks]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Il existe une version directement intégrée dans [[EEUITweaks]]."
+            ]
         }
     },
     {
@@ -21225,10 +21247,10 @@
     },
     {
         "id": 1467,
-        "description": "Morg is an evil dwarf (Duergar) fighter/necromancer. Because of his race, he can cast invisibility as an innate ability. He has no banters yet.|STR 15, DEX 8, CON 18, INT 15, WIS 16, CHA 7.|The mod also adds a small extra dungeon, see README for more information.",
+        "description": "Morg is an evil dwarf (Duergar) fighter/necromancer. Because of his race, he can cast invisibility as an innate ability. He has no banters yet.|STR 15, DEX 18, CON 18, INT 15, WIS 16, CHA 7.|The mod also adds a small extra dungeon, see README for more information.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Morg est un guerrier/nécromancien nain (Duergar) maléfique. En raison de sa race, il peut lancer l'invisibilité comme une capacité innée. Il n'a pas encore de banters.|FOR 15, DEX  8, CON 18, INT 15, SAG 16, CHA 7.|Le mod ajoute également un petit donjon supplémentaire, voir le README pour plus d'informations."
+            "source": "Morg est un guerrier/nécromancien nain (Duergar) maléfique. En raison de sa race, il peut lancer l'invisibilité comme une capacité innée. Il n'a pas encore de banters.|FOR 15, DEX 18, CON 18, INT 15, SAG 16, CHA 7.|Le mod ajoute également un petit donjon supplémentaire, voir le README pour plus d'informations."
         },
         "notes": [],
         "notes_meta": {
@@ -22975,15 +22997,19 @@
     },
     {
         "id": 1587,
-        "description": "This mod brings new items, spells and kits. Still under construction.",
+        "description": "This mod brings new items, spells and kits from SoD into BG2EE. It is a rewrite of the [[Sod2BG2:EE Item Upgrade]] mod by the same author to make it more modular and easier to work with other mods.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod apporte de nouveaux objets, sorts et kits. Il est encore en construction."
+            "source": "Ce mod importe de nouveaux objets, sorts et kits de SoD dans BG2EE. Il est une réécriture du mod [[Sod2BG2:EE Item Upgrade]] du même auteur afin de le rendre plus modulaire et faciliter les compatibilités avec les autres mods."
         },
-        "notes": [],
+        "notes": [
+            "Incompatible with [[Sod2BG2:EE Item Upgrade]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Incompatible avec [[Sod2BG2:EE Item Upgrade]]."
+            ]
         }
     },
     {
@@ -25830,6 +25856,199 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1793,
+        "description": "It is sometimes difficult for modders to find someone who would be eager to voice a mod character. This topic proposes samples of voices of people interested in voicing some characters (in English).",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Il est parfois difficile pour les moddeurs de trouver quelqu'un qui serait prêt à prêter sa voix à un personnage de mod. Ce sujet propose des échantillons de voix de personnes intéressées par le doublage (en anglais)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1794,
+        "description": "This inhabitual mod proposes a new interface for books. You can read and live new adventures that you are the hero.|To start, go to Winthrop to buy a new book called `A Hero Rises`.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod inhabituel propose une nouvelle interface de livre afin de pouvoir lire et vivre de nouvelles aventures dont vous êtes le héros.|Pour commencer, allez voir Winthrop pour lui acheter un nouveau livre appelé : `A Hero Rises`."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1795,
+        "description": "The IWDisator is a module allows you to install certain mods initially designed for BG2EE on IWDEE. There are currently about 30 mods available.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Le IWDisateur est un mod qui vous permet d'installer sur IWDEE des mods initialement prévus pour BG2EE. Une trentaine de mods sont actuellement proposés."
+        },
+        "notes": [
+            "The installation procedure is explained in the project's README."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "La procédure d'installation est expliquée dans le README du projet."
+            ]
+        }
+    },
+    {
+        "id": 1796,
+        "description": "This mod removes the small animations from the playable character portraits.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod supprime les petites animations des portraits des personnages jouables."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1797,
+        "description": "Arkanis, a member of the Candlekeep team and a dwarf Watcher, returns as a possible companion for the Siege of Dragonspear official DLC. He has received a promotion, and is now a paladin. The character comes with friendship talks, interjections, banters, and a possible romance with non-evil characters (gender and statistics do not matter, but you need to give him a sign or hint at least twice during the friendship path to make him notice your interest). He may join the group right after you leave Baldur's Gate.",
+        "description_meta": {
+            "status": "done",
+            "source": "Arkanis, membre de l'équipe Château-Suif et Watcher nain, revient en tant que compagnon potentiel dans le DLC officiel Siege of Dragonspear. Il a été promu et est désormais paladin. Le personnage est doté de dialogues amicaux, d'interjections, de plaisanteries et d'une possible romance avec des personnages non maléfiques (le sexe et les statistiques n'ont pas d'importance, mais vous devez lui faire signe ou lui donner des indices au moins deux fois pendant le parcours amical pour qu'il remarque votre intérêt). Il peut rejoindre le groupe dès que vous quittez Baldur's Gate."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1798,
+        "description": "Eldoth Kron is back for the Siege of Dragonspear official DLC. He's still as nasty as he used to be, but now, since he can no longer manipulate Skie Silvershield (only pester her on occasion, when they notice each other), he should have enough time to get on your nerves instead. He is still an evil bard who may now be recruited in Elfsong Tavern, inside the wine storage.|The character comes with a small quest, some timed talks, interjections, and a few banters with other companions.",
+        "description_meta": {
+            "status": "done",
+            "source": "Eldoth Kron est de retour dans le DLC officiel Siege of Dragonspear. Il est toujours aussi méchant, mais comme il ne peut plus manipuler Skie Silvershield (il ne peut plus que l'importuner de temps en temps, lorsqu'ils se croisent), il devrait avoir suffisamment de temps pour vous taper sur les nerfs à la place. C'est toujours un barde maléfique qui peut désormais être recruté à la taverne du Chant de l'elfe, dans la cave à vin.|Le personnage est accompagné d'une petite quête, de quelques dialogues, d'interjections et de quelques plaisanteries avec d'autres compagnons."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1799,
+        "description": "Faldorn returns as a possible companion for the Siege of Dragonspear official DLC. She may now be encountered in Baldur's Gate, near the Iron Throne building. Convince her she should join your group, and you will be able to keep her for the whole DLC. She comes with a few timed talks, interjections, banters, a small quest, and a few quasi-romantic talks that serve as somewhat of an introduction to the [[Faldorn BG2EE]] mod.",
+        "description_meta": {
+            "status": "done",
+            "source": "Faldorn revient en tant que compagne potentielle dans le DLC officiel Siege of Dragonspear. Vous pouvez désormais la rencontrer à Baldur's Gate, près du bâtiment du Trône de Fer. Convainquez-la de rejoindre votre groupe et vous pourrez la garder pendant tout le DLC. Elle est accompagnée de quelques dialogues, d'interjections, de plaisanteries, d'une petite quête et de quelques conversations quasi-romantiques qui servent en quelque sorte d'introduction au mod [[Faldorn BG2EE]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1800,
+        "description": "The mod adds a new companion for the Siege of Dragonspear official DLC -- she calls herself Mother Lost, but in time you may uncover her true name. The character may join you late in the DLC, next to the Fugue Plane portal; some may therefore consider her more of a temporary character. She is looking for another character you, the Child of Bhaal, are destined to face. The character is an undead fighter and comes with only a few talks/comments. To enjoy the character more, I suggest playing IWD and IWD2 first, as the character refers to events from both games, and this mod was created to bring the two series even closer together. Be aware, it contains spoilers for both campaigns.",
+        "description_meta": {
+            "status": "done",
+            "source": "Le mod ajoute un nouveau compagnon pour le DLC officiel Siege of Dragonspear. Elle se fait appeler Mother Lost, mais vous découvrirez son vrai nom au fil du temps. Le personnage peut vous rejoindre tardivement dans le DLC, près du portail Fugue Plane ; certains peuvent donc la considérer comme un personnage temporaire. Elle recherche un autre personnage que vous, l'Enfant de Bhaal, êtes destiné à affronter. Ce personnage est une combattante morte-vivante et ne prononce que quelques phrases/commentaires. Pour mieux apprécier ce personnage, il est suggéré de jouer d'abord à IWD et IWD2, car il fait référence à des événements des deux jeux, et ce mod a été créé pour rapprocher encore davantage les deux séries. Attention, il contient des spoilers pour les deux campagnes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1801,
+        "description": "This mod proposes to roll the character creation dice as soon as possible. Thus, you can let this score influence on the race or class of the character, instead of the inverse.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce md propose de lancer les dés de caractéristiques dès le début de la création du personnage. Ainsi, vous pouvez laisser ce score influencer sur les autres choix comme la race ou la classe du personnage, au lieu de l'inverse."
+        },
+        "notes": [
+            "There is a version directly integrated into [[EEUITweaks]]."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Il existe une version directement intégrée dans [[EEUITweaks]]."
+            ]
+        }
+    },
+    {
+        "id": 1802,
+        "description": "This mod proposes to add a button that toggles the size of the box between two quick settings: a small setting (about 5 lines tall), and a large setting (maximum size).",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod propose de rajouter un bouton pour basculer entre deux réglages rapides pour la taille de la boîte de dialogue. Un réglage petit (environ 5 lignes de haut), et un réglage grand (taille maximale)."
+        },
+        "notes": [
+            "There is a version directly integrated into [[EEUITweaks]]."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Il existe une version directement intégrée dans [[EEUITweaks]]."
+            ]
+        }
+    },
+    {
+        "id": 1803,
+        "description": "This mod proposes to recreate the dialog box as on the 1.3 version of EE. That is:|Only have one scrollbar|When scrolling up, you get the dialog history in the same box|It works even with bigger font",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose de recréer la fenêtre de dialogue comme sur la version 1.3 de EE. C'est-à-dire :|Une seule barre de scroll|Lors d'un scroll vers le haut, l'historique s'affiche dans la même fenêtre|Cela fonctionne même avec une modification de la taille de police"
+        },
+        "notes": [
+            "There is a version directly integrated into [[EEUITweaks]]."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Il existe une version directement intégrée dans [[EEUITweaks]]."
+            ]
+        }
+    },
+    {
+        "id": 1804,
+        "description": "The CLUAConsole mod allows characters to teleport between maps, this mod expands these zones to include some BG original areas.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "La console de triche permet aux personnages de se téléporter d'une carte à l'autre, ce mod propose un élargissement de ces zones afin d'inclure de nouvelles cartes originelles de BG."
+        },
+        "notes": [
+            "There is a version directly integrated into [[EEUITweaks]]."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Il existe une version directement intégrée dans [[EEUITweaks]]."
+            ]
+        }
+    },
+    {
+        "id": 1805,
+        "description": "If you would like transparent sidebars to give you back more of your screen real estate, this mod is for you.",
+        "description_meta": {
+            "status": "done",
+            "source": "Si vous souhaitez des barres latérales transparentes pour récupérer davantage d'espace sur votre écran, ce mod est fait pour vous."
+        },
+        "notes": [
+            "There is a version directly integrated into [[EEUITweaks]]."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Il existe une version directement intégrée dans [[EEUITweaks]]."
+            ]
         }
     }
 ]
