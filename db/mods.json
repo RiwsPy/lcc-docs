@@ -41090,7 +41090,9 @@
             "BCaesar"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il existe une version plus lite et sans contenu pour adulte : [[Living Clara]]."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -50263,7 +50265,7 @@
         "name": "Hunyuan Monk",
         "description": "Hunyuan est un kit de Moine qui peut par exemple se transformer en nuage qui lui permet de récupérer bon nombre de points de vie. Il dispose également de plusieurs postures de combat, qui peuvent au choix, lui permettre de résister aux attaques physiques, aux dégâts magiques ou augmenter les compétences martiales des alliés dans la zone… Lire le readme pour en savoir plus.",
         "urls": [
-            "https://github.com/Sebastian-c4/Hunyuan_Monk"
+            "https://github.com/robvoid/Hunyuan_Monk"
         ],
         "categories": [
             "Kit"
@@ -50274,17 +50276,18 @@
             "EET"
         ],
         "authors": [
-            "c4_angel"
+            "c4_angel",
+            "spark_gs_gs"
         ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "cn"
         ],
         "status": "active",
-        "last_update": "2018-10",
+        "last_update": "2024-09",
         "tp2": "c4Monk"
     },
     {
@@ -56601,5 +56604,37 @@
         "status": "embed",
         "last_update": "2016-10",
         "tp2": "TransparentSidebars"
+    },
+    {
+        "id": 1806,
+        "name": "Living Clara",
+        "description": "Il s'agit d'une version amoindrie de [[All Things Mazzy]], une collection de mods de PNJ qui peuvent s'installer indépendamment les uns des autres :| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Bodhi NPC|Il retire notamment le contenu pour adulte du mod original.",
+        "urls": [
+            "https://github.com/trow/LivingClara"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Mephisto"
+        ],
+        "team": [],
+        "notes": [
+            "Il est incompatible avec [[All Things Mazzy]]."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru",
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "LivingClara"
     }
 ]
