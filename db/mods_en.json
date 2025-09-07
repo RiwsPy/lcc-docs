@@ -2422,10 +2422,10 @@
     },
     {
         "id": 167,
-        "description": "This very old Galactygon mod got around the constraint of the game engine, which had a limited number of creature animations it could use. It therefore added numerous animations from the IWD, IWD2 and BG1 games to BG2. However, its highly technical nature (basically, it used the weapons with which creatures were equipped to modify their appearance) made it difficult to use.",
+        "description": "This very old mod got around the constraint of the game engine, which had a limited number of creature animations it could use. It therefore added numerous animations from the IWD, IWD2 and BG1 games to BG2. However, its highly technical nature (basically, it used the weapons with which creatures were equipped to modify their appearance) made it difficult to use.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce très vieux mod de Galactygon permettait de contourner la contrainte du moteur du jeu qui disposait d'un nombre limité d'animations de créatures qu'il pouvait utiliser. Il ajoutait donc de nombreuses animations des jeux IWD, IWD2 et BG1 dans BG2. Cependant, sa nature très technique (en gros, il utilisait les armes dont les créatures étaient équipées pour modifier leur apparence) le rend difficile à utiliser."
+            "source": "Ce très vieux mod permettait de contourner la contrainte du moteur du jeu qui disposait d'un nombre limité d'animations de créatures qu'il pouvait utiliser. Il ajoutait donc de nombreuses animations des jeux IWD, IWD2 et BG1 dans BG2. Cependant, sa nature très technique (en gros, il utilisait les armes dont les créatures étaient équipées pour modifier leur apparence) le rend difficile à utiliser."
         },
         "notes": [
             "The release of Infinity Animations made it completely obsolete."
@@ -2800,10 +2800,10 @@
     },
     {
         "id": 193,
-        "description": "Originally published on the now defunct RPG site, this mod by aWoundedLion is temporarily hosted on the Russian site arcanecoast.ru.|It adds Branwen (the NPC from the original Baldur's Gate) to the Irenicus dungeon at the start of Baldur's Gate 2, as if she'd traveled with you from the Sword Coast. She has a new portrait (taken from Icewind Dale), is a fighter-priestess (whereas she was a priestess in BG), and her characteristics have been modified so that she can survive in BG2. If you fire her, she'll return to the North. Unfortunately, this mod is not yet complete and its content is very limited: few dialogues, very few interactions, no romance, no quests.|STR 17, DEX 15, CON 15, INT 10, WIS 18, CHA 12.",
+        "description": "This mod adds Branwen (the NPC from the original Baldur's Gate) to the Irenicus dungeon at the start of Baldur's Gate 2, as if she'd traveled with you from the Sword Coast. She has a new portrait (taken from Icewind Dale), is a fighter-priestess (whereas she was a priestess in BG), and her characteristics have been modified so that she can survive in BG2. If you fire her, she'll return to the North. Unfortunately, this mod is not yet complete and its content is very limited: few dialogues, very few interactions, no romance, no quests.|STR 17, DEX 15, CON 15, INT 10, WIS 18, CHA 12.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Initialement publié sur le défunt site RPG, ce mod de aWoundedLion est temporairement hébergé sur le site russe arcanecoast.ru.|Il ajoute Branwen (le PNJ du Baldur's Gate original) dans le donjon d'Irenicus, au début de Baldur's Gate 2, comme si elle avait voyagé avec vous depuis la Côte des Épées. Elle dispose d'un nouveau portrait (tiré de Icewind Dale), est guerrière-prêtresse (alors qu'elle était prêtresse dans BG), et ses caractéristiques ont été modifiées pour qu'elle puisse survivre dans BG2. Si vous la congédiez, elle retournera dans le Nord. Malheureusement, ce mod n'est pas terminé et son contenu est très limité : peu de dialogues, très peu d'interactions, pas de romance, ni de quêtes.|FOR 17, DEX 15, CON 15, INT 10, SAG 18, CHA 12."
+            "source": "Ce mod ajoute Branwen (le PNJ du Baldur's Gate original) dans le donjon d'Irenicus, au début de Baldur's Gate 2, comme si elle avait voyagé avec vous depuis la Côte des Épées. Elle dispose d'un nouveau portrait (tiré de Icewind Dale), est guerrière-prêtresse (alors qu'elle était prêtresse dans BG), et ses caractéristiques ont été modifiées pour qu'elle puisse survivre dans BG2. Si vous la congédiez, elle retournera dans le Nord. Malheureusement, ce mod n'est pas terminé et son contenu est très limité : peu de dialogues, très peu d'interactions, pas de romance, ni de quêtes.|FOR 17, DEX 15, CON 15, INT 10, SAG 18, CHA 12."
         },
         "notes": [
             "Please note: this mod is incompatible with the many mods that also introduce Branwen into BG2, such as [[Perils of Branwen]], [[Branwen NPC for BGII]] and [[BG1 NPC in SoA&ToB]]."
@@ -3866,10 +3866,10 @@
     },
     {
         "id": 267,
-        "description": "This mod allows you to collect items from the corpses of wild animals you encounter (bears, dogs, wolves, spiders...): meat, skins, bones that can be resold or consumed. In addition, a quest has been added for a new NPC to craft a suit of armor. In Bois Manteau, another NPC is interested in spider remains.",
+        "description": "This mod allows you to collect items from the corpses of wild animals you encounter (bears, dogs, wolves, spiders...): meat, skins, bones that can be resold or consumed. In addition, a quest has been added for a new NPC to craft a suit of armor. In Cloakwood, another NPC is interested in spider remains.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet de récupérer des objets sur les cadavres d'animaux sauvages que l'on rencontre (ours, chiens, loups, araignées...) : de la viande, des peaux, des os que l'on peut revendre ou consommer. Par ailleurs, il ajoute une quête qui permettra de faire fabriquer une armure par un nouveau PNJ. Dans Bois Manteau, un autre PNJ est intéressé par les restes d'araignées."
+            "source": "Ce mod permet de récupérer des objets sur les cadavres d'animaux sauvages que l'on rencontre (ours, chiens, loups, araignées...) : de la viande, des peaux, des os que l'on peut revendre ou consommer. Par ailleurs, il ajoute une quête qui permettra de faire fabriquer une armure par un nouveau PNJ. Dans Bois-Manteau, un autre PNJ est intéressé par les restes d'araignées."
         },
         "notes": [],
         "notes_meta": {
@@ -5719,7 +5719,7 @@
         "description": "She's a Tiefflin elf, a Fey'ri, of neutral chaotic alignment, and a mono-classified thief. She is one of Aran Linvail's lieutenants, and has magical abilities due to her ancestry. Her romance can be pursued by any male character, regardless of class, race or alignment. Recruit her early on, as her romances and personal quests are relatively long. To mark the release of the ToB part, the mod has been switched back to English, and its verve is consistent: banters with Bioware NPCs and certain shadow thieves, flirtations, new protagonists, 2 main quests and a wackier quest.|STR 14, DEX 19, CON 10, INT 16, WIS 11, CHA 16.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'une elfe tieffeline, une Fey'ri, d'alignement chaotique neutre, et voleuse mono-classée. C'est un des lieutenants d'Aran Linvail, et elle dispose de capacités magiques du fait de son ascendance. Sa romance peut être menée par n'importe quel personnage mâle, quel que soit sa classe, sa race ou son alignement. Recrutez-la suffisamment tôt, ses romance et quêtes personnelle étant relativement longues. À l'occasion de la sortie de la partie ToB, le mod est repassé en anglais, et sa verve est conséquente : banters avec les PNJ de Bioware et certains voleurs de l'ombre, des flirts, de nouveaux protagonistes, 2 quêtes principales et une quête plus farfelue.|FOR 14, DEX 19, CON 10, INT 16, SAG 11, CHA 16."
+            "source": "Il s'agit d'une elfe tieffeline, une Fey'ri, d'alignement chaotique neutre, et voleuse mono-classée. C'est une des lieutenants d'Aran Linvail, et elle dispose de capacités magiques du fait de son ascendance. Sa romance peut être menée par n'importe quel personnage mâle, quel que soit sa classe, sa race ou son alignement. Recrutez-la suffisamment tôt, ses romance et quêtes personnelle étant relativement longues. À l'occasion de la sortie de la partie ToB, le mod est repassé en anglais, et sa verve est conséquente : banters avec les PNJ de Bioware et certains voleurs de l'ombre, des flirts, de nouveaux protagonistes, 2 quêtes principales et une quête plus farfelue.|FOR 14, DEX 19, CON 10, INT 16, SAG 11, CHA 16."
         },
         "notes": [
             "Since version v4, already compatible with BG2:EE and the ToB part, the mod has lost its French translation.",
@@ -5738,7 +5738,7 @@
         "description": "\"<i>A grieving soul haunts the graveyard of Athkatla... Paladin mowed down by too much casualness, Aidan is doomed to wander between life and death until his ultimate quest finds resolution... Will you be selfless enough to come to his aid?</i> \"|This mod introduces Aidan, a fallen paladin from Amaunator, who has some serious issues for you to consider. One is that he's dead... and the other that he never managed to complete his last quest. Help him, and who knows? Maybe you'll instill in him the courage to face the judgment he's so often avoided.|Fading Promises is a dialog-driven mod. If you like conversations about the meaning of life, death and honor (and aren't allergic to paladins), don't hesitate to download it!",
         "description_meta": {
             "status": "needs_review",
-            "source": "« <i>Une âme en peine hante le cimetière d'Athkatla... Paladin fauché par trop de désinvolture, Aidan est condamné à errer entre la vie et la mort tant que son ultime quête ne trouve pas sa résolution... Serez-vous suffisamment désintéressé(e) pour lui venir en aide ?</i> »|Ce mod introduit Aidan, un paladin déchu d'Amaunator, qui a de sérieux problèmes à vous soumettre. L'un d'eux est qu'il est mort... et l'autre qu'il n'est jamais parvenu à mener à bien sa dernière quête. Aidez-le et qui sait ? Peut-être lui insufflerez-vous le courage de faire face au jugement qu'il a tant de fois évité.|Fading Promises est un mod axé dialogues. Si vous aimez les conversations sur le sens de la vie, de la mort et de l'honneur (et n'êtes pas allergique aux paladins ) n'hésitez pas à le télécharger !"
+            "source": "« <i>Une âme en peine hante le cimetière d'Athkatla... Paladin fauché par trop de désinvolture, Aidan est condamné à errer entre la vie et la mort tant que son ultime quête ne trouve pas sa résolution... Serez-vous suffisamment désintéressé(e) pour lui venir en aide ?</i> »|Ce mod introduit Aidan, un paladin déchu d'Amaunator, qui a de sérieux problèmes à vous soumettre. L'un d'eux est qu'il est mort... et l'autre qu'il n'est jamais parvenu à mener à bien sa dernière quête. Aidez-le et qui sait ? Peut-être lui insufflerez-vous le courage de faire face au jugement qu'il a tant de fois évité.|Fading Promises est un mod axé dialogues. Si vous aimez les conversations sur le sens de la vie, de la mort et de l'honneur (et n'êtes pas allergique aux paladins) n'hésitez pas à le télécharger !"
         },
         "notes": [],
         "notes_meta": {
@@ -5808,7 +5808,7 @@
     },
     {
         "id": 400,
-        "description": "A lighter version of the [[Firewalker]] mod, this mod is designed for those who want to play Baldur's Gate without suffering from slow character movement speed by modifying the movement speed of boot-equipped characters. It also incorporates some of the capabilities of the original (notably portraits, NPC recruitment levels, storage limits, etc.).",
+        "description": "A lite version of the [[Firewalker]] mod, this mod is designed for those who want to play Baldur's Gate without suffering from slow character movement speed by modifying the movement speed of boot-equipped characters. It also incorporates some of the capabilities of the original (notably portraits, NPC recruitment levels, storage limits, etc.).",
         "description_meta": {
             "status": "needs_review",
             "source": "Version allégée du mod [[Firewalker]], ce mod est destiné à ceux qui veulent jouer à Baldur's Gate sans souffrir de la faible vitesse de déplacement des personnages en modifiant la vitesse de déplacement des personnages équipés de bottes. Il reprend aussi une partie des capacités de l'original (notamment les portraits, le niveau de recrutement des PNJ, les limites de stockage...)."
@@ -5838,10 +5838,10 @@
     },
     {
         "id": 402,
-        "description": "This little mod, still in beta, adds a new NPC to the game. To meet him, talk to Lenna in the Copper Coronet and accept her quest.",
+        "description": "This little mod adds a new chaotic evil assassin to the game. To meet him, talk to Lenna in the Copper Coronet and accept her quest.|STR 16, DEX 18, CON 17, INT 13, WIS 10, CHA 12.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce petit mod, toujours en version bêta, ajoute un nouveau PNJ dans le jeu. Pour le rencontrer, parlez à Lenna dans la Couronne de Cuivre et acceptez sa quête."
+            "source": "Ce petit mod ajoute un nouvel assassin chaotique mauvais dans le jeu. Pour le rencontrer, parlez à Lenna dans la Couronne de Cuivre et acceptez sa quête.|FOR 16, DEX 18, CON 17, INT 13, SAG 10, CHA 12."
         },
         "notes": [],
         "notes_meta": {
@@ -6087,10 +6087,10 @@
     },
     {
         "id": 419,
-        "description": "This mod is part of the Colours of Infinity series, developed by Lava Del'Vortel. Cold and calculating, Foundling is a slave of Thaxll'ssillvia, the Shadow Dragon, who wants to free himself from his influence. He can never oppose his master on his own, but everything can change thanks to the influence of the Bhaalspawn. He's an adept of shadow magic who can't cast traditional mage spells, but has a whole range of alternatives at his disposal and he has his own HLA. The mod introduces new characters, areas, music, items, soundset etc. His quest begins as soon as his master dies.|STR 14, DEX 17, CON 11, INT 17, WIS 11, CHA 7.",
+        "description": "Cold and calculating, Foundling is a slave of Thaxll'ssillvia, the Shadow Dragon, who wants to free himself from his influence. He can never oppose his master on his own, but everything can change thanks to the influence of the Bhaalspawn. He's an adept of shadow magic who can't cast traditional mage spells, but has a whole range of alternatives at his disposal and he has his own HLA. The mod introduces new characters, areas, music, items, soundset etc. His quest begins as soon as his master dies.|STR 14, DEX 17, CON 11, INT 17, WIS 11, CHA 7.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod fait partie de la série Colours of Infinity, développée par Lava Del'Vortel. Froid et calculateur, Foundling est un esclave de Thaxll'ssillvia, le dragon d'ombre, qui veut se libérer de son influence. il ne peut pas s'opposer seul à son maître, mais l'arrivée de l'enfant de Bhaal pourrait peut-être changer sa situation. C'est un adepte de la magie de l'ombre qui ne peut pas lancer les sorts de mage traditionnel, mais dispose de toute une gamme alternative et ses propres HLA. Le mod apporte de nouvelles quêtes, lieux, rencontres, objets etc. Sa quête commence dès la mort de son maître.|FOR 14, DEX 17, CON 11, INT 17, SAG 11, CHA 7."
+            "source": "Froid et calculateur, Foundling est un esclave de Thaxll'ssillvia, le dragon d'ombre, qui veut se libérer de son influence. il ne peut pas s'opposer seul à son maître, mais l'arrivée de l'enfant de Bhaal pourrait peut-être changer sa situation. C'est un adepte de la magie de l'ombre qui ne peut pas lancer les sorts de mage traditionnel, mais dispose de toute une gamme alternative et ses propres HLA. Le mod apporte de nouvelles quêtes, lieux, rencontres, objets etc. Sa quête commence dès la mort de son maître.|FOR 14, DEX 17, CON 11, INT 17, SAG 11, CHA 7."
         },
         "notes": [],
         "notes_meta": {
@@ -6113,10 +6113,10 @@
     },
     {
         "id": 421,
-        "description": "Created by the same person (Deano), these two mods have been combined into one: the first adds 80-90 new items and 2 new stores; the second 3 new stores with new items and 5 new encounters (fights) with new scripts, items, etc.",
+        "description": "These two mods have been combined into one:|the first adds 80-90 new items and 2 new stores|the second 3 new stores with new items and 5 new encounters (fights) with new scripts, items, etc",
         "description_meta": {
             "status": "needs_review",
-            "source": "Créés par la même personne (Deano), ces deux mods ont été regroupés en un seul : le premier ajoute 80-90 nouveaux objets et 2 nouveaux magasins ; le second 3 nouveaux magasins avec de nouveaux objets et 5 nouvelles rencontres (combats) avec des nouveaux scripts, objets, etc."
+            "source": "Ces deux mods ont été regroupés en un seul :|le premier ajoute 80-90 nouveaux objets et 2 nouveaux magasins|le second 3 nouveaux magasins avec de nouveaux objets et 5 nouvelles rencontres (combats) avec des nouveaux scripts, objets, etc"
         },
         "notes": [],
         "notes_meta": {
@@ -6139,15 +6139,19 @@
     },
     {
         "id": 423,
-        "description": "The doppelganger Frennedan from Irenicus' dungeon becomes a recruitable NPC. But beware: its writing leaves much to be desired and it is incompatible with a number of mods.",
+        "description": "The doppelganger Frennedan from Irenicus' dungeon becomes a recruitable NPC. It is a kitless fighter, chaotic neutral.|STR 18, DEX 19, CON 9, INT 12, WIS 9, CHA 9.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Le doppelganger du Donjon d'Irenicus devient un personnage recrutable. Mais faites attention : son écriture laisse à désirer et il est incompatible avec bon nombre de mods."
+            "source": "Le doppelganger du Donjon d'Irenicus devient un personnage recrutable. Il s'agit d'un guerrier sans kit, chaotique neutre.|FOR 18, DEX 19, CON 9, INT 12, SAG 9, CHA 9."
         },
-        "notes": [],
+        "notes": [
+            "Beware: its writing leaves much to be desired and it is incompatible with a number of mods."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Faites attention : son écriture laisse à désirer et il est incompatible avec bon nombre de mods."
+            ]
         }
     },
     {
@@ -6588,10 +6592,10 @@
     },
     {
         "id": 454,
-        "description": "This German-language mod adds the chaotic goblin fighter Bad Shuk to the game, who can be summoned once a day with a goblin stone (found in the Friendly Arm tavern). He's considered a pet, which allows him to change regions and explore the map, but the player suffers no permanent damage to his Constitution when he dies. If summoned for more than eighteen hours in a row, he suffers from exhaustion.|His level is equal to half the main character's experience. His skills can be enhanced by interacting with him in certain situations and by performing tasks.|STR 15, DEX 17, CON 10, INT 12, WIS 9, CHA 14.",
+        "description": "This mod adds the chaotic evil goblin fighter Shuk to the game, who can be summoned once a day with a goblin stone (found in the Friendly Arm tavern). He's considered a pet, which allows him to change regions and explore the map, but the player suffers no permanent damage to his Constitution when he dies. If summoned for more than eighteen hours in a row, he suffers from exhaustion.|His level is equal to half the main character's experience. His skills can be enhanced by interacting with him in certain situations and by performing tasks.|STR 15, DEX 17, CON 10, INT 12, WIS 9, CHA 14.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod en allemand ajoute dans le jeu le guerrier gobelin chaotique mauvais Shuk que l'on peut invoquer une fois par jour avec une pierre gobeline (elle se trouve dans l'enceinte de la taverne du Bras amical). Il est considéré comme un familier, ce qui lui permet de changer de région et d'explorer la carte, mais le joueur ne subit pas de dégâts permanents à sa Constitution lorsqu'il meurt. S'il est invoqué pendant plus de dix-huit heures de suite, il souffre d'épuisement.|Son niveau est égal à la moitié de l'expérience du personnage principal. Ses compétences peuvent être améliorées en interagissant avec lui, dans certaines situations et en accomplissant des tâches.|FOR 15, DEX 17, CON 10, INT 12, SAG 9, CHA 14."
+            "source": "Ce mod ajoute dans le jeu le guerrier gobelin chaotique mauvais Shuk que l'on peut invoquer une fois par jour avec une pierre gobeline (elle se trouve dans l'enceinte de la taverne du Bras amical). Il est considéré comme un familier, ce qui lui permet de changer de région et d'explorer la carte, mais le joueur ne subit pas de dégâts permanents à sa Constitution lorsqu'il meurt. S'il est invoqué pendant plus de dix-huit heures de suite, il souffre d'épuisement.|Son niveau est égal à la moitié de l'expérience du personnage principal. Ses compétences peuvent être améliorées en interagissant avec lui, dans certaines situations et en accomplissant des tâches.|FOR 15, DEX 17, CON 10, INT 12, SAG 9, CHA 14."
         },
         "notes": [
             "The French translation is not yet complete."
@@ -9669,10 +9673,10 @@
     },
     {
         "id": 669,
-        "description": "A revision of the very old \"[Mage Duel](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/MageDuel12.zip)\" mod, this mod strives to shorten magical battles and make them more enjoyable and sensitive. It is aimed at those who find [[Sword Coast Stratagems]] battles far too long and complicated, as well as those who find unmodded battles too easy or a little incoherent. It therefore strives to make defenses against spells useful, preserving the idea that magic users can be very powerful, even temporarily invincible, while giving opposing mages effective tools to overcome this invincibility and allow magic battles to be resolved fairly quickly, decisively and satisfactorily.|Rest assured, the objective remains the same: attack the spell defenses until they disappear, then attack the mage.|This mod must be installed after spell mods such as [[Spell Revisions]], [[IWDification]] and [[Sword Coast Stratagems]].",
+        "description": "A revision of the very old [Mage Duel](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/MageDuel12.zip) mod, this mod strives to shorten magical battles and make them more enjoyable and sensitive. It is aimed at those who find [[Sword Coast Stratagems]] battles far too long and complicated, as well as those who find unmodded battles too easy or a little incoherent. It therefore strives to make defenses against spells useful, preserving the idea that magic users can be very powerful, even temporarily invincible, while giving opposing mages effective tools to overcome this invincibility and allow magic battles to be resolved fairly quickly, decisively and satisfactorily.|Rest assured, the objective remains the same: attack the spell defenses until they disappear, then attack the mage.|This mod must be installed after spell mods such as [[Spell Revisions]], [[IWDification]] and [[Sword Coast Stratagems]].",
         "description_meta": {
             "status": "needs_review",
-            "source": "Révision du très vieux mod \"[Mage Duel](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/MageDuel12.zip)\", ce mod s'efforce d'écourter les batailles magiques et de les rendre plus agréables et sensibles. Il s'adresse donc à la fois à tous ceux qui trouvent les combats de [[Sword Coast Stratagems]] bien trop longs et compliqués, et à ceux qui trouvent les combats non moddés trop faciles ou un peu incohérents. Il s'efforce donc de rendre utiles les défenses contre les sorts, préserver l'idée que les utilisateurs de magie peuvent être très puissants, voire temporairement invincibles, tout en donnant aux mages adverses des outils efficaces pour surmonter cette invincibilité et permettre aux batailles de magie d'être résolues de manière assez rapide, décisive et satisfaisante.|Rassurez-vous, l'objectif ne change pas : il faut attaquer les défenses des sorts jusqu'à ce qu'elles disparaissent, puis attaquer le mage.|Ce mod doit être installé après les mods de sorts comme [[Spell Revisions]], [[IWDification]] et [[Sword Coast Stratagems]]."
+            "source": "Révision du très vieux mod [Mage Duel](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/MageDuel12.zip), ce mod s'efforce d'écourter les batailles magiques et de les rendre plus agréables et sensibles. Il s'adresse donc à la fois à tous ceux qui trouvent les combats de [[Sword Coast Stratagems]] bien trop longs et compliqués, et à ceux qui trouvent les combats non moddés trop faciles ou un peu incohérents. Il s'efforce donc de rendre utiles les défenses contre les sorts, préserver l'idée que les utilisateurs de magie peuvent être très puissants, voire temporairement invincibles, tout en donnant aux mages adverses des outils efficaces pour surmonter cette invincibilité et permettre aux batailles de magie d'être résolues de manière assez rapide, décisive et satisfaisante.|Rassurez-vous, l'objectif ne change pas : il faut attaquer les défenses des sorts jusqu'à ce qu'elles disparaissent, puis attaquer le mage.|Ce mod doit être installé après les mods de sorts comme [[Spell Revisions]], [[IWDification]] et [[Sword Coast Stratagems]]."
         },
         "notes": [],
         "notes_meta": {
@@ -10143,12 +10147,12 @@
             "source": "Inspiré du mod [[Tactics]], ce \"Pot-pourri\" de corrections de règles AD&D propose toute une série de modifications et améliorations pour BG2 et ToB : nouveaux scripts, rencontres plus difficiles, deux nouveaux profils (Gardien de la Forêt pour les elfes druides et Nain protecteur), boss et quêtes plus coriaces..."
         },
         "notes": [
-            "This mod overwrites many of the game's files. What's more, it's very old and hasn't been maintained for ages, so use more recent mods such as [[Sword Coast Stratagems]]."
+            "Give preference to [[Sword Coast Stratagems]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Ce mod écrase de nombreux fichiers du jeu. Comme de plus, il est très vieux et plus maintenu depuis des lustres, utilisez plutôt des mods plus récents comme [[Sword Coast Stratagems]]."
+                "Privilégiez [[Sword Coast Stratagems]]."
             ]
         }
     },
@@ -12812,10 +12816,10 @@
     },
     {
         "id": 881,
-        "description": "This is an Italian mod (Rittorno a Trademeet) translated into English, set one year after the end of Throne of Bhaal. You've decided not to become a god, and your companions have left to pursue their own paths while you've wandered around Faerûn, completing various adventures here and there. But then you receive a letter from Candlekeep, giving you the chance to return to your childhood home...",
+        "description": "Rittorno a Trademeet by his real name. The story is set one year after the end of Throne of Bhaal. You've decided not to become a god, and your companions have left to pursue their own paths while you've wandered around Faerûn, completing various adventures here and there. But then you receive a letter from Candlekeep, giving you the chance to return to your childhood home...",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'un mod italien (Rittorno a Trademeet) traduit en anglais dont l'histoire se situe un an après la fin de Throne of Bhaal. Vous avez décidé de ne pas devenir un dieu et vos compagnons sont partis poursuivre leur propre route tandis que vous avez vagabondé dans Féerune, accomplissant ci et là diverses aventures. Mais vous recevez une lettre de Château-Suif : voici enfin l'occasion de revenir dans les lieux de votre enfance..."
+            "source": "Rittorno a Trademeet de son vrai nom. Son histoire se situe un an après la fin de Throne of Bhaal. Vous avez décidé de ne pas devenir un dieu et vos compagnons sont partis poursuivre leur propre route tandis que vous avez vagabondé dans Féerune, accomplissant ci et là diverses aventures. Mais vous recevez une lettre de Château-Suif : voici enfin l'occasion de revenir dans les lieux de votre enfance..."
         },
         "notes": [],
         "notes_meta": {
@@ -13113,12 +13117,12 @@
             "source": "Ce mod ajoute un nouveau PNJ, Rukrakia, originaire des montagnes du Calimshan. Généralement amicale et sympathique, c'est aussi une guerrière/voleuse compétente qui se sert impitoyablement de son couteau. Elle est ouverte à une romance avec un personnage masculin et dispose de ses propres quêtes. De nombreuses heures de jeu, de nouvelles zones (ToB uniquement).|FOR 15, DEX 24, CON 16, INT 18, SAG 16, CHA 21."
         },
         "notes": [
-            "This mod is in Korean, but the character voice is in English."
+            "The audio is in English."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Ce mod est en coréen mais la voix du personnage est en anglais."
+                "L'audio est en anglais."
             ]
         }
     },
@@ -13342,10 +13346,10 @@
     },
     {
         "id": 917,
-        "description": "This chaotic lurker hails from the slums of Baldur's Gate, and grew up with her uncle in Bois-Manteau. Shy (but not so much with female PJs, obviously: romance available for the ladies), her stats are balanced and interesting.|STR 16, DEX 17, CON 15, INT 14, WIS 12, CHA 10.",
+        "description": "This chaotic good ranger hails from the slums of Baldur's Gate, and grew up with her uncle in Cloakwood, who taught her the ways of nature as well as the art of combat. Years later, she left the Cloakwood to explore on her own. She settled in an empty cabin not too far from Umar Hills. Sarah is a relatively shy but determined person who admits to loving nature more than people, but then again, perhaps she just hasn't found the right person yet.|STR 16, DEX 17, CON 15, INT 14, WIS 12, CHA 10.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Cette rôdeuse chaotique bonne provient des bas quartiers de la Porte de Baldur, et a grandi avec son oncle, à Bois-Manteau. Timide (mais pas tellement avec les PJ féminins visiblement : romance disponible pour les demoiselles), ses statistiques sont équilibrées et intéressantes.|FOR 16, DEX 17, CON 15, INT 14, SAG 12, CHA 10."
+            "source": "Cette rôdeuse chaotique bonne provient des bas quartiers de la Porte de Baldur, et a grandi avec son oncle, à Bois-Manteau, qui lui enseigna les voies de la nature et l'art du combat. Des années plus tard, elle quitta Bois-Manteau pour découvrir le monde et finit par s'installer dans une cabane près des collines d'Umar. Sarah est relativement timide mais déterminée, et qui avoue sans complexe préférer la nature aux individus. Peut-être n'a-t-elle pas encore rencontré la bonne personne ?|FOR 16, DEX 17, CON 15, INT 14, SAG 12, CHA 10."
         },
         "notes": [],
         "notes_meta": {
@@ -13467,10 +13471,10 @@
     },
     {
         "id": 926,
-        "description": "This mod adds a merchant, the Lady of Mysteries, worshipper of Mystra, who sells a magic manual giving access to some thirty divine spells, including one never seen before. Only profane spellcasters can benefit from this at the cost of -2 in Strength and Constitution. In other words, thanks to this mod, you can become a multi-class sorcerer/cleric, bard/cleric, fighter/mage/cleric (fighter/mage base class and reading of the book resulting in a substantial XP gain), kensai/mage (cleric), sorcerer (cleric) or scalde (cleric), for example... and the very famous fighter/mage/thief/cleric. Please note, however, that there are some restrictions: all the info is in the readme. You'll find it north of the Adventurer Mart on the Waukeen's Promenade, and in the Pocket Plane. In BGEE and IWDEE, the seller can be found near Orrik's tower or in Firebeard house or at the Sorcerous Sundries.",
+        "description": "This mod adds a merchant, the Lady of Mysteries, worshipper of Mystra, who sells a magic manual giving access to some thirty divine spells, including one never seen before. Only profane spellcasters can benefit from this at the cost of -2 in Dexterity and Constitution. In other words, thanks to this mod, you can become a multi-class sorcerer/cleric, bard/cleric, fighter/mage/cleric (fighter/mage base class and reading of the book resulting in a substantial XP gain), kensai/mage (cleric), sorcerer (cleric) or scalde (cleric), for example... and the very famous fighter/mage/thief/cleric. Please note, however, that there are some restrictions: all the info is in the readme. You'll find it north of the Adventurer Mart on the Waukeen's Promenade, and in the Pocket Plane. In BGEE and IWDEE, the seller can be found near Orrik's tower or in Firebeard house or at the Sorcerous Sundries.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute une marchande, la Dame des Mystères, adoratrice de Mystra, qui vend un manuel de magie donnant accès à une trentaine de sorts divins, dont un inédit. Seuls les lanceurs de sorts profanes peuvent en bénéficier au prix de -2 en Force et Constitution. En d'autres termes, grâce à ce mod, à vous les multi-classes sorcier/prêtre, barde/prêtre, guerrier/mage/prêtre (classe de base guerrier/mage et lecture du livre d'où un gain d'XP conséquent), kensaï/mage (clerc), ensorceleur (clerc) ou scalde (clerc), par exemple... et le très fameux guerrier/mage/voleur/prêtre. Attention cependant, il y a des restrictions : toutes les infos sont dans le readme. Vous la trouverez au nord du Marché de l'Aventurier sur la Promenade de Waukyne, et dans l'Antichambre. Sur BGEE et IWDEE, le vendeur se trouvera près de la tour d'Orrick, chez Perleflamme Cheveuxd'Elfe à Bérégost ou au Bazar Magique de la Porte de Baldur."
+            "source": "Ce mod ajoute une marchande, la Dame des Mystères, adoratrice de Mystra, qui vend un manuel de magie donnant accès à une trentaine de sorts divins, dont un inédit. Seuls les lanceurs de sorts profanes peuvent en bénéficier au prix de -2 en Dextérité et Constitution. En d'autres termes, grâce à ce mod, à vous les multi-classes sorcier/prêtre, barde/prêtre, guerrier/mage/prêtre (classe de base guerrier/mage et lecture du livre d'où un gain d'XP conséquent), kensaï/mage (clerc), ensorceleur (clerc) ou scalde (clerc), par exemple... et le très fameux guerrier/mage/voleur/prêtre. Attention cependant, il y a des restrictions : toutes les infos sont dans le readme. Vous la trouverez au nord du Marché de l'Aventurier sur la Promenade de Waukyne, et dans l'Antichambre. Sur BGEE et IWDEE, le vendeur se trouvera près de la tour d'Orrick, chez Perleflamme Cheveuxd'Elfe à Bérégost ou au Bazar Magique de la Porte de Baldur."
         },
         "notes": [
             "The github link is EE compatible."
@@ -15822,7 +15826,7 @@
     },
     {
         "id": 1088,
-        "description": "The Stone of Askavar` is a mod for Baldur's Gate I: Tales of the Sword Coast that includes a main quest and several side quests, as well as new areas, new items and spells, and many new creatures to fight. It sends you in search of a powerful gem located in an ancient elven community of Askavar. It's similar to Icewind Dale's quest for the Stone Heart gem, but here the aim is to find the gem before the members of the Black Gauntlet do. After flooding the mines of Bois-Manteau, your adventure begins just north of Nashkel, where you'll be attacked by knights of the Black Gauntlet.|Since version 1.9, it's now combined in a single package for BG1, BG1Tutu, BGT, BG:EE with or without SoD.",
+        "description": "The Stone of Askavar is a mod for Baldur's Gate I: Tales of the Sword Coast that includes a main quest and several side quests, as well as new areas, new items and spells, and many new creatures to fight. It sends you in search of a powerful gem located in an ancient elven community of Askavar. It's similar to Icewind Dale's quest for the Stone Heart gem, but here the aim is to find the gem before the members of the Black Gauntlet do. After flooding the mines of Cloakwood, your adventure begins just north of Nashkel, where you'll be attacked by knights of the Black Gauntlet.|Since version 1.9, it's now combined in a single package for BG1, BG1Tutu, BGT, BG:EE with or without SoD.",
         "description_meta": {
             "status": "needs_review",
             "source": "The Stone of Askavar `La pierre d'Askavar` est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir.|Depuis la version 1.9, il est désormais réuni dans un seul package pour BG1, BG1Tutu, BGT, BG:EE avec ou sans SoD."
@@ -16705,10 +16709,10 @@
     },
     {
         "id": 1150,
-        "description": "This old Chinese mod organized arena battles against powerful extra-planar creatures. The aim was simple: win or die! The battle against the Grandmaster is the only one that can earn you items, and some powerful items are also for sale.",
+        "description": "This mod organizes arena battles against powerful extra-planar creatures. The aim is simple: win or die! The battle against the Grandmaster is the only one that can earn you items, and some powerful items are also for sale.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Cet ancien mod chinois organisait des combats d'arène contre de puissantes créatures extra planaires. Le but était simple : vaincre ou mourir ! Le combat contre le grand maître est le seul qui peut vous rapporter des objets.|Quelques puissants objets sont également en vente."
+            "source": "Ce mod organise des combats d'arène contre de puissantes créatures extra planaires. Le but est simple : vaincre ou mourir ! Le combat contre le grand maître est le seul qui peut vous rapporter des objets.|Quelques puissants objets sont également en vente."
         },
         "notes": [
             "The official version is available via the first link, but requires registration. The second version, EE-compatible and with a French translation, can be downloaded via the github link."
@@ -21093,10 +21097,10 @@
     },
     {
         "id": 1455,
-        "description": "This Korean mod offers a mage kit. The bard is an intermediate class between the thief and the mage. Singing Mages are both Thieves and Mages, but they always sing bardic songs.",
+        "description": "This mod offers a mage kit. The bard is an intermediate class between the thief and the mage. Singing Mages are both Thieves and Mages, but they always sing bardic songs.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod coréen propose un kit de mage. Le barde est une classe intermédiaire entre le voleur et le mage. Les Singing Mage sont à la fois Voleur et Mage, mais ils chantent toujours des chants bardiques."
+            "source": "Ce mod propose un kit de mage. Le barde est une classe intermédiaire entre le voleur et le mage. Les Singing Mage sont à la fois Voleur et Mage, mais ils chantent toujours des chants bardiques."
         },
         "notes": [],
         "notes_meta": {
@@ -21106,10 +21110,10 @@
     },
     {
         "id": 1456,
-        "description": "This Korean mod offers two Diablo2-inspired kits: the Paladin and the Barbarian.",
+        "description": "This mod offers two Diablo2-inspired kits: the Paladin and the Barbarian.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod coréen propose deux kits inspirés de Diablo2 : le paladin et le barbare."
+            "source": "Ce mod propose deux kits inspirés de Diablo2 : le paladin et le barbare."
         },
         "notes": [],
         "notes_meta": {
@@ -21937,10 +21941,10 @@
     },
     {
         "id": 1513,
-        "description": "This Russian mod has two components. The first allows male characters to regenerate and reduce their fatigue with a courtesan. The second adds a new quest to Garrick.",
+        "description": "This mod has two components. The first allows male characters to regenerate and reduce their fatigue with a courtesan. The second adds a new quest to Garrick.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod russe possède deux composants. Le premier permet aux personnages masculins de régénérer et de réduire leur fatigue auprès d'une courtisane. Le second ajoute une nouvelle quête à Garrick."
+            "source": "Ce mod possède deux composants. Le premier permet aux personnages masculins de régénérer et de réduire leur fatigue auprès d'une courtisane. Le second ajoute une nouvelle quête à Garrick."
         },
         "notes": [],
         "notes_meta": {
@@ -21950,10 +21954,10 @@
     },
     {
         "id": 1514,
-        "description": "This Chinese mod adds a merchant to the Five Flagons (SoA) and Lazarus Archives (ToB). This merchant sells powerful items, but your reputation must be very high to gain access. Note that this merchant will present his wares to you only once. A few additional components are also available.",
+        "description": "This mod adds a merchant to the Five Flagons (SoA) and Lazarus Archives (ToB). This merchant sells powerful items, but your reputation must be very high to gain access. Note that this merchant will present his wares to you only once. A few additional components are also available.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod chinois ajoute un marchand aux Cinq Chopes (SoA) et aux Archives de Lazarus (ToB). Celui-ci vend des objets puissants mais pour y accéder, votre réputation doit être très élevée. Notez que ce marchand ne vous présentera ses marchandises qu'une seule et unique fois. Quelques composants supplémentaires sont également proposés."
+            "source": "Ce mod ajoute un marchand aux Cinq Chopes (SoA) et aux Archives de Lazarus (ToB). Celui-ci vend des objets puissants mais pour y accéder, votre réputation doit être très élevée. Notez que ce marchand ne vous présentera ses marchandises qu'une seule et unique fois. Quelques composants supplémentaires sont également proposés."
         },
         "notes": [],
         "notes_meta": {
@@ -22780,14 +22784,10 @@
             "status": "needs_review",
             "source": "Volo est un marchand ambulant que vous trouverez dans diverses cartes pour lui vendre votre équipement. Il vend à prix coûtant et propose des identifications, soins et repos à prix réduits."
         },
-        "notes": [
-            "This mod is in Korean."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Ce mod est en coréen."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -23695,10 +23695,10 @@
     },
     {
         "id": 1637,
-        "description": "This Korean mod improves the animations of npcs and longbows.",
+        "description": "This mod improves the animations of npcs and longbows.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod en coréen améliore les animations des pnjs et arcs longs."
+            "source": "Ce mod améliore les animations des pnjs et arcs longs."
         },
         "notes": [],
         "notes_meta": {
@@ -23711,7 +23711,7 @@
         "description": "This Korean mod replaces all BG2 spell icons with IWD2 spell icons.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod en coréen remplace toutes les icônes de sorts de BG2 par des icônes de sorts venues de IWD2"
+            "source": "Ce mod en coréen remplace toutes les icônes de sorts de BG2 par des icônes de sorts venues de IWD2."
         },
         "notes": [],
         "notes_meta": {
