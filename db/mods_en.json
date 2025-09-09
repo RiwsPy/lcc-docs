@@ -325,10 +325,10 @@
     },
     {
         "id": 23,
-        "description": "This mod adds a djinn acting as a seventh member of the group. It dialogues with the main character and the members of the group (work in progress) and gives its opinion in other dialogues, just like a classic NPC. He also proposes a number of quests to discover new places. He can be likened to a fighter-mage.",
+        "description": "This mod adds a djinn acting as a seventh member of the group. It dialogues with the main character and the members of the group (work in progress) and gives its opinion in other dialogues, just like a classic NPC. He also proposes a number of quests to discover new places. He can be likened to a fighter-mage.|STR 15, DEX 16, CON 13, INT 15, WIS 16, CHA 11.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un djinn se comportant comme un septième membre du groupe. Il dialogue avec le personnage principal et les membres du groupe (partie en travaux) et donne son avis dans les autres dialogues, comme un PNJ classique. Il propose également plusieurs quêtes faisant découvrir de nouveaux lieux. Il est assimilé à un guerrier-mage."
+            "source": "Ce mod ajoute un djinn se comportant comme un septième membre du groupe. Il dialogue avec le personnage principal et les membres du groupe (partie en travaux) et donne son avis dans les autres dialogues, comme un PNJ classique. Il propose également plusieurs quêtes faisant découvrir de nouveaux lieux. Il est assimilé à un guerrier-mage.|FOR 15, DEX 16, CON 13, INT 15, SAG 16, CHA 11."
         },
         "notes": [
             "In IWD:EE, he doesn't dialog with the NPC, but only exchanges a few words with an associated drow NPC. There are also no new locations."
@@ -2305,10 +2305,10 @@
     },
     {
         "id": 157,
-        "description": "As its name suggests, this mod is truly unbalanced. It lets you enlist Marcus as either a companion or a pet. The latter has abilities that make it virtually indestructible, making most battles uninteresting...",
+        "description": "As its name suggests, this mod is truly unbalanced. It lets you enlist Marcus as either a companion or a pet. The latter has abilities that make it virtually indestructible, making most battles uninteresting...|STR 18/00, DEX 18, CON 22, INT 12, WIS 15, CHA 18.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Comme son nom l'indique, ce mod est vraiment déséquilibré. Il vous permet d'enrôler Marcus, soit comme compagnon, soit comme familier. Ce dernier dispose de capacités qui le rendent quasiment indestructible et rend la plupart des combats inintéressants..."
+            "source": "Comme son nom l'indique, ce mod est vraiment déséquilibré. Il vous permet d'enrôler Marcus, soit comme compagnon, soit comme familier. Ce dernier dispose de capacités qui le rendent quasiment indestructible et rend la plupart des combats inintéressants...|FOR 18/00, DEX 18, CON 22, INT 12, SAG 15, CHA 18."
         },
         "notes": [],
         "notes_meta": {
@@ -2783,10 +2783,10 @@
     },
     {
         "id": 192,
-        "description": "This mod adds a recruitable NPC for the entire Baldur's Gate saga. It is natively compatible with BG:EE, SoD, BGII, BGT, BG2:EE and EET. For the moment, only the BG1 content of the mod is complete.|It's a good chaotic mage you'll find on the Sword Coast, seeking help to fight an ogre in order to recover his possessions. Depending on whether or not he's in the group when Mélicamp is brought to Thalantyr, he'll have an additional quest that will keep him out of the group for a while. Brandock is very interested in magic books. Every time he has time to study the magic books the group encounters in the game, it increases his knowledge score. He's friendly and helpful, but it'll be a while before he opens up and tells the PC where he's from, for reasons he'll gladly explain when he's ready to do so.|If your group already has 6 members, he can join you as a \"7th member\" and will follow you around in the manner of a familiar.",
+        "description": "This mod adds a recruitable NPC for the entire Baldur's Gate saga. It is natively compatible with BG:EE, SoD, BGII, BGT, BG2:EE and EET. For the moment, only the BG1 content of the mod is complete.|It's a good chaotic mage you'll find on the Sword Coast, seeking help to fight an ogre in order to recover his possessions. Depending on whether or not he's in the group when Mélicamp is brought to Thalantyr, he'll have an additional quest that will keep him out of the group for a while. Brandock is very interested in magic books. Every time he has time to study the magic books the group encounters in the game, it increases his knowledge score. He's friendly and helpful, but it'll be a while before he opens up and tells the PC where he's from, for reasons he'll gladly explain when he's ready to do so.|If your group already has 6 members, he can join you as a \"7th member\" and will follow you around in the manner of a familiar.|STR 15, DEX 13, CON 13, INT 18, WIS 12, CHA 13.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un PNJ recrutable pour toute la saga Baldur's Gate. Il est nativement compatible avec BG:EE, SoD, BGII, BGT, BG2:EE et EET. Pour l'instant, seul le contenu BG1 du mod est terminé.|C'est un mage chaotique bon que vous trouverez sur la Côte des Épées, recherchant de l'aide pour combattre un ogre afin de récupérer ses biens. Selon qu'il se trouve ou non dans le groupe lorsque Mélicamp est amené à Thalantyr, il aura une quête supplémentaire qui l'écartera du groupe pendant un certain temps. Brandock est très intéressé par les livres de magie. Chaque fois qu'il a le temps d'étudier les livres de magie que le groupe rencontre dans le jeu, cela augmente son score de connaissance. Il est amical et serviable, mais il faudra un peu de temps avant qu'il s'ouvre et dise au PC d'où il vient, pour des raisons qu'il expliquera volontiers lorsqu'il sera prêt à le faire.|Si votre groupe comprend déjà 6 membres, il pourra vous rejoindre comme \"7eme membre\" et vous suivra à la manière d'un familier."
+            "source": "Ce mod ajoute un PNJ recrutable pour toute la saga Baldur's Gate. Il est nativement compatible avec BG:EE, SoD, BGII, BGT, BG2:EE et EET. Pour l'instant, seul le contenu BG1 du mod est terminé.|C'est un mage chaotique bon que vous trouverez sur la Côte des Épées, recherchant de l'aide pour combattre un ogre afin de récupérer ses biens. Selon qu'il se trouve ou non dans le groupe lorsque Mélicamp est amené à Thalantyr, il aura une quête supplémentaire qui l'écartera du groupe pendant un certain temps. Brandock est très intéressé par les livres de magie. Chaque fois qu'il a le temps d'étudier les livres de magie que le groupe rencontre dans le jeu, cela augmente son score de connaissance. Il est amical et serviable, mais il faudra un peu de temps avant qu'il s'ouvre et dise au PC d'où il vient, pour des raisons qu'il expliquera volontiers lorsqu'il sera prêt à le faire.|Si votre groupe comprend déjà 6 membres, il pourra vous rejoindre comme \"7eme membre\" et vous suivra à la manière d'un familier.|FOR 15, DEX 13, CON 13, INT 18, SAG 12, CHA 13."
         },
         "notes": [
             "Although functional in BG2 and BG2EE, it has no content."
@@ -2873,10 +2873,10 @@
     },
     {
         "id": 198,
-        "description": "The mod adds a new NPC – a Gnoll Bruiser, a former bandit, who worked for Garclax, a gnoll you may also encounter in the original game during the investigation of the Bandit Camp. Bristlelick is a frontline warrior of neutral character. He enjoys battle, a fine meal, and seeks vengeance for the death of his trusted companion, Bull-Tall.|The NPC may join your party near the rocky road on the Bandit Camp area. In Siege of Dragonspear, he may join the team near the first camp.",
+        "description": "The mod adds a new NPC – a Gnoll Bruiser, a former bandit, who worked for Garclax, a gnoll you may also encounter in the original game during the investigation of the Bandit Camp. Bristlelick is a frontline warrior of neutral character. He enjoys battle, a fine meal, and seeks vengeance for the death of his trusted companion, Bull-Tall.|The NPC may join your party near the rocky road on the Bandit Camp area. In Siege of Dragonspear, he may join the team near the first camp.|STR 19, DEX 16, CON 18, INT 13, WIS 8, CHA 7.",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute un PNJ, un ancien bandit qui a travaillé pour Garclax, un gnoll que vous pouvez également rencontrer dans le jeu original, lors de l'enquête sur le camp de bandits. Bristlelick est un guerrier de première ligne au caractère maléfique. Il aime la bataille, un bon repas et cherche à se venger du meurtre de son fidèle compagnon, Bull-Tall. Pour qu'il s'intègre parfaitement au concept, il dispose de son propre profil, celui de gnoll cogneur.|Vous pouvez le recruter près de la route rocheuse dans la zone du camp de bandits. Dans SoD, il peut rejoindre l'équipe près du premier camp."
+            "status": "needs_review",
+            "source": "Ce mod ajoute un PNJ, un ancien bandit qui a travaillé pour Garclax, un gnoll que vous pouvez également rencontrer dans le jeu original, lors de l'enquête sur le camp de bandits. Bristlelick est un guerrier de première ligne au caractère maléfique. Il aime la bataille, un bon repas et cherche à se venger du meurtre de son fidèle compagnon, Bull-Tall. Pour qu'il s'intègre parfaitement au concept, il dispose de son propre profil, celui de gnoll cogneur.|Vous pouvez le recruter près de la route rocheuse dans la zone du camp de bandits. Dans SoD, il peut rejoindre l'équipe près du premier camp.|FOR 19, DEX 16, CON 18, INT 13, SAG 8, CHA 7."
         },
         "notes": [],
         "notes_meta": {
@@ -6665,10 +6665,10 @@
     },
     {
         "id": 459,
-        "description": "Grey is a recruitable NPC in his own right, but remains a real dog. The only magic he has is his collar, which gives him a 1 bonus to his AC. Other items can be found in the game. He also has his own kit: the Wolfhound. If you feel like playing ba-ball or just want to talk to him, click on it. But Grey doesn't initiate dialog, so don't expect any kind of friendship, let alone romance (not even with the shapeshifters). In BG1, there are two small quests, both available at Baldur's Gate. If necessary, Grey can be asked to \"search\" for missing persons: in BG1, Brage and the Brown farmer's son; in SoD, the five missing refugees. However, this has been coded so as not to spoil too many quests. So don't expect too much help.",
+        "description": "Grey is a recruitable NPC in his own right, but remains a real dog. The only magic he has is his collar, which gives him a 1 bonus to his AC. Other items can be found in the game. He also has his own kit: the Wolfhound. If you feel like playing ba-ball or just want to talk to him, click on it. But Grey doesn't initiate dialog, so don't expect any kind of friendship, let alone romance (not even with the shapeshifters). In BG1, there are two small quests, both available at Baldur's Gate. If necessary, Grey can be asked to \"search\" for missing persons: in BG1, Brage and the Brown farmer's son; in SoD, the five missing refugees. However, this has been coded so as not to spoil too many quests. So don't expect too much help. He can follow you as a 7th companion.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Grey est un PNJ recrutable à part entière, mais reste un vrai chien. La seule magie dont il dispose est celle de son collier qui lui octroie un bonus de 1 à sa CA. D'autres objets peuvent être trouvés dans le jeu. Il dispose aussi de son propre kit : le Wolfhound.|Si vous avez envie de jouer à la ba-balle ou simplement envie de lui parler, cliquez-lui dessus. Mais Grey n'initie aucun dialogue, n'attendez donc aucune voie de l'amitié, et encore moins de romance (même pas avec les métamorphes). Cependant, vos compagnons ne se gêneront pas pour l'évoquer lors interactions.|Dans BG1, il y a deux petites quêtes, toutes deux disponibles à La Porte de Baldur. Elles quêtes sont également disponibles et peuvent être résolues sans Grey dans le groupe.|Le cas échéant, on peut demander à Grey de \"rechercher\" des personnes disparues : dans BG1, Brage et le fils du fermier Brun ; dans SoD les cinq réfugiés disparus. Cependant ceci a été codé de manière à ne pas trop gâcher les quêtes. Ne vous attendez donc pas à une aide trop importante."
+            "source": "Grey est un PNJ recrutable à part entière, mais reste un vrai chien. La seule magie dont il dispose est celle de son collier qui lui octroie un bonus de 1 à sa CA. D'autres objets peuvent être trouvés dans le jeu. Il dispose aussi de son propre kit : le Wolfhound.|Si vous avez envie de jouer à la ba-balle ou simplement envie de lui parler, cliquez-lui dessus. Mais Grey n'initie aucun dialogue, n'attendez donc aucune voie de l'amitié, et encore moins de romance (même pas avec les métamorphes). Cependant, vos compagnons ne se gêneront pas pour l'évoquer lors interactions.|Dans BG1, il y a deux petites quêtes, toutes deux disponibles à La Porte de Baldur. Elles quêtes sont également disponibles et peuvent être résolues sans Grey dans le groupe.|Le cas échéant, on peut demander à Grey de \"rechercher\" des personnes disparues : dans BG1, Brage et le fils du fermier Brun ; dans SoD les cinq réfugiés disparus. Cependant ceci a été codé de manière à ne pas trop gâcher les quêtes. Ne vous attendez donc pas à une aide trop importante. Il peut vous suivre comme un 7ème compagnon."
         },
         "notes": [
             "For the moment, although compatible, the mod has no content for BG2:EE."
@@ -7029,14 +7029,10 @@
             "status": "needs_review",
             "source": "Il s'agit d'une voleuse demi-elfe neutre mauvaise, avec 12 banters, 20 interjections, une quête et une nouvelle zone.|FOR 15, DEX 16, CON 16, INT 13, SAG 12, CHA 10."
         },
-        "notes": [
-            "FOR 15, DEX 16, CON 16, INT 13, SAG 12, CHA 10."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "FOR 15, DEX 16, CON 16, INT 13, SAG 12, CHA 10."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -8408,10 +8404,10 @@
     },
     {
         "id": 580,
-        "description": "This is a prequel to another mod by the same author, [[Rjali Romance]] for BG2:EE, which sets the scene for what follows in BG2:EE.|Jini is a djinn imprisoned in the lamp who gives you the young Rjali if you are male and not evil. She provides you with the usual services of a lamp djinn and, if you're nice to her, a romance can blossom. She can provide equipment for your group members, but will only do so if you ask her nicely. She will never join your group, but she and her lamp will accompany you on your way. The mod also adds Fay, a will-o'-the-wisp who will follow you like a sort of pet. Fay will woo you as best she can, being so small. Neither she nor Jini have any problem with this arrangement.",
+        "description": "This is a prequel to another mod by the same author, [[Rjali Romance]] for BG2:EE, which sets the scene for what follows in BG2:EE.|Jini is a djinn imprisoned in the lamp who gives you the young Rjali if you are male and not evil. She provides you with the usual services of a lamp djinn and, if you're nice to her, a romance can blossom. She can provide equipment for your group members, but will only do so if you ask her nicely. She will never join your group, but she and her lamp will accompany you on your way. The mod also adds Fay, a will-o'-the-wisp who will follow you like a sort of pet. Fay will woo you as best she can, being so small. Neither she nor Jini have any problem with this arrangement.|STR 15, DEX 17, CON 17, INT 11, WIS 18, CHA 12.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'une préquelle d'un autre mod du même auteur, [[Rjali Romance]] pour BG2:EE, qui plante le décor de ce qui suivra dans BG2:EE.|Jini est une djinn emprisonnée dans la lampe qui vous donne la jeune Rjali si vous êtes de sexe masculin et non-mauvais. Elle vous fournit les services habituels d'un djinn de lampe et, si vous êtes gentil avec elle, une romance peut naître. Elle peut fournir de l'équipement aux membres de votre groupe, mais ne le fera que si vous le lui demandez gentiment. Elle ne se joindra jamais à votre groupe, mais elle et sa lampe vous accompagneront sur votre chemin. Elle a soif de liberté, et vous avez la possibilité de la lui accorder.|Le mod ajoute également Fay, un feu follet qui vous suivra comme une sorte de familier. Fay vous fera la cour du mieux qu'elle pourra, étant si petite. Ni elle ni Jini n'ont de problème avec cet arrangement."
+            "source": "Il s'agit d'une préquelle d'un autre mod du même auteur, [[Rjali Romance]] pour BG2:EE, qui plante le décor de ce qui suivra dans BG2:EE.|Jini est une djinn emprisonnée dans la lampe qui vous donne la jeune Rjali si vous êtes de sexe masculin et non-mauvais. Elle vous fournit les services habituels d'un djinn de lampe et, si vous êtes gentil avec elle, une romance peut naître. Elle peut fournir de l'équipement aux membres de votre groupe, mais ne le fera que si vous le lui demandez gentiment. Elle ne se joindra jamais à votre groupe, mais elle et sa lampe vous accompagneront sur votre chemin. Elle a soif de liberté, et vous avez la possibilité de la lui accorder.|Le mod ajoute également Fay, un feu follet qui vous suivra comme une sorte de familier. Fay vous fera la cour du mieux qu'elle pourra, étant si petite. Ni elle ni Jini n'ont de problème avec cet arrangement.|FOR 15, DEX 17, CON 17, INT 11, SAG 18, CHA 12."
         },
         "notes": [
             "SoD is required."
@@ -8949,10 +8945,10 @@
     },
     {
         "id": 617,
-        "description": "This little module will introduce you to two unusual protagonists: one is an NPC ogre whom you can enlist (for the moment he's mute if hired) and the other a gnome merchant. To find one or the other, ask yourself the following questions: where could an ogre be hiding who doesn't want to be seen, and where could a merchant be?",
+        "description": "This little module will introduce you to two unusual protagonists: one is an NPC ogre whom you can enlist (for the moment he's mute if hired) and the other a gnome merchant. To find one or the other, ask yourself the following questions: where could an ogre be hiding who doesn't want to be seen, and where could a merchant be?|STR 19, DEX 7, CON 18, INT 6, WIS 8, CHA 6.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce petit module vous fera rencontrer deux protagonistes inhabituels : l'un est un ogre PNJ que vous pourrez enrôler (pour l'instant il est muet s'il est engagé) et l'autre un marchand gnome. Pour trouvez l'un et l'autre, posez vous les questions : où pourrait se cacher un ogre qui ne souhaite pas être vu et où pourrait se trouver un marchand ?"
+            "source": "Ce petit module vous fera rencontrer deux protagonistes inhabituels : l'un est un ogre PNJ que vous pourrez enrôler (pour l'instant il est muet s'il est engagé) et l'autre un marchand gnome. Pour trouvez l'un et l'autre, posez vous les questions : où pourrait se cacher un ogre qui ne souhaite pas être vu et où pourrait se trouver un marchand ?|FOR 19, DEX 7, CON 18, INT 6, SAG 8, CHA 6."
         },
         "notes": [],
         "notes_meta": {
@@ -13514,10 +13510,10 @@
     },
     {
         "id": 929,
-        "description": "Formerly known as Les Chroniques de Severian, this mod lets you enlist Severian Stark, a Halfshade outlaw (ranger kit) for your BG2: SoA and ToB games. There are men in Faerûn who defend no cause but their own, ransoming and pillaging merchants and travelers daring to cross their forests. Severian is one such outlaw. Rumor has it that this reputed swordsman recently arrived in Athkatla and sometimes stays at the Inn of Good Rest, on the Waukeen's Promenade... Severian, of neutral chaotic alignment, has made a specialty of wielding bladed weapons, can make himself invisible, and is particularly fond of women. Banters, interjections and items galore, a flirtpack, a quest with plenty of combat, a tender romance and over 6,000 lines of text: that's what Severian de Demerya has to offer, from the depths of Amn to the summit of the Throne of Bhaal. Be sure to read the Readme!",
+        "description": "Formerly known as Les Chroniques de Severian, this mod lets you enlist Severian Stark, a Halfshade outlaw (ranger kit) for your BG2: SoA and ToB games. There are men in Faerûn who defend no cause but their own, ransoming and pillaging merchants and travelers daring to cross their forests. Severian is one such outlaw. Rumor has it that this reputed swordsman recently arrived in Athkatla and sometimes stays at the Inn of Good Rest, on the Waukeen's Promenade... Severian, of neutral chaotic alignment, has made a specialty of wielding bladed weapons, can make himself invisible, and is particularly fond of women. Banters, interjections and items galore, a flirtpack, a quest with plenty of combat, a tender romance and over 6,000 lines of text: that's what Severian de Demerya has to offer, from the depths of Amn to the summit of the Throne of Bhaal. Be sure to read the Readme!|STR 14, DEX 16, CON 18, INT 10, WIS 6, CHA 14.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Anciennement connu sous le nom des Chroniques de Severian, ce mod vous propose d'enrôler Severian Stark, un Hors-la-loi (kit de rôdeur) de race Halfshade pour vos parties de BG2 : SoA et ToB. Il existe à Féérune des hommes qui ne défendent aucune cause si ce n'est la leur, rançonnant et pillant les marchands et voyageurs osant traverser leurs forêts. Severian est un de ces hors-la-loi. La rumeur court que cette fine lame réputée serait récemment arrivée à Athkatla et séjournerait parfois à l'auberge du Bon repos, sur la Promenade de Waukyne...|D'alignement chaotique neutre, Severian s'est fait une spécialité du maniement des armes blanches, peut se rendre invisible, et apprécie particulièrement la gente féminine. Des banters, des interjections et des items à foison, un flirtpack, une quête agrémentée de nombreux combats, une romance très tendre et plus de 6000 lignes de texte : c'est ce que vous propose Severian de Demerya depuis les tréfonds de l'Amn jusqu'au sommet du Trône de Bhaal. Attention, bien lire le Readme !"
+            "source": "Anciennement connu sous le nom des Chroniques de Severian, ce mod vous propose d'enrôler Severian Stark, un Hors-la-loi (kit de rôdeur) de race Halfshade pour vos parties de BG2 : SoA et ToB. Il existe à Féérune des hommes qui ne défendent aucune cause si ce n'est la leur, rançonnant et pillant les marchands et voyageurs osant traverser leurs forêts. Severian est un de ces hors-la-loi. La rumeur court que cette fine lame réputée serait récemment arrivée à Athkatla et séjournerait parfois à l'auberge du Bon repos, sur la Promenade de Waukyne...|D'alignement chaotique neutre, Severian s'est fait une spécialité du maniement des armes blanches, peut se rendre invisible, et apprécie particulièrement la gente féminine. Des banters, des interjections et des items à foison, un flirtpack, une quête agrémentée de nombreux combats, une romance très tendre et plus de 6000 lignes de texte : c'est ce que vous propose Severian de Demerya depuis les tréfonds de l'Amn jusqu'au sommet du Trône de Bhaal. Attention, bien lire le Readme !|FOR 14, DEX 16, CON 18, INT 10, SAG 6, CHA 14."
         },
         "notes": [
             "Only the second link is compatible with BG2:EE."
@@ -14566,10 +14562,10 @@
     },
     {
         "id": 1002,
-        "description": "This mod lets you recruit this undead-hunting paladin from the docks. No romance and embryonic dialog, but a few banters and a special surprise for Imoen. Effective as an anti-vampire tank.",
+        "description": "This mod lets you recruit this undead-hunting paladin from the docks. No romance and embryonic dialog, but a few banters and a special surprise for Imoen. Effective as an anti-vampire tank.|STR 19, DEX 18, CON 18, INT 8, WIS 15, CHA 17.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod vous permet de recruter sur les quais cette paladine chasseuse de mort-vivants. Pas de romance et des dialogues embryonnaires, mais quelques banters et une surprise spéciale pour Imoen. Efficace comme tank anti-vampire."
+            "source": "Ce mod vous permet de recruter sur les quais cette paladine chasseuse de mort-vivants. Pas de romance et des dialogues embryonnaires, mais quelques banters et une surprise spéciale pour Imoen. Efficace comme tank anti-vampire.|FOR 19, DEX 18, CON 18, INT 8, SAG 15, CHA 17."
         },
         "notes": [],
         "notes_meta": {
@@ -15856,10 +15852,10 @@
     },
     {
         "id": 1090,
-        "description": "Not to be confused with the mega mod [[Tortured Souls-BP]], this mod adds a little quest, at the end of which you get a brand-new item that lets you summon Baenwuld the Wizard Slayer at will. He can be freed from his slavery to join your group. To start it, use the wand 'dropped' by a new adversary in one of the crypts of the Athkatla Graveyard.",
+        "description": "Not to be confused with the mega mod [[Tortured Souls-BP]], this mod adds a little quest, at the end of which you get a brand-new item that lets you summon Baenwuld the Wizard Slayer at will. He can be freed from his slavery to join your group. To start it, use the wand 'dropped' by a new adversary in one of the crypts of the Athkatla Graveyard.|STR 19, DEX 17, CON 19, INT 12, WIS 15, CHA 17.",
         "description_meta": {
             "status": "needs_review",
-            "source": "À ne pas confondre avec le méga mod [[Tortured Souls-BP]], ce mod ajoute une petite quête, à la fin de laquelle vous obtenez un objet inédit qui vous permet d'invoquer Baenwuld le Tueur de magicien à volonté. Celui-ci peut-être libéré de son esclavage pour rejoindre votre groupe. Pour la démarrer, utilisez la baguette 'droppée' par un nouvel adversaire dans l'une des cryptes du cimetière d'Athkatla."
+            "source": "À ne pas confondre avec le méga mod [[Tortured Souls-BP]], ce mod ajoute une petite quête, à la fin de laquelle vous obtenez un objet inédit qui vous permet d'invoquer Baenwuld le Tueur de magicien à volonté. Celui-ci peut-être libéré de son esclavage pour rejoindre votre groupe. Pour la démarrer, utilisez la baguette 'droppée' par un nouvel adversaire dans l'une des cryptes du cimetière d'Athkatla.|FOR 19, DEX 17, CON 19, INT 12, SAG 15, CHA 17."
         },
         "notes": [
             "Choose the github link for the EE version and the other link for the original version."
@@ -16065,10 +16061,10 @@
     },
     {
         "id": 1105,
-        "description": "This mod allows you to recruit two animal pets to Havredest, as 7th companions:|- Copper the squirrel is a level 1 thief who can be recruited independently of the player's class, and can rise to level 10/|- Grace the she-wolf, who has been locked away by Apsel in his warehouse, can only be recruited by a ranger or druid. To do so, she must first be charmed. She has the ranger class and also starts at level 1, and can also progress up to a maximum of level 10.",
+        "description": "This mod allows you to recruit two animal pets to Havredest, as 7th companions:|- Copper the squirrel is a level 1 thief who can be recruited independently of the player's class, and can rise to level 10|- Grace the she-wolf, who has been locked away by Apsel in his warehouse, can only be recruited by a ranger or druid. To do so, she must first be charmed. She has the ranger class and also starts at level 1, and can also progress up to a maximum of level 10.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet de recruter deux familiers animaux à Havredest, comme 7èmes compagnons :|- L'écureuil Copper est un voleur de niveau 1 qui peut être recruté indépendamment de la classe du joueur, et peut monter jusqu'au niveau 10/|- La louve Grace, qui a été enfermée par Apsel dans son entrepôt, ne peut être recrutée que par un rôdeur ou un druide. Pour cela, elle doit d'abord être charmée. Elle dispose de la classe de rôdeur et commence également au niveau 1, et peut aussi progresser jusqu'au niveau 10 maximum."
+            "source": "Ce mod permet de recruter deux familiers animaux à Havredest, comme 7èmes compagnons :|- L'écureuil Copper est un voleur de niveau 1 qui peut être recruté indépendamment de la classe du joueur, et peut monter jusqu'au niveau 10|- La louve Grace, qui a été enfermée par Apsel dans son entrepôt, ne peut être recrutée que par un rôdeur ou un druide. Pour cela, elle doit d'abord être charmée. Elle dispose de la classe de rôdeur et commence également au niveau 1, et peut aussi progresser jusqu'au niveau 10 maximum."
         },
         "notes": [],
         "notes_meta": {
@@ -16224,10 +16220,10 @@
     },
     {
         "id": 1116,
-        "description": "A tribute to the manga `Tomoyo After: It's a Wonderful Life`, this mod adds an underground city (whose entrance is in the lich crypt at City Gates). Those not put off by a story disconnected from that of BG2 will find a series of linked maps, on which you'll face hundreds of monsters dropping a host of items, some of them extremely powerful. You'll meet and hire Tomoyo Sakagami, heroine of the Clannad manga and its continuations. However, you don't have to keep her in the group - she's mute and has no bearing on what happens next.",
+        "description": "A tribute to the manga `Tomoyo After: It's a Wonderful Life`, this mod adds an underground city (whose entrance is in the lich crypt at City Gates). Those not put off by a story disconnected from that of BG2 will find a series of linked maps, on which you'll face hundreds of monsters dropping a host of items, some of them extremely powerful. You'll meet and hire Tomoyo Sakagami, heroine of the Clannad manga and its continuations. However, you don't have to keep her in the group - she's mute and has no bearing on what happens next.|STR 16, DEX 19, CON 15, INT 18, WIS 13, CHA 17.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Hommage au manga `Tomoyo After : It's a Wonderful Life`, ce mod ajoute une ville souterraine (dont l'entrée se trouve dans la crypte de la liche aux Portes de la ville). Ceux qui ne sont pas rebutés par une histoire déconnectée de celle de BG2 y trouveront une suite de cartes enchaînées, sur lesquelles vous allez affronter des centaines de monstres qui dropperont une foule d'objets, certains extrêmement puissants. Vous rencontrerez et pourrez engager Tomoyo Sakagami, héroïne du manga Clannad et de ses continuations. Vous n'êtes cependant pas obligé de la garder dans le groupe, elle est muette et n'a aucune incidence sur la suite."
+            "source": "Hommage au manga `Tomoyo After : It's a Wonderful Life`, ce mod ajoute une ville souterraine (dont l'entrée se trouve dans la crypte de la liche aux Portes de la ville). Ceux qui ne sont pas rebutés par une histoire déconnectée de celle de BG2 y trouveront une suite de cartes enchaînées, sur lesquelles vous allez affronter des centaines de monstres qui dropperont une foule d'objets, certains extrêmement puissants. Vous rencontrerez et pourrez engager Tomoyo Sakagami, héroïne du manga Clannad et de ses continuations. Vous n'êtes cependant pas obligé de la garder dans le groupe, elle est muette et n'a aucune incidence sur la suite.|FOR 16, DEX 19, CON 15, INT 18, SAG 13, CHA 17."
         },
         "notes": [
             "Choose the github link for the EE version in French and the other two links for the original version in Chinese."
@@ -17576,14 +17572,10 @@
             "status": "needs_review",
             "source": "Ce mod ajoute la possibilité de sélectionner une sous-race pour le personnage principal :|- Humains : Aasimar et Tiefelin.|- Elfes : lunaire, des neiges, sauvage, solaire, sylvain et Drow.|- Nains : d'égout, d'or, déracinés, derro, des montagnes, des profondeurs et duergar.|- Gnomes : bricoleur, des roches, des forêts et Svirfneblin.|- Halfelins : Costaud, Foursin, Grand-gars, Kender, Petites-Gens d'Athas, Pieds-velus et Ghostwise.|- Demi-elfes : lunaire, des neiges, sauvage, solaire, sylvain et Drow."
         },
-        "notes": [
-            "Warning: this old mod is not very reliable."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : ce vieux mod n'est pas très fiable."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -17715,10 +17707,10 @@
     },
     {
         "id": 1220,
-        "description": "This mod brings extensions for the shaman, in particular a fortress he was deprived of in Shadows of Amn. It includes a new location with a quest accessible to all, as well as elements specific to the fortress aspect. It also adds Will, a recruitable undead shaman character, a shaman kit (Witchlight Shaman) and items for shamans and the undead (such as Will and Hexxat). Originally designed for BG2:EE, it is also compatible with BG:EE and IWD:EE, although not all its components will be installed.",
+        "description": "This mod brings extensions for the shaman, in particular a fortress he was deprived of in Shadows of Amn. It includes a new location with a quest accessible to all, as well as elements specific to the fortress aspect. It also adds Will, a recruitable undead shaman character, a shaman kit (Witchlight Shaman) and items for shamans and the undead (such as Will and Hexxat). Originally designed for BG2:EE, it is also compatible with BG:EE and IWD:EE, although not all its components will be installed.|STR 17, DEX 15, CON 16, INT 12, WIS 16, CHA 10.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod apporte des extensions pour le shaman, en particulier une forteresse dont il était privé dans Shadows of Amn. Il comporte un nouveau lieu avec une quête accessible à tous, ainsi que des éléments propres à l'aspect forteresse. Il ajoute également Will, un personnage shaman mort-vivant recrutable, un kit de shaman (Witchlight Shaman) et des objets destinés aux shamans et aux morts-vivants (comme Will et Hexxat).|Conçu à l'origine pour BG2:EE, il est aussi compatible avec BG:EE et IWD:EE, même si tous ses composants ne seront pas installés."
+            "source": "Ce mod apporte des extensions pour le shaman, en particulier une forteresse dont il était privé dans Shadows of Amn. Il comporte un nouveau lieu avec une quête accessible à tous, ainsi que des éléments propres à l'aspect forteresse. Il ajoute également Will, un personnage shaman mort-vivant recrutable, un kit de shaman (Witchlight Shaman) et des objets destinés aux shamans et aux morts-vivants (comme Will et Hexxat).|Conçu à l'origine pour BG2:EE, il est aussi compatible avec BG:EE et IWD:EE, même si tous ses composants ne seront pas installés.|FOR 17, DEX 15, CON 16, INT 12, SAG 16, CHA 10."
         },
         "notes": [],
         "notes_meta": {
@@ -18057,10 +18049,10 @@
     },
     {
         "id": 1244,
-        "description": "A very old mod, it's one of Smiling Imp's first creations based on a cartoon series he watched as a child.",
+        "description": "A very old mod, it's one of Smiling Imp's first creations based on a cartoon series he watched as a child. It adds many quests, hundreds of items, zones etc",
         "description_meta": {
             "status": "needs_review",
-            "source": "Très vieux mod, c'est l'une des premières créations de Smiling Imp basée sur une série de dessins animés qu'il regardait enfant."
+            "source": "Très vieux mod, c'est l'une des premières créations de Smiling Imp basée sur une série de dessins animés qu'il regardait enfant. Il ajoute de nombreuses quêtes, des centaines d'objets, des zones etc"
         },
         "notes": [],
         "notes_meta": {
@@ -18489,10 +18481,10 @@
     },
     {
         "id": 1274,
-        "description": "Jazon le revenant is a mute undead warrior who can follow you as a 7th member of the party. He is level 8 and will never progress, but he types hard and resists everything (strength and constitution 19, undead immunities, 75% resistance to everything and fast regeneration). His weapon is not magical at first, but evolves as the protagonist progresses. If he's killed, he drops his heart, which you can use after a night's sleep to re-invoke him. You'll find his heart in a tomb: in the Athkatla Graveyard District in BG2, in the Valley of Shadows in IWDEE.",
+        "description": "Jazon le revenant is a mute undead warrior who can follow you as a 7th member of the party. He is level 8 and will never progress, but he types hard and resists everything (strength and constitution 19, undead immunities, 75% resistance to everything and fast regeneration). His weapon is not magical at first, but evolves as the protagonist progresses. If he's killed, he drops his heart, which you can use after a night's sleep to re-invoke him. You'll find his heart in a tomb: in the Athkatla Graveyard District in BG2, in the Valley of Shadows in IWDEE.|STR 19, DEX 10, CON 19, INT 8, WIS 8, CHA 6.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Jazon le revenant est un guerrier mort-vivant muet qui peut vous suivre comme 7ème membre du groupe. Il est de niveau 8 et ne progressera jamais, par contre il tape dur et résiste à tout (force et constitution 19, immunités de mort vivant, 75% de résistance à tout et régénération rapide). Son arme n'est pas magique au début mais évolue en fonction de la progression du protagoniste. S'il est tué, il droppe son cœur, que vous pouvez utiliser après une nuit de sommeil pour le ré-invoquer. Vous trouverez son coeur dans une tombe : dans le cimetière d'Athkatla dans BG2, dans la vallée des ombres de IWDEE."
+            "source": "Jazon le revenant est un guerrier mort-vivant muet qui peut vous suivre comme 7ème membre du groupe. Il est de niveau 8 et ne progressera jamais, par contre il tape dur et résiste à tout (force et constitution 19, immunités de mort vivant, 75% de résistance à tout et régénération rapide). Son arme n'est pas magique au début mais évolue en fonction de la progression du protagoniste. S'il est tué, il droppe son cœur, que vous pouvez utiliser après une nuit de sommeil pour le ré-invoquer. Vous trouverez son coeur dans une tombe : dans le cimetière d'Athkatla dans BG2, dans la vallée des ombres de IWDEE.|FOR 19, DEX 10, CON 19, INT 8, SAG 8, CHA 6."
         },
         "notes": [],
         "notes_meta": {
@@ -18962,10 +18954,10 @@
     },
     {
         "id": 1307,
-        "description": "Sub-Zero is an assassin from the Lin Kuei clan. Kuai Liang possesses the power of ice and cold. As his name suggests, this character is clearly inspired by the Mortal Kombat character of the same name, and has his own distinctive style.|STR 18/00, DEX 18, CON 18, INT 18, WIS 18, CHA 18.",
+        "description": "Sub-Zero is an assassin from the Lin Kuei clan. Kuai Liang possesses the power of ice and cold. As his name suggests, this character is clearly inspired by the Mortal Kombat character of the same name, and has his own distinctive style. He can follow you as a 7th companion.|STR 18/00, DEX 18, CON 18, INT 18, WIS 18, CHA 18.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Sub-Zero est un assassin du clan Lin Kuei. Kuai Liang possède le pouvoir de la glace et du froid. Comme son nom l'indique, le personnage est clairement inspiré du personnage homonyme de Mortal Kombat et possède son style très particulier.|FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18."
+            "source": "Sub-Zero est un assassin du clan Lin Kuei. Kuai Liang possède le pouvoir de la glace et du froid. Comme son nom l'indique, le personnage est clairement inspiré du personnage homonyme de Mortal Kombat et possède son style très particulier. Il peut vous suivre comme un 7ème compagnon.|FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18."
         },
         "notes": [
             "The github link is compatible with EET.",
@@ -19547,10 +19539,10 @@
     },
     {
         "id": 1348,
-        "description": "Husam is an Amnian shadow thief, who was sent into BG1 to make sure that the accusations against his guild regarding the murders turned out to be false. In the original game, he reveals himself to the protagonist towards the end of BG1 and guides the protagonist to the real culprits. Characteristics: FOR 17, DEX 18, CON 16, INT 15, SAG 14, CHA 10",
+        "description": "Husam is an Amnian shadow thief, who was sent into BG1 to make sure that the accusations against his guild regarding the murders turned out to be false. In the original game, he reveals himself to the protagonist towards the end of BG1 and guides the protagonist to the real culprits. He can follow you as a 7th companion.|STR 17, DEX 18, CON 16, INT 15, WIS 14, CHA 10.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Husam est un voleur de l'ombre amnien, qui a été envoyé dans BG1 pour s'assurer que les accusations portées contre sa guilde au sujet des meurtres se sont avérées fausses. Dans le jeu original, il se révèle au protagoniste vers la fin de BG1 et guide le protagoniste vers les vrais coupables. Voici ses caractéristiques : FOR 17, DEX 18, CON 16, INT 15, SAG 14, CHA 10"
+            "source": "Husam est un voleur de l'ombre amnien, qui a été envoyé dans BG1 pour s'assurer que les accusations portées contre sa guilde au sujet des meurtres se sont avérées fausses. Dans le jeu original, il se révèle au protagoniste vers la fin de BG1 et guide le protagoniste vers les vrais coupables. Il peut vous suivre comme un 7ème compagnon.|FOR 17, DEX 18, CON 16, INT 15, SAG 14, CHA 10."
         },
         "notes": [],
         "notes_meta": {
@@ -19736,10 +19728,10 @@
     },
     {
         "id": 1361,
-        "description": "Bring the clumsiest skeleton necromancer in the multiverse into your group. This full-fledged companion includes her own voice, character quest, custom scripts and much more. Her stats are: FOR 8, DEX 10, CON 14, INT 21, SAG 16, CHA 7. Like all skeletons, she has resistance to cold, and immunity to poison and level absorption.",
+        "description": "Bring the clumsiest skeleton necromancer in the multiverse into your group. This full-fledged companion includes her own voice, character quest, custom scripts and much more. Like all skeletons, she has resistance to cold, and immunity to poison and level absorption.|STR 8, DEX 10, CON 14, INT 21, WIS 16, CHA 7.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Faites entrer la nécromancienne squelette la plus maladroite du multivers dans votre groupe. Ce compagnon à part entière comprend sa propre voix, une quête de personnage, des scripts personnalisés, et bien plus encore. Voici ses caractéristiques : FOR 8, DEX 10, CON 14, INT 21, SAG 16, CHA 7. Comme tout squelette, elle possède une résistance au froid, une immunité au poison et à l'absorption de niveau."
+            "source": "Faites entrer la nécromancienne squelette la plus maladroite du multivers dans votre groupe. Ce compagnon à part entière comprend sa propre voix, une quête de personnage, des scripts personnalisés, et bien plus encore. Comme tout squelette, elle possède une résistance au froid, une immunité au poison et à l'absorption de niveau.|FOR 8, DEX 10, CON 14, INT 21, SAG 16, CHA 7."
         },
         "notes": [
             "Character portraits by Nyama. Voice of Sailor Cat.",
@@ -20368,10 +20360,10 @@
     },
     {
         "id": 1404,
-        "description": "Korax is a crude, ugly monster. He's long forgotten who he was in life, but the loss of his former identity doesn't seem to bother him. Beneath his twisted, rotting face and the putrid smell of death, he's a rather cheerful and surprisingly friendly \"person\". Yet every time you catch him staring at you with his unblinking dead eyes, you can't shake the feeling that he's thinking of eating your flesh.|As a ghoul, Korax is immune to many afflictions but seems unable to wield a weapon, dress himself or drink a potion. His attacks, on the other hand, paralyze his opponents.|STR 19, DEX 9, CON 15, INT 9, WIS 9, CHA 4.",
+        "description": "Korax is a crude, ugly monster. He's long forgotten who he was in life, but the loss of his former identity doesn't seem to bother him. Beneath his twisted, rotting face and the putrid smell of death, he's a rather cheerful and surprisingly friendly \"person\". Yet every time you catch him staring at you with his unblinking dead eyes, you can't shake the feeling that he's thinking of eating your flesh.|As a ghoul, Korax is immune to many afflictions but seems unable to wield a weapon, dress himself or drink a potion. His attacks, on the other hand, paralyze his opponents. He can follow you as a 7th companion.|STR 19, DEX 9, CON 15, INT 9, WIS 9, CHA 4.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Korax est un monstre grossier et laid. Il a oublié depuis longtemps qui il était dans la vie, mais la perte de son ancienne identité ne semble pas le déranger. Sous son visage tordu et pourrissant et sous l'odeur putride de la mort, c'est une « personne » plutôt joyeuse et étonnamment amicale. Pourtant, chaque fois que vous le surprenez à vous fixer de ses yeux morts sans ciller, vous ne pouvez pas vous défaire de l'impression qu'il pense à manger votre chair.|En tant que goule, Korax est immunisé contre bien des afflictions mais semble incapable de manier une arme, de s'habiller ou de boire une potion. Ses attaques, en revanche, paralysent ses adversaires.|FOR 19, DEX 9, CON 15, INT 9, SAG 9, CHA 4."
+            "source": "Korax est un monstre grossier et laid. Il a oublié depuis longtemps qui il était dans la vie, mais la perte de son ancienne identité ne semble pas le déranger. Sous son visage tordu et pourrissant et sous l'odeur putride de la mort, c'est une « personne » plutôt joyeuse et étonnamment amicale. Pourtant, chaque fois que vous le surprenez à vous fixer de ses yeux morts sans ciller, vous ne pouvez pas vous défaire de l'impression qu'il pense à manger votre chair.|En tant que goule, Korax est immunisé contre bien des afflictions mais semble incapable de manier une arme, de s'habiller ou de boire une potion. Ses attaques, en revanche, paralysent ses adversaires. Il peut vous suivre comme un 7ème compagnon.|FOR 19, DEX 9, CON 15, INT 9, SAG 9, CHA 4."
         },
         "notes": [],
         "notes_meta": {
@@ -25316,34 +25308,32 @@
         "id": 1755,
         "description": "This mod adds a fighter/mage/thief banana to the Copper Coronet entrance.|STR 18/00, DEX 18, CON 18, INT 18, WIS 18, CHA 18. Receives double crushing damage.",
         "description_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": "Ce mod ajoute une banane guerrière/mage/voleuse à l'entrée de la Couronne de cuivre.|FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18. Reçoit le double dégâts contondants."
         },
         "notes": [
-            "Choose the last github link for the EE version."
+            "Choose the last github link for the EE version.",
+            "Mod [[Mods_Tweaker]] makes the character's characteristics more RP."
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Choisissez le dernier lien github pour la version EE."
+                "Choisissez le dernier lien github pour la version EE.",
+                "Le mod [[Mods_Tweaker]] rend les caractéristiques du personnage plus RP."
             ]
         }
     },
     {
         "id": 1756,
-        "description": "This mod adds Fedegar the Barbarian to the Copper Coronet kitchen.",
+        "description": "This mod adds Fedegar the Barbarian to the Copper Coronet kitchen.|STR 18/93, DEX 12, CON 18, INT 9, WIS 12, CHA 9.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute Fedegar le barbare dans la cuisine de la Couronne de cuivre."
+            "source": "Ce mod ajoute Fedegar le barbare dans la cuisine de la Couronne de cuivre.|FOR 18/93, DEX 12, CON 18, INT 9, SAG 12, CHA 9."
         },
-        "notes": [
-            "FOR 18/93, DEX 12, CON 18, INT 9, SAG 12, CHA 9."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "FOR 18/93, DEX 12, CON 18, INT 9, SAG 12, CHA 9."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -25526,10 +25516,10 @@
     },
     {
         "id": 1769,
-        "description": "Gilbertus sells a semi-mechanical spider that will follow you around like a 7th companion. Expect lots of gold coins. If you really plan to spend a lot of gold and are persuasive, you may be able to buy 'more'.",
+        "description": "Gilbertus sells a semi-mechanical spider that will follow you around like a 7th companion. Expect lots of gold coins. If you really plan to spend a lot of gold and are persuasive, you may be able to buy 'more'.|Kri'binn : STR 15, DEX 9, CON 9, INT 9, WIS 9, CHA 9.|Kro'tan : STR 18/50, DEX 9, CON 9, INT 9, WIS 9, CHA 9.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or. Si vous prévoyez vraiment beaucoup de pièce d'or et si vous êtes persuasif, vous pourrez peut être acheter 'plus'."
+            "source": "Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or. Si vous prévoyez vraiment beaucoup de pièce d'or et si vous êtes persuasif, vous pourrez peut être acheter 'plus'.|Kri'binn : FOR 15, DEX 9, CON 9, INT 9, SAG 9, CHA 9.|Kro'tan : FOR 18/50, DEX 9, CON 9, INT 9, SAG 9, CHA 9."
         },
         "notes": [],
         "notes_meta": {
