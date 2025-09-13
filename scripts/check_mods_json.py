@@ -17,7 +17,7 @@ def check_json(language):
 
     mod_names_founded = set()
     mod_ids_founded = set()
-    mod_names = set(mod.name for mod in mods)
+    mod_ids = set(str(mod.id) for mod in mods)
     tp2s = set()
     urls_to_mod = dict()
     nb_warnings = 0
@@ -27,8 +27,8 @@ def check_json(language):
         for text in [mod.description] + mod.notes:
             links = mod_link.findall(text)
             for link in links:
-                assert link in mod_names, (
-                    f"🔴 {language} {mod.name} : Lien interne vers un mod inexistant → {link}"
+                assert link in mod_ids, (
+                    f"🔴 {language} {mod.id} : Lien interne vers un mod inexistant → {link}"
                 )
 
         # check id unicity
