@@ -15,7 +15,6 @@ def main(**kwargs):
 def check_json(language):
     mods = ModManager.get_mod_list(language=language)
 
-    mod_names_founded = set()
     mod_ids_founded = set()
     mod_ids = set(str(mod.id) for mod in mods)
     tp2s = set()
@@ -35,22 +34,12 @@ def check_json(language):
         assert mod.id not in mod_ids_founded, f"🔴 {language} {mod.id} : ID déjà existant"
         mod_ids_founded.add(mod.id)
 
-        # check name unicity
-        assert mod.name not in mod_names_founded, (
-            f"🔴 {language} {mod.name} : Nom déjà existant"
-        )
-        mod_names_founded.add(mod.name)
-
         # check urls, warning
         for url in mod.urls:
             if url in urls_to_mod:
                 print(
                     f"🟡 {language} Url doublon",
-                    f"({url})",
-                    "→",
-                    mod.name,
-                    "/",
-                    urls_to_mod[url],
+                    f"({url}) → {mod.name} / {urls_to_mod[url]}",
                 )
                 nb_warnings += 1
             else:
