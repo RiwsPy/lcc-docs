@@ -26063,5 +26063,22 @@
                 "Il est incompatible avec [[All Things Mazzy]]."
             ]
         }
+    },
+    {
+        "id": 1807,
+        "description": "This mini tweak removes the coloring of stone and iron skin.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mini tweak permet de retirer la coloration des peaux de pierre et de fer."
+        },
+        "notes": [
+            "It works only with the patch 2.6."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Ne fonctionne que pour le patch 2.6."
+            ]
+        }
     }
 ]

@@ -34945,11 +34945,12 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "de"
         ],
         "status": "active",
         "last_update": "2023-12",
-        "tp2": "theundying"
+        "tp2": "TheUndying"
     },
     {
         "id": 1093,
@@ -56638,5 +56639,35 @@
         "status": "active",
         "last_update": "2025-08",
         "tp2": "LivingClara"
+    },
+    {
+        "id": 1807,
+        "name": "Remove 'Stone/Steel' color",
+        "description": "Ce mini tweak permet de retirer la coloration des peaux de pierre et de fer.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/77793/#Comment_1173543"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "Bubb"
+        ],
+        "team": [],
+        "notes": [
+            "Ne fonctionne que pour le patch 2.6."
+        ],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2021-07",
+        "tp2": "bubb_disable_stoneskin_color"
     }
 ]
