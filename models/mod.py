@@ -8,7 +8,6 @@ from pydantic.dataclasses import dataclass
 
 from i18n import _g, current_language
 from models.url import Url
-from models.utils import slugify
 from settings import (
     CategoryEnum,
     GameEnum,
@@ -76,10 +75,6 @@ class Mod:
         )
 
     @property
-    def slug_name(self) -> str:
-        return slugify(self.name)
-
-    @property
     def translation_state_auto(self) -> str:
         if self.translation_state == "auto":
             if not self.languages:
@@ -117,8 +112,10 @@ class Mod:
 
         return icons
 
-    def convert_txt(self, txt: str) -> str:
-        return self._convert_quote(self._convert_pipe(self._convert_link(txt)))
+    def convert_txt(self, txt: str, mod_id_to_name: dict | None = None) -> str:
+        return self._convert_quote(
+            self._convert_pipe(self._convert_link(txt, mod_id_to_name=mod_id_to_name))
+        )
 
     def _convert_quote(self, txt: str) -> str:
         quoted_txt = txt
@@ -129,13 +126,15 @@ class Mod:
 
         return quoted_txt
 
-    def _convert_link(self, txt: str) -> str:
+    def _convert_link(self, txt: str, mod_id_to_name: dict | None = None) -> str:
         linked_txt = txt
         for link in link_regex.findall(txt):
-            mod_name = link.strip("[] ")
-            linked_txt = linked_txt.replace(
-                link, f'<a href="#{slugify(mod_name)}">{mod_name}</a>'
-            )
+            mod_id = link.strip("[] ")
+            if mod_id_to_name is None:
+                mod_name = mod_id
+            else:
+                mod_name = mod_id_to_name.get(mod_id, mod_id)
+            linked_txt = linked_txt.replace(link, f'<a href="#m{mod_id}">{mod_name}</a>')
         for link in external_link_regex.findall(linked_txt):
             name, url = link
             linked_txt = linked_txt.replace(
@@ -147,8 +146,8 @@ class Mod:
     def _convert_pipe(self, txt: str) -> str:
         return txt.replace("|", "<br/>")
 
-    def get_description(self) -> str:
-        return self.convert_txt(self.description)
+    def get_description(self, mod_id_to_name: dict | None = None) -> str:
+        return self.convert_txt(self.description, mod_id_to_name=mod_id_to_name)
 
     @property
     def safe_note(self) -> int:
@@ -246,8 +245,11 @@ class Mod:
             ("https://www.mediafire.com/", "https://sorcerers.net/")
         )
 
-    def get_notes(self) -> list[str]:
-        return [self.convert_txt(note) for note in self.notes + self.get_auto_notes()]
+    def get_notes(self, mod_id_to_name: dict | None = None) -> list[str]:
+        return [
+            self.convert_txt(note, mod_id_to_name=mod_id_to_name)
+            for note in self.notes + self.get_auto_notes()
+        ]
 
     @property
     def is_bws_compatible(self) -> bool:

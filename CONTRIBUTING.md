@@ -50,7 +50,7 @@ Conseils :
 ### Aides pour se simplifier la vie
 - `|` : le pipe, il permet de revenir à la ligne (le saut de ligne n'étant pas autorisé dans le json)
 - \`\` : le backtick (l'accent grave), il permet de mettre en `surbrillance un bout de phrase`
-- `[[ ]]` : le lien interne, il n'est pas rare qu'un mod parle d'un autre mod, on rajoute un lien : [[nom du mod]]
+- `[[ ]]` : le lien interne, il n'est pas rare qu'un mod parle d'un autre mod, on rajoute un lien : [[id du mod]]
 - `[]()` : le lien externe, comme avec les fichiers .md, `[description du lien](url)`
 
 ## notes

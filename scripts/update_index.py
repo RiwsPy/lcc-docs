@@ -29,6 +29,7 @@ def main(**kwargs):
             mod_length=len(mods),
             language=language,
             language_flags=used_language_flags,
+            mod_id_to_name=mod_id_to_name,
         )
 
     env = Environment(
@@ -53,6 +54,8 @@ def main(**kwargs):
             mods = ModManager.get_mod_list()
 
             mods.sort(key=lambda x: x.name.lower())
+
+            mod_id_to_name = {str(mod.id): mod.name for mod in mods}
 
             categories_mod = {cat: list() for cat in CategoryEnum}
             for mod in mods:
