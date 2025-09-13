@@ -1180,6 +1180,7 @@
     },
     {
         "id": 80,
+        "name": "The shooter's delight",
         "description": "He's a merchant on the Waukeen's Promenade who sells anything used for killing at a distance (bow, crossbow, slingshot, darts, throwing daggers, throwing axes, and a good deal of assorted ammunition from BG2 and IWD).",
         "description_meta": {
             "status": "needs_review",
@@ -8945,6 +8946,7 @@
     },
     {
         "id": 617,
+        "name": "The ogre and the gnome, a story of Blue",
         "description": "This little module will introduce you to two unusual protagonists: one is an NPC ogre whom you can enlist (for the moment he's mute if hired) and the other a gnome merchant. To find one or the other, ask yourself the following questions: where could an ogre be hiding who doesn't want to be seen, and where could a merchant be?|STR 19, DEX 7, CON 18, INT 6, WIS 8, CHA 6.",
         "description_meta": {
             "status": "needs_review",
@@ -16179,6 +16181,7 @@
     },
     {
         "id": 1113,
+        "name": "Todd the super tester guy",
         "description": "This mod adds an anachronistic merchant who sells more than 200 Morrowind and Arcanum items. Note: as the mod's raison d'être is to anachronistically offer all items from other games, it makes no distinction between useless, balanced and overpowered items. Install it with full knowledge of the facts. If you're looking for balanced items, check out [[616]].",
         "description_meta": {
             "status": "needs_review",
@@ -18470,6 +18473,7 @@
     },
     {
         "id": 1273,
+        "name": "Kurosaï the combiner",
         "description": "Kurosai is a pnj who, for a lot of gold, can combine three +x items into one +x+1 item. This works for almost all '+x' items, from weapons to armour to jewellery. He can thus combine items up to +6. He appears in Trademeet after the Daos have left. Later in the game he will move to Saradush, and disappear with the destruction of the town.",
         "description_meta": {
             "status": "done",
@@ -18483,7 +18487,8 @@
     },
     {
         "id": 1274,
-        "description": "Jazon le revenant is a mute undead warrior who can follow you as a 7th member of the party. He is level 8 and will never progress, but he types hard and resists everything (strength and constitution 19, undead immunities, 75% resistance to everything and fast regeneration). His weapon is not magical at first, but evolves as the protagonist progresses. If he's killed, he drops his heart, which you can use after a night's sleep to re-invoke him. You'll find his heart in a tomb: in the Athkatla Graveyard District in BG2, in the Valley of Shadows in IWDEE.|STR 19, DEX 10, CON 19, INT 8, WIS 8, CHA 6.",
+        "name": "Jazon the revenant",
+        "description": "Jazon the revenant is a mute undead warrior who can follow you as a 7th member of the party. He is level 8 and will never progress, but he types hard and resists everything (strength and constitution 19, undead immunities, 75% resistance to everything and fast regeneration). His weapon is not magical at first, but evolves as the protagonist progresses. If he's killed, he drops his heart, which you can use after a night's sleep to re-invoke him. You'll find his heart in a tomb: in the Athkatla Graveyard District in BG2, in the Valley of Shadows in IWDEE.|STR 19, DEX 10, CON 19, INT 8, WIS 8, CHA 6.",
         "description_meta": {
             "status": "needs_review",
             "source": "Jazon le revenant est un guerrier mort-vivant muet qui peut vous suivre comme 7ème membre du groupe. Il est de niveau 8 et ne progressera jamais, par contre il tape dur et résiste à tout (force et constitution 19, immunités de mort vivant, 75% de résistance à tout et régénération rapide). Son arme n'est pas magique au début mais évolue en fonction de la progression du protagoniste. S'il est tué, il droppe son cœur, que vous pouvez utiliser après une nuit de sommeil pour le ré-invoquer. Vous trouverez son coeur dans une tombe : dans le cimetière d'Athkatla dans BG2, dans la vallée des ombres de IWDEE.|FOR 19, DEX 10, CON 19, INT 8, SAG 8, CHA 6."
@@ -19139,6 +19144,7 @@
     },
     {
         "id": 1320,
+        "name": "Illo the tatoo artist",
         "description": "A merchant selling nearly a hundred single-use tattoos that work like tomes, but in a ++ version.|Remember the PST tattoos? They're the same, and lots more. You will find the merchant:|- BG2: outside the thieves' guild, south of the dark shroud|- Black Pits 2: away from the merchant's circle|- IWDEE: next to the Coulon's forge at Kuldahar",
         "description_meta": {
             "status": "needs_review",
@@ -25445,6 +25451,7 @@
     },
     {
         "id": 1764,
+        "name": "Oops the magician",
         "description": "Oops is a very special character: he has the ability to change a spell scroll into a special ability.  In concrete terms, bring Oops the scroll of the spell you'd like to have as a special ability 1x/day, pay him 10,000 po per level of the desired spell, you lose the scroll but you gain a new ability. You'll find Oops next to the Watcher's keep, to the south-west. It is designed to be accessible in both SOA and TOB.|The mod also handles grimoires drawn from other mods like [[616]], [[926]], [[1218]].",
         "description_meta": {
             "status": "needs_review",
@@ -25518,6 +25525,7 @@
     },
     {
         "id": 1769,
+        "name": "Kri'binn the semi-mechanical spider",
         "description": "Gilbertus sells a semi-mechanical spider that will follow you around like a 7th companion. Expect lots of gold coins. If you really plan to spend a lot of gold and are persuasive, you may be able to buy 'more'.|Kri'binn : STR 15, DEX 9, CON 9, INT 9, WIS 9, CHA 9.|Kro'tan : STR 18/50, DEX 9, CON 9, INT 9, WIS 9, CHA 9.",
         "description_meta": {
             "status": "needs_review",
@@ -25884,6 +25892,7 @@
     },
     {
         "id": 1795,
+        "name": "IWDisator",
         "description": "The IWDisator is a module allows you to install certain mods initially designed for BG2EE on IWDEE. There are currently about 30 mods available.",
         "description_meta": {
             "status": "needs_review",
