@@ -7,6 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     "beautifulsoup4>=4.13.3",
     "curl-cffi>=0.10.0",
+    "iteration-utilities>=0.13.0",
     "jinja2>=3.1.5",
     "pydantic>=2.11.5",
     "pygithub>=2.5.0",
