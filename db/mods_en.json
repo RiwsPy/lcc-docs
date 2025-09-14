@@ -3463,15 +3463,19 @@
     },
     {
         "id": 239,
-        "description": "This mod seems to have disappeared. But that's no big deal, as [[1163]] was much more powerful.",
+        "description": "This mod reveals the fog of war.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod semble avoir disparu. Mais ce n'est pas bien bien grave car [[1163]] était plus performant."
+            "source": "Ce mod révèle le brouillard de guerre."
         },
-        "notes": [],
+        "notes": [
+            "Choose [[1163]] which is more performant."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Privilégiez [[1163]] qui est plus performant."
+            ]
         }
     },
     {
@@ -7274,10 +7278,10 @@
     },
     {
         "id": 501,
-        "description": "Huple is a soldier in Amn's army. He will accompany you on your journey through the mines of Nashkel, as well as on a few quests around the area. Huple has blind faith in order, justice and the law. He carries with him a symposium of laws and decrees. And, in numerous dialogues, he will confront his point of view with yours and that of your companions.",
+        "description": "Huple is a soldier in Amn's army. He will accompany you on your journey through the mines of Nashkel, as well as on a few quests around the area. Huple has blind faith in order, justice and the law. He carries with him a symposium of laws and decrees. And, in numerous dialogues, he will confront his point of view with yours and that of your companions.|STR 17, DEX 10, CON 16, INT 8, WIS 18, CHA 17.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Huple est un soldat de l'armée de Amn. Il vous accompagnera lors de votre périple dans les mines de Nashkel ainsi que dans quelques quêtes autour de ce lieu. Huple a une confiance aveugle dans l'ordre, la justice et la loi. Il transporte avec lui un symposium de lois et de décrets. Et, lors de nombreux dialogues, il confrontera son point de vue avec le vôtre et celui de vos compagnons."
+            "source": "Huple est un soldat de l'armée de Amn. Il vous accompagnera lors de votre périple dans les mines de Nashkel ainsi que dans quelques quêtes autour de ce lieu. Huple a une confiance aveugle dans l'ordre, la justice et la loi. Il transporte avec lui un symposium de lois et de décrets. Et, lors de nombreux dialogues, il confrontera son point de vue avec le vôtre et celui de vos compagnons.|FOR 17, DEX 10, CON 16, INT 8, SAG 18, CHA 17."
         },
         "notes": [],
         "notes_meta": {
@@ -8529,10 +8533,10 @@
     },
     {
         "id": 588,
-        "description": "The aim of this mod is to offer players a new epic battle against Kangaxx, enhanced in every aspect and endowed with powers much more in line with what he should have as a Lich of Netheril. The guardians who guard his parts (arms, trunk and legs) have also had their powers increased. In addition, three new enemies have been added to guard access to the tomb in the port district, where the golden skull is located.",
+        "description": "The aim of this mod is to offer players a new epic battle against Kangaxx, enhanced in every aspect and endowed with powers much more in line with what he should have as a Lich of Netheril. The guardians who guard his parts (arms, trunk and legs) have also had their powers increased. In addition, three new enemies have been added to guard access to the tomb in the dock district, where the golden skull is located.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod vise à offrir au joueur un nouveau combat épique contre Kangaxx, amélioré sous tous les aspects et doté de pouvoirs beaucoup plus conformes à ce qu'il devrait avoir en tant que liche de Néthéril. Les gardiens qui gardent ses pièces (bras, tronc et jambes) ont également vu leurs pouvoirs augmentés. En outre, trois nouveaux ennemis ont été ajoutés pour garder l'accès à la tombe dans le quartier du port, où se trouve le crâne d'or."
+            "source": "Ce mod vise à offrir au joueur un nouveau combat épique contre Kangaxx, amélioré sous tous les aspects et doté de pouvoirs beaucoup plus conformes à ce qu'il devrait avoir en tant que liche de Néthéril. Les gardiens qui gardent ses pièces (bras, tronc et jambes) ont également vu leurs pouvoirs augmentés. En outre, trois nouveaux ennemis ont été ajoutés pour garder l'accès à la tombe dans le quartier des docks, où se trouve le crâne d'or."
         },
         "notes": [],
         "notes_meta": {
@@ -26209,6 +26213,175 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod propose une modification des sorts Poigne électrique, Incinérateur d'Agannazar et Cône de froid."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1817,
+        "description": "This mod allows you to have your own golem as a companion and personal guard: Heracles. Its combat abilities improve with the level of the player character.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod vous permet d'avoir votre propre golem comme familier et garde personnel : Heracles. Ses capacités de combat s'améliorent en fonction du niveau du personnage joueur."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1818,
+        "description": "This mod allows you to learn the spell that Harwilliger Neen (magician appearing at the exit of the Naskell mines) can invoke green lemons and mustard gels.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod permet d'apprendre le sort grâce auquel Harwilliger Neen (magicien apparaissant sur la carte à la sortie des mines de Naskell) est capable d'invoquer des limons verts et des gelées de moutarde."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1819,
+        "description": "This mod contains a series of adjustments for Baldur's Gate - Tales of the Sword Coast.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod contient une série d'ajustements pour Baldur's Gate - Tales of the Sword Coast."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1820,
+        "description": "This mod contains several voice packs (in Spanish) for the main character.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod contient plusieurs séries de voix (en espagnol) pour le personnage principal."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1821,
+        "description": "This mod contains alternative portraits for characters recruitable in BG2.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod contient des portrait alternatifs pour les personnages recrutables de BG."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1822,
+        "description": "This mod contains alternative portraits for characters recruitable in BG2.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod contient des portrait alternatifs pour les personnages recrutables de BG2."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1823,
+        "description": "This mod allows you to reach level 50.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod permet d'atteindre le niveau 50."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1824,
+        "description": "This mod adds many elements from [[1062]] and fixes some bugs.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute de nombreux éléments issus de [[1062]] et en corrige les bugs."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1825,
+        "description": "This mod adds the merchant Eman Rahc to the promenade of Waukyne. You will also find him in Saradush. He sells many items created by the DLAN clan.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute le marchand Eman Rahc dans la promenade de Waukyne. Vous le retrouverez également à Saradush. Il vend de nombreux objets créés par le clan DLAN."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1826,
+        "description": "A pack of portraits that replaces the portraits of some of the most well-known NPCs of BG by the faces of the creators of your favorite mods and a few others.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Un pack de portraits qui remplace les portraits de certains des PNJ les plus connus du BG par les visages des créateurs de vos mods préférés, et de quelques autres personnes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1827,
+        "description": "This mod modifies the group script to be able to simulate a 8-hour sleep for the group if no enemy is visible. It allows you to sleep in areas where sleep is a priority and without risk of being attacked.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod modifie le script du groupe de façon à pouvoir simuler un repos de 8 heures au groupe si aucun ennemi n'est visible. Il permet notamment de dormir dans des zones où le sommeil est à priori impossible et sans risque de se faire attaquer."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1828,
+        "description": "This is a pack of tweaks which is inspired by other packs, this one has the particularity of allowing the user to choose the values they wish rather than to restrict them to a predefined number.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Il s'agit d'un pack de tweaks qui s'inspire des autres packs, celui-ci à la particularité d'offrir à l'utilisateur de choisir les valeurs qu'il désire plutôt que de les restreindre à un nombre prédéfinis."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1829,
+        "description": "This is a script mod designed to allow a dual wielding character the ability to drop their offhand melee weapon in order to use a ranged weapon.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Il s'agit d'un mod de script conçu pour permettre à un personnage maniant deux armes de lâcher son arme de mêlée secondaire afin d'utiliser une arme à distance."
         },
         "notes": [],
         "notes_meta": {

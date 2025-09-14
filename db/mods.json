@@ -7640,9 +7640,9 @@
     {
         "id": 239,
         "name": "Clear Fog of War",
-        "description": "Ce mod semble avoir disparu. Mais ce n'est pas bien bien grave car [[1163]] était plus performant.",
+        "description": "Ce mod révèle le brouillard de guerre.",
         "urls": [
-            "http://www.3ddownloads.com/telefragged/fwstudios/hlid"
+            "http://iegmc.kjtd.net/hlid/ClearFogOfWar.rar"
         ],
         "categories": [
             "Gameplay"
@@ -7651,15 +7651,19 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "hlidskialf"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Privilégiez [[1163]] qui est plus performant."
+        ],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "status": "active",
+        "last_update": "2003-05",
+        "tp2": "ClearFogOfWar"
     },
     {
         "id": 240,
@@ -15944,7 +15948,7 @@
     {
         "id": 501,
         "name": "Huple NPC",
-        "description": "Huple est un soldat de l'armée de Amn. Il vous accompagnera lors de votre périple dans les mines de Nashkel ainsi que dans quelques quêtes autour de ce lieu. Huple a une confiance aveugle dans l'ordre, la justice et la loi. Il transporte avec lui un symposium de lois et de décrets. Et, lors de nombreux dialogues, il confrontera son point de vue avec le vôtre et celui de vos compagnons.",
+        "description": "Huple est un soldat de l'armée de Amn. Il vous accompagnera lors de votre périple dans les mines de Nashkel ainsi que dans quelques quêtes autour de ce lieu. Huple a une confiance aveugle dans l'ordre, la justice et la loi. Il transporte avec lui un symposium de lois et de décrets. Et, lors de nombreux dialogues, il confrontera son point de vue avec le vôtre et celui de vos compagnons.|FOR 17, DEX 10, CON 16, INT 8, SAG 18, CHA 17.",
         "urls": [
             "https://www.shsforums.net/files/file/773-huple-npc-v12/"
         ],
@@ -18747,7 +18751,7 @@
     {
         "id": 588,
         "name": "Kangaxx mejorado",
-        "description": "Ce mod vise à offrir au joueur un nouveau combat épique contre Kangaxx, amélioré sous tous les aspects et doté de pouvoirs beaucoup plus conformes à ce qu'il devrait avoir en tant que liche de Néthéril. Les gardiens qui gardent ses pièces (bras, tronc et jambes) ont également vu leurs pouvoirs augmentés. En outre, trois nouveaux ennemis ont été ajoutés pour garder l'accès à la tombe dans le quartier du port, où se trouve le crâne d'or.",
+        "description": "Ce mod vise à offrir au joueur un nouveau combat épique contre Kangaxx, amélioré sous tous les aspects et doté de pouvoirs beaucoup plus conformes à ce qu'il devrait avoir en tant que liche de Néthéril. Les gardiens qui gardent ses pièces (bras, tronc et jambes) ont également vu leurs pouvoirs augmentés. En outre, trois nouveaux ennemis ont été ajoutés pour garder l'accès à la tombe dans le quartier des docks, où se trouve le crâne d'or.",
         "urls": [
             "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/kangaxx_mejorado"
         ],
@@ -18759,18 +18763,19 @@
             "BGT"
         ],
         "authors": [
-            "Kensai Ryu"
+            "Memnoch"
         ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
-            "es"
+            "es",
+            "pl"
         ],
         "status": "missing",
-        "last_update": "",
-        "tp2": "non-weidu"
+        "last_update": "2008-08",
+        "tp2": "Kangaxx_mejorado"
     },
     {
         "id": 589,
@@ -22225,19 +22230,21 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Sergiond"
+        ],
         "team": [],
         "notes": [
             "Privilégiez [[1011]]."
         ],
         "translation_state": "auto",
-        "safe": 0,
+        "safe": 1,
         "languages": [
             "es"
         ],
         "status": "missing",
-        "last_update": "",
-        "tp2": "non-weidu"
+        "last_update": "2007-01",
+        "tp2": "Popurri"
     },
     {
         "id": 702,
@@ -36617,7 +36624,7 @@
             "BGT"
         ],
         "authors": [
-            "sergiond77"
+            "Sergiond"
         ],
         "team": [],
         "notes": [
@@ -56919,5 +56926,361 @@
         "status": "active",
         "last_update": "2025-07",
         "tp2": "non-weidu"
+    },
+    {
+        "id": 1817,
+        "name": "Heracles el Gólem",
+        "description": "Ce mod vous permet d'avoir votre propre golem comme familier et garde personnel : Heracles. Ses capacités de combat s'améliorent en fonction du niveau du personnage joueur.",
+        "urls": [
+            "http://www.clandlan.net/foros/topic/70630-presentando-a-heracles-el-golem-solicitud-de-guionistaescritor/"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Auda y Saemon"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "es"
+        ],
+        "status": "missing",
+        "last_update": "2012-09",
+        "tp2": "golem"
+    },
+    {
+        "id": 1818,
+        "name": "Limos",
+        "description": "Ce mod permet d'apprendre le sort grâce auquel Harwilliger Neen (magicien apparaissant sur la carte à la sortie des mines de Naskell) est capable d'invoquer des limons verts et des gelées de moutarde.",
+        "urls": [
+            "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/limos"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Jondalar"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "es",
+            "en"
+        ],
+        "status": "missing",
+        "last_update": "2012-09",
+        "tp2": "limos"
+    },
+    {
+        "id": 1819,
+        "name": "BG Arreglos",
+        "description": "Ce mod contient une série d'ajustements pour Baldur's Gate - Tales of the Sword Coast.",
+        "urls": [
+            "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/bgarreglos"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG"
+        ],
+        "authors": [
+            "Ghildrean"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "es"
+        ],
+        "status": "missing",
+        "last_update": "2007-01",
+        "tp2": "bgarreglos"
+    },
+    {
+        "id": 1820,
+        "name": "Voces y sonidos",
+        "description": "Ce mod contient plusieurs séries de voix (en espagnol) pour le personnage principal.",
+        "urls": [
+            "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/sonidos"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG",
+            "BG2"
+        ],
+        "authors": [
+            "Orión",
+            "Mordenkainen"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [
+            "es"
+        ],
+        "status": "missing",
+        "last_update": "2007-09",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1821,
+        "name": "Portraits Alternativos BG1",
+        "description": "Ce mod contient des portrait alternatifs pour les personnages recrutables de BG.",
+        "urls": [
+            "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/AlternatePortraitPackBG1"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG",
+            "Tutu",
+            "BGT"
+        ],
+        "authors": [
+            "Immortality"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "missing",
+        "last_update": "2007-09",
+        "tp2": ""
+    },
+    {
+        "id": 1822,
+        "name": "Portraits Alternativos BG2",
+        "description": "Ce mod contient des portrait alternatifs pour les personnages recrutables de BG2.",
+        "urls": [
+            "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/AlternatePortraitPack"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG",
+            "Tutu",
+            "BGT"
+        ],
+        "authors": [
+            "Immortality"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "missing",
+        "last_update": "2006-09",
+        "tp2": ""
+    },
+    {
+        "id": 1823,
+        "name": "Revisión de Reglas para nivel 50",
+        "description": "Ce mod permet d'atteindre le niveau 50.",
+        "urls": [
+            "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/lvl50"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Kerenthar All'uvestrel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "missing",
+        "last_update": "2006-09",
+        "tp2": ""
+    },
+    {
+        "id": 1824,
+        "name": "TDDsinTDD",
+        "description": "Ce mod ajoute de nombreux éléments issus de [[1062]] et en corrige les bugs.",
+        "urls": [
+            "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/TDDsinTDD"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Bhasbuto"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en",
+            "es"
+        ],
+        "status": "missing",
+        "last_update": "2010-01",
+        "tp2": "TDD_sin_TDD"
+    },
+    {
+        "id": 1825,
+        "name": "Vendedor DLAN",
+        "description": "Ce mod ajoute le marchand Eman Rahc dans la promenade de Waukyne. Vous le retrouverez également à Saradush. Il vend de nombreux objets créés par le clan DLAN.",
+        "urls": [
+            "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/vendor",
+            "https://www.shsforums.net/topic/55277-translations-into-english-for-various-mods/page-14#post_id_588218"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Bhasbuto"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "es"
+        ],
+        "status": "missing",
+        "last_update": "2010-01",
+        "tp2": "BHBMOD01"
+    },
+    {
+        "id": 1826,
+        "name": "Pack de Portraits de Modders",
+        "description": "Un pack de portraits qui remplace les portraits de certains des PNJ les plus connus du BG par les visages des créateurs de vos mods préférés, et de quelques autres personnes.",
+        "urls": [
+            "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/mpp"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Immortality",
+            "Andyr"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "missing",
+        "last_update": "2004-01",
+        "tp2": "moddersportraitpack"
+    },
+    {
+        "id": 1827,
+        "name": "Rest For Only 8 Hours",
+        "description": "Ce mod modifie le script du groupe de façon à pouvoir simuler un repos de 8 heures au groupe si aucun ennemi n'est visible. Il permet notamment de dormir dans des zones où le sommeil est à priori impossible et sans risque de se faire attaquer.",
+        "urls": [
+            "https://sasha-altherin.webs.com/restforonly8hours.htm"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "IWD"
+        ],
+        "authors": [
+            "Sasha al'Therin"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "missing",
+        "last_update": "2011-01",
+        "tp2": "ab_restonly8"
+    },
+    {
+        "id": 1828,
+        "name": "Interactive Tweaks",
+        "description": "Il s'agit d'un pack de tweaks qui s'inspire des autres packs, celui-ci à la particularité d'offrir à l'utilisateur de choisir les valeurs qu'il désire plutôt que de les restreindre à un nombre prédéfinis.",
+        "urls": [
+            "https://sasha-altherin.webs.com/baldursgateseriesmods.htm"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG",
+            "BG2"
+        ],
+        "authors": [
+            "Sasha al'Therin"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "missing",
+        "last_update": "2008-12",
+        "tp2": "AB_IntTweaks"
+    },
+    {
+        "id": 1829,
+        "name": "Offhand Weapon Swap",
+        "description": "Il s'agit d'un mod de script conçu pour permettre à un personnage maniant deux armes de lâcher son arme de mêlée secondaire afin d'utiliser une arme à distance.",
+        "urls": [
+            "https://sasha-altherin.webs.com/offhandweaponswap.htm"
+        ],
+        "categories": [
+            "Script et tactique"
+        ],
+        "games": [
+            "Tutu",
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Sasha al'Therin"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "missing",
+        "last_update": "2009-08",
+        "tp2": "ab_OffhandWeaponSwap"
     }
 ]
