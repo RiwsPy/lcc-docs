@@ -26091,5 +26091,129 @@
                 "Ne fonctionne que pour le patch 2.6."
             ]
         }
+    },
+    {
+        "id": 1808,
+        "description": "This mini mod makes the Orrick stock available at the beginning of the game.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mini mod rend le stock d'Orrick disponible dès le début du jeu."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1809,
+        "name": "Thingies for modders",
+        "description": "Items to give to yout tester guys for infinite tests. You will find here items to maximize your attacks, critical hits, critical fails, and other things.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Des objets à donner à vos personnages de test pour des essais infinis. On y trouve notamment des objets pour maximiser vos attaques, coups critiques, échecs critiques, et autres choses."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1810,
+        "description": "This mod corrects a lot of bugs in SoA. The details of the corrections are available in the mod.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod de 2002 propose de nombreux correctifs dans SoA. Le détail des correctifs est disponible dans le mod."
+        },
+        "notes": [
+            "Incompatible with ToB.",
+            "Most of the bugs have been fixed by [[153]]."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Incompatible avec ToB.",
+                "La plupart des bugs ont été fixés par [[153]]."
+            ]
+        }
+    },
+    {
+        "id": 1811,
+        "description": "Easthaven+, a new mod aimming to extend the play of Icewind Dale. A lot of fun extras have been thrown into the game for fun, as well as some extra RP characters, that are following their own campaign to rid evil or good from Easthaven, and the world that makes Icewind Dale. Easthaven+ brings all this and more into the game. With this as well, there is a set of game rules, allowing the player to reach higher levels, and see skill progression reach a new level (literally).",
+        "description_meta": {
+            "status": "done",
+            "source": "Easthaven+, un nouveau mod visant à prolonger le jeu Icewind Dale. De nombreux extras amusants ont été ajoutés au jeu, ainsi que des personnages supplémentaires qui suivent leur propre campagne pour débarrasser Easthaven et le monde d'Icewind Dale du mal ou du bien. Il comprend également un ensemble de règles de jeu permettant au joueur d'atteindre des niveaux plus élevés et de voir la progression de ses compétences atteindre un nouveau niveau (littéralement)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1812,
+        "description": "This mini-mod corrects the damage of the Snow Maiden's Reaver sword to be closer to the paper version.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mini-mod propose un correctif des dégâts pour l'épée The Snow Maiden's Reaver pour être plus proche de sa version papier."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1813,
+        "description": "The Civic Festhall theme trimmed and slowed to be more 'ambient' and less intrusive. ",
+        "description_meta": {
+            "status": "done",
+            "source": "Le thème Civic Festhall a été raccourci et ralenti pour être plus « ambiant » et moins intrusif."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1814,
+        "description": "This mod proposes an update of the 77 original portraits.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose une mise à jour des 77 portraits d'origine du jeu."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1815,
+        "description": "This mod proposes a modification of the elf armor to be more brilliant like the mithril armor.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose une modification des armures elfiques pour être plus brillantes comme le mithril."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1816,
+        "description": "This mod proposes a modification of the sorts of the Shocking Grasp, Aganazzar's Scorcher and Cone of Cold.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose une modification des sorts Poigne électrique, Incinérateur d'Agannazar et Cône de froid."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

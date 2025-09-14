@@ -56669,5 +56669,255 @@
         "status": "active",
         "last_update": "2021-07",
         "tp2": "bubb_disable_stoneskin_color"
+    },
+    {
+        "id": 1808,
+        "name": "Orrick's Tower: Making all items available",
+        "description": "Ce mini mod rend le stock d'Orrick disponible dès le début du jeu.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/87407/"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Argent77"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2023-05",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1809,
+        "name": "Bidules pour moddeurs",
+        "description": "Des objets à donner à vos personnages de test pour des essais infinis. On y trouve notamment des objets pour maximiser vos attaques, coups critiques, échecs critiques, et autres choses.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34587",
+            "https://github.com/Deratiseur/Thingies"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Deratiseur"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2025-04",
+        "tp2": "Derats_Thingies"
+    },
+    {
+        "id": 1810,
+        "name": "Sorcerer's Place Fixpack",
+        "description": "Ce mod de 2002 propose de nombreux correctifs dans SoA. Le détail des correctifs est disponible dans le mod.",
+        "urls": [
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/SPfixpack.zip"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Extremist"
+        ],
+        "team": [],
+        "notes": [
+            "Incompatible avec ToB.",
+            "La plupart des bugs ont été fixés par [[153]]."
+        ],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "obsolete",
+        "last_update": "2002-06",
+        "tp2": "SPfixpackSoA"
+    },
+    {
+        "id": 1811,
+        "name": "Easthaven+",
+        "description": "Easthaven+, un nouveau mod visant à prolonger le jeu Icewind Dale. De nombreux extras amusants ont été ajoutés au jeu, ainsi que des personnages supplémentaires qui suivent leur propre campagne pour débarrasser Easthaven et le monde d'Icewind Dale du mal ou du bien. Il comprend également un ensemble de règles de jeu permettant au joueur d'atteindre des niveaux plus élevés et de voir la progression de ses compétences atteindre un nouveau niveau (littéralement).",
+        "urls": [
+            "https://www.moddb.com/mods/easthavenplus"
+        ],
+        "categories": [
+            "Gameplay",
+            "Personnalisation du groupe"
+        ],
+        "games": [
+            "IWD"
+        ],
+        "authors": [
+            "Duke Nightmare"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2010-08",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1812,
+        "name": "Snow Maiden's Reaver Damage Mod",
+        "description": "Ce mini-mod propose un correctif des dégâts pour l'épée The Snow Maiden's Reaver pour être plus proche de sa version papier.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/83775/",
+            "https://www.gibberlings3.net/forums/topic/34960-a-snow-maidens-reaver-fix/"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Baptor"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-04",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1813,
+        "name": "Less Civic Festhall Music",
+        "description": "Le thème Civic Festhall a été raccourci et ralenti pour être plus « ambiant » et moins intrusif.",
+        "urls": [
+            "https://www.moddb.com/games/planescape-torment/addons/less-civic-festhall-music"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "PST",
+            "PSTEE"
+        ],
+        "authors": [
+            "Qrys"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-06",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1814,
+        "name": "Sable portraits 2022",
+        "description": "Ce mod propose une mise à jour des 77 portraits d'origine du jeu.",
+        "urls": [
+            "https://www.moddb.com/mods/sable-bg12-portraits-2022"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "BG_Sable"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-10",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1815,
+        "name": "Alternate Elven Chain",
+        "description": "Ce mod propose une modification des armures elfiques pour être plus brillantes comme le mithril.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/83805/"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Baptor"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-03",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1816,
+        "name": "Spell Changes to: Shocking Grasp, Aganazzar's Scorcher, Cone of Cold",
+        "description": "Ce mod propose une modification des sorts Poigne électrique, Incinérateur d'Agannazar et Cône de froid.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/89564/"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Baptor"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2025-07",
+        "tp2": "non-weidu"
     }
 ]
