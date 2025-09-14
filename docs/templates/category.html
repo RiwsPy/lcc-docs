@@ -2,11 +2,11 @@
     <summary class="no-summary-style category_name h2-style" data-count="0" id="{{ category.id }}">{{ _(category.value) }}</summary>
     <div class="category">
         <div class="row game">
-            <p>Mod</p>
+            <p>{{ _(trans["mod"]) }}</p>
             <p></p>
-            <p>Compatibilités</p>
-            <p>Auteurs</p>
-            <p>Traducteurs</p>
+            <p>{{ _(trans["compatibilities"]) }}</p>
+            <p>{{ _(trans["authors"]) }}</p>
+            <p>{{ _(trans["translators"]) }}</p>
             <img src="{{ static }}img/download.png" title="Téléchargement" alt="Image de téléchargement" width="42" height="42">
         </div>
         {% for mod in mods %}
@@ -26,7 +26,7 @@
                     </div>
                 {% else %}
                     <details class="column team">
-                        <summary>Équipe</summary>
+                        <summary>{{ _(trans["team"]) }}</summary>
                         <div class="content">{% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}</div>
                     </details>
                 {% endif %}
@@ -36,7 +36,7 @@
                 </div>
                 {% else %}
                 <details class="column team translator">
-                    <summary>Équipe</summary>
+                    <summary>{{ _(trans["team"]) }}</summary>
                     <div class="content">{% for user in mod.team %}<p>{{ user }}</p>{% endfor %}</div>
                 </details>
                 {% endif %}
@@ -46,7 +46,7 @@
                         {% if url.img %}
                             <img src="{{ static }}{{ url.img.src }}" alt="{{ url.img.alt|default('Lien vers le mod',true) }}" width="{{ url.img.width }}" height="{{ url.img.height }}" title="{{ url.img.title }}" lazy="loading">
                         {% else %}
-                            Lien
+                            {{ _(trans["link"]) }}
                         {% endif %}
                         </a>
                     {% endfor %}

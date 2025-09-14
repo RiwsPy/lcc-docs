@@ -4,7 +4,7 @@ from pathlib import Path
 
 from jinja2 import Environment, PackageLoader, select_autoescape
 
-from i18n import LANGUAGE_CONFIG, LANGUAGE_DEFAULT, _g
+from i18n import LANGUAGE_CONFIG, LANGUAGE_DEFAULT, TEMPLATE_TRANSLATIONS, _g
 from scripts.utils import ModManager, get_languages
 from settings import (
     CategoryEnum,
@@ -30,6 +30,7 @@ def main(**kwargs):
             language=language,
             language_flags=used_language_flags,
             mod_id_to_name=mod_id_to_name,
+            trans=TEMPLATE_TRANSLATIONS,
         )
 
     env = Environment(
