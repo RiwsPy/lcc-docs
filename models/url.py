@@ -62,7 +62,7 @@ class Url:
         country_img = f"{self.get_tld()}{self.country_image_suffix}"
         img = ""
         # auto-select
-        if os_path.exists(os_path.join(IMG_ROOT, FLAG_DIR, country_img)):
+        if (IMG_ROOT / FLAG_DIR / country_img).exists():
             img = country_img
 
         return img
