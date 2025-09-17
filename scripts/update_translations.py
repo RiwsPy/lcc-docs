@@ -48,6 +48,7 @@ def main(**kwargs):
                 logger.warning(
                     f"{language}, Mod {translated_mod['id']} not found in main database"
                 )
+                continue
 
             for attr in ("description", "notes"):
                 meta_attr = f"{attr}_meta"
