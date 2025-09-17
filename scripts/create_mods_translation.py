@@ -1,8 +1,9 @@
 import logging
 
+from i18n import LANGUAGE_DEFAULT, set_language
 from models.mod import MetaStatusEnum
 from scripts.utils import ModManager
-from settings import DB_PATH, LANGUAGE_DEFAULT, set_language
+from settings import DB_PATH
 
 logger = logging.getLogger(__name__)
 

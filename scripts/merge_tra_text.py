@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 import logging
 
+from i18n import LANGUAGE_DEFAULT
 from models.mod import MetaStatusEnum
 from scripts.extract_tra_text import DATA_SEP
 from scripts.utils import ModManager
-from settings import DB_PATH, LANGUAGE_DEFAULT
+from settings import DB_PATH
 
 logger = logging.getLogger(__name__)
 
