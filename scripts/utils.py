@@ -37,7 +37,7 @@ class ModManager:
         return list()
 
     @classmethod
-    def export(cls, mods: dict, language: str | None = None) -> None:
+    def export(cls, mods: dict | list, language: str | None = None) -> None:
         assert mods, "Mods not loaded"
 
         filename = cls.get_language_filename(language=language)
