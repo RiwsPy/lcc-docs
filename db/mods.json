@@ -1976,7 +1976,7 @@
     {
         "id": 61,
         "name": "Arcane Fist",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], Arcane Fist, [[271]], [[322]], [[362]], [[380]], [[428]] et [[1154]].|Celui-ci installe un profil de moine/mage.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], Arcane Fist, [[271]], [[322]], [[362]], [[380]], [[428]] et [[1154]].|Les Poings arcaniques sont un ancien ordre de sorciers de Faerûn, que l'on aperçoit rarement. Ils ne sont pas vraiment les maîtres du combat à mains nues, ni ceux des arts arcaniques, mais ils deviennent des adversaires redoutables lorsqu'ils combinent les deux. Dès leur plus jeune âge, ils apprennent les techniques nécessaires au combat à mains nues et acquièrent des pouvoirs mystiques. Ce sont généralement des solitaires qui ne se regroupent qu'avec leurs semblables, sauf en cas de grand danger où ils s'allient à des « étrangers ». Il existe trois sectes au sein des Poings arcaniques : l'Ordre de la Lumière, la Confrérie de Bakur et la Loi de la Mort.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -22644,7 +22644,7 @@
     {
         "id": 714,
         "name": "Morituri Kit",
-        "description": "Ce mod ajoute un profil de guerrier combine les pouvoirs du kensaï, du moine et du barbare, mais ne peut porter aucun objet magique à part armes et bottes.",
+        "description": "L'une des classes de guerriers au corps à corps les plus uniques, les Morituri sont des combattants qui ont renoncé à utiliser des armures ou des objets magiques pour améliorer leurs capacités. Leur entraînement intense et prolongé leur a permis d'acquérir les compétences et les prouesses spécifiques du redoutable Kensai, l'endurance du Barbare, de la fougue du Berserker et de la rapidité du Moine. Les Morituri combattent leurs ennemis au corps à corps, ne battant jamais en retraite, toujours en quête de la victoire ou de la mort. Bien qu'ils ne bénéficient pas des avantages des armures ou des objets magiques, leurs capacités physiques surhumaines, leur contrôle parfait de leur énergie Ki et leur détermination inébranlable font d'eux des adversaires redoutables et de dignes défenseurs du droit et de la justice dans tout Féérune. Les Morituri qui parviennent à survivre assez longtemps pour atteindre leur plein potentiel portent le titre honorifique de « Porteurs de lumière », étant devenus une véritable force du droit et de la justice. Actuellement, seuls les humains sont acceptés comme candidats à l'Ordre des Morituri.",
         "urls": [
             "https://america.iegmc.com/com/morituri-kit-5.2.zip",
             "https://github.com/The-Gate-Project/Morituri_Kit"
@@ -28757,8 +28757,8 @@
     },
     {
         "id": 903,
-        "name": "Runic Bladesinger Elven Kit",
-        "description": "Runiczny Pieśniarz Klingi, de son vrai nom, ce mod installe le profil de Chantelame runique, uniquement pour les guerriers elfes.",
+        "name": "Chantelame runique",
+        "description": "Runiczny Pieśniarz Klingi, de son vrai nom, ce mod installe un kit de guerrier appelé Chantelame runique, uniquement pour les guerriers elfes. Il acquiert au fil des niveaux la capacité de lancer des mots de pouvoir.",
         "urls": [
             "https://www.shsforums.net/topic/57056-bwpv14/#entry565797",
             "https://baldur.cob-bg.pl/download/bg2/kits/Runiczny_v2.0.zip",
@@ -31100,7 +31100,7 @@
     {
         "id": 976,
         "name": "Song and Silence: A Mod for Bards and Thieves",
-        "description": "Aimez-vous les bardes et les roublards ? Si c'est le cas, vous serez comblés par ce petit mod qui ajoute plusieurs profils venant s'ajouter à vos désormais classique maître-lames et assassins : Acrobate, Chanteur funèbre Choriste et Gitan (bardes) ; Aventurier, Cambrioleur, Danseur de l'ombre, Lamesprit et Tireur d'élite (voleurs).|Rencontrez aussi un vieux gitan, Raoul, un rien curieux et toujours accueillant, qui vous proposera de nouveaux objets pour vos personnages favoris. La création des objets par le concepteur est fortement orientée pour qu'ils soient utilisés par des bardes ou des voleurs, mais rien ne vous empêche d'équiper d'autres personnages avec, sauf s'ils sont inutilisables par la classe jouée, bien sûr.",
+        "description": "Aimez-vous les bardes et les roublards ? Si c'est le cas, vous serez comblés par ce petit mod qui ajoute plusieurs profils venant s'ajouter à vos désormais classique maître-lames et assassins : Acrobate, Chanteur funèbre, Choriste et Gitan (bardes) ; Aventurier, Cambrioleur, Danseur de l'ombre, Lamesprit et Tireur d'élite (voleurs).|Rencontrez aussi un vieux gitan, Raoul, un rien curieux et toujours accueillant, qui vous proposera de nouveaux objets pour vos personnages favoris. La création des objets par le concepteur est fortement orientée pour qu'ils soient utilisés par des bardes ou des voleurs, mais rien ne vous empêche d'équiper d'autres personnages avec, sauf s'ils sont inutilisables par la classe jouée, bien sûr.",
         "urls": [
             "https://www.gibberlings3.net/mods/kits/sns/",
             "https://github.com/Gibberlings3/SongAndSilence"
@@ -32402,7 +32402,7 @@
     {
         "id": 1016,
         "name": "Sylvan Mystic Kit",
-        "description": "Ce mod ajoute le profil de Mystique sylvain, un ancien Ordre de rôdeur elfes et demi-elfes de Féérune, spécialisés dans la lutte contre les mages maléfiques et les flagelleurs mentaux.",
+        "description": "Ce mod ajoute le profil de Mystique sylvain, un ancien Ordre de rôdeur elfes et demi-elfes de Féérune, spécialisés dans la lutte contre les mages maléfiques et les flagelleurs mentaux, ce qui les oblige à harmoniser leur esprit en plus de leur corps.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/SylvanMystic.zip"
         ],
@@ -51986,7 +51986,7 @@
     {
         "id": 1646,
         "name": "Death Knight",
-        "description": "Un kit de guerrier semi-mort vivant avec des immunités et résistances de mort vivants, une résistance au dégâts et à la magie, un bonus de force et une capacité de drain de vie évolutive. Inconvénients : dextérité et résistance au feu réduites, limité à l’épée à deux mains",
+        "description": "Un Death Knight est créé lorsqu'un paladin déchu meurt. Il s'agit d'un cas très rare de résurrection. Lorsque cela se produit, le Death Knight nouvellement ressuscité devient maléfique et acquiert de nombreux pouvoirs maléfiques. Au lieu d'être à moitié guerrier et à moitié clerc comme un paladin, il devient à moitié guerrier et à moitié nécromancien. Il acquiert des sorts de nécromancie comme pouvoirs innés à la place de ses sorts de prêtre habituels.",
         "urls": [
             "https://cafe.naver.com/nextrealm?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D12857088%2526menuid%3D25%2526boardtype%3DI%2526page%3D2%2526specialmenutype%3D%2526articleid%3D55863%2526referrerAllArticles%3Dfalse"
         ],
@@ -51998,7 +51998,7 @@
             "BGT"
         ],
         "authors": [
-            "crushbrain"
+            "Drizzt1180"
         ],
         "team": [],
         "notes": [
@@ -52009,7 +52009,7 @@
         "languages": [
             "kr"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2010-10",
         "tp2": "DeaKn"
     },
@@ -57282,5 +57282,31 @@
         "status": "missing",
         "last_update": "2009-08",
         "tp2": "ab_OffhandWeaponSwap"
+    },
+    {
+        "id": 1830,
+        "name": "Heroes of Amn",
+        "description": "Ce mod propose des personnages pré-générés et quelques portraits.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/113/"
+        ],
+        "categories": [
+            "Personnalisation du groupe",
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "ModMyXP"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2025-05",
+        "tp2": "non-weidu"
     }
 ]

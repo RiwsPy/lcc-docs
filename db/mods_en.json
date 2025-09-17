@@ -907,10 +907,10 @@
     },
     {
         "id": 61,
-        "description": "This mod is part of a series of eight profiles created on the old IE customization & add-ons site: [[56]], Arcane Fist, [[271]], [[322]], [[362]], [[380]], [[428]] and [[1154]].|This one installs a monk/mage profile.",
+        "description": "This mod is part of a series of eight profiles created on the old IE customization & add-ons site: [[56]], Arcane Fist, [[271]], [[322]], [[362]], [[380]], [[428]] and [[1154]].|The Arcane Fists are an ancient order of wizards in Faerun, and are seldom ever seen. They are not quite the masters of unarmed combat nor are they the masters of the arcane arts, but they become a fearsome foe with the combination of both. They are taught at an early age the skills required for unarmed combat and also learn to wield mystical powers. They are typically loners, only assembling in groups with their own kind, or in times of great danger they will group up with 'outsiders'. There are three sects of The Arcane Fist: The Order of Light, Bakur's Brotherhood, and Death's Law.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], Arcane Fist, [[271]], [[322]], [[362]], [[380]], [[428]] et [[1154]].|Celui-ci installe un profil de moine/mage."
+            "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], Arcane Fist, [[271]], [[322]], [[362]], [[380]], [[428]] et [[1154]].|Les Poings arcaniques sont un ancien ordre de sorciers de Faerûn, que l'on aperçoit rarement. Ils ne sont pas vraiment les maîtres du combat à mains nues, ni ceux des arts arcaniques, mais ils deviennent des adversaires redoutables lorsqu'ils combinent les deux. Dès leur plus jeune âge, ils apprennent les techniques nécessaires au combat à mains nues et acquièrent des pouvoirs mystiques. Ce sont généralement des solitaires qui ne se regroupent qu'avec leurs semblables, sauf en cas de grand danger où ils s'allient à des « étrangers ». Il existe trois sectes au sein des Poings arcaniques : l'Ordre de la Lumière, la Confrérie de Bakur et la Loi de la Mort."
         },
         "notes": [
             "This mod has been converted to WeiDU and integrated into [[977]]."
@@ -10346,10 +10346,10 @@
     },
     {
         "id": 714,
-        "description": "This mod adds a fighter kit that combines the powers of the kensai, the monk and the barbarian, but cannot carry any magic items apart from weapons and boots.",
+        "description": "One of the most unique melee warrior classes Morituri are fighters who have abandoned the need to use armor or any magic item in order to enhance their capabilities. Their hard and longlasting training has given them the ability to combine the specific skills and feats of the lethal Kensai, the enduring Barbarian, the battlerager Berserker and the lighting fast Monk. Morituri fight toe to toe with their enemies never retreat always seeking victory or death. Although they lack the support of an armor or any magic item at all, their superhuman physical abilities, the perfect control of their Ki energy plus their unstoppable determination makes them formidable adversaries and worthy upholders of right and justice in the entire Faerun. Morituri who manage to survive long enough to reach their full potential bear the honoring title of the Light Bringer, having become a true force of Right and Justice. Presently only humans are being accepted as candidates in the Order of the Morituri.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod ajoute un profil de guerrier combine les pouvoirs du kensaï, du moine et du barbare, mais ne peut porter aucun objet magique à part armes et bottes."
+            "status": "done",
+            "source": "L'une des classes de guerriers au corps à corps les plus uniques, les Morituri sont des combattants qui ont renoncé à utiliser des armures ou des objets magiques pour améliorer leurs capacités. Leur entraînement intense et prolongé leur a permis d'acquérir les compétences et les prouesses spécifiques du redoutable Kensai, l'endurance du Barbare, de la fougue du Berserker et de la rapidité du Moine. Les Morituri combattent leurs ennemis au corps à corps, ne battant jamais en retraite, toujours en quête de la victoire ou de la mort. Bien qu'ils ne bénéficient pas des avantages des armures ou des objets magiques, leurs capacités physiques surhumaines, leur contrôle parfait de leur énergie Ki et leur détermination inébranlable font d'eux des adversaires redoutables et de dignes défenseurs du droit et de la justice dans tout Féérune. Les Morituri qui parviennent à survivre assez longtemps pour atteindre leur plein potentiel portent le titre honorifique de « Porteurs de lumière », étant devenus une véritable force du droit et de la justice. Actuellement, seuls les humains sont acceptés comme candidats à l'Ordre des Morituri."
         },
         "notes": [],
         "notes_meta": {
@@ -13145,10 +13145,11 @@
     },
     {
         "id": 903,
-        "description": "This mod installs the Chantelame runic kit, only for elven fighters.",
+        "name": "Runic Bladesinger Elven Kit",
+        "description": "This mod installs the Chantelame runic kit, only for elven fighters. It gives them the power of magic words.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Runiczny Pieśniarz Klingi, de son vrai nom, ce mod installe le profil de Chantelame runique, uniquement pour les guerriers elfes."
+            "source": "Runiczny Pieśniarz Klingi, de son vrai nom, ce mod installe un kit de guerrier appelé Chantelame runique, uniquement pour les guerriers elfes. Il acquiert au fil des niveaux la capacité de lancer des mots de pouvoir."
         },
         "notes": [
             "Choose the github link for the French EE-compatible version."
@@ -14189,10 +14190,10 @@
     },
     {
         "id": 976,
-        "description": "Do you like bards and rogues? If so, you'll be delighted with this little mod, which adds several new profiles to your now classic Blademaster and Assassin: Acrobat, Funeral Singer, Chorist and Gypsy (bards); Adventurer, Burglar, Shadow Dancer, Lamesprit and Sharpshooter (thieves); and an inquisitive and ever-welcoming old gypsy, Raoul, who will suggest new items for your favorite characters. The designer's creation of the items is strongly geared to their use by bards and thieves, but there's nothing to stop you equipping other characters with them, unless they're unusable by the class you're playing, of course.",
+        "description": "Do you like bards and rogues? If so, you'll be delighted with this little mod, which adds several new profiles to your now classic Blademaster and Assassin: Acrobat, Dirgesinger, Chorister and Gypsy (bards); Adventurer, Burglar, Shadow Dancer, Lamesprit and Sharpshooter (thieves); and an inquisitive and ever-welcoming old gypsy, Raoul, who will suggest new items for your favorite characters. The designer's creation of the items is strongly geared to their use by bards and thieves, but there's nothing to stop you equipping other characters with them, unless they're unusable by the class you're playing, of course.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Aimez-vous les bardes et les roublards ? Si c'est le cas, vous serez comblés par ce petit mod qui ajoute plusieurs profils venant s'ajouter à vos désormais classique maître-lames et assassins : Acrobate, Chanteur funèbre Choriste et Gitan (bardes) ; Aventurier, Cambrioleur, Danseur de l'ombre, Lamesprit et Tireur d'élite (voleurs).|Rencontrez aussi un vieux gitan, Raoul, un rien curieux et toujours accueillant, qui vous proposera de nouveaux objets pour vos personnages favoris. La création des objets par le concepteur est fortement orientée pour qu'ils soient utilisés par des bardes ou des voleurs, mais rien ne vous empêche d'équiper d'autres personnages avec, sauf s'ils sont inutilisables par la classe jouée, bien sûr."
+            "source": "Aimez-vous les bardes et les roublards ? Si c'est le cas, vous serez comblés par ce petit mod qui ajoute plusieurs profils venant s'ajouter à vos désormais classique maître-lames et assassins : Acrobate, Chanteur funèbre, Choriste et Gitan (bardes) ; Aventurier, Cambrioleur, Danseur de l'ombre, Lamesprit et Tireur d'élite (voleurs).|Rencontrez aussi un vieux gitan, Raoul, un rien curieux et toujours accueillant, qui vous proposera de nouveaux objets pour vos personnages favoris. La création des objets par le concepteur est fortement orientée pour qu'ils soient utilisés par des bardes ou des voleurs, mais rien ne vous empêche d'équiper d'autres personnages avec, sauf s'ils sont inutilisables par la classe jouée, bien sûr."
         },
         "notes": [],
         "notes_meta": {
@@ -14772,10 +14773,10 @@
     },
     {
         "id": 1016,
-        "description": "This mod adds the profile of Mystique sylvain, an ancient Order of elven and half-elven rangers from Faerûn, specialized in the fight against evil mages and mental flagellants.",
+        "description": "This mod adds the profile of Sylvan Mystic,an ancient order of Elven and Half-Elven Rangers in Faerun. They specialize in hunting evil mages and mind flayers, and as such they must attune their mind in addition to their body.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod ajoute le profil de Mystique sylvain, un ancien Ordre de rôdeur elfes et demi-elfes de Féérune, spécialisés dans la lutte contre les mages maléfiques et les flagelleurs mentaux."
+            "status": "done",
+            "source": "Ce mod ajoute le profil de Mystique sylvain, un ancien Ordre de rôdeur elfes et demi-elfes de Féérune, spécialisés dans la lutte contre les mages maléfiques et les flagelleurs mentaux, ce qui les oblige à harmoniser leur esprit en plus de leur corps."
         },
         "notes": [
             "This mod has been converted to WeiDU and integrated into The Sorcerer's Place Collection."
@@ -23828,10 +23829,10 @@
     },
     {
         "id": 1646,
-        "description": "A semi-undead fighter kit with undead immunities and resistances, damage and magic resistance, strength bonus and upgradeable life drain ability. Disadvantages: reduced dexterity and fire resistance, limited to two-handed sword.",
+        "description": "A Death Knight is created when a fallen paladin dies. This is a very rare occurrence of resurrection. When this happens the newly risen Death Knight will become evil with many evil related abilities. Instead of being half-fighter and half-cleric like a paladin, they become half-fighter and half-necromancer instead. They gain necromancy spells as innate abilities in place of their regular priest spells.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Un kit de guerrier semi-mort vivant avec des immunités et résistances de mort vivants, une résistance au dégâts et à la magie, un bonus de force et une capacité de drain de vie évolutive. Inconvénients : dextérité et résistance au feu réduites, limité à l’épée à deux mains"
+            "status": "done",
+            "source": "Un Death Knight est créé lorsqu'un paladin déchu meurt. Il s'agit d'un cas très rare de résurrection. Lorsque cela se produit, le Death Knight nouvellement ressuscité devient maléfique et acquiert de nombreux pouvoirs maléfiques. Au lieu d'être à moitié guerrier et à moitié clerc comme un paladin, il devient à moitié guerrier et à moitié nécromancien. Il acquiert des sorts de nécromancie comme pouvoirs innés à la place de ses sorts de prêtre habituels."
         },
         "notes": [
             "The download page also includes a download of lifedret.spl. This is a corrected spell to be placed in the mod's \"spell\" folder before installation."
@@ -26382,6 +26383,19 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Il s'agit d'un mod de script conçu pour permettre à un personnage maniant deux armes de lâcher son arme de mêlée secondaire afin d'utiliser une arme à distance."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1830,
+        "description": "This mod provides generated characters and some portraits.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose des personnages pré-générés et quelques portraits."
         },
         "notes": [],
         "notes_meta": {
