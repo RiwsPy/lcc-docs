@@ -27,7 +27,7 @@
     {
         "id": 2,
         "name": "3.5e Pathfinder Thac0 Progression",
-        "description": "Ce mini mod modifie la table de progression des TAC0 pour correspondre à celles de A&D 3.5e et Pathfinder. Celle des guerriers reste inchangée, mais celles des voleurs et des prêtres avancent d'un point par niveau pendant 3 niveaux, puis restent stables le niveaux suivant, et ainsi de suite, jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). Celle des mages avance maintenant de 1 tous les deux niveaux jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). La table THAC0.2da s'étend jusqu'au niveau 50. Nouvelle table [ici](https://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29456).",
+        "description": "Ce mini mod modifie la table de progression des TAC0 pour correspondre à celles de A&D 3.5e et Pathfinder. Celle des guerriers reste inchangée, mais celles des voleurs et des prêtres avancent d'un point par niveau pendant 3 niveaux, puis restent stables le niveaux suivant, et ainsi de suite, jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). Celle des mages avance maintenant de 1 tous les deux niveaux jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). La table THAC0.2da s'étend jusqu'au niveau 50.",
         "urls": [
             "https://www.shsforums.net/files/file/1172-35epathfinder-thac0-progression/"
         ],
@@ -1281,7 +1281,7 @@
     },
     {
         "id": 40,
-        "name": "Alternate BG2 Spell System",
+        "name": "Mana Based Spell System",
         "description": "En gros, ce mod implémente un système de basé sur le mana dans BG2. Vous pouvez mémoriser des sorts à tout moment en appuyant sur la touche `V`. Vous pouvez voir combien de points de mana il vous reste en appuyant sur `N`. Lorsque vos points de mana tombent en dessous de 0, vous subissez une pénalité et ne pourrez plus lancer de sorts jusqu'à ce que vous vous reposiez. Les sorts retirent autant de points de mana égales que leur niveau d'incantation. De légères modifications sont également apportées aux sorts existants.|Le lancement de sorts de très bas niveau est maintenant autorisé à Athkatla tant qu'il ne constitue pas une perturbation suffisamment importante pour que le Conseil des Six s'en alarme.",
         "urls": [
             "https://www.shsforums.net/files/file/524-mana-based-spell-system/"
@@ -1685,7 +1685,7 @@
     },
     {
         "id": 52,
-        "name": "Animus",
+        "name": "Animus Weapon",
         "description": "Ce mod ajoute une nouvelle épée télépathique dans le jeu : Animus. Contrairement à Lilarcor, Animus est raisonnablement intelligente et capable de tenir une vraie conversation. Il s'agit d'une arme +1 sans avantages particuliers, mais lorsque vous en saurez un peu plus sur votre héritage, elle pourra être améliorée en une épée longue +2 avec quelques avantages supplémentaires, au prix de sa capacité à converser. Vous pourrez l'acquérir pour un prix raisonnable dans le magasin général de Nashkel.",
         "urls": [
             "https://forums.beamdog.com/discussion/22982/",
@@ -1899,9 +1899,7 @@
             "K'aeloree"
         ],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -8952,9 +8950,7 @@
             "jastey"
         ],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -10455,7 +10451,7 @@
     },
     {
         "id": 326,
-        "name": "DreamwalkerShamanKit",
+        "name": "DreamWalkerShamanKit",
         "description": "Ce mod ajoute un nouveau profil de chaman : l'Arpenteur de rêves.",
         "urls": [
             "https://www.shsforums.net/topic/59797-dreamwalker-shaman-kit/",
@@ -11171,9 +11167,11 @@
         ],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-08",
         "tp2": "EEex"
     },
     {
@@ -12372,7 +12370,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-08",
+        "last_update": "2025-08",
         "tp2": "expandedclasses"
     },
     {
@@ -13412,7 +13410,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-08",
         "tp2": "Foundling"
     },
     {
@@ -13582,7 +13580,8 @@
             "PNJ recrutable"
         ],
         "games": [
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Lava Del'Vortel"
@@ -13595,7 +13594,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-12",
+        "last_update": "2025-09",
         "tp2": "fyalvara"
     },
     {
@@ -15831,7 +15830,7 @@
     },
     {
         "id": 497,
-        "name": "House Rules for IWDEE (IWD:EE Tweak Pack)",
+        "name": "House Rules for IWDEE",
         "description": "Cette collection de corrections et de modifications est l'œuvre de Smeagolheart. Elle comporte divers composants permettant de révéler l'emplacement des villes, de pouvoir acheter des munitions plus puissantes dans divers magasins, d'ajouter les marchands Koluv et Deirdre dans le jeu, etc.",
         "urls": [
             "https://forums.beamdog.com/discussion/37290/",
@@ -16740,7 +16739,8 @@
             "de",
             "en",
             "pl",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-02",
@@ -18307,8 +18307,7 @@
         "description": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[112]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer.|Ce mod nécessite l'installation de [[1111]], du composant principal d'[[548]] et des composants `Restitutions mineures de dialogues` et `Réparations et restitutions de magasins, tavernes et auberges` de [[112]].",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/jarls-bgt-adventure-pack.8/",
-            "https://github.com/Gitjas/JA-AdventurePack/",
-            "https://github.com/TotoR115/JA-AdventurePack"
+            "https://github.com/Gitjas/JA-AdventurePack/"
         ],
         "categories": [
             "Quête"
@@ -18324,8 +18323,7 @@
         ],
         "team": [],
         "notes": [
-            "Depuis que le mod a été converti aux EE, les composants nécessaires ont pu évoluer.",
-            "Le second lien github propose une version non officielle avec plus de contenu (à tester)."
+            "Depuis que le mod a été converti aux EE, les composants nécessaires ont pu évoluer."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -18485,6 +18483,7 @@
             "EET"
         ],
         "authors": [
+            "GrimJim",
             "Banananaut"
         ],
         "team": [],
@@ -18745,7 +18744,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-08",
         "tp2": "Kale"
     },
     {
@@ -19182,23 +19181,26 @@
     {
         "id": 602,
         "name": "Kido NPC",
-        "description": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido est un barde de kit bouffon et d'alignement chaotique mauvais. Il dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec Ariena la demi-orque (du même auteur). Retrouvez-le dans l'auberge des Cinq Chopes.|FOR 11, DEX 17, CON 13, INT 16, SAG 8, CHA 15.",
+        "description": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido est un barde de kit bouffon et d'alignement chaotique mauvais. Il dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec [[66]]. Retrouvez-le dans l'auberge des Cinq Chopes.|FOR 11, DEX 17, CON 13, INT 16, SAG 8, CHA 15.",
         "urls": [
-            "https://www.shsforums.net/files/file/241-kido-version-70/"
+            "https://www.shsforums.net/files/file/241-kido-version-70/",
+            "https://github.com/RoxanneSHS/KidoEE/"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Deathsangel"
         ],
         "team": [],
         "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+            "Choisissez le lien github pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -19206,7 +19208,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2007-10",
+        "last_update": "2022-11",
         "tp2": "Kido"
     },
     {
@@ -20031,7 +20033,7 @@
     {
         "id": 629,
         "name": "Lena",
-        "description": "Lena est une guerrière tieffeline déchue, despote, sadique, cruelle et sanguinaire. Elle ne croit pas en l'amour à cause de son passé, de son enfance. Sa romance ne ressemble donc pas à toutes les autres. Elle sera à la fois jalouse et méprisante.",
+        "description": "Lena est une guerrière tieffeline déchue, despote, sadique, cruelle et sanguinaire. Elle ne croit pas en l'amour à cause de son passé, de son enfance. Sa romance ne ressemble donc pas à toutes les autres. Elle sera à la fois jalouse et méprisante. Elle possède son propre kit.|FOR 16, DEX 19, CON 9, INT 14, SAG 11, CHA 16.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/25048-new-bg2-npc-lena",
             "https://github.com/gungorenu/bg2-npcmod-lena"
@@ -20647,7 +20649,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-09",
         "tp2": "cdlore"
     },
     {
@@ -26179,8 +26181,7 @@
         "name": "PnP Potions",
         "description": "Ce mod utilise le système de cumuls de potions des règles papier. Lorsque vous buvez une potion alors qu'une autre est encore active, il peut arriver ceci :|- 1% de chances d'exploser (5d10 dégâts de feu sur le buveur, + 1d10 dégâts de feu dans un rayon de 5').|- 2 % de chances de mourir instantanément par empoisonnement.|- 5 % de chances de perdre 1 point de Force et de Dextérité.|- 7 % de chances d'annuler/supprimer tous les effets de la potion active.|- 10 % de chances que la potion ne fasse rien.|- 10 % de chances que la potion ait une efficacité réduite de moitié.|- 8 % de chances que la potion ait une efficacité accrue de 50 %.|- 1 % de chances que la potion ait une efficacité permanente ou doublée.|Les potions permanentes, comme les potions de guérison, sont considérées comme toujours en vigueur pendant 1 tour (60 secondes) après leur consommation.|Les événements spéciaux susmentionnés ne peuvent se produire qu'en buvant des potions. Par conséquent, il n'y a aucun risque à utiliser 1 huile et 1 potion, puisque les huiles sont appliquées sur la peau, et non consommées, et qu'elles ne se mélangent donc pas.",
         "urls": [
-            "https://forums.beamdog.com/discussion/82300/",
-            "https://github.com/4Luke4/PnP-Potions"
+            "https://forums.beamdog.com/discussion/82300/"
         ],
         "categories": [
             "Gameplay"
@@ -28284,7 +28285,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-09",
         "tp2": "RGenie"
     },
     {
@@ -28568,22 +28569,24 @@
     {
         "id": 897,
         "name": "Rose NPC",
-        "description": "Conçu pour BGT, ce petit mod ajoute une nouvelle PNJ recrutable, Rose, une demi-elfe barde qui gagne sa vie en tant que pickpocket et en chantant dans les tavernes. Vous la rencontrerez dans l'auberge du Magicien ardent à Bérégost, en la \"sauvant\" d'un homme qui l'accuse de vol. Elle vous suivra en Amn. Malheureusement ce mod est resté au stade bêta et ne dispose plus de contenu après Nashkel.|FOR 13, DEX 18, CON 16, INT 15, SAG 9, CHA 18.",
+        "description": "Ce petit mod ajoute une nouvelle PNJ recrutable, Rose, une demi-elfe barde qui gagne sa vie en tant que pickpocket et en chantant dans les tavernes. Vous la rencontrerez dans l'auberge du Magicien ardent à Bérégost, en la \"sauvant\" d'un homme qui l'accuse de vol. Elle vous suivra en Amn. Malheureusement ce mod est resté au stade bêta et ne dispose plus de contenu après Nashkel.|FOR 13, DEX 18, CON 16, INT 15, SAG 9, CHA 18.",
         "urls": [
-            "https://www.shsforums.net/topic/41550-rose-npc-mod-for-bgt/page-2#entry518995"
+            "https://www.shsforums.net/topic/41550-rose-npc-mod-for-bgt/page-2#entry518995",
+            "https://github.com/RoxanneSHS/RoseRE/"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
-            "BGT"
+            "BGT",
+            "EET"
         ],
         "authors": [
             "kthxbye"
         ],
         "team": [],
         "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+            "Choisissez le lien github pour la version EET. Attention, il s'agit d'une version non officielle."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -28593,7 +28596,7 @@
         ],
         "status": "active",
         "last_update": "2011-07",
-        "tp2": "rose"
+        "tp2": "rose;rosere"
     },
     {
         "id": 898,
@@ -29850,9 +29853,7 @@
             "CBisson"
         ],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -30398,9 +30399,7 @@
             "Seifer"
         ],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -32487,7 +32486,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "karatur"
     },
     {
@@ -32730,9 +32729,7 @@
             "White Agnus"
         ],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -34438,13 +34435,10 @@
             "EET"
         ],
         "authors": [
-            "Yovaneth",
-            "Freddy_Gwendo"
+            "Yovaneth"
         ],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -36627,9 +36621,7 @@
             "Sergiond"
         ],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -38107,7 +38099,7 @@
     },
     {
         "id": 1193,
-        "name": "Walahnan (BG2EE)",
+        "name": "Walahnan",
         "description": "Walahnan est un puissant chronomancien chaotique neutre qui souffre de germophobie. Mais ne vous inquiétez pas, il peut se révéler plus qu'utile. Bien que ses ambitions ne dépassent pas la moyenne, il a certainement des aspirations qui inspirent ses études. Le mod n'inclut pas de romance. Cependant, vous aurez l'occasion de lui montrer que vous l'appréciez tout au long de SoA et de ToB.|Pour le recruter, terminez la quête de Nalia et retrouvez-le près des rochers à l'est de la forteresse de'Arnise.|Pour le garder dans le groupe, vous devrez accomplir sa quête personnelle.|FOR 17, DEX 16, CON 11, INT 18, SAG 11, CHA 11.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=55",
@@ -38137,7 +38129,7 @@
     },
     {
         "id": 1194,
-        "name": "Walahnan (BG1EE)",
+        "name": "Walahnan",
         "description": "Walahnan est un puissant chronomancien chaotique neutre qui souffre de germophobie. Mais ne vous inquiétez pas, il peut se révéler plus qu'utile. Bien que ses ambitions ne dépassent pas la moyenne, il a certainement des aspirations qui inspirent ses études.|Le mod n'inclut pas de romance. Cependant, vous aurez l'occasion de lui montrer que vous l'appréciez.|Pour le recruter, retrouvez-le à la Barbe d'Ulgoth et acceptez de l'aider dans sa quête personnelle. Le mod inclut également du contenu pour Siege of Dragonspear.|FOR 17, DEX 16, CON 11, INT 18, SAG 11, CHA 11.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=55",
@@ -39552,7 +39544,7 @@
         ],
         "team": [],
         "notes": [
-            "Le premier lien contient la version originale et le lien github la version compatible avec EET."
+            "Le premier lien contient la version originale et le lien github la version compatible avec EET. Attention, il s'agit d'une version non officielle."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -40395,7 +40387,7 @@
     },
     {
         "id": 1265,
-        "name": "PeaceSpeaker, the anti-violence sword",
+        "name": "Peacespeaker, the Anti-Violence Sword",
         "description": "Embarquez pour une courte quête mettant en scène une épée intelligente, une apprentie qui n'en fait qu'à sa tête et un sorcier grincheux.",
         "urls": [
             "https://github.com/bucketfulofsunshine/peacespeaker"
@@ -40708,7 +40700,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-09",
         "tp2": "derats_jazon"
     },
     {
@@ -42481,7 +42473,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "tp2": "eefixpack"
     },
     {
@@ -43183,7 +43175,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-08",
         "tp2": "BloodAndFaith"
     },
     {
@@ -43242,7 +43234,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-09",
+        "last_update": "2025-09",
         "tp2": "mod-thalantyr-ex"
     },
     {
@@ -43372,7 +43364,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "tp2": "zbpod"
     },
     {
@@ -43550,7 +43542,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-09",
         "tp2": "Godcall"
     },
     {
@@ -43611,7 +43603,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-09",
         "tp2": "valkrana"
     },
     {
@@ -43888,7 +43880,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-09",
         "tp2": "lca"
     },
     {
@@ -43987,7 +43979,7 @@
             "it"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-09",
         "tp2": "infinity_ui"
     },
     {
@@ -44205,7 +44197,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "tp2": "zdbae"
     },
     {
@@ -44654,7 +44646,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "tp2": "ZSTweaks"
     },
     {
@@ -46493,7 +46485,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-09",
         "tp2": "g3cip"
     },
     {
@@ -47434,7 +47426,8 @@
             "PNJ recrutable"
         ],
         "games": [
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "bucketfulofsunshine"
@@ -47444,11 +47437,10 @@
         "translation_state": "auto",
         "safe": 1,
         "languages": [
-            "en",
-            "es"
+            "en"
         ],
         "status": "wip",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "tp2": "mkhiinbg2"
     },
     {
@@ -47463,7 +47455,8 @@
         ],
         "games": [
             "BGEE",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "bucketfulofsunshine"
@@ -47590,7 +47583,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-09",
         "tp2": "candlekeep_revisited"
     },
     {
@@ -48291,7 +48284,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "tp2": "Derats_Mods_Tweaker"
     },
     {
@@ -48349,7 +48342,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "bmpp"
     },
     {
@@ -48705,7 +48698,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "Kalah"
     },
     {
@@ -49182,7 +49175,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "emreborn"
     },
     {
@@ -49363,7 +49356,7 @@
     },
     {
         "id": 1557,
-        "name": "BG1 NPC Portrait Pack (2)",
+        "name": "BG1 NPC Portrait Pack",
         "description": "Ce mod propose une collection de portraits pour les personnages recrutables de BG1 que l'auteur a trouvé au fil des ans.",
         "urls": [
             "https://www.nexusmods.com/baldursgate/mods/14"
@@ -50078,7 +50071,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-09",
         "tp2": "Frostforged"
     },
     {
@@ -50205,7 +50198,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-09",
         "tp2": "baldurianbarhop"
     },
     {
@@ -50874,7 +50867,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-09",
         "tp2": "OphysiaBG1"
     },
     {
@@ -55388,7 +55381,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-09",
         "tp2": "Derats_Oops"
     },
     {
@@ -55549,7 +55542,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-09",
         "tp2": "Derats_Kribinn"
     },
     {
@@ -55582,7 +55575,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "tp2": "Derats_Powerkits"
     },
     {
@@ -55978,7 +55971,7 @@
     },
     {
         "id": 1784,
-        "name": "Lunia for Good Parties",
+        "name": "Lunia For Good Parties",
         "description": "La carte de Lunia offre un contraste rafraîchissant avec les nombreux lieux infernaux présents dans Baldur's Gate II. Malheureusement, seuls les groupes qui voyagent avec Dorn, généralement ceux d'alignement neutre ou mauvais, y ont accès.||Ce mod offre un chemin alternatif aux personnages d'alignement bon ou loyal neutre (avec une réputation de 14 ou plus) pour entrer à Lunia et aider les fidèles de Tyr à rendre justice.",
         "urls": [
             "https://github.com/bucketfulofsunshine/Lunia-For-Good-Parties/"
@@ -55987,7 +55980,8 @@
             "Quête"
         ],
         "games": [
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "bucketfulofsunshine"
@@ -56000,7 +55994,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "tp2": "lfgp"
     },
     {
@@ -56295,7 +56289,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2016-06",
+        "last_update": "2016-07",
         "tp2": "textgame"
     },
     {
@@ -56644,7 +56638,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "tp2": "LivingClara"
     },
     {
@@ -56819,7 +56813,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2022-04",
+        "last_update": "2022-03",
         "tp2": "non-weidu"
     },
     {
@@ -56877,7 +56871,7 @@
     },
     {
         "id": 1815,
-        "name": "Alternate Elven Chain",
+        "name": "Alternate Elven Chain?",
         "description": "Ce mod propose une modification des armures elfiques pour être plus brillantes comme le mithril.",
         "urls": [
             "https://forums.beamdog.com/discussion/83805/"
@@ -57308,5 +57302,34 @@
         "status": "active",
         "last_update": "2025-05",
         "tp2": "non-weidu"
+    },
+    {
+        "id": 1831,
+        "name": "Backstab on the Copper Coronet",
+        "description": "Ce mod ajoute un fournisseur sur le toit de la Couronne de Cuivre, contre quelques pièces d'or des tablettes de voleurs seront à votre disposition. Elles permettent de modifier les contraintes des attaques sournoises.| - Tablette Furtive : Pas besoin d'attaquer dans le dos quand on est invisible.| - Tablette Sournoise : Pas besoin d'être invisible pour attaquer en traître.| - Tablette du Vilain : Pas besoin d'être de dos ou invisible pour réaliser son attaque sournoise.",
+        "urls": [
+            "https://github.com/11jo/Backstab-on-the-CC/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "JohnBob"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2025-09",
+        "tp2": "Backstab-on-the-CC"
     }
 ]

@@ -14,10 +14,10 @@
     },
     {
         "id": 2,
-        "description": "This mini-mod modifies the TAC0 progression table to match those of A&D 3.5e and Pathfinder. Warriors' TACs remain unchanged, but Thieves' and Priests' TACs advance by one point per level for 3 levels, then remain stable the following level, and so on, until they reach a ceiling of 5 at level 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). The mage table now advances by 1 every two levels until it reaches a ceiling of 5 at level 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). The THAC0.2da table extends to level 50. New table [here](https://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29456).",
+        "description": "This mini-mod modifies the TAC0 progression table to match those of A&D 3.5e and Pathfinder. Warriors' TACs remain unchanged, but Thieves' and Priests' TACs advance by one point per level for 3 levels, then remain stable the following level, and so on, until they reach a ceiling of 5 at level 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). The mage table now advances by 1 every two levels until it reaches a ceiling of 5 at level 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). The THAC0.2da table extends to level 50.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mini mod modifie la table de progression des TAC0 pour correspondre à celles de A&D 3.5e et Pathfinder. Celle des guerriers reste inchangée, mais celles des voleurs et des prêtres avancent d'un point par niveau pendant 3 niveaux, puis restent stables le niveaux suivant, et ainsi de suite, jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). Celle des mages avance maintenant de 1 tous les deux niveaux jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). La table THAC0.2da s'étend jusqu'au niveau 50. Nouvelle table [ici](https://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29456)."
+            "source": "Ce mini mod modifie la table de progression des TAC0 pour correspondre à celles de A&D 3.5e et Pathfinder. Celle des guerriers reste inchangée, mais celles des voleurs et des prêtres avancent d'un point par niveau pendant 3 niveaux, puis restent stables le niveaux suivant, et ainsi de suite, jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). Celle des mages avance maintenant de 1 tous les deux niveaux jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). La table THAC0.2da s'étend jusqu'au niveau 50."
         },
         "notes": [
             "This is an override mod that overwrites the THAC0.2da file."
@@ -865,14 +865,10 @@
             "status": "needs_review",
             "source": "Un nouveau druide humain, avec du contenu pour SoA et ToB. Ce personnage est présenté comme complexe dans ses opinions et croyances. Hédoniste, il peut s'intéresser aux PJ masculins comme féminins, et est relativement direct dans ses manières même s'il n'arrivera pas toujours à ses fins. Il a une aversion pour les morts-vivants et toutes les créatures non naturelles. Une nouvelle quête (chapitre 6) est également au programme, ainsi qu'une voie de l'amitié, des réactions à la quête du PJ, banters... Vous le rencontrerez durant la quête des esclavagistes au chapitre 2.|FOR 13, DEX 11, CON 13, INT 13, SAG 16, CHA 15."
         },
-        "notes": [
-            "Warning: there is a pirated version for EET whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk, and don't complain!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -4069,14 +4065,10 @@
             "status": "needs_review",
             "source": "Dace Linton est une chasseuse de primes chaotique neutre trentenaire. Vous la trouverez dans la partie basse de la Promenade de Waukyne d'où elle vous interpellera si vous quittez ou pénétrez dans le lieu. Elle dispose de contenu pour SoA et ToB avec notamment une romance disponible pour les PJ masculins et féminins sans restriction de race, une voie de l'amitié sur le même principe, de nombreux banters et interjections, de nouvelles musiques, des objets personnels et un petit cadeau pour le PJ dans ToB."
         },
-        "notes": [
-            "Warning: a pirated version exists for EET, whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk, and don't complain!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -8323,14 +8315,12 @@
             "source": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[112]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer.|Ce mod nécessite l'installation de [[1111]], du composant principal d'[[548]] et des composants `Restitutions mineures de dialogues` et `Réparations et restitutions de magasins, tavernes et auberges` de [[112]]."
         },
         "notes": [
-            "Since the mod was converted to EE, the necessary components may have evolved.",
-            "The second github link offers an unofficial version with more content (to be tested)."
+            "Since the mod was converted to EE, the necessary components may have evolved."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Depuis que le mod a été converti aux EE, les composants nécessaires ont pu évoluer.",
-                "Le second lien github propose une version non officielle avec plus de contenu (à tester)."
+                "Depuis que le mod a été converti aux EE, les composants nécessaires ont pu évoluer."
             ]
         }
     },
@@ -8735,10 +8725,10 @@
     },
     {
         "id": 602,
-        "description": "Already in playable beta, this mod is part of a more ambitious project, \"The Mod for the Wicked\". A jester and Cyric worshipper (yes, yes...), Kido is a Jester with a chaotic evil alignment. He has a quest, a soundset that's outrageously unbelievable (he sings worse than a Star Academician), and numerous dialogues, including one with Ariena the half-orc (from the same author). Find him in the Five Flagons Inn.|STR 11, DEX 17, CON 13, INT 16, WIS 8, CHA 15.",
+        "description": "Already in playable beta, this mod is part of a more ambitious project, \"The Mod for the Wicked\". A jester and Cyric worshipper (yes, yes...), Kido is a Jester with a chaotic evil alignment. He has a quest, a soundset that's outrageously unbelievable (he sings worse than a Star Academician), and numerous dialogues, including one with [[66]]. Find him in the Five Flagons Inn.|STR 11, DEX 17, CON 13, INT 16, WIS 8, CHA 15.",
         "description_meta": {
             "status": "needs_review",
-            "source": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido est un barde de kit bouffon et d'alignement chaotique mauvais. Il dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec Ariena la demi-orque (du même auteur). Retrouvez-le dans l'auberge des Cinq Chopes.|FOR 11, DEX 17, CON 13, INT 16, SAG 8, CHA 15."
+            "source": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido est un barde de kit bouffon et d'alignement chaotique mauvais. Il dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec [[66]]. Retrouvez-le dans l'auberge des Cinq Chopes.|FOR 11, DEX 17, CON 13, INT 16, SAG 8, CHA 15."
         },
         "notes": [
             "Warning: a pirated version exists for EET, whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk - and don't complain!"
@@ -8746,7 +8736,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+                "Choisissez le lien github pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
             ]
         }
     },
@@ -9135,10 +9125,10 @@
     },
     {
         "id": 629,
-        "description": "Lena is a fallen Tieffeline fighter, despotic, sadistic, cruel and bloodthirsty. She doesn't believe in love because of her past, her childhood. So her romance is unlike any other. She'll be both jealous and contemptuous.",
+        "description": "Lena is a fallen Tieffeline fighter, despotic, sadistic, cruel and bloodthirsty. She doesn't believe in love because of her past, her childhood. So her romance is unlike any other. She'll be both jealous and contemptuous. She has her own kit.|STR 16, DEX 19, CON 9, INT 14, WIS 11, CHA 16.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Lena est une guerrière tieffeline déchue, despote, sadique, cruelle et sanguinaire. Elle ne croit pas en l'amour à cause de son passé, de son enfance. Sa romance ne ressemble donc pas à toutes les autres. Elle sera à la fois jalouse et méprisante."
+            "source": "Lena est une guerrière tieffeline déchue, despote, sadique, cruelle et sanguinaire. Elle ne croit pas en l'amour à cause de son passé, de son enfance. Sa romance ne ressemble donc pas à toutes les autres. Elle sera à la fois jalouse et méprisante. Elle possède son propre kit.|FOR 16, DEX 19, CON 9, INT 14, SAG 11, CHA 16."
         },
         "notes": [],
         "notes_meta": {
@@ -13055,10 +13045,10 @@
     },
     {
         "id": 897,
-        "description": "Designed for BGT, this little mod adds a new recruitable NPC, Rose, a half-elf bard who earns her living as a pickpocket and singing in taverns. You'll meet her at the Burning Magician's Inn in Beregost, when you \"save\" her from a man who accuses her of theft. She will follow you to Amn. Unfortunately, this mod is still in beta and has no content after Nashkel.|STR 13, DEX 18, CON 16, INT 15, WIS 9, CHA 18.",
+        "description": "This little mod adds a new recruitable NPC, Rose, a half-elf bard who earns her living as a pickpocket and singing in taverns. You'll meet her at the Burning Magician's Inn in Beregost, when you \"save\" her from a man who accuses her of theft. She will follow you to Amn. Unfortunately, this mod is still in beta and has no content after Nashkel.|STR 13, DEX 18, CON 16, INT 15, WIS 9, CHA 18.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Conçu pour BGT, ce petit mod ajoute une nouvelle PNJ recrutable, Rose, une demi-elfe barde qui gagne sa vie en tant que pickpocket et en chantant dans les tavernes. Vous la rencontrerez dans l'auberge du Magicien ardent à Bérégost, en la \"sauvant\" d'un homme qui l'accuse de vol. Elle vous suivra en Amn. Malheureusement ce mod est resté au stade bêta et ne dispose plus de contenu après Nashkel.|FOR 13, DEX 18, CON 16, INT 15, SAG 9, CHA 18."
+            "source": "Ce petit mod ajoute une nouvelle PNJ recrutable, Rose, une demi-elfe barde qui gagne sa vie en tant que pickpocket et en chantant dans les tavernes. Vous la rencontrerez dans l'auberge du Magicien ardent à Bérégost, en la \"sauvant\" d'un homme qui l'accuse de vol. Elle vous suivra en Amn. Malheureusement ce mod est resté au stade bêta et ne dispose plus de contenu après Nashkel.|FOR 13, DEX 18, CON 16, INT 15, SAG 9, CHA 18."
         },
         "notes": [
             "Warning: there is a pirated version for EET whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk, and don't complain!"
@@ -13066,7 +13056,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+                "Choisissez le lien github pour la version EET. Attention, il s'agit d'une version non officielle."
             ]
         }
     },
@@ -13619,14 +13609,10 @@
             "status": "needs_review",
             "source": "Ce mod est assez gigantesque et modifie grandement l'histoire de SoA. Il ajoute 4 nouveaux PNJ, 1 nouveau profil, 1 nouveau donjon, 100 nouvelles cartes, 400 nouvelles créatures, 400 nouveaux items, 20 nouveaux magasins (marchands), 30 sous-quêtes et 2 quêtes majeures."
         },
-        "notes": [
-            "Warning: a pirated version exists for EET, whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk, and don't complain!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -13860,14 +13846,10 @@
             "status": "needs_review",
             "source": "Silver Star est une assassin elfe neutre mauvaise qui peut se joindre à la fête dans le charmant trou souterrain d'Irenicus. Ce projet a récemment pris un changement de direction dans la mesure où le créateur original Davide Carta a décidé d'ouvrir le mod à la communauté. Saisissant cette opportunité, la nouvelle équipe a décidé de modifier plusieurs éléments d'origine avec une voie qui est considérée comme plus appropriée pour Silver Star.|Elle est partiellement folle et a des complexes d'enfance : par exemple, elle a une véritable obsession pour les petits agneaux doux... Et elle chante et rit. Elle est chroniquement empoisonnée, ce qui explique sa grande tolérance au poison et sa faible constitution.|C'est une tueuse sans remords, quand elle est d'humeur normale, et fait des choses maléfiques, comme le jeu, le chantage, le meurtre, le vol, etc. Elle a une certaine interaction avec les PNJ dans SoA, mais pas dans ToB.|FOR 14, DEX 19, CON 7, INT 16, SAG 6, CHA 14."
         },
-        "notes": [
-            "Warning: there's a pirated version for EET whose author didn't hesitate to steal the mod's resources and modify its content. Don't download or install it at your own risk, and don't complain!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -14926,14 +14908,10 @@
             "status": "needs_review",
             "source": "Le magicien Nomoran a besoin de votre aide pour combattre une horde de monstres près du village d'Anegh. Nouvelles cartes, nouveaux objets et deux fins différentes selon que vous choisissiez de déclencher la quête dans SoA (Nomoran sera à Athkatla) ou ToB (le magicien sera dans Amkethran)."
         },
-        "notes": [
-            "Warning: a pirated version exists for EET, whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk - and don't complain!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -15677,14 +15655,10 @@
             "status": "needs_review",
             "source": "Dans les égouts d'Athkatla, vous rencontrez un minotaure attaqué par 4 myconides, ainsi que 3 corps gisant au sol, sans qu'aucune explication ne soit donnée. Ce mini-mod se propose d'en raconter l'histoire."
         },
-        "notes": [
-            "Warning: a pirated version exists for EET, whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk, and don't complain!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16643,14 +16617,10 @@
             "status": "needs_review",
             "source": "Uldar est un barbare demi-orque qui peut rejoindre votre groupe. On le trouve à la Couronne de Cuivre. Dans ToB, on peut l'invoquer dans l'antichambre. Le mod n'a aucune romance, mais fournit beaucoup de dialogues et d'interactions, presque toujours avec plusieurs options de réponse."
         },
-        "notes": [
-            "Warning: there is a pirated version for EET whose author has not hesitated to steal this mod's resources and modified its content. Don't download or install it at your own risk, and don't complain!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -17975,12 +17945,12 @@
             "source": "Ce mod ajoute une PNJ drow qui a des banters, des voix et des objets spécialement conçus pour elle. C'est une guerrière pure, chaotique bonne, qui possède deux épées personnelles ainsi qu'une amulette. Vous la rencontrez à la fin du donjon d'Irenicus (notez que si vous lui demandez de partir, vous ne la retrouverez plus jamais). Elle s'implante bien dans votre groupe, si ce dernier défend des objectifs louables (personnages Bons ou Neutres) et une voix particulière lui est allouée.|Notez qu'elle dispose d'une attaque supplémentaire par round ; ce qui est pour le moins abusé...|FOR 18/97, DEX 18, CON 12, INT 13, SAG 12, CHA 16."
         },
         "notes": [
-            "The first link contains the original version, and the github link the EET-compatible version."
+            "The first link contains the original version, and the github link the EET-compatible version. Warning, it's not an official version."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Le premier lien contient la version originale et le lien github la version compatible avec EET."
+                "Le premier lien contient la version originale et le lien github la version compatible avec EET. Attention, il s'agit d'une version non officielle."
             ]
         }
     },
@@ -23221,6 +23191,7 @@
     },
     {
         "id": 1602,
+        "name": "Jan's Extended Quest",
         "description": "You never fail to include Jan Jansen in your group. You enjoy his witty retorts, but his personal quest leaves you wanting more. Jan's Quest Extension  offers a sequel to this original quest, in the form of two very short missions featuring typical dialogues and unexpected encounters with new secondary characters. In the background, the mod modestly attempts to shed new light on some of the city's most influential organizations.|Discover the end of the story without needing to start a new game. As the mod's difficulty is suitable for low-level characters, we still recommend that you enjoy it on a game that's not too advanced.|The mod includes 2 new missions that can be done in any order, and 2 new Jan stories.",
         "description_meta": {
             "status": "needs_review",
@@ -26396,6 +26367,19 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod propose des personnages pré-générés et quelques portraits."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1831,
+        "description": "This mod adds a vendor on the roof of the Copper Coronet, where you can purchase thieves' tablets for a few gold coins. They allow you to modify the constraints of stealth attacks.| - Stealth Tablet: No need to attack from behind when you're invisible.| - Sneaky Tablet: No need to be invisible to attack treacherously.| - Villain Tablet: No need to be behind someone or invisible to perform a sneaky attack.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute un fournisseur sur le toit de la Couronne de Cuivre, contre quelques pièces d'or des tablettes de voleurs seront à votre disposition. Elles permettent de modifier les contraintes des attaques sournoises.| - Tablette Furtive : Pas besoin d'attaquer dans le dos quand on est invisible.| - Tablette Sournoise : Pas besoin d'être invisible pour attaquer en traître.| - Tablette du Vilain : Pas besoin d'être de dos ou invisible pour réaliser son attaque sournoise."
         },
         "notes": [],
         "notes_meta": {
