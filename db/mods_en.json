@@ -18320,10 +18320,14 @@
             "status": "needs_review",
             "source": "Ce petit mod propose un nouveau type d'objet les « weapon oils ». Il s'agit de potions consommables qui permettent d'appliquer un effet supplémentaire aux armes."
         },
-        "notes": [],
+        "notes": [
+            "Replaced by [[1835]] by the same author."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Remplacé par [[1835]] du même auteur."
+            ]
         }
     },
     {
@@ -21258,10 +21262,10 @@
     },
     {
         "id": 1469,
-        "description": "This mod for ToB lets you meet your sister in the 'Pocket Plane'. Will you behave like a benevolent family member or succumb to Bhaal's call to murder her? The new NPC has 3 types of epilogues and his presence adds two more choices for the finale.",
+        "description": "This mod for ToB lets you meet your sister in the Pocket Plane. Will you behave like a benevolent family member or succumb to Bhaal's call to murder her? The new NPC has 3 types of epilogues and his presence adds two more choices for the finale.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod pour ToB vous permet de rencontrer votre sœur dans l'Antichambre'. Allez-vous vous comporter comme un membre de la famille bienveillant ou succomberez-vous à l'appel de Bhaal en l'assassinant ? Le nouveau PNJ a 3 types d'épilogues et sa présence ajoute deux choix supplémentaires pour le final."
+            "source": "Ce mod pour ToB vous permet de rencontrer votre sœur dans l'Antichambre. Allez-vous vous comporter comme un membre de la famille bienveillant ou succomberez-vous à l'appel de Bhaal en l'assassinant ? Le nouveau PNJ a 3 types d'épilogues et sa présence ajoute deux choix supplémentaires pour le final."
         },
         "notes": [],
         "notes_meta": {
@@ -26380,6 +26384,58 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute un fournisseur sur le toit de la Couronne de Cuivre, contre quelques pièces d'or des tablettes de voleurs seront à votre disposition. Elles permettent de modifier les contraintes des attaques sournoises.| - Tablette Furtive : Pas besoin d'attaquer dans le dos quand on est invisible.| - Tablette Sournoise : Pas besoin d'être invisible pour attaquer en traître.| - Tablette du Vilain : Pas besoin d'être de dos ou invisible pour réaliser son attaque sournoise."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1832,
+        "description": "IWDSpells is a tool to bring the new spells and bard songs from Icewind Dale into the Baldur's Gate series of games. While it can be used as a standalone mod, it's primarily intended as a tool for modmakers to include in their own mods.",
+        "description_meta": {
+            "status": "done",
+            "source": "IWDSpells est un outil permettant d'intégrer les nouveaux sorts et chants de barde d'Icewind Dale dans la série de jeux Baldur's Gate. Bien qu'il puisse être utilisé comme mod autonome, il est principalement destiné à être utilisé par les créateurs de mods dans leurs propres mods."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1833,
+        "description": "This mod modifies the Baldur's Gate initiative system into something that roughly parallels PnP. It does so through a few 'under the hood' adjustments concerning initiative. These minor, and sometimes counterintuitive, changes make the game a little more familiar and quite possibly more fun as well!",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod modifie le système d'initiative de Baldur's Gate pour le rendre similaire à celui du jeu de rôle papier. Pour ce faire, quelques ajustements « en coulisses » ont été apportés à l'initiative. Ces changements mineurs, parfois contre-intuitifs, rendent le jeu un peu plus familier et peut-être même plus amusant !"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1834,
+        "description": "This mod offers an alternate path for Lawful Good, Neutral Good, Chaotic Good & Lawful Neutral characters (with a reputation of 14 or higher) to complete Dorn's SOA quest (Resurrection Gorge) without having him in the party.|In fact, in this alternate version of events, Dorn himself becomes the villain of the story.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod propose un autre cheminement aux personnages d'alignement loyal bon, loyal neutre, chaotique bon et loyal neutre (avec une réputation de 14 ou plus) pour accomplir la quête SOA de Dorn (Resurrection Gorge) sans qu'il fasse partie du groupe.|En fait, dans cette version alternative des événements, Dorn lui-même devient le méchant de l'histoire."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1835,
+        "description": "This mod provides a variety of consumable items for use in the game, enhancing gameplay and offering new strategies for players. Many are taken or inspired by other games and media such as BG3, NWN, and The Witcher. The mod distributes the items among vanilla stores as well as manually placed on some NPCs and automatically in the loot of some enemies randomly.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod fournit une variété d'objets consommables à utiliser dans le jeu, améliorant ainsi le gameplay et offrant de nouvelles stratégies aux joueurs. Beaucoup sont tirés ou inspirés d'autres jeux et médias tels que BG3, NWN et The Witcher. Le mod distribue les objets dans les magasins classiques, mais aussi manuellement sur certains PNJ et automatiquement dans le butin de certains ennemis de manière aléatoire."
         },
         "notes": [],
         "notes_meta": {
