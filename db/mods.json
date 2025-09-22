@@ -772,6 +772,7 @@
         "description": "Ce mod ajoute une romance et une voie de l'amitié avec le célèbre paladin de BG.|Suivant votre type d'installation, le contenu ajouté sera différent : avec BG original, le mod ajoute la romance du [[25]] et la voie de l'amitié ; avec BGT, Tutu, BG:EE et EET, le mod ajoute la voie de l'amitié et plus de contenu pour la romance du [[25]]. Ce mod est en effet considéré comme une extension du [[25]], mais peut être installé et joué sans lui. Dans ce cas, la voie de l'amitié est immédiatement disponible.",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/ajantis/",
+            "https://www.baldurs-gate.de/index.php?resources/jasteys-ajantis-bg1-expansion.2/",
             "https://github.com/Gibberlings3/Ajantis_BG1_Expansion"
         ],
         "categories": [
@@ -811,7 +812,7 @@
         "description": "Avec ce mod, Ajantis, le paladin de l'Ordre du Cœur Radieux dans BG1, peut intégrer le groupe après le combat dans les Collines de Lancevent. Il comporte une romance qui poursuit celle du [[25]] (en cas de trilogie), ou toute une nouvelle, ainsi que la possibilité de développer une profonde amitié avec lui. Le mod suppose qu'Ajantis a voyagé avec le PC dans BG1 pendant un certain temps. C'est là qu'Ajantis a gagné suffisamment d'honneur pour être fait chevalier.|FOR 17, DEX 13, CON 16, INT 12, SAG 16, CHA 17.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/jasteys-sir-ajantis-f%C3%BCr-bgii-npc.9/",
-            "https://www.gibberlings3.net/mods/npcs/ajantis-bg2"
+            "https://www.gibberlings3.net/mods/npcs/ajantis-bg2/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -836,7 +837,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2019-06",
+        "last_update": "2025-09",
         "tp2": "ajantisbg2"
     },
     {
@@ -844,7 +845,7 @@
         "name": "Ajoc's Mini Mod",
         "description": "Créé à l'origine pour Baldur's Gate 2 avec le mod [[1601]], ce mod a été réécrit pour ne pas nécessiter TDD. Il ajoute du nouveau contenu : des quêtes (dont certaines très courtes), des monstres, des objets et de nouvelles zones.",
         "urls": [
-            "https://www.shsforums.net/topic/59054-ajocmod-for-ee-and-eet/",
+            "https://www.shsforums.net/files/file/119-ajocs-minimod/",
             "https://github.com/RoxanneSHS/AjocMod"
         ],
         "categories": [
@@ -2283,7 +2284,7 @@
         "name": "AionZ's House Rules",
         "description": "Cette collection de corrections et de modifications est l'œuvre d'ArtemiusI. Elle comporte divers composants offrant une plus grande variété de races ennemis, de possibilité de métamorphose pour les druides, de bonus de race, de constitution, et bien d'autres choses comme la possibilité pour les moines d'utiliser des bâtons, etc.",
         "urls": [
-            "https://artisans-corner.com/house-rules/ ",
+            "https://artisans-corner.com/house-rules/",
             "https://www.shsforums.net/files/file/1232-artemius-house-tweaks-for-ee/",
             "https://github.com/ArtemiusI/House-Rule-Tweaks"
         ],
@@ -4744,6 +4745,7 @@
         "description": "Ce mini-mod ajoute 17 petites quêtes dans le jeu pour pimenter l'aventure. Elles vous feront découvrir des à-côtés de la vie d'aventuriers, notamment du baby-sitting ! Une version révisée de Slime Quest, qui offre un petite quête à Bérégost, est intégrée à ce mod. D'après l'auteure, ces quêtes ajoutent de 30 à 60 minutes de jeu.|Installez-le avant le [[25]] pour bénéficier de toutes ses options.",
         "urls": [
             "https://www.gibberlings3.net/mods/quests/bgqe/",
+            "https://baldurs-gate.de/index.php?resources/jasteys-baldurs-gate-mini-quests-and-begegnungen-modifikation.17/",
             "https://github.com/Gibberlings3/BG_Quests_And_Encounters"
         ],
         "categories": [
@@ -4761,7 +4763,8 @@
         ],
         "team": [],
         "notes": [
-            "La compatibilité oBG1 sans TotSC n'est plus assurée depuis la v28."
+            "La compatibilité oBG1 sans TotSC n'est plus assurée depuis la v28.",
+            "Doit être installé avant [[105]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -4777,7 +4780,7 @@
             "tr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-09",
         "tp2": "bgqe"
     },
     {
@@ -6128,7 +6131,8 @@
         ],
         "team": [],
         "notes": [
-            "Officiellement compatible avec BG2 et BG2EE, pour l'instant, seul le contenu pour BG1 a été créé."
+            "Officiellement compatible avec BG2 et BG2EE, pour l'instant, seul le contenu pour BG1 a été créé.",
+            "Doit être installé après [[147]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -6139,7 +6143,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2023-09",
+        "last_update": "2025-09",
         "tp2": "c#brage"
     },
     {
@@ -12604,6 +12608,7 @@
         "description": "Il s'agit d'une elfe tieffeline, une Fey'ri, d'alignement chaotique neutre, et voleuse mono-classée. C'est une des lieutenants d'Aran Linvail, et elle dispose de capacités magiques du fait de son ascendance. Sa romance peut être menée par n'importe quel personnage mâle, quel que soit sa classe, sa race ou son alignement. Recrutez-la suffisamment tôt, ses romance et quêtes personnelle étant relativement longues. À l'occasion de la sortie de la partie ToB, le mod est repassé en anglais, et sa verve est conséquente : banters avec les PNJ de Bioware et certains voleurs de l'ombre, des flirts, de nouveaux protagonistes, 2 quêtes principales et une quête plus farfelue.|FOR 14, DEX 19, CON 10, INT 16, SAG 11, CHA 16.",
         "urls": [
             "https://www.spellholdstudios.net/ie/fade",
+            "https://www.shsforums.net/files/file/1083-fade",
             "https://github.com/Spellhold-Studios/Fade-NPC",
             "https://github.com/Plutonium-X/NPC_Fade"
         ],
@@ -16881,7 +16886,7 @@
         "name": "Improved Archer Kit",
         "description": "Le profil Archer d'origine ne s'accorde pas très bien à la progression de niveaux. S'il apparaît très puissant au tout début du jeu, il devient plus tard beaucoup moins utile, comparativement aux autres profils de rôdeur.|Ce mod s'efforce de le rééquilibrer afin que les archers de bas niveau ne surpassent pas les autres classes, tout en permettant aux archers de haut niveau de soutenir la comparaison avec les autres profils de rôdeur. Il ajuste la puissance globale de l'archer et le dote de quelques compétences et aptitudes utiles.|Des composants supplémentaires ajoutent des profils inspirés de l'archer pour les guerriers, les paladins et les voleurs, ou ajoutent dans le jeu un ensemble d'arcs et de munitions puissants.",
         "urls": [
-            "https://www.shsforums.net/topic/58012-improved-archer-kit/",
+            "https://www.shsforums.net/files/file/1116-improved-archer-kit/",
             "https://github.com/Argent77/A7-ImprovedArcher"
         ],
         "categories": [
@@ -18075,8 +18080,9 @@
         "name": "Iylos NPC",
         "description": "Moine loyal bon originaire d'Amkethran, À première vue, c'est un homme très sérieux, mais dès qu'on le connaît un peu mieux, on découvre qu'il a un sens de l'humour ironique et légèrement tordu qui ne correspond pas vraiment à l'image que l'on se fait généralement d'un moine. Il combat de manière offensive et agressive, cherchant à exploiter les faiblesses de son adversaire avant de l'éliminer aussi rapidement et efficacement que possible, et possède un caractère quelque peu acerbe. Beaucoup de dialogues inclus, notamment avec d'autres PNJ de mods, un petit flirt possible avec le PJ si c'est une dame.|FOR 16, DEX 17, CON 14, INT 15, SAG 12, CHA 14",
         "urls": [
-            "https://www.spellholdstudios.net/ie/iylos",
-            "https://github.com/Spellhold-Studios/Iylos-NPC"
+            "https://www.spellholdstudios.net/ie/iylos/",
+            "https://www.shsforums.net/files/file/539-iylos/",
+            "https://github.com/Spellhold-Studios/Iylos-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -23652,7 +23658,8 @@
         "name": "Nephele NPC",
         "description": "Halfeline, clerc de Yondalla de son état, Nephele ajoute une touche d'humour et un peu d'originalité avec du contenu pour BG2:SoA et ToB. Pas de quête, mais beaucoup de dialogues (banters, interjections, et parlote avec le PJ) pour un caractère bien trempé. Vous pourrez la recruter après avoir effectué les quêtes du druide de l'ombre et du génie Dao à Franc-Marché : vous la trouverez alors dans le pub de Vyatri.|FOR 13, DEX 13, CON 11, INT 11, SAG 15, CHA 14.",
         "urls": [
-            "https://www.spellholdstudios.net/ie/nephele",
+            "https://www.spellholdstudios.net/ie/nephele/",
+            "https://www.shsforums.net/files/file/953-nephele/",
             "https://github.com/Spellhold-Studios/Nephele-NPC"
         ],
         "categories": [
@@ -26389,8 +26396,9 @@
         "description": "À l'instar des mods [[444]] et [[25]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans les jeux EE (4617 au total !).|Un composant optionnel permet  d'attribuer des portraits issus d'un pool de portraits aléatoires aux acteurs auxquels le composant principal n'a pas attribué de portraits spécifiques, essentiellement des créatures ayant un nom générique. Par exemple, les personnages humains nommés \"Voleur\" obtiendront des portraits à partir du pool masculin ou féminin des Voleurs. Il y a plus de quatre-vingt-dix pools de portraits aléatoires qui vont de quelques portraits à plus de 20.|Note : ce mod regroupe la série des mods \"Minor NPC Portraits\" pour chaque jeu.",
         "urls": [
             "https://forums.beamdog.com/discussion/61015/",
-            "https://www.nexusmods.com/baldursgate/mods/31",
-            "https://github.com/DaftHunk/Portraits-Portraits-Everywhere"
+            "https://www.gibberlings3.net/forums/topic/38490-portraits-portraits-everywhere-reloaded-updated-sept-14-2024/",
+            "https://www.nexusmods.com/baldursgate/mods/31/",
+            "https://github.com/DaftHunk/Portraits-Portraits-Everywhere/"
         ],
         "categories": [
             "Portrait et son"
@@ -26856,7 +26864,8 @@
         "name": "Ding0's Quest Pack",
         "description": "Ce mod de SimDing0 ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls.",
         "urls": [
-            "https://www.pocketplane.net/quest-pack/"
+            "https://www.pocketplane.net/quest-pack/",
+            "https://github.com/Pocket-Plane-Group/QuestPack/"
         ],
         "categories": [
             "Quête",
@@ -26885,11 +26894,13 @@
             "de",
             "fr",
             "it",
-            "ru"
+            "ru",
+            "pl",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2020-09",
-        "tp2": "d0questpack"
+        "last_update": "2025-05",
+        "tp2": "d0questpack;questpack"
     },
     {
         "id": 846,
@@ -28460,7 +28471,7 @@
         "name": "Rogue Rebalancing",
         "description": "Ce mod modifie le gameplay pour Baldur's Gate 2: Throne of Bhaal et s'efforce de rapprocher les classes de roublard (bardes et voleurs) et leurs profils respectifs de leurs homologues P&P d'AD&D. Il comprend plusieurs composants qui peuvent tous être installés séparément et sont complètement indépendants les uns des autres.|RR met à jour les compétences de combat à deux armes des voleurs et des bardes, révise/améliore leurs profils, révise leurs capacités de haut niveau, restaure les ajustements raciaux appropriés pour les capacités de voleur, ainsi que la table de progression des sorts PnP propre aux bardes.|Il empêche les effets des potions de voleur de se cumuler avec la possibilité de les remplacer par des potions de la version papier.|Il rend également beaucoup plus difficile l'affrontement avec la guilde des Voleurs de l'Ombre dans le chapitre 3.|Il ajoute enfin des objets supplémentaires pour les voleurs et les bardes (dans la guilde des voleurs) ainsi qu'une rencontre avec des fidèles de Cyric dans le chapitre 6.",
         "urls": [
-            "https://www.shsforums.net/files/category/62-rogue-rebalancing/",
+            "https://www.shsforums.net/files/file/320-rogue-rebalancing-windows-version/",
             "https://github.com/FredrikLindgren/rr",
             "https://github.com/mleduque/rogue_rebalancing"
         ],
@@ -34261,6 +34272,7 @@
         "description": "Vos personnages peuvent participer à un talk show animé par un célèbre présentateur d'Amn, Jerry Zinger (sorte de pseudo Jerry Springer). On nage en plein anachronisme, et alors ? Quelques thèmes : \"Mon ex est une folle\", \"Les paladins portant de la lingerie fine et leur femme qui adore\"...",
         "urls": [
             "https://www.spellholdstudios.net/ie/jz",
+            "https://www.shsforums.net/files/file/38-jerry-zinger-show/",
             "https://github.com/Spellhold-Studios/Jerry-Zinger-Show"
         ],
         "categories": [
@@ -35146,7 +35158,7 @@
     {
         "id": 1098,
         "name": "The bigg Quest Pack",
-        "description": "Ce mod comprend de petites quêtes et batailles, trop petites pour être publiées sous forme de mods séparés. Ces composants vont du sérieux à l'absurde, du respect strict des règles à la tricherie pure et simple. Parmi eux :|- Mprolla, le spammeur : Si vous n'avez pas encore compris la blague, ce composant n'est probablement pas pour vous. En tout cas, il est inspiré par un gars (Mike Prolla) qui avait l'habitude de spammer et de troller sur toutes les communautés de modding d'Infinity Engine il y a très longtemps. Dans le mod, Mprolla est un bouffon de niveau 25 que vous pouvez trouver (bien) caché dans la Promenade de Waukunn. Lorsque vous le verrez, après une scène où il perd son cerveau, il commencera à vous narguer, jusqu'à ce qu'il vous combatte ouvertement. Ce combat est une véritable fête du slip. Toutes ses railleries sont de véritables citations. L'élément optionnel `Mprolla, le tricheur` fait également partie de ce composant : il rend le combat plus difficile en ajoutant de la triche.|- Bataille à grande échelle : Amn est assiégé par une armée d'orques et doit se résoudre à la défaite en raison de leur nombre écrasant. Les mages cagoulés et les soldats amiens ont besoin de l'aide d'aventuriers expérimentés pour porter un coup décisif aux assaillants. Après avoir accepté, vous êtes projeté(e) dans une zone pas plus grande que celle des embuscades standard, mais qui contient bien plus d'une centaine d'orques, et d'autres surgissent sans cesse jusqu'à ce que vous tuiez leur commandant. De votre côté, vous avez quelques soldats amniens et mages cagoulés. Qui va gagner ? Le mod [[865]] est requis.|- Duel de mage : dans la cité drow, vous rencontrez un mage drow sans nom près de la tour de Deirex (il utilise l'avatar elfe) ; si un mage masculin lui parle, il peut dire (au hasard) qu'il a peur que vous soyez venu prendre sa place à Sorcere. Avec ce composant installé, vous obtiendrez toujours cette phrase si vous lui parlez (son nom est maintenant Laniz) avec un mage (pur ou multiclasse), un barde ou un ensorceleur, et il vous provoquera en duel. Vous pouvez accepter ou refuser.",
+        "description": "Ce mod comprend de petites quêtes et batailles, trop petites pour être publiées sous forme de mods séparés. Ces composants vont du sérieux à l'absurde, du respect strict des règles à la tricherie pure et simple. Parmi eux :|- Mprolla, le spammeur : Si vous n'avez pas encore compris la blague, ce composant n'est probablement pas pour vous. En tout cas, il est inspiré par un gars (Mike Prolla) qui avait l'habitude de spammer et de troller sur toutes les communautés de modding d'Infinity Engine il y a très longtemps. Dans le mod, Mprolla est un bouffon de niveau 25 que vous pouvez trouver (bien) caché dans la Promenade de Waukyne. Lorsque vous le verrez, après une scène où il perd son cerveau, il commencera à vous narguer, jusqu'à ce qu'il vous combatte ouvertement. Ce combat est une véritable fête du slip. Toutes ses railleries sont de véritables citations. L'élément optionnel `Mprolla, le tricheur` fait également partie de ce composant : il rend le combat plus difficile en ajoutant de la triche.|- Bataille à grande échelle : Amn est assiégé par une armée d'orques et doit se résoudre à la défaite en raison de leur nombre écrasant. Les mages cagoulés et les soldats amiens ont besoin de l'aide d'aventuriers expérimentés pour porter un coup décisif aux assaillants. Après avoir accepté, vous êtes projeté(e) dans une zone pas plus grande que celle des embuscades standard, mais qui contient bien plus d'une centaine d'orques, et d'autres surgissent sans cesse jusqu'à ce que vous tuiez leur commandant. De votre côté, vous avez quelques soldats amniens et mages cagoulés. Qui va gagner ? Le mod [[865]] est requis.|- Duel de mage : dans la cité drow, vous rencontrez un mage drow sans nom près de la tour de Deirex (il utilise l'avatar elfe) ; si un mage masculin lui parle, il peut dire (au hasard) qu'il a peur que vous soyez venu prendre sa place à Sorcere. Avec ce composant installé, vous obtiendrez toujours cette phrase si vous lui parlez (son nom est maintenant Laniz) avec un mage (pur ou multiclasse), un barde ou un ensorceleur, et il vous provoquera en duel. Vous pouvez accepter ou refuser.",
         "urls": [
             "https://www.shsforums.net/files/file/96-the-bigg-house-the-bigg-quest-pack/",
             "https://github.com/vbigiani/tb-quest/"
@@ -37569,7 +37581,7 @@
         "name": "Vampire World",
         "description": "Ce mod fait la part belle aux morts-vivants dans la Saga. Vous pouvez devenir mort-vivant, en accueillir dans votre groupe, embaucher Bodhi après l'avoir tuée...",
         "urls": [
-            "https://www.shsforums.net/topic/59490-mod-vampire-world-for-eet/",
+            "https://www.shsforums.net/files/file/1195-vampire-world-for-eet/",
             "https://github.com/Endarire/Vampire-World-for-EET"
         ],
         "categories": [
@@ -38270,9 +38282,10 @@
     {
         "id": 1198,
         "name": "Warlock Kit",
-        "description": "Ce mod ajoute un profil de barde qui fonctionne comme un véritable Warlock. C'était pour l'auteur la seule manière de créer une classe supplémentaire.|Plus d'informations [ici](https://forums.beamdog.com/discussion/69177/v0-1-warlock-mod/p1).",
+        "description": "Ce mod ajoute un profil de barde qui fonctionne comme un véritable Warlock. C'était pour l'auteur la seule manière de créer une classe supplémentaire.",
         "urls": [
             "https://www.shsforums.net/files/file/1233-warlock-mod-for-bgee-bg2ee-and-iwdee/",
+            "https://forums.beamdog.com/discussion/69177/",
             "https://github.com/ArtemiusI/Warlock"
         ],
         "categories": [
@@ -39081,7 +39094,7 @@
         "name": "Wizard Slayer Rebalancing",
         "description": "Ce mod est largement inspiré par d'autres mods antérieurs de rééquilibrage du Tueur de magiciens, tout particulièrement [[457]], [[614]], [[76]] et \"Kitanya's fixes\" (par SixOfSpades). Cette version est un peu plus classique et essaie de ne pas trop s'éloigner du concept d'origine du profil. En bref, elle tente d'insister sur les points forts du Tueur de magiciens tout en ajoutant quelques uns des meilleurs traits des mods cités plus haut. Au final, le profil devrait être un peu plus équilibré et amusant à jouer, tout en restant pour l'essentiel fidèle au concept original de Bioware.|Ce mod revisite donc le profil de Tueur de magiciens avec l'ajout de nouvelles capacités anti-mages, de deux nouvelles HLA (Réflexion de sorts et Fléau des Arcanes remplacent Résistance à la magie et Cri de guerre) et la possibilité de laisser votre Tueur de magiciens utiliser plus d'objets magiques que d'ordinaire.",
         "urls": [
-            "https://www.shsforums.net/files/file/960-wizard-slayer-rebalancing-v112-windows-version/",
+            "https://www.shsforums.net/files/file/960-wizard-slayer-rebalancing-v113-windows-version/",
             "https://forums.beamdog.com/discussion/24181/",
             "https://github.com/aVENGER981/Wizard-Slayer-Rebalancing"
         ],
@@ -40390,11 +40403,11 @@
             "Remplacé par [[1835]] du même auteur."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
-        "status": "obsolete",
+        "status": "embed",
         "last_update": "2025-08",
         "tp2": "ZS_WeaponOils"
     },
@@ -41465,6 +41478,7 @@
         "description": "Enfin, Irenicus devient un personnage recrutable dès le début de ToB ! Ce mod rajoute des quêtes, des dialogues, et un final autrement époustouflant. Attention, vos réponses influent grandement sur vos relations avec Irenicus, et le contrat que vous remplissez avec lui en l'intégrant à votre équipe aura aussi des répercussions négatives.",
         "urls": [
             "http://www.onlinefiction.net/LR/LongerRoad.html",
+            "https://www.shsforums.net/files/file/39-longer-road/",
             "https://github.com/Spellhold-Studios/LongerRoad"
         ],
         "categories": [
@@ -44012,7 +44026,8 @@
             "PNJ recrutable"
         ],
         "games": [
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Lava Del'Vortel"
@@ -55854,7 +55869,8 @@
             "Portrait et son"
         ],
         "games": [
-            "SoD"
+            "SoD",
+            "EET"
         ],
         "authors": [
             "Colossus"
@@ -57465,5 +57481,37 @@
         "status": "active",
         "last_update": "2025-09",
         "tp2": "ZS_Consumables"
+    },
+    {
+        "id": 1836,
+        "name": "IWDEE-UI-BGEE",
+        "description": "Ce mod remplace complètement l'interface utilisateur par défaut de Baldur's Gate 1 Enhanced Edition et Baldur's Gate 2 Enhanced Edition par celle d'Icewind Dale Enhanced Edition.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/88857",
+            "https://www.nexusmods.com/baldursgate2ee/mods/102",
+            "https://github.com/AedrianRansom/IWDEE-UI-BGEE/"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "RansomR"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-01",
+        "tp2": "IWDEE-UI-BGEE"
     }
 ]

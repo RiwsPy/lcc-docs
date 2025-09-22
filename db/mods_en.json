@@ -2162,12 +2162,14 @@
             "source": "Ce mini-mod ajoute 17 petites quêtes dans le jeu pour pimenter l'aventure. Elles vous feront découvrir des à-côtés de la vie d'aventuriers, notamment du baby-sitting ! Une version révisée de Slime Quest, qui offre un petite quête à Bérégost, est intégrée à ce mod. D'après l'auteure, ces quêtes ajoutent de 30 à 60 minutes de jeu.|Installez-le avant le [[25]] pour bénéficier de toutes ses options."
         },
         "notes": [
-            "oBG1 compatibility without TotSC is no longer guaranteed since v28."
+            "oBG1 compatibility without TotSC is no longer guaranteed since v28.",
+            "Must be installed before [[105]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "La compatibilité oBG1 sans TotSC n'est plus assurée depuis la v28."
+                "La compatibilité oBG1 sans TotSC n'est plus assurée depuis la v28.",
+                "Doit être installé avant [[105]]."
             ]
         }
     },
@@ -2769,12 +2771,14 @@
             "source": "Ce mod est à la fois un mod de quête pour BG et un mod NPC pour toute la saga. Il étend la quête de Brage dans le premier opus. Si l'on prouve son innocence et si l'on récupère sa véritable épée, il est possible de le recruter un jour plus tard dans le Temple de Heaum à Nashkel."
         },
         "notes": [
-            "Officially compatible with BG2EE, for the moment only content for BG1 has been created."
+            "Officially compatible with BG2EE, for the moment only content for BG1 has been created.",
+            "Must be installed after [[147]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Officiellement compatible avec BG2 et BG2EE, pour l'instant, seul le contenu pour BG1 a été créé."
+                "Officiellement compatible avec BG2 et BG2EE, pour l'instant, seul le contenu pour BG1 a été créé.",
+                "Doit être installé après [[147]]."
             ]
         }
     },
@@ -13200,6 +13204,7 @@
     },
     {
         "id": 907,
+        "name": "Shadow Ranger",
         "description": "This mod adds a new ranger kit, reserved for humans, elves and half-elves of lawful evil or neutral evil alignment. Shadow rangers are a secret sect of wanderers intimately affiliated with Shadow druids. They advocate the usage of powers of darkness and the shadows that inhabit them. They do not hesitate from resorting to Machiavellian schemes to achieve their goal. They usually pay homage to the dark goddess, Shar, and rumors say they whisper her name when they slit their target's throat in the darkness of the night. Shadow rangers are dangerous fighters who are able to call the shadows to their aid.",
         "description_meta": {
             "status": "done",
@@ -15950,7 +15955,7 @@
         "description": "This mod includes small quests and battles, too small to be published as separate mods. These components range from the serious to the absurd, from strict adherence to the rules to outright cheating. Among them:|- Mprolla, the spammer: If you haven't got the joke yet, this component is probably not for you. In any case, it's inspired by a guy (Mike Prolla) who used to spam and troll all the Infinity Engine modding communities a long time ago. In the mod, Mprolla is a level 25 buffoon that you can find (well) hidden in the Waukunn Promenade. When you see him, after a scene where he loses his brain, he'll start taunting you, until he fights you openly. This fight is a real panty party. All his taunts are real quotes. The optional element `Mprolla, the cheat` is also part of this component: it makes combat more difficult by adding cheating.|- Large-scale battle: Amn is besieged by an army of orcs and must resign itself to defeat due to their overwhelming numbers. Hooded mages and Amnian soldiers need the help of experienced adventurers to strike a decisive blow against the attackers. After accepting, you're thrown into an area no larger than a standard ambush, but containing well over a hundred orcs, with more popping up all the time until you kill their commander. On your side, you have a few Amnian soldiers and hooded mages. Who's going to win?",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod comprend de petites quêtes et batailles, trop petites pour être publiées sous forme de mods séparés. Ces composants vont du sérieux à l'absurde, du respect strict des règles à la tricherie pure et simple. Parmi eux :|- Mprolla, le spammeur : Si vous n'avez pas encore compris la blague, ce composant n'est probablement pas pour vous. En tout cas, il est inspiré par un gars (Mike Prolla) qui avait l'habitude de spammer et de troller sur toutes les communautés de modding d'Infinity Engine il y a très longtemps. Dans le mod, Mprolla est un bouffon de niveau 25 que vous pouvez trouver (bien) caché dans la Promenade de Waukunn. Lorsque vous le verrez, après une scène où il perd son cerveau, il commencera à vous narguer, jusqu'à ce qu'il vous combatte ouvertement. Ce combat est une véritable fête du slip. Toutes ses railleries sont de véritables citations. L'élément optionnel `Mprolla, le tricheur` fait également partie de ce composant : il rend le combat plus difficile en ajoutant de la triche.|- Bataille à grande échelle : Amn est assiégé par une armée d'orques et doit se résoudre à la défaite en raison de leur nombre écrasant. Les mages cagoulés et les soldats amiens ont besoin de l'aide d'aventuriers expérimentés pour porter un coup décisif aux assaillants. Après avoir accepté, vous êtes projeté(e) dans une zone pas plus grande que celle des embuscades standard, mais qui contient bien plus d'une centaine d'orques, et d'autres surgissent sans cesse jusqu'à ce que vous tuiez leur commandant. De votre côté, vous avez quelques soldats amniens et mages cagoulés. Qui va gagner ? Le mod [[865]] est requis.|- Duel de mage : dans la cité drow, vous rencontrez un mage drow sans nom près de la tour de Deirex (il utilise l'avatar elfe) ; si un mage masculin lui parle, il peut dire (au hasard) qu'il a peur que vous soyez venu prendre sa place à Sorcere. Avec ce composant installé, vous obtiendrez toujours cette phrase si vous lui parlez (son nom est maintenant Laniz) avec un mage (pur ou multiclasse), un barde ou un ensorceleur, et il vous provoquera en duel. Vous pouvez accepter ou refuser."
+            "source": "Ce mod comprend de petites quêtes et batailles, trop petites pour être publiées sous forme de mods séparés. Ces composants vont du sérieux à l'absurde, du respect strict des règles à la tricherie pure et simple. Parmi eux :|- Mprolla, le spammeur : Si vous n'avez pas encore compris la blague, ce composant n'est probablement pas pour vous. En tout cas, il est inspiré par un gars (Mike Prolla) qui avait l'habitude de spammer et de troller sur toutes les communautés de modding d'Infinity Engine il y a très longtemps. Dans le mod, Mprolla est un bouffon de niveau 25 que vous pouvez trouver (bien) caché dans la Promenade de Waukyne. Lorsque vous le verrez, après une scène où il perd son cerveau, il commencera à vous narguer, jusqu'à ce qu'il vous combatte ouvertement. Ce combat est une véritable fête du slip. Toutes ses railleries sont de véritables citations. L'élément optionnel `Mprolla, le tricheur` fait également partie de ce composant : il rend le combat plus difficile en ajoutant de la triche.|- Bataille à grande échelle : Amn est assiégé par une armée d'orques et doit se résoudre à la défaite en raison de leur nombre écrasant. Les mages cagoulés et les soldats amiens ont besoin de l'aide d'aventuriers expérimentés pour porter un coup décisif aux assaillants. Après avoir accepté, vous êtes projeté(e) dans une zone pas plus grande que celle des embuscades standard, mais qui contient bien plus d'une centaine d'orques, et d'autres surgissent sans cesse jusqu'à ce que vous tuiez leur commandant. De votre côté, vous avez quelques soldats amniens et mages cagoulés. Qui va gagner ? Le mod [[865]] est requis.|- Duel de mage : dans la cité drow, vous rencontrez un mage drow sans nom près de la tour de Deirex (il utilise l'avatar elfe) ; si un mage masculin lui parle, il peut dire (au hasard) qu'il a peur que vous soyez venu prendre sa place à Sorcere. Avec ce composant installé, vous obtiendrez toujours cette phrase si vous lui parlez (son nom est maintenant Laniz) avec un mage (pur ou multiclasse), un barde ou un ensorceleur, et il vous provoquera en duel. Vous pouvez accepter ou refuser."
         },
         "notes": [],
         "notes_meta": {
@@ -17379,10 +17384,10 @@
     },
     {
         "id": 1198,
-        "description": "This mod adds a bard profile that works like a real Warlock. For the author, it was the only way to create an additional class. More information [here](https://forums.beamdog.com/discussion/69177/v0-1-warlock-mod/p1).",
+        "description": "This mod adds a bard profile that works like a real Warlock. For the author, it was the only way to create an additional class.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un profil de barde qui fonctionne comme un véritable Warlock. C'était pour l'auteur la seule manière de créer une classe supplémentaire.|Plus d'informations [ici](https://forums.beamdog.com/discussion/69177/v0-1-warlock-mod/p1)."
+            "source": "Ce mod ajoute un profil de barde qui fonctionne comme un véritable Warlock. C'était pour l'auteur la seule manière de créer une classe supplémentaire."
         },
         "notes": [],
         "notes_meta": {
@@ -26436,6 +26441,19 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod fournit une variété d'objets consommables à utiliser dans le jeu, améliorant ainsi le gameplay et offrant de nouvelles stratégies aux joueurs. Beaucoup sont tirés ou inspirés d'autres jeux et médias tels que BG3, NWN et The Witcher. Le mod distribue les objets dans les magasins classiques, mais aussi manuellement sur certains PNJ et automatiquement dans le butin de certains ennemis de manière aléatoire."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1836,
+        "description": "This mod completely replaces Baldur's Gate 1 Enhanced Edition & Baldur's Gate 2 Enhanced Edition's default user interface with the one from Icewind Dale Enhanced Edition.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod remplace complètement l'interface utilisateur par défaut de Baldur's Gate 1 Enhanced Edition et Baldur's Gate 2 Enhanced Edition par celle d'Icewind Dale Enhanced Edition."
         },
         "notes": [],
         "notes_meta": {
