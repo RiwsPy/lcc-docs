@@ -2647,7 +2647,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-08",
         "tp2": "Derats_Archery"
     },
     {
@@ -3983,7 +3983,7 @@
         "description": "Ce mod permet de faire mille et un petits ajustements au jeu, et s'avère être le parfait complément de [[1141]]. Vous pouvez rendre les familiers plus intelligents, détecter les pièges plus rapidement et permettre à vos PNJ de \"sentir\" leur présence, modifier les effets de certains objets et sorts pour les rendre plus cohérents, faire des changements aux règles, vendre vos objets sans dépréciation de prix dans les magasins, désactiver les sauvegardes automatiques dans certaines transitions, diminuer le temps de chargement des zones dans les jeux originaux (d'environ 10 à 30 % selon l'auteur), et bien d'autres choses que vous trouverez dans le readme.|Il fonctionne avec n'importe quel jeu IE, mais tous ses composants ne sont pas applicables à tous les jeux.",
         "urls": [
             "https://bgforge.net/tweaks-and-tricks/",
-            "https://github.com/BGforgeNet/bg2-tweaks-and-tricks"
+            "https://github.com/BGforgeNet/bg2-tweaks-and-tricks/"
         ],
         "categories": [
             "Gameplay"
@@ -4012,7 +4012,7 @@
             "se"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2024-10",
         "tp2": "tnt"
     },
     {
@@ -4736,7 +4736,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-08",
         "tp2": "bggo"
     },
     {
@@ -5185,7 +5185,7 @@
         "description": "Ce mod ajoute 5 nouveaux profils de bardes disposant chacun d'un chant de guerre spécial (Abettor of Mask, Dancer, Deathsinger, Storm Drummer et Troubadour), ainsi qu'un nouveau marchand vendant des objets de barde.",
         "urls": [
             "https://artisans-corner.com/bardic-wonders/",
-            "https://github.com/ArtemiusI/Bardic-Wonders"
+            "https://github.com/ArtemiusI/Bardic-Wonders/"
         ],
         "categories": [
             "Kit",
@@ -5207,7 +5207,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "tp2": "BardicWonders"
     },
     {
@@ -5611,7 +5611,7 @@
         "description": "Développé par Selphira sur votre forum préféré, BWS-FR est un fork du défunt [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) spécialisé dans l'installation des mods traduits en Français et compatibles avec BGT (il installe aussi certains mods anglais qui n'ajoutent pas de texte dans le jeu).|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative fonctionnelle à l'outil Project Infinity, toujours en phase de développement, dont l'utilisation est pour le moins peu intuitive et qui est encore très loin d'être au point.|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter.|- Il applique des corrections sur certains mods.|Vous pouvez consultez le [Forum dédié](https://www.baldursgateworld.fr/viewforum.php?f=757) pour de plus ample informations et accéder aux Guides d'utilisation.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33140",
-            "https://github.com/Selphira/BigWorldSetupFR"
+            "https://github.com/Selphira/BigWorldSetupFR/"
         ],
         "categories": [
             "Utilitaire"
@@ -5633,7 +5633,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "tp2": "n/a"
     },
     {
@@ -6491,7 +6491,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-09",
         "tp2": "AutoLoot"
     },
     {
@@ -7453,7 +7453,7 @@
     },
     {
         "id": 232,
-        "name": "Cirerrek's AI Scripts: iSeries (beta)",
+        "name": "Cirerrek's AI Scripts: iSeries",
         "description": "Il s'agit d'une collection de scripts d'IA en version bêta pour Icewind Dale II. Ils n'utilisent encore qu'un nombre limité de sorts. Utilisez iBard pour les bardes, iArcher pour les mages, iFighter pour les types combattants ou les clercs et iThief pour les voleurs.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-iseries.html) pour plus détails.",
         "urls": [
             "https://www.gibberlings3.net/files/file/720-cirerreks-ai-scripts-iseries/"
@@ -8898,7 +8898,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-09",
         "tp2": "d2-mira"
     },
     {
@@ -9662,7 +9662,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-08",
         "tp2": "Derats_kits"
     },
     {
@@ -9695,7 +9695,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-08",
         "tp2": "Derats_dawap"
     },
     {
@@ -16750,7 +16750,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-02",
+        "last_update": "2025-09",
         "tp2": "imoen_forever"
     },
     {
@@ -18340,7 +18340,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2023-09",
+        "last_update": "2025-07",
         "tp2": "JA#BGT_AdvPack"
     },
     {
@@ -19143,7 +19143,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-09",
         "tp2": "KhalidBG2"
     },
     {
@@ -24494,7 +24494,7 @@
     },
     {
         "id": 771,
-        "name": "1pp: animation fixes for IWD:TotLM",
+        "name": "1pp: animation fixes for IWD: TotLM",
         "description": "Ce mod corrige certains dysfonctionnement apparus dans l'extension [[1129]] : il restaure les animations d'attente pendant les combats, il corrige les sons d'attaque et permet d'utiliser les animations de personnages de BG1 dans Heart of Winter et [[1129]].",
         "urls": [
             "https://www.shsforums.net/files/file/972-1pp-animation-fixes-for-iwd-totlm/"
@@ -27817,7 +27817,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-08",
         "tp2": "wl_RestBeGone"
     },
     {
@@ -34167,7 +34167,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-09",
         "tp2": "TGC1E"
     },
     {
@@ -39027,7 +39027,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-09",
         "tp2": "Will_to_Power"
     },
     {
@@ -40823,7 +40823,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-09",
         "tp2": "Combat_Skill_Proficiencies"
     },
     {
@@ -40855,7 +40855,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-05",
+        "last_update": "2025-09",
         "tp2": "SubtleD_Item_Tweaks"
     },
     {
@@ -41685,7 +41685,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-09",
         "tp2": "YoshiRomance"
     },
     {
@@ -41883,7 +41883,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-09",
         "tp2": "XzarAndMontaron"
     },
     {
@@ -45234,7 +45234,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-09",
         "tp2": "mih_fr"
     },
     {
@@ -45263,7 +45263,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-09",
         "tp2": "mih_metamod"
     },
     {
@@ -55542,10 +55542,11 @@
         "safe": 2,
         "languages": [
             "pl",
+            "en",
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-09",
         "tp2": "Tlol"
     },
     {
@@ -56335,7 +56336,7 @@
         "description": "Le IWDisateur est un mod qui vous permet d'installer sur IWDEE des mods initialement prévus pour BG2EE. Une trentaine de mods sont actuellement proposés.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34964",
-            "https://github.com//Deratiseur/IWD_Convertiseur/"
+            "https://github.com/Deratiseur/IWD_Convertiseur/"
         ],
         "categories": [
             "Utilitaire"
@@ -57511,7 +57512,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-04",
         "tp2": "IWDEE-UI-BGEE"
     }
 ]
