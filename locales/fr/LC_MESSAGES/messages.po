@@ -1,0 +1,156 @@
+# French translations for PACKAGE package.
+# Copyright (C) 2025 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Riws <toto.streak289@passinbox.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-20 15:01+0200\n"
+"PO-Revision-Date: 2025-06-20 15:01+0200\n"
+"Last-Translator: Riws <toto.streak289@passinbox.com>\n"
+"Language-Team: French <traduc@traduc.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: models/mod.py:193
+#, python-brace-format
+msgid "Fichier `{filename}`."
+msgstr ""
+
+#: models/mod.py:199
+#, python-brace-format
+msgid "Disponible en {language}."
+msgstr ""
+
+#: models/mod.py:207
+#, python-brace-format
+msgid ""
+"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
+"fonctionner avec la dernière version du jeu."
+msgstr ""
+
+#: models/mod.py:214
+msgid ""
+"⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
+"le à vos risques et périls."
+msgstr ""
+
+#: models/mod.py:220
+msgid ""
+"Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
+"donner suite."
+msgstr ""
+
+#: models/mod.py:224
+msgid "Ce mod est toujours en cours de réalisation."
+msgstr ""
+
+#: models/mod.py:229
+#, python-brace-format
+msgid "Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
+msgstr ""
+
+#: models/mod.py:232
+msgid "Ce mod a disparu."
+msgstr ""
+
+#: settings.py:22
+msgid "Mod de qualité"
+msgstr ""
+
+#: settings.py:26
+msgid "Mod pouvant poser des problèmes"
+msgstr ""
+
+#: settings.py:30
+msgid "Mod à éviter ou obsolète"
+msgstr ""
+
+#: settings.py:36
+msgid "Mod traduit"
+msgstr ""
+
+#: settings.py:40
+msgid "Mod partiellement traduit"
+msgstr ""
+
+#: settings.py:44
+msgid "Mod non traduit"
+msgstr ""
+
+#: settings.py:50
+msgid "Mod Weidu"
+msgstr ""
+
+#: settings.py:54
+msgid "Mod override, non désinstallable"
+msgstr ""
+
+#: settings.py:106
+msgid "Patch non officiel"
+msgstr ""
+
+#: settings.py:107
+msgid "Utilitaire"
+msgstr ""
+
+#: settings.py:108
+msgid "Conversion"
+msgstr ""
+
+#: settings.py:109
+msgid "Interface"
+msgstr ""
+
+#: settings.py:110
+msgid "Cosmétique"
+msgstr ""
+
+#: settings.py:111
+msgid "Portrait et son"
+msgstr ""
+
+#: settings.py:112
+msgid "Quête"
+msgstr ""
+
+#: settings.py:113
+msgid "PNJ recrutable"
+msgstr ""
+
+#: settings.py:114
+msgid "PNJ One Day"
+msgstr ""
+
+#: settings.py:115
+msgid "PNJ (autre)"
+msgstr ""
+
+#: settings.py:116
+msgid "Forgeron et marchand"
+msgstr ""
+
+#: settings.py:117
+msgid "Sort et objet"
+msgstr ""
+
+#: settings.py:118
+msgid "Kit"
+msgstr ""
+
+#: settings.py:119
+msgid "Gameplay"
+msgstr ""
+
+#: settings.py:120
+msgid "Script et tactique"
+msgstr ""
+
+#: settings.py:121
+msgid "Personnalisation du groupe"
+msgstr ""

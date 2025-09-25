@@ -1,0 +1,65 @@
+<details class="category_container" data-name="{{ _(category.value) }}" open>
+    <summary class="no-summary-style category_name h2-style" data-count="0" id="{{ category.id }}">{{ _(category.value) }}</summary>
+    <div class="category">
+        <div class="row game">
+            <p>{{ _(trans["mod"]) }}</p>
+            <p></p>
+            <p>{{ _(trans["compatibilities"]) }}</p>
+            <p>{{ _(trans["authors"]) }}</p>
+            <p>{{ _(trans["translators"]) }}</p>
+            <img src="{{ static }}img/download.png" title="Téléchargement" alt="Image de téléchargement" width="42" height="42">
+        </div>
+        {% for mod in mods %}
+            <div class="row mod" id="m{{ mod.id }}">
+                <details class="column title update-hash-parent">
+                    <summary class="name">{{ mod.name }}</summary>
+                </details>
+                <div class="column icons">
+                    {% for icon in mod.icons %}<span aria-label='{{ _(icon.label) }}'>{{ icon.icon }}</span>{% endfor %}
+                </div>
+                <div class="column jeu">
+                    {% for game in mod.games_ordered %}<p>{{ game }}</p>{% endfor %}
+                </div>
+                {% if mod.authors|length <= 1 %}
+                    <div class="column team">
+                        {% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}
+                    </div>
+                {% else %}
+                    <details class="column team">
+                        <summary>{{ _(trans["team"]) }}</summary>
+                        <div class="content">{% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}</div>
+                    </details>
+                {% endif %}
+                {% if mod.team|length <= 1 %}
+                <div class="column team translator">
+                    {% for user in mod.team %}<p>{{ user }}</p>{% endfor %}
+                </div>
+                {% else %}
+                <details class="column team translator">
+                    <summary>{{ _(trans["team"]) }}</summary>
+                    <div class="content">{% for user in mod.team %}<p>{{ user }}</p>{% endfor %}</div>
+                </details>
+                {% endif %}
+                <div class="column url">
+                    {% for url in mod.get_urls() %}
+                        <a href="{{ url.url }}" target="{% if url.is_external %}_blank{% else %}_self{% endif %}">
+                        {% if url.img %}
+                            <img src="{{ static }}{{ url.img.src }}" alt="{{ url.img.alt|default('Lien vers le mod',true) }}" width="{{ url.img.width }}" height="{{ url.img.height }}" title="{{ url.img.title }}" lazy="loading">
+                        {% else %}
+                            {{ _(trans["link"]) }}
+                        {% endif %}
+                        </a>
+                    {% endfor %}
+                </div>
+                <div class="column desc">
+                    <div class="content">
+                        {{ mod.get_description(mod_id_to_name=mod_id_to_name)|safe }}
+                        {% if mod.get_notes()|length > 0 %}
+                        <br/><br/>{% for note in mod.get_notes(mod_id_to_name=mod_id_to_name) %}{{ note|safe }}{% if not loop.last %}<br/>{% endif %}{% endfor %}
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</details>
