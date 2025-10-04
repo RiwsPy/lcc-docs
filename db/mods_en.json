@@ -8120,10 +8120,14 @@
             "status": "needs_review",
             "source": "Isra est une paladine, suivante de Sunie Cheveux-de-flamme, que vous pouvez rencontrer dans l'Antre des Sept Vaux sur la Promenade de Waukyne. Vous devrez accomplir quelques quêtes pour pouvoir la recruter - soignez votre réputation pour pouvoir en bénéficier (14 et plus). Isra romancera les PJ bons disposant d'un charisme supérieur à 13, sans restriction de race, de classe ou de sexe. Elle n'intégrera d'ailleurs pas votre groupe si votre PJ est d'alignement mauvais."
         },
-        "notes": [],
+        "notes": [
+            "Choose the last github link for the french version."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Choisissez le dernier lien github pour la version française, pas encore acceptée par l'auteur."
+            ]
         }
     },
     {
@@ -26457,6 +26461,19 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod remplace complètement l'interface utilisateur par défaut de Baldur's Gate 1 Enhanced Edition et Baldur's Gate 2 Enhanced Edition par celle d'Icewind Dale Enhanced Edition."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1837,
+        "description": "Tweaks mod that offers adjustments to sleep, free action, undead care becomes impossible, some animation fixes, and some character scripts.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Mod de tweaks qui propose des ajustements sur le sommeil, l'action libre, le soin des morts-vivants devient impossible, quelques corrections d'animation ainsi que quelques scripts pour les personnages."
         },
         "notes": [],
         "notes_meta": {

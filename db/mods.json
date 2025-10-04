@@ -17856,7 +17856,8 @@
         "description": "Isra est une paladine, suivante de Sunie Cheveux-de-flamme, que vous pouvez rencontrer dans l'Antre des Sept Vaux sur la Promenade de Waukyne. Vous devrez accomplir quelques quêtes pour pouvoir la recruter - soignez votre réputation pour pouvoir en bénéficier (14 et plus). Isra romancera les PJ bons disposant d'un charisme supérieur à 13, sans restriction de race, de classe ou de sexe. Elle n'intégrera d'ailleurs pas votre groupe si votre PJ est d'alignement mauvais.",
         "urls": [
             "https://www.shsforums.net/files/file/1070-isra-bg2-pc/",
-            "https://github.com/Spellhold-Studios/Isra-NPC-BG2"
+            "https://github.com/Spellhold-Studios/Isra-NPC-BG2/",
+            "https://github.com/11jo/Isra-NPC-BG2/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -17873,11 +17874,14 @@
             "Freddy_Gwendo"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choisissez le dernier lien github pour la version française, pas encore acceptée par l'auteur."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "fr"
         ],
         "status": "active",
         "last_update": "2024-12",
@@ -57514,5 +57518,35 @@
         "status": "active",
         "last_update": "2025-04",
         "tp2": "IWDEE-UI-BGEE"
+    },
+    {
+        "id": 1837,
+        "name": "Assorted Adjustments",
+        "description": "Mod de tweaks qui propose des ajustements sur le sommeil, l'action libre, le soin des morts-vivants devient impossible, quelques corrections d'animation ainsi que quelques scripts pour les personnages.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/40540-assorted-adjustments-babbys-first-mod/",
+            "https://www.nexusmods.com/baldursgate2ee/mods/119"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "ScrierOne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-10",
+        "tp2": "assortedadjustments"
     }
 ]
