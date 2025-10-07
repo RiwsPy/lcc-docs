@@ -33,7 +33,7 @@ class Url:
             # cas spécial pour les drapeaux
             if img.endswith(self.country_image_suffix):
                 img_data = image_data[self.country_image_suffix].copy()
-                img_data["title"] = img_data["title"] % img.removesuffix(
+                img_data["title"] = str(img_data["title"]) % img.removesuffix(
                     self.country_image_suffix
                 )
                 dir = FLAG_DIR
@@ -71,7 +71,10 @@ class Url:
         return self.get_image_special() or self.get_image_country()
 
     def get_domain(self) -> str:
-        domain = self.domain_regex.search(self.url).group("domain")
+        domain = ""
+        domain_match = self.domain_regex.search(self.url)
+        if domain_match:
+            domain = domain_match.group("domain")
         return domain or "localhost"
 
     @property

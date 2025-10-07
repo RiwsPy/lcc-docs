@@ -24,6 +24,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     spec = spec_from_file_location(args.filename, args.filename)
+    assert spec is not None and spec.loader
     module = module_from_spec(spec)
     spec.loader.exec_module(module)
 

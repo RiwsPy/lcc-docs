@@ -143,7 +143,7 @@ FLAG_DIR = "flags"
 SITE_DIR = "sites"
 
 # TODO: réduire/convertir les static/img
-domain_to_image = {
+domain_to_image: dict[str, str] = {
     "artisans-corner.com": "artisans-32.avif",
     "baldursgateworld.fr": "logocc.png",
     "anomaly-studios.fr": "logocc.png",
@@ -173,7 +173,7 @@ domain_to_image = {
     "trow.cc": "cn-flag-32.png",
 }
 
-image_data = {
+image_data: dict[str, dict[str, str | int]] = {
     "artisans-32.avif": {"title": "The Artisan Corner", "width": 32, "height": 32},
     "logocc.png": {"title": "La Courrone de Cuivre", "width": 32, "height": 32},
     "teambg.png": {"title": "TeamBG", "width": 32, "height": 13},
@@ -204,11 +204,11 @@ def resize_image_from_width(width: int) -> None:
     Recalcule les dimensions des images en conservant le ratio initial en se basant sur le width
     """
     for key, value in image_data.items():
-        current_width = value["width"]
+        current_width = int(value["width"])
         if current_width == width:
             continue
 
-        current_height = value["height"]
+        current_height = int(value["height"])
         diff_base1 = 1 - (current_width - width) / current_width
         image_data[key]["width"] = width
         image_data[key]["height"] = int(current_height * diff_base1)

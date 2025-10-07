@@ -30,6 +30,7 @@ def _g(msg: str) -> str:
 class LanguageConfig:
     _instance = None
     _lock = threading.Lock()
+    _local = None
 
     def __new__(cls):
         with cls._lock:
@@ -51,6 +52,7 @@ class LanguageConfig:
     def switch_language(self, lang: str):
         """Temporarily switch language in a context"""
         old_lang = getattr(self._local, "language", LANGUAGE_DEFAULT)
+        assert self._local is not None
         self._local.language = lang
         init_i18n(lang)
         try:
