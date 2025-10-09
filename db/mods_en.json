@@ -22074,7 +22074,7 @@
     },
     {
         "id": 1524,
-        "description": "Icewind Dale's Heart of Winter expansion, available for BG1:EE+SoD and EET. The adventure begins after talking to Yollder in the Beard of Ulgoth.|If installed on EET, the mod must be installed after EET and before installing the [[1128]] mod. Otherwise, the mod won't affect game files that could hinder compatibility with other mods.",
+        "description": "Icewind Dale's Heart of Winter expansion, available for BG1:EE+SoD and EET. The adventure begins after talking to Yollder in the Ulgoth's Beard.|If installed on EET, the mod must be installed after EET and before installing the [[1128]] mod. Otherwise, the mod won't affect game files that could hinder compatibility with other mods.",
         "description_meta": {
             "status": "needs_review",
             "source": "L'extension Heart of Winter de Icewind Dale, disponible pour BG1:EE+SoD et EET. L'aventure commence après avoir parlé à Yollder dans la Barbe d'Ulgoth.|S'il est installé sur EET, le mod doit être installé après EET et avant d'installer le mod [[1128]]. Sinon, le mod n'affecte pas les fichiers du jeu qui pourraient nuire à la compatibilité avec d'autres mods."
@@ -26574,6 +26574,110 @@
         "description_meta": {
             "status": "done",
             "source": "Restaure l'apparence visuelle de plusieurs équipements de BG2EE, principalement les boucliers, pour leur redonner leur aspect dans BG1EE. Implémente également des sprites inutilisés de style BG1EE pour la plupart des boucliers uniques."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1846,
+        "description": "This mod is an expansion of Dili's story - a girl the player meets in Chapter 4. (Hint: if you talked to Dili in Spellhold, go to the Docks District in Chapter 6 or 7, and go down to the ships.)",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod est une extension de l'histoire de Dili, une fille que le joueur rencontre au chapitre 4. (Indice : si vous avez parlé à Dili à Spellhold, rendez-vous dans le quartier des docks au chapitre 6 ou 7, puis descendez vers les navires.)"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1847,
+        "description": "In chapter 2 visit the graveyard district and head over to 2584, 1117 or so.",
+        "description_meta": {
+            "status": "done",
+            "source": "Au chapitre 2, rendez-vous dans le quartier du cimetière et dirigez-vous vers les coordonnées 2584, 1117 environ."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1848,
+        "description": "This kitpack adds 6 new sorcerer kits to choose from.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce kitpack ajoute 6 nouveaux kits de sorcier parmi lesquels choisir."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1849,
+        "description": "You can learn all kinds of martial-arts moves from Jin Yong’s wuxia novels.",
+        "description_meta": {
+            "status": "done",
+            "source": "Vous pouvez apprendre toutes sortes de mouvements d'arts martiaux dans les romans wuxia de Jin Yong."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1850,
+        "description": "The Amazing Pocket Wardrobe is a mod which allows you to freely customize your character's appearance among all the playable sprites, allowing you to change your visible gender, race, class, armor level, and helmet visibility as you please.",
+        "description_meta": {
+            "status": "done",
+            "source": "The Amazing Pocket Wardrobe est un mod qui vous permet de personnaliser librement l'apparence de votre personnage parmi tous les sprites jouables, vous permettant de modifier à votre guise votre sexe visible, votre race, votre classe, votre niveau d'armure et la visibilité de votre casque."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1851,
+        "description": "A mod that allows you to create your own scrolls and potions in exchange for gold coins and experience. It also adds several spells and potions.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Un mod qui permet de fabriquer ses propres parchemins et des potions contre des pièces d'or et de l'expérience. Il ajoute également plusieurs sorts et potions."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1852,
+        "description": "Smoke & Mirrors is a mod for IE engine games consisting of spells of the Divination and Illusion schools of magic for both arcane and divine casters. It's focusing on those two scools of magic because they are under represented in the IE games.",
+        "description_meta": {
+            "status": "done",
+            "source": "Smoke & Mirrors est un mod pour les jeux utilisant le moteur IE qui comprend des sorts des écoles de magie Divination et Illusion pour les lanceurs de sorts arcaniques et divins. Il se concentre sur ces deux écoles de magie car elles sont sous-représentées dans les jeux IE."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1853,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
         },
         "notes": [],
         "notes_meta": {

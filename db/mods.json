@@ -808,11 +808,12 @@
     },
     {
         "id": 26,
-        "name": "Ajantis NPC for BGII",
+        "name": "Sir Ajantis NPC for BGII",
         "description": "Avec ce mod, Ajantis, le paladin de l'Ordre du Cœur Radieux dans BG1, peut intégrer le groupe après le combat dans les Collines de Lancevent. Il comporte une romance qui poursuit celle du [[25]] (en cas de trilogie), ou toute une nouvelle, ainsi que la possibilité de développer une profonde amitié avec lui. Le mod suppose qu'Ajantis a voyagé avec le PC dans BG1 pendant un certain temps. C'est là qu'Ajantis a gagné suffisamment d'honneur pour être fait chevalier.|FOR 17, DEX 13, CON 16, INT 12, SAG 16, CHA 17.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/jasteys-sir-ajantis-f%C3%BCr-bgii-npc.9/",
-            "https://www.gibberlings3.net/mods/npcs/ajantis-bg2/"
+            "https://www.gibberlings3.net/mods/npcs/ajantis-bg2/",
+            "https://github.com/Gibberlings3/Ajantis_BG2/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -27734,7 +27735,8 @@
         "name": "Replacement sounds for the interface",
         "description": "Il s'agit d'une collection de fichiers sons sensés améliorer certains sons d'ambiance du jeu, comme les \"cliques\" de sélection des menus, les sons de passage de niveau, des info-bulles, du ramassage de l'or, d'équipement des objets, la musique entendue lorsqu'on approche des tavernes, etc.|Comme il n'est pas possible de désinstaller celui-ci et qu'il a été avant tout développé sur BG:EE, à installer à vos risques et périls.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/31403-replacement-sounds-for-the-interface/"
+            "https://www.gibberlings3.net/forums/topic/31403-replacement-sounds-for-the-interface/",
+            "https://github.com/Endarire/Temnix-s-Replacement-Interface-Sounds-for-BGEE"
         ],
         "categories": [
             "Portrait et son"
@@ -27760,7 +27762,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2020-09",
+        "last_update": "2023-06",
         "tp2": "non-weidu"
     },
     {
@@ -48383,7 +48385,8 @@
         "name": "Heart of Winter",
         "description": "L'extension Heart of Winter de Icewind Dale, disponible pour BG1:EE+SoD et EET. L'aventure commence après avoir parlé à Yollder dans la Barbe d'Ulgoth.|S'il est installé sur EET, le mod doit être installé après EET et avant d'installer le mod [[1128]]. Sinon, le mod n'affecte pas les fichiers du jeu qui pourraient nuire à la compatibilité avec d'autres mods.",
         "urls": [
-            "https://arcanecoast.ru/forum/viewtopic.php?f=31&t=1247"
+            "https://arcanecoast.ru/forum/viewtopic.php?f=31&t=1247",
+            "https://github.com/The-Gate-Project/HoW_EET/"
         ],
         "categories": [
             "Conversion"
@@ -48399,11 +48402,15 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
-        "languages": [],
-        "status": "active",
-        "last_update": "2021-12",
-        "tp2": ""
+        "safe": 1,
+        "languages": [
+            "ru",
+            "en",
+            "fr"
+        ],
+        "status": "wip",
+        "last_update": "2025-08",
+        "tp2": "how_eet"
     },
     {
         "id": 1525,
@@ -50415,7 +50422,7 @@
         "name": "RoyalProtector's Item Pack",
         "description": "Ce mod ajoute des objets dans le monde de BGEE et BG2EE. Chaque élément est totalement optionnel lors de l'installation. Vous n'en aimez qu'un ? N'en installez qu'un seul.",
         "urls": [
-            "https://github.com/zenblack/ZS_ItemPack"
+            "https://github.com/szaumoor/ZS_ItemPack"
         ],
         "categories": [
             "Sort et objet"
@@ -50436,7 +50443,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-09",
         "tp2": "ZS_ItemPack"
     },
     {
@@ -57772,5 +57779,236 @@
         "status": "active",
         "last_update": "2025-09",
         "tp2": "non-weidu"
+    },
+    {
+        "id": 1846,
+        "name": "Iron Modder 10 - The Oldest Trick In The Book",
+        "description": "Ce mod est une extension de l'histoire de Dili, une fille que le joueur rencontre au chapitre 4. (Indice : si vous avez parlé à Dili à Spellhold, rendez-vous dans le quartier des docks au chapitre 6 ou 7, puis descendez vers les navires.)",
+        "urls": [
+            "https://forums.pocketplane.net/index.php/topic,24648.0.html",
+            "https://github.com/Pocket-Plane-Group/IronModder10_Kulyok"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Kulyok"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2020-02",
+        "tp2": "im10kulyok"
+    },
+    {
+        "id": 1847,
+        "name": "Iron Modder 10 - The Oldest Trick In The Book",
+        "description": "Au chapitre 2, rendez-vous dans le quartier du cimetière et dirigez-vous vers les coordonnées 2584, 1117 environ.",
+        "urls": [
+            "https://forums.pocketplane.net/index.php/topic,24648.0.html",
+            "https://github.com/Pocket-Plane-Group/IronModder10_Ding0"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "SimDing0"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2020-02",
+        "tp2": "d0im10"
+    },
+    {
+        "id": 1848,
+        "name": "Arcane Archetypes",
+        "description": "Ce kitpack ajoute 6 nouveaux kits de sorcier parmi lesquels choisir.",
+        "urls": [
+            "https://github.com/Glittergear/ArcaneArchetypes"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [],
+        "authors": [
+            "Glittergear"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-02",
+        "tp2": "ArcaneArchetypes"
+    },
+    {
+        "id": 1849,
+        "name": "Disciple of Jin Yong",
+        "description": "Vous pouvez apprendre toutes sortes de mouvements d'arts martiaux dans les romans wuxia de Jin Yong.",
+        "urls": [
+            "https://github.com/trow/Disciple-of-Jin-Yong"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "bpcc"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "jy"
+    },
+    {
+        "id": 1850,
+        "name": "The Amazing Pocket Wardrobe Mod",
+        "description": "The Amazing Pocket Wardrobe est un mod qui vous permet de personnaliser librement l'apparence de votre personnage parmi tous les sprites jouables, vous permettant de modifier à votre guise votre sexe visible, votre race, votre classe, votre niveau d'armure et la visibilité de votre casque.",
+        "urls": [
+            "https://github.com/ArtemiusI/Pocket-Wardrobe"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-10",
+        "tp2": "PocketWardrobe"
+    },
+    {
+        "id": 1851,
+        "name": "EE Crafting",
+        "description": "Un mod qui permet de fabriquer ses propres parchemins et des potions contre des pièces d'or et de l'expérience. Il ajoute également plusieurs sorts et potions.",
+        "urls": [
+            "https://github.com/Grammarsalad/EE_Crafting/"
+        ],
+        "categories": [
+            "Gameplay",
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "Grammarsalad"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2021-12",
+        "tp2": "B_Crafting"
+    },
+    {
+        "id": 1852,
+        "name": "Smoke & Mirrors",
+        "description": "Smoke & Mirrors est un mod pour les jeux utilisant le moteur IE qui comprend des sorts des écoles de magie Divination et Illusion pour les lanceurs de sorts arcaniques et divins. Il se concentre sur ces deux écoles de magie car elles sont sous-représentées dans les jeux IE.",
+        "urls": [
+            "https://github.com/Grammarsalad/Smoke_and_Mirrors/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "Grammarsalad"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-05",
+        "tp2": "Smoke_and_Mirrors"
+    },
+    {
+        "id": 1853,
+        "name": "Spells & Magic",
+        "description": "",
+        "urls": [
+            "https://github.com/Grammarsalad/Spells_and_Magic/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "Grammarsalad"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-07",
+        "tp2": "Spells_and_Magic"
     }
 ]
