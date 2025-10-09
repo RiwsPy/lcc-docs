@@ -20009,10 +20009,10 @@
     },
     {
         "id": 1381,
-        "description": "This mod provides a continuation for our lovable Baeloth in BG2EE and EET. Baeloth has been captured by the Red Wizards and is ready to make a deal in exchange for his freedom.",
+        "description": "This mod provides a continuation for our lovable Baeloth in BG2EE and EET. Baeloth has been captured by the Red Wizards and is ready to make a deal in exchange for his freedom. Find Baeloth in the Copper Coronet!",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod fournit une continuation pour notre adorable Baeloth dans BG2EE et EET. Baeloth a été capturé par les sorciers rouges et est prêt à conclure un marché en échange de sa liberté."
+            "source": "Ce mod fournit une continuation pour notre adorable Baeloth dans BG2EE et EET. Baeloth a été capturé par les sorciers rouges et est prêt à conclure un marché en échange de sa liberté. Trouvez Baeloth à la Couronne de Cuivre !"
         },
         "notes": [],
         "notes_meta": {
@@ -23291,10 +23291,10 @@
     },
     {
         "id": 1608,
-        "description": "This mod introduces Ophysia Lorines to Baldur's Gate: EE, a half-Elven Scalde from Daggerford. A self-proclaimed fighter and storyteller, she has traveled to Nashkel to help put an end to the Iron Crisis. Although she masks most of her vulnerabilities with a teasing nonchalance, she's driven by a deep desire to do good in the world and live life to the full.",
+        "description": "This mod introduces Ophysia Lorines to Baldur's Gate: EE, a half-Elven Scalde from Daggerford. A self-proclaimed fighter and storyteller, she has traveled to Nashkel to help put an end to the Iron Crisis. Although she masks most of her vulnerabilities with a teasing nonchalance, she's driven by a deep desire to do good in the world and live life to the full.|STR 16, DEX 17, CON 16, INT 14, WIS 10, CHA 16.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod introduit Ophysia Lorines dans Baldur's Gate : EE, une Scalde demi-elfe originaire de Daggerford. Guerrière et conteuse autoproclamée, elle s'est rendue à Nashkel pour aider à mettre un terme à la crise du fer. Bien qu'elle masque la plupart de ses vulnérabilités par une nonchalance aguicheuse, elle est animée par un désir profond de faire le bien dans le monde et de vivre pleinement sa vie."
+            "source": "Ce mod introduit Ophysia Lorines dans Baldur's Gate : EE, une Scalde demi-elfe originaire de Daggerford. Guerrière et conteuse autoproclamée, elle s'est rendue à Nashkel pour aider à mettre un terme à la crise du fer. Bien qu'elle masque la plupart de ses vulnérabilités par une nonchalance aguicheuse, elle est animée par un désir profond de faire le bien dans le monde et de vivre pleinement sa vie.|FOR 16, DEX 17, CON 16, INT 14, SAG 10, CHA 16."
         },
         "notes": [],
         "notes_meta": {
@@ -26470,6 +26470,110 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Mod de tweaks qui propose des ajustements sur le sommeil, l'action libre, le soin des morts-vivants devient impossible, quelques corrections d'animation ainsi que quelques scripts pour les personnages."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1838,
+        "description": "This mod is fanfiction! It contains encyclopedias of in-game history book series to eliminate searching for the history book parts. In addition, the encyclopedias have a 'Reading-Sequence' (like the Dream- or Chapter-Sequence) which is accompanied by music and voice",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod est une fanfiction ! Il contient des encyclopédies de séries de livres d'histoire du jeu afin d'éviter d'avoir à rechercher les parties du livre d'histoire. De plus, les encyclopédies disposent d'une « séquence de lecture » (comme pour un rêve ou le début d'un chapitre) qui accompagne le texte avec une musique et une voix."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1839,
+        "description": "This mod adds a new bonus merchant named Jarnip to the Adventurer's Mart. Like his colleagues Joluv and Deidre, Jarnip sells a variety of unique magical items to aid you during your adventures in Amn.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod ajoute un nouveau marchand bonus nommé Jarnip au Marché de l'Aventurier. Tout comme ses collègues Joluv et Deidre, Jarnip vend toute une gamme d'objets magiques uniques qui vous aideront dans vos aventures à Amn."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1840,
+        "description": "Tired of hearing Jan and Kagain burp? This mod offers a modification of the selection sound (in English) for both characters.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Marre d'entendre les rots de Jan et Kagain ? Ce mod propose une modification du son de sélection (en anglais) pour les deux personnages."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1841,
+        "description": "This mod aims to add depth to the companions in the game with all new interparty banter, quests, expansions to existing quests, interjections, and player-talks.|Currently, content for Ajantis and Coran is being added.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod vise à ajouter de la profondeur aux compagnons du jeu grâce à de toutes nouvelles conversations entre les membres du groupe, des quêtes, des extensions aux quêtes existantes, des interjections et des dialogues entre joueurs.|Actuellement, du contenu pour Ajantis et Coran sont ajoutés."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1842,
+        "description": "A tweak mod who introduces a castable spell to each paladin kit like Blackguard and give Branwen's Spiritual Hammer its original aspect.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Un mod de tweaks qui ajoute un sort d'aura aux kits de paladin comme pour le Chevalier noir et redonne à la compétence de Marteau spirituel de Branwen son aspect originel."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1843,
+        "description": "This mod introduces new areas, enemies, and an epic storyline set deep within the Underdark of the Forgotten Realms.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod introduit de nouvelles zones, de nouveaux ennemis et un scénario épique qui se déroule dans les profondeurs de l'Ombreterre des Royaumes Oubliés."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1844,
+        "description": "Dynaheir BG2EE allows players to decide which of the Rashemaar companions should be available during the Shadows of Amn and Throne of Bhaal campaigns - Minsc or Dynaheir. The decision is made on a new area, to which you need to bring Minsc - there is a new door next to his cage. Free him and let him see what happened to his friend.",
+        "description_meta": {
+            "status": "done",
+            "source": "Dynaheir BG2EE permet aux joueurs de décider lequel des compagnons Rashemaar devrait être disponible pendant les campagnes Shadows of Amn et Throne of Bhaal : Minsc ou Dynaheir. La décision est prise dans une nouvelle zone, où vous devez amener Minsc. Il y a une nouvelle porte à côté de sa cage. Libérez-le et laissez-le voir ce qui est arrivé à son amie."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1845,
+        "description": "Restores the visuals of several BG2EE pieces of equipment, primarily shields, to their BG1EE appearance. Also implements unused BG1EE style sprites for most unique shields.",
+        "description_meta": {
+            "status": "done",
+            "source": "Restaure l'apparence visuelle de plusieurs équipements de BG2EE, principalement les boucliers, pour leur redonner leur aspect dans BG1EE. Implémente également des sprites inutilisés de style BG1EE pour la plupart des boucliers uniques."
         },
         "notes": [],
         "notes_meta": {
