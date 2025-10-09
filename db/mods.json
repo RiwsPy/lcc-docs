@@ -1250,7 +1250,7 @@
         "name": "Alora NPC for BG2",
         "description": "La voleuse halfelin de la Porte de Baldur revient avec ce mod, pour le plus grand plaisir de ses fans. Sa bonhommie et ses exclamations sympathiques la rendent tout autant charismatique que dans le premier opus de la saga.|FOR 12, DEX 19, CON 12, INT 14, SAG 7, CHA 15.",
         "urls": [
-            "https://github.com/GwendolyneFreddy/Alora-NPC-for-BG2",
+            "https://github.com/The-Gate-Project/Alora-NPC-for-BG2",
             "https://america.iegmc.com/com/alora-npc-for-bg2-2.0.zip"
         ],
         "categories": [
@@ -1263,8 +1263,7 @@
             "EET"
         ],
         "authors": [
-            "Dark Raven",
-            "Freddy_Gwendo"
+            "Dark Raven"
         ],
         "team": [],
         "notes": [],
@@ -1274,10 +1273,11 @@
             "en",
             "fr",
             "de",
-            "ru"
+            "ru",
+            "pl"
         ],
         "status": "active",
-        "last_update": "2021-04",
+        "last_update": "2025-10",
         "tp2": "alora"
     },
     {
@@ -27060,7 +27060,8 @@
             "en",
             "fr",
             "de",
-            "it"
+            "it",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-02",
@@ -36776,6 +36777,7 @@
         "description": "Ce mod organise des combats d'arène contre de puissantes créatures extra planaires. Le but est simple : vaincre ou mourir ! Le combat contre le grand maître est le seul qui peut vous rapporter des objets.|Quelques puissants objets sont également en vente.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=13329",
+            "https://github.com/trow/Umbra-of-Torto",
             "https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W"
         ],
         "categories": [
@@ -36788,11 +36790,12 @@
             "EET"
         ],
         "authors": [
-            "inthel"
+            "inthel",
+            "lijing_hi"
         ],
         "team": [],
         "notes": [
-            "La version officielle est disponible via premier lien mais elle nécessite un enregistrement. La seconde version, compatible EE et avec une traduction française est téléchargeable via le lien github."
+            "La version officielle est disponible via les deux premiers liens. Le dernier lien, non officiel, est compatible EE et possède une traduction française."
         ],
         "translation_state": "auto",
         "safe": 2,
