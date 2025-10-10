@@ -26048,16 +26048,16 @@
     },
     {
         "id": 1806,
-        "description": "This mod is a lite edition of [[1286]], a collection of NPC mods that can be installed independently of each other:.| - Keepable Clara NPC: rescue Clara from Hexxat and recruit her.| - Darkside Anomen.| - Bodhi NPC|It removes the content for adults from the original mod.",
+        "description": "This mod focuses exclusively on Clara's NPC content, allowing you to save Clara when facing Hexxat. This is an overhaul of [[1286]], removes all content unrelated to Clara from the original mod.",
         "description_meta": {
-            "status": "todo",
-            "source": "Il s'agit d'une version amoindrie de [[1286]], une collection de mods de PNJ qui peuvent s'installer indépendamment les uns des autres :| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Bodhi NPC|Il retire notamment le contenu pour adulte du mod original."
+            "status": "done",
+            "source": "Ce mod se concentre exclusivement sur le contenu lié au PNJ Clara, vous permettant de la sauver face à Hexxat. Il s'agit d'une refonte ciblée de [[1286]], supprimant tous les éléments non liés à Clara du mod original."
         },
         "notes": [
             "It is incompatible with [[1286]]."
         ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il est incompatible avec [[1286]]."
             ]
