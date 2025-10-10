@@ -11985,7 +11985,7 @@
         "team": [],
         "notes": [
             "Incompatible avec [[768]].",
-            "L'auteur a retiré la traduction française et n'est pas disposé à la rajouter."
+            "Retiré à la demande de l'auteur"
         ],
         "translation_state": "auto",
         "safe": 1,
@@ -11997,7 +11997,7 @@
             "cn",
             "es"
         ],
-        "status": "active",
+        "status": "hidden",
         "last_update": "2025-07",
         "tp2": "Enhanced-Powergaming-Scripts"
     },
@@ -13357,8 +13357,7 @@
         "name": "Forgotten Armament",
         "description": "Ce mod ajoute dans le jeu plus de 100 nouveaux objets de niveau intermédiaire, inspirés de IWD et de NWN2. Il s'efforce de s'assurer que toutes les armes, armures et objets sont représentés de manière égale et qu'il existe des choix d'utilisation adaptés pour les joueurs tout au long de la série. De plus, comme tout au long des jeux, de nombreux ennemis de niveau moyen sont mal équipés avec des armes et des armures non magiques ou magiques +1, alors que les joueurs de même niveau ont des armes et des équipements +2/+3, ce mod fournit à bon nombre de ces ennemis un équipement unique (+1/+2/+3), ce qui permettra d'améliorer les rencontres avec des ennemis correctement équipés.",
         "urls": [
-            "https://www.morpheus-mart.com/forgotten-armament",
-            "https://github.com/mleduque/Forgotten-Armament"
+            "https://www.morpheus-mart.com/forgotten-armament"
         ],
         "categories": [
             "Sort et objet"
@@ -13374,8 +13373,7 @@
         "team": [],
         "notes": [
             "Incompatible avec [[562]].",
-            "L'auteur a retiré la traduction française et n'est pas disposé à la rajouter.",
-            "Le lien github (non officiel et pas à jour) contient encore la traduction française."
+            "Retiré à la demande de l'auteur"
         ],
         "translation_state": "auto",
         "safe": 1,
@@ -13383,7 +13381,7 @@
             "en",
             "cn"
         ],
-        "status": "active",
+        "status": "hidden",
         "last_update": "2025-07",
         "tp2": "forgotten-armament"
     },
@@ -19960,7 +19958,7 @@
     {
         "id": 626,
         "name": "lefreut's Enhanced UI for IWDEE",
-        "description": "Ce mod améliore l'interface de IWD:EE avec un certain nombre de modifications d'ergonomie. Couplé avec d'autres mods comme [[962]], ce mod permet d'accéder aux hlas, qui ne les propose pas par défaut, faute d'interface.",
+        "description": "Ce mod améliore l'interface de IWD:EE avec un certain nombre de modifications d'ergonomie. Couplé avec d'autres mods, ce mod permet d'accéder aux hlas, qui ne les propose pas par défaut, faute d'interface.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/30831-ui-lefreuts-enhanced-ui-for-iwdee",
             "https://github.com/r-e-d/LeUI-IWDEE"
@@ -22715,7 +22713,7 @@
         ],
         "team": [],
         "notes": [
-            "L'auteur a retiré la traduction française et n'est pas disposé à la rajouter."
+            "Retiré à la demande de l'auteur"
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -30703,7 +30701,7 @@
         "notes": [
             "La plupart des composants nécessitent [[348]].",
             "Ce mod permet d'activer les hlas dans IWDEE, s'il est couplé avec [[626]].",
-            "L'auteur a retiré la traduction française et n'est pas disposé à la rajouter."
+            "Retiré à la demande de l'auteur"
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -30712,7 +30710,7 @@
             "ru",
             "cn"
         ],
-        "status": "active",
+        "status": "hidden",
         "last_update": "2025-04",
         "tp2": "skills-and-abilities"
     },
@@ -32629,7 +32627,8 @@
         ],
         "team": [],
         "notes": [
-            "Incompatible avec [[982]] et [[665]]."
+            "Incompatible avec [[982]] et [[665]].",
+            "Retiré à la demande de l'auteur"
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -32638,7 +32637,7 @@
             "cn",
             "es"
         ],
-        "status": "active",
+        "status": "hidden",
         "last_update": "2025-08",
         "tp2": "tactics-remix"
     },
@@ -35269,9 +35268,10 @@
         "team": [],
         "notes": [
             "Ce mod nécessite l'installation de [[348]] qui permet de mettre à jour la barre d'actions afin de permettre aux bardes de chanter, de détecter les pièges et d'utiliser les capacités de voleur au prix de la perte de l'accès aux sorts rapides.",
-            "Ce mod est obsolète : remplacé par [[962]] du même auteur."
+            "Ce mod est obsolète : remplacé par [[962]] du même auteur.",
+            "Retiré à la demande de l'auteur"
         ],
-        "translation_state": "auto",
+        "translation_state": "hidden",
         "safe": 0,
         "languages": [],
         "status": "embed",
@@ -42065,7 +42065,7 @@
         ],
         "team": [],
         "notes": [
-            "L'auteur a retiré la traduction française et n'est pas disposé à la rajouter."
+            "Retiré à la demande de l'auteur"
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -42076,7 +42076,7 @@
             "cn",
             "es"
         ],
-        "status": "active",
+        "status": "hidden",
         "last_update": "2025-06",
         "tp2": "crucible"
     },
@@ -42098,13 +42098,15 @@
             "morpheus562"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Retiré à la demande de l'auteur"
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "hidden",
         "last_update": "2024-07",
         "tp2": "fight-the-heavens"
     },
@@ -49437,9 +49439,7 @@
             "Sarevok57"
         ],
         "team": [],
-        "notes": [
-            "Il s'agit de la base qui a notamment servi à construire le mod [[374]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
