@@ -157,6 +157,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - `"embed"` : intégré en tant que composant (et maintenu) dans un autre mod ou pack
  - `"missing"` : lien de téléchargement disparu
  - `"wip"` : le mod est phase de développement
+ - `"hidden"` : le mod ne s'affiche pas dans la liste
 
 `last_update` : date connue de la dernière mise à jour du mod, champ automatique, format YYYY-MM
 

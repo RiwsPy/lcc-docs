@@ -29,6 +29,7 @@ class ModStatus(enum.StrEnum):
     MISSING = "missing"
     OBSOLETE = "obsolete"
     WIP = "wip"
+    HIDDEN = "hidden"
 
 
 class MetaStatusEnum(enum.StrEnum):

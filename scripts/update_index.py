@@ -5,6 +5,7 @@ from pathlib import Path
 from jinja2 import Environment, PackageLoader, select_autoescape
 
 from i18n import LANGUAGE_CONFIG, LANGUAGE_DEFAULT, TEMPLATE_TRANSLATIONS, _g
+from models.mod import ModStatus
 from scripts.utils import ModManager, get_languages
 from settings import (
     CategoryEnum,
@@ -60,8 +61,9 @@ def main(**kwargs):
 
             categories_mod = {cat: list() for cat in CategoryEnum}
             for mod in mods:
-                for category in mod.categories:
-                    categories_mod[category].append(mod)
+                if mod.status != ModStatus.HIDDEN:
+                    for category in mod.categories:
+                        categories_mod[category].append(mod)
 
             page_html = build_html_page(static=f"..{os_sep}static{os_sep}")
             create_page_language(page_html, language)
