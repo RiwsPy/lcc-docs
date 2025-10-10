@@ -53,7 +53,11 @@ def main(**kwargs):
     used_language_flags = {k: v for k, v in language_flags.items() if k in languages}
     for language in languages:
         with LANGUAGE_CONFIG.switch_language(language):
-            mods = ModManager.get_mod_list()
+            default_language = None
+            if language not in ("en", LANGUAGE_DEFAULT):
+                default_language = "en"
+
+            mods = ModManager.get_mod_list(default_language)
 
             mods.sort(key=lambda x: x.name.lower())
 
