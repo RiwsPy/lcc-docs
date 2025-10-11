@@ -53,18 +53,27 @@ class ModManager:
         elif language in (LANGUAGE_DEFAULT, "en"):
             source_list = cls.get_combine_language(default_list, language)
         else:
-            source_list = cls.get_combine_language(default_list, "en")
+            source_list = cls.get_combine_language(default_list, "en", exclude_fields=["team"])
             source_list = cls.get_combine_language(source_list, language)
 
         return [Mod(**mod) for mod in source_list]
 
     @classmethod
-    def get_combine_language(cls, source_list: list[dict], language_target: str) -> list[dict]:
+    def get_combine_language(
+        cls,
+        source_list: list[dict],
+        language_target: str,
+        exclude_fields: None | list[str] = None,
+    ) -> list[dict]:
         target_list = cls.load(language_target)
         source_list_pks = {mod["id"]: mod for mod in source_list}
         target_list_pks = {mod["id"]: mod for mod in target_list}
         for pk, data in target_list_pks.items():
-            source_list_pks[pk] |= {k: v for k, v in data.items() if v}
+            source_list_pks[pk] |= {
+                k: v
+                for k, v in data.items()
+                if v and (exclude_fields is None or k not in exclude_fields)
+            }
         return list(source_list_pks.values())
 
 
