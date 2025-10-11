@@ -1,0 +1,325 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2025 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Riws <toto.streak289@passinbox.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-14 17:26+0200\n"
+"PO-Revision-Date: 2025-09-14 17:27+0200\n"
+"Last-Translator: Riws <toto.streak289@passinbox.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+#: models/mod.py:193
+#, python-brace-format
+msgid "Fichier `{filename}`."
+msgstr "File `{filename}`."
+
+#: models/mod.py:200
+#, python-brace-format
+msgid ""
+"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
+"fonctionner avec la dernière version du jeu."
+msgstr ""
+"⚠️ EE: The last update was in {year}. This mod may not work with the latest "
+"version of the game."
+
+#: models/mod.py:207
+msgid ""
+"⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
+"le à vos risques et périls."
+msgstr ""
+"⚠️ WeiDU: This mod overwrites files and cannot be uninstalled. Install it at "
+"your own risk.."
+
+#: models/mod.py:213
+msgid ""
+"Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
+"donner suite."
+msgstr ""
+"This mod has been archived by its author/maintainer, who does not seem to "
+"want to continue developing it."
+
+#: models/mod.py:217
+msgid "Ce mod est toujours en cours de réalisation."
+msgstr "This mod is still in progress."
+
+#: models/mod.py:222
+#, python-brace-format
+msgid "Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
+msgstr ""
+"This mod has disappeared from <a href='{url}' target='_blank'>{url}</a>."
+
+#: models/mod.py:225
+msgid "Ce mod a disparu."
+msgstr "This mod has disappeared."
+
+#: models/mod.py:237
+#, python-brace-format
+msgid "Disponible en {language}."
+msgstr "Available in {language}."
+
+#: settings.py:33
+msgid "Mod de qualité"
+msgstr "Quality mod"
+
+#: settings.py:37
+msgid "Mod pouvant poser des problèmes"
+msgstr "Mod that could cause problems"
+
+#: settings.py:41
+msgid "Mod à éviter ou obsolète"
+msgstr "Mod to avoid or obsolete"
+
+#: settings.py:47
+msgid "Mod traduit"
+msgstr "Mod translated"
+
+#: settings.py:51
+msgid "Mod partiellement traduit"
+msgstr "Mod partially translated"
+
+#: settings.py:55
+msgid "Mod non traduit"
+msgstr "Mod not translated"
+
+#: settings.py:61 i18n.py:113
+msgid "Mod Weidu"
+msgstr "Weidu Mod"
+
+#: settings.py:65
+msgid "Mod override, non désinstallable"
+msgstr "Override mod, uninstallable"
+
+#: settings.py:116
+msgid "Patch non officiel"
+msgstr "Unofficial Fixpack"
+
+#: settings.py:117
+msgid "Utilitaire"
+msgstr "Tool"
+
+#: settings.py:118
+msgid "Conversion"
+msgstr "Conversion"
+
+#: settings.py:119
+msgid "Interface"
+msgstr "Interface"
+
+#: settings.py:120
+msgid "Cosmétique"
+msgstr "Visual"
+
+#: settings.py:121
+msgid "Portrait et son"
+msgstr "Portrait and audio"
+
+#: settings.py:122
+msgid "Quête"
+msgstr "Quest"
+
+#: settings.py:123
+msgid "PNJ recrutable"
+msgstr "Joinable NPC"
+
+#: settings.py:124
+msgid "PNJ One Day"
+msgstr "One Day NPC"
+
+#: settings.py:125
+msgid "PNJ (autre)"
+msgstr "NPC (misc)"
+
+#: settings.py:126
+msgid "Forgeron et marchand"
+msgstr "Blacksmith and merchant"
+
+#: settings.py:127
+msgid "Sort et objet"
+msgstr "Spell and item"
+
+#: settings.py:128
+msgid "Kit"
+msgstr "Kit"
+
+#: settings.py:129
+msgid "Gameplay"
+msgstr "Tweak"
+
+#: settings.py:130
+msgid "Script et tactique"
+msgstr "Script and tactic"
+
+#: settings.py:131
+msgid "Personnalisation du groupe"
+msgstr "Party customisation"
+
+#: i18n.py:76
+msgid "Liste des mods pour IE - La Couronne de Cuivre"
+msgstr "List of mods for IE - La Couronne de Cuivre"
+
+#: i18n.py:77
+msgid "Mod"
+msgstr "Mod"
+
+#: i18n.py:78
+msgid "Compatibilités"
+msgstr "Compatibilities"
+
+#: i18n.py:79
+msgid "Auteurs"
+msgstr "Authors"
+
+#: i18n.py:80
+msgid "Traducteurs"
+msgstr "Translators"
+
+#: i18n.py:81
+msgid "Équipe"
+msgstr "Team"
+
+#: i18n.py:82
+msgid "Lien"
+msgstr "Link"
+
+#: i18n.py:83
+msgid "Tous"
+msgstr "All"
+
+#: i18n.py:84
+msgid "Toutes"
+msgstr "All"
+
+#: i18n.py:85
+msgid "État de la traduction"
+msgstr "Translation state"
+
+#: i18n.py:86
+msgid "Qualité du mod"
+msgstr "Mod quality"
+
+#: i18n.py:87
+msgid "Catégorie"
+msgstr "Category"
+
+#: i18n.py:88
+msgid "Recherche :"
+msgstr "Search:"
+
+#: i18n.py:89
+msgid "Filtres avancés"
+msgstr "Advanced filters"
+
+#: i18n.py:90
+msgid "Liste des mods"
+msgstr "Mods list"
+
+#: i18n.py:91
+msgid "Auteur :"
+msgstr "Author:"
+
+#: i18n.py:92
+msgid "Mainteneur :"
+msgstr "Maintainer:"
+
+#: i18n.py:93
+msgid "Retourner aux filtres"
+msgstr "Back to filters"
+
+#: i18n.py:94
+msgid "Site internet"
+msgstr "Web Site"
+
+#: i18n.py:95
+msgid "Discussion"
+msgstr "Discussion"
+
+#: i18n.py:96
+msgid "Introduction"
+msgstr "Introduction"
+
+#: i18n.py:97
+msgid "Mods recensés : "
+msgstr "Mods listed: "
+
+#: i18n.py:99
+msgid ""
+"Voici la liste de mods de la saga Baldur's Gate disponibles au "
+"téléchargement. Afin qu'elle soit la plus précise possible, n'hésitez pas à "
+"indiquer sur <a href=\"https://www.baldursgateworld.fr/viewtopic.php?"
+"t=34779\">le forum</a> si de nouvelles traductions sont en cours, sont "
+"nouvellement achevées ou sont provisoirement mises de côté (avec la "
+"possibilité ou non pour un autre traducteur de les reprendre à son compte). "
+"N'hésitez pas également à signaler tout problème, tout lien mort ou plus "
+"récent, confirmer de nouvelle compatibilité, ou tout simplement la sortie de "
+"nouveaux mods."
+msgstr ""
+"Here is the list of mods for the Baldur's Gate saga available for download. "
+"To ensure that it is as accurate as possible, please feel free to indicate "
+"on <a href=\"https://www.baldursgateworld.fr/viewtopic.php?t=34779\">the "
+"forum</a> whether new translations are in progress, have recently been "
+"completed, or have been temporarily set aside (with or without the "
+"possibility of another translator taking them on). Please also feel free to "
+"report any problems, broken links or newer links, confirm new compatibility, "
+"or simply announce the release of new mods."
+
+#: i18n.py:102
+msgid ""
+"Quiconque le souhaite peut apporter des modifications et des améliorations à "
+"cette liste sur ce <a href=\"https://github.com/RiwsPy/lcc-docs/\">dépôt "
+"GitHub</a>. Il vous suffit soit d'ouvrir une \"issue\" et de nous informer "
+"d'une erreur, d'un lien manquant ou erroné, d'une information manquante ; "
+"soit de le \"forker\" et de proposer une \"Pull Request\"."
+msgstr ""
+"Anyone who wishes to do so may make changes and improvements to this <a "
+"href=\"https://github.com/RiwsPy/lcc-docs/\">GitHub repo</a>. Simply open an "
+"‘issue’ and inform us of an error, a missing or incorrect link, or missing "
+"information; or fork it and submit a ‘Pull Request’."
+
+#: i18n.py:105
+msgid ""
+"N'oubliez-pas de consulter le <a href=\"https://github.com/RiwsPy/lcc-docs/"
+"README.md\">readme</a> avant de contribuer ainsi que les <a href=\"https://"
+"github.com/RiwsPy/lcc-docs/CONTRIBUTING.md\">guidelines</a>."
+msgstr ""
+"Don't forget to check out the <a href=\"https://github.com/RiwsPy/lcc-docs/"
+"README.md\">readme</a> before contributing, as well as the <a href=\"https://"
+"github.com/RiwsPy/lcc-docs/CONTRIBUTING.md\">guidelines</a>."
+
+#: i18n.py:107
+msgid "AVERTISSEMENTS"
+msgstr "WARNINGS"
+
+#: i18n.py:109
+msgid ""
+"Par sécurité, tous les liens qui proposent un téléchargement direct sont "
+"coupés en deux. La première partie est dans le lien et la seconde dans la "
+"description, sous la dénomination `Fichier xxx.yy`. Pour avoir un lien "
+"valide il peut être nécessaire de reconstituer les deux. Par exemple, pour "
+"le mod <a href=\"#m903\">Runic Bladesinger Elven Kit</a>, le lien `https://"
+"baldur.cob-bg.pl/download/bg2/kits/` est à regrouper avec "
+"`Runiczny_v2.0.zip`."
+msgstr ""
+"For security reasons, all links offering direct downloads are split into two "
+"parts. The first part is in the link and the second part is in the "
+"description, under the name `File xxx.yy`. To obtain a valid link, it may be "
+"necessary to combine the two parts. For example, for the mod <a "
+"href=\"#m903\">Runic Bladesinger Elven Kit</a>, the link `https://baldur.cob-"
+"bg.pl/download/bg2/kits/` should be combined with `Runiczny_v2.0.zip`."
+
+#: i18n.py:111
+msgid "Nom du mod"
+msgstr "Mod name"
+
+#: i18n.py:112
+msgid "Légende :"
+msgstr "Legend:"

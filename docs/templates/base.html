@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang={{ language }}>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Liste des mods de l'Infinity Engine" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta http-equiv="content-language" content="{{ language }}">
+        <meta name="keywords" content="Baldur's Gate, Icewind Dale, Planescape Torment, Dungeons & Dragons, Mod">
+        <meta name="robots" content="index,nofollow">
+        <title>{{ _(trans["title"]) }}</title>
+        <link rel="stylesheet" href="{{ static }}css/list.css" type="text/css">
+        <link href="{{ static }}img/logocc26.png" rel="icon" type="image/png" />
+    </head>
+
+    <body>
+        <script src="{{ static }}js/main.js"></script>
+        <a id="gotothetop" href="#top" title={{ _(trans["back"]) }}></a>
+        <div id="cartouche">
+            <div id="header">
+                <h1>{{ _(trans["mod_list"]) }}</h1>
+                <div class="language-picker">
+                    {% for language_url, flag in language_flags.items() %}
+                        <a href="https://riwspy.github.io/lcc-docs/{{ language_url }}/">{{ flag }}{% if not loop.last %} • {% endif %}</a>
+                    {% endfor %}
+                </div>
+                <hr>
+                <div class="nav-2">
+                    <img class="main"
+                         src="{{ static }}img/logo_lcc.avif"
+                         title="La Couronne de Cuivre"
+                         alt="La Couronne de Cuivre"
+                         height="215"
+                         width="885" />
+                    <div class="credits">
+                        <p>
+                            <strong>{{ _(trans["author"]) }}</strong> <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12382">Freddy_Gwendo (aka Gwendolyne)</a>
+                        </p>
+                        <p>
+                            <strong>{{ _(trans["maintainer"]) }}</strong> <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12905">rivvers</a>
+                        </p>
+                        <p>
+                            <strong>Version :</strong> <span id="version">3.3.0</span>
+                        </p>
+                        <p>
+                            <a href="https://www.baldursgateworld.fr/">{{ _(trans["website"]) }}</a> • <a href="https://www.baldursgateworld.fr/viewtopic.php?t=34779">{{ _(trans["discussion"]) }}</a> • <a href="https://github.com/RiwsPy/lcc-docs">GitHub</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+ 
+            <section id="maindiv">
+                <!-- ================== I n t r o d u c t i o n ================== -->
+                <a name="intro" id="intro"></a>
+                <div class="content">
+                    <h2 class="background">{{ _(trans["introduction"]) }}</h2>
+                    <div class="text">
+                        <div class="intro">
+                            <p>
+                                {{ _(trans["intro1"]) }}
+                            </p>
+                            <p>
+                                {{ _(trans["intro2"]) }}
+                            </p>
+                            <p>
+                                {{ _(trans["intro3"]) }}
+                            </p>
+                        </div>
+                        <p class="title">{{ _(trans["mod_nb"]) }}<strong>{{ mod_length }}</strong></p>
+                        <div class="tables">
+                            <div class="legend">
+                                <p class="title">{{ _(trans["legend"]) }}</p>
+                                <p>
+                                    <strong>{{ _(trans["mod_quality"]) }}</strong>
+                                </p>
+                                <ul>
+                                    {% for icon_data in attrs_icon_data.safe.values() %}
+                                    <li>{{ icon_data.icon }} {{ _(icon_data.label) }}</li>
+                                    {% endfor %}
+                                </ul>
+                                <p>
+                                    <strong>{{ _(trans["translation_state"]) }}</strong>
+                                </p>
+                                <ul>
+                                    {% for icon_data in attrs_icon_data.translation_state_auto.values() %}
+                                    <li>{{ icon_data.icon }} {{ _(icon_data.label) }}</li>
+                                    {% endfor %}
+                                </ul>
+
+                                <p>
+                                    <strong>{{ _(trans["weidu_mod"]) }}</strong>
+                                </p>
+                                <ul>
+                                    {% for icon_data in attrs_icon_data.is_weidu.values() %}
+                                    <li>{{ icon_data.icon }} {{ _(icon_data.label) }}</li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                            <div class="warning">
+                                <p class="titre">⚠️ {{ _(trans["wargning_title"]) }} ⚠️</p>
+                                <ul>
+                                    <li>
+                                        {{ _(trans["warning1"]) }}
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="table">
+                <h2 id="top" class="background" id="search-bar">{{ _(trans["advanced_filters"]) }}</h2>
+                <div id="search">{% include "search.html" %}</div>
+            </section>
+            <section id="search_text" class="table">
+                <h3>{{ _(trans["search"]) }}</h3>
+                <input id="search-text"
+                        type="text"
+                        placeholder={{ _(trans["mod_name"]) }}
+                        oninput="filterMod()">
+            </section>
+
+                {% for category, mods in categories.items() %}<section class="table">{% include "category.html" %}</section>{% endfor %}
+
+        </div>
+    </body>
+</html>
