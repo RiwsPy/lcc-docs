@@ -5,7 +5,7 @@
 
 Documentation sur le JSON : https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON
 
-Outil en ligne pour valider le format de votre json : https://jsonformatter.curiousconcept.com\
+Outil en ligne pour valider le format de votre json : https://jsonformatter.curiousconcept.com \
 Pour les utilisateurs de Notepad++ : https://github.com/molsonkiko/JsonToolsNppPlugin
 
 
