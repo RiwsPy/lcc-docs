@@ -29,7 +29,7 @@ Le fichier `db/mods.json` contient les informations nécessaires à la générat
 ```
     uv run main.py scripts/update_index.py
 ```
-Cela génère le fichier `index.html` dans `docs/`.
+Cela génère le fichier `index.html` dans `docs/` ainsi que les pages traduites (chacune présente dans son dossier associé, ex : `db/fr/index.html` pour la version française).
 
 ## Améliorations par rapport à la v1
 
@@ -49,6 +49,7 @@ Cette version propose plusieurs améliorations techniques notables :
 * Filtre par nom
 * Filtre par qualité de mod
 * CI qui check automatiquement la conformité du contenu de `mods.json`
+* Traduction possible de l'interface et du contenu
 * …
 
 ## Limites
@@ -96,7 +97,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 
 ### Détails
 `id`: identifiant unique du mod\
-`name` : nom unique du mod\
+`name` : nom du mod\
 `description` : description du mod\
 `urls` : liste de lien, généralement lien de téléchargement ou/et lien du forum le présentant\
 `categories`: liste des catégories dans lesquelles le mod est placé. Valeurs possibles :
@@ -148,9 +149,9 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - `1` : ⚠️ Mod pouvant poser des problèmes
  - `0` : 🟥 Mod à éviter ou obsolète
 
-`languages` : langues dans lesquels le mod existe, actuellement non affiché, format [ISO-3166-1](https://fr.wikipedia.org/wiki/ISO_3166-1)
+`languages` : langues dans lesquelles le mod existe, actuellement non affiché, format [ISO-3166-1](https://fr.wikipedia.org/wiki/ISO_3166-1)
 
-`status` : la raison peut être indiquée dans les `notes`, actuellement sans impact
+`status` : la raison peut être indiquée dans les `notes`
  - `"active"` : mod actif
  - `"archived"` : mod est archivé et donc non maintenu
  - `"obsolete"` : incompatible avec les dernières versions des jeux originaux ou/et EE (exemple d'un mod fait sous EE 1.3 mais jamais upgrade depuis)
@@ -159,7 +160,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - `"wip"` : le mod est phase de développement
  - `"hidden"` : le mod ne s'affiche pas dans la liste
 
-`last_update` : date connue de la dernière mise à jour du mod, champ automatique, format YYYY-MM
+`last_update` : date connue de la dernière mise à jour du mod, champ automatique, format `YYYY-MM`
 
 `tp2` : nom du fichier tp2 du mod. Valeurs possibles :
  - `"nom du tp2"` : le vrai nom du tp2 (sans le setup-)

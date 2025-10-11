@@ -9,6 +9,39 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 Pour les utilisateurs de Notepad++ : https://github.com/molsonkiko/JsonToolsNppPlugin
 
 
+## Les fichiers de traduction
+
+Chaque language possède son propre fichier de traduction :
+- `mods.json` est la version référence
+- `mods_xx.json` est la version utilisée par la langue de code `xx`
+
+### Le contenu source
+
+Chaque champ non rempli dans `mods_xx.json` sera remplacé par le contenu du fichier `mods_en.json`.\
+Après cette étape, si certains champs demeurent non renseignés, ils seront remplacés par le contenu du fichier `mods.json`.\
+Ce contenu est appelé contenu `source`.
+
+### Les champs meta
+
+Les fichiers de traduction possèdent des champs supplémentaires suffixés par `_meta`.\
+Comme `description_meta`. Qui est associé au champ `description`.\
+Il contient des informations supplémentaires utiles à la traduction pour le champ associé.\
+Son contenu est généré **automatiquement** et sera donc écrasé si nécessaire.
+
+#### Statuts
+
+Le champ `status` des champs `_meta` peut contenir trois valeurs :
+- `"done"` : la traduction a été relue ou aucune traduction n'est nécessaire
+- `"need_reviews"` : la traduction a été réalisée mais nécessite une relecture
+- `"todo"` : la traduction n'a pas été réalisée
+
+#### Source
+
+Le champ `source` des champs `_meta` contient la dernière version connue de la source.\
+Si le contenu de la source venait à être modifié, alors une différence entre les deux champs sera détectée.\
+Une traduction réalisée de statut `"done"`, et dont la source change passera au statut `"need_reviews"`.\
+Une traduction vide de statut `"done"`, et dont la source change passera au statut `"todo"`.
+
 ## Le fichier .ini
 
 Parfois, les mods possèdent un fichier `.ini`. Plus d'informations [ici](https://www.gibberlings3.net/forums/topic/32516-tutorial-what-is-label-why-you-should-create-it-and-how-to-do-it-properly/).\
