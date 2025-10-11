@@ -4,7 +4,7 @@ from json import JSONDecodeError
 import logging
 import os
 
-from i18n import current_language
+from i18n import LANGUAGE_DEFAULT, current_language
 from models.mod import Mod
 from settings import DB_PATH
 
@@ -46,17 +46,26 @@ class ModManager:
 
     @classmethod
     def get_mod_list(cls, language: str | None = None) -> list[Mod]:
-        original_list = cls.load(language="")
-        if language == "":
-            return [Mod(**mod) for mod in original_list]
+        default_list = cls.load(language="")
 
-        language_list = cls.load(language=language)
-        original_list_pks = {mod["id"]: mod for mod in original_list}
-        language_list_pks = {mod["id"]: mod for mod in language_list}
+        if not language:
+            source_list = default_list
+        elif language in (LANGUAGE_DEFAULT, "en"):
+            source_list = cls.get_combine_language(default_list, language)
+        else:
+            source_list = cls.get_combine_language(default_list, "en")
+            source_list = cls.get_combine_language(source_list, language)
 
-        for pk, data in language_list_pks.items():
-            original_list_pks[pk] |= {k: v for k, v in data.items() if v}
-        return [Mod(**mod) for mod in original_list_pks.values()]
+        return [Mod(**mod) for mod in source_list]
+
+    @classmethod
+    def get_combine_language(cls, source_list: list[dict], language_target: str) -> list[dict]:
+        target_list = cls.load(language_target)
+        source_list_pks = {mod["id"]: mod for mod in source_list}
+        target_list_pks = {mod["id"]: mod for mod in target_list}
+        for pk, data in target_list_pks.items():
+            source_list_pks[pk] |= {k: v for k, v in data.items() if v}
+        return list(source_list_pks.values())
 
 
 class CleanModMixin:

@@ -194,7 +194,7 @@ class Mod:
                 auto_notes.append(_g("Fichier `{filename}`.").format(filename=filename))
 
         if self.is_outdated and self.safe <= 1:
-            year, _ = self.last_update.split("-")
+            year, _ = self.last_update.split("-", 1)
             if self.is_EE:
                 auto_notes.append(
                     _g(
@@ -259,7 +259,7 @@ class Mod:
             and self.translation_state_auto
             in (TranslationStateEnum.YES, TranslationStateEnum.NA, TranslationStateEnum.TODO)
             and self.tp2 not in ("non-weidu", "n/a")
-            and self.status in (ModStatus.ACTIVE, ModStatus.EMBED)
+            and self.status in (ModStatus.ACTIVE, ModStatus.EMBED, ModStatus.HIDDEN)
         )
 
     @property

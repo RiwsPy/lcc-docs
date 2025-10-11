@@ -377,6 +377,7 @@ details[open]>summary.category_name {
 }
 
 .table .row .title {
+    grid-row: 1;
     padding-inline: 8px;
     font-size: var(--font-size-small);
     font-weight: bold;
@@ -397,6 +398,7 @@ details[open]>summary.category_name {
 }
 
 .table .row .icons {
+    grid-row: 1;
     display: flex;
     gap: 3px;
     padding: 2px;
@@ -405,6 +407,7 @@ details[open]>summary.category_name {
 }
 
 .table .jeu {
+    grid-row: 1;
     display: flex;
     flex-wrap: wrap;
     gap: 3px;
@@ -424,6 +427,7 @@ details[open]>summary.category_name {
 
 .table .team,
 .table .team .content {
+    grid-row: 1/span 2;
     display: grid;
     gap: 1px;
     justify-items: center;
@@ -450,8 +454,7 @@ details[open]>summary.category_name {
 
 .table .row .desc {
     display: none;
-    grid-column: 1/span 5;
-    grid-row: 2;
+    grid-column: 1/span 3;
     padding-inline: 12px;
     font-size: var(--font-size-small);
     height: 100%;
@@ -463,6 +466,7 @@ details.title[open]~.desc {
 }
 
 .table .row .url {
+    grid-row: 1;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     column-gap: 4px;
@@ -582,9 +586,6 @@ details[open]>summary::marker {
 
     .table .row .title {
         font-size: var(--font-size-large);
-    }
-
-    .table .row .title {
         grid-column: 1/span 5;
         padding-inline: 4px;
     }
@@ -597,7 +598,7 @@ details[open]>summary::marker {
 
     .table .row .team {
         grid-row-start: 2;
-        grid-column: 1/span 3;
+        grid-column: 1/span 5;
         justify-self: left;
     }
 
@@ -609,7 +610,7 @@ details[open]>summary::marker {
 
     .table .row .translator {
         grid-row-start: 3;
-        grid-column: 1/span 3;
+        grid-column: 1/span 5;
         justify-self: left;
     }
 
