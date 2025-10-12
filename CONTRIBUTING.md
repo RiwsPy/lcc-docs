@@ -32,14 +32,14 @@ Son contenu est généré **automatiquement** et sera donc écrasé si nécessai
 
 Le champ `status` des champs `_meta` peut contenir trois valeurs :
 - `"done"` : la traduction a été relue ou aucune traduction n'est nécessaire
-- `"need_reviews"` : la traduction a été réalisée mais nécessite une relecture
+- `"needs_review"` : la traduction a été réalisée mais nécessite une relecture
 - `"todo"` : la traduction n'a pas été réalisée
 
 #### Source
 
 Le champ `source` des champs `_meta` contient la dernière version connue de la source.\
 Si le contenu de la source venait à être modifié, alors une différence entre les deux champs sera détectée.\
-Une traduction réalisée de statut `"done"`, et dont la source change passera au statut `"need_reviews"`.\
+Une traduction réalisée de statut `"done"`, et dont la source change passera au statut `"needs_review"`.\
 Une traduction vide de statut `"done"`, et dont la source change passera au statut `"todo"`.
 
 ## Le fichier .ini
