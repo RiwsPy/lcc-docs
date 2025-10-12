@@ -12656,10 +12656,10 @@
     },
     {
         "id": 869,
-        "description": "This unpretentious mini-mod removes the colors of all armor equipment in the game so that only the character's basic colors are used. On installation, you can choose the type of equipment you'd like to see affected. The choices are: All armor, All shields and All helmets. You can set the basic colors (i.e. armor, leather and metal) of a character in NearInfinity or [[345]]. Once this operation has been performed, these colors will be displayed regardless of the equipment worn.",
+        "description": "This unpretentious mini-mod removes the colors of all armor equipment in the game so that only the character's basic colors are used. On installation, you can choose the type of equipment you'd like to see affected. The choices are: All armor, All shields and All helmets. You can set the basic colors (i.e. armor, leather and metal) of a character in [[1864]] or [[345]]. Once this operation has been performed, these colors will be displayed regardless of the equipment worn.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mini-mod sans prétention supprime les couleurs de tous les équipements d'armure dans le jeu afin que seules les couleurs de base du personnage soient utilisées. Vous pouvez choisir à l'installation le type d'équipement que vous souhaitez voir affecté. Les choix sont : Toutes les armures, Tous les boucliers, et Tous les casques. Ni les armes, ni les effets lumineux des équipements qui en ont ne sont pas affectés.|Vous pouvez définir les couleurs de base (c-à-d la couleur de l'armure, du cuir et du métal) d'un personnage dans NearInfinity ou [[345]]. Une fois cette opération effectuée, ces couleurs seront affichées quel que soit l'équipement porté."
+            "source": "Ce mini-mod sans prétention supprime les couleurs de tous les équipements d'armure dans le jeu afin que seules les couleurs de base du personnage soient utilisées. Vous pouvez choisir à l'installation le type d'équipement que vous souhaitez voir affecté. Les choix sont : Toutes les armures, Tous les boucliers, et Tous les casques. Ni les armes, ni les effets lumineux des équipements qui en ont ne sont pas affectés.|Vous pouvez définir les couleurs de base (c-à-d la couleur de l'armure, du cuir et du métal) d'un personnage dans [[1864]] ou [[345]]. Une fois cette opération effectuée, ces couleurs seront affichées quel que soit l'équipement porté."
         },
         "notes": [
             "As this mod modifies ALL armor, helmet and shield equipment in the game, including that worn by NPCs, it will probably cause noticeable visual changes to creatures/NPCs.",
@@ -21820,10 +21820,10 @@
     },
     {
         "id": 1503,
-        "description": "Moebius Tookit is an application designed to help players, modders and, hopefully, developers of one of the best video games of all time, the Baldur's Gate saga (and/or the AD&D 2nd edition rules on which the game is based). It attempts to address a number of issues:|The lack of interactive tables with interesting data for game analysis.|The lack of a maintained, Linux-compatible savegame editor.|NearInfinity is both useful and slow, especially under Linux.",
+        "description": "Moebius Tookit is an application designed to help players, modders and, hopefully, developers of one of the best video games of all time, the Baldur's Gate saga (and/or the AD&D 2nd edition rules on which the game is based). It attempts to address a number of issues:|The lack of interactive tables with interesting data for game analysis.|The lack of a maintained, Linux-compatible savegame editor.|[[1864]] is both useful and slow, especially under Linux.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Moebius Tookit est une application destinée à aider les joueurs, les moddeurs et, espérons-le, les développeurs de l'un des meilleurs jeux vidéo de tous les temps, la saga Baldur's Gate (et/ou les règles de la 2e édition d'AD&D sur lesquelles le jeu est basé). Il tente de répondre à différentes problèmatiques :|Le manque de tableaux interactifs avec des données intéressantes permettant l'analyse du jeu.|L'absence d'éditeur de sauvegarde maintenu et compatible Linux.|NearInfinity utile et lent à la fois, spécialement sous Linux."
+            "source": "Moebius Tookit est une application destinée à aider les joueurs, les moddeurs et, espérons-le, les développeurs de l'un des meilleurs jeux vidéo de tous les temps, la saga Baldur's Gate (et/ou les règles de la 2e édition d'AD&D sur lesquelles le jeu est basé). Il tente de répondre à différentes problèmatiques :|Le manque de tableaux interactifs avec des données intéressantes permettant l'analyse du jeu.|L'absence d'éditeur de sauvegarde maintenu et compatible Linux.|[[1864]] utile et lent à la fois, spécialement sous Linux."
         },
         "notes": [],
         "notes_meta": {
@@ -26721,6 +26721,162 @@
         "description_meta": {
             "status": "done",
             "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1854,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici un petit mod de marchand qui vous fournira contre menue monnaie des armures, des heaumes et des boucliers dans vos parties de BG2EE / EET. Vous le trouverez dans le Marché des Aventuriers."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1855,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod fournit une nouvelle marchande de sorts, Kaya, que l'on peut rencontrer dans le Marché des Aventuriers sur la Promenade de Waukyne (BG2EE/EET) ou la boutique de Gerth (IWDEE). Elle vous fournira contre espèces sonnantes et trébuchantes tous les parchemins de protection (verts) et arcaniques disponibles dans le jeu, sans oublier des artefacts très utiles pour les mages."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1856,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici un joailler, Pym, qui vous achètera et vous vendra maintes pierres précieuses comme vous le constaterez par vous-même. On peut renconter Pym dans le Marché des Aventuriers sur la Promenade de Waukyne."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1857,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mini-mod propose de choisir une converson de l'épée sainte Pâle Justicière en épée bâtarde ou en épée à deux mains."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1858,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici un petit mod introduisant un nouveau marchand, Emerson, que l'on peut renconter dans le Marché des Aventuriers sur la Promenade de Waukyne (BG2EE / EET) ou la boutique de Gerth (IWDEE), qui vous fournira contre moult pièces sonnantes et trébuchantes des objets et des armes plutôt efficaces et fort utiles pour BG2EE/IWDEE ; ce mod placera en outre deux sets d’écailles de dragons supplémentaires. Au total, ce mod ajoute plusieurs dizaines de nouveaux objets très puissants."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1859,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici un nouveau forgeron, Artemus, que l'on trouvera au Marché des Aventuriers, qui permet d'améliorer une trentaine d'objets, notamment les objets des PNJs BioWare. Ce mod est complémentaire aux autres mods de forgeron comme [[1329]], [[895]], [[738]] et [[900]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1860,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici un petit mod de marchand qui vous fournira contre menue monnaie des armes de jet et des projectiles de tous types dans vos parties de BG2EE / EET. Aramyr est situé dans le Marché des Aventuriers."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1861,
+        "description": "The Infinity Engine Mod Installer is a tool designed to automate the installation of mods for Infinity Engine games such as Baldur's Gate, Icewind Dale, and Planescape: Torment. It uses a file called `weidu.log` to determine which mods to install and how to install them.",
+        "description_meta": {
+            "status": "done",
+            "source": "L'Infinity Engine Mod Installer est un outil conçu pour automatiser l'installation de mods pour les jeux Infinity Engine tels que Baldur's Gate, Icewind Dale et Planescape: Torment. Il utilise un fichier appelé `weidu.log` pour déterminer quels mods installer et comment les installer."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1862,
+        "description": "This tool has 4 features: Missing, Traverse, Discover and View.|`Missing` shows missing string for tra, files, ie if a string is missing for english but not in french. This can also fix by placing extra strings.|`Discover` shows all the strings for all languages and where they are set.|`Traverse` walks over a bg mod and shows you the tree of paths through the files.|`View` can read a collection of infinity file formats and text files involved in weidu mods.",
+        "description_meta": {
+            "status": "done",
+            "source": "Cet outil dispose de 4 fonctionnalités : Missing, Traverse, Discover et View.|`Missing` affiche les chaînes manquantes pour les fichiers tra, c'est-à-dire si une chaîne est manquante en anglais mais pas en français. Cela peut également être corrigé en ajoutant des chaînes supplémentaires.|`Discover` affiche toutes les chaînes pour toutes les langues et leur emplacement.|`Traverse` parcourt un mod bg et vous montre l'arborescence des chemins d'accès aux fichiers.|`View` peut lire une collection de formats de fichiers infinis et de fichiers texte impliqués dans les mods weidu."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1863,
+        "description": "This tool can read infinity engine binary game files for BGEE and BG2EE. Similar to [[1864]]. It prints the binary game data files into human readable text. With optional json output.",
+        "description_meta": {
+            "status": "done",
+            "source": "Cet outil peut lire les fichiers binaires du moteur Infinity pour BGEE et BG2EE. Similaire à [[1864]]. Il imprime les fichiers de données binaires du jeu sous forme de texte lisible par l'utilisateur. Avec sortie json en option."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1864,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Near Infinity (ou NI en abrégé) est un navigateur et éditeur open source multiplateforme pour les ressources des jeux Infinity Engine."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1865,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "DragonLance Total Conversion Editor Pro (DLTCEP) est un éditeur/vérificateur/navigateur de fichiers de jeu non officiel pour les jeux Infinity Engine."
         },
         "notes": [],
         "notes_meta": {

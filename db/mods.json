@@ -27655,7 +27655,7 @@
     {
         "id": 869,
         "name": "Remove Equipment Colors",
-        "description": "Ce mini-mod sans prétention supprime les couleurs de tous les équipements d'armure dans le jeu afin que seules les couleurs de base du personnage soient utilisées. Vous pouvez choisir à l'installation le type d'équipement que vous souhaitez voir affecté. Les choix sont : Toutes les armures, Tous les boucliers, et Tous les casques. Ni les armes, ni les effets lumineux des équipements qui en ont ne sont pas affectés.|Vous pouvez définir les couleurs de base (c-à-d la couleur de l'armure, du cuir et du métal) d'un personnage dans NearInfinity ou [[345]]. Une fois cette opération effectuée, ces couleurs seront affichées quel que soit l'équipement porté.",
+        "description": "Ce mini-mod sans prétention supprime les couleurs de tous les équipements d'armure dans le jeu afin que seules les couleurs de base du personnage soient utilisées. Vous pouvez choisir à l'installation le type d'équipement que vous souhaitez voir affecté. Les choix sont : Toutes les armures, Tous les boucliers, et Tous les casques. Ni les armes, ni les effets lumineux des équipements qui en ont ne sont pas affectés.|Vous pouvez définir les couleurs de base (c-à-d la couleur de l'armure, du cuir et du métal) d'un personnage dans [[1864]] ou [[345]]. Une fois cette opération effectuée, ces couleurs seront affichées quel que soit l'équipement porté.",
         "urls": [
             "https://forums.beamdog.com/discussion/81123/"
         ],
@@ -47758,7 +47758,7 @@
     {
         "id": 1503,
         "name": "Moebius Toolkit",
-        "description": "Moebius Tookit est une application destinée à aider les joueurs, les moddeurs et, espérons-le, les développeurs de l'un des meilleurs jeux vidéo de tous les temps, la saga Baldur's Gate (et/ou les règles de la 2e édition d'AD&D sur lesquelles le jeu est basé). Il tente de répondre à différentes problèmatiques :|Le manque de tableaux interactifs avec des données intéressantes permettant l'analyse du jeu.|L'absence d'éditeur de sauvegarde maintenu et compatible Linux.|NearInfinity utile et lent à la fois, spécialement sous Linux.",
+        "description": "Moebius Tookit est une application destinée à aider les joueurs, les moddeurs et, espérons-le, les développeurs de l'un des meilleurs jeux vidéo de tous les temps, la saga Baldur's Gate (et/ou les règles de la 2e édition d'AD&D sur lesquelles le jeu est basé). Il tente de répondre à différentes problèmatiques :|Le manque de tableaux interactifs avec des données intéressantes permettant l'analyse du jeu.|L'absence d'éditeur de sauvegarde maintenu et compatible Linux.|[[1864]] utile et lent à la fois, spécialement sous Linux.",
         "urls": [
             "https://www.gibberlings3.net/files/file/1037-moebius-toolkit/",
             "https://github.com/moebiusproject/moebiustoolkit"
@@ -57999,5 +57999,371 @@
         "status": "active",
         "last_update": "2024-07",
         "tp2": "Spells_and_Magic"
+    },
+    {
+        "id": 1854,
+        "name": "Erasmo",
+        "description": "Voici un petit mod de marchand qui vous fournira contre menue monnaie des armures, des heaumes et des boucliers dans vos parties de BG2EE / EET. Vous le trouverez dans le Marché des Aventuriers.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34475"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Prof Errata"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "fr"
+        ],
+        "status": "hidden",
+        "last_update": "2024-02",
+        "tp2": "Erasmo"
+    },
+    {
+        "id": 1855,
+        "name": "Kaya",
+        "description": "Ce mod fournit une nouvelle marchande de sorts, Kaya, que l'on peut rencontrer dans le Marché des Aventuriers sur la Promenade de Waukyne (BG2EE/EET) ou la boutique de Gerth (IWDEE). Elle vous fournira contre espèces sonnantes et trébuchantes tous les parchemins de protection (verts) et arcaniques disponibles dans le jeu, sans oublier des artefacts très utiles pour les mages.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34475"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Prof Errata"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "fr",
+            "en"
+        ],
+        "status": "hidden",
+        "last_update": "2024-05",
+        "tp2": "kaya"
+    },
+    {
+        "id": 1856,
+        "name": "Pym",
+        "description": "Voici un joailler, Pym, qui vous achètera et vous vendra maintes pierres précieuses comme vous le constaterez par vous-même. On peut renconter Pym dans le Marché des Aventuriers sur la Promenade de Waukyne.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34475"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Prof Errata"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "fr",
+            "en"
+        ],
+        "status": "hidden",
+        "last_update": "2024-04",
+        "tp2": "pym"
+    },
+    {
+        "id": 1857,
+        "name": "Pâle Justicière",
+        "description": "Ce mini-mod propose de choisir une converson de l'épée sainte Pâle Justicière en épée bâtarde ou en épée à deux mains.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34475"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Prof Errata",
+            "Akadis"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "fr",
+            "en"
+        ],
+        "status": "hidden",
+        "last_update": "2022-02",
+        "tp2": "PaleJusticiere"
+    },
+    {
+        "id": 1858,
+        "name": "Emerson",
+        "description": "Voici un petit mod introduisant un nouveau marchand, Emerson, que l'on peut renconter dans le Marché des Aventuriers sur la Promenade de Waukyne (BG2EE / EET) ou la boutique de Gerth (IWDEE), qui vous fournira contre moult pièces sonnantes et trébuchantes des objets et des armes plutôt efficaces et fort utiles pour BG2EE/IWDEE ; ce mod placera en outre deux sets d’écailles de dragons supplémentaires. Au total, ce mod ajoute plusieurs dizaines de nouveaux objets très puissants.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34475"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Prof Errata"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "fr"
+        ],
+        "status": "hidden",
+        "last_update": "2024-04",
+        "tp2": "Emerson"
+    },
+    {
+        "id": 1859,
+        "name": "Artemus",
+        "description": "Voici un nouveau forgeron, Artemus, que l'on trouvera au Marché des Aventuriers, qui permet d'améliorer une trentaine d'objets, notamment les objets des PNJs BioWare. Ce mod est complémentaire aux autres mods de forgeron comme [[1329]], [[895]], [[738]] et [[900]].",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34475"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Prof Errata"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "fr"
+        ],
+        "status": "hidden",
+        "last_update": "2024-02",
+        "tp2": "artemus"
+    },
+    {
+        "id": 1860,
+        "name": "Aramyr",
+        "description": "Voici un petit mod de marchand qui vous fournira contre menue monnaie des armes de jet et des projectiles de tous types dans vos parties de BG2EE / EET. Aramyr est situé dans le Marché des Aventuriers.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34475"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Prof Errata"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "fr"
+        ],
+        "status": "hidden",
+        "last_update": "2024-05",
+        "tp2": "Aramyr"
+    },
+    {
+        "id": 1861,
+        "name": "Infinity Engine Mod Installer",
+        "description": "L'Infinity Engine Mod Installer est un outil conçu pour automatiser l'installation de mods pour les jeux Infinity Engine tels que Baldur's Gate, Icewind Dale et Planescape: Torment. Il utilise un fichier appelé `weidu.log` pour déterminer quels mods installer et comment les installer.",
+        "urls": [
+            "https://github.com/dark0dave/mod_installer"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "SoD",
+            "IWDEE",
+            "PSTEE"
+        ],
+        "authors": [
+            "dark0dave"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-07",
+        "tp2": "n/a"
+    },
+    {
+        "id": 1862,
+        "name": "Infinity Dialog",
+        "description": "Cet outil dispose de 4 fonctionnalités : Missing, Traverse, Discover et View.|`Missing` affiche les chaînes manquantes pour les fichiers tra, c'est-à-dire si une chaîne est manquante en anglais mais pas en français. Cela peut également être corrigé en ajoutant des chaînes supplémentaires.|`Discover` affiche toutes les chaînes pour toutes les langues et leur emplacement.|`Traverse` parcourt un mod bg et vous montre l'arborescence des chemins d'accès aux fichiers.|`View` peut lire une collection de formats de fichiers infinis et de fichiers texte impliqués dans les mods weidu.",
+        "urls": [
+            "https://github.com/The-Mod-Elephant/infinity_dialog"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "SoD",
+            "IWDEE",
+            "PSTEE"
+        ],
+        "authors": [
+            "dark0dave"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "n/a"
+    },
+    {
+        "id": 1863,
+        "name": "Post Infinity",
+        "description": "Cet outil peut lire les fichiers binaires du moteur Infinity pour BGEE et BG2EE. Similaire à [[1864]]. Il imprime les fichiers de données binaires du jeu sous forme de texte lisible par l'utilisateur. Avec sortie json en option.",
+        "urls": [
+            "https://github.com/dark0dave/post_infinity"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "dark0dave"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-03",
+        "tp2": "n/a"
+    },
+    {
+        "id": 1864,
+        "name": "Near Infinity",
+        "description": "Near Infinity (ou NI en abrégé) est un navigateur et éditeur open source multiplateforme pour les ressources des jeux Infinity Engine.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/30593/new-versions-of-nearinfinity-available/",
+            "https://www.shsforums.net/topic/45358-nearinfinity/",
+            "https://github.com/NearInfinityBrowser/NearInfinity"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "IWD",
+            "IWD2",
+            "PST",
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "PSTEE"
+        ],
+        "authors": [
+            "Argent77"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-06",
+        "tp2": "n/a"
+    },
+    {
+        "id": 1865,
+        "name": "DLTCEP",
+        "description": "DragonLance Total Conversion Editor Pro (DLTCEP) est un éditeur/vérificateur/navigateur de fichiers de jeu non officiel pour les jeux Infinity Engine.",
+        "urls": [
+            "https://www.gibberlings3.net/mods/tools/dltcep/",
+            "https://github.com/TeoTwawki/dltcep"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "IWD",
+            "IWD2",
+            "PST",
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "PSTEE"
+        ],
+        "authors": [
+            "Avenger"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2017-09",
+        "tp2": "n/a"
     }
 ]
