@@ -53,7 +53,9 @@ class ModManager:
         elif language in (LANGUAGE_DEFAULT, "en"):
             source_list = cls.get_combine_language(default_list, language)
         else:
-            source_list = cls.get_combine_language(default_list, "en", exclude_fields=["team"])
+            source_list = cls.get_combine_language(
+                default_list, "en", exclude_fields=["team", "translation_state"]
+            )
             source_list = cls.get_combine_language(source_list, language)
 
         return [Mod(**mod) for mod in source_list]
@@ -63,6 +65,7 @@ class ModManager:
         cls,
         source_list: list[dict],
         language_target: str,
+        *,
         exclude_fields: None | list[str] = None,
     ) -> list[dict]:
         target_list = cls.load(language_target)
