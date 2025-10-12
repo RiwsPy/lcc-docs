@@ -63,6 +63,7 @@ class Mod:
     tp2: str
     description_meta: dict = None
     notes_meta: dict = None
+    urls_extra: list[str] = None
 
     @field_validator("last_update")
     def check_last_update(cls, v):

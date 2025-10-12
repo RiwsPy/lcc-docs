@@ -42,6 +42,15 @@ Si le contenu de la source venait à être modifié, alors une différence entre
 Une traduction réalisée de statut `"done"`, et dont la source change passera au statut `"needs_review"`.\
 Une traduction vide de statut `"done"`, et dont la source change passera au statut `"todo"`.
 
+
+### urls_extra
+
+Si ce champ est renseigné, son contenu est ajouté au champ `urls` du mod pour la langue concernée.\
+Cela permet d'ajouter des liens non officiels, comme une traduction pas encore acceptée par l'auteur par exemple.\
+Cela, sans surcharger les urls de toutes les langues.
+
+
+
 ## Le fichier .ini
 
 Parfois, les mods possèdent un fichier `.ini`. Plus d'informations [ici](https://www.gibberlings3.net/forums/topic/32516-tutorial-what-is-label-why-you-should-create-it-and-how-to-do-it-properly/).\

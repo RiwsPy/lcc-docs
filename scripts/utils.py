@@ -51,12 +51,14 @@ class ModManager:
         if not language:
             source_list = default_list
         elif language in (LANGUAGE_DEFAULT, "en"):
-            source_list = cls.get_combine_language(default_list, language)
+            source_list = cls.get_combine_language(
+                default_list, language, merge_extra_urls=True
+            )
         else:
             source_list = cls.get_combine_language(
                 default_list, "en", exclude_fields=["team", "translation_state"]
             )
-            source_list = cls.get_combine_language(source_list, language)
+            source_list = cls.get_combine_language(source_list, language, merge_extra_urls=True)
 
         return [Mod(**mod) for mod in source_list]
 
@@ -67,6 +69,7 @@ class ModManager:
         language_target: str,
         *,
         exclude_fields: None | list[str] = None,
+        merge_extra_urls: bool = False,
     ) -> list[dict]:
         target_list = cls.load(language_target)
         source_list_pks = {mod["id"]: mod for mod in source_list}
@@ -77,6 +80,8 @@ class ModManager:
                 for k, v in data.items()
                 if v and (exclude_fields is None or k not in exclude_fields)
             }
+            if merge_extra_urls and "urls_extra" in source_list_pks[pk]:
+                source_list_pks[pk]["urls"] += source_list_pks[pk]["urls_extra"]
         return list(source_list_pks.values())
 
 
