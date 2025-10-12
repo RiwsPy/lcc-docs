@@ -50,6 +50,10 @@ Cela permet d'ajouter des liens non officiels, comme une traduction pas encore a
 Cela, sans surcharger les urls de toutes les langues.
 
 
+### notes_extra
+
+Dans la même veine que `urls_extra`, une note spécifique à la langue est ajoutée aux notes du mod.
+
 
 ## Le fichier .ini
 
