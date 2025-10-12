@@ -26886,5 +26886,39 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 1866,
+        "description": "Multiplies the resolution by x4 for all maps in BG:EE. As it does not directly modify the ARE/WED files, this makes it compatible with the vast majority of mods.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Multiplie la résolution par x4 de toutes les cartes dans BG:EE. Comme il ne modifie pas directement les fichiers ARE/WED, cela le rend compatible avec la grande majorité des mods."
+        },
+        "notes": [
+            "Requires [[348]]."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Nécessite [[348]]."
+            ]
+        }
+    },
+    {
+        "id": 1867,
+        "description": "Engine graphical enhancement mod for Baldur's Gate Enhanced Edition.",
+        "description_meta": {
+            "status": "done",
+            "source": "Modification graphique du moteur pour Baldur's Gate Enhanced Edition."
+        },
+        "notes": [
+            "Requires [[348]]."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Nécessite [[348]]."
+            ]
+        }
     }
 ]

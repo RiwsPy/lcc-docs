@@ -11157,7 +11157,7 @@
             "https://github.com/Bubb13/EEex"
         ],
         "categories": [
-            "Patch non officiel"
+            "Utilitaire"
         ],
         "games": [
             "BGEE",
@@ -15503,11 +15503,11 @@
         "name": "Hidden Kits",
         "description": "Ce mod ajoute 7 profils que vous pourrez obtenir en vous multi-classant au niveau 12 : Archmage (mage), Eldritch Phantom (voleur), Prelate (clerc), Shadow Blade (voleur), Spell Steel (mage), Sylvan Justiciar (rôdeur) et Sylvan Warden (druide).|L'expérience nécessaire pour les finaliser est considérable, mais leurs avantages sont à la mesure de la chose. Ils requièrent également des compétences pré-requises. Outre les avantages et inconvénients de chacun, leur plus importante caractéristique réside dans la capacité d'augmenter votre classe inactive lorsque vous montez de niveau.|Outre le PJ, 12 PNJ de Bioware pourront bénéficier de ces mystérieux kits : Aerie the Archmage, Anomen the Prelate, Imoen the Eldritch, PhantomJaheira the Sylvan Warden, Jan the Eldritch Phantom, Korgan the Shadow Blade, Mazzy the Prelate, Minsc the Sylvan Justiciar, Sarevok the Spell Steel, Valygar the Sylvan Justiciar, Viconia the Prelate, Yoshimo the Shadow Blade.",
         "urls": [
-            "https://www.shsforums.net/files/file/623-hidden-kits/"
+            "https://www.shsforums.net/files/file/623-hidden-kits/",
+            "https://github.com/Spellhold-Studios/Hidden-Kits/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -15524,8 +15524,8 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2008-04",
-        "tp2": "HideKt"
+        "last_update": "2025-09",
+        "tp2": "hidekt"
     },
     {
         "id": 487,
@@ -58364,6 +58364,71 @@
         ],
         "status": "active",
         "last_update": "2017-09",
+        "tp2": "n/a"
+    },
+    {
+        "id": 1866,
+        "name": "BGEE-Graphics-Enhanced",
+        "description": "Multiplie la résolution par x4 de toutes les cartes dans BG:EE. Comme il ne modifie pas directement les fichiers ARE/WED, cela le rend compatible avec la grande majorité des mods.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/89746/infinityengine-enhancer/",
+            "https://www.gibberlings3.net/forums/topic/40143-infinityengine-enhancer-released/",
+            "https://github.com/TheForgotten69/BGEE-Graphics-Enhanced"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "TheForgotten69"
+        ],
+        "team": [],
+        "notes": [
+            "Nécessite [[348]]."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-09",
+        "tp2": "BGEE-Graphics-Enhanced"
+    },
+    {
+        "id": 1867,
+        "name": "InfinityEngine-Enhancer",
+        "description": "Modification graphique du moteur pour Baldur's Gate Enhanced Edition.",
+        "urls": [
+            "https://github.com/TheForgotten69/InfinityEngine-Enhancer"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "TheForgotten69"
+        ],
+        "team": [],
+        "notes": [
+            "Nécessite [[348]]."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-09",
         "tp2": "n/a"
     }
 ]
