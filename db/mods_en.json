@@ -26743,6 +26743,9 @@
     },
     {
         "id": 1855,
+        "team": [
+            "Lauriel"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -26860,9 +26863,9 @@
     },
     {
         "id": 1864,
-        "description": "",
+        "description": "Near Infinity (or short: NI) is an open source cross-platform browser and editor for resources of Infinity Engine games.",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Near Infinity (ou NI en abrégé) est un navigateur et éditeur open source multiplateforme pour les ressources des jeux Infinity Engine."
         },
         "notes": [],
@@ -26873,9 +26876,9 @@
     },
     {
         "id": 1865,
-        "description": "",
+        "description": "The DragonLance Total Conversion Editor Pro ( DLTCEP ) is an unofficial game file editor/checker/browser for Infinity Engine games.",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "DragonLance Total Conversion Editor Pro (DLTCEP) est un éditeur/vérificateur/navigateur de fichiers de jeu non officiel pour les jeux Infinity Engine."
         },
         "notes": [],
