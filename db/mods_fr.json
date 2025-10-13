@@ -515,7 +515,10 @@
         "team": [
             "Corran001"
         ],
-        "translation_state": "todo"
+        "translation_state": "todo",
+        "notes_extra": [
+            "Attention, la traduction ne fonctionne pas (il manque un `~`) et mériterait d'être relue."
+        ]
     },
     {
         "id": 121,
@@ -1116,6 +1119,13 @@
     },
     {
         "id": 277,
+        "urls_extra": [
+            "https://github.com/Plutonium-X/FORK_Duality-Odd-Quest-Mod/"
+        ],
+        "notes_extra": [
+            "Choisissez le dernier lien github pour la version française."
+        ],
+        "translation_state": "yes",
         "team": [
             "Deratiseur"
         ]
@@ -1563,6 +1573,13 @@
     },
     {
         "id": 394,
+        "urls_extra": [
+            "https://github.com/Plutonium-X/NPC_Fade/"
+        ],
+        "notes_extra": [
+            "Depuis la v4, le français n'est plus proposé, le dernier lien renvoie vers une version non à jour mais traduite."
+        ],
+        "translation_state": "yes",
         "team": [
             "Stargazer"
         ]

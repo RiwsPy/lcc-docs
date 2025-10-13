@@ -3923,9 +3923,7 @@
             "Victor Georgiev"
         ],
         "team": [],
-        "notes": [
-            "Attention, la traduction française ne fonctionne pas (il manque un `~`) et mériterait d'être relue."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -8835,8 +8833,7 @@
         "description": "Ce mini mod ajoute une rencontre supplémentaire dans les Collines d'Umar au chapitre 6. Ce n'est que le prétexte à un combat assez difficile contre des ennemis de niveaux 15 à 20 et très bien équipés. L'auteur a prévu 3 niveaux de difficulté : facile (déjà bien assez ardu), difficile et carrément démentiel.",
         "urls": [
             "https://www.shsforums.net/files/file/614-ds-odd-quest-mod/",
-            "https://github.com/Spellhold-Studios/Duality-Odd-Quest-Mod",
-            "https://github.com/Plutonium-X/FORK_Duality-Odd-Quest-Mod/"
+            "https://github.com/Spellhold-Studios/Duality-Odd-Quest-Mod"
         ],
         "categories": [
             "Quête"
@@ -8851,17 +8848,14 @@
             "Duality"
         ],
         "team": [],
-        "notes": [
-            "Choisissez le second lien github pour la version française."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
             "en",
             "de",
             "it",
-            "ru",
-            "fr"
+            "ru"
         ],
         "status": "active",
         "last_update": "2024-12",
@@ -12608,8 +12602,7 @@
         "urls": [
             "https://www.spellholdstudios.net/ie/fade",
             "https://www.shsforums.net/files/file/1083-fade",
-            "https://github.com/Spellhold-Studios/Fade-NPC",
-            "https://github.com/Plutonium-X/NPC_Fade"
+            "https://github.com/Spellhold-Studios/Fade-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -12627,15 +12620,11 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Depuis la version v4, déjà compatible BG2:EE et avec la partie ToB, le mod a perdu sa traduction française.",
-            "Le second lien github (Plutonium-X) renvoie vers une version française à jour."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en",
-            "fr"
+            "en"
         ],
         "status": "active",
         "last_update": "2024-10",
