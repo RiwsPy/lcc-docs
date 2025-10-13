@@ -7301,8 +7301,8 @@
         "id": 498,
         "description": "这个模组在游戏中添加了许多强力弹药。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute de nombreuses munitions gros-bill dans le jeu."
+            "status": "needs_review",
+            "source": "Ce mod ajoute un nouveau marchand dans la Promenade de Waukyne qui vend de nombreuses munitions gros-bill dans le jeu."
         },
         "notes": [],
         "notes_meta": {
@@ -9647,8 +9647,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Le lien beamdog propose une version compatible EET."
+            ]
         }
     },
     {
@@ -27073,6 +27075,32 @@
             "source": [
                 "Nécessite [[348]]."
             ]
+        }
+    },
+    {
+        "id": 1868,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "En tant que druide de lignée draconique, vous gagnez des bonus d'attributs, des sorts supplémentaires et le pouvoir d'invoquer des dragons à mesure que vous gagnez des niveaux. Vous pouvez même devenir un sorcier dragon multiclassé."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1869,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un kit de voleur qui excelle dans la collecte d'essence provenant de diverses créatures et dans sa transformation en poison. Doté de compétences spéciales uniques et de capacités avancées. Devenez un maître du poison et un collecteur d'essence !"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]

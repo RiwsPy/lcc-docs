@@ -15851,17 +15851,20 @@
     {
         "id": 498,
         "name": "Houyi - Luan's high-quality archery store",
-        "description": "Ce mod ajoute de nombreuses munitions gros-bill dans le jeu.",
+        "description": "Ce mod ajoute un nouveau marchand dans la Promenade de Waukyne qui vend de nombreuses munitions gros-bill dans le jeu.",
         "urls": [
-            "https://www.baldursgateworld.fr/download/file.php?id=10407",
-            "https://www.mediafire.com/file/qch7kudksgkk5w3/houyi.zip/file"
+            "https://forums.beamdog.com/discussion/88763/",
+            "https://www.mediafire.com/file/qch7kudksgkk5w3/houyi.zip/file",
+            "https://github.com/eva2000as/houyi-Arrow-Merchant/"
         ],
         "categories": [
-            "Sort et objet"
+            "Forgeron et marchand"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "lighting_cat"
@@ -15874,7 +15877,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2004-10",
+        "last_update": "2025-08",
         "tp2": "houyi"
     },
     {
@@ -19211,7 +19214,7 @@
             "BGT"
         ],
         "authors": [
-            "Badgert"
+            "inintrag"
         ],
         "team": [],
         "notes": [],
@@ -20960,20 +20963,24 @@
         "name": "Macholy's Nameless Melody Inn",
         "description": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise dans le [BWP Textpack English](https://www.shsforums.net/files/file/979-big-world-textpack-english/).",
         "urls": [
-            "https://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=28226",
-            "https://trow.cc/board/showtopic=14514&hl=Macholy"
+            "https://trow.cc/board/showtopic=14514",
+            "https://forums.beamdog.com/discussion/88763/",
+            "https://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=28226"
         ],
         "categories": [
             "Quête"
         ],
         "games": [
-            "BGT"
+            "BGT",
+            "EET"
         ],
         "authors": [
             "Macholy"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Le lien beamdog propose une version compatible EET."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -48614,6 +48621,7 @@
         "name": "XPexchange",
         "description": "Pour les BGEET qui intègrent plus de campagnes, un personnage de classe unique peut atteindre le plafond de niveau tôt et se sentir seul face à ses coéquipiers qui montent en niveau plus tard. Ce mod permet d'échanger les points d'expérience superflus contre des capacités supplémentaires.|Lorsqu'un coéquipier a suffisamment de points d'expérience, lancez un sort de Souhait ou de Souhait mineur et de nouvelles options d'échange apparaîtront. Cependant, il y a quelques limites :|1. le personnage doit être de classe unique (le composant 2 supprime cette restriction)|2. le personnage doit avoir plus de 6 millions de points d'expérience (7,5 ou 15 millions pour le mode Legacy of Bhaal, en fonction du plafond d'EXP).",
         "urls": [
+            "https://trow.cc/board/showtopic=52748",
             "https://www.gibberlings3.net/forums/topic/39001-xpexchange-v09-to-exchange-superfluous-experience-points-for-more-abilities/",
             "https://github.com/shohysie/XPexchange"
         ],
@@ -50439,6 +50447,7 @@
         "name": "Bard Song Switching",
         "description": "Ce mod permet aux Bardes de changer de chant comme dans IWD. Les chants des kits ne pouvant pas changer, ils ont été améliorés pour compenser. Les effets des différents chants peuvent se cumuler. Un composant permet même de cumuler plusieurs fois les mêmes chants dans le cas où plusieurs bardes forment un chœur. Il ajoute de nouveaux chants, dont certains sont issus d'Icewind Dale : la Ballade des Trois Héros, La Mélodie de Tymora, le Chant de Kaudiès, la Ballade de Curran Cœurvaillant, etc",
         "urls": [
+            "https://trow.cc/board/showtopic=6204",
             "https://www.gibberlings3.net/forums/topic/37103-bard-song-switching-icewind-mode-for-bgee-series-v47/",
             "https://www.shsforums.net/files/file/743-bard-song-switching-icewind-mode-for-bg2-and-ee-series/",
             "https://github.com/shohysie/Bardsong_Switching"
@@ -57828,6 +57837,7 @@
         "name": "Disciple of Jin Yong",
         "description": "Vous pouvez apprendre toutes sortes de mouvements d'arts martiaux dans les romans wuxia de Jin Yong.",
         "urls": [
+            "https://trow.cc/board/showtopic=14828",
             "https://github.com/trow/Disciple-of-Jin-Yong"
         ],
         "categories": [
@@ -58401,5 +58411,67 @@
         "status": "active",
         "last_update": "2025-09",
         "tp2": "n/a"
+    },
+    {
+        "id": 1868,
+        "name": "Dragon Druid",
+        "description": "En tant que druide de lignée draconique, vous gagnez des bonus d'attributs, des sorts supplémentaires et le pouvoir d'invoquer des dragons à mesure que vous gagnez des niveaux. Vous pouvez même devenir un sorcier dragon multiclassé.",
+        "urls": [
+            "https://trow.cc/board/showtopic=16223",
+            "https://github.com/eva2000as/Dragondruid/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "shadowword"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "dragondruid"
+    },
+    {
+        "id": 1869,
+        "name": "The Blade of Cut-throat",
+        "description": "Un kit de voleur qui excelle dans la collecte d'essence provenant de diverses créatures et dans sa transformation en poison. Doté de compétences spéciales uniques et de capacités avancées. Devenez un maître du poison et un collecteur d'essence !",
+        "urls": [
+            "https://forums.beamdog.com/discussion/88763/",
+            "https://github.com/eva2000as/Lethal-Blade/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "bpcc"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2025-08",
+        "tp2": "ib"
     }
 ]

@@ -7242,10 +7242,10 @@
     },
     {
         "id": 498,
-        "description": "This mod adds a lot of gros-bill ammunition to the game.",
+        "description": "This mod adds a new merchant in the Waukeen's Promenade who sell a lot of gros-bill ammunition to the game.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute de nombreuses munitions gros-bill dans le jeu."
+            "source": "Ce mod ajoute un nouveau marchand dans la Promenade de Waukyne qui vend de nombreuses munitions gros-bill dans le jeu."
         },
         "notes": [],
         "notes_meta": {
@@ -9575,10 +9575,14 @@
             "status": "needs_review",
             "source": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise dans le [BWP Textpack English](https://www.shsforums.net/files/file/979-big-world-textpack-english/)."
         },
-        "notes": [],
+        "notes": [
+            "The beamdog link offers an EET-compatible version."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Le lien beamdog propose une version compatible EET."
+            ]
         }
     },
     {
@@ -26883,6 +26887,32 @@
             "source": [
                 "Nécessite [[348]]."
             ]
+        }
+    },
+    {
+        "id": 1868,
+        "description": "As a druid of draconic bloodline, you gain attribute bonuses, extra spells, and the power to summon dragons as you level up, and you may even multiclass into a dragon sorcerer.",
+        "description_meta": {
+            "status": "done",
+            "source": "En tant que druide de lignée draconique, vous gagnez des bonus d'attributs, des sorts supplémentaires et le pouvoir d'invoquer des dragons à mesure que vous gagnez des niveaux. Vous pouvez même devenir un sorcier dragon multiclassé."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1869,
+        "description": "A thief kit that is good at collecting essence from various creatures and refining it into poison. Having unique special skills and advanced abilities. Be an poison-master and essence-collector!",
+        "description_meta": {
+            "status": "done",
+            "source": "Un kit de voleur qui excelle dans la collecte d'essence provenant de diverses créatures et dans sa transformation en poison. Doté de compétences spéciales uniques et de capacités avancées. Devenez un maître du poison et un collecteur d'essence !"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]
