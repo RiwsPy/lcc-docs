@@ -7828,7 +7828,8 @@
         "name": "Conductor Kit for Bards",
         "description": "Ce mod ajoute un nouveau profil de barde, le Chef d'orchestre. Il dégage un charme des plus enchanteurs qu'il utilise pour électriser son public dans tous les sens du terme. Mais attention à ses désavantages !",
         "urls": [
-            "https://www.shsforums.net/files/file/945-conductorzip/"
+            "https://www.shsforums.net/files/file/945-conductorzip/",
+            "https://github.com/Spellhold-Studios/Conductor-Kit/"
         ],
         "categories": [
             "Kit"
@@ -7848,8 +7849,8 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2011-01",
-        "tp2": "Conductor"
+        "last_update": "2025-09",
+        "tp2": "conductor"
     },
     {
         "id": 246,
@@ -39595,7 +39596,7 @@
         "description": "Ce mod ajoute un nouveau PNJ, un moine loyal neutre qui vient de Kara-Tur. Il possède sa propre quête ainsi que des interactions avec chaque personnage. Il a fait vœu de silence jusqu'à ce qu'il réussisse sa mission, donc votre première rencontre se déroulera sous forme d'un jeu de charades intéressant. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe.|FOR 16, DEX 18, CON 14, INT 8, SAG 18, CHA 4.",
         "urls": [
             "https://www.shsforums.net/files/file/34-yikari-v-17/",
-            "https://www.spellholdstudios.net/ie/yikari/",
+            "https://github.com/Spellhold-Studios/Yikari-NPC/",
             "https://github.com/Plutonium-X/1D_NPC_Yikari"
         ],
         "categories": [
@@ -39623,7 +39624,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-09",
         "tp2": "Yikari"
     },
     {
@@ -56615,6 +56616,8 @@
         "name": "Living Clara",
         "description": "Ce mod se concentre exclusivement sur le contenu lié au PNJ Clara, vous permettant de la sauver face à Hexxat. Il s'agit d'une refonte ciblée de [[1286]], supprimant tous les éléments non liés à Clara du mod original.",
         "urls": [
+            "https://trow.cc/board/showtopic=53570",
+            "https://forums.beamdog.com/discussion/89784/",
             "https://github.com/trow/LivingClara"
         ],
         "categories": [
@@ -56625,7 +56628,7 @@
             "EET"
         ],
         "authors": [
-            "Mephisto"
+            "MephistoSatanDevil"
         ],
         "team": [],
         "notes": [
