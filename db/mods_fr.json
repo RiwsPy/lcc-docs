@@ -2232,12 +2232,26 @@
     },
     {
         "id": 559,
+        "urls_extra": [
+            "https://github.com/11jo/Isra-NPC/"
+        ],
+        "translation_state": "yes",
+        "notes_extra": [
+            "Choisissez le dernier lien pour la version française pas encore acceptée par l'auteur."
+        ],
         "team": [
             "Streen"
         ]
     },
     {
         "id": 560,
+        "urls_extra": [
+            "https://github.com/11jo/Isra-NPC-BG2/"
+        ],
+        "translation_state": "yes",
+        "notes_extra": [
+            "Choisissez le dernier lien pour la version française pas encore acceptée par l'auteur."
+        ],
         "team": [
             "Streen"
         ]
@@ -2371,7 +2385,15 @@
         "id": 596,
         "team": [
             "Deratiseur"
-        ]
+        ],
+        "urls_extra": [
+            "https://github.com/Plutonium-X/KIT_Kensai_Rev/"
+        ],
+        "translation_state": "yes",
+        "notes_extra": [
+            "La version française est disponible via le dernier lien."
+        ],
+        "last_update": "2024-12"
     },
     {
         "id": 597,
@@ -3388,7 +3410,15 @@
         "id": 867
     },
     {
-        "id": 868
+        "id": 868,
+        "translation_state": "yes",
+        "urls_extra": [
+            "https://github.com/Selphira/Relieve-Wizard-Slayer/tree/patch-1"
+        ],
+        "notes_extra": [
+            "Le denier lien propose un patch qui n'est pas encore accepté par l'auteur.",
+            "[[1325]] propose également une traduction française."
+        ]
     },
     {
         "id": 869
@@ -4990,6 +5020,14 @@
         "id": 1262,
         "team": [
             "Deratiseur"
+        ],
+        "translation_state": "yes",
+        "last_update": "2025-06",
+        "urls_extra": [
+            "https://github.com/Plutonium-X/FORK__Passive-Warrior-HLAs/"
+        ],
+        "notes_extra": [
+            "Utilisez le dernier lien pour la version française."
         ]
     },
     {
@@ -5881,6 +5919,13 @@
         "id": 1530,
         "team": [
             "JohnBob"
+        ],
+        "translation_state": "yes",
+        "urls_extra": [
+            "https://github.com/The-Gate-Project/RevisitOldHaunt/"
+        ],
+        "notes_extra": [
+            "Le dermier lien comporte la traduction française qui n'a pas encore été acceptée par l'auteur."
         ]
     },
     {
