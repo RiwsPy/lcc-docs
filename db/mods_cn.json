@@ -65,10 +65,10 @@
     },
     {
         "id": 5,
-        "description": "这个模组旨在用D&D 5e的规则（\"半即时\"施法）来替换IE引擎游戏的施法机制。更多信息请点击[这里](https://github.com/UnearthedArcana/5E_spellcasting/blob/master/README.md)。",
+        "description": "这个模组旨在用D&D 5e的规则（\"半即时\"施法）来替换IE引擎游戏的施法机制。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod a pour ambition de remplacer les mécanismes de lancement de sorts des jeux IE par les règles de D&D 5e (lancement de sort \"semi-instantané\" ). Plus d'informations [ici](https://github.com/UnearthedArcana/5E_spellcasting/blob/master/README.md)."
+            "source": "Ce mod a pour ambition de remplacer les mécanismes de lancement de sorts des jeux IE par les règles de D&D 5e (lancement de sort \"semi-instantané\" )."
         },
         "notes": [
             "此模组与游戏2.5版本之前的补丁不兼容。"
@@ -2613,12 +2613,12 @@
             "source": "Rendez vous dans les Fosses Noires pendant la campagne de BG1, pour BGEE, SoD et EET.||Ce mod ajoute quelques lignes de dialogue lors de votre première rencontre avec Baeloth dans BGEE.||Si vous choisissez une des nouvelles lignes de dialogue, alors l'histoire est modifiée ; Baeloth est à la surface pour une campagne de recrutement, à la recherche d'un groupe de héros||Il est vivement recommandé de ne pas vous rendre aux Fosses noires avant le niveau 5, voire le niveau 7. Les derniers combats peuvent être particulièrement difficiles."
         },
         "notes": [
-            "重要提示：|\n由于模组必然会改变时机和剧情，如果您决定前往黑坑，贝洛索将无法加入您的队伍。|\n因此，他将从博德之门1的战役中消失，并且无法在龙矛围攻的战役中与查名会合，姆金这位女萨满地精也是如此。|\n[查看模组详情....](https://github.com/UnearthedArcana/BP_in_BG/blob/master/README.French.md)"
+            "重要提示：|\n由于模组必然会改变时机和剧情，如果您决定前往黑坑，贝洛索将无法加入您的队伍。|\n因此，他将从博德之门1的战役中消失，并且无法在龙矛围攻的战役中与查名会合，姆金这位女萨满地精也是如此。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Remarque importante :|Parce que le mod change nécessairement le timing et l'histoire, Baeloth ne pourra pas rejoindre votre groupe si vous décidez de vous rendre aux Fosses noires.|Il disparaîtra donc de la campagne BG1 et ne pourra pas rejoindre Charname dans la campagne de Siege of Dragonspear, pas plus que M'Khiin la gobline shaman.|[Voir le readme pour les détails du mod....](https://github.com/UnearthedArcana/BP_in_BG/blob/master/README.French.md)"
+                "Remarque importante :|Parce que le mod change nécessairement le timing et l'histoire, Baeloth ne pourra pas rejoindre votre groupe si vous décidez de vous rendre aux Fosses noires.|Il disparaîtra donc de la campagne BG1 et ne pourra pas rejoindre Charname dans la campagne de Siege of Dragonspear, pas plus que M'Khiin la gobline shaman."
             ]
         }
     },
@@ -4746,23 +4746,15 @@
     },
     {
         "id": 324,
-        "description": "这个模组以前被称为\"SoD GUI Overhaul\"，由Pecca制作，完全重新设计了《龙矛围攻》的游戏界面。它还整合了（经授权）来自官方论坛界面修改版块其他贡献者的界面修改。需要在不使用缩放的情况下，在Full HD屏幕上游玩，否则可能会有意想不到的效果。界面部分为英文。||- [Anongit版本](https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit)，基于Pecca/Renegade的版本，专注于与EET和其他修复的兼容性。",
+        "description": "这个模组以前被称为\"SoD GUI Overhaul\"，由Pecca制作，完全重新设计了《龙矛围攻》的游戏界面。它还整合了（经授权）来自官方论坛界面修改版块其他贡献者的界面修改。需要在不使用缩放的情况下，在Full HD屏幕上游玩，否则可能会有意想不到的效果。界面部分为英文。",
         "description_meta": {
             "status": "done",
-            "source": "Anciennement SoD GUI Overhaul, ce mod réalisé par Pecca réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais.||- La [version d'Anongit](https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit), basée sur celle de Pecca / Renegade, elle se concentre sur la compatibilité avec EET et d'autres corrections."
+            "source": "Anciennement SoD GUI Overhaul, ce mod réalisé par Pecca réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais."
         },
-        "notes": [
-            "请注意：作者 Pecca 已将其模组的维护工作移交给了另一位模组制作者 meowdog。因此，他的 [GitHub](https://github.com/Renegade0/DragonspearUI/releases) 仓库并未更新。",
-            "第一个链接与博德之门(增强版)和EET兼容",
-            "第二个链接与IWDEE兼容"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt [GitHub](https://github.com/Renegade0/DragonspearUI/releases) n'est pas à jour.",
-                "Le premier lien est compatible avec les BG(EE) et EET",
-                "Le second lien est compatible avec IWDEE"
-            ]
+            "source": []
         }
     },
     {
@@ -8874,10 +8866,10 @@
     },
     {
         "id": 607,
-        "description": "积累器（适用于无限引擎游戏）||信息|此组件将学习游戏中所有职业和组件的特殊能力，包括高级能力以及通过模组添加的能力。|能力表在安装时构建，并基于您当前的安装。|可安装到增强版和原版博德之门2上||此组件为以下3个职业安装：|战士、吟游诗人和德鲁伊||模组目录中的\"config.ini\"文件：|- 设置最高等级（level）/在组件表中要控制的列（默认=20）|- 启用或禁用对clab、hla文件或模组的分析|- 启用或禁用战士、吟游诗人或德鲁伊组件的安装|\"level\"参数将接受1到50的值。任何其他数字将默认为20。||[请参阅readme了解此组件的详细信息！](https://github.com/D2-mods/Kit-Mule-kit-for-IE-games-/blob/main/README.French.md)",
+        "description": "积累器（适用于无限引擎游戏）||信息|此组件将学习游戏中所有职业和组件的特殊能力，包括高级能力以及通过模组添加的能力。|能力表在安装时构建，并基于您当前的安装。|可安装到增强版和原版博德之门2上||此组件为以下3个职业安装：|战士、吟游诗人和德鲁伊||模组目录中的\"config.ini\"文件：|- 设置最高等级（level）/在组件表中要控制的列（默认=20）|- 启用或禁用对clab、hla文件或模组的分析|- 启用或禁用战士、吟游诗人或德鲁伊组件的安装|\"level\"参数将接受1到50的值。任何其他数字将默认为20。",
         "description_meta": {
             "status": "done",
-            "source": "L'accumulateur (pour les jeux Infinity Engine)||Information|Ce kit apprendra toutes les capacités spéciales des classes et des kits présentes dans le jeu, y compris les capacités de haut niveau ainsi que celles ajoutées par les mods.|La table des capacités est construit au moment de l'installation et est basé sur votre installation actuelle.|Peut être installer sur les Enhanced Editions et sur BG2 original||Ce kit s'installe pour les 3 classes suivantes :|Guerrier, Barde et Druide||Fichier \"config.ini\" présent dans le répertoire du mod :|- définir le niveau (level) maximum / les colonnes à contrôler dans les tables des kits (default = 20)|- active ou désactive l'analyse des fichiers clab, hla ou des mods|- active ou désactive l'installation des kits de guerrier, barde, ou druide|- Le paramètre \"level\" acceptera des valeurs de 1 à 50. Tout autre nombre sera par défaut égal à 20.||[Voir le readme pour les détails de ce kit particulier !](https://github.com/D2-mods/Kit-Mule-kit-for-IE-games-/blob/main/README.French.md)"
+            "source": "L'accumulateur (pour les jeux Infinity Engine)||Information|Ce kit apprendra toutes les capacités spéciales des classes et des kits présentes dans le jeu, y compris les capacités de haut niveau ainsi que celles ajoutées par les mods.|La table des capacités est construit au moment de l'installation et est basé sur votre installation actuelle.|Peut être installer sur les Enhanced Editions et sur BG2 original||Ce kit s'installe pour les 3 classes suivantes :|Guerrier, Barde et Druide||Fichier \"config.ini\" présent dans le répertoire du mod :|- définir le niveau (level) maximum / les colonnes à contrôler dans les tables des kits (default = 20)|- active ou désactive l'analyse des fichiers clab, hla ou des mods|- active ou désactive l'installation des kits de guerrier, barde, ou druide|- Le paramètre \"level\" acceptera des valeurs de 1 à 50. Tout autre nombre sera par défaut égal à 20."
         },
         "notes": [],
         "notes_meta": {
@@ -10144,10 +10136,10 @@
     },
     {
         "id": 696,
-        "description": "这个模组包含3个职业包：||\n- 狂战士（战士职业包）- 适用于EE和BG2o版本\n- 剑术大师（武僧职业包）- 仅适用于EE版本\n- 尖锐小丑（游荡者职业包）- 适用于EE和BG2o版本||\n\n模组目录中包含\"config.ini\"文件：|\n将某个职业包的值设置为=0即可不安装该包||\n\n[查看readme文件以了解职业包的详细剧透内容！](https://github.com/D2-mods/Misc-kits/blob/main/README.French.md)",
+        "description": "这个模组包含3个职业包：||\n- 狂战士（战士职业包）- 适用于EE和BG2o版本\n- 剑术大师（武僧职业包）- 仅适用于EE版本\n- 尖锐小丑（游荡者职业包）- 适用于EE和BG2o版本||\n\n模组目录中包含\"config.ini\"文件：|\n将某个职业包的值设置为=0即可不安装该包",
         "description_meta": {
             "status": "done",
-            "source": "Mod contenant 3 kits :||- Kensaizerker (Kit de guerrier) - EE et BG2o|- Adepte de l'épée (Kit de moine) - EE uniquement|- Bouffon cinglant (Kit de barde) - EE et BG2o||Fichier \"config.ini\" présent dans le répertoire du mod :|Mettez la valeur d'un kit à = 0 pour ne pas l'installer||[Voir le readme pour le détail des kits en spoiler !](https://github.com/D2-mods/Misc-kits/blob/main/README.French.md)"
+            "source": "Mod contenant 3 kits :||- Kensaizerker (Kit de guerrier) - EE et BG2o|- Adepte de l'épée (Kit de moine) - EE uniquement|- Bouffon cinglant (Kit de barde) - EE et BG2o||Fichier \"config.ini\" présent dans le répertoire du mod :|Mettez la valeur d'un kit à = 0 pour ne pas l'installer"
         },
         "notes": [
             "属于一个更大的组件包：[[1097]]"
@@ -11898,10 +11890,10 @@
     },
     {
         "id": 815,
-        "description": "这个模组基于Qwinn的《异度风景：未完成事务》(PST-UB)模组，版本4.12。经过全面重制，它既兼容PST:EE，也兼容经典的《异度风景》(PST)版本。它恢复了游戏中\"几乎完成但未完全完成\"（因开发者时间不足而遗留）的内容，并对其进行完善和改进，让您可以在游戏中体验这些新内容。请查阅[readme](https://argent77.github.io/PST-UB-reloaded/index-fr.html)以了解其二十多个组件的更多信息。",
+        "description": "这个模组基于Qwinn的《异度风景：未完成事务》(PST-UB)模组，版本4.12。经过全面重制，它既兼容PST:EE，也兼容经典的《异度风景》(PST)版本。它恢复了游戏中\"几乎完成但未完全完成\"（因开发者时间不足而遗留）的内容，并对其进行完善和改进，让您可以在游戏中体验这些新内容。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod reprend le mod de Qwinn PS:T Unfinished Business (PST-UB), version 4.12. Complètement remanié, il est compatible aussi bien avec PST:EE qu'avec la version classique de Planescape: Torment (PST). Il restaure le contenu \"presque-mais-pas-complètement-terminé\" (par manque de temps des développeurs) du jeu, le complète et l'améliore, ce qui vous permet de profiter de ces nouveautés dans vos parties. Consultez le [readme](https://argent77.github.io/PST-UB-reloaded/index-fr.html) pour en apprendre plus sur sa vingtaine de composants."
+            "source": "Ce mod reprend le mod de Qwinn PS:T Unfinished Business (PST-UB), version 4.12. Complètement remanié, il est compatible aussi bien avec PST:EE qu'avec la version classique de Planescape: Torment (PST). Il restaure le contenu \"presque-mais-pas-complètement-terminé\" (par manque de temps des développeurs) du jeu, le complète et l'améliore, ce qui vous permet de profiter de ces nouveautés dans vos parties."
         },
         "notes": [
             "注意：如果您已安装[[800]]，请下载铜冠模组，否则，请使用github链接。"
@@ -16079,10 +16071,10 @@
     },
     {
         "id": 1097,
-        "description": "这是一个包含17个职业套件和11个多职业分支的职业套件包。它还包含30多种物品，其中包括6个猎人徽章、12个卡里尔符文和17种其他各种物品。该套件深受FromSoftware的\"魂\"系列游戏启发，可能还参考了其他来源。||注意：这些职业套件的能力表在安装时创建。每个套件会复制基础职业的能力表（如果存在）。这意味着之前安装的任何职业修改都将包含在该模组的套件中。||这个模组包含许多原创且相当不错的职业套件！||[请阅读readme文件了解套件详情！](https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md)",
+        "description": "这是一个包含17个职业套件和11个多职业分支的职业套件包。它还包含30多种物品，其中包括6个猎人徽章、12个卡里尔符文和17种其他各种物品。该套件深受FromSoftware的\"魂\"系列游戏启发，可能还参考了其他来源。||注意：这些职业套件的能力表在安装时创建。每个套件会复制基础职业的能力表（如果存在）。这意味着之前安装的任何职业修改都将包含在该模组的套件中。||这个模组包含许多原创且相当不错的职业套件！",
         "description_meta": {
             "status": "done",
-            "source": "C'est un pack de Kits qui comporte actuellement 17 kits + 11 déclinaisons pour multi-classes. Il contient également plus de 30 objets, dont 6 insignes de Chasseur, 12 Runes de Caryll et 17 autres objets divers. Fortement inspiré par les jeux Soulsborne de FromSoft et probablement d'autres sources.||NOTE : Les tables de capacités pour ces kits sont créées au moment de l'installation. Chaque kit clone la table de la classe de base (si elle existe). Cela signifie que toute modification de classe installée au préalable sera incluse dans les kits du mod.||Ce mod dispose de plusieurs kits originaux et plutôt sympas !||[Voir le readme pour le détail des kits !](https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md)"
+            "source": "C'est un pack de Kits qui comporte actuellement 17 kits + 11 déclinaisons pour multi-classes. Il contient également plus de 30 objets, dont 6 insignes de Chasseur, 12 Runes de Caryll et 17 autres objets divers. Fortement inspiré par les jeux Soulsborne de FromSoft et probablement d'autres sources.||NOTE : Les tables de capacités pour ces kits sont créées au moment de l'installation. Chaque kit clone la table de la classe de base (si elle existe). Cela signifie que toute modification de classe installée au préalable sera incluse dans les kits du mod.||Ce mod dispose de plusieurs kits originaux et plutôt sympas !"
         },
         "notes": [],
         "notes_meta": {
@@ -17976,14 +17968,10 @@
             "status": "done",
             "source": "Ce mod est absolument indispensable avec n'importe quelle combinaison de mods ajoutant des lieux sur la carte du monde (BGT, [[1601]], [[226]], [[936]]...). Il permet de disposer d'une carte du monde unique, plus grande et plus jolie, et compatible avec tous les mods existants pour Baldur's Gate II ou ceux spécifiques à BGT ou BG1Tutu (s'insérant dans la trame de Baldur's Gate).|Il doit être installé au minimum après tous les mods susceptibles d'ajouter des emplacements dans la carte du monde. Attention à éviter de désinstaller ou réinstaller ce mod, cela pourrait tout simplement détruire votre partie.|Il vous est fortement conseillé de choisir l'option `Temps de voyages originaux` et la petite carte (si on vous pose la question). Les temps de voyages \"revus\" comportent des bugs non résolus, et la grande carte est plus lourde à charger sans présenter d'avantages (mais si vous installez un mod qui requiert la grande carte, cette dernière sera installée d'office sans qu'on vous pose la question)."
         },
-        "notes": [
-            "请不要忘记在[SHS](https://www.shsforums.net/files/file/917-bp-bgt-worldmap-french-add-on/)或[GitHub](https://github.com/SpellholdStudios/BP-BGT-Worldmap_French_addon/releases)上下载法文地图包档案。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "N'oubliez-pas de télécharger l'archive des fonds de carte en français sur [SHS](https://www.shsforums.net/files/file/917-bp-bgt-worldmap-french-add-on/) ou [GitHub](https://github.com/SpellholdStudios/BP-BGT-Worldmap_French_addon/releases)."
-            ]
+            "source": []
         }
     },
     {
@@ -18891,13 +18879,11 @@
             "source": "Ce mod ajoute de nouvelles interactions entre de nombreux PNJ, notamment avec ceux ajoutés par des mods (comme [[953]], [[1178]], [[1238]], [[910]], [[1133]], [[496]], [[605]] et bien d'autres)."
         },
         "notes": [
-            "请下载GitHub上更新的版本。",
             "此模组包含在[[269]]中。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Téléchargez la version GitHub qui est plus récente.",
                 "Ce mod est inclus dans [[269]]."
             ]
         }
@@ -22348,7 +22334,7 @@
             "第二个链接指向IWD1版本，第三个指向IWD2版本，第四个指向需要最后安装的版本。",
             "请注意mod的安装顺序：阅读readme文件。",
             "注意：某些模组似乎已默认添加到IWD1的安装中。",
-            "一些模组对此进行了补充：[SubtleDoctor's IWD EET Integration](https://github.com/subtledoctor/IWD_EET_Integration) 和 [IWD-IN-EET-ICONS](https://github.com/thisisulb/IWD-IN-EET-ICONS)。"
+            "一些模组对此进行了补充：[[1873]] 和 [IWD-IN-EET-ICONS](https://github.com/thisisulb/IWD-IN-EET-ICONS)。"
         ],
         "notes_meta": {
             "status": "done",
@@ -22357,7 +22343,7 @@
                 "Le second lien renvoie vers la version IWD1, le troisième vers la version IWD2, le quatrième vers la version à installer à la fin.",
                 "Attention à l'ordre d'installation du mod : lire le readme.",
                 "Attention : certains mods semblent avoir été ajoutés par défaut dans l'installation de IWD1.",
-                "Certains mods complètent celui-ci : [SubtleDoctor's IWD EET Integration](https://github.com/subtledoctor/IWD_EET_Integration) et [IWD-IN-EET-ICONS](https://github.com/thisisulb/IWD-IN-EET-ICONS)."
+                "Certains mods complètent celui-ci : [[1873]] et [IWD-IN-EET-ICONS](https://github.com/thisisulb/IWD-IN-EET-ICONS)."
             ]
         }
     },
@@ -27101,6 +27087,65 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1870,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Il s'agit d'un patch non officiel pour la version allemande de Baldurs Gate. Il corrige de nombreuses erreurs de traduction et améliore les menus et les descriptions des objets et des sorts. Le patch est basé sur la version officielle 1.3.5512 et peut également être utilisé avec d'autres versions du jeu ainsi qu'avec des modifications installées."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Il doit être installé avant BGT ou Tutu."
+            ]
+        }
+    },
+    {
+        "id": 1871,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute des interjections et des commentaires de zone à chaque compagnon de base dans BG1 et BG2 (y compris les PNJ Beamdog) à la campagne IWD grâce au mod [[1528]]. Cela devrait rendre la campagne IWD beaucoup plus vivante pour ceux qui y jouent dans le cadre de leurs parties EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1872,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Il s'agit d'un patch non officiel pour la version allemande de Baldurs Gate II. Il corrige de nombreuses erreurs de traduction et améliore les menus et les descriptions des objets et des sorts. Le patch est basé sur la dernière version originale du jeu et peut être utilisé sur toutes les versions précédentes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1873,
+        "team": [
+            "Lewis Liu"
+        ],
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod est conçu pour fonctionner avec les mods [[1528]] de tipun. Il permet de joueur au mod de façon plus libre en laissant le choix d'influencer la difficulté ou le gain d'expérience lors des nouvelles campagnes et ainsi pouvoir la commencer plus tôt dans le jeu."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Attention, l'ordre d'installation des mods est particulièrement important."
+            ]
         }
     }
 ]
