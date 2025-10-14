@@ -7261,6 +7261,9 @@
     },
     {
         "id": 496,
+        "team": [
+            "eva2000as"
+        ],
         "description": "这个模组添加了一个中立善良的骷髅作为队伍中的NPC成员。你可以在烛堡的地下墓穴中找到他。他拥有一个特定的状态套件，高级种族能力(HLA)，以及部分来自冰风谷2的法术，还有一个特定的AI，如果你选择激活它的话。|力量17, 敏捷13, 体质18, 智力13, 感知16, 魅力9。",
         "description_meta": {
             "status": "done",
@@ -8910,14 +8913,10 @@
             "status": "done",
             "source": "Kitanya est une tueuse de magiciens elfe sympathique et de compagnie fort agréable, chaotique bonne avec de nombreuses interactions et une romance. Elle pourra même avoir des dialogues particulièrement amusants avec Edwin. Vous la trouverez dans les environs des Collines d'Umar. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier.|FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19."
         },
-        "notes": [
-            "第二个GitHub链接提供了一个兼容EE版本的版本，仅提供英文版。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Le second lien github propose une version compatible avec les versions EE, disponible qu'en anglais."
-            ]
+            "source": []
         }
     },
     {
@@ -15097,14 +15096,10 @@
             "status": "done",
             "source": "Ce mod ajoute un nouveau PNJ, une jeune elfe ensorceleuse neutre bonne issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue.|FOR 11, DEX 19, CON 15, INT 15, SAG 14, CHA 12."
         },
-        "notes": [
-            "法语翻译更新已在Plutonium的最后一个链接上提供。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "La mise à jour de la traduction française est disponible sur le dernier lien de Plutonium."
-            ]
+            "source": []
         }
     },
     {
@@ -15957,7 +15952,7 @@
     {
         "id": 1089,
         "team": [
-            "eva000as"
+            "eva2000as"
         ],
         "description": "如果你是莉拉科尔（Lilarcor）的粉丝，那么这个最古怪无比的模组就是为你准备的。它添加了一把威力无穷、完全无用、像喜鹊一样喋喋不休的剑，而且它的幽默感...呃...那就是尼伯风格（Neeber）。",
         "description_meta": {
@@ -17738,14 +17733,10 @@
             "status": "done",
             "source": "Ce petit mod tente d'apporter un peu moins de linéarité et des opportunités rôlistes différentes dans ToB, et notamment le chapitre 9. Plus besoin d'attendre d'en avoir décousu avec Sendaï et Abazigal pour pouvoir entrer dans le monastère de Balthazar. Les dialogues de ces 3 protagonistes s'adapteront alors en conséquence à vos choix de jeu. Des dialogues supplémentaires avec Amélissane et Elminster ont été ajoutés, et ceux avec Carras, Saemon, Faheed, Zahee, et Le Solaire modifiés. Bien que le mod ne soit pas présenté comme un challenge tactique, il ajoute quelques rencontres supplémentaires pendant vos négociations avec les membres de la Main. Enfin, il inclut le mini-mod [[879]] (restaure une conversation avec les visages de pierre dans la forêt du Nord), et de manière plus générale ajoute de petites modifications pour implémenter du contenu qui ne l'est pas dans le jeu original (notamment avec les contrebandiers d'Amkethran)."
         },
-        "notes": [
-            "最后一个链接提供了一个修复方案。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Le dernier lien propose un fix."
-            ]
+            "source": []
         }
     },
     {
@@ -18089,14 +18080,10 @@
             "status": "done",
             "source": "Ce mod ajoute une PNJ drow qui a des banters, des voix et des objets spécialement conçus pour elle. C'est une guerrière pure, chaotique bonne, qui possède deux épées personnelles ainsi qu'une amulette. Vous la rencontrez à la fin du donjon d'Irenicus (notez que si vous lui demandez de partir, vous ne la retrouverez plus jamais). Elle s'implante bien dans votre groupe, si ce dernier défend des objectifs louables (personnages Bons ou Neutres) et une voix particulière lui est allouée.|Notez qu'elle dispose d'une attaque supplémentaire par round ; ce qui est pour le moins abusé...|FOR 18/97, DEX 18, CON 12, INT 13, SAG 12, CHA 16."
         },
-        "notes": [
-            "第一个链接包含原始版本，GitHub链接包含与EET兼容的版本。请注意，这是一个非官方版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Le premier lien contient la version originale et le lien github la version compatible avec EET. Attention, il s'agit d'une version non officielle."
-            ]
+            "source": []
         }
     },
     {
@@ -22337,13 +22324,13 @@
             "一些模组对此进行了补充：[[1873]] 和 [IWD-IN-EET-ICONS](https://github.com/thisisulb/IWD-IN-EET-ICONS)。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
                 "[[372]] est requis.",
                 "Le second lien renvoie vers la version IWD1, le troisième vers la version IWD2, le quatrième vers la version à installer à la fin.",
                 "Attention à l'ordre d'installation du mod : lire le readme.",
                 "Attention : certains mods semblent avoir été ajoutés par défaut dans l'installation de IWD1.",
-                "Certains mods complètent celui-ci : [[1873]] et [IWD-IN-EET-ICONS](https://github.com/thisisulb/IWD-IN-EET-ICONS)."
+                "[[1873]] complète ce mod."
             ]
         }
     },
@@ -27138,7 +27125,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod est conçu pour fonctionner avec les mods [[1528]] de tipun. Il permet de joueur au mod de façon plus libre en laissant le choix d'influencer la difficulté ou le gain d'expérience lors des nouvelles campagnes et ainsi pouvoir la commencer plus tôt dans le jeu."
+            "source": "Ce mod est conçu pour fonctionner avec les mods [[1528]] de tipun. Il permet de jouer au mod de façon plus libre en laissant le choix d'influencer la difficulté ou le gain d'expérience lors des nouvelles campagnes et ainsi pouvoir la commencer plus tôt dans le jeu."
         },
         "notes": [],
         "notes_meta": {

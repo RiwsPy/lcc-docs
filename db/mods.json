@@ -2925,8 +2925,7 @@
         "description": "Si vous avez toujours rêvé d'acheter des bottes roses à Imoen, de connaître les derniers potins auprès des marchands d'Athkatla, d'en apprendre davantage sur la vie quotidienne dans cette ville, ce module est fait pour vous. Aurora's Shoes and Boots ajoute plus de 2 douzaines de paires de bottes, aussi utiles que stylées. Ajoutez à cela la présence d'Aurora, guerrière à la retraite de son état, qui piquera votre curiosité avec les derniers potins des nobles et autres gens du commun. Vous ferez également la connaissance de Tomthal, un gnome atteint d'un mystérieux mal, et de Karaea, sa sœur bien-aimée, tous deux vendeurs également. Plusieurs objets sont également disséminés à travers le jeu de façon aléatoire.",
         "urls": [
             "https://www.shsforums.net/files/file/831-auroras-shoes-and-boots/",
-            "https://github.com/Sampsca/Auroras-Shoes-and-Boots",
-            "https://github.com/Endarire/Aurora-s-Shoes-and-Boots-for-BG2"
+            "https://github.com/Sampsca/Auroras-Shoes-and-Boots"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -15808,10 +15807,11 @@
             "en",
             "fr",
             "it",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-10",
         "tp2": "Horace"
     },
     {
@@ -19414,8 +19414,7 @@
         "description": "Kitanya est une tueuse de magiciens elfe sympathique et de compagnie fort agréable, chaotique bonne avec de nombreuses interactions et une romance. Elle pourra même avoir des dialogues particulièrement amusants avec Edwin. Vous la trouverez dans les environs des Collines d'Umar. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier.|FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19.",
         "urls": [
             "https://www.shsforums.net/topic/57821-kitanya-npc-v641-a-mod-from-rastor/",
-            "https://github.com/GwendolyneFreddy/Kitanya_NPC",
-            "https://github.com/PaulaMigrate/Kitanya-Resurrected/"
+            "https://github.com/GwendolyneFreddy/Kitanya_NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -19427,13 +19426,10 @@
             "EET"
         ],
         "authors": [
-            "Rastor",
-            "Paula Migrate"
+            "Rastor"
         ],
         "team": [],
-        "notes": [
-            "Le second lien github propose une version compatible avec les versions EE, disponible qu'en anglais."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -19441,7 +19437,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2020-10",
+        "last_update": "2020-04",
         "tp2": "kitanya"
     },
     {
@@ -22602,8 +22598,7 @@
         "description": "À l'origine, la vocation de ce mod était d'améliorer l'apparence des magiciens en les équipant de bâtons capables de lancer des projectiles magiques, de bandeaux, et en modifiant leurs robes. Puis, l'auteur s'est attaqué aux familiers en les personnalisant. Depuis, il ajoute régulièrement des modifications (bâtons de magiciens, contenants...).",
         "urls": [
             "https://forums.beamdog.com/discussion/18108/",
-            "https://github.com/Renegade0/msfm",
-            "https://github.com/Endarire/More-Style-for-Mages-MSFM-"
+            "https://github.com/Renegade0/msfm"
         ],
         "categories": [
             "Sort et objet"
@@ -22611,7 +22606,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "EET",
             "IWDEE"
         ],
         "authors": [
@@ -32898,8 +32892,7 @@
         "description": "Ce mod ajoute un nouveau PNJ, une jeune elfe ensorceleuse neutre bonne issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue.|FOR 11, DEX 19, CON 15, INT 15, SAG 14, CHA 12.",
         "urls": [
             "https://www.shsforums.net/files/file/33-tashia/",
-            "https://github.com/Spellhold-Studios/Tashia-NPC/",
-            "https://github.com/Plutonium-X/NPC_Tashia"
+            "https://github.com/Spellhold-Studios/Tashia-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -32916,20 +32909,15 @@
             "Lord Ernie"
         ],
         "team": [],
-        "notes": [
-            "La mise à jour de la traduction française est disponible sur le dernier lien de Plutonium."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
             "en",
-            "ru",
-            "fr",
-            "it",
-            "es"
+            "ru"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-05",
         "tp2": "Tashia"
     },
     {
@@ -35735,8 +35723,7 @@
         "description": "Le concepteur d'origine a poursuivi le développement du mod dans une version stand-alone, avec moults remaniements de textes. Cependant, bien que compatible avec [[153]] 1.75 (obligatoire) et avec les autres mods de Vlad que sont Keldorn's Romance (fortement recommandé) et [[746]]3 (obligatoire), elle est incompatible avec la plupart des mods WeiDU y compris le [[117]] !",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394",
-            "https://github.com/Black-Wyrm-Lair/TorturedSoulsLite",
-            "https://github.com/RealApxu/TorturedSoulsLite"
+            "https://github.com/Black-Wyrm-Lair/TorturedSoulsLite"
         ],
         "categories": [
             "Quête",
@@ -38707,8 +38694,7 @@
         "description": "Ce petit mod tente d'apporter un peu moins de linéarité et des opportunités rôlistes différentes dans ToB, et notamment le chapitre 9. Plus besoin d'attendre d'en avoir décousu avec Sendaï et Abazigal pour pouvoir entrer dans le monastère de Balthazar. Les dialogues de ces 3 protagonistes s'adapteront alors en conséquence à vos choix de jeu. Des dialogues supplémentaires avec Amélissane et Elminster ont été ajoutés, et ceux avec Carras, Saemon, Faheed, Zahee, et Le Solaire modifiés. Bien que le mod ne soit pas présenté comme un challenge tactique, il ajoute quelques rencontres supplémentaires pendant vos négociations avec les membres de la Main. Enfin, il inclut le mini-mod [[879]] (restaure une conversation avec les visages de pierre dans la forêt du Nord), et de manière plus générale ajoute de petites modifications pour implémenter du contenu qui ne l'est pas dans le jeu original (notamment avec les contrebandiers d'Amkethran).",
         "urls": [
             "https://www.gibberlings3.net/mods/quests/wheels",
-            "https://github.com/Gibberlings3/WheelsOfProphecy",
-            "https://github.com/abalabokhin/WheelsOfProphecy"
+            "https://github.com/Gibberlings3/WheelsOfProphecy"
         ],
         "categories": [
             "Quête"
@@ -38723,9 +38709,7 @@
             "DavidW"
         ],
         "team": [],
-        "notes": [
-            "Le dernier lien propose un fix."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -39521,8 +39505,7 @@
         "name": "Yasraena",
         "description": "Ce mod ajoute une PNJ drow qui a des banters, des voix et des objets spécialement conçus pour elle. C'est une guerrière pure, chaotique bonne, qui possède deux épées personnelles ainsi qu'une amulette. Vous la rencontrez à la fin du donjon d'Irenicus (notez que si vous lui demandez de partir, vous ne la retrouverez plus jamais). Elle s'implante bien dans votre groupe, si ce dernier défend des objectifs louables (personnages Bons ou Neutres) et une voix particulière lui est allouée.|Notez qu'elle dispose d'une attaque supplémentaire par round ; ce qui est pour le moins abusé...|FOR 18/97, DEX 18, CON 12, INT 13, SAG 12, CHA 16.",
         "urls": [
-            "https://america.iegmc.com/yasraena/Yasraena_v16.zip",
-            "https://github.com/RoxanneSHS/YasraenaEET"
+            "https://america.iegmc.com/yasraena/Yasraena_v16.zip"
         ],
         "categories": [
             "PNJ recrutable"
@@ -39530,16 +39513,14 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE",
-            "EET"
+            "BG2EE"
         ],
         "authors": [
-            "Sillara"
+            "Sillara",
+            "Nethrin"
         ],
         "team": [],
-        "notes": [
-            "Le premier lien contient la version originale et le lien github la version compatible avec EET. Attention, il s'agit d'une version non officielle."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -39551,8 +39532,8 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-05",
-        "tp2": "Yasraena;YasraenaEET"
+        "last_update": "2016-04",
+        "tp2": "Yasraena"
     },
     {
         "id": 1239,
@@ -45904,8 +45885,7 @@
         "description": "Diablofication est une modification de l'Infinity Engine qui vise à implémenter certains des mécanismes connus et amusants des jeux Diablo dans Baldur's Gate Enhanced Edition. L'objectif n'étant pas de bouleverser le jeu mais de le rendre plus attrayant. Lisez bien le README.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/35393-diablofication/",
-            "https://github.com/m-architek/Diablofication",
-            "https://github.com/the-overdriven/BG-Diablofication"
+            "https://github.com/m-architek/Diablofication"
         ],
         "categories": [
             "Gameplay"
@@ -48502,7 +48482,7 @@
             "Le second lien renvoie vers la version IWD1, le troisième vers la version IWD2, le quatrième vers la version à installer à la fin.",
             "Attention à l'ordre d'installation du mod : lire le readme.",
             "Attention : certains mods semblent avoir été ajoutés par défaut dans l'installation de IWD1.",
-            "Certains mods complètent celui-ci : [[1873]] et [IWD-IN-EET-ICONS](https://github.com/thisisulb/IWD-IN-EET-ICONS)."
+            "[[1873]] complète ce mod."
         ],
         "translation_state": "auto",
         "safe": 2,

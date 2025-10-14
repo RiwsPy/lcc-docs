@@ -8839,14 +8839,10 @@
             "status": "needs_review",
             "source": "Kitanya est une tueuse de magiciens elfe sympathique et de compagnie fort agréable, chaotique bonne avec de nombreuses interactions et une romance. Elle pourra même avoir des dialogues particulièrement amusants avec Edwin. Vous la trouverez dans les environs des Collines d'Umar. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier.|FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19."
         },
-        "notes": [
-            "The second github link features an EE-compatible version, available in English only."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Le second lien github propose une version compatible avec les versions EE, disponible qu'en anglais."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -14999,14 +14995,10 @@
             "status": "needs_review",
             "source": "Ce mod ajoute un nouveau PNJ, une jeune elfe ensorceleuse neutre bonne issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue.|FOR 11, DEX 19, CON 15, INT 15, SAG 14, CHA 12."
         },
-        "notes": [
-            "The updated French translation is available on Plutonium's latest link."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "La mise à jour de la traduction française est disponible sur le dernier lien de Plutonium."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -17611,10 +17603,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Le dernier lien propose un fix."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -17958,14 +17948,10 @@
             "status": "needs_review",
             "source": "Ce mod ajoute une PNJ drow qui a des banters, des voix et des objets spécialement conçus pour elle. C'est une guerrière pure, chaotique bonne, qui possède deux épées personnelles ainsi qu'une amulette. Vous la rencontrez à la fin du donjon d'Irenicus (notez que si vous lui demandez de partir, vous ne la retrouverez plus jamais). Elle s'implante bien dans votre groupe, si ce dernier défend des objectifs louables (personnages Bons ou Neutres) et une voix particulière lui est allouée.|Notez qu'elle dispose d'une attaque supplémentaire par round ; ce qui est pour le moins abusé...|FOR 18/97, DEX 18, CON 12, INT 13, SAG 12, CHA 16."
         },
-        "notes": [
-            "The first link contains the original version, and the github link the EET-compatible version. Warning, it's not an official version."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Le premier lien contient la version originale et le lien github la version compatible avec EET. Attention, il s'agit d'une version non officielle."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -22156,7 +22142,7 @@
                 "Le second lien renvoie vers la version IWD1, le troisième vers la version IWD2, le quatrième vers la version à installer à la fin.",
                 "Attention à l'ordre d'installation du mod : lire le readme.",
                 "Attention : certains mods semblent avoir été ajoutés par défaut dans l'installation de IWD1.",
-                "Certains mods complètent celui-ci : [[1873]] et [IWD-IN-EET-ICONS](https://github.com/thisisulb/IWD-IN-EET-ICONS)."
+                "[[1873]] complète ce mod."
             ]
         }
     },
