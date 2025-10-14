@@ -2997,6 +2997,9 @@
     },
     {
         "id": 204,
+        "team": [
+            "Esceen"
+        ],
         "description": "如果您不喜欢这个模组普通版本的法术列表显示方式，那么这个版本可能会让您满意。它模拟了默认的法术选择位置，并将它们组织起来，使得所有法术可以同时显示。",
         "description_meta": {
             "status": "done",
@@ -6302,6 +6305,9 @@
     },
     {
         "id": 431,
+        "team": [
+            "Esceen"
+        ],
         "description": "此模组旨在让Garrick这个角色更具可玩性，通过添加新的对话、新的情境和遭遇，以及Bérégost吟游诗人专属的额外歌曲来实现。它依赖于[[25]]引入的内容并对其进行补充。在安装此模组之前，必须先安装[[25]]。",
         "description_meta": {
             "status": "done",
@@ -10531,6 +10537,9 @@
     },
     {
         "id": 722,
+        "team": [
+            "Esceen"
+        ],
         "description": "您一直想扮演一个反圣骑士/死灵法师/刺客吗？一个剑圣/变形者/赏金猎人吗？一个狂战士/风暴之神塔洛斯的牧师？或者甚至是一个野蛮人/熵法师/冒险家？嗯，现在这是可能的，您可以扮演一个拥有多个职业包的多职业角色。|\n\n继承自FlameWing的Multikit模组（SHS链接），此模组会在安装过程中根据您选择的职业包创建任意数量的多职业包。进入游戏后，激活队伍AI并按\"K\"键将多职业包应用到您的角色上。|\n\n此模组必须在所有添加新角色配置文件或修改其能力的模组之后安装。这样可以确保您安装的所有配置文件都可以用于创建多职业包，并确保它们的能力能够正确匹配。|\n\n最棒的是，安装过程中创建的multikits.tp2文件可以被模组制作者用于在其模组中添加多职业包。|",
         "description_meta": {
             "status": "done",
@@ -14384,6 +14393,10 @@
     },
     {
         "id": 983,
+        "team": [
+            "long-168",
+            "MephistoSatanDevil"
+        ],
         "description": "此模组对[[982]]进行了修正或修改。您可以在[此处](https://www.gibberlings3.net/forums/topic/29618-sr-revised-v13700-2021-october-26th/)找到其列表。",
         "description_meta": {
             "status": "done",
@@ -15505,6 +15518,9 @@
     },
     {
         "id": 1059,
+        "team": [
+            "Lewis Liu"
+        ],
         "description": "这个模组是一个雄心勃勃项目的雏形，旨在回答以下问题：为什么没有人控制半兽人堡垒？为什么只有主角职业相关的特定任务是由纳伦·暗影给予的？为什么梅利坎普的任务没有更深入地发展？|答案是开发每个职业的特定任务。目前，只有法师的任务已完成，因此对所有玩家开放，等待模组内容进一步丰富。|另外两个组件允许和平解决狼人岛上的冲突，并安装\"异物品包\"组件（曾经是[[1011]]的一部分）。",
         "description_meta": {
             "status": "done",
@@ -15772,6 +15788,9 @@
     },
     {
         "id": 1077,
+        "team": [
+            "Lewis Liu"
+        ],
         "description": "在安姆城（Athkatla）的下水道中，你遇到一只被4个蘑菇人（myconides）攻击的牛头人，以及3具躺在地上的尸体，没有任何解释。这个迷你模组旨在讲述这个故事。",
         "description_meta": {
             "status": "done",
@@ -16826,14 +16845,10 @@
             "status": "done",
             "source": "Ce mod organise des combats d'arène contre de puissantes créatures extra planaires. Le but est simple : vaincre ou mourir ! Le combat contre le grand maître est le seul qui peut vous rapporter des objets.|Quelques puissants objets sont également en vente."
         },
-        "notes": [
-            "官方版本可通过前两个链接获取。最后一个非官方链接兼容EE版，并包含法语翻译。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "La version officielle est disponible via les deux premiers liens. Le dernier lien, non officiel, est compatible EE et possède une traduction française."
-            ]
+            "source": []
         }
     },
     {
@@ -18106,14 +18121,10 @@
             "status": "done",
             "source": "Ce mod ajoute un nouveau PNJ, un moine loyal neutre qui vient de Kara-Tur. Il possède sa propre quête ainsi que des interactions avec chaque personnage. Il a fait vœu de silence jusqu'à ce qu'il réussisse sa mission, donc votre première rencontre se déroulera sous forme d'un jeu de charades intéressant. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe.|FOR 16, DEX 18, CON 14, INT 8, SAG 18, CHA 4."
         },
-        "notes": [
-            "请选择GitHub链接获取EE版本，选择其他链接获取原始版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Choisissez le lien github pour la version EE et l'autre lien pour les versions originelles."
-            ]
+            "source": []
         }
     },
     {

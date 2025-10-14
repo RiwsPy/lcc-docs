@@ -6559,7 +6559,8 @@
             "pt",
             "fr",
             "de",
-            "es"
+            "es",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-10",
@@ -29002,7 +29003,7 @@
         ],
         "authors": [
             "Sillara",
-            "Netherin",
+            "Nethrin",
             "Paula Migrate"
         ],
         "team": [],
@@ -36731,12 +36732,11 @@
     },
     {
         "id": 1150,
-        "name": "Umbra of T.R.O.W.",
+        "name": "Umbra of Torto",
         "description": "Ce mod organise des combats d'arène contre de puissantes créatures extra planaires. Le but est simple : vaincre ou mourir ! Le combat contre le grand maître est le seul qui peut vous rapporter des objets.|Quelques puissants objets sont également en vente.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=13329",
-            "https://github.com/trow/Umbra-of-Torto",
-            "https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W"
+            "https://github.com/trow/Umbra-of-Torto"
         ],
         "categories": [
             "Quête"
@@ -36752,18 +36752,15 @@
             "lijing_hi"
         ],
         "team": [],
-        "notes": [
-            "La version officielle est disponible via les deux premiers liens. Le dernier lien, non officiel, est compatible EE et possède une traduction française."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
             "cn",
-            "fr",
             "en"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-10",
         "tp2": "UoT"
     },
     {
@@ -39576,25 +39573,20 @@
         "description": "Ce mod ajoute un nouveau PNJ, un moine loyal neutre qui vient de Kara-Tur. Il possède sa propre quête ainsi que des interactions avec chaque personnage. Il a fait vœu de silence jusqu'à ce qu'il réussisse sa mission, donc votre première rencontre se déroulera sous forme d'un jeu de charades intéressant. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe.|FOR 16, DEX 18, CON 14, INT 8, SAG 18, CHA 4.",
         "urls": [
             "https://www.shsforums.net/files/file/34-yikari-v-17/",
-            "https://github.com/Spellhold-Studios/Yikari-NPC/",
-            "https://github.com/Plutonium-X/1D_NPC_Yikari"
+            "https://github.com/Spellhold-Studios/Yikari-NPC/"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Shed"
         ],
         "team": [],
-        "notes": [
-            "Choisissez le lien github pour la version EE et l'autre lien pour les versions originelles."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -42003,7 +41995,8 @@
             "EET"
         ],
         "authors": [
-            "morpheus562"
+            "morpheus562",
+            "Acifer"
         ],
         "team": [],
         "notes": [
