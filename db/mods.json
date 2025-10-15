@@ -23800,7 +23800,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2016-01",
-        "tp2": "bg_travel"
+        "tp2": "BG_Travel"
     },
     {
         "id": 750,
@@ -28557,23 +28557,19 @@
         "name": "Rose NPC",
         "description": "Ce petit mod ajoute une nouvelle PNJ recrutable, Rose, une demi-elfe barde qui gagne sa vie en tant que pickpocket et en chantant dans les tavernes. Vous la rencontrerez dans l'auberge du Magicien ardent à Bérégost, en la \"sauvant\" d'un homme qui l'accuse de vol. Elle vous suivra en Amn. Malheureusement ce mod est resté au stade bêta et ne dispose plus de contenu après Nashkel.|FOR 13, DEX 18, CON 16, INT 15, SAG 9, CHA 18.",
         "urls": [
-            "https://www.shsforums.net/topic/41550-rose-npc-mod-for-bgt/page-2#entry518995",
-            "https://github.com/RoxanneSHS/RoseRE/"
+            "https://www.shsforums.net/topic/41550-rose-npc-mod-for-bgt/page-2#entry518995"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
-            "BGT",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "kthxbye"
         ],
         "team": [],
-        "notes": [
-            "Choisissez le lien github pour la version EET. Attention, il s'agit d'une version non officielle."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -28582,7 +28578,7 @@
         ],
         "status": "active",
         "last_update": "2011-07",
-        "tp2": "rose;rosere"
+        "tp2": "rose"
     },
     {
         "id": 898,
@@ -29041,9 +29037,7 @@
             "Roxanne"
         ],
         "team": [],
-        "notes": [
-            "Bref, rien de nouveau sous le soleil : l'auteure n'a pas pu s'empêcher de modifier le contenu du jeu à sa convenance. Installez ce mod à vos risques et périls, et ne venez pas vous plaindre !"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -34619,18 +34613,14 @@
         "name": "Secret of Bone Hill",
         "description": "Qu'est-ce que Secret of Bone Hill ? Hé bien c'est un gros mod de quête pour BG1 (BGT requis) qui adapte deux scénarios de jeu de rôle papier : L1 et L2 dans l'univers Greyhawk. Au programme : des dizaines de nouvelles cartes, des magasins, des quêtes et un personnage recrutable (Fabio).|L'histoire en elle-même se passe sur l'île de Lendore, à proximité de la ville de Restenford. Pelltar, un mage que vous rencontrez dans le temple de Lathandre au chapitre 4 (dès que vous avez fini les mines de Nashkel et que vous pouvez vous rendre au camp des bandits), sera à même de vous y téléporter et de vous en sortir, une fois votre aide apportée au village.|La 1ère partie est pré-requise pour débloquer la 2nde que vous pourrez atteindre après votre sortie des catacombes de Château-Suif. Vous rencontrerez là Fabio (un barde humain) ou Pelltar qui vous demanderont de retourner à Restenford avec eux, pour élucider cette fois-ci un mystérieux meurtre...",
         "urls": [
-            "https://www.shsforums.net/files/file/1076-the-secret-of-bonehill/",
-            "https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507",
-            "https://github.com/RoxanneSHS/BoneHill"
+            "https://www.shsforums.net/files/file/1076-the-secret-of-bonehill/"
         ],
         "categories": [
             "Quête"
         ],
         "games": [
             "Tutu",
-            "BGT",
-            "BGEE",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Sir BillyBob",
@@ -34639,8 +34629,7 @@
         "team": [],
         "notes": [
             "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion. Le mod [[1229]] est indispensable.",
-            "Le lien athkatla propose un fix pour les versions non EE.",
-            "Choisissez le lien github pour la version BG2EE/EET."
+            "Le lien [athkatla](https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507) propose un fix."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -34650,12 +34639,11 @@
             "fr",
             "it",
             "ru",
-            "cn",
             "es"
         ],
         "status": "active",
-        "last_update": "2024-12",
-        "tp2": "BoneHill;BonehillEET"
+        "last_update": "2013-08",
+        "tp2": "BoneHill"
     },
     {
         "id": 1085,
@@ -35011,8 +34999,7 @@
         "name": "Vault",
         "description": "À l'origine, ce mod était surtout centré sur des nouveaux objets répartis un peu partout dans le jeu (monstres, magasins). Avec le temps il s'est agrémenté de plusieurs quêtes accessibles à des groupes de différents niveaux, afin d'accommoder les objets du mod à l'univers BG. Les quêtes restent ardues, tant dans leur résolution que dans les combats qui les peuplent. L'auteur annonce environ deux heures de jeu pour les quatre quêtes, mais vous passerez peut-être plus de temps à vous triturer les méninges pour les résoudre.|`Retour à Nashkel` commence lorsque le duc Eltan téléporte le groupe à Château Suif. Elle vous conduit à retourner dans les mines de Nashkel investies de pièges, d'araignées et d'elfes noirs.|`Le Vestibule` : rendez-vous dans le petit bâtiment attenant au temple de Lathandre et parlez (plusieurs fois) aux prêtres qui s'y trouvent. La quête est constituée de deux combats particulièrement ardus (niveau 8-9 minimum), il faut renvoyer dans les abysses le démon Lestraubimat qui n'apparaîtra que si c'est la première fois que vous pénétrez sur un certain lieu (vous pouvez toutefois visiter la carte sous réserve de ne pas explorer la zone où le démon doit apparaître).|`Les Ogres de Gullykin, le village halfelin` : une invasion et de gros combats...|`Le Caveau`, ou quête cachée : lisez attentivement les descriptifs des objets trouvés, et rassemblez l'idole de Kozah et l'armure du chevalier maudit du labyrinthe avant de les présenter au fantôme d'Ulcaster, qui vous donne l'épée de la Revanche du vampire en échange. Recherchez une personne qui pourrait vous aider à vous narrer l'histoire de cette épée.|Combiné à [[1011]], ce mod peut rapidement relever de l'impossible, notamment lors de la quête `Retour à Nashkel` dans laquelle vous combattrez des hordes d'araignées.|Le lien concerne la version BGT et BG:EE. La [version BG1-Tutu](http://www.angelfire.com/rpg2/azenmod/#Vault) ne possède pas de traduction française.",
         "urls": [
-            "https://www.shsforums.net/topic/55129-the-vault-for-bgt-v72-released/",
-            "https://github.com/RoxanneSHS/VaultEE"
+            "https://www.shsforums.net/topic/55129-the-vault-for-bgt-v72-released/"
         ],
         "categories": [
             "Quête"
@@ -35020,10 +35007,7 @@
         "games": [
             "BG",
             "Tutu",
-            "BGT",
-            "BGEE",
-            "SoD",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Josh Clue",
@@ -35039,13 +35023,11 @@
             "fr",
             "it",
             "pl",
-            "ru",
-            "cn",
-            "es"
+            "ru"
         ],
         "status": "active",
-        "last_update": "2024-06",
-        "tp2": "Vaulteet"
+        "last_update": "2012-08",
+        "tp2": "Vault"
     },
     {
         "id": 1096,
@@ -43563,7 +43545,7 @@
         ],
         "team": [],
         "notes": [
-            "Portraits de personnages par Sitigatu. Voix de Sailor Cat.",
+            "Portraits de personnages par [Sitigatu](https://xfolio.jp/portfolio/Sitigatu0974). Voix de Sailor Cat.",
             "Compatibilité avec EET non testée."
         ],
         "translation_state": "auto",
@@ -58642,5 +58624,108 @@
         "status": "active",
         "last_update": "2024-08",
         "tp2": "TDD_Hall-of-Knowledge"
+    },
+    {
+        "id": 1877,
+        "name": "Rose NPC EET",
+        "description": "Portage du mod [[897]] sur EET.",
+        "urls": [
+            "https://github.com/RoxanneSHS/RoseRE/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "kthxbye"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2020-08",
+        "tp2": "rosere"
+    },
+    {
+        "id": 1878,
+        "name": "Secret of Bone Hill EET",
+        "description": "Portage du mod [[1084]] sur EET.",
+        "urls": [
+            "https://github.com/RoxanneSHS/BoneHill/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "Sir BillyBob",
+            "Erebusant"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "de",
+            "en",
+            "fr",
+            "it",
+            "ru",
+            "cn",
+            "es"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "tp2": "BonehillEET"
+    },
+    {
+        "id": 1879,
+        "name": "Vault",
+        "description": "Portage du mod [[1095]] sur EET.",
+        "urls": [
+            "https://github.com/RoxanneSHS/VaultEE/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG",
+            "Tutu",
+            "BGT",
+            "BGEE",
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "Josh Clue",
+            "Erebusant",
+            "Adanedhel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "fr",
+            "it",
+            "pl",
+            "ru",
+            "cn",
+            "es"
+        ],
+        "status": "active",
+        "last_update": "2024-06",
+        "tp2": "Vaulteet"
     }
 ]

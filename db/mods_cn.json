@@ -370,7 +370,7 @@
             "source": "Ce mod ajoute une romance et une voie de l'amitié avec le célèbre paladin de BG.|Suivant votre type d'installation, le contenu ajouté sera différent : avec BG original, le mod ajoute la romance du [[25]] et la voie de l'amitié ; avec BGT, Tutu, BG:EE et EET, le mod ajoute la voie de l'amitié et plus de contenu pour la romance du [[25]]. Ce mod est en effet considéré comme une extension du [[25]], mais peut être installé et joué sans lui. Dans ce cas, la voie de l'amitié est immédiatement disponible."
         },
         "notes": [
-             "[[1585]] 提供了备用的肖像。",
+            "[[1585]] 提供了备用的肖像。",
             "从 21 版本开始，不再支持不带 TotSC 的博德之门。"
         ],
         "notes_meta": {
@@ -409,7 +409,7 @@
             "source": "Créé à l'origine pour Baldur's Gate 2 avec le mod [[1601]], ce mod a été réécrit pour ne pas nécessiter TDD. Il ajoute du nouveau contenu : des quêtes (dont certaines très courtes), des monstres, des objets et de nouvelles zones."
         },
         "notes": [
-           "第二个链接指向一个更新、更完整的Roxanne版本。此版本仅兼容EE，并且也是非官方的，其名称已更改为《Loron's Return》。"
+            "第二个链接指向一个更新、更完整的Roxanne版本。此版本仅兼容EE，并且也是非官方的，其名称已更改为《Loron's Return》。"
         ],
         "notes_meta": {
             "status": "done",
@@ -533,7 +533,7 @@
             "source": "Ce petit mod ajoute des lieux abandonnés et inutilisés tout en maintenant une sorte de cohésion avec l'histoire. En gros, [[1157]], mais en beaucoup plus petit :|- Vestiaire réaliste d'Aran Linvail : les rampes de capes sont maintenant remplies de divers assortiments de cape, convenant surtout aux voleurs. Le butin est complètement aléatoire, alors bonne chance pour obtenir le meilleur résultat !|- Tente restaurée à Franc-Marché : une nouvelle tente est ouverte aux visiteurs ! Située près de la caravane, son contenu vaut le coup d'œil.|- Chambre à coucher de Kiser restaurée : ajout d'une chambre d'amis à la maison de Kiser, présente mais non utilisée par le jeu. Les escaliers vers la chambre se trouvent à l'est de l'entrée, derrière le mur."
         },
         "notes": [
-             "请注意，其大部分内容已被同一作者整合到[[37]]和[[1510]]中。",
+            "请注意，其大部分内容已被同一作者整合到[[37]]和[[1510]]中。",
             "该模组已从 http://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html 上消失。"
         ],
         "notes_meta": {
@@ -4626,7 +4626,7 @@
             "source": "Ce mod s'efforce de remplacer les règles des jeux EE (AD&D2) par celles utilisés par D&D 3.5 (avec quelques éléments de Pathfinder) dans la limite de ce que permet le moteur."
         },
         "notes": [
-             "可能与许多宗派mod不兼容，因为它们基于AD&D2的规则，而不是3.5。"
+            "可能与许多宗派mod不兼容，因为它们基于AD&D2的规则，而不是3.5。"
         ],
         "notes_meta": {
             "status": "done",
@@ -7302,7 +7302,7 @@
         "id": 498,
         "description": "这个模组在渥金商场添加了一个新商人，他在游戏中出售许多昂贵的弹药。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute un nouveau marchand dans la Promenade de Waukyne qui vend de nombreuses munitions gros-bill dans le jeu."
         },
         "notes": [],
@@ -7809,7 +7809,7 @@
             "source": "Ce mod modifie le donjon de Spellhold pour le rendre plus amusant, plus difficile et stimulant pour les joueurs confirmés. Il comprend trois composants qui peuvent être installés ensemble ou séparément."
         },
         "notes": [
-		"注意：存在一个博德之门2：增强版和增强版三部曲的盗版版本，其作者毫不犹豫地窃取了此模组的资源并修改了内容。请勿下载或安装，否则后果自负，并且不要来抱怨！"
+            "注意：存在一个博德之门2：增强版和增强版三部曲的盗版版本，其作者毫不犹豫地窃取了此模组的资源并修改了内容。请勿下载或安装，否则后果自负，并且不要来抱怨！"
         ],
         "notes_meta": {
             "status": "done",
@@ -13157,14 +13157,10 @@
             "status": "done",
             "source": "Ce petit mod ajoute une nouvelle PNJ recrutable, Rose, une demi-elfe barde qui gagne sa vie en tant que pickpocket et en chantant dans les tavernes. Vous la rencontrerez dans l'auberge du Magicien ardent à Bérégost, en la \"sauvant\" d'un homme qui l'accuse de vol. Elle vous suivra en Amn. Malheureusement ce mod est resté au stade bêta et ne dispose plus de contenu après Nashkel.|FOR 13, DEX 18, CON 16, INT 15, SAG 9, CHA 18."
         },
-        "notes": [
-            "请选择 github 链接获取增强版三部曲版本。注意，这是一个非官方版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Choisissez le lien github pour la version EET. Attention, il s'agit d'une version non officielle."
-            ]
+            "source": []
         }
     },
     {
@@ -13367,14 +13363,10 @@
             "status": "done",
             "source": "La voleuse flirteuse de la Côte des Épées est l'un des PNJ qui a été considérablement remanié dans BG:EE, et elle est devenue un personnage intéressant dans l'extension SoD. Malheureusement, le jeu lui donne une fin décevante à la fin de cette campagne. Conçu pour EET, ce mod modifie la fin de SoD pour Safana et lui permet de continuer avec le groupe en Amn et en Téthyr :|- un PNJ continu pour l'ensemble du jeu EET.|- une romance continue pour un joueur masculin.|- plusieurs petites quêtes dans BG2.|- des solutions alternatives à un certain nombre de quêtes du jeu qui permettent au joueur d'utiliser ses talents.|- une possibilité pour un joueur non voleur d'obtenir la guilde de MaeVar si Safana est dans le groupe.|- des interjections et des banters tout au long du jeu.|- la possibilité d'obtenir un voleur talentueux dès le début d'Amn, Safana se trouve juste à côté de Gaelan Bayle.|- une nouvelle fin à sa relation avec Coran."
         },
-        "notes": [
-            "总之，太阳底下无新事：作者还是忍不住按自己的喜好修改了游戏内容。请自行承担风险安装此模组，事后不要来抱怨！"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Bref, rien de nouveau sous le soleil : l'auteure n'a pas pu s'empêcher de modifier le contenu du jeu à sa convenance. Installez ce mod à vos risques et périls, et ne venez pas vous plaindre !"
-            ]
+            "source": []
         }
     },
     {
@@ -15890,10 +15882,6 @@
     },
     {
         "id": 1084,
-        "team": [
-            "Archenemy",
-            "YouYe"
-        ],
         "description": "《骨丘之谜》是什么？嗯，这是一个为BG1（需要BGT）设计的大型任务模组，它改编了灰鹰世界观中的两个桌面角色扮演游戏场景：L1和L2。内容包括：数十张新地图、商店、任务和一个可招募的角色（法比奥）。|故事本身发生在伦多雷岛上，靠近雷斯滕福德市。你会在第四章的洛山达神殿遇到法师佩尔塔尔（一旦你完成了纳西凯矿场并可以前往强盗营地），他就能将你传送到那里，并在你帮助了村庄后将你送回来。|第一部分是解锁第二部分的先决条件，你可以在离开烛堡的地下墓穴后进入。你将在那里遇到吟游诗人法比奥或佩尔塔尔，他们会要求你和他们一起回到雷斯滕福德，这次是为了调查一桩神秘的谋杀案……",
         "description_meta": {
             "status": "done",
@@ -15901,15 +15889,13 @@
         },
         "notes": [
             "注意：粗心大意的玩家请止步：这些任务需要思考。模组 [[1229]] 是必不可少的。",
-            "athkatla 链接提供了一个用于非 EE 版本的修复补丁。",
-            "对于 BG2EE/EET 版本，请选择 github 链接。"
+            "[athkatla](https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507) 链接提供了一个用于非 EE 版本的修复补丁。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
                 "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion. Le mod [[1229]] est indispensable.",
-                "Le lien athkatla propose un fix pour les versions non EE.",
-                "Choisissez le lien github pour la version BG2EE/EET."
+                "Le lien [athkatla](https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507) propose un fix."
             ]
         }
     },
@@ -17835,7 +17821,7 @@
             "source": "Ce mod ajoute un profil d'ensorceleur entropiste."
         },
         "notes": [
-            "有一个更新且更完整的替代方案：模组[[220]]。",
+            "有一个更新且更完整的替代方案：模组[[220]]。"
         ],
         "notes_meta": {
             "status": "done",
@@ -19912,13 +19898,13 @@
             "source": "Faites entrer la nécromancienne squelette la plus maladroite du multivers dans votre groupe. Ce compagnon à part entière comprend sa propre voix, une quête de personnage, des scripts personnalisés, et bien plus encore. Comme tout squelette, elle possède une résistance au froid, une immunité au poison et à l'absorption de niveau.|FOR 8, DEX 10, CON 14, INT 21, SAG 16, CHA 7."
         },
         "notes": [
-            "人物肖像由Sitigatu绘制。配音为Sailor Cat。",
+            "人物肖像由[Sitigatu](https://xfolio.jp/portfolio/Sitigatu0974)绘制。配音为Sailor Cat。",
             "未测试与 EET 的兼容性。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Portraits de personnages par Sitigatu. Voix de Sailor Cat.",
+                "Portraits de personnages par [Sitigatu](https://xfolio.jp/portfolio/Sitigatu0974). Voix de Sailor Cat.",
                 "Compatibilité avec EET non testée."
             ]
         }
@@ -22335,7 +22321,7 @@
             "[[1873]] 完善了此模组。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "[[372]] est requis.",
                 "Le second lien renvoie vers la version IWD1, le troisième vers la version IWD2, le quatrième vers la version à installer à la fin.",
@@ -27195,6 +27181,49 @@
             "source": [
                 "Nécessite [[1601]]."
             ]
+        }
+    },
+    {
+        "id": 1877,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Portage du mod [[897]] sur EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1878,
+        "team": [
+            "Archenemy",
+            "YouYe"
+        ],
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Portage du mod [[1084]] sur EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1879,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Portage du mod [[1095]] sur EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]

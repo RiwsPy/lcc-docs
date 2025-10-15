@@ -13054,14 +13054,10 @@
             "status": "needs_review",
             "source": "Ce petit mod ajoute une nouvelle PNJ recrutable, Rose, une demi-elfe barde qui gagne sa vie en tant que pickpocket et en chantant dans les tavernes. Vous la rencontrerez dans l'auberge du Magicien ardent à Bérégost, en la \"sauvant\" d'un homme qui l'accuse de vol. Elle vous suivra en Amn. Malheureusement ce mod est resté au stade bêta et ne dispose plus de contenu après Nashkel.|FOR 13, DEX 18, CON 16, INT 15, SAG 9, CHA 18."
         },
-        "notes": [
-            "Warning: there is a pirated version for EET whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk, and don't complain!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Choisissez le lien github pour la version EET. Attention, il s'agit d'une version non officielle."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -13266,14 +13262,10 @@
             "status": "needs_review",
             "source": "La voleuse flirteuse de la Côte des Épées est l'un des PNJ qui a été considérablement remanié dans BG:EE, et elle est devenue un personnage intéressant dans l'extension SoD. Malheureusement, le jeu lui donne une fin décevante à la fin de cette campagne. Conçu pour EET, ce mod modifie la fin de SoD pour Safana et lui permet de continuer avec le groupe en Amn et en Téthyr :|- un PNJ continu pour l'ensemble du jeu EET.|- une romance continue pour un joueur masculin.|- plusieurs petites quêtes dans BG2.|- des solutions alternatives à un certain nombre de quêtes du jeu qui permettent au joueur d'utiliser ses talents.|- une possibilité pour un joueur non voleur d'obtenir la guilde de MaeVar si Safana est dans le groupe.|- des interjections et des banters tout au long du jeu.|- la possibilité d'obtenir un voleur talentueux dès le début d'Amn, Safana se trouve juste à côté de Gaelan Bayle.|- une nouvelle fin à sa relation avec Coran."
         },
-        "notes": [
-            "In short, there's nothing new under the sun: the author couldn't resist modifying the game's content to her liking. Install this mod at your own risk, and don't complain!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Bref, rien de nouveau sous le soleil : l'auteure n'a pas pu s'empêcher de modifier le contenu du jeu à sa convenance. Installez ce mod à vos risques et périls, et ne venez pas vous plaindre !"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -15764,15 +15756,13 @@
         },
         "notes": [
             "But don't be fooled by the quests, which require a great deal of thought. The [[1229]] mod is essential.",
-            "The athkatla link offers a fix for non-EE versions.",
-            "Choose the github link for the BG2EE/EET version."
+            "The [athkatla](https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507) offers a fix."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
                 "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion. Le mod [[1229]] est indispensable.",
-                "Le lien athkatla propose un fix pour les versions non EE.",
-                "Choisissez le lien github pour la version BG2EE/EET."
+                "Le lien [athkatla](https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507) propose un fix."
             ]
         }
     },
@@ -19711,17 +19701,17 @@
         "id": 1361,
         "description": "Bring the multiverse's most awkward skeletal necromancer to your party. This full-fledged companion includes her own voice, character quest, custom scripts and much more. As a skeleton, she has resistance to cold, and immunity to poison and level absorption.|STR 8, DEX 10, CON 14, INT 21, WIS 16, CHA 7.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Faites entrer la nécromancienne squelette la plus maladroite du multivers dans votre groupe. Ce compagnon à part entière comprend sa propre voix, une quête de personnage, des scripts personnalisés, et bien plus encore. Comme tout squelette, elle possède une résistance au froid, une immunité au poison et à l'absorption de niveau.|FOR 8, DEX 10, CON 14, INT 21, SAG 16, CHA 7."
         },
         "notes": [
-            "Character portraits by Sitigatu. Voiced by Sailor Cat.",
+            "Character portraits by [Sitigatu](https://xfolio.jp/portfolio/Sitigatu0974). Voiced by Sailor Cat.",
             "Compatibility with EET not tested."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Portraits de personnages par Nyama. Voix de Sailor Cat.",
+                "Portraits de personnages par [Sitigatu](https://xfolio.jp/portfolio/Sitigatu0974). Voix de Sailor Cat.",
                 "Compatibilité avec EET non testée."
             ]
         }
@@ -26982,6 +26972,45 @@
             "source": [
                 "Nécessite [[1601]]."
             ]
+        }
+    },
+    {
+        "id": 1877,
+        "description": "EET-compatible version of mod [[897]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Portage du mod [[897]] sur EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1878,
+        "description": "EET-compatible version of mod [[1084]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Portage du mod [[1084]] sur EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1879,
+        "description": "EET-compatible version of mod [[1095]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Portage du mod [[1095]] sur EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]
