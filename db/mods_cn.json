@@ -1241,8 +1241,8 @@
         "id": 83,
         "description": "此模组允许你招募侏儒奥蕾莉亚·米内瓦·伊芙琳·格利姆闪。你可以在贝尔苟斯特的中心找到她。作为一名工匠（盗贼职业包），Aura 可以修改队伍在旅途中获得的一些魔法物品。|她内心善良且富有理想主义，在与陌生人互动时可能相当害羞和社交笨拙，但当话题超出她的专业领域时，她会变得热情洋溢和兴奋，能够连续数小时与他人交谈或（更有可能）对他们进行说教。Aura 通常很友好，至少会努力与所有旅伴建立联系，成功与否程度不一。她赞同创新、知识探索以及利用自己的才能帮助他人。因此，她更适合善良阵营的队伍，尽管她可以跟随任何至少为中等等级的PC。|任何种族的女性PC都可以与Aura调情。兼容的PC在友谊对话中会获得浪漫选项，但没有爱情线。|在龙矛围攻中，Aura 可以与任何非邪恶种族、至少拥有12点智力10点魅力的女性发展爱情关系。她通常很深情，并对友好、聪明且愿意倾听的伴侣做出友好回应。另一方面，如果PC没有表现出任何兴趣的迹象，她会迅速疏远，而粗暴的回答会立刻让她逃离。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Vous la trouverez dans le centre de Bérégost. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir."
+            "status": "needs_review",
+            "source": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Vous la trouverez dans le centre de Bérégost. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir.|FOR 8, DEX 16, CON 13, INT 19, SAG 14, CHA 15."
         },
         "notes": [],
         "notes_meta": {
@@ -15396,8 +15396,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Portrait de [TamikaProud](https://www.deviantart.com/tamikaproud) sur DeviantArt."
+            ]
         }
     },
     {
@@ -27219,6 +27221,32 @@
         "description_meta": {
             "status": "todo",
             "source": "Portage du mod [[1095]] sur EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1880,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod modifie l'eau dans le Quartier du Temple, le Quartier du Pont et les Docks."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1881,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod contient des animations de katana pour les attaques à deux mains."
         },
         "notes": [],
         "notes_meta": {

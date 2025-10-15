@@ -1226,10 +1226,10 @@
     },
     {
         "id": 83,
-        "description": "This mod allows you to recruit the gnome Aurelia Minerva Eveline Glimmershine. You'll find her in the center of Beregost. As an artificer (thief profile), Aura can modify certain magical items that the group acquires on their journey.|Gentle and idealistic at heart, she can be rather shy and socially inept when interacting with strangers, but easily becomes enthusiastic and excitable when the subject strays from her areas of expertise, being able to talk or (more likely) lecture others for hours on end. Aura is generally friendly, making at least an effort to bond with all her fellow travelers, with varying degrees of success. She approves of innovation, seeking knowledge and using her talents to help others. Consequently, she is best suited to parties of good alignment, although she can follow any PC of at least average level.|A female PC of any race can flirt with Aura. A compatible PC gains romantic dialog options during her friendship chats, but there is no romance.|D In SoD, Aura can start a romance with a non-evil female of any race with at least 12 Intelligence and 10 Charisma. She is generally affectionate and will respond amicably to a partner who is friendly, intelligent and willing to listen. On the other hand, she's quick to walk away if the PC shows no sign of interest, and blunt responses are quick to drive her away.",
+        "description": "This mod allows you to recruit the gnome Aurelia Minerva Eveline Glimmershine. You'll find her in the center of Beregost. As an artificer (thief profile), Aura can modify certain magical items that the group acquires on their journey.|Gentle and idealistic at heart, she can be rather shy and socially inept when interacting with strangers, but easily becomes enthusiastic and excitable when the subject strays from her areas of expertise, being able to talk or (more likely) lecture others for hours on end. Aura is generally friendly, making at least an effort to bond with all her fellow travelers, with varying degrees of success. She approves of innovation, seeking knowledge and using her talents to help others. Consequently, she is best suited to parties of good alignment, although she can follow any PC of at least average level.|A female PC of any race can flirt with Aura. A compatible PC gains romantic dialog options during her friendship chats, but there is no romance.|D In SoD, Aura can start a romance with a non-evil female of any race with at least 12 Intelligence and 10 Charisma. She is generally affectionate and will respond amicably to a partner who is friendly, intelligent and willing to listen. On the other hand, she's quick to walk away if the PC shows no sign of interest, and blunt responses are quick to drive her away.|STR 8, DEX 16, CON 13, INT 19, WIS 14, CHA 15.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Vous la trouverez dans le centre de Bérégost. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir."
+            "source": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Vous la trouverez dans le centre de Bérégost. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir.|FOR 8, DEX 16, CON 13, INT 19, SAG 14, CHA 15."
         },
         "notes": [],
         "notes_meta": {
@@ -15274,10 +15274,14 @@
             "status": "needs_review",
             "source": "Ce mod ajoute un enchanteur/voleur elfe et un PNJ caché. Vous trouverez Minyae Beaurin à l'extérieur de l'auberge du Crâne tordu, aux portes de la ville. Il comprend des portraits personnalisés, une voie de l'amitié pour Minyae et le PNJ caché, de nombreuses plaisanteries et interjections, des rencontres et des quêtes, une voix pour les deux PNJ (seule Minyae dispose d'un jeu complet), une romance avec un PNJ Bioware...|FOR 11, DEX 19, CON 12, INT 17, SAG 12, CHA 16."
         },
-        "notes": [],
+        "notes": [
+            "Portrait of [TamikaProud](https://www.deviantart.com/tamikaproud) on DeviantArt."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Portrait de [TamikaProud](https://www.deviantart.com/tamikaproud) sur DeviantArt."
+            ]
         }
     },
     {
@@ -27006,6 +27010,32 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Portage du mod [[1095]] sur EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1880,
+        "description": "This mod changes the water in the Temple District, Bridge District and the Docks.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod modifie l'eau dans le Quartier du Temple, le Quartier du Pont et les Docks."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1881,
+        "description": "This mod contains katana animations for two-handed attacks.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod contient des animations de katana pour les attaques à deux mains."
         },
         "notes": [],
         "notes_meta": {
