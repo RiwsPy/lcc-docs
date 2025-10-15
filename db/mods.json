@@ -28440,8 +28440,7 @@
         "description": "Ce mod modifie le gameplay pour Baldur's Gate 2: Throne of Bhaal et s'efforce de rapprocher les classes de roublard (bardes et voleurs) et leurs profils respectifs de leurs homologues P&P d'AD&D. Il comprend plusieurs composants qui peuvent tous être installés séparément et sont complètement indépendants les uns des autres.|RR met à jour les compétences de combat à deux armes des voleurs et des bardes, révise/améliore leurs profils, révise leurs capacités de haut niveau, restaure les ajustements raciaux appropriés pour les capacités de voleur, ainsi que la table de progression des sorts PnP propre aux bardes.|Il empêche les effets des potions de voleur de se cumuler avec la possibilité de les remplacer par des potions de la version papier.|Il rend également beaucoup plus difficile l'affrontement avec la guilde des Voleurs de l'Ombre dans le chapitre 3.|Il ajoute enfin des objets supplémentaires pour les voleurs et les bardes (dans la guilde des voleurs) ainsi qu'une rencontre avec des fidèles de Cyric dans le chapitre 6.",
         "urls": [
             "https://www.shsforums.net/files/file/320-rogue-rebalancing-windows-version/",
-            "https://github.com/FredrikLindgren/rr",
-            "https://github.com/mleduque/rogue_rebalancing"
+            "https://github.com/FredrikLindgren/rr/"
         ],
         "categories": [
             "Gameplay"
@@ -28460,9 +28459,11 @@
             "aVENGER"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Plus maintenu depuis plusieurs années, il est basé sur une version de `Detectable Spells` obsolète qui peut créer des incompatibilités."
+        ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "fr",

@@ -13116,8 +13116,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Plus maintenu depuis plusieurs années, il est basé sur une version de `Detectable Spells` obsolète qui peut créer des incompatibilités."
+            ]
         }
     },
     {
