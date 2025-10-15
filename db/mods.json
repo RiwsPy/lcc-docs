@@ -43546,6 +43546,7 @@
         "name": "Valkrana NPC",
         "description": "Faites entrer la nécromancienne squelette la plus maladroite du multivers dans votre groupe. Ce compagnon à part entière comprend sa propre voix, une quête de personnage, des scripts personnalisés, et bien plus encore. Comme tout squelette, elle possède une résistance au froid, une immunité au poison et à l'absorption de niveau.|FOR 8, DEX 10, CON 14, INT 21, SAG 16, CHA 7.",
         "urls": [
+            "https://valkrana.moe/mods_bg2.html",
             "https://www.gibberlings3.net/forums/topic/38124-valkrana-npc-mod-%E2%80%94-an-awkward-necromancer/",
             "https://www.nexusmods.com/baldursgate2ee/mods/93",
             "https://github.com/ActualSailorCat/Valkrana-NPC-BG2"
@@ -43562,7 +43563,7 @@
         ],
         "team": [],
         "notes": [
-            "Portraits de personnages par Nyama. Voix de Sailor Cat.",
+            "Portraits de personnages par Sitigatu. Voix de Sailor Cat.",
             "Compatibilité avec EET non testée."
         ],
         "translation_state": "auto",
@@ -43571,7 +43572,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "valkrana"
     },
     {
