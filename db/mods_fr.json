@@ -1318,8 +1318,8 @@
             "Shodead"
         ],
         "urls_extra": [
-            "https://github.com/The-Gate-Project/French-Translation_For_Dragonspear-UI_Anongit/releases/tag/Anongit",
-            "https://github.com/The-Gate-Project/French-Translation_For_Dragonspear-UI_Artifox/releases/tag/Artifox"
+            "https://github.com/The-Gate-Project/French-Translation_For_Dragonspear-UI_Anongit/",
+            "https://github.com/The-Gate-Project/French-Translation_For_Dragonspear-UI_Artifox/"
         ],
         "notes_extra": [
             "L'avant dernier lien est compatible avec les BG(EE) et EET",
@@ -5920,7 +5920,10 @@
     },
     {
         "id": 1526,
-        "translation_state": "todo"
+        "translation_state": "todo",
+        "notes_extra": [
+            "La traduction est partielle (issue de NWN) et demande une relecture."
+        ]
     },
     {
         "id": 1527
@@ -7021,5 +7024,17 @@
     },
     {
         "id": 1873
+    },
+    {
+        "id": 1874,
+        "team": [
+            "JohnBob"
+        ]
+    },
+    {
+        "id": 1875
+    },
+    {
+        "id": 1876
     }
 ]

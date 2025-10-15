@@ -22086,14 +22086,10 @@
             "status": "needs_review",
             "source": "Le mod reprend, avec des modifications mineures, l'intrigue du jeu « Neverwinter Nights ». Il ajoute de nombreux lieux, des personnages connus depuis l'enfance, des quêtes, des boutiques et Lady Aribeth. Pour commencer à passer le mod, il faut que le personnage principal ait un niveau d'expérience d'au moins 1350000 XP. Lorsque vous atteignez ce niveau d'expérience, un messager de Neverwinter vous aborde dans n'importe quel quartier d'Athkatla et vous demande de l'aide."
         },
-        "notes": [
-            "The French translation is partial (from NWN) and requires proofreading."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "La traduction française est partielle (issue de NWN) et demande une relecture."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -26376,10 +26372,10 @@
     },
     {
         "id": 1832,
-        "description": "IWDSpells is a tool to bring the new spells and bard songs from Icewind Dale into the Baldur's Gate series of games. While it can be used as a standalone mod, it's primarily intended as a tool for modmakers to include in their own mods.",
+        "description": "IWDSpells is a tool to bring the new spells and bard songs from Icewind Dale into the Baldur's Gate series of games. While it can be used as a standalone mod, it's primarily intended as a tool for modmakers to include in their own mods. If you are not a modder and just want the IWD spells, it's probably simpler to use the [[521]] mod.",
         "description_meta": {
             "status": "done",
-            "source": "IWDSpells est un outil permettant d'intégrer les nouveaux sorts et chants de barde d'Icewind Dale dans la série de jeux Baldur's Gate. Bien qu'il puisse être utilisé comme mod autonome, il est principalement destiné à être utilisé par les créateurs de mods dans leurs propres mods."
+            "source": "IWDSpells est un outil permettant d'intégrer les nouveaux sorts et chants de barde d'Icewind Dale dans la série de jeux Baldur's Gate. Bien qu'il puisse être utilisé comme mod autonome, il est principalement destiné à être utilisé par les créateurs de mods dans leurs propres mods. Si vous n'êtes pas moddeur et que vous souhaitez simplement obtenir les sorts IWD, il est probablement plus simple d'utiliser le mod [[521]]."
         },
         "notes": [],
         "notes_meta": {
@@ -26934,6 +26930,53 @@
             "status": "needs_review",
             "source": [
                 "Attention, l'ordre d'installation des mods est particulièrement important."
+            ]
+        }
+    },
+    {
+        "id": 1874,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1875,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [
+            "Requires [[1526]]."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Nécessite [[1526]]."
+            ]
+        }
+    },
+    {
+        "id": 1876,
+        "description": "It add a little NPC Avaunis (no banter) at the Order of The Radiant Heart who will lead you to the Hall of Knowledge mini quest.",
+        "description_meta": {
+            "status": "done",
+            "source": "Il ajoute un petit PNJ, Avaunis (sans dialogue), à l'Ordre du Cœur radieux, qui vous mènera à la mini-quête « La salle du savoir »."
+        },
+        "notes": [
+            "Requires [[1601]]."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Nécessite [[1601]]."
             ]
         }
     }

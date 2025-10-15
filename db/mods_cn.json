@@ -22293,14 +22293,10 @@
             "status": "done",
             "source": "Le mod reprend, avec des modifications mineures, l'intrigue du jeu « Neverwinter Nights ». Il ajoute de nombreux lieux, des personnages connus depuis l'enfance, des quêtes, des boutiques et Lady Aribeth. Pour commencer à passer le mod, il faut que le personnage principal ait un niveau d'expérience d'au moins 1350000 XP. Lorsque vous atteignez ce niveau d'expérience, un messager de Neverwinter vous aborde dans n'importe quel quartier d'Athkatla et vous demande de l'aide."
         },
-        "notes": [
-            "法文翻译不完整（源自《无冬之夜》），需要重新审阅。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "La traduction française est partielle (issue de NWN) et demande une relecture."
-            ]
+            "source": []
         }
     },
     {
@@ -26593,8 +26589,8 @@
         "id": 1832,
         "description": "IWDSpells 是一个工具，用于将冰风谷中的新法术和吟游诗人之歌集成到博德之门系列游戏中。虽然它可以作为独立模组使用，但主要供模组制作者在其自己的模组中使用。",
         "description_meta": {
-            "status": "done",
-            "source": "IWDSpells est un outil permettant d'intégrer les nouveaux sorts et chants de barde d'Icewind Dale dans la série de jeux Baldur's Gate. Bien qu'il puisse être utilisé comme mod autonome, il est principalement destiné à être utilisé par les créateurs de mods dans leurs propres mods."
+            "status": "needs_review",
+            "source": "IWDSpells est un outil permettant d'intégrer les nouveaux sorts et chants de barde d'Icewind Dale dans la série de jeux Baldur's Gate. Bien qu'il puisse être utilisé comme mod autonome, il est principalement destiné à être utilisé par les créateurs de mods dans leurs propres mods. Si vous n'êtes pas moddeur et que vous souhaitez simplement obtenir les sorts IWD, il est probablement plus simple d'utiliser le mod [[521]]."
         },
         "notes": [],
         "notes_meta": {
@@ -27143,6 +27139,49 @@
             "status": "todo",
             "source": [
                 "Attention, l'ordre d'installation des mods est particulièrement important."
+            ]
+        }
+    },
+    {
+        "id": 1874,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1875,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Nécessite [[1526]]."
+            ]
+        }
+    },
+    {
+        "id": 1876,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Il ajoute un petit PNJ, Avaunis (sans dialogue), à l'Ordre du Cœur radieux, qui vous mènera à la mini-quête « La salle du savoir »."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Nécessite [[1601]]."
             ]
         }
     }

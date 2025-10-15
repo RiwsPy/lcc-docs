@@ -48396,9 +48396,7 @@
             "paladin84"
         ],
         "team": [],
-        "notes": [
-            "La traduction française est partielle (issue de NWN) et demande une relecture."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -57310,7 +57308,7 @@
     {
         "id": 1832,
         "name": "IWDSpells",
-        "description": "IWDSpells est un outil permettant d'intégrer les nouveaux sorts et chants de barde d'Icewind Dale dans la série de jeux Baldur's Gate. Bien qu'il puisse être utilisé comme mod autonome, il est principalement destiné à être utilisé par les créateurs de mods dans leurs propres mods.",
+        "description": "IWDSpells est un outil permettant d'intégrer les nouveaux sorts et chants de barde d'Icewind Dale dans la série de jeux Baldur's Gate. Bien qu'il puisse être utilisé comme mod autonome, il est principalement destiné à être utilisé par les créateurs de mods dans leurs propres mods. Si vous n'êtes pas moddeur et que vous souhaitez simplement obtenir les sorts IWD, il est probablement plus simple d'utiliser le mod [[521]].",
         "urls": [
             "https://github.com/Gibberlings3/IWDSpells/"
         ],
@@ -57328,9 +57326,11 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "dw_iwdspells"
     },
     {
@@ -58554,5 +58554,91 @@
         "status": "active",
         "last_update": "2025-02",
         "tp2": "IWD_EET_integration"
+    },
+    {
+        "id": 1874,
+        "name": "Worldmap IWD EET",
+        "description": "",
+        "urls": [
+            "https://arcanecoast.ru/forum/viewtopic.php?f=31&t=1247",
+            "https://github.com/The-Gate-Project/Worldmap_IWD_EET/"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "tipun"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en",
+            "fr",
+            "ru"
+        ],
+        "status": "obsolete",
+        "last_update": "2023-03",
+        "tp2": "worldmap_iwd_eet"
+    },
+    {
+        "id": 1875,
+        "name": "NWNCampaign",
+        "description": "",
+        "urls": [
+            "https://github.com/abalabokhin/NWNCampaign/"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "tipun"
+        ],
+        "team": [],
+        "notes": [
+            "Nécessite [[1526]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "ru"
+        ],
+        "status": "hidden",
+        "last_update": "2024-03",
+        "tp2": "nwncampaign"
+    },
+    {
+        "id": 1876,
+        "name": "TDD Hall of Knowledge",
+        "description": "Il ajoute un petit PNJ, Avaunis (sans dialogue), à l'Ordre du Cœur radieux, qui vous mènera à la mini-quête « La salle du savoir ».",
+        "urls": [
+            "https://github.com/The-Gate-Project/TDD_Hall-of-Knowledge/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [
+            "Nécessite [[1601]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-08",
+        "tp2": "TDD_Hall-of-Knowledge"
     }
 ]
