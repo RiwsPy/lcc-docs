@@ -2249,7 +2249,7 @@
     {
         "id": 70,
         "name": "Artaport",
-        "description": "Version de [[790]] pour les jeux EE, ce mod modifie certains portraits de PNJ, attribue des portraits de Artrastrophe à des PNJ qui n'en avaient pas, etc...",
+        "description": "Version de [[790]] pour les jeux EE, ce mod modifie certains portraits de PNJ, attribue des portraits de [Artastrophe](https://artastrophe.deviantart.com) à des PNJ qui n'en avaient pas, etc...",
         "urls": [
             "https://forums.beamdog.com/discussion/51904/",
             "https://github.com/Eltamin/artaport"
@@ -15297,7 +15297,7 @@
         "name": "Herbs and Potions Add-in for BG1",
         "description": "Ce mod ajoute des herbes permettant de faire confectionner des potions par une alchimiste de Nashkel. Les herbes peuvent également enchanter des armes.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=3"
+            "http://www.blackwyrmlair.net/Mods/herbaddin.php"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -15332,7 +15332,7 @@
         "name": "Herbs and Potions Add-in for BG2",
         "description": "Ce mod ajoute des herbes permettant de faire confectionner des potions par une herboriste, tenant un magasin sur la Promenade de Waukyne. Les herbes peuvent également enchanter des armes.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=4"
+            "http://www.blackwyrmlair.net/Mods/herbaddinbg2.php"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -20975,8 +20975,7 @@
         "description": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise dans le [BWP Textpack English](https://www.shsforums.net/files/file/979-big-world-textpack-english/).",
         "urls": [
             "https://trow.cc/board/showtopic=14514",
-            "https://forums.beamdog.com/discussion/88763/",
-            "https://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=28226"
+            "https://forums.beamdog.com/discussion/88763/"
         ],
         "categories": [
             "Quête"
@@ -58830,6 +58829,86 @@
         "languages": [],
         "status": "active",
         "last_update": "2014-12",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1882,
+        "name": "BiG World Textpack English",
+        "description": "Ce pack de texte installe toutes les traductions disponibles de plusieurs dizaines de mods, qui ne sont pas incluses dans les mods, et effectue d'autres corrections de texte.",
+        "urls": [
+            "https://github.com/Spellhold-Studios/BiG-World-Textpack-English/"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Leonardo Watson"
+        ],
+        "team": [],
+        "notes": [
+            "Nombreuses de ces traductions ne sont plus à jour, à utiliser en connaissance de cause."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-12",
+        "tp2": "n/a"
+    },
+    {
+        "id": 1883,
+        "name": "16 Powerful New Items",
+        "description": "Ce pack ajoute 16 nouveaux objets très puissants à créer avec la console. Consultez le readme pour plus d'informations.",
+        "urls": [
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/Gamesembry_items.zip"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Gamesembry"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2004-10",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1884,
+        "name": "Arrows of Magic Missile",
+        "description": "Ce mod ajoute une nouvelle flèche qui se divise en 10 projectiles magiques.",
+        "urls": [
+            "https://www.shsforums.net/topic/21025-arrows-of-magic-missile/",
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/mmarow.rar"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Choix"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2006-07",
         "tp2": "non-weidu"
     }
 ]

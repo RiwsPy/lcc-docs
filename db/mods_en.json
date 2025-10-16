@@ -1035,10 +1035,10 @@
     },
     {
         "id": 70,
-        "description": "A version of [[790]] for EE games, this mod modifies certain NPC portraits, assigns Artrastrophe portraits to NPCs who didn't have any, etc...",
+        "description": "A version of [[790]] for EE games, this mod modifies certain NPC portraits, assigns [Artastrophe](https://artastrophe.deviantart.com) portraits to NPCs who didn't have any, etc...",
         "description_meta": {
             "status": "needs_review",
-            "source": "Version de [[790]] pour les jeux EE, ce mod modifie certains portraits de PNJ, attribue des portraits de Artrastrophe à des PNJ qui n'en avaient pas, etc..."
+            "source": "Version de [[790]] pour les jeux EE, ce mod modifie certains portraits de PNJ, attribue des portraits de [Artastrophe](https://artastrophe.deviantart.com) à des PNJ qui n'en avaient pas, etc..."
         },
         "notes": [
             "Only the component assigning a portrait to Edwina is compatible with the original games."
@@ -27036,6 +27036,49 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod contient des animations de katana pour les attaques à deux mains."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1882,
+        "description": "This text pack installs all available translations for dozens of mods that are not included in the mods themselves, and makes other text corrections.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce pack de texte installe toutes les traductions disponibles de plusieurs dizaines de mods, qui ne sont pas incluses dans les mods, et effectue d'autres corrections de texte."
+        },
+        "notes": [
+            "Many of these translations are no longer up to date; use with caution."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Nombreuses de ces traductions ne sont plus à jour, à utiliser en connaissance de cause."
+            ]
+        }
+    },
+    {
+        "id": 1883,
+        "description": "This pack adds 16 new powerful items to craft using the console. See the readme for more information.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce pack ajoute 16 nouveaux objets très puissants à créer avec la console. Consultez le readme pour plus d'informations."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1884,
+        "description": "This mod adds a new arrow that splits into 10 magical projectiles.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute une nouvelle flèche qui se divise en 10 projectiles magiques."
         },
         "notes": [],
         "notes_meta": {

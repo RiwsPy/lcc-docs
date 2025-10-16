@@ -1046,10 +1046,10 @@
     },
     {
         "id": 70,
-        "description": "这是 [[790]] 的EE游戏版本，这个模组修改了一些NPC的肖像，为没有肖像的NPC分配了Artrastrophe的肖像，等等...",
+        "description": "这是 [[790]] 的EE游戏版本，这个模组修改了一些NPC的肖像，为没有肖像的NPC分配了[Artastrophe](https://artastrophe.deviantart.com)的肖像，等等...",
         "description_meta": {
             "status": "done",
-            "source": "Version de [[790]] pour les jeux EE, ce mod modifie certains portraits de PNJ, attribue des portraits de Artrastrophe à des PNJ qui n'en avaient pas, etc..."
+            "source": "Version de [[790]] pour les jeux EE, ce mod modifie certains portraits de PNJ, attribue des portraits de [Artastrophe](https://artastrophe.deviantart.com) à des PNJ qui n'en avaient pas, etc..."
         },
         "notes": [
             "只有为艾德温娜分配肖像的组件与原版游戏兼容。"
@@ -27247,6 +27247,47 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod contient des animations de katana pour les attaques à deux mains."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1882,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce pack de texte installe toutes les traductions disponibles de plusieurs dizaines de mods, qui ne sont pas incluses dans les mods, et effectue d'autres corrections de texte."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Nombreuses de ces traductions ne sont plus à jour, à utiliser en connaissance de cause."
+            ]
+        }
+    },
+    {
+        "id": 1883,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce pack ajoute 16 nouveaux objets très puissants à créer avec la console. Consultez le readme pour plus d'informations."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1884,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute une nouvelle flèche qui se divise en 10 projectiles magiques."
         },
         "notes": [],
         "notes_meta": {
