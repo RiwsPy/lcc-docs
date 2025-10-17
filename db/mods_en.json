@@ -529,13 +529,13 @@
         },
         "notes": [
             "Note that much of its content has been integrated into [[37]] and [[1510]] by the same author.",
-            "This mod has disappeared from http://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html"
+            "This mod has disappeared from https://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html"
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
                 "Notez qu'une grande partie de son contenu a été intégré dans [[37]] et [[1510]] du même auteur.",
-                "Ce mod a disparu de http://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html"
+                "Ce mod a disparu de https://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html"
             ]
         }
     },
@@ -21853,10 +21853,10 @@
     },
     {
         "id": 1510,
-        "description": "This mod adds gold or experience costs to certain profane and divine spells.",
+        "description": "This mod adds gold or experience costs to certain profane and divine spells, changes the cost of resurrection to be closer to either the D&D 3.5 or 4 version, modifies racial bonuses, paladins can be fallen after certain evil actions...",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute des coûts en or ou en expérience à certains sorts profanes et divins."
+            "source": "Ce mod ajoute des coûts en or ou en expérience à certains sorts profanes et divins, change le coût de la résurection pour être proche soit de la version D&D 3.5 ou 4, modifie les bonus raciaux, les paladins peuvent être déchus après certaines actions maléfiques..."
         },
         "notes": [
             "Although WeiDU, this mod overrides the spells concerned."
@@ -26253,15 +26253,19 @@
     },
     {
         "id": 1823,
-        "description": "This mod allows you to reach level 50.",
+        "description": "This mod has three components:|Reach level 50|Replace mages and clerics HLA with innate skills|Modify the level restriction for gaining health point dice to be more consistent with the paper version",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet d'atteindre le niveau 50."
+            "source": "Ce mod permet possède trois composants :|Atteindre le niveau 50|Remplacer les HLA de mages et de clercs par des compétences innées|Modification de la restriction de niveau pour le gain de dés de points de vie pour être plus conforme à la version papier"
         },
-        "notes": [],
+        "notes": [
+            "ToB is recommended."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "ToB est recommandé."
+            ]
         }
     },
     {

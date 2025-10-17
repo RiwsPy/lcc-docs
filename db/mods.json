@@ -1137,7 +1137,7 @@
         "team": [],
         "notes": [
             "Notez qu'une grande partie de son contenu a été intégré dans [[37]] et [[1510]] du même auteur.",
-            "Ce mod a disparu de http://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html"
+            "Ce mod a disparu de https://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html"
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -1180,7 +1180,7 @@
         "name": "Almateria's Quest 2",
         "description": "Une grande aventure vous attend ! Tuez des limons, assassinez des dragons, pillez d'anciens sanctuaires, gagnez des femmes... Ou finissez le jeu proprement dit. Que choisirez-vous ? Le messager qui initie la quête se trouve dans le quartier du gouvernement, près de la porte en bas de la carte (uniquement dans le chapitre 3).|De l'avis même de son auteur, ce n'est pas un mod sérieux. Sans doute la raison pour laquelle elle l'a retiré du net...",
         "urls": [
-            "http://almrep.blogspot.com/p/almaquest-2.html"
+            "https://almrep.blogspot.com/p/almaquest-2.html"
         ],
         "categories": [
             "Quête",
@@ -14978,7 +14978,9 @@
         "id": 469,
         "name": "Harden Coonors Tutu-AddOn",
         "description": "Ce mod allemand semble avoir disparu.",
-        "urls": [],
+        "urls": [
+            "http://www.rosenranken.de/index.php?board=36;action=display;threadid=4719"
+        ],
         "categories": [
             "Gameplay"
         ],
@@ -47908,6 +47910,7 @@
         "name": "Literally a yaranaika themed portrait set",
         "description": "Ce mod modifie les portraits pour les pnj Bioware.",
         "urls": [
+            "https://almrep.blogspot.com/p/almanaika-pc-portraits.html",
             "https://www.shsforums.net/files/file/1056-literally-a-yaranaika-themed-portrait-set/"
         ],
         "categories": [
@@ -47933,8 +47936,9 @@
     {
         "id": 1510,
         "name": "Almateria's tweaks",
-        "description": "Ce mod ajoute des coûts en or ou en expérience à certains sorts profanes et divins.",
+        "description": "Ce mod ajoute des coûts en or ou en expérience à certains sorts profanes et divins, change le coût de la résurection pour être proche soit de la version D&D 3.5 ou 4, modifie les bonus raciaux, les paladins peuvent être déchus après certaines actions maléfiques...",
         "urls": [
+            "https://almrep.blogspot.com/p/almaterias-tweaks.html",
             "https://america.iegmc.com/almateria/AlmaTweaksv10_WIN.zip"
         ],
         "categories": [
@@ -57101,7 +57105,7 @@
     {
         "id": 1823,
         "name": "Revisión de Reglas para nivel 50",
-        "description": "Ce mod permet d'atteindre le niveau 50.",
+        "description": "Ce mod permet possède trois composants :|Atteindre le niveau 50|Remplacer les HLA de mages et de clercs par des compétences innées|Modification de la restriction de niveau pour le gain de dés de points de vie pour être plus conforme à la version papier",
         "urls": [
             "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/lvl50"
         ],
@@ -57115,13 +57119,15 @@
             "Kerenthar All'uvestrel"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "ToB est recommandé."
+        ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "missing",
         "last_update": "2006-09",
-        "tp2": ""
+        "tp2": "RE_3"
     },
     {
         "id": 1824,

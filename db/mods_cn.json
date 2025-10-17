@@ -534,13 +534,13 @@
         },
         "notes": [
             "请注意，其大部分内容已被同一作者整合到[[37]]和[[1510]]中。",
-            "该模组已从 http://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html 上消失。"
+            "该模组已从 https://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html 上消失。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
                 "Notez qu'une grande partie de son contenu a été intégré dans [[37]] et [[1510]] du même auteur.",
-                "Ce mod a disparu de http://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html"
+                "Ce mod a disparu de https://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html"
             ]
         }
     },
@@ -1241,7 +1241,7 @@
         "id": 83,
         "description": "此模组允许你招募侏儒奥蕾莉亚·米内瓦·伊芙琳·格利姆闪。你可以在贝尔苟斯特的中心找到她。作为一名工匠（盗贼职业包），Aura 可以修改队伍在旅途中获得的一些魔法物品。|她内心善良且富有理想主义，在与陌生人互动时可能相当害羞和社交笨拙，但当话题超出她的专业领域时，她会变得热情洋溢和兴奋，能够连续数小时与他人交谈或（更有可能）对他们进行说教。Aura 通常很友好，至少会努力与所有旅伴建立联系，成功与否程度不一。她赞同创新、知识探索以及利用自己的才能帮助他人。因此，她更适合善良阵营的队伍，尽管她可以跟随任何至少为中等等级的PC。|任何种族的女性PC都可以与Aura调情。兼容的PC在友谊对话中会获得浪漫选项，但没有爱情线。|在龙矛围攻中，Aura 可以与任何非邪恶种族、至少拥有12点智力10点魅力的女性发展爱情关系。她通常很深情，并对友好、聪明且愿意倾听的伴侣做出友好回应。另一方面，如果PC没有表现出任何兴趣的迹象，她会迅速疏远，而粗暴的回答会立刻让她逃离。|力量 8，敏捷 16，体质 13，智力 19，智慧 14，魅力 15。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Vous la trouverez dans le centre de Bérégost. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir.|FOR 8, DEX 16, CON 13, INT 19, SAG 14, CHA 15."
         },
         "notes": [],
@@ -9646,7 +9646,7 @@
             "Beamdog 的链接提供了一个兼容 EET 的版本。"
         ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Le lien beamdog propose une version compatible EET."
             ]
@@ -13117,10 +13117,10 @@
             "source": "Ce mod modifie le gameplay pour Baldur's Gate 2: Throne of Bhaal et s'efforce de rapprocher les classes de roublard (bardes et voleurs) et leurs profils respectifs de leurs homologues P&P d'AD&D. Il comprend plusieurs composants qui peuvent tous être installés séparément et sont complètement indépendants les uns des autres.|RR met à jour les compétences de combat à deux armes des voleurs et des bardes, révise/améliore leurs profils, révise leurs capacités de haut niveau, restaure les ajustements raciaux appropriés pour les capacités de voleur, ainsi que la table de progression des sorts PnP propre aux bardes.|Il empêche les effets des potions de voleur de se cumuler avec la possibilité de les remplacer par des potions de la version papier.|Il rend également beaucoup plus difficile l'affrontement avec la guilde des Voleurs de l'Ombre dans le chapitre 3.|Il ajoute enfin des objets supplémentaires pour les voleurs et les bardes (dans la guilde des voleurs) ainsi qu'une rencontre avec des fidèles de Cyric dans le chapitre 6."
         },
         "notes": [
-		"该模组已多年未维护，其基于旧版Detectable Spells构建，可能导致兼容性问题。"
-		],
+            "该模组已多年未维护，其基于旧版Detectable Spells构建，可能导致兼容性问题。"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Plus maintenu depuis plusieurs années, il est basé sur une version de `Detectable Spells` obsolète qui peut créer des incompatibilités."
             ]
@@ -15397,10 +15397,10 @@
             "source": "Ce mod ajoute un enchanteur/voleur elfe et un PNJ caché. Vous trouverez Minyae Beaurin à l'extérieur de l'auberge du Crâne tordu, aux portes de la ville. Il comprend des portraits personnalisés, une voie de l'amitié pour Minyae et le PNJ caché, de nombreuses plaisanteries et interjections, des rencontres et des quêtes, une voix pour les deux PNJ (seule Minyae dispose d'un jeu complet), une romance avec un PNJ Bioware...|FOR 11, DEX 19, CON 12, INT 17, SAG 12, CHA 16."
         },
         "notes": [
-		"由 [TamikaProud](https://www.deviantart.com/tamikaproud) 在 DeviantArt 上创作的肖像。"
-		],
+            "由 [TamikaProud](https://www.deviantart.com/tamikaproud) 在 DeviantArt 上创作的肖像。"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Portrait de [TamikaProud](https://www.deviantart.com/tamikaproud) sur DeviantArt."
             ]
@@ -19919,7 +19919,7 @@
         "id": 1362,
         "description": "伽利略是一个守序善良的半身人吟游诗人。他有一个特殊能力，每天可使用一次，能治疗小组成员。在更高等级时，它还能保护盟友免受恐惧、魅惑和困惑的影响。|力量 12，敏捷 19，体质 14，智力 15，智慧 8，魅力 16。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Galileo est un barde petite-personne d'alignement Neutre Bon. Il a une compétence spéciale utilisable une fois par jour qui lui permet de soigner les membres du groupe. À plus haut niveau, elle protège aussi les alliés contre la peur, le charme et la confusion.|FOR 12, DEX 19, CON 14, INT 15, SAG 8, CHA 16."
         },
         "notes": [],
@@ -22055,8 +22055,8 @@
         "id": 1510,
         "description": "此模组为某些凡间和神圣的法术增加了金币或经验值消耗。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute des coûts en or ou en expérience à certains sorts profanes et divins."
+            "status": "needs_review",
+            "source": "Ce mod ajoute des coûts en or ou en expérience à certains sorts profanes et divins, change le coût de la résurection pour être proche soit de la version D&D 3.5 ou 4, modifie les bonus raciaux, les paladins peuvent être déchus après certaines actions maléfiques..."
         },
         "notes": [
             "尽管 WeiDU，此模组会覆盖相关法术。"
@@ -26468,13 +26468,15 @@
         "id": 1823,
         "description": "这个模组允许玩家达到50级。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod permet d'atteindre le niveau 50."
+            "status": "needs_review",
+            "source": "Ce mod permet possède trois composants :|Atteindre le niveau 50|Remplacer les HLA de mages et de clercs par des compétences innées|Modification de la restriction de niveau pour le gain de dés de points de vie pour être plus conforme à la version papier"
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "ToB est recommandé."
+            ]
         }
     },
     {
@@ -26585,7 +26587,7 @@
         "id": 1832,
         "description": "IWDSpells是一个工具，用于将冰风谷的新法术和吟游诗人歌曲集成到博德之门系列游戏中。虽然它可以作为独立模组使用，但主要供模组作者在他们自己的模组中使用。若您并非模组制作者，仅希望获取冰风谷法术，直接使用[[521]]号模组可能是更便捷的选择。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "IWDSpells est un outil permettant d'intégrer les nouveaux sorts et chants de barde d'Icewind Dale dans la série de jeux Baldur's Gate. Bien qu'il puisse être utilisé comme mod autonome, il est principalement destiné à être utilisé par les créateurs de mods dans leurs propres mods. Si vous n'êtes pas moddeur et que vous souhaitez simplement obtenir les sorts IWD, il est probablement plus simple d'utiliser le mod [[521]]."
         },
         "notes": [],
@@ -26871,7 +26873,7 @@
         "id": 1854,
         "description": "这是一个小商人模组，它会在你的博德之门2增强版/增强版三部曲游戏中，用零钱为你提供盔甲、头盔和盾牌。你可以在冒险者市场找到它。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Voici un petit mod de marchand qui vous fournira contre menue monnaie des armures, des heaumes et des boucliers dans vos parties de BG2EE / EET. Vous le trouverez dans le Marché des Aventuriers."
         },
         "notes": [],
@@ -26884,7 +26886,7 @@
         "id": 1855,
         "description": "此模组提供了一个新的法术商人卡娅，你可以在渥金商场的冒险者市场（博德之门2增强版/增强版三部曲）或格斯的商店（冰风谷增强版）遇到她。她会用现金为你提供游戏中所有可用的防护系（绿色）和奥术系卷轴，更不用说对法师非常有用的神器了。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod fournit une nouvelle marchande de sorts, Kaya, que l'on peut rencontrer dans le Marché des Aventuriers sur la Promenade de Waukyne (BG2EE/EET) ou la boutique de Gerth (IWDEE). Elle vous fournira contre espèces sonnantes et trébuchantes tous les parchemins de protection (verts) et arcaniques disponibles dans le jeu, sans oublier des artefacts très utiles pour les mages."
         },
         "notes": [],
@@ -26897,7 +26899,7 @@
         "id": 1856,
         "description": "这位是珠宝商皮姆，他会向你收购和出售各种宝石，你很快就会亲眼见证。你可以在渥金商场的冒险者集市上找到皮姆。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Voici un joailler, Pym, qui vous achètera et vous vendra maintes pierres précieuses comme vous le constaterez par vous-même. On peut renconter Pym dans le Marché des Aventuriers sur la Promenade de Waukyne."
         },
         "notes": [],
@@ -26910,7 +26912,7 @@
         "id": 1857,
         "description": "这个迷你模组允许你将圣剑“苍白正义者”重铸为双手剑或长剑。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mini-mod propose de choisir une converson de l'épée sainte Pâle Justicière en épée bâtarde ou en épée à deux mains."
         },
         "notes": [],
@@ -26923,7 +26925,7 @@
         "id": 1858,
         "description": "这是一个引入新商人埃默森的小模组，你可以在渥金商场的冒险者集市（BG2EE / EET）或格斯的商店（IWDEE）找到他。他会用大把的金币为你提供在BG2EE/IWDEE中非常有效且极其有用的武器和物品；此外，该模组还会增加两套额外的龙鳞。总之，这个模组增加了数十件非常强大的新物品。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Voici un petit mod introduisant un nouveau marchand, Emerson, que l'on peut renconter dans le Marché des Aventuriers sur la Promenade de Waukyne (BG2EE / EET) ou la boutique de Gerth (IWDEE), qui vous fournira contre moult pièces sonnantes et trébuchantes des objets et des armes plutôt efficaces et fort utiles pour BG2EE/IWDEE ; ce mod placera en outre deux sets d’écailles de dragons supplémentaires. Au total, ce mod ajoute plusieurs dizaines de nouveaux objets très puissants."
         },
         "notes": [],
@@ -26936,7 +26938,7 @@
         "id": 1859,
         "description": "这是一个新的铁匠阿尔特默斯，你可以在冒险者集市找到他，他可以升级约三十件物品，特别是BioWare NPC的物品。这个模组与[[1329]]、[[895]]、[[738]]和[[900]]等其他铁匠模组是互补的。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Voici un nouveau forgeron, Artemus, que l'on trouvera au Marché des Aventuriers, qui permet d'améliorer une trentaine d'objets, notamment les objets des PNJs BioWare. Ce mod est complémentaire aux autres mods de forgeron comme [[1329]], [[895]], [[738]] et [[900]]."
         },
         "notes": [],
@@ -26949,7 +26951,7 @@
         "id": 1860,
         "description": "这是一个小型的商人模组，他会用零钱为你提供各种投掷武器和弹药，供你在BG2EE / EET的游戏中使用。阿拉米尔位于冒险者集市。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Voici un petit mod de marchand qui vous fournira contre menue monnaie des armes de jet et des projectiles de tous types dans vos parties de BG2EE / EET. Aramyr est situé dans le Marché des Aventuriers."
         },
         "notes": [],
@@ -26962,7 +26964,7 @@
         "id": 1861,
         "description": "无限引擎模组安装器是一个旨在为无限引擎游戏（如博德之门、冰风谷和异度风景：苦难）自动安装模组的工具。它使用一个名为`weidu.log`的文件来确定要安装哪些模组以及如何安装它们。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "L'Infinity Engine Mod Installer est un outil conçu pour automatiser l'installation de mods pour les jeux Infinity Engine tels que Baldur's Gate, Icewind Dale et Planescape: Torment. Il utilise un fichier appelé `weidu.log` pour déterminer quels mods installer et comment les installer."
         },
         "notes": [],
@@ -26975,7 +26977,7 @@
         "id": 1862,
         "description": "该工具有4个功能：Missing、Traverse、Discover和View。|`Missing`显示tra文件中缺失的字符串，即如果一个字符串在英文中存在但在法文中不存在。这也可以通过添加额外的字符串来修复。|`Discover`显示所有语言的所有字符串及其位置。|`Traverse`遍历一个bg模组，并向你展示文件路径的树状结构。|`View`可以读取无限引擎的各种格式文件和weidu模组中涉及的文本文件。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Cet outil dispose de 4 fonctionnalités : Missing, Traverse, Discover et View.|`Missing` affiche les chaînes manquantes pour les fichiers tra, c'est-à-dire si une chaîne est manquante en anglais mais pas en français. Cela peut également être corrigé en ajoutant des chaînes supplémentaires.|`Discover` affiche toutes les chaînes pour toutes les langues et leur emplacement.|`Traverse` parcourt un mod bg et vous montre l'arborescence des chemins d'accès aux fichiers.|`View` peut lire une collection de formats de fichiers infinis et de fichiers texte impliqués dans les mods weidu."
         },
         "notes": [],
@@ -26988,7 +26990,7 @@
         "id": 1863,
         "description": "该工具可以读取BGEE和BG2EE的无限引擎二进制文件。与[[1864]]类似。它将游戏的二进制数据文件打印为用户可读的文本。可选择输出为json格式。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Cet outil peut lire les fichiers binaires du moteur Infinity pour BGEE et BG2EE. Similaire à [[1864]]. Il imprime les fichiers de données binaires du jeu sous forme de texte lisible par l'utilisateur. Avec sortie json en option."
         },
         "notes": [],
@@ -27001,7 +27003,7 @@
         "id": 1864,
         "description": "Near Infinity（简称NI）是一个用于无限引擎游戏资源的开源、跨平台浏览器和编辑器。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Near Infinity (ou NI en abrégé) est un navigateur et éditeur open source multiplateforme pour les ressources des jeux Infinity Engine."
         },
         "notes": [],
@@ -27014,7 +27016,7 @@
         "id": 1865,
         "description": "龙枪完全转换编辑器专业版（DLTCEP）是一个用于无限引擎游戏的非官方游戏文件编辑器/检查器/浏览器。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "DragonLance Total Conversion Editor Pro (DLTCEP) est un éditeur/vérificateur/navigateur de fichiers de jeu non officiel pour les jeux Infinity Engine."
         },
         "notes": [],
@@ -27027,14 +27029,14 @@
         "id": 1866,
         "description": "将BG:EE中所有地图的分辨率提升4倍。由于它不直接修改ARE/WED文件，因此它与绝大多数模组兼容。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Multiplie la résolution par x4 de toutes les cartes dans BG:EE. Comme il ne modifie pas directement les fichiers ARE/WED, cela le rend compatible avec la grande majorité des mods."
         },
         "notes": [
             "需要[[348]]。"
         ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Nécessite [[348]]."
             ]
@@ -27044,14 +27046,14 @@
         "id": 1867,
         "description": "博德之门增强版引擎的图形修改。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Modification graphique du moteur pour Baldur's Gate Enhanced Edition."
         },
         "notes": [
             "需要[[348]]。"
         ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Nécessite [[348]]."
             ]
@@ -27061,7 +27063,7 @@
         "id": 1868,
         "description": "作为龙脉德鲁伊，随着等级提升，你将获得属性加值、额外法术以及召唤龙的能力。你甚至可以成为一名多职业的龙脉法师。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "En tant que druide de lignée draconique, vous gagnez des bonus d'attributs, des sorts supplémentaires et le pouvoir d'invoquer des dragons à mesure que vous gagnez des niveaux. Vous pouvez même devenir un sorcier dragon multiclassé."
         },
         "notes": [],
@@ -27074,7 +27076,7 @@
         "id": 1869,
         "description": "这是一个宗派的盗贼，擅长从各种生物身上收集精华并将其转化为毒药。拥有独特的特殊技能和高级能力。成为毒药大师和精华收集者吧！",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Un kit de voleur qui excelle dans la collecte d'essence provenant de diverses créatures et dans sa transformation en poison. Doté de compétences spéciales uniques et de capacités avancées. Devenez un maître du poison et un collecteur d'essence !"
         },
         "notes": [],
@@ -27087,14 +27089,14 @@
         "id": 1870,
         "description": "这是一个针对博德之门德文版的非官方补丁。它修正了许多翻译错误，并改进了菜单以及物品和法术的描述。该补丁基于官方1.3.5512版本，也可以与其他游戏版本以及已安装的模组一起使用。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Il s'agit d'un patch non officiel pour la version allemande de Baldurs Gate. Il corrige de nombreuses erreurs de traduction et améliore les menus et les descriptions des objets et des sorts. Le patch est basé sur la version officielle 1.3.5512 et peut également être utilisé avec d'autres versions du jeu ainsi qu'avec des modifications installées."
         },
         "notes": [
             "必须在博德之门三部曲或Tutu之前安装。"
         ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il doit être installé avant BGT ou Tutu."
             ]
@@ -27104,7 +27106,7 @@
         "id": 1871,
         "description": "此模组通过 [[1528]] 模组，为《博德之门》和《博德之门2》中的每个基础同伴（包括 Beamdog 的 NPC）添加了感叹词和区域评论。对于那些在增强版三部曲框架下游玩《冰风谷》战役的玩家来说，这应该会让战役变得更加生动。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute des interjections et des commentaires de zone à chaque compagnon de base dans BG1 et BG2 (y compris les PNJ Beamdog) à la campagne IWD grâce au mod [[1528]]. Cela devrait rendre la campagne IWD beaucoup plus vivante pour ceux qui y jouent dans le cadre de leurs parties EET."
         },
         "notes": [],
@@ -27117,7 +27119,7 @@
         "id": 1872,
         "description": "这是一个针对《博德之门2》德文版的非官方补丁。它修正了许多翻译错误，并改进了菜单以及物品和法术的描述。该补丁基于游戏的最新原始版本，可用于所有早期版本。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Il s'agit d'un patch non officiel pour la version allemande de Baldurs Gate II. Il corrige de nombreuses erreurs de traduction et améliore les menus et les descriptions des objets et des sorts. Le patch est basé sur la dernière version originale du jeu et peut être utilisé sur toutes les versions précédentes."
         },
         "notes": [],
@@ -27133,14 +27135,14 @@
         ],
         "description": "此模组设计用于与 tipun 的 [[1528]] 模组协同工作。它允许玩家在新的战役中自由选择影响难度或获得经验值，从而能够更早地开始游戏。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod est conçu pour fonctionner avec les mods [[1528]] de tipun. Il permet de jouer au mod de façon plus libre en laissant le choix d'influencer la difficulté ou le gain d'expérience lors des nouvelles campagnes et ainsi pouvoir la commencer plus tôt dans le jeu."
         },
         "notes": [
             "注意，模组的安装顺序尤其重要。"
         ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Attention, l'ordre d'installation des mods est particulièrement important."
             ]
@@ -27167,10 +27169,10 @@
             "source": ""
         },
         "notes": [
-		"需要[[1526]]号模组。"
-		],
+            "需要[[1526]]号模组。"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Nécessite [[1526]]."
             ]
@@ -27180,14 +27182,14 @@
         "id": 1876,
         "description": "该模组在光辉之心骑士团新增了一个名为艾瓦尼斯（无对话选项）的NPC，该角色将引导你开启“知识之厅”迷你任务。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Il ajoute un petit PNJ, Avaunis (sans dialogue), à l'Ordre du Cœur radieux, qui vous mènera à la mini-quête « La salle du savoir »."
         },
         "notes": [
-		"需要[[1601]]号模组。"
-		],
+            "需要[[1601]]号模组。"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Nécessite [[1601]]."
             ]
@@ -27197,7 +27199,7 @@
         "id": 1877,
         "description": "将[[897]]号模组移植至EET平台。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Portage du mod [[897]] sur EET."
         },
         "notes": [],
@@ -27214,7 +27216,7 @@
         ],
         "description": "将[[1084]]号模组移植至EET平台。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Portage du mod [[1084]] sur EET."
         },
         "notes": [],
@@ -27227,7 +27229,7 @@
         "id": 1879,
         "description": "将[[1095]]号模组移植至EET平台。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Portage du mod [[1095]] sur EET."
         },
         "notes": [],
@@ -27240,7 +27242,7 @@
         "id": 1880,
         "description": "该模组会修改神殿区、桥区及码头区的水体效果。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod modifie l'eau dans le Quartier du Temple, le Quartier du Pont et les Docks."
         },
         "notes": [],
@@ -27253,7 +27255,7 @@
         "id": 1881,
         "description": "该模组包含为双手攻击设计的太刀动作模组。 ",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod contient des animations de katana pour les attaques à deux mains."
         },
         "notes": [],
@@ -27266,14 +27268,14 @@
         "id": 1882,
         "description": "该文本包将安装数十款模组的全部可用翻译（这些翻译未包含在原始模组中），并执行其他文本修正。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce pack de texte installe toutes les traductions disponibles de plusieurs dizaines de mods, qui ne sont pas incluses dans les mods, et effectue d'autres corrections de texte."
         },
         "notes": [
-		"请注意：其中诸多翻译版本已不再适用，请知悉相关风险后再使用。"
-		],
+            "请注意：其中诸多翻译版本已不再适用，请知悉相关风险后再使用。"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Nombreuses de ces traductions ne sont plus à jour, à utiliser en connaissance de cause."
             ]
@@ -27283,7 +27285,7 @@
         "id": 1883,
         "description": "该整合包新增16款可通过控制台制作的强力新物品，具体信息请查阅说明文档。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce pack ajoute 16 nouveaux objets très puissants à créer avec la console. Consultez le readme pour plus d'informations."
         },
         "notes": [],
@@ -27296,7 +27298,7 @@
         "id": 1884,
         "description": "该模组新增一种可分裂成10发魔法飞弹的箭矢。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute une nouvelle flèche qui se divise en 10 projectiles magiques."
         },
         "notes": [],
