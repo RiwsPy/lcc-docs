@@ -2354,7 +2354,7 @@
     },
     {
         "id": 160,
-        "description": "这个小模组为吟游诗人（包括所有宗派）增加了一项能力，使他们能够随时评估队伍中已识别物品的价值。请注意，该技能显示的价格可能无法反映您实际出售物品的价值，这是由于游戏引擎的多种因素造成的，例如商人的利润、您魅力和声望的加值或减值、物品的充能次数……",
+        "description": "这个小模组为吟游诗人（包括所有宗派）增加了一项能力，使他们能够随时评估队伍中已识别物品的价值。请注意，该技能显示的价格可能无法反映您实际出售物品的价值，这是由于游戏引擎的多种因素造成的，例如商人的利润、您魅力和名誉的加值或减值、物品的充能次数……",
         "description_meta": {
             "status": "done",
             "source": "Ce petit mod ajoute une capacité aux bardes (y compris tous les profils) qui leur permet d'évaluer la valeur à volonté tout objet identifié en possession du groupe. Notez que les prix indiqués par la compétence ne refléteront probablement pas la valeur réelle à laquelle vous pouvez vendre un objet en raison de divers facteurs liés au moteur du jeu, comme la marge des marchands, les bonus ou malus de votre charisme et de votre réputation, le nombre de charges des objets..."
@@ -3823,7 +3823,7 @@
     },
     {
         "id": 261,
-        "description": "此模组为善良或中立（不包括混乱中立）阵营的女性玩家角色或德鲁伊添加了一段浪漫剧情。要继续这段浪漫剧情，声望必须高于13。它还为游戏中《安姆阴影》部分不符合浪漫剧情标准的角色提供了友情对话。在《巴尔王座》中，所有新增对话都仅用于浪漫剧情。|还添加了与其他NPC的闲聊和插话，分别对应《安姆阴影》中浪漫和非浪漫两种情况。一个可选组件引入了一个任务，可以让瓦里格的朋友莱奥诺拉永远守护或封印这个领域。",
+        "description": "此模组为善良或中立（不包括混乱中立）阵营的女性玩家角色或德鲁伊添加了一段浪漫剧情。要继续这段浪漫剧情，名誉必须高于13。它还为游戏中《安姆阴影》部分不符合浪漫剧情标准的角色提供了友情对话。在《巴尔王座》中，所有新增对话都仅用于浪漫剧情。|还添加了与其他NPC的闲聊和插话，分别对应《安姆阴影》中浪漫和非浪漫两种情况。一个可选组件引入了一个任务，可以让瓦里格的朋友莱奥诺拉永远守护或封印这个领域。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod ajoute une romance pour les PJ féminines d'alignement bon ou neutre (pas de neutre chaotique) ou les druidesses. Pour poursuivre la romance, la réputation doit être supérieure à 13. Il prévoit aussi des discussions d'amitié pour la partie SoA du jeu pour les PC qui ne remplissent pas les critères de romance. Pour ToB, tous les dialogues ajoutés sont réservés à la romance.|Des banters avec d'autres PNJ et des interjections sont également ajoutés, pour les cas de romance et de non-romance dans SoA. Un composant optionnel introduit une quête pour que la sphère soit gardée ou scellée à jamais par une amie de Valygar, Leonora."
@@ -5118,7 +5118,7 @@
     },
     {
         "id": 349,
-        "description": "这个模组通过允许更大的物品堆叠、每次升级时最大化生命值、简化法术学习、防止角色因声望而离开……来简化玩家的生活。",
+        "description": "这个模组通过允许更大的物品堆叠、每次升级时最大化生命值、简化法术学习、防止角色因名誉而离开……来简化玩家的生活。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod simplifiait la vie du joueur en permettant des piles d'objets plus importantes, en maximisant les points de vie à chaque gain de niveau, en facilitant l'apprentissage des sorts, en empêchant les personnages de partir à cause de la réputation..."
@@ -5135,7 +5135,7 @@
     },
     {
         "id": 350,
-        "description": "这个模组通过提供一个像在博德之门II中的背包、允许更大的物品堆叠、每次升级时最大化生命值、简化法术学习、防止角色因声望而离开……来简化玩家的生活。",
+        "description": "这个模组通过提供一个像在博德之门II中的背包、允许更大的物品堆叠、每次升级时最大化生命值、简化法术学习、防止角色因名誉而离开……来简化玩家的生活。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod simplifie la vie du joueur en proposant un sac de contenance comme dans Baldur's Gate II, en permettant des piles d'objets plus importantes, en maximisant les points de vie à chaque gain de niveau, en facilitant l'apprentissage des sorts, en empêchant les personnages de partir à cause de la réputation..."
@@ -5395,7 +5395,7 @@
         "team": [
             "Lzw104522773"
         ],
-        "description": "对于EE游戏，此模组的主要目的是让玩家在击败沙洛佛克后，能够继续留在博德之门1的世界中。要恢复（或结束）游戏的原始进程，必须在宫殿内与贝尔特公爵交谈。|在EET中，它还提供了跳过龙矛围攻并直接开始博德之门2的可能性（请注意，一些博德之门2的模组期望龙矛围攻的事件已经发生）。|在BGT中，模组的主要组件在与贝尔特公爵的对话中为玩家角色增加了一些赞誉，并在沙洛佛克死后移除了一些与沙洛佛克相关的元素。|可选组件为玩家角色带来更多声望，并在所有安装中为龙矛围攻的事件做准备。",
+        "description": "对于EE游戏，此模组的主要目的是让玩家在击败沙洛佛克后，能够继续留在博德之门1的世界中。要恢复（或结束）游戏的原始进程，必须在宫殿内与贝尔特公爵交谈。|在EET中，它还提供了跳过龙矛围攻并直接开始博德之门2的可能性（请注意，一些博德之门2的模组期望龙矛围攻的事件已经发生）。|在BGT中，模组的主要组件在与贝尔特公爵的对话中为玩家角色增加了一些赞誉，并在沙洛佛克死后移除了一些与沙洛佛克相关的元素。|可选组件为玩家角色带来更多名誉，并在所有安装中为龙矛围攻的事件做准备。",
         "description_meta": {
             "status": "done",
             "source": "Pour les jeux EE, le principal but de ce mod est de donner la possibilité au joueur de rester dans le monde de BG1 après avoir vaincu Sarevok. Pour reprendre la progression (ou la fin) originale du jeu, il faut parler au Duc Belt à l'intérieur du palais.|Dans EET, il donne aussi la possibilité de passer SoD et de commencer directement BG2 (notez que certains mods pour BG2 s'attendent à ce que les événements de SoD se soient produits).|Dans BGT, le composant principal du mod ajoute quelques éloges pour le PJ dans les dialogues avec le Duc Belt et supprime certains éléments faisant référence à Sarevok après sa mort.|Des composants optionnels donnent plus de prestige au PJ et préparent les événements de SoD dans toutes les installations."
@@ -5560,7 +5560,7 @@
     },
     {
         "id": 379,
-        "description": "在博德之门2：增强版中，您在艾瑞尼卡斯地牢开始游戏时遇到的伊梦，与您在幽暗地域找到的伊梦不是同一个人。这很烦人。此模组将开头的伊梦带到幽暗地域，并在她重新加入时升级她的经验值。",
+        "description": "在博德之门2：增强版中，您在艾瑞尼卡斯地牢开始游戏时遇到的爱蒙，与您在幽暗地域找到的爱蒙不是同一个人。这很烦人。此模组将开头的爱蒙带到幽暗地域，并在她重新加入时升级她的经验值。",
         "description_meta": {
             "status": "done",
             "source": "Dans BG2:EE, l'Imoen avec lequel vous commencez à jouer dans le donjon d'Irenicus n'est pas l'Imoen que vous retrouvez dans Spellhold. C'est très ennuyeux. Ce mod transporte l'Imoen du début dans Spellhold avec une mise à niveau de ses XP lors de la réintégration."
@@ -6458,7 +6458,7 @@
     },
     {
         "id": 441,
-        "description": "在狼人岛事件结束时，玩家会感染上狼人症。在此之前，如果玩家没有在此期间杀死狼人首领，那么二十五天后，队伍成员会变成与玩家敌对的狼人。通过此模组，玩家在二十五天后，每天可以主动变身为狼人，直到杀死狼人首领为止。如果没有经过变形者对狼人症的深入研究与高强度训练，玩家将承受副作用。|第二个组件为狼人岛提供了一个和平的结局：现在，当你完成支线任务时，你的声望会提升。如果你与村庄为敌，你的声望会下降。完成三个支线任务后，即使游戏过程中被煽动，普通村民也不会再攻击你。完成五个支线任务后，村庄中将不再出现敌对的狼人。地下墓穴中的敌人依然存在。否则，如果你和平地登上返回大陆的船只，你将获得经验值奖励，以弥补战斗中损失的经验。与凯莎和狼人的对话也可以和平结束。这取决于你是否与村庄战斗、你的魅力值以及是否接受诅咒。",
+        "description": "在狼人岛事件结束时，玩家会感染上狼人症。在此之前，如果玩家没有在此期间杀死狼人首领，那么二十五天后，队伍成员会变成与玩家敌对的狼人。通过此模组，玩家在二十五天后，每天可以主动变身为狼人，直到杀死狼人首领为止。如果没有经过变形者对狼人症的深入研究与高强度训练，玩家将承受副作用。|第二个组件为狼人岛提供了一个和平的结局：现在，当你完成支线任务时，你的名誉会提升。如果你与村庄为敌，你的名誉会下降。完成三个支线任务后，即使游戏过程中被煽动，普通村民也不会再攻击你。完成五个支线任务后，村庄中将不再出现敌对的狼人。地下墓穴中的敌人依然存在。否则，如果你和平地登上返回大陆的船只，你将获得经验值奖励，以弥补战斗中损失的经验。与凯莎和狼人的对话也可以和平结束。这取决于你是否与村庄战斗、你的魅力值以及是否接受诅咒。",
         "description_meta": {
             "status": "done",
             "source": "À la fin de l'île des loups-garous, le joueur est contaminé par la lycanthropie. Jusqu'à présent, cela n'avait pour effet que de transformer les membres du groupe en loups-garous ennemis au bout de vingt-cinq jours, si l'on n'avait pas tué le loup-chef entre-temps. Avec ce mod, le joueur obtient la capacité de se transformer en loup-garou une fois par jour à l'issue des vingt-cinq jours, jusqu'à ce qu'il tue le loup-chef ou s'il le fait. Sans l'étude et l'entraînement intensifs du métamorphe pour contrôler la lycanthropie, le joueur subira des effets secondaires.|Un deuxième composant offre une issue pacifique à l'île des loups-garous : Votre réputation augmente désormais lorsque vous accomplissez les tâches secondaires. Si vous agissez contre le village, votre réputation diminue. Avec trois tâches secondaires accomplies, les villageois normaux ne vous attaqueront plus s'ils sont incités à le faire au cours du jeu. À partir de cinq tâches accomplies, les loups-garous ennemis ne se manifesteront plus dans le village. Les ennemis dans les catacombes restent. Sinon, si vous atteignez le bateau pour le continent de manière pacifique, vous recevrez un bonus d'expérience qui compensera l'expérience de combat perdue. Les dialogues avec Kaisha et le loup-garou peuvent également se terminer de manière pacifique. Cela dépend du fait que vous ayez ou non combattu le village, de votre niveau de charisme et de l'acceptation ou non de la malédiction."
@@ -7005,7 +7005,7 @@
     },
     {
         "id": 478,
-        "description": "这个模组允许在开始巴尔王座游戏时获得在地狱中获得的奖励。游戏开始时，你会收到一个物品，让你能记住你在六英尺地下所做的一切。",
+        "description": "这个模组允许在开始巴尔王座游戏时获得在地狱中获得的奖励。游戏开始时，你会收到一个物品，让你能记住你在六呎地下所做的一切。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod permet d'obtenir les bonus gagnés en Enfer lorsqu'on commence une partie ToB. Au début du jeu, vous recevrez un objet qui vous permettra de vous souvenir de ce que vous avez fait six pieds sous terre."
@@ -8100,7 +8100,7 @@
     },
     {
         "id": 553,
-        "description": "这是一个针对旅店、商店和酒馆的小型调整集合：|- 根据《沃罗的剑湾海岸指南》描述，调整旅店房间的类别和价格。|- 在博德之门：增强版中，限制在某些专业商店鉴定魔法物品的能力。另一个组件负责龙矛围攻的部分。|- 吟游诗人酒馆二楼的商人是一个销赃者，现在会收购被盗物品。|- 商队强盗和销赃者会忽略团队的低声望（仅限博德之门：增强版/龙矛围攻）。",
+        "description": "这是一个针对旅店、商店和酒馆的小型调整集合：|- 根据《沃罗的剑湾海岸指南》描述，调整旅店房间的类别和价格。|- 在博德之门：增强版中，限制在某些专业商店鉴定魔法物品的能力。另一个组件负责龙矛围攻的部分。|- 吟游诗人酒馆二楼的商人是一个销赃者，现在会收购被盗物品。|- 商队强盗和销赃者会忽略团队的低名誉（仅限博德之门：增强版/龙矛围攻）。",
         "description_meta": {
             "status": "done",
             "source": "Il s'agit d'une collection de petits ajustements pour les auberges, les boutique et les tavernes :|- Ajustement des catégories et des tarifs des chambres des auberges en fonction des descriptions du \"Guide de Volo sur la Côte des Épées\".|- Restriction de la possibilité d'identifier les objets magiques à certains magasins spécialisés dans BG:EE. Un autre composant s'occupe de la partie SoD.|- Le marchand du 2e étage de la taverne du Chant de l'Elfe est un receleur et achète désormais des objets volés.|- Les bandits marchands et les receleurs ignorent la faible réputation du groupe (uniquement BG:EE/SoD)."
@@ -12038,7 +12038,7 @@
     },
     {
         "id": 825,
-        "description": "此模组使用桌面版规则的药水叠加系统。当您饮用一瓶药水而另一瓶仍在生效时，可能会发生以下情况：|- 1%的爆炸几率（对饮用者造成5d10火焰伤害，并在5英尺范围内造成额外1d10火焰伤害）。|- 2%的因中毒而瞬间死亡几率。|- 5%的失去1点力量和敏捷的几率。|- 7%的取消/清除当前生效药水所有效果的几率。|- 10%的药水无效的几率。|- 10%的药效果减半的几率。|- 8%的药效果增强50%的几率。|- 1%的药效果永久或翻倍的几率。|像治疗药水这样的永久药水，在饮用后被视为在1回合（60秒）内持续生效。|上述特殊事件仅在饮用药水时可能发生。因此，同时使用1瓶油和1瓶药水没有风险，因为油是涂抹在皮肤上，而非饮用，因此不会混合。",
+        "description": "此模组使用桌面版规则的药水叠加系统。当您饮用一瓶药水而另一瓶仍在生效时，可能会发生以下情况：|- 1%的爆炸几率（对饮用者造成5d10火焰伤害，并在5呎范围内造成额外1d10火焰伤害）。|- 2%的因中毒而瞬间死亡几率。|- 5%的失去1点力量和敏捷的几率。|- 7%的取消/清除当前生效药水所有效果的几率。|- 10%的药水无效的几率。|- 10%的药效果减半的几率。|- 8%的药效果增强50%的几率。|- 1%的药效果永久或翻倍的几率。|像治疗药水这样的永久药水，在饮用后被视为在1回合（60秒）内持续生效。|上述特殊事件仅在饮用药水时可能发生。因此，同时使用1瓶油和1瓶药水没有风险，因为油是涂抹在皮肤上，而非饮用，因此不会混合。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod utilise le système de cumuls de potions des règles papier. Lorsque vous buvez une potion alors qu'une autre est encore active, il peut arriver ceci :|- 1% de chances d'exploser (5d10 dégâts de feu sur le buveur, + 1d10 dégâts de feu dans un rayon de 5').|- 2 % de chances de mourir instantanément par empoisonnement.|- 5 % de chances de perdre 1 point de Force et de Dextérité.|- 7 % de chances d'annuler/supprimer tous les effets de la potion active.|- 10 % de chances que la potion ne fasse rien.|- 10 % de chances que la potion ait une efficacité réduite de moitié.|- 8 % de chances que la potion ait une efficacité accrue de 50 %.|- 1 % de chances que la potion ait une efficacité permanente ou doublée.|Les potions permanentes, comme les potions de guérison, sont considérées comme toujours en vigueur pendant 1 tour (60 secondes) après leur consommation.|Les événements spéciaux susmentionnés ne peuvent se produire qu'en buvant des potions. Par conséquent, il n'y a aucun risque à utiliser 1 huile et 1 potion, puisque les huiles sont appliquées sur la peau, et non consommées, et qu'elles ne se mélangent donc pas."
@@ -13167,7 +13167,7 @@
     },
     {
         "id": 898,
-        "description": "此模组的概念是让世界变得更加暴力。声望低下的角色被视为绝对可怕的存在——因此他们几乎不可能帮助任何人。当他们这样做时，这被视为一个特例。因此，他们通过捐赠来提升声望的机会比声望良好的角色要少。商人也更倾向于给他们折扣，哪怕只是为了确保自己不被惹恼。|同样，因为世界是一个黑暗无情的所在，声望高的角色会得到更积极的看待。如果他们犯了错（比如杀死一个城镇居民），人们更愿意原谅他们。|该模组还包含其他组件，这些组件显著改变了游戏中第七章的管理方式，或增加了游戏难度。",
+        "description": "此模组的概念是让世界变得更加暴力。名誉低下的角色被视为绝对可怕的存在——因此他们几乎不可能帮助任何人。当他们这样做时，这被视为一个特例。因此，他们通过捐赠来提升名誉的机会比名誉良好的角色要少。商人也更倾向于给他们折扣，哪怕只是为了确保自己不被惹恼。|同样，因为世界是一个黑暗无情的所在，名誉高的角色会得到更积极的看待。如果他们犯了错（比如杀死一个城镇居民），人们更愿意原谅他们。|该模组还包含其他组件，这些组件显著改变了游戏中第七章的管理方式，或增加了游戏难度。",
         "description_meta": {
             "status": "done",
             "source": "Le concept de ce mod est de rendre le monde plus violent. Les personnages de faible réputation sont considérés comme des êtres humains absolument horribles - il y a donc très peu de chances qu'ils aident qui que ce soit. Lorsqu'ils le font, c'est considéré comme un acte exceptionnel. Par conséquent, ils ont désormais moins de chances de faire des dons pour améliorer leur réputation que les personnages de bonne réputation. Les marchands sont également enclins à leur accorder des réductions, ne serait-ce que pour s'assurer qu'ils ne sont pas vexés.|De même, parce que le monde est un endroit sombre et sans pitié, les personnages dont la réputation est élevée sont vus sous un jour beaucoup plus positif. Les gens sont plus disposés à leur pardonner s'ils commettent une erreur (comme tuer un habitant de la ville).|Le mod comporte également d'autres composants qui modifient considérablement la façon dont le chapitre 7 est géré dans le jeu ou augmentent la difficulté du jeu."
@@ -13537,7 +13537,7 @@
     },
     {
         "id": 924,
-        "description": "这个模组修改了游戏的某些方面（魅力和声望对价格的影响、每个职业的法术进阶、职业的学识、武术技能的每轮攻击加值以及陷阱经验值的调整）。",
+        "description": "这个模组修改了游戏的某些方面（魅力和名誉对价格的影响、每个职业的法术进阶、职业的学识、武术技能的每轮攻击加值以及陷阱经验值的调整）。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod modifie certains aspects du jeu (effets du charisme et de la réputation sur les prix, progression des sorts pour chaque classe, érudition des classes, attaque par round bonus des compétences martiales et adaptation des bonus d'expérience des pièges."
@@ -19204,7 +19204,7 @@
     },
     {
         "id": 1315,
-        "description": "这是一个小型模组，允许邪恶阵营的玩家在不让多恩加入队伍的情况下完成《巴尔王座》中多恩的任务。要开始任务，你的阵营必须是邪恶的，声望不超过8，并冒险前往绿洲。一旦你离开绿洲，你将正常开始任务。",
+        "description": "这是一个小型模组，允许邪恶阵营的玩家在不让多恩加入队伍的情况下完成《巴尔王座》中多恩的任务。要开始任务，你的阵营必须是邪恶的，名誉不超过8，并冒险前往绿洲。一旦你离开绿洲，你将正常开始任务。",
         "description_meta": {
             "status": "done",
             "source": "Il s'agit d'un petit mod permettant à un joueur d'alignement mauvais d'accomplir la quête ToB de Dorn sans que ce dernier ne fasse partie du groupe. Pour commencer la quête, vous devez être d'alignement mauvais avec une réputation de 8 ou moins et vous aventurer jusqu'à l'Oasis. Une fois que vous aurez quitté l'Oasis, vous commencerez la quête normalement."
@@ -20387,7 +20387,7 @@
     },
     {
         "id": 1394,
-        "description": "此工具提供了许多选项来提高游戏难度，最好与 [[1011]] 结合使用，此外还有许多错误修复和 AI 的总体改进。此外，还修复了许多错误并改进了 AI：奥术/神术法术的变更、物品的修订、更早修订的 HLA、表格（知识、声望等）的总体变更、反应性召唤、修复的 LoB 存档、远程武器附魔等等。",
+        "description": "此工具提供了许多选项来提高游戏难度，最好与 [[1011]] 结合使用，此外还有许多错误修复和 AI 的总体改进。此外，还修复了许多错误并改进了 AI：奥术/神术法术的变更、物品的修订、更早修订的 HLA、表格（知识、名誉等）的总体变更、反应性召唤、修复的 LoB 存档、远程武器附魔等等。",
         "description_meta": {
             "status": "done",
             "source": "Fournit de nombreuses options pour améliorer la difficulté du jeu, à associer de préférence avec [[1011]], en plus de nombreuses corrections de bugs et d'améliorations générales de l'IA. En outre, de nombreux bugs ont été corrigés et l'IA a été améliorée : Changements dans les sorts d'arcanes/divins, objets révisés, HLAs révisés plus tôt, changements généraux dans les tables (connaissance, réputation, etc), invocations réactives, sauvegardes LoB corrigées, enchantements d'armes à distance, et bien d'autres choses encore."
@@ -20643,7 +20643,7 @@
     },
     {
         "id": 1412,
-        "description": "此模组提供了二十多种不同的组件，用于改造您的游戏：去除变成剥皮人后声望的损失、移除随机宝藏、为法师提供备选的法术进阶方案、提供备选的体质加成等等。",
+        "description": "此模组提供了二十多种不同的组件，用于改造您的游戏：去除变成剥皮人后名誉的损失、移除随机宝藏、为法师提供备选的法术进阶方案、提供备选的体质加成等等。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod une vingtaine de composants divers pour modder vos partie : retrait de la perte de réputation après une transformation en écorcheur, suppression des trésors aléatoires, progression de sort alternative pour les mages, bonus de constitution alternatifs etc"
@@ -21935,7 +21935,7 @@
     },
     {
         "id": 1502,
-        "description": "此模组增加了一个可招募的角色：K’Velarin。一名守序邪恶的卓尔精灵战士/法师/盗贼。尽管你在游戏中可能会多次遇到他，但他只有在第五章之后才能被招募。与其阵营所暗示的相反，你需要至少15点的声望或18点的魅力才能让他加入你的队伍。|力量 18/78, 敏捷 15, 体质 17, 智力 17, 智慧 13, 魅力 8。",
+        "description": "此模组增加了一个可招募的角色：K’Velarin。一名守序邪恶的卓尔精灵战士/法师/盗贼。尽管你在游戏中可能会多次遇到他，但他只有在第五章之后才能被招募。与其阵营所暗示的相反，你需要至少15点的名誉或18点的魅力才能让他加入你的队伍。|力量 18/78, 敏捷 15, 体质 17, 智力 17, 智慧 13, 魅力 8。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod ajoute un personnage recrutable : K’Velarin. Un drow Guerrier/Mage/Voleur d'alignement loyal mauvais. Bien que vous puissiez le rencontrer plusieurs fois dans le jeu, il n'est recrutable qu'à partir du chapitre 5. Contrairement à ce que son alignement laisse penser, il faut une réputation de 15 minimum ou un Charisme de 18 pour pouvoir l'intégrer dans le groupe.|FOR 18/78, DEX 15, CON 17, INT 17, SAG 13, CHA 8."
@@ -22053,7 +22053,7 @@
     },
     {
         "id": 1510,
-        "description": "此模组为某些凡间和神圣的法术增加了金币或经验值消耗。",
+        "description": "该模组为部分奥术与神术添加金币或经验值消耗，将复活成本调整为接近D&D 3.5或4版规则，修改种族加成，并设定圣武士在实施某些邪恶行为后可能堕落等机制。",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute des coûts en or ou en expérience à certains sorts profanes et divins, change le coût de la résurection pour être proche soit de la version D&D 3.5 ou 4, modifie les bonus raciaux, les paladins peuvent être déchus après certaines actions maléfiques..."
@@ -22117,7 +22117,7 @@
     },
     {
         "id": 1514,
-        "description": "此模组在五酒壶旅店（安姆阴影）和拉撒路档案馆（巴尔王座）添加了一个商人。他出售强大的物品，但要想购买，你的声望必须非常高。请注意，这个商人只会向你展示他的货物一次。还提供了一些额外的组件。",
+        "description": "此模组在五酒壶旅店（安姆阴影）和拉撒路档案馆（巴尔王座）添加了一个商人。他出售强大的物品，但要想购买，你的名誉必须非常高。请注意，这个商人只会向你展示他的货物一次。还提供了一些额外的组件。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod ajoute un marchand aux Cinq Chopes (SoA) et aux Archives de Lazarus (ToB). Celui-ci vend des objets puissants mais pour y accéder, votre réputation doit être très élevée. Notez que ce marchand ne vous présentera ses marchandises qu'une seule et unique fois. Quelques composants supplémentaires sont également proposés."
@@ -22149,7 +22149,7 @@
     },
     {
         "id": 1516,
-        "description": "此模组包含13个宗派。|盗贼：`奥术诡术师`，`神圣诡术师`，`荒野诡术师`，`幸运獠牙`|吟游诗人：`奥术厨师`，`血肉塑形师`|术士：`魔法吞噬者-感染者`|圣武士：`蜜酒品尝者`，`神圣侦察者`|武僧：`蔷薇之刃武僧`|游侠：`夜之挑战者`|战士：`三英尺高之怒`|德鲁伊：`凋零监督者`|请务必阅读readme文件以获取更完整的信息。",
+        "description": "此模组包含13个宗派。|盗贼：`奥术诡术师`，`神圣诡术师`，`荒野诡术师`，`幸运獠牙`|吟游诗人：`奥术厨师`，`血肉塑形师`|术士：`魔法吞噬者-感染者`|圣武士：`蜜酒品尝者`，`神圣侦察者`|武僧：`蔷薇之刃武僧`|游侠：`夜之挑战者`|战士：`三呎高之怒`|德鲁伊：`凋零监督者`|请务必阅读readme文件以获取更完整的信息。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod contient 13 kits.|Voleur : `Arcane Trickster`, `Divine Trickster`, `Wilderness' Trickster`, `Lucky Tusks`|Barde : `Arcane Chef`, `Fleshshaper`|Sorcier : `Magivore-Infected`|Paladin : `Honey-Sipper`, `Hallowed Reconnoitrer`|Moine `Rose Blade Monk`|Rôdeur : `Night Challenger`|Guerrier : `3-Foot-Tall Fury`|Druide : `Decay Overseer`|N'hésitez pas à lire le readme pour avoir des informations plus complètes."
@@ -22773,7 +22773,7 @@
     },
     {
         "id": 1559,
-        "description": "这是一个为无限引擎增强版在手机上进行的完整用户界面转换。布局设计用于约5-6英寸的屏幕分辨率。它继承了许多来自同一作者[[324]]模组的功能，但在图形上非常不同。",
+        "description": "这是一个为无限引擎增强版在手机上进行的完整用户界面转换。布局设计用于约5-6吋的屏幕分辨率。它继承了许多来自同一作者[[324]]模组的功能，但在图形上非常不同。",
         "description_meta": {
             "status": "done",
             "source": "Il s'agit d'une conversion totale de l'interface utilisateur pour IE:EE pour les téléphones. La mise en page est conçue pour une résolution d'écran d'environ 5-6 pouces. Il hérite de nombreuses fonctionnalités du mod [[324]] du même auteur, mais il est graphiquement très différent."
@@ -24693,7 +24693,7 @@
     },
     {
         "id": 1696,
-        "description": "这个模组改进了声望系统。首先，声望是暂时的，会定期下降/上升，以与10点对齐。其次，魅力变得重要得多，魅力值高于或低于10点每2点会使平均魅力值增加/减少1点。第三，坏名声在商店中与好名声提供相同的加成。第四，中立的同伴不喜欢你太好或太坏。第五，如果同伴因为你好/太坏而想离开，魅力值会起作用：每点声望加值都需要从同伴能容忍的最高值中扣除：魅力值如神祇般高，没有任何同伴会离开你，即使他们抱怨。第六，你能拥有的同伴数量也取决于你的魅力：如果你魅力低如蚌，别指望能有5个同伴。",
+        "description": "这个模组改进了名誉系统。首先，名誉是暂时的，会定期下降/上升，以与10点对齐。其次，魅力变得重要得多，魅力值高于或低于10点每2点会使平均魅力值增加/减少1点。第三，坏名声在商店中与好名声提供相同的加成。第四，中立的同伴不喜欢你太好或太坏。第五，如果同伴因为你好/太坏而想离开，魅力值会起作用：每点名誉加值都需要从同伴能容忍的最高值中扣除：魅力值如神祇般高，没有任何同伴会离开你，即使他们抱怨。第六，你能拥有的同伴数量也取决于你的魅力：如果你魅力低如蚌，别指望能有5个同伴。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod améliore le système de réputation. Premièrement, elle est temporaire et redescend/remonte régulièrement pour s'aligner sur 10.| Deuxièmement le charisme est beaucoup plus important et chaque 2 points au dessus ou en dessous de 10 augmente/diminue la charisme moyen de 1 point.| Troisièmement la mauvaise réputation donne le même bonus dans les magasins que la bonne réputation.|Quatrièmement les compagnons neutres n'apprécierons pas que vous soyez trop bon ou trop mauvais.|Cinquièmement, si des compagnons veulent vous quittez parce que vous êtes trop bon/trop mauvais, le charisme entre en compte : chaque point de réputation bonus est à enlever du maximum que le compagnon peut supporter : avec une charisme de dieu, aucun compagnon ne vous quittera jamais, même s'ils râlent.|Sixièmement, le nombre de compagnons que vous pouvez avoir dépend aussi de votre charisme : ne comptez pas avoir 5 compagnons si vous avez le charisme d'une moule."
@@ -25907,7 +25907,7 @@
     },
     {
         "id": 1784,
-        "description": "月亮海地图与博德之门 II 中众多地狱般的地点形成了令人耳目一新的对比。不幸的是，只有与多恩一同旅行的队伍（通常是中立或邪恶阵营的队伍）才能进入那里。||此模组为善良或守序中立阵营（声望 14 或以上）的角色提供了另一条进入月亮海并帮助提尔信徒伸张正义的途径。",
+        "description": "月亮海地图与博德之门 II 中众多地狱般的地点形成了令人耳目一新的对比。不幸的是，只有与多恩一同旅行的队伍（通常是中立或邪恶阵营的队伍）才能进入那里。||此模组为善良或守序中立阵营（名誉 14 或以上）的角色提供了另一条进入月亮海并帮助提尔信徒伸张正义的途径。",
         "description_meta": {
             "status": "done",
             "source": "La carte de Lunia offre un contraste rafraîchissant avec les nombreux lieux infernaux présents dans Baldur's Gate II. Malheureusement, seuls les groupes qui voyagent avec Dorn, généralement ceux d'alignement neutre ou mauvais, y ont accès.||Ce mod offre un chemin alternatif aux personnages d'alignement bon ou loyal neutre (avec une réputation de 14 ou plus) pour entrer à Lunia et aider les fidèles de Tyr à rendre justice."
@@ -26469,7 +26469,7 @@
         "description": "这个模组允许玩家达到50级。",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet possède trois composants :|Atteindre le niveau 50|Remplacer les HLA de mages et de clercs par des compétences innées|Modification de la restriction de niveau pour le gain de dés de points de vie pour être plus conforme à la version papier"
+            "source": "该模组包含三个组件：|角色等级上限提升至50级|将法师与牧师的高等级能力替换为天赋能力|调整生命值升级等级限制以更贴合桌面规则版本"
         },
         "notes": [],
         "notes_meta": {
@@ -26611,7 +26611,7 @@
     },
     {
         "id": 1834,
-        "description": "此模组为守序善良、守序中立、混乱善良和守序中立（声望14或以上）的角色提供了另一种完成索安（SOA）多恩（复活峡谷）任务的方式，而无需让他加入队伍。|事实上，在这个替代版本的事件中，多恩自己成为了故事的反派。",
+        "description": "此模组为守序善良、守序中立、混乱善良和守序中立（名誉14或以上）的角色提供了另一种完成索安（SOA）多恩（复活峡谷）任务的方式，而无需让他加入队伍。|事实上，在这个替代版本的事件中，多恩自己成为了故事的反派。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod propose un autre cheminement aux personnages d'alignement loyal bon, loyal neutre, chaotique bon et loyal neutre (avec une réputation de 14 ou plus) pour accomplir la quête SOA de Dorn (Resurrection Gorge) sans qu'il fasse partie du groupe.|En fait, dans cette version alternative des événements, Dorn lui-même devient le méchant de l'histoire."
