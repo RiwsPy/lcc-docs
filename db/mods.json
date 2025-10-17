@@ -225,7 +225,7 @@
             "IWDEE"
         ],
         "authors": [
-            "yellow hat elminster"
+            "elminster"
         ],
         "team": [],
         "notes": [],
@@ -909,7 +909,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-09",
         "tp2": "akgear"
     },
     {
@@ -1086,25 +1086,20 @@
         "description": "Cette jeune elfe druide, enjouée et haute en couleurs vous demande de l'aide au Bosquet des Druides, et vous propose même de vous rejoindre pour mettre fin au règne de Faldorn. Elle possède de nombreux banters avec les différents PNJ du jeu.|FOR 14, DEX 14, CON 7, INT 12, SAG 18, CHA 12.",
         "urls": [
             "https://www.shsforums.net/files/file/1260-allison-one-day-npc/",
-            "https://github.com/Spellhold-Studios/Allison-One-Day-NPC",
-            "https://github.com/Plutonium-X/1D_NPC_Allison"
+            "https://github.com/Spellhold-Studios/Allison-One-Day-NPC/"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Rastor"
         ],
         "team": [],
-        "notes": [
-            "Choisissez le troisième lien pour la version BG2EE/EET."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -1115,7 +1110,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-12",
         "tp2": "allison"
     },
     {
@@ -1153,7 +1148,8 @@
         "name": "Almateria's IWD2 Fixpack",
         "description": "Ce mod apporte de nombreux correctifs au jeu.",
         "urls": [
-            "https://www.shsforums.net/files/file/1085-almaterias-iwd2-fixpack/"
+            "https://www.shsforums.net/files/file/1085-almaterias-iwd2-fixpack/",
+            "https://github.com/Spellhold-Studios/Almaterias-IWD2-Fixpack/"
         ],
         "categories": [
             "Patch non officiel"
@@ -1172,7 +1168,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-01",
+        "last_update": "2025-09",
         "tp2": "iwd2fixpack"
     },
     {
@@ -2127,23 +2123,21 @@
         "description": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, le The Mod for the Wicked. Combattante des tunnels demi-orque, Ariena est dotée d'une voix à la Angela Gossow d'Arch Enemy avec déjà pas mal de banters, d'une sorte de quête et d'un langage broken english amusant. Son petit dialogue avec Salvanas à la Couronne vaut le détour...|FOR 18, DEX 15, CON 17, INT 7, SAG 11, CHA 10.",
         "urls": [
             "https://www.shsforums.net/files/file/511-ariena-version-22/",
-            "https://github.com/RoxanneSHS/ArienaEE"
+            "https://github.com/Spellhold-Studios/Ariena-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
             "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Deathsangel"
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien github pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
+            "Choisissez [ce lien](https://github.com/RoxanneSHS/ArienaEE/) pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -2151,7 +2145,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-09",
+        "last_update": "2025-09",
         "tp2": "Ariena"
     },
     {
@@ -2898,7 +2892,8 @@
         "name": "Aurora NPC for BG2:TOB",
         "description": "La célèbre Aurora du mod [[89]] peut désormais vous rejoindre dans votre quête dans ToB ! Dans ToB, vous pourrez désormais la convoquer dans l'Antichambre afin qu'elle combatte à vos côtés. Aurora est une guerrière éclairée qui joutera avec passion les enfants de Bhaal. Elle ne semble pas regretter d'avoir été rappelée à sa « retraite » pour jouer un rôle plus actif. De nombreuses interjections, des banters et des dialogues avec le PJ sont au programme de la version ToB de ce mod.",
         "urls": [
-            "https://www.shsforums.net/files/file/1039-aurora-tob-npc/"
+            "https://www.shsforums.net/files/file/1039-aurora-tob-npc/",
+            "https://github.com/Spellhold-Studios/Aurora-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -2918,7 +2913,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2013-01",
+        "last_update": "2025-09",
         "tp2": "tobaurora"
     },
     {
@@ -3096,7 +3091,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-09",
         "tp2": "Derats_AutoRest"
     },
     {
@@ -4012,7 +4007,7 @@
             "se"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-09",
         "tp2": "tnt"
     },
     {
@@ -4348,10 +4343,11 @@
     },
     {
         "id": 134,
-        "name": "BGT NPC Sound",
+        "name": "Baldurs Gate Trilogie NPC Sound",
         "description": "Le niveau sonore des doublages des personnages diffère entre Baldur's Gate et Baldur's Gate II. Du coup, il est difficile de trouver un réglage qui permettent de bien entendre ceux issus de BGII sans se faire éclater les tympans par ceux recopiés depuis BG. Ce mod passe au crible tous les sons importés de Baldur's Gate et ajuste leur niveau sonore à celui de Baldur's Gate II.|Conçu à l'origine sur la base du niveau sonore du doublage en allemand, il devrait aussi convenir pour le français.",
         "urls": [
-            "https://www.shsforums.net/files/file/561-bgt-npcsound-weidu-v3/"
+            "https://www.shsforums.net/files/file/561-bgt-npcsound-weidu-v3/",
+            "https://github.com/Spellhold-Studios/BGT-NPCSound/"
         ],
         "categories": [
             "Conversion"
@@ -4361,7 +4357,7 @@
             "BGT"
         ],
         "authors": [
-            "Leonardo Watson"
+            "Lokadamus"
         ],
         "team": [],
         "notes": [],
@@ -4369,7 +4365,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2009-08",
+        "last_update": "2025-09",
         "tp2": "BGT-NPCSound"
     },
     {
@@ -4450,7 +4446,8 @@
         "name": "BP-Balancer",
         "description": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]], NPC-Tweaks.",
         "urls": [
-            "https://www.shsforums.net/files/file/493-bp-balancer/"
+            "https://www.shsforums.net/files/file/493-bp-balancer/",
+            "https://github.com/Spellhold-Studios/BP-Balancer/"
         ],
         "categories": [
             "Gameplay"
@@ -4467,7 +4464,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2022-01",
+        "last_update": "2025-09",
         "tp2": "BP-Balancer"
     },
     {
@@ -4736,7 +4733,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-10",
         "tp2": "bggo"
     },
     {
@@ -5210,7 +5207,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "BardicWonders"
     },
     {
@@ -5636,7 +5633,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "n/a"
     },
     {
@@ -6494,7 +6491,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "AutoLoot"
     },
     {
@@ -7072,7 +7069,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-10",
         "tp2": "A7-ChaosSorcerer"
     },
     {
@@ -7319,24 +7316,21 @@
         "description": "Ce mod ajoute une kensaï demi-déesse neutre stricte, avec un kit de voix et des armes spécifiques, qui romance exclusivement les personnages féminins. Des interactions ont été écrites avec chaque personnage, mais la romance n'existe pour l'instant que pour SoA. Des quêtes relatives à Chloé complètent l'ensemble.|FOR 13, DEX 25, CON 16, INT 12, SAG 12, CHA 14.",
         "urls": [
             "https://www.shsforums.net/files/file/848-chloe-v15/",
-            "https://github.com/Plutonium-X/NPC_Chloe"
+            "https://github.com/Spellhold-Studios/Chloe-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
             "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Lucythebeast"
         ],
         "team": [],
         "notes": [
-            "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET.",
-            "Il existe une [variante non officielle du mod](https://github.com/RoxanneSHS/ChloeEET)."
+            "Il existe une [version EE non officielle](https://github.com/Plutonium-X/NPC_Chloe/)."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -7349,7 +7343,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-09",
         "tp2": "Chloe"
     },
     {
@@ -8077,7 +8071,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-03",
+        "last_update": "2025-10",
         "tp2": "A7-ConvenientEENPCs"
     },
     {
@@ -8536,7 +8530,7 @@
             "BGEE"
         ],
         "authors": [
-            "shadowhawk703"
+            "Shadowhawk"
         ],
         "team": [],
         "notes": [],
@@ -9830,7 +9824,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2017-05",
+        "last_update": "2023-08",
         "tp2": "D2kits"
     },
     {
@@ -12003,7 +11997,8 @@
         "name": "Enkida's Portrait Pack",
         "description": "Ce mod améliore les portraits des PNJ de Bioware et de certains PNJ de mods afin de leur donner un look plus standardisé (taille des têtes similaires, panel de couleurs, et une tentative de fidélité à l'artwork originel de Bioware).",
         "urls": [
-            "https://www.shsforums.net/files/file/993-enkidas-portrait-pack/"
+            "https://www.shsforums.net/files/file/993-enkidas-portrait-pack/",
+            "https://github.com/Spellhold-Studios/Enkidas-Portrait-Pack/"
         ],
         "categories": [
             "Portrait et son"
@@ -12021,7 +12016,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2012-03",
+        "last_update": "2025-09",
         "tp2": "eportraits"
     },
     {
@@ -12029,7 +12024,8 @@
         "name": "Epic Endeavors",
         "description": "Cette conversion totale de Shadows of Amn respecte les règles d'AD&D 2 mais mélange les genres en multipliant les clins d'œil à des jeux ou à des films.|L'histoire se déroule dans un monde imaginaire n'ayant aucun rapport avec les Royaumes Oubliés. Vous êtes à la tête d'une petite unité de commandos devant accomplir une série de missions, certaines particulièrement originales, visant à empêcher un fou furieux de régner sur votre monde. Le jeu se déroule au fil des missions qu'on vous confie, avant de partir pour le grand combat final.|Le mod rajoute de nombreuses nouvelles créatures et de nouveaux objets, 60 cartes, 13 grandes quêtes, 20 heures environ de temps de jeu rajouté, et un combat final assez redoutable à ce qu'il parait, avec 200 créatures à combattre...",
         "urls": [
-            "https://www.shsforums.net/files/file/45-epic-endeavors/"
+            "https://www.shsforums.net/files/file/45-epic-endeavors/",
+            "https://github.com/Spellhold-Studios/Epic-Endeavors/"
         ],
         "categories": [
             "Conversion"
@@ -12056,7 +12052,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2010-04",
+        "last_update": "2025-10",
         "tp2": "eeconv"
     },
     {
@@ -12321,8 +12317,8 @@
         "name": "Exnem's Addon",
         "description": "Ce mod regroupe au format WeiDU tous les objets et sorts d'Exnem, soit 21 nouveaux sorts et 88 nouveaux objets. Le premier composant installe les objets et les sorts, un deuxième en répartit quelques-uns dans l'inventaire de créatures existantes, et le troisième répartit les autres dans différents conteneurs du jeu.",
         "urls": [
-            "http://america.iegmc.net/revisions/ExnemVaultv5.rar",
-            "https://www.shsforums.net/files/file/93-sir-billybobs-revisions-exnem-items-minimod/"
+            "https://www.shsforums.net/files/file/93-sir-billybobs-revisions-exnem-items-minimod/",
+            "https://github.com/Spellhold-Studios/Exnem-Vault/"
         ],
         "categories": [
             "Sort et objet"
@@ -12342,7 +12338,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2007-04",
+        "last_update": "2025-09",
         "tp2": "Exnem"
     },
     {
@@ -12632,7 +12628,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2020-08",
         "tp2": "Fade"
     },
     {
@@ -12773,7 +12769,8 @@
         "name": "Faren",
         "description": "\"Logé\" à la prison de Franc-Marché, ce guerrier/voleur neutre strict est peu loquace sur son passé. Il aurait grandi à Franc-Marché, faisant un temps parti de sa milice, et voyagé vers Luskan avec quelques aventuriers. Femme, homme, quelle que soit la race ou la classe, Faren ne fait pas de jaloux : sa romance est accessible à tous. Il dispose également de contenu pour des joueurs ne recherchant pas ce type de relations. Des banters sont possibles avec [[228]] et [[394]], en sus des PNJ Bioware. Le mod couvre les parties SoA et ToB.|FOR 16, DEX 17, CON 16, INT 10, SAG 12, CHA 10.",
         "urls": [
-            "https://www.shsforums.net/files/file/1125-faren/"
+            "https://www.shsforums.net/files/file/1125-faren/",
+            "https://github.com/Spellhold-Studios/Faren-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -12794,7 +12791,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2015-07",
+        "last_update": "2025-09",
         "tp2": "faren"
     },
     {
@@ -14367,7 +14364,7 @@
         "description": "Combiné avec [[1216]], ce mod permet de jouer à PST dans une résolution de l'interface supérieure à 640x480. Pour ce faire, il corrige de nombreux écrans de jeu, notamment le menu Démarrer, les écrans de création de personnage, le journal, l'inventaire, les sorts et les magasins, entre autres, ainsi qu'un certain nombre d'autres composants, comme la barre inférieure de l'interface utilisateur qui a été optimisée, les infobulles et les messages en jeu (qui s'affichent désormais correctement), la boîte de dialogue et la carte du monde. De plus, il permet d'augmenter la taille des polices du jeu.",
         "urls": [
             "https://www.shsforums.net/files/file/683-ghostdogs-PST-ui-mod-v22/",
-            "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/Ghostdogs_PST_UI_mod_v2.2_fr.7z"
+            "https://github.com/Spellhold-Studios/GhostDogs-PST-UI/"
         ],
         "categories": [
             "Cosmétique"
@@ -14379,16 +14376,14 @@
             "ghostdog"
         ],
         "team": [],
-        "notes": [
-            "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [
             "en"
         ],
         "status": "active",
-        "last_update": "2012-01",
+        "last_update": "2025-09",
         "tp2": "GhostDog's-PST-UI"
     },
     {
@@ -14499,9 +14494,7 @@
             "Genwa"
         ],
         "team": [],
-        "notes": [
-            "La traduction française n'est pas finie."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -14509,7 +14502,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2022-07",
         "tp2": "SHUKBG1EE"
     },
     {
@@ -14740,7 +14733,7 @@
         "description": "Ce mod permettra aux PJ de tout poil (quelle que soit leur race, leur classe ou leur alignement) de romancer le tieffelin, ou tout du moins d'essayer. Une vingtaine de lovetalks, des discussions surprises, des dialogues à l'initiative du PJ, conflit de romance avec Anomen... Le mod dispose de contenu pour SoA et ToB.",
         "urls": [
             "https://www.shsforums.net/files/file/984-haerdalis-romance/",
-            "https://github.com/MattyGroove/haerdalisromance"
+            "https://github.com/Spellhold-Studios/HaerDalis-Romance/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -14762,7 +14755,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-11",
+        "last_update": "2025-09",
         "tp2": "haerdalisromance"
     },
     {
@@ -16694,7 +16687,8 @@
         "name": "Ilmatar's Portrait Pack",
         "description": "Ce mod remplace 9 portraits de PNJ de BG2 par des créations d'Ilmatar. Ces portraits peuvent être utilisés par votre personnage.",
         "urls": [
-            "https://www.shsforums.net/files/file/941-ilmatars-portrait-pack-v10/"
+            "https://www.shsforums.net/files/file/941-ilmatars-portrait-pack-v10/",
+            "https://github.com/Spellhold-Studios/Ilmatars-Portrait-Pack/"
         ],
         "categories": [
             "Portrait et son"
@@ -16715,7 +16709,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2011-01",
+        "last_update": "2025-09",
         "tp2": "IlmatarPack"
     },
     {
@@ -18310,7 +18304,7 @@
     },
     {
         "id": 574,
-        "name": "Jarl's BGT Adventure Pack",
+        "name": "Jarl's Adventure Pack",
         "description": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[112]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer.|Ce mod nécessite l'installation de [[1111]], du composant principal d'[[548]] et des composants `Restitutions mineures de dialogues` et `Réparations et restitutions de magasins, tavernes et auberges` de [[112]].",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/jarls-bgt-adventure-pack.8/",
@@ -18326,6 +18320,7 @@
         ],
         "authors": [
             "Jarl",
+            "Ychap",
             "jastey"
         ],
         "team": [],
@@ -18379,7 +18374,7 @@
     },
     {
         "id": 576,
-        "name": "Jastey's Tweaks for SoD and EET (and BGT)",
+        "name": "Jastey's Tweaks for SoD and EET",
         "description": "Cette collection d'ajustements est destiné à la partie SoD part de BG:EE (excepté le dernier composant qui permet d'utiliser le portrait SoD d'Imoen dans BG2) :|- Décision du jugement final indépendamment des réponses du PJ : la libération est toujours privilégiée sur l'évasion si les actes du PJs le permettent.|- Déclencher les dialogues de romance indépendamment des zones dans lesquelles on doit passer. Vous avez aussi la possibilité de mettre en attente les interactions entre PNJ s'ils ne sont pas dans le groupe dans les zones concernées. Ils seront alors déclenchés lorsqu'ils réintégreront le groupe.|- Sauter le donjon de Korlasz et se rendre directement au palais ducal sans briser le quatrième mur.|- Choix de dialogue supplémentaires et prévention des impasses dans la réalisation des quêtes.|- Rétablir le combat scénarisé de la scène d'enlèvement à la fin de SoD.|- Choisir les XP des personnages au début de SoD (65 000, 90 000, 125 000 ou 161 000).|- Et bien d'autres...",
         "urls": [
             "https://www.gibberlings3.net/mods/tweaks/jasteys-sod-tweak-pack/",
@@ -19140,7 +19135,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "KhalidBG2"
     },
     {
@@ -19189,23 +19184,21 @@
         "description": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido est un barde de kit bouffon et d'alignement chaotique mauvais. Il dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec [[66]]. Retrouvez-le dans l'auberge des Cinq Chopes.|FOR 11, DEX 17, CON 13, INT 16, SAG 8, CHA 15.",
         "urls": [
             "https://www.shsforums.net/files/file/241-kido-version-70/",
-            "https://github.com/RoxanneSHS/KidoEE/"
+            "https://github.com/Spellhold-Studios/Kido-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
             "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Deathsangel"
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien github pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
+            "Choisissez [ce lien](https://github.com/RoxanneSHS/KidoEE/) pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -19213,7 +19206,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-11",
+        "last_update": "2025-09",
         "tp2": "Kido"
     },
     {
@@ -20480,7 +20473,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -20498,7 +20490,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-09",
         "tp2": "JL#ZULU"
     },
     {
@@ -21789,7 +21781,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-10",
         "tp2": "mhoram"
     },
     {
@@ -23219,7 +23211,8 @@
         "name": "NPC Damage",
         "description": "Ce mod graphique s'inspire de Planescape Torment et modifie les portraits de vos compagnons au fur et à mesure qu'ils encaissent des dégâts. Les modifications s'effectuent par tranche de 25% du total des PV de chaque PNJ et n'ont cours que pour les PNJ de Bioware.",
         "urls": [
-            "https://www.shsforums.net/files/file/615-npc-damage/"
+            "https://www.shsforums.net/files/file/615-npc-damage/",
+            "https://github.com/Spellhold-Studios/NPC-Damage/"
         ],
         "categories": [
             "Portrait et son"
@@ -23234,9 +23227,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "es"
+        ],
         "status": "active",
-        "last_update": "2008-03",
+        "last_update": "2025-09",
         "tp2": "npcdamage"
     },
     {
@@ -23492,7 +23488,7 @@
         "description": "Kensai gay (uniquement romançable par un PJ mâle) de son état, c'est un guerrier compétent bien qu'il souffre d'un manque de confiance en soi probablement dû à sa fragilité physique. Il dispose de contenu pour SoA et ToB. On le trouve dans le quartier des Docks ; il viendra vers vous pour vous demander de l'aide. Nathaniel romancera un personnage masculin humain, elfe ou demi-elfe, d'alignement bon ou loyal neutre, à condition qu'il ne soit pas un voleur. Nathaniel dispose de contenu pour [[594]] si ce mod est installé.|FOR 16, DEX 17, CON 12, INT 11, SAG 9, CHA 14.",
         "urls": [
             "https://www.shsforums.net/files/file/734-nathaniel/",
-            "https://github.com/Endarire/Nathaniel-NPC-for-BG2"
+            "https://github.com/Spellhold-Studios/Nathaniel-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -23500,8 +23496,7 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE",
-            "EET"
+            "BG2EE"
         ],
         "authors": [
             "Miss Sakaki",
@@ -23509,7 +23504,7 @@
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien github pour la version EET."
+            "Choisissez [ce lien](https://github.com/Endarire/Nathaniel-NPC-for-BG2/) pour la version EET. Attention, il s'agit d'une version non officielle."
         ],
         "translation_state": "auto",
         "safe": 1,
@@ -23517,7 +23512,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2013-11",
+        "last_update": "2025-09",
         "tp2": "Nathaniel"
     },
     {
@@ -25808,7 +25803,7 @@
         "description": "Ce mod rassemble les corrections réalisées par de nombreux moddeurs au fil des années, et converties au format WeiDU, plus compatible. Il ajoute également un bon nombre de corrections supplémentaires. En plus des nouvelles corrections faites par Qwinn, les corrections issues de trois mods non-WeiDU ont été intégrées dans ce mod: [Platter's Fixpack 1.37](https://sorcerers.net/Games/Torment/Platter/index.php), dont Platter est l'auteur principal, mais qui contient aussi les travaux de plusieurs autres contributeurs. Les corrections du Fixpack Beta 1.38, toujours de Platter, sont également incluses |[[874]], par Cilantro, alias Kung Fu Man (qui restaure plusieurs sorts, objets et autres, qui avaient été supprimés de la dernière version de PST).|\"SKARDAVNELNATE'S All-Inclusive Fixpack\", par SKARDAVNELNATE.|Notez que même si ce mod ne contient que des corrections de bogues, plusieurs de ces corrections ont pour résultat de restaurer du contenu non disponible dans le jeu original.|Il comprend trois composants : le premier comporte les principales corrections, le deuxième les corrections d'orthographe et de grammaire anglaise, le troisième rajoute des sous-titres aux dialogues des cinématiques qui étaient auparavant uniquement sous forme de dialogue audio/sonore.",
         "urls": [
             "https://www.shsforums.net/files/file/647-PST-ultimate-weidu-fixpack-v413/",
-            "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/pstfixpack_v413_correctfr.7z"
+            "https://github.com/Spellhold-Studios/PST-Ultimate-Fixpack/"
         ],
         "categories": [
             "Patch non officiel"
@@ -25820,9 +25815,7 @@
             "Qwinn"
         ],
         "team": [],
-        "notes": [
-            "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -25835,7 +25828,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2012-08",
+        "last_update": "2025-09",
         "tp2": "PST-Fix"
     },
     {
@@ -25843,8 +25836,7 @@
         "name": "PS:T Unfinished Business - Reloaded",
         "description": "Ce mod reprend le mod de Qwinn PS:T Unfinished Business (PST-UB), version 4.12. Complètement remanié, il est compatible aussi bien avec PST:EE qu'avec la version classique de Planescape: Torment (PST). Il restaure le contenu \"presque-mais-pas-complètement-terminé\" (par manque de temps des développeurs) du jeu, le complète et l'améliore, ce qui vous permet de profiter de ces nouveautés dans vos parties.",
         "urls": [
-            "https://github.com/Argent77/PST-UB-reloaded",
-            "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/pstfixpack_v413_correctfr.7z"
+            "https://github.com/Argent77/PST-UB-reloaded"
         ],
         "categories": [
             "Quête"
@@ -25854,12 +25846,11 @@
             "PSTEE"
         ],
         "authors": [
+            "Qwinn",
             "Argent77"
         ],
         "team": [],
-        "notes": [
-            "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien github."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -26222,7 +26213,7 @@
             "pt"
         ],
         "status": "embed",
-        "last_update": "2021-09",
+        "last_update": "2021-07",
         "tp2": "pnp_potions"
     },
     {
@@ -26757,7 +26748,8 @@
         "name": "Psionics Unleashed",
         "description": "Ce mod a pour but d'ajouter un système complet de gestion psionique (classe, IA, effets...) basé sur les règles D&D 3.5. Plus de détails dans le [readme](https://www.shsforums.net/topic/55711-readme/) et sur les [capacités psioniques](https://www.shsforums.net/topic/55713-psionic-power-list/).",
         "urls": [
-            "https://www.shsforums.net/files/file/1037-psionics-unleashed/"
+            "https://www.shsforums.net/files/file/1037-psionics-unleashed/",
+            "https://github.com/Spellhold-Studios/Psionics-Unleashed/"
         ],
         "categories": [
             "Gameplay"
@@ -26780,7 +26772,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2013-11",
+        "last_update": "2025-09",
         "tp2": "w_psionics_unleashed"
     },
     {
@@ -26893,7 +26885,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-10",
         "tp2": "d0questpack;questpack"
     },
     {
@@ -26933,7 +26925,7 @@
         "description": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[833]], [[1091]], repos quelle que soit la zone (non recommandé), [[1115]] (non recommandé) et [Dustman Robe](https://sorcerers.net/Games/Torment/Platter/index.php?page=mods).",
         "urls": [
             "https://www.shsforums.net/files/file/649-qwinns-pst-tweak-pack-v412/",
-            "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/psttweak_v412_correctfr.7z"
+            "https://github.com/Spellhold-Studios/PST-Tweak-Pack/"
         ],
         "categories": [
             "Gameplay"
@@ -26946,7 +26938,6 @@
         ],
         "team": [],
         "notes": [
-            "Attention : si vous avez installé le mod de correction de la traduction française, téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS.",
             "Il est désormais obsolète et a été intégré dans [[1141]]."
         ],
         "translation_state": "auto",
@@ -26961,7 +26952,7 @@
             "fr"
         ],
         "status": "embed",
-        "last_update": "2012-08",
+        "last_update": "2025-09",
         "tp2": "PST-Tweak"
     },
     {
@@ -27065,26 +27056,22 @@
         "description": "Ce mod rend disponibles 30 profils du module de conversion [[881]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
         "urls": [
             "https://www.shsforums.net/files/file/51-return-to-trademeet-kit-pack/",
-            "https://github.com/Plutonium-X/KIT_RTT"
+            "https://github.com/Spellhold-Studios/RTT-Kit-Pack/"
         ],
         "categories": [
             "Kit"
         ],
         "games": [
-            "BGEE",
             "BG2",
-            "BGT",
-            "BG2EE",
-            "EET",
-            "IWDEE"
+            "BGT"
         ],
         "authors": [
-            "al17"
+            "al17",
+            "the bigg"
         ],
         "team": [],
         "notes": [
-            "Quelque soit les kits que vous installez, vous DEVEZ installer le composant final.",
-            "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version EE."
+            "Utilisez [ce lien](https://github.com/Plutonium-X/KIT_RTT/) pour les versions EE."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -27094,7 +27081,7 @@
             "it"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-10",
         "tp2": "rttkit"
     },
     {
@@ -27449,7 +27436,8 @@
         "description": "Ce mod est en fait un complément d'[[74]] et permet de modifier le final de ToB, en rendant possible la rédemption de Jon Irenicus. Pour ce faire, recrutez-le avant de pénétrer dans l'antre de Mélissane, en jouant sur sa fierté blessée.|Une autre facette inattendue du mod se situe dans l'apparition de votre vieil ennemi, Demogorgon, le Prince des Démons. Il vous posera quelques énigmes, avant d'engager un nouveau combat qu'il semble possible d'éviter tout en humiliant sa majesté. Ces énigmes sont largement inspirés des livres de Raymond Smullyan (Satan, Cantor et Les énigmes de Shéhérazade).",
         "urls": [
             "https://www.shsforums.net/files/file/42-redemption/",
-            "http://www.onlinefiction.net/Redemption/Redemption.html"
+            "http://www.onlinefiction.net/Redemption/Redemption.html",
+            "https://github.com/Spellhold-Studios/Redemption/"
         ],
         "categories": [
             "Quête"
@@ -27459,7 +27447,7 @@
             "BGT"
         ],
         "authors": [
-            "dorotea"
+            "ladydorotea"
         ],
         "team": [],
         "notes": [
@@ -27474,7 +27462,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2004-05",
+        "last_update": "2025-09",
         "tp2": "Redemption"
     },
     {
@@ -27512,6 +27500,7 @@
         "description": "Ce mod a été conçu pour apporter diverses améliorations aux règles de BG2. Parmi les composants : un profil (Sword Angel) ; un rééquilibrage des métamorphes de façon plus raisonnable que celle de [[349]] ; le raffinement des armures avec la prise en compte du poids, l'échec sur les sorts profanes et les compétences de voleur ; et enfin des HLAs entièrement remodelées pour les rendre plus uniques à chaque classe et profil.",
         "urls": [
             "https://www.shsforums.net/topic/58623-refinements-hlas-modularized-and-on-bg2ee/",
+            "https://github.com/Spellhold-Studios/Refinements/",
             "https://github.com/UnearthedArcana/refinements"
         ],
         "categories": [
@@ -27783,7 +27772,7 @@
     },
     {
         "id": 873,
-        "name": "RestBeGone",
+        "name": "Rest Be Gone",
         "description": "Ce mini mod installe un nouveau système de récupération des sorts et des capacités inspiré de celui de PoE2. Ils sont désormais récupérés tous les deux rounds en dehors des combats. Il comporte toutefois un effet secondaire un peu ennuyeux : les effets de fatigue disparaissent totalement !",
         "urls": [
             "https://forums.beamdog.com/discussion/81656/",
@@ -28029,7 +28018,8 @@
         "name": "Return to Trademeet",
         "description": "Rittorno a Trademeet de son vrai nom. Son histoire se situe un an après la fin de Throne of Bhaal. Vous avez décidé de ne pas devenir un dieu et vos compagnons sont partis poursuivre leur propre route tandis que vous avez vagabondé dans Féerune, accomplissant ci et là diverses aventures. Mais vous recevez une lettre de Château-Suif : voici enfin l'occasion de revenir dans les lieux de votre enfance...",
         "urls": [
-            "https://www.shsforums.net/files/file/17-return-to-trademeet/"
+            "https://www.shsforums.net/files/file/17-return-to-trademeet/",
+            "https://github.com/Spellhold-Studios/Return-to-Trademeet/"
         ],
         "categories": [
             "Conversion"
@@ -28049,8 +28039,8 @@
             "it"
         ],
         "status": "active",
-        "last_update": "2007-04",
-        "tp2": "RTT"
+        "last_update": "2025-10",
+        "tp2": "rtt"
     },
     {
         "id": 882,
@@ -28166,7 +28156,7 @@
             "it"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "tp2": "RevisedBattles"
     },
     {
@@ -29723,7 +29713,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-10",
         "tp2": "SotSC"
     },
     {
@@ -29781,7 +29771,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-04",
+        "last_update": "2025-10",
         "tp2": "shadowadept"
     },
     {
@@ -30539,7 +30529,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-04",
+        "last_update": "2025-10",
         "tp2": "Sirene_BG2"
     },
     {
@@ -31491,7 +31481,8 @@
         "name": "Spellhold Gauntlet",
         "description": "Ce mod offre une alternative à la voie classique pour se rendre à Brynnlaw afin de libérer Imoen. Une série de tests visant à pousser vos limites mentales et physiques vous attendent... vous êtes prévenus.",
         "urls": [
-            "https://www.shsforums.net/files/file/836-spellhold-gauntlet-v116/"
+            "https://www.shsforums.net/files/file/836-spellhold-gauntlet-v116/",
+            "https://github.com/Spellhold-Studios/Spellhold-Gauntlet/"
         ],
         "categories": [
             "Quête"
@@ -31511,7 +31502,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2009-09",
+        "last_update": "2025-09",
         "tp2": "spgaunt"
     },
     {
@@ -32496,7 +32487,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-10",
         "tp2": "karatur"
     },
     {
@@ -32929,6 +32920,7 @@
             "EET"
         ],
         "authors": [
+            "Arian",
             "Michael Lyashenko",
             "Bri",
             "Lord Ernie"
@@ -32942,7 +32934,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2024-11",
         "tp2": "Tashia"
     },
     {
@@ -33392,7 +33384,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-09",
         "tp2": "Thael"
     },
     {
@@ -33553,7 +33545,8 @@
         "name": "The Big Picture",
         "description": "À l'origine, BP permettait de pouvoir jouer aux 3 grands mods ([[1601]], [[936]] et [[1118]]) en un seul et même package. Au fil du temps, tous ces mods ont été recodés au format WeiDU. Les ajouts propres de BP ayant eu tellement de succès, son auteur le convertit à son tour en WeiDU, et BP permet aujourd'hui d'améliorer très sensiblement l'IA de tous vos adversaires, ainsi que de votre groupe, tout comme de corser de nombreuses rencontres. Vous remarquerez ainsi que de nouvelles rencontres (naturellement ardues) ont également été ajoutées : la liche sur les docks, Orcus le prince-démon... ainsi que des reprises de certains composants de [[1021]] et la restauration d'[[74]] dans la version de David Gaider.",
         "urls": [
-            "https://www.shsforums.net/files/file/546-the-big-picture-v181/"
+            "https://www.shsforums.net/files/file/546-the-big-picture-v181/",
+            "https://github.com/Spellhold-Studios/Big-Picture/"
         ],
         "categories": [
             "Script et tactique"
@@ -33580,7 +33573,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2014-02",
+        "last_update": "2025-09",
         "tp2": "bp"
     },
     {
@@ -33644,7 +33637,8 @@
         "description": "Ce mod contient un certain nombre de réglages et de correctifs, la plupart destinés à rendre le jeu moins frustrant :|- Diminution de la durée de l'effet aveuglement du sort Beauté de la nature.|- Correction du sort emprisonnement : désormais, le personnage emprisonné ne sera pas considéré comme mort et ne quittera plus le groupe. Il n'y aura plus de GAME OVER pour le joueur principal, sauf en solo. Ses romances pourront continuer...|- Suppression de Drop Weapons in Panic.|- Souhaits et souhaits limités illimités.|- Souhait et souhait limité revisités pour ne plus prendre en compte les conditions de sagesse.|- Amélioration du système de difficulté : vous pouvez régler la difficulté du scénario via un dialogue, sans modifier les dégâts infligés comme vous le feriez en utilisant la barre de difficulté.|- Et bien d'autres...",
         "urls": [
             "https://www.shsforums.net/files/file/95-the-bigg-house-the-bigg-tweaks/",
-            "https://github.com/vbigiani/tb-tweaks"
+            "https://github.com/vbigiani/tb-tweaks",
+            "https://github.com/Spellhold-Studios/The-Bigg-Tweaks/"
         ],
         "categories": [
             "Gameplay"
@@ -33668,7 +33662,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2012-01",
+        "last_update": "2025-10",
         "tp2": "tb#tweaks"
     },
     {
@@ -33914,7 +33908,8 @@
         "description": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque. Vous devez disposer d'une installation avec Throne of Bhaal.",
         "urls": [
             "https://www.shsforums.net/files/file/323-the-darkest-day-v114/",
-            "https://forums.beamdog.com/discussion/86795/"
+            "https://forums.beamdog.com/discussion/86795/",
+            "https://github.com/Spellhold-Studios/The-Darkest-Day/"
         ],
         "categories": [
             "Quête",
@@ -33950,8 +33945,8 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2010-12",
-        "tp2": "TDD"
+        "last_update": "2025-09",
+        "tp2": "tdd"
     },
     {
         "id": 1063,
@@ -34648,7 +34643,8 @@
         "name": "Secret of Bone Hill",
         "description": "Qu'est-ce que Secret of Bone Hill ? Hé bien c'est un gros mod de quête pour BG1 (BGT requis) qui adapte deux scénarios de jeu de rôle papier : L1 et L2 dans l'univers Greyhawk. Au programme : des dizaines de nouvelles cartes, des magasins, des quêtes et un personnage recrutable (Fabio).|L'histoire en elle-même se passe sur l'île de Lendore, à proximité de la ville de Restenford. Pelltar, un mage que vous rencontrez dans le temple de Lathandre au chapitre 4 (dès que vous avez fini les mines de Nashkel et que vous pouvez vous rendre au camp des bandits), sera à même de vous y téléporter et de vous en sortir, une fois votre aide apportée au village.|La 1ère partie est pré-requise pour débloquer la 2nde que vous pourrez atteindre après votre sortie des catacombes de Château-Suif. Vous rencontrerez là Fabio (un barde humain) ou Pelltar qui vous demanderont de retourner à Restenford avec eux, pour élucider cette fois-ci un mystérieux meurtre...",
         "urls": [
-            "https://www.shsforums.net/files/file/1076-the-secret-of-bonehill/"
+            "https://www.shsforums.net/files/file/1076-the-secret-of-bonehill/",
+            "https://github.com/Spellhold-Studios/Secret-of-Bone-Hill/"
         ],
         "categories": [
             "Quête"
@@ -34677,7 +34673,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2013-08",
+        "last_update": "2025-09",
         "tp2": "BoneHill"
     },
     {
@@ -35139,7 +35135,8 @@
         "description": "Ce mod comprend de petites quêtes et batailles, trop petites pour être publiées sous forme de mods séparés. Ces composants vont du sérieux à l'absurde, du respect strict des règles à la tricherie pure et simple. Parmi eux :|- Mprolla, le spammeur : Si vous n'avez pas encore compris la blague, ce composant n'est probablement pas pour vous. En tout cas, il est inspiré par un gars (Mike Prolla) qui avait l'habitude de spammer et de troller sur toutes les communautés de modding d'Infinity Engine il y a très longtemps. Dans le mod, Mprolla est un bouffon de niveau 25 que vous pouvez trouver (bien) caché dans la Promenade de Waukyne. Lorsque vous le verrez, après une scène où il perd son cerveau, il commencera à vous narguer, jusqu'à ce qu'il vous combatte ouvertement. Ce combat est une véritable fête du slip. Toutes ses railleries sont de véritables citations. L'élément optionnel `Mprolla, le tricheur` fait également partie de ce composant : il rend le combat plus difficile en ajoutant de la triche.|- Bataille à grande échelle : Amn est assiégé par une armée d'orques et doit se résoudre à la défaite en raison de leur nombre écrasant. Les mages cagoulés et les soldats amiens ont besoin de l'aide d'aventuriers expérimentés pour porter un coup décisif aux assaillants. Après avoir accepté, vous êtes projeté(e) dans une zone pas plus grande que celle des embuscades standard, mais qui contient bien plus d'une centaine d'orques, et d'autres surgissent sans cesse jusqu'à ce que vous tuiez leur commandant. De votre côté, vous avez quelques soldats amniens et mages cagoulés. Qui va gagner ? Le mod [[865]] est requis.|- Duel de mage : dans la cité drow, vous rencontrez un mage drow sans nom près de la tour de Deirex (il utilise l'avatar elfe) ; si un mage masculin lui parle, il peut dire (au hasard) qu'il a peur que vous soyez venu prendre sa place à Sorcere. Avec ce composant installé, vous obtiendrez toujours cette phrase si vous lui parlez (son nom est maintenant Laniz) avec un mage (pur ou multiclasse), un barde ou un ensorceleur, et il vous provoquera en duel. Vous pouvez accepter ou refuser.",
         "urls": [
             "https://www.shsforums.net/files/file/96-the-bigg-house-the-bigg-quest-pack/",
-            "https://github.com/vbigiani/tb-quest/"
+            "https://github.com/vbigiani/tb-quest/",
+            "https://github.com/Spellhold-Studios/The-Bigg-Quest-Pack/"
         ],
         "categories": [
             "Quête"
@@ -35161,7 +35158,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2017-11",
+        "last_update": "2025-10",
         "tp2": "tb#quest"
     },
     {
@@ -38032,7 +38029,8 @@
         "name": "W_GUI",
         "description": "Ce mod propose une nouvelle interface pour BG2:ToB qui remodèle complètement la quasi-totalité des écrans du jeu. Il est compatible avec [[1216]], Tutu, BGT et [[1191]] pour lesquels il comporte des écrans de début spécifiques.",
         "urls": [
-            "https://www.shsforums.net/files/file/990-w-gui/"
+            "https://www.shsforums.net/files/file/990-w-gui/",
+            "https://github.com/Spellhold-Studios/W_GUI/"
         ],
         "categories": [
             "Interface"
@@ -38058,7 +38056,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2012-01",
+        "last_update": "2025-10",
         "tp2": "W_GUI"
     },
     {
@@ -39071,7 +39069,7 @@
         "urls": [
             "https://www.shsforums.net/files/file/960-wizard-slayer-rebalancing-v113-windows-version/",
             "https://forums.beamdog.com/discussion/24181/",
-            "https://github.com/aVENGER981/Wizard-Slayer-Rebalancing"
+            "https://github.com/Spellhold-Studios/Wizard-Slayer-Rebalancing/"
         ],
         "categories": [
             "Kit"
@@ -39104,7 +39102,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2016-08",
+        "last_update": "2025-10",
         "tp2": "wsr"
     },
     {
@@ -39465,7 +39463,8 @@
         "name": "Xulaye",
         "description": "Xulaye Despana est la sœur de l'insupportable Phaere, et la fille de la redoutée Mère Matrone Ardulace. L'aiderez-vous dans sa recherche du pouvoir ? La trahirez-vous ? Tenterez-vous de la détourner de ses noirs desseins ? Xulaye rejoindra votre groupe à l'entrée d'Ust Natha en Ombreterre. Mais prenez garde, c'est une drow loin d'être écervelée. L'arrogance, l'ambition, la cruauté et la rudesse dominent son cœur sombre. Recruter Xulaye vous permettra de modifier quelque peu votre séjour en Ombreterre : une nouvelle quête, de nouvelles interjections, 1 à 3 banters avec les PNJ de Bioware, et une fin inédite en Ombreterre.|FOR 11, DEX 15, CON 13, INT 16, SAG 13, CHA 14.",
         "urls": [
-            "https://www.shsforums.net/files/file/710-xulaye/"
+            "https://www.shsforums.net/files/file/710-xulaye/",
+            "https://github.com/Spellhold-Studios/Xulaye-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -39489,7 +39488,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2018-05",
+        "last_update": "2025-09",
         "tp2": "xulaye"
     },
     {
@@ -40398,10 +40397,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "es"
+            "es",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-10",
         "tp2": "peacespeaker"
     },
     {
@@ -40596,7 +40596,7 @@
             "en"
         ],
         "status": "archived",
-        "last_update": "2024-01",
+        "last_update": "2025-10",
         "tp2": "nwn2soundsets"
     },
     {
@@ -41001,8 +41001,7 @@
         "description": "Ce mod permet d'avoir une relation beaucoup plus privilégiée avec sa petite sœur. Il peut s'agir aussi bien d'amitié que de romance, quel que soit le sexe du PJ. Les dialogues sont particulièrement nombreux, et le mod comprend un grand nombre de nouvelles musiques. Il exige ToB.",
         "urls": [
             "http://www.blindmonkey.org/imoen/",
-            "https://forums.beamdog.com/discussion/36101/",
-            "https://github.com/mleduque/ImoenRomance/"
+            "https://forums.beamdog.com/discussion/36101/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -41785,7 +41784,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-10",
         "tp2": "SubtleD_Spell_Tweaks"
     },
     {
@@ -42462,7 +42461,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "eefixpack"
     },
     {
@@ -42861,7 +42860,7 @@
         "description": "Sarevok Anchev a été beaucoup de choses. Autrefois meurtrier, trompeur et ennemi méprisé, il est devenu l'allié improbable d'un protagoniste confronté à un avenir incertain. Bien que de nombreux faits concernant son passé et ses anciens projets soient connus de tous, on ne sait pas grand-chose de ses motivations actuelles, maintenant que la vie lui a été rendue. La mort a-t-elle ébranlé ses perceptions ou simplement renforcé sa détermination à s'emparer impitoyablement de tout le pouvoir qu'il peut s'approprier ? Est-il possible que des ennemis mortels deviennent plus que des alliés réticents ?",
         "urls": [
             "https://www.shsforums.net/files/file/810-sarevok-romance/",
-            "https://github.com/Endarire/Sarevok-Romance"
+            "https://github.com/Spellhold-Studios/Sarevok-Romance/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -42888,7 +42887,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2019-09",
+        "last_update": "2025-09",
         "tp2": "sarevokromance"
     },
     {
@@ -43354,7 +43353,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "zbpod"
     },
     {
@@ -43875,7 +43874,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "lca"
     },
     {
@@ -43971,10 +43970,11 @@
             "cn",
             "cz",
             "es",
-            "it"
+            "it",
+            "de"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "infinity_ui"
     },
     {
@@ -45930,7 +45930,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2024-08",
         "tp2": "Diablofication"
     },
     {
@@ -47098,7 +47098,7 @@
             "IWDEE"
         ],
         "authors": [
-            "ColossusChang"
+            "Colossus"
         ],
         "team": [],
         "notes": [
@@ -47533,7 +47533,7 @@
         "description": "Ce mod propose une quête à Mazzy pour lui permettre de devenir une vraie paladine.",
         "urls": [
             "https://www.shsforums.net/files/file/117-mazzy-the-paladin/",
-            "https://github.com/vbigiani/mtp"
+            "https://github.com/Spellhold-Studios/Mazzy-the-Paladin/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -47552,7 +47552,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2015-10",
+        "last_update": "2025-09",
         "tp2": "mtp"
     },
     {
@@ -47583,7 +47583,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "candlekeep_revisited"
     },
     {
@@ -47726,7 +47726,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-10",
         "tp2": "Kvel_BG1"
     },
     {
@@ -51127,7 +51127,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-10",
         "tp2": "iwd2ee;iwd2ee_mod_compatibility_patch"
     },
     {
@@ -54681,7 +54681,7 @@
             "https://forums.beamdog.com/discussion/85035/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -54704,7 +54704,7 @@
     },
     {
         "id": 1742,
-        "name": "Blackadder-Soundset",
+        "name": "Blackadder-Soundsets",
         "description": "Trois sets de sons (en anglais) tirés des personnages de la série Blackadder sur la BBC.",
         "urls": [
             "https://forums.beamdog.com/discussion/79706",
@@ -55445,7 +55445,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2025-08",
+        "last_update": "2025-10",
         "tp2": "ArszyksWonderfulDecay"
     },
     {
@@ -56244,7 +56244,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-10",
         "tp2": "mms"
     },
     {
@@ -56650,7 +56650,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "LivingClara"
     },
     {
@@ -57490,7 +57490,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-10",
         "tp2": "IWDEE-UI-BGEE"
     },
     {
@@ -57552,7 +57552,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-09",
         "tp2": "tutorils_he"
     },
     {
@@ -57567,6 +57567,7 @@
         ],
         "games": [
             "BG2",
+            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -57581,7 +57582,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "tp2": "jarnip"
     },
     {
@@ -58214,7 +58215,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-10",
         "tp2": "n/a"
     },
     {
@@ -58229,11 +58230,7 @@
         ],
         "games": [
             "BGEE",
-            "BG2EE",
-            "EET",
-            "SoD",
-            "IWDEE",
-            "PSTEE"
+            "BG2EE"
         ],
         "authors": [
             "dark0dave"
@@ -58261,7 +58258,8 @@
         ],
         "games": [
             "BGEE",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "dark0dave"
@@ -58576,7 +58574,7 @@
             "EET"
         ],
         "authors": [
-            "subtledoctor"
+            "Subtledoctor"
         ],
         "team": [],
         "notes": [
@@ -58670,14 +58668,28 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Max Schnur",
+            "Horred the Plague",
+            "Hoppy",
+            "Minto",
+            "King Diamond"
+        ],
         "team": [],
         "notes": [
             "Nécessite [[1601]]."
         ],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pl",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2024-08",
         "tp2": "TDD_Hall-of-Knowledge"
@@ -58915,6 +58927,91 @@
         "languages": [],
         "status": "active",
         "last_update": "2006-07",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1885,
+        "name": "Lilarcor soundset",
+        "description": "Voici Lilarcor, l'épée meurtrière qui parle et qui est obnubilée par une seule chose. Vous la connaissez, vous l'adorez ! Elle est désormais disponible sous forme de pack de sons pour un personnage tout aussi meurtrier et obnubilé, avec une prise en charge complète des compétences de voleur et tout le reste.",
+        "urls": [
+            "https://www.shsforums.net/topic/54559-lilarcor-soundset-12-release/",
+            "https://github.com/Spellhold-Studios/Lilarcor-Soundset/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Xyx"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-09",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1886,
+        "name": "Irenicus soundset",
+        "description": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste.",
+        "urls": [
+            "https://www.shsforums.net/topic/54561-irenicus-soundset-10-release/",
+            "https://github.com/Spellhold-Studios/Irenicus-Soundset/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Xyx"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-09",
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1887,
+        "name": "PC soundset",
+        "description": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste.",
+        "urls": [
+            "https://www.shsforums.net/files/file/563-pc-soundsets-osxlinuxfull/",
+            "https://github.com/Spellhold-Studios/PC-Soundsets/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG",
+            "BG2"
+        ],
+        "authors": [
+            "Multiple"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-09",
         "tp2": "non-weidu"
     }
 ]

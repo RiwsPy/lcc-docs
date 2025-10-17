@@ -1803,7 +1803,13 @@
         "id": 449
     },
     {
-        "id": 450
+        "id": 450,
+        "urls_extra": [
+            "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/Ghostdogs_PST_UI_mod_v2.2_fr.7z"
+        ],
+        "notes_extra": [
+            "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien officiel."
+        ]
     },
     {
         "id": 451
@@ -3201,6 +3207,12 @@
         "team": [
             "mirandir",
             "Zyl"
+        ],
+        "urls_extra": [
+            "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/pstfixpack_v413_correctfr.7z"
+        ],
+        "notes_extra": [
+            "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien officiel."
         ]
     },
     {
@@ -3208,6 +3220,12 @@
         "team": [
             "mirandir",
             "Zyl"
+        ],
+        "urls_extra": [
+            "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/pstfixpack_v413_correctfr.7z"
+        ],
+        "notes_extra": [
+            "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien officiel."
         ]
     },
     {
@@ -3335,6 +3353,12 @@
         "team": [
             "mirandir",
             "Zyl"
+        ],
+        "urls_extra": [
+            "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/psttweak_v412_correctfr.7z"
+        ],
+        "notes_extra": [
+            "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien officiel."
         ]
     },
     {
@@ -7066,5 +7090,14 @@
     },
     {
         "id": 1884
+    },
+    {
+        "id": 1885
+    },
+    {
+        "id": 1886
+    },
+    {
+        "id": 1887
     }
 ]

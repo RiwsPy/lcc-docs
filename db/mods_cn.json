@@ -515,14 +515,10 @@
             "status": "done",
             "source": "Cette jeune elfe druide, enjouée et haute en couleurs vous demande de l'aide au Bosquet des Druides, et vous propose même de vous rejoindre pour mettre fin au règne de Faldorn. Elle possède de nombreux banters avec les différents PNJ du jeu.|FOR 14, DEX 14, CON 7, INT 12, SAG 18, CHA 12."
         },
-        "notes": [
-            "请选择第三个链接以获取BG2EE/EET版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Choisissez le troisième lien pour la version BG2EE/EET."
-            ]
+            "source": []
         }
     },
     {
@@ -995,9 +991,9 @@
             "请选择 github 链接以获取 BG2EE/EET 版本。注意，这是一个非官方版本。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Choisissez le lien github pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
+                "Choisissez [ce lien](https://github.com/RoxanneSHS/ArienaEE/) pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
             ]
         }
     },
@@ -3352,14 +3348,12 @@
             "source": "Ce mod ajoute une kensaï demi-déesse neutre stricte, avec un kit de voix et des armes spécifiques, qui romance exclusivement les personnages féminins. Des interactions ont été écrites avec chaque personnage, mais la romance n'existe pour l'instant que pour SoA. Des quêtes relatives à Chloé complètent l'ensemble.|FOR 13, DEX 25, CON 16, INT 12, SAG 12, CHA 14."
         },
         "notes": [
-            "请使用shs链接以获取BG2/BGT版本，使用GitHub链接以获取BG2EE/EET版本。",
-            "存在一个[此模组的非官方变体](https://github.com/RoxanneSHS/ChloeEET)。"
+            "存在一个[此模组的非官方变体](https://github.com/Plutonium-X/NPC_Chloe/)。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET.",
-                "Il existe une [variante non officielle du mod](https://github.com/RoxanneSHS/ChloeEET)."
+                "Il existe une [version EE non officielle](https://github.com/Plutonium-X/NPC_Chloe/)."
             ]
         }
     },
@@ -6601,14 +6595,10 @@
             "status": "done",
             "source": "Combiné avec [[1216]], ce mod permet de jouer à PST dans une résolution de l'interface supérieure à 640x480. Pour ce faire, il corrige de nombreux écrans de jeu, notamment le menu Démarrer, les écrans de création de personnage, le journal, l'inventaire, les sorts et les magasins, entre autres, ainsi qu'un certain nombre d'autres composants, comme la barre inférieure de l'interface utilisateur qui a été optimisée, les infobulles et les messages en jeu (qui s'affichent désormais correctement), la boîte de dialogue et la carte du monde. De plus, il permet d'augmenter la taille des polices du jeu."
         },
-        "notes": [
-            "注意，如果您已安装 [[800]]，请下载铜冠旅店模组，否则请使用 SHS 链接。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
-            ]
+            "source": []
         }
     },
     {
@@ -6657,14 +6647,10 @@
             "status": "done",
             "source": "Ce mod ajoute dans le jeu le guerrier gobelin chaotique mauvais Shuk que l'on peut invoquer une fois par jour avec une pierre gobeline (elle se trouve dans l'enceinte de la taverne du Bras amical). Il est considéré comme un familier, ce qui lui permet de changer de région et d'explorer la carte, mais le joueur ne subit pas de dégâts permanents à sa Constitution lorsqu'il meurt. S'il est invoqué pendant plus de dix-huit heures de suite, il souffre d'épuisement.|Son niveau est égal à la moitié de l'expérience du personnage principal. Ses compétences peuvent être améliorées en interagissant avec lui, dans certaines situations et en accomplissant des tâches.|FOR 15, DEX 17, CON 10, INT 12, SAG 9, CHA 14."
         },
-        "notes": [
-            "法语翻译尚未完成。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "La traduction française n'est pas finie."
-            ]
+            "source": []
         }
     },
     {
@@ -8815,9 +8801,9 @@
             "对于博德之门2增强版/增强版三部曲的版本，请选择github链接。注意，这是一个非官方版本。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Choisissez le lien github pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
+                "Choisissez [ce lien](https://github.com/RoxanneSHS/KidoEE/) pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
             ]
         }
     },
@@ -10800,9 +10786,9 @@
             "请选择GitHub链接以获取EET版本。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Choisissez le lien github pour la version EET."
+                "Choisissez [ce lien](https://github.com/Endarire/Nathaniel-NPC-for-BG2/) pour la version EET. Attention, il s'agit d'une version non officielle."
             ]
         }
     },
@@ -11888,14 +11874,10 @@
             "status": "done",
             "source": "Ce mod rassemble les corrections réalisées par de nombreux moddeurs au fil des années, et converties au format WeiDU, plus compatible. Il ajoute également un bon nombre de corrections supplémentaires. En plus des nouvelles corrections faites par Qwinn, les corrections issues de trois mods non-WeiDU ont été intégrées dans ce mod: [Platter's Fixpack 1.37](https://sorcerers.net/Games/Torment/Platter/index.php), dont Platter est l'auteur principal, mais qui contient aussi les travaux de plusieurs autres contributeurs. Les corrections du Fixpack Beta 1.38, toujours de Platter, sont également incluses |[[874]], par Cilantro, alias Kung Fu Man (qui restaure plusieurs sorts, objets et autres, qui avaient été supprimés de la dernière version de PST).|\"SKARDAVNELNATE'S All-Inclusive Fixpack\", par SKARDAVNELNATE.|Notez que même si ce mod ne contient que des corrections de bogues, plusieurs de ces corrections ont pour résultat de restaurer du contenu non disponible dans le jeu original.|Il comprend trois composants : le premier comporte les principales corrections, le deuxième les corrections d'orthographe et de grammaire anglaise, le troisième rajoute des sous-titres aux dialogues des cinématiques qui étaient auparavant uniquement sous forme de dialogue audio/sonore."
         },
-        "notes": [
-            "注意：如果您已安装 [[800]]，请下载铜冠模组，否则请使用 SHS 链接。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
-            ]
+            "source": []
         }
     },
     {
@@ -11905,14 +11887,10 @@
             "status": "done",
             "source": "Ce mod reprend le mod de Qwinn PS:T Unfinished Business (PST-UB), version 4.12. Complètement remanié, il est compatible aussi bien avec PST:EE qu'avec la version classique de Planescape: Torment (PST). Il restaure le contenu \"presque-mais-pas-complètement-terminé\" (par manque de temps des développeurs) du jeu, le complète et l'améliore, ce qui vous permet de profiter de ces nouveautés dans vos parties."
         },
-        "notes": [
-            "注意：如果您已安装 [[800]]，请下载铜冠模组，否则请使用 github 链接。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien github."
-            ]
+            "source": []
         }
     },
     {
@@ -12391,13 +12369,11 @@
             "source": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[833]], [[1091]], repos quelle que soit la zone (non recommandé), [[1115]] (non recommandé) et [Dustman Robe](https://sorcerers.net/Games/Torment/Platter/index.php?page=mods)."
         },
         "notes": [
-            "注意：如果您已安装法语翻译修正模组，请下载铜冠旅店模组，否则请使用 SHS 链接。",
             "它现已过时，并被整合进了 [[1141]]。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Attention : si vous avez installé le mod de correction de la traduction française, téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS.",
                 "Il est désormais obsolète et a été intégré dans [[1141]]."
             ]
         }
@@ -12457,10 +12433,9 @@
             "对于 BG2/BGT 版本，请使用 shs 链接；对于增强版，请使用 github 链接。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Quelque soit les kits que vous installez, vous DEVEZ installer le composant final.",
-                "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version EE."
+                "Utilisez [ce lien](https://github.com/Plutonium-X/KIT_RTT/) pour les versions EE."
             ]
         }
     },
@@ -26466,10 +26441,10 @@
     },
     {
         "id": 1823,
-        "description": "这个模组允许玩家达到50级。",
+        "description": "该模组包含三个组件：|角色等级上限提升至50级|将法师与牧师的高等级能力替换为天赋能力|调整生命值升级等级限制以更贴合桌面规则版本",
         "description_meta": {
-            "status": "needs_review",
-            "source": "该模组包含三个组件：|角色等级上限提升至50级|将法师与牧师的高等级能力替换为天赋能力|调整生命值升级等级限制以更贴合桌面规则版本"
+            "status": "done",
+            "source": "Ce mod permet possède trois composants :|Atteindre le niveau 50|Remplacer les HLA de mages et de clercs par des compétences innées|Modification de la restriction de niveau pour le gain de dés de points de vie pour être plus conforme à la version papier"
         },
         "notes": [],
         "notes_meta": {
@@ -27300,6 +27275,45 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod ajoute une nouvelle flèche qui se divise en 10 projectiles magiques."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1885,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici Lilarcor, l'épée meurtrière qui parle et qui est obnubilée par une seule chose. Vous la connaissez, vous l'adorez ! Elle est désormais disponible sous forme de pack de sons pour un personnage tout aussi meurtrier et obnubilé, avec une prise en charge complète des compétences de voleur et tout le reste."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1886,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1887,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste."
         },
         "notes": [],
         "notes_meta": {

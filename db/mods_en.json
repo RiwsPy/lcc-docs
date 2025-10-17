@@ -510,14 +510,10 @@
             "status": "needs_review",
             "source": "Cette jeune elfe druide, enjouée et haute en couleurs vous demande de l'aide au Bosquet des Druides, et vous propose même de vous rejoindre pour mettre fin au règne de Faldorn. Elle possède de nombreux banters avec les différents PNJ du jeu.|FOR 14, DEX 14, CON 7, INT 12, SAG 18, CHA 12."
         },
-        "notes": [
-            "Choose the third link for the BG2EE/EET version."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Choisissez le troisième lien pour la version BG2EE/EET."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -981,12 +977,12 @@
             "source": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, le The Mod for the Wicked. Combattante des tunnels demi-orque, Ariena est dotée d'une voix à la Angela Gossow d'Arch Enemy avec déjà pas mal de banters, d'une sorte de quête et d'un langage broken english amusant. Son petit dialogue avec Salvanas à la Couronne vaut le détour...|FOR 18, DEX 15, CON 17, INT 7, SAG 11, CHA 10."
         },
         "notes": [
-            "Choose the github link for the BG2EE/EET version. Please note that this is an unofficial version."
+            "Choose [this link](https://github.com/RoxanneSHS/ArienaEE/) for the BG2EE/EET version. Please note that this is an unofficial version."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Choisissez le lien github pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
+                "Choisissez [ce lien](https://github.com/RoxanneSHS/ArienaEE/) pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
             ]
         }
     },
@@ -3321,14 +3317,12 @@
             "source": "Ce mod ajoute une kensaï demi-déesse neutre stricte, avec un kit de voix et des armes spécifiques, qui romance exclusivement les personnages féminins. Des interactions ont été écrites avec chaque personnage, mais la romance n'existe pour l'instant que pour SoA. Des quêtes relatives à Chloé complètent l'ensemble.|FOR 13, DEX 25, CON 16, INT 12, SAG 12, CHA 14."
         },
         "notes": [
-            "Use the shs link for the BG2/BGT version and the github link for the BG2EE/EET version.",
-            "There is a [non-official variant of the mod](https://github.com/RoxanneSHS/ChloeEET)."
+            "There is a [non-official EE version](https://github.com/Plutonium-X/NPC_Chloe/)."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET.",
-                "Il existe une [variante non officielle du mod](https://github.com/RoxanneSHS/ChloeEET)."
+                "Il existe une [version EE non officielle](https://github.com/Plutonium-X/NPC_Chloe/)."
             ]
         }
     },
@@ -6541,14 +6535,10 @@
             "status": "needs_review",
             "source": "Combiné avec [[1216]], ce mod permet de jouer à PST dans une résolution de l'interface supérieure à 640x480. Pour ce faire, il corrige de nombreux écrans de jeu, notamment le menu Démarrer, les écrans de création de personnage, le journal, l'inventaire, les sorts et les magasins, entre autres, ainsi qu'un certain nombre d'autres composants, comme la barre inférieure de l'interface utilisateur qui a été optimisée, les infobulles et les messages en jeu (qui s'affichent désormais correctement), la boîte de dialogue et la carte du monde. De plus, il permet d'augmenter la taille des polices du jeu."
         },
-        "notes": [
-            "Please note: if you have installed the [[800]], download the Couronne de Cuivre mod, otherwise use the SHS link."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -6597,14 +6587,10 @@
             "status": "needs_review",
             "source": "Ce mod ajoute dans le jeu le guerrier gobelin chaotique mauvais Shuk que l'on peut invoquer une fois par jour avec une pierre gobeline (elle se trouve dans l'enceinte de la taverne du Bras amical). Il est considéré comme un familier, ce qui lui permet de changer de région et d'explorer la carte, mais le joueur ne subit pas de dégâts permanents à sa Constitution lorsqu'il meurt. S'il est invoqué pendant plus de dix-huit heures de suite, il souffre d'épuisement.|Son niveau est égal à la moitié de l'expérience du personnage principal. Ses compétences peuvent être améliorées en interagissant avec lui, dans certaines situations et en accomplissant des tâches.|FOR 15, DEX 17, CON 10, INT 12, SAG 9, CHA 14."
         },
-        "notes": [
-            "The French translation is not yet complete."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "La traduction française n'est pas finie."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -8729,12 +8715,12 @@
             "source": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido est un barde de kit bouffon et d'alignement chaotique mauvais. Il dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec [[66]]. Retrouvez-le dans l'auberge des Cinq Chopes.|FOR 11, DEX 17, CON 13, INT 16, SAG 8, CHA 15."
         },
         "notes": [
-            "Warning: a pirated version exists for EET, whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk - and don't complain!"
+            "Choose [this link](https://github.com/RoxanneSHS/KidoEE/) for the BG2EE/EET version. Please note that this is an unofficial version."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Choisissez le lien github pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
+                "Choisissez [ce lien](https://github.com/RoxanneSHS/KidoEE/) pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
             ]
         }
     },
@@ -10713,12 +10699,12 @@
             "source": "Kensai gay (uniquement romançable par un PJ mâle) de son état, c'est un guerrier compétent bien qu'il souffre d'un manque de confiance en soi probablement dû à sa fragilité physique. Il dispose de contenu pour SoA et ToB. On le trouve dans le quartier des Docks ; il viendra vers vous pour vous demander de l'aide. Nathaniel romancera un personnage masculin humain, elfe ou demi-elfe, d'alignement bon ou loyal neutre, à condition qu'il ne soit pas un voleur. Nathaniel dispose de contenu pour [[594]] si ce mod est installé.|FOR 16, DEX 17, CON 12, INT 11, SAG 9, CHA 14."
         },
         "notes": [
-            "Choose the github link for the EET version."
+            "Choose [this link](https://github.com/Endarire/Nathaniel-NPC-for-BG2/) for the EET version. Please note that this is an unofficial version."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Choisissez le lien github pour la version EET."
+                "Choisissez [ce lien](https://github.com/Endarire/Nathaniel-NPC-for-BG2/) pour la version EET. Attention, il s'agit d'une version non officielle."
             ]
         }
     },
@@ -11798,14 +11784,10 @@
             "status": "needs_review",
             "source": "Ce mod rassemble les corrections réalisées par de nombreux moddeurs au fil des années, et converties au format WeiDU, plus compatible. Il ajoute également un bon nombre de corrections supplémentaires. En plus des nouvelles corrections faites par Qwinn, les corrections issues de trois mods non-WeiDU ont été intégrées dans ce mod: [Platter's Fixpack 1.37](https://sorcerers.net/Games/Torment/Platter/index.php), dont Platter est l'auteur principal, mais qui contient aussi les travaux de plusieurs autres contributeurs. Les corrections du Fixpack Beta 1.38, toujours de Platter, sont également incluses |[[874]], par Cilantro, alias Kung Fu Man (qui restaure plusieurs sorts, objets et autres, qui avaient été supprimés de la dernière version de PST).|\"SKARDAVNELNATE'S All-Inclusive Fixpack\", par SKARDAVNELNATE.|Notez que même si ce mod ne contient que des corrections de bogues, plusieurs de ces corrections ont pour résultat de restaurer du contenu non disponible dans le jeu original.|Il comprend trois composants : le premier comporte les principales corrections, le deuxième les corrections d'orthographe et de grammaire anglaise, le troisième rajoute des sous-titres aux dialogues des cinématiques qui étaient auparavant uniquement sous forme de dialogue audio/sonore."
         },
-        "notes": [
-            "Please note: if you have installed the [[800]], download the Couronne de Cuivre mod, otherwise use the SHS link."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -11815,14 +11797,10 @@
             "status": "needs_review",
             "source": "Ce mod reprend le mod de Qwinn PS:T Unfinished Business (PST-UB), version 4.12. Complètement remanié, il est compatible aussi bien avec PST:EE qu'avec la version classique de Planescape: Torment (PST). Il restaure le contenu \"presque-mais-pas-complètement-terminé\" (par manque de temps des développeurs) du jeu, le complète et l'améliore, ce qui vous permet de profiter de ces nouveautés dans vos parties."
         },
-        "notes": [
-            "Please note: if you have installed the [[800]], download the Couronne de Cuivre mod, otherwise use the github link."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : si vous avez installé le [[800]], téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien github."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -12298,13 +12276,11 @@
             "source": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[833]], [[1091]], repos quelle que soit la zone (non recommandé), [[1115]] (non recommandé) et [Dustman Robe](https://sorcerers.net/Games/Torment/Platter/index.php?page=mods)."
         },
         "notes": [
-            "Please note: if you have installed the French translation correction mod, download the Couronne de Cuivre mod, otherwise use the SHS link.",
             "It is now obsolete and has been integrated into [[1141]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : si vous avez installé le mod de correction de la traduction française, téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS.",
                 "Il est désormais obsolète et a été intégré dans [[1141]]."
             ]
         }
@@ -12360,14 +12336,12 @@
             "source": "Ce mod rend disponibles 30 profils du module de conversion [[881]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres."
         },
         "notes": [
-            "Whatever kits you install, you MUST install the final component.",
-            "Use the shs link for the BG2/BGT version and the github link for the EE version."
+            "Use [this link](https://github.com/Plutonium-X/KIT_RTT/) for the EE version."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Quelque soit les kits que vous installez, vous DEVEZ installer le composant final.",
-                "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version EE."
+                "Utilisez [ce lien](https://github.com/Plutonium-X/KIT_RTT/) pour les versions EE."
             ]
         }
     },
@@ -27083,6 +27057,45 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute une nouvelle flèche qui se divise en 10 projectiles magiques."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1885,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici Lilarcor, l'épée meurtrière qui parle et qui est obnubilée par une seule chose. Vous la connaissez, vous l'adorez ! Elle est désormais disponible sous forme de pack de sons pour un personnage tout aussi meurtrier et obnubilé, avec une prise en charge complète des compétences de voleur et tout le reste."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1886,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1887,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste."
         },
         "notes": [],
         "notes_meta": {
