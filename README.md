@@ -90,6 +90,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
         "languages": [],
         "status": "active",
         "last_update": "",
+        "compatibilities": {},
         "tp2": ""
     }
 ```
