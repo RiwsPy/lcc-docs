@@ -134,11 +134,8 @@ class Mod:
         linked_txt = txt
         for link in link_regex.findall(txt):
             mod_id = link.strip("[] ")
-            if mod_id_to_name is None:
-                mod_name = mod_id
-            else:
-                mod_name = mod_id_to_name.get(mod_id, mod_id)
-            linked_txt = linked_txt.replace(link, f'<a href="#m{mod_id}">{mod_name}</a>')
+            url = self.get_internal_link(mod_id, mod_id_to_name)
+            linked_txt = linked_txt.replace(link, url)
         for link in external_link_regex.findall(linked_txt):
             name, url = link
             linked_txt = linked_txt.replace(
@@ -187,7 +184,7 @@ class Mod:
             )
         )
 
-    def get_auto_notes(self) -> list[str]:
+    def get_auto_notes(self, mod_id_to_name: dict | None = None) -> list[str]:
         auto_notes = list()
 
         # Don't download files directly
@@ -240,7 +237,31 @@ class Mod:
                 country_flags += f" {language_flags.get(language, '??')}"
             auto_notes.append(_g("Disponible en {language}.").format(language=country_flags))
 
+        # compatibilities
+        if self.compatibilities and mod_id_to_name:
+            if "requires" in self.compatibilities:
+                mods = ", ".join(
+                    self.get_internal_link(str(mod_id), mod_id_to_name)
+                    for mod_id in self.compatibilities["requires"]
+                )
+                auto_notes.append(_g("Nécessite : {mods}").format(mods=mods))
+            if "incompatible_with" in self.compatibilities:
+                mods = ", ".join(
+                    self.get_internal_link(str(mod_id), mod_id_to_name)
+                    for mod_id in self.compatibilities["incompatible_with"]
+                )
+                auto_notes.append(_g("Incompatible avec : {mods}").format(mods=mods))
+
         return auto_notes
+
+    @staticmethod
+    def get_internal_link(mod_id: str, mod_id_to_name: dict | None) -> str:
+        if mod_id_to_name is None:
+            mod_name = mod_id
+        else:
+            mod_name = mod_id_to_name.get(mod_id, mod_id)
+
+        return f'<a href="#m{mod_id}">{mod_name}</a>'
 
     @staticmethod
     def url_is_direct_archive(url: str) -> bool:
@@ -252,7 +273,7 @@ class Mod:
     def get_notes(self, mod_id_to_name: dict | None = None) -> list[str]:
         return [
             self.convert_txt(note, mod_id_to_name=mod_id_to_name)
-            for note in self.notes + self.get_auto_notes()
+            for note in self.notes + self.get_auto_notes(mod_id_to_name=mod_id_to_name)
         ]
 
     @property

@@ -978,7 +978,7 @@
     {
         "id": 30,
         "name": "Alassa",
-        "description": "Une voleuse neutre mauvaise avec voix, quelques banters légers et un portrait original. Vous pouvez la trouver dans les Bas Quartiers. Nécessite ToB.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16.",
+        "description": "Une voleuse neutre mauvaise avec voix, quelques banters légers et un portrait original. Vous pouvez la trouver dans les Bas Quartiers.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16.",
         "urls": [
             "https://www.pocketplane.net/one-day-npcs/",
             "https://github.com/Plutonium-X/1D_NPC_Alassa"
@@ -997,7 +997,8 @@
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien github pour la version BG2EE/EET."
+            "Choisissez le lien github pour la version BG2EE/EET.",
+            "Nécessite ToB."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -2294,9 +2295,7 @@
             "Sir BillyBob"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est incompatible avec [[292]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -2305,7 +2304,11 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                292
+            ]
+        },
         "tp2": "luvnalia"
     },
     {
@@ -2512,7 +2515,11 @@
         ],
         "status": "active",
         "last_update": "2025-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1213
+            ]
+        },
         "tp2": "Ascension"
     },
     {
@@ -2922,8 +2929,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Malheureusement, il écrase plus ou moins tout ce qu'il touche, ce qui signifie qu'il efface de nombreuses modifications de mods installés avant lui. Il faut donc l'installer en tout premier, avant même le fixpack.",
-            "Nécessite [[1129]]."
+            "Attention : Malheureusement, il écrase plus ou moins tout ce qu'il touche, ce qui signifie qu'il efface de nombreuses modifications de mods installés avant lui. Il faut donc l'installer en tout premier, avant même le fixpack."
         ],
         "translation_state": "auto",
         "safe": 1,
@@ -2933,7 +2939,11 @@
         ],
         "status": "active",
         "last_update": "2008-11",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                1129
+            ]
+        },
         "tp2": "ab"
     },
     {
@@ -3249,7 +3259,7 @@
     {
         "id": 96,
         "name": "Azengaard Tactical Encounter",
-        "description": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts). Il nécessite ToB.",
+        "description": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts).",
         "urls": [
             "https://www.shsforums.net/files/file/658-azenmod-v5/"
         ],
@@ -3266,7 +3276,8 @@
         ],
         "team": [],
         "notes": [
-            "Une version non officielle et compatible EE existe : [[1790]]."
+            "Une version non officielle et compatible EE existe : [[1790]].",
+            "Nécessite ToB."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -3410,7 +3421,11 @@
         ],
         "status": "active",
         "last_update": "2025-07",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                261
+            ]
+        },
         "tp2": "bg1re"
     },
     {
@@ -3596,7 +3611,11 @@
         "languages": [],
         "status": "active",
         "last_update": "2015-02",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                105
+            ]
+        },
         "tp2": "bg1npcmusic"
     },
     {
@@ -3956,7 +3975,11 @@
         ],
         "status": "active",
         "last_update": "2025-03",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                530
+            ]
+        },
         "tp2": "bg2fixpack"
     },
     {
@@ -4158,7 +4181,12 @@
         "languages": [],
         "status": "active",
         "last_update": "2022-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                146,
+                333
+            ]
+        },
         "tp2": "BG2EE_AI_Denoised_Areas"
     },
     {
@@ -4245,7 +4273,11 @@
         "languages": [],
         "status": "active",
         "last_update": "2022-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                146
+            ]
+        },
         "tp2": "BGEE_AI_Denoised_Areas"
     },
     {
@@ -4470,7 +4502,11 @@
         ],
         "status": "active",
         "last_update": "2025-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1511
+            ]
+        },
         "tp2": "BGSpawn"
     },
     {
@@ -4537,7 +4573,11 @@
         ],
         "status": "active",
         "last_update": "2024-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1511
+            ]
+        },
         "tp2": "bgttweak"
     },
     {
@@ -4878,7 +4918,12 @@
         "languages": [],
         "status": "active",
         "last_update": "2025-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                123,
+                126
+            ]
+        },
         "tp2": "bggo"
     },
     {
@@ -5172,9 +5217,7 @@
             "Argent77"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec [[504]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -5186,7 +5229,11 @@
         ],
         "status": "active",
         "last_update": "2024-07",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                504
+            ]
+        },
         "tp2": "A7-BanterAccelerator"
     },
     {
@@ -6390,9 +6437,7 @@
             "aWoundedLion"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[803]], [[194]] et [[1383]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -6401,7 +6446,13 @@
         ],
         "status": "active",
         "last_update": "2011-02",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                194,
+                803,
+                1383
+            ]
+        },
         "tp2": "BranwenNPC"
     },
     {
@@ -6425,9 +6476,7 @@
             "jastey"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod est incompatible avec les mods qui introduisent aussi Branwen dans BG2, comme [[803]], [[193]] et [[1383]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -6437,7 +6486,13 @@
         ],
         "status": "active",
         "last_update": "2022-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                193,
+                803,
+                1383
+            ]
+        },
         "tp2": "branwen"
     },
     {
@@ -6751,7 +6806,6 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod nécessite l'installation de [[348]].",
             "Il ne fonctionne qu'avec les jeux sous la version v2.6.6."
         ],
         "translation_state": "auto",
@@ -6766,7 +6820,11 @@
         ],
         "status": "active",
         "last_update": "2024-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                348
+            ]
+        },
         "tp2": "bubb_spell_menu_extended"
     },
     {
@@ -7496,7 +7554,11 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1354
+            ]
+        },
         "tp2": "ctb"
     },
     {
@@ -8608,9 +8670,7 @@
             "Meira"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec [[1118]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -8618,7 +8678,12 @@
         ],
         "status": "active",
         "last_update": "2022-04",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                100,
+                1118
+            ]
+        },
         "tp2": "corthalaromantique"
     },
     {
@@ -9656,7 +9721,6 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est incompatible avec [[69]].",
             "Une suite dans ToB est proposée dans [[1382]]."
         ],
         "translation_state": "auto",
@@ -9668,7 +9732,11 @@
         ],
         "status": "active",
         "last_update": "2020-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                69
+            ]
+        },
         "tp2": "deArnise"
     },
     {
@@ -9813,9 +9881,7 @@
             "Raduziel"
         ],
         "team": [],
-        "notes": [
-            "DoF n'est pas compatible avec les mods [[396]], [[982]] et [[314]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -9823,7 +9889,13 @@
         ],
         "status": "active",
         "last_update": "2023-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                314,
+                396,
+                982
+            ]
+        },
         "tp2": "DeitiesOfFaerun"
     },
     {
@@ -10394,9 +10466,7 @@
             "CamDawg"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec [[982]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -10405,7 +10475,12 @@
         ],
         "status": "active",
         "last_update": "2025-04",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                297,
+                982
+            ]
+        },
         "tp2": "divine_remix"
     },
     {
@@ -10990,7 +11065,11 @@
         "languages": [],
         "status": "active",
         "last_update": "2018-03",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                123
+            ]
+        },
         "tp2": "DruidGroveMakeover"
     },
     {
@@ -11161,7 +11240,11 @@
         ],
         "status": "active",
         "last_update": "2014-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                963
+            ]
+        },
         "tp2": "DungeonBeGone"
     },
     {
@@ -11514,7 +11597,11 @@
         ],
         "status": "active",
         "last_update": "2025-08",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1410
+            ]
+        },
         "tp2": "EEex"
     },
     {
@@ -11864,9 +11951,7 @@
             "Headbanger"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod est incompatible avec les autres mods qui introduisent aussi Eldoth dans BG2, comme [[1383]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -11875,7 +11960,11 @@
         ],
         "status": "active",
         "last_update": "2008-11",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1383
+            ]
+        },
         "tp2": "Eldoth"
     },
     {
@@ -12343,7 +12432,6 @@
         ],
         "team": [],
         "notes": [
-            "Incompatible avec [[768]].",
             "Retiré à la demande de l'auteur"
         ],
         "translation_state": "auto",
@@ -12358,7 +12446,11 @@
         ],
         "status": "hidden",
         "last_update": "2025-07",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                768
+            ]
+        },
         "tp2": "Enhanced-Powergaming-Scripts"
     },
     {
@@ -13093,7 +13185,12 @@
         ],
         "status": "active",
         "last_update": "2025-02",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                297,
+                314
+            ]
+        },
         "tp2": "Faiths_and_Powers"
     },
     {
@@ -13772,7 +13869,6 @@
         ],
         "team": [],
         "notes": [
-            "Incompatible avec [[562]].",
             "Retiré à la demande de l'auteur"
         ],
         "translation_state": "auto",
@@ -13783,7 +13879,11 @@
         ],
         "status": "hidden",
         "last_update": "2025-07",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                562
+            ]
+        },
         "tp2": "forgotten-armament"
     },
     {
@@ -14195,9 +14295,7 @@
             "Erg"
         ],
         "team": [],
-        "notes": [
-            "De par son contenu, il est incompatible avec [[432]] et [[1042]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -14208,7 +14306,12 @@
         ],
         "status": "active",
         "last_update": "2024-02",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                432,
+                1042
+            ]
+        },
         "tp2": "garrick-tt"
     },
     {
@@ -14232,9 +14335,7 @@
             "Domi"
         ],
         "team": [],
-        "notes": [
-            "De par son contenu, il est incompatible avec [[431]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -14242,7 +14343,11 @@
         ],
         "status": "active",
         "last_update": "2021-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                431
+            ]
+        },
         "tp2": "garrick_flirt"
     },
     {
@@ -14677,7 +14782,7 @@
     {
         "id": 446,
         "name": "Getting Rid of Anomen",
-        "description": "Basé sur l'histoire du même nom, ce mod ajoute une cinématique à la romance de [[594]]. Irenicus n'est plus qu'un lointain souvenir et la vie de Kelsey avec sa bien-aimée est merveilleuse... sauf pour le prétendant qui ne veut tout simplement pas partir... Ce mod nécessite [[598]] et le mod [[594]].",
+        "description": "Basé sur l'histoire du même nom, ce mod ajoute une cinématique à la romance de [[594]]. Irenicus n'est plus qu'un lointain souvenir et la vie de Kelsey avec sa bien-aimée est merveilleuse... sauf pour le prétendant qui ne veut tout simplement pas partir...",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
@@ -14702,7 +14807,12 @@
         ],
         "status": "active",
         "last_update": "2009-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                594,
+                598
+            ]
+        },
         "tp2": "GRoA"
     },
     {
@@ -16103,9 +16213,7 @@
             "Olvyn Churu"
         ],
         "team": [],
-        "notes": [
-            "À partir de la version 2.0, ce mod nécessite l'installation de [[348]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -16113,7 +16221,11 @@
         ],
         "status": "active",
         "last_update": "2025-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                348
+            ]
+        },
         "tp2": "HighPower"
     },
     {
@@ -16559,9 +16671,7 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec [[155]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -16574,7 +16684,11 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                155
+            ]
+        },
         "tp2": "iepbanters"
     },
     {
@@ -17102,7 +17216,11 @@
         ],
         "status": "active",
         "last_update": "2025-07",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                667
+            ]
+        },
         "tp2": "iwdification"
     },
     {
@@ -17158,9 +17276,7 @@
             "DavidW"
         ],
         "team": [],
-        "notes": [
-            "Il nécessite l'installation de [[512]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [
@@ -17168,7 +17284,11 @@
         ],
         "status": "active",
         "last_update": "2013-08",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                512
+            ]
+        },
         "tp2": "iwd_in_BG2"
     },
     {
@@ -17266,7 +17386,11 @@
         ],
         "status": "active",
         "last_update": "2025-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                528
+            ]
+        },
         "tp2": "imoen_forever"
     },
     {
@@ -17328,7 +17452,11 @@
         ],
         "status": "active",
         "last_update": "2019-02",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                526
+            ]
+        },
         "tp2": "imoenisstone"
     },
     {
@@ -17388,7 +17516,7 @@
         ],
         "team": [],
         "notes": [
-            "Incompatible avec le [[117]].|Le mod existe en deux versions : l'une pour les versions originales, l'autre pour les versions EE."
+            "Le mod existe en deux versions : l'une pour les versions originales, l'autre pour les versions EE."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -17398,7 +17526,11 @@
         ],
         "status": "active",
         "last_update": "2024-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                117
+            ]
+        },
         "tp2": "ImprovedAnvil"
     },
     {
@@ -17864,7 +17996,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Ce mod override les sorts et est donc incompatible avec les mods modifiant les sorts vanilla, notamment [[982]], [[521]] et [[1011]]."
+            "Attention : Ce mod override les sorts et est donc incompatible avec les nombreux mods modifiant les sorts vanilla."
         ],
         "translation_state": "auto",
         "safe": 1,
@@ -17877,7 +18009,13 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                521,
+                982,
+                1011
+            ]
+        },
         "tp2": "ImprovedSummons"
     },
     {
@@ -18002,7 +18140,6 @@
             "BGEE",
             "SoD",
             "BG2EE",
-            "EET",
             "IWDEE"
         ],
         "authors": [
@@ -18871,7 +19008,7 @@
     {
         "id": 574,
         "name": "Jarl's Adventure Pack",
-        "description": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[112]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer.|Ce mod nécessite l'installation de [[1111]], du composant principal d'[[548]] et des composants `Restitutions mineures de dialogues` et `Réparations et restitutions de magasins, tavernes et auberges` de [[112]].",
+        "description": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[112]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/jarls-bgt-adventure-pack.8/",
             "https://github.com/Gitjas/JA-AdventurePack/"
@@ -18891,7 +19028,8 @@
         ],
         "team": [],
         "notes": [
-            "Depuis que le mod a été converti aux EE, les composants nécessaires ont pu évoluer."
+            "Depuis que le mod a été converti aux EE, les composants nécessaires ont pu évoluer.",
+            "Ce mod nécessite l'installation du composant principal d'[[548]] et des composants `Restitutions mineures de dialogues` et `Réparations et restitutions de magasins, tavernes et auberges` de [[112]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -18901,7 +19039,11 @@
         ],
         "status": "active",
         "last_update": "2025-07",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                1111
+            ]
+        },
         "tp2": "JA#BGT_AdvPack"
     },
     {
@@ -18982,7 +19124,7 @@
     {
         "id": 577,
         "name": "Jedi & Sith Kits",
-        "description": "Ce mod ajoute deux profils de guerrier : Jedi et Sith. Il nécessite ToB.",
+        "description": "Ce mod ajoute deux profils de guerrier : Jedi et Sith.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Jedi_and_Sith.rar"
         ],
@@ -18997,7 +19139,9 @@
             "Wu Min"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Nécessite ToB."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -20930,7 +21074,11 @@
         ],
         "status": "active",
         "last_update": "2019-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                732
+            ]
+        },
         "tp2": "level1npcs"
     },
     {
@@ -21591,7 +21739,7 @@
     {
         "id": 660,
         "name": "Macholy's Living-Mod",
-        "description": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Celui-ci fournit un système de règles permettant aux personnages de se nourrir et de boire. Sans cela, leur constitution diminuera avec le temps. Il nécessite l'installation du composant `Cuisine` du mod [[663]].",
+        "description": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Celui-ci fournit un système de règles permettant aux personnages de se nourrir et de boire. Sans cela, leur constitution diminuera avec le temps.",
         "urls": [
             "https://trow.cc/board/showtopic=20348&hl=Macholy"
         ],
@@ -21605,7 +21753,9 @@
             "Macholy"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il nécessite l'installation du composant `Cuisine` du mod [[663]]."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -21836,7 +21986,12 @@
         ],
         "status": "active",
         "last_update": "2022-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                521,
+                982
+            ]
+        },
         "tp2": "mih_sp"
     },
     {
@@ -22466,7 +22621,7 @@
     {
         "id": 687,
         "name": "Might & Guile",
-        "description": "Ce mod apporte des modifications de règles et de nouveaux kits pour combattants, rôdeurs, bardes et roublards. Vous avez le choix d'installer ou pas des dizaines de composants selon votre manière de jouer. Il est régulièrement mis à jour.",
+        "description": "Ce mod apporte des modifications de règles et de nouveaux kits pour combattants, rôdeurs, bardes et roublards. Vous avez le choix d'installer ou pas des dizaines de composants selon votre manière de jouer.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27573-unearthed-arcana-presents-might-guile-tweaks-and-kits-for-warriors-and-rogues/",
             "https://github.com/UnearthedArcana/Might_and_Guile/"
@@ -22500,7 +22655,11 @@
         ],
         "status": "active",
         "last_update": "2025-02",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                894
+            ]
+        },
         "tp2": "might_and_guile"
     },
     {
@@ -23831,7 +23990,7 @@
     {
         "id": 728,
         "name": "Mystigan the Merchant",
-        "description": "Ce nouveau marchand que vous pourrez rencontrer dans le district du Gouvernement propose toutes sortes de contenants (étuis à parchemins, sacs de gemmes et bien d'autres), mais également des fléchettes +2 et autres dagues de jet enchantées. Le mod nécessite ToB.",
+        "description": "Ce nouveau marchand que vous pourrez rencontrer dans le district du Gouvernement propose toutes sortes de contenants (étuis à parchemins, sacs de gemmes et bien d'autres), mais également des fléchettes +2 et autres dagues de jet enchantées.",
         "urls": [
             "https://akadis.baldursgateworld.fr/Mystigan/MystiganFr.html"
         ],
@@ -23849,7 +24008,8 @@
         ],
         "team": [],
         "notes": [
-            "La compatibilité EET est possible avec [[1325]]."
+            "La compatibilité EET est possible avec [[1325]].",
+            "Nécessite ToB."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -23989,7 +24149,11 @@
         ],
         "status": "active",
         "last_update": "2024-11",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                638
+            ]
+        },
         "tp2": "npc_ee"
     },
     {
@@ -24127,9 +24291,7 @@
             "Orion's Stardom"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec [[1601]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -24142,7 +24304,12 @@
         ],
         "status": "active",
         "last_update": "2021-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1062,
+                1601
+            ]
+        },
         "tp2": "npc_tweak"
     },
     {
@@ -25136,7 +25303,7 @@
     {
         "id": 768,
         "name": "OlvynSpells",
-        "description": "Ce mod ajoute plus de 150 sorts dans les jeux EE, dont certains vous permettent de voler ou de traverser des murs. Mais il nécessite [[348]] qu'il faut installer avant. Il n'est donc disponible que pour les systèmes d'exploitation Windows.",
+        "description": "Ce mod ajoute plus de 150 sorts dans les jeux EE, dont certains vous permettent de voler ou de traverser des murs.",
         "urls": [
             "https://forums.beamdog.com/discussion/76732/",
             "https://github.com/OlvynChuru/OlvynSpells"
@@ -25162,7 +25329,11 @@
         ],
         "status": "active",
         "last_update": "2025-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                348
+            ]
+        },
         "tp2": "MESpells"
     },
     {
@@ -26270,9 +26441,7 @@
             "Lennon"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[193]], [[194]] et [[1383]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -26281,7 +26450,13 @@
         ],
         "status": "active",
         "last_update": "2009-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                193,
+                194,
+                1383
+            ]
+        },
         "tp2": "POB"
     },
     {
@@ -28301,7 +28476,7 @@
         ],
         "team": [],
         "notes": [
-            "Throne of Bhaal est requis, mais également le mod [[74]]."
+            "ToB est requis."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -28313,7 +28488,11 @@
         ],
         "status": "active",
         "last_update": "2025-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                74
+            ]
+        },
         "tp2": "Redemption"
     },
     {
@@ -28776,7 +28955,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est par nature incompatible avec le composant du mod [[784]], ainsi que le mod [[1057]], qui restaurent aussi cette quête, mais de manière totalement différente."
+            "Ce mod est par nature incompatible avec le composant du mod [[784]] qui restaure aussi cette quête, mais de manière totalement différente."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -28786,7 +28965,11 @@
         ],
         "status": "active",
         "last_update": "2021-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1057
+            ]
+        },
         "tp2": "dw_lanthorn"
     },
     {
@@ -29372,7 +29555,11 @@
         ],
         "status": "active",
         "last_update": "2019-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                687
+            ]
+        },
         "tp2": "rr"
     },
     {
@@ -30591,7 +30778,11 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1341
+            ]
+        },
         "tp2": "LightingPack"
     },
     {
@@ -31174,7 +31365,11 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1475
+            ]
+        },
         "tp2": "ShineOnCaelar"
     },
     {
@@ -31569,7 +31764,11 @@
         ],
         "status": "active",
         "last_update": "2025-08",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                961
+            ]
+        },
         "tp2": "SkieCost"
     },
     {
@@ -31599,7 +31798,11 @@
         ],
         "status": "active",
         "last_update": "2009-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                960
+            ]
+        },
         "tp2": "Skie"
     },
     {
@@ -31675,7 +31878,11 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                338
+            ]
+        },
         "tp2": "SkipChateauIrenicus"
     },
     {
@@ -31992,7 +32199,11 @@
         ],
         "status": "active",
         "last_update": "2023-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1587
+            ]
+        },
         "tp2": "sod2bg2_iu"
     },
     {
@@ -32316,7 +32527,13 @@
         ],
         "status": "active",
         "last_update": "2020-08",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                297,
+                314,
+                667
+            ]
+        },
         "tp2": "spell_rev"
     },
     {
@@ -32852,9 +33069,7 @@
             "tipun"
         ],
         "team": [],
-        "notes": [
-            "Semble incompatible avec [[1011]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -32864,7 +33079,11 @@
         ],
         "status": "active",
         "last_update": "2022-04",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1011
+            ]
+        },
         "tp2": "subrace"
     },
     {
@@ -33018,7 +33237,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : ce mod est incompatible avec le mod [[201]] et le composant `Firkraag amélioré` de [[884]]."
+            "Attention : ce mod est incompatible avec le composant `Firkraag amélioré` de [[884]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -33031,7 +33250,11 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                201
+            ]
+        },
         "tp2": "firkraag"
     },
     {
@@ -33244,9 +33467,7 @@
             "DavidW"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec [[1094]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -33262,7 +33483,12 @@
         ],
         "status": "active",
         "last_update": "2024-11",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                999,
+                1094
+            ]
+        },
         "tp2": "stratagems"
     },
     {
@@ -33611,7 +33837,6 @@
         ],
         "team": [],
         "notes": [
-            "Incompatible avec [[982]] et [[665]].",
             "Retiré à la demande de l'auteur"
         ],
         "translation_state": "auto",
@@ -33623,7 +33848,12 @@
         ],
         "status": "hidden",
         "last_update": "2025-08",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                665,
+                982
+            ]
+        },
         "tp2": "tactics-remix"
     },
     {
@@ -33951,7 +34181,11 @@
         ],
         "status": "active",
         "last_update": "2024-11",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1354
+            ]
+        },
         "tp2": "Tashia"
     },
     {
@@ -34275,7 +34509,11 @@
         ],
         "status": "active",
         "last_update": "2015-02",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                431
+            ]
+        },
         "tp2": "TenyaThermidor"
     },
     {
@@ -34976,7 +35214,6 @@
         ],
         "team": [],
         "notes": [
-            "Incompatible avec [[736]].",
             "Pour les versions EE, regardez [[1601]]."
         ],
         "translation_state": "auto",
@@ -34992,7 +35229,11 @@
         ],
         "status": "active",
         "last_update": "2025-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                736
+            ]
+        },
         "tp2": "tdd"
     },
     {
@@ -36102,7 +36343,11 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1011
+            ]
+        },
         "tp2": "TheVanishingOfSkieSilvershield"
     },
     {
@@ -36326,7 +36571,6 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod nécessite l'installation de [[348]] qui permet de mettre à jour la barre d'actions afin de permettre aux bardes de chanter, de détecter les pièges et d'utiliser les capacités de voleur au prix de la perte de l'accès aux sorts rapides.",
             "Ce mod est obsolète : remplacé par [[962]] du même auteur.",
             "Retiré à la demande de l'auteur"
         ],
@@ -36335,7 +36579,11 @@
         "languages": [],
         "status": "hidden",
         "last_update": "2021-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                348
+            ]
+        },
         "tp2": "thieving-skills-for-bards"
     },
     {
@@ -36557,9 +36805,7 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Attention : Ce mod nécessite l'installation du mod [[443]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -36567,7 +36813,11 @@
         ],
         "status": "active",
         "last_update": "2024-11",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                443
+            ]
+        },
         "tp2": "tipps"
     },
     {
@@ -36908,7 +37158,11 @@
         ],
         "status": "active",
         "last_update": "2007-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                261
+            ]
+        },
         "tp2": "TS-BP"
     },
     {
@@ -37463,7 +37717,7 @@
     {
         "id": 1137,
         "name": "Turnabout",
-        "description": "Grâce à ce mod, vous pouvez invoquer d'anciens alliés tombés au champ d'honneur dans la lutte finale du trône (Dynaheir, Tiax, Khalid, Xzar, Yoshimo). Vous pouvez même rappeler à vos côtés votre mère ou votre père adoptif. Il nécessite [[74]].",
+        "description": "Grâce à ce mod, vous pouvez invoquer d'anciens alliés tombés au champ d'honneur dans la lutte finale du trône (Dynaheir, Tiax, Khalid, Xzar, Yoshimo). Vous pouvez même rappeler à vos côtés votre mère ou votre père adoptif.",
         "urls": [
             "https://www.pocketplane.net/turnabout/",
             "https://github.com/Pocket-Plane-Group/Turnabout"
@@ -37490,7 +37744,11 @@
         ],
         "status": "active",
         "last_update": "2022-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                74
+            ]
+        },
         "tp2": "turnabout"
     },
     {
@@ -39931,7 +40189,11 @@
         ],
         "status": "active",
         "last_update": "2021-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                74
+            ]
+        },
         "tp2": "wheels"
     },
     {
@@ -42134,9 +42396,7 @@
             "Crevs Daak"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec [[1302]] et [[1303]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -42145,7 +42405,12 @@
         ],
         "status": "active",
         "last_update": "2024-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1302,
+                1303
+            ]
+        },
         "tp2": "7C-Yoshi"
     },
     {
@@ -42358,7 +42623,11 @@
         ],
         "status": "active",
         "last_update": "2025-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1806
+            ]
+        },
         "tp2": "AllThingsMazzy"
     },
     {
@@ -42917,9 +43186,7 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec [[1280]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -42928,7 +43195,11 @@
         ],
         "status": "active",
         "last_update": "2025-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1280
+            ]
+        },
         "tp2": "YoshimoRomance"
     },
     {
@@ -42953,9 +43224,7 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec [[1280]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -42965,7 +43234,11 @@
         ],
         "status": "active",
         "last_update": "2023-03",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1280
+            ]
+        },
         "tp2": "YoshimosRemorse"
     },
     {
@@ -44269,15 +44542,17 @@
             "Drunktiefling"
         ],
         "team": [],
-        "notes": [
-            "Bien qu'inspiré par le mod [[930]], ces deux mods sont incompatibles."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2023-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                930
+            ]
+        },
         "tp2": "drunkshaders"
     },
     {
@@ -44710,9 +44985,7 @@
             "Glittergear"
         ],
         "team": [],
-        "notes": [
-            "Probablement incompatible avec les mods [[1032]] et [[226]] pour utiliser la même grotte."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -44720,7 +44993,12 @@
         ],
         "status": "active",
         "last_update": "2024-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                226,
+                1032
+            ]
+        },
         "tp2": "DeadGardens"
     },
     {
@@ -46430,7 +46708,7 @@
         "team": [],
         "notes": [
             "Fonctionnel que sous Windows.",
-            "Cela nécessite de lancer l'exe du jeu avec l'exécutable ainsi créé. Probablement incompatible avec [[348]] et mods similaires."
+            "Cela nécessite de lancer l'exe du jeu avec l'exécutable ainsi créé."
         ],
         "translation_state": "n/a",
         "safe": 1,
@@ -46439,7 +46717,11 @@
         ],
         "status": "active",
         "last_update": "2022-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                348
+            ]
+        },
         "tp2": "n/a"
     },
     {
@@ -46771,7 +47053,6 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod nécessite [[1289]].",
             "L'IA de groupe doit être activée."
         ],
         "translation_state": "auto",
@@ -46781,7 +47062,11 @@
         ],
         "status": "active",
         "last_update": "2017-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                1289
+            ]
+        },
         "tp2": "Pregnancy"
     },
     {
@@ -48371,9 +48656,7 @@
             "Lassal"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec [[948]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -48381,7 +48664,11 @@
         ],
         "status": "wip",
         "last_update": "2018-07",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                948
+            ]
+        },
         "tp2": "caelar_fall"
     },
     {
@@ -48593,7 +48880,7 @@
         "team": [],
         "notes": [
             "Il existe un lien [Github](https://github.com/Boooof) mais celui-ci ne propose que trois soundsets. Le lien vers Drive propose l'intégrale des huit soundsets créés.",
-            "Nécessite BGEE, B2EE ou IWDEE en version 2.6+"
+            "Nécessite une version du jeu 2.6+"
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -49470,9 +49757,7 @@
             "skellytz"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec [[133]] et [[135]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -49480,7 +49765,12 @@
         ],
         "status": "active",
         "last_update": "2022-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                133,
+                135
+            ]
+        },
         "tp2": "spawntweak"
     },
     {
@@ -51328,7 +51618,7 @@
         ],
         "team": [],
         "notes": [
-            "Il nécessite d'overrider le fichier tlk et le mod est disponible uniquement en anglais."
+            "Il nécessite d'overrider le fichier tlk."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -51786,9 +52076,7 @@
             "Daeros Trollkiller"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec [[973]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -51796,7 +52084,11 @@
         ],
         "status": "wip",
         "last_update": "2024-08",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                973
+            ]
+        },
         "tp2": "k0_iskp"
     },
     {
@@ -52201,7 +52493,6 @@
         "name": "The Darkest Day (EE-compatible)",
         "description": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque. Vous devez disposer d'une installation avec Throne of Bhaal.",
         "urls": [
-            "https://baldursgate.fandom.com/wiki/The_Darkest_Day",
             "https://github.com/Spellhold-Studios/TDDz"
         ],
         "categories": [
@@ -52214,6 +52505,7 @@
             "EET"
         ],
         "authors": [
+            "shadowlich",
             "Max Schnur",
             "Horred the Plague",
             "Hoppy",
@@ -52222,8 +52514,7 @@
         ],
         "team": [],
         "notes": [
-            "Cette version est pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale v1.14 (premier lien) SANS l'installer. Puis lancez le fichier Setup-TDDz.exe pour installer le mod sur votre jeu EE.",
-            "Incompatible avec [[736]]."
+            "Cette version est pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale [[1062]] SANS l'installer. Puis lancer le fichier `Setup-TDDz.exe` pour installer le mod sur votre jeu EE."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -52238,7 +52529,14 @@
         ],
         "status": "active",
         "last_update": "2025-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                736
+            ],
+            "requires": [
+                1062
+            ]
+        },
         "tp2": "TDDz"
     },
     {
@@ -58420,9 +58718,7 @@
             "MephistoSatanDevil"
         ],
         "team": [],
-        "notes": [
-            "Il est incompatible avec [[1286]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -58432,7 +58728,11 @@
         ],
         "status": "active",
         "last_update": "2025-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1286
+            ]
+        },
         "tp2": "LivingClara"
     },
     {
@@ -60211,9 +60511,7 @@
             "TheForgotten69"
         ],
         "team": [],
-        "notes": [
-            "Nécessite [[348]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -60221,7 +60519,11 @@
         ],
         "status": "active",
         "last_update": "2025-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                348
+            ]
+        },
         "tp2": "BGEE-Graphics-Enhanced"
     },
     {
@@ -60243,9 +60545,7 @@
             "TheForgotten69"
         ],
         "team": [],
-        "notes": [
-            "Nécessite [[348]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -60253,7 +60553,11 @@
         ],
         "status": "active",
         "last_update": "2025-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                348
+            ]
+        },
         "tp2": "n/a"
     },
     {
@@ -60492,9 +60796,7 @@
             "tipun"
         ],
         "team": [],
-        "notes": [
-            "Nécessite [[1526]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [
@@ -60502,7 +60804,11 @@
         ],
         "status": "hidden",
         "last_update": "2024-03",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                1526
+            ]
+        },
         "tp2": "nwncampaign"
     },
     {
@@ -60527,9 +60833,7 @@
             "King Diamond"
         ],
         "team": [],
-        "notes": [
-            "Nécessite [[1601]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [
@@ -60543,7 +60847,11 @@
         ],
         "status": "active",
         "last_update": "2024-08",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                1601
+            ]
+        },
         "tp2": "TDD_Hall-of-Knowledge"
     },
     {

@@ -452,16 +452,17 @@
         "id": 30,
         "description": "一个中立邪恶的女盗贼，有配音、一些轻松的闲聊和一张原创肖像。你可以在贫民区找到她。需要巴尔王座。|力量10，敏捷15，体质9，智力14，智慧12，魅力16。",
         "description_meta": {
-            "status": "done",
-            "source": "Une voleuse neutre mauvaise avec voix, quelques banters légers et un portrait original. Vous pouvez la trouver dans les Bas Quartiers. Nécessite ToB.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16."
+            "status": "needs_review",
+            "source": "Une voleuse neutre mauvaise avec voix, quelques banters légers et un portrait original. Vous pouvez la trouver dans les Bas Quartiers.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16."
         },
         "notes": [
             "请选择BG2EE/EET版本的github链接。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Choisissez le lien github pour la version BG2EE/EET."
+                "Choisissez le lien github pour la version BG2EE/EET.",
+                "Nécessite ToB."
             ]
         }
     },
@@ -1030,14 +1031,10 @@
             "status": "done",
             "source": "Ce mod ajoute une romance complète avec Nalia, y compris les dialogues de l'arbre de vie, l'enlèvement de Nalia par Bodhi et d'autres quêtes liées à l'amour. Il ajoute également de nouvelles quêtes et interactions avec les personnages. Il est recommandé d'avoir Minsc dans l'équipe..."
         },
-        "notes": [
-            "此模组与 [[292]] 不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est incompatible avec [[292]]."
-            ]
+            "source": []
         }
     },
     {
@@ -1286,14 +1283,12 @@
             "source": "Cet énorme mod combine les deux anciens mods Project Auril et Winter's Bane. Il ajoute un tas d'objets, de sorts et de créatures, quelques quêtes et de nouvelles fonctionnalités et correctifs.|Évitez son composant `Correction d'IWD par Grog` en faveur de [[522]]. Par ailleurs, le composant principal possède également sa propre version de la quête `la Voix de Durdel Anatha`, ce qui le rend incompatible avec le composant du même nom du mod [[1158]]."
         },
         "notes": [
-            "注意：不幸的是，它会或多或少地覆盖它所触及的一切，这意味着它会删除许多在它之前安装的模组的修改。因此，您必须最先安装它，甚至在修复包之前。",
-            "需要 [[1129]]。"
+            "注意：不幸的是，它会或多或少地覆盖它所触及的一切，这意味着它会删除许多在它之前安装的模组的修改。因此，您必须最先安装它，甚至在修复包之前。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Attention : Malheureusement, il écrase plus ou moins tout ce qu'il touche, ce qui signifie qu'il efface de nombreuses modifications de mods installés avant lui. Il faut donc l'installer en tout premier, avant même le fixpack.",
-                "Nécessite [[1129]]."
+                "Attention : Malheureusement, il écrase plus ou moins tout ce qu'il touche, ce qui signifie qu'il efface de nombreuses modifications de mods installés avant lui. Il faut donc l'installer en tout premier, avant même le fixpack."
             ]
         }
     },
@@ -1430,16 +1425,17 @@
         "id": 96,
         "description": "这个模组在安姆阴影的不同地点添加了各种有趣的遭遇……等等。请仔细阅读存档中的 readme 文件以获取更多细节（内容相当丰富）。它需要巴尔王座。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts). Il nécessite ToB."
+            "status": "needs_review",
+            "source": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts)."
         },
         "notes": [
             "存在一个非官方且兼容 EE 的版本：[[1790]]。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Une version non officielle et compatible EE existe : [[1790]]."
+                "Une version non officielle et compatible EE existe : [[1790]].",
+                "Nécessite ToB."
             ]
         }
     },
@@ -2296,14 +2292,10 @@
             "status": "done",
             "source": "Ce mod vous permet de définir le rythme des bavardages entre les personnages de votre équipe. Vous pouvez le choisir dans une liste pré-établie ou le définir vous-même. Il est compatible avec tous les jeux Enhanced Edition."
         },
-        "notes": [
-            "与 [[504]] 不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec [[504]]."
-            ]
+            "source": []
         }
     },
     {
@@ -2832,14 +2824,10 @@
             "status": "done",
             "source": "Ce mod ajoute Branwen (le PNJ du Baldur's Gate original) dans le donjon d'Irenicus, au début de Baldur's Gate 2, comme si elle avait voyagé avec vous depuis la Côte des Épées. Elle dispose d'un nouveau portrait (tiré de Icewind Dale), est guerrière-prêtresse (alors qu'elle était prêtresse dans BG), et ses caractéristiques ont été modifiées pour qu'elle puisse survivre dans BG2. Si vous la congédiez, elle retournera dans le Nord. Malheureusement, ce mod n'est pas terminé et son contenu est très limité : peu de dialogues, très peu d'interactions, pas de romance, ni de quêtes.|FOR 17, DEX 15, CON 15, INT 10, SAG 18, CHA 12."
         },
-        "notes": [
-            "注意：此模组与许多在 BG2 中也引入了布朗温的模组不兼容，例如 [[803]]、[[194]] 和 [[1383]]。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[803]], [[194]] et [[1383]]."
-            ]
+            "source": []
         }
     },
     {
@@ -2849,14 +2837,10 @@
             "status": "done",
             "source": "Ce mod se veut être un tutoriel pour les moddeurs en herbe désirant créer un PNJ, et de ce fait inclut un PNJ complet avec du contenu pour SoA et ToB, des banters, des interjections, une voie de l'amitié, etc..."
         },
-        "notes": [
-            "注意：此模组与许多在 BG2 中也引入了布朗温的模组不兼容，例如 [[803]]、[[193]] 和 [[1383]]。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : ce mod est incompatible avec les mods qui introduisent aussi Branwen dans BG2, comme [[803]], [[193]] et [[1383]]."
-            ]
+            "source": []
         }
     },
     {
@@ -3002,13 +2986,11 @@
             "source": "Si la vue des sorts en liste de la version normale de ce mod ne vous plaît pas, cette version pourrait bien vous plaire. Elle émule les emplacements de la sélection de sorts par défaut et les organise de telle sorte que tous les sorts soient visibles en même temps."
         },
         "notes": [
-            "此模组需要安装[[348]]。",
             "它仅适用于v2.6.6版本的游戏。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Ce mod nécessite l'installation de [[348]].",
                 "Il ne fonctionne qu'avec les jeux sous la version v2.6.6."
             ]
         }
@@ -3822,14 +3804,10 @@
             "status": "done",
             "source": "Ce mod ajoute une romance pour les PJ féminines d'alignement bon ou neutre (pas de neutre chaotique) ou les druidesses. Pour poursuivre la romance, la réputation doit être supérieure à 13. Il prévoit aussi des discussions d'amitié pour la partie SoA du jeu pour les PC qui ne remplissent pas les critères de romance. Pour ToB, tous les dialogues ajoutés sont réservés à la romance.|Des banters avec d'autres PNJ et des interjections sont également ajoutés, pour les cas de romance et de non-romance dans SoA. Un composant optionnel introduit une quête pour que la sphère soit gardée ou scellée à jamais par une amie de Valygar, Leonora."
         },
-        "notes": [
-            "与 [[1118]] 不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec [[1118]]."
-            ]
+            "source": []
         }
     },
     {
@@ -4291,13 +4269,11 @@
             "source": "Enfin, la possibilité réelle de pouvoir romancer l'aristocrate voleuse de Shadows of Amn ! L'antique version (Nalia Romance) était tellement boguée qu'elle laissait les fans de la jeune rouquine sur leur faim. Qu'ils soient enfin comblés avec cette version (uniquement prévue pour SoA) du mod qui pourra faire vaciller la belle Nalia."
         },
         "notes": [
-            "此mod与[[69]]不兼容。",
             "[[1382]]中提供了ToB的续作。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Ce mod est incompatible avec [[69]].",
                 "Une suite dans ToB est proposée dans [[1382]]."
             ]
         }
@@ -4361,14 +4337,10 @@
             "status": "done",
             "source": "Ce mod a pour vocation d'importer dans les jeux EE l'ensemble des divinités de Féérune et de leur assigner à chacune un profil aussi proche que possible de leur version P&P. Il utilise un système de 25 sphères et propose pour l'instant 53 profils. Des composants optionnels permettent de les assigner à des PNJ recrutables du jeu et de mods."
         },
-        "notes": [
-            "DoF与mod [[396]]、[[982]]和[[314]]不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "DoF n'est pas compatible avec les mods [[396]], [[982]] et [[314]]."
-            ]
+            "source": []
         }
     },
     {
@@ -4602,14 +4574,10 @@
             "status": "done",
             "source": "Appelé à l'origine \"Cleric Remix\", ce mod a pour but de rééquilibrer et de changer certains aspects des classes utilisant la magie divine (clercs, paladins, druides et rôdeurs) dans BG (au travers de BGT, BG1Tutu et BG:EE) et dans BG2.|Tout d'abord, il revoit entièrement le système de sorts des prêtres, druides, rôdeurs et paladins. Il modifie donc la liste des sorts auxquels les clercs ont accès grâce à un système de sphères d'influence divines plus fouillé ; désormais, les prêtres auront accès aux sorts des sphères se rapportant aux attributions de leur divinité. Ainsi, les clercs de Lathandre auront des sorts plutôt centrés sur la guérison et le feu, tandis que ceux de Talos auront un accès privilégié aux sortilèges de destruction. Il en va de même pour les druides, les rôdeurs et les paladins, qui ont maintenant accès à une sélection de sorts plus appropriée pour leur classe. Dans cette logique, une lardée de nouveaux sorts divins ont été ajoutés, tels que les sorts de blessure (contraires aux sorts de guérison), la détection du bien ou encore plusieurs sortilèges tout droits issus d'Icewind Dale. Oubliés, les lanceurs de sorts divins qui se ressemblent tous et dont les sorts ne reflètent en rien leur personnalité, et ajoutez une dimension un peu plus tactique aux prêtres et aux druides !|Deuxièmement, il ajoute 22 nouveaux profils, principalement de rôdeurs et de clercs, afin d'avoir un choix plus large, comme les profils de clerc Étoile d'argent de Séluné, Manteau de la nuit de Shar, Stratège divin de la Cavalière Rouge, d'Aumonier de guerre de Tempus, Noble martyr d'Ilmater, Adepte des flammes de Kossuth, Tyran d'Iyachtu Xvim, Gardien du savoir d'Oghma, Garde du cœur de Sunie, Protecteur Féérique de Corellon, Maitre des conflits de Cyric ; le profil de druide de Maitre des vases, et les profils de rôdeur d'Archer sylvain, Rôdeur sauvage, de Coureur des bois, Vengeur et Coureur sauvage.|Enfin, il permet d'attribuer à Viconia et Branwen un profil de classe correspondant à leur divinité : prêtresse de Shar pour la première, et de Tempus pour la seconde."
         },
-        "notes": [
-            "与[[982]]不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec [[982]]."
-            ]
+            "source": []
         }
     },
     {
@@ -5263,14 +5231,10 @@
             "status": "done",
             "source": "Ce tout petit mod ajoute Eldoth, personnage de BG, dans le jeu, mais avec très peu de contenu et peu de dialogue.|FOR 16, DEX 12, CON 15, INT 13, SAG 10, CHA 16."
         },
-        "notes": [
-            "注意：此模组与同样在 BG2 中引入亚多士 的其他模组（如 [[1383]）不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : ce mod est incompatible avec les autres mods qui introduisent aussi Eldoth dans BG2, comme [[1383]]."
-            ]
+            "source": []
         }
     },
     {
@@ -5481,13 +5445,11 @@
             "source": "Ce mod est une collection de scripts d'IA de joueur conçus pour être utilisés dans BG:EE, BG2:EE, EET et IWD:EE. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche `B`, un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[521]], [[1011]], [[287]], [[976]], [[1114]], [[396]], ainsi que les modifications effectuées par [[983]] et [[563]]."
         },
         "notes": [
-            "与 [[768]] 不兼容。",
             "应作者要求已移除。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Incompatible avec [[768]].",
                 "Retiré à la demande de l'auteur"
             ]
         }
@@ -6122,13 +6084,11 @@
             "source": "Ce mod ajoute dans le jeu plus de 100 nouveaux objets de niveau intermédiaire, inspirés de IWD et de NWN2. Il s'efforce de s'assurer que toutes les armes, armures et objets sont représentés de manière égale et qu'il existe des choix d'utilisation adaptés pour les joueurs tout au long de la série. De plus, comme tout au long des jeux, de nombreux ennemis de niveau moyen sont mal équipés avec des armes et des armures non magiques ou magiques +1, alors que les joueurs de même niveau ont des armes et des équipements +2/+3, ce mod fournit à bon nombre de ces ennemis un équipement unique (+1/+2/+3), ce qui permettra d'améliorer les rencontres avec des ennemis correctement équipés."
         },
         "notes": [
-            "与 [[562]] 不兼容。",
             "应作者要求已移除。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Incompatible avec [[562]].",
                 "Retiré à la demande de l'auteur"
             ]
         }
@@ -6307,14 +6267,10 @@
             "status": "done",
             "source": "Ce mod vise à rendre le personnage de Garrick plus intéressant à jouer, en ajoutant de nouveaux dialogues, de nouvelles situations et rencontres ainsi que des chants supplémentaires propres au barde de Bérégost. Il s'appuie pour cela sur le contenu introduit par le [[25]] et le complète. Il faut impérativement que [[25]] soit installé avant."
         },
-        "notes": [
-            "根据其内容，它与 [[432]] 和 [[1042]] 不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "De par son contenu, il est incompatible avec [[432]] et [[1042]]."
-            ]
+            "source": []
         }
     },
     {
@@ -6324,14 +6280,10 @@
             "status": "done",
             "source": "Ce mod permet à la fille adoptive de Gorion d'avoir des relations plus proches avec son tout premier biographe au travers de 25 conversations. Les flirts sont accessibles à toute race, classe et alignement.|Il est compatible avec le [[25]], mais fonctionne également sans."
         },
-        "notes": [
-            "根据其内容，它与 [[431]] 不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "De par son contenu, il est incompatible avec [[431]]."
-            ]
+            "source": []
         }
     },
     {
@@ -6534,8 +6486,8 @@
         "id": 446,
         "description": "基于同名故事，此模组为[[594]]的爱情故事添加了一段过场动画。艾瑞尼卡斯已成为遥远的过去，凯尔西与他心爱人的生活非常美好……除了那个就是不肯离开的追求者……此模组需要[[598]]和[[594]]模组。",
         "description_meta": {
-            "status": "done",
-            "source": "Basé sur l'histoire du même nom, ce mod ajoute une cinématique à la romance de [[594]]. Irenicus n'est plus qu'un lointain souvenir et la vie de Kelsey avec sa bien-aimée est merveilleuse... sauf pour le prétendant qui ne veut tout simplement pas partir... Ce mod nécessite [[598]] et le mod [[594]]."
+            "status": "needs_review",
+            "source": "Basé sur l'histoire du même nom, ce mod ajoute une cinématique à la romance de [[594]]. Irenicus n'est plus qu'un lointain souvenir et la vie de Kelsey avec sa bien-aimée est merveilleuse... sauf pour le prétendant qui ne veut tout simplement pas partir..."
         },
         "notes": [],
         "notes_meta": {
@@ -7164,14 +7116,10 @@
             "status": "done",
             "source": "Ce mod a pour ambition de renouveler l'expérience du premier opus de la saga BG. Il donne de nouvelles capacités aux membres du groupe, ainsi qu'à la plupart des autres créatures du jeu. Il modifie aussi de nombreux objets et sorts et en ajoutent plein d'autres."
         },
-        "notes": [
-            "从2.0版本开始，此模组需要安装[[348]]。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "À partir de la version 2.0, ce mod nécessite l'installation de [[348]]."
-            ]
+            "source": []
         }
     },
     {
@@ -7372,14 +7320,10 @@
             "status": "done",
             "source": "Ce projet a pour intention de développer le réalisme et l'intérêt des PNJ de Bioware en les dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires. 13 mods sont d'ores et déjà issus de ce projet ambitieux. Il s'agit de : |[[215]], [[318]], [[1343]], [[1352]], [[1328]], [[1311]], [[1330]], [[1331]], [[1342]], [[1332]], [[1340]], [[1335]] et [[1337]]."
         },
-        "notes": [
-            "与[[155]]不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec [[155]]."
-            ]
+            "source": []
         }
     },
     {
@@ -7659,14 +7603,10 @@
             "status": "done",
             "source": "Ce mod permet de jouer à Icewind Dale avec le moteur amélioré et les règles de Baldur's Gate II. Il nécessite Icewind Dale, Heart of Fury, Trial of the Luremaster et Baldur's Gate II - Throne of Bhaal.|Toujours en développement, ce mod a servi de base pour le développement de IWD:EE. Vous trouverez la procédure d'installation sur le lien proposé."
         },
-        "notes": [
-            "它需要安装 [[512]]。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il nécessite l'installation de [[512]]."
-            ]
+            "source": []
         }
     },
     {
@@ -7762,12 +7702,12 @@
             "source": "Contrairement à ce que son nom pourrait laisser penser, ce mod est essentiellement un mod augmentant de manière drastique la difficulté du jeu de base. Il comporte également de nouvelles quêtes, de nouveaux profils (dont le [[84]] et le [[1261]]), un randomisateur, un nouveau personnage recrutable ([[1553]]), et propose également la possibilité de forger de nombreux objets gros-bills, certes, mais nécessaires pour vaincre les ennemis tout aussi gros-bills."
         },
         "notes": [
-            "与 [[117]] 不兼容。|该模组有两个版本：一个用于原版，另一个用于增强版。"
+            "该模组有两个版本：一个用于原版，另一个用于增强版。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Incompatible avec le [[117]].|Le mod existe en deux versions : l'une pour les versions originales, l'autre pour les versions EE."
+                "Le mod existe en deux versions : l'une pour les versions originales, l'autre pour les versions EE."
             ]
         }
     },
@@ -7966,9 +7906,9 @@
             "注意：此模组覆盖了法术，因此与修改原版法术的模组不兼容，特别是 [[982]]、[[521]] 和 [[1011]]。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Attention : Ce mod override les sorts et est donc incompatible avec les mods modifiant les sorts vanilla, notamment [[982]], [[521]] et [[1011]]."
+                "Attention : Ce mod override les sorts et est donc incompatible avec les nombreux mods modifiant les sorts vanilla."
             ]
         }
     },
@@ -8380,16 +8320,17 @@
         "id": 574,
         "description": "这个模组为游戏的博德之门部分添加了内容。它重新引入了一些游戏中未被利用或未完成，并且模组[[112]]没有恢复的元素。此外，它还完善了一些令人不满意的地方。|此模组需要安装[[1111]]、[[548]]的主组件以及[[112]]的“次要对话恢复”和“商店、酒馆和旅店修复与恢复”组件。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[112]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer.|Ce mod nécessite l'installation de [[1111]], du composant principal d'[[548]] et des composants `Restitutions mineures de dialogues` et `Réparations et restitutions de magasins, tavernes et auberges` de [[112]]."
+            "status": "needs_review",
+            "source": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[112]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer."
         },
         "notes": [
             "由于该模组已被转换为 EE 版本，所需的组件可能已经发生变化。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Depuis que le mod a été converti aux EE, les composants nécessaires ont pu évoluer."
+                "Depuis que le mod a été converti aux EE, les composants nécessaires ont pu évoluer.",
+                "Ce mod nécessite l'installation du composant principal d'[[548]] et des composants `Restitutions mineures de dialogues` et `Réparations et restitutions de magasins, tavernes et auberges` de [[112]]."
             ]
         }
     },
@@ -8427,13 +8368,15 @@
         "id": 577,
         "description": "这个模组添加了两个战士简介：绝地武士和西斯尊主。它需要巴尔王座。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute deux profils de guerrier : Jedi et Sith. Il nécessite ToB."
+            "status": "needs_review",
+            "source": "Ce mod ajoute deux profils de guerrier : Jedi et Sith."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Nécessite ToB."
+            ]
         }
     },
     {
@@ -9612,13 +9555,15 @@
         "id": 660,
         "description": "这是Macholy的三个模组之一，旨在使游戏更真实。此模组提供了一个规则系统，允许角色进食和饮水。否则，他们的体质会随着时间的推移而下降。它需要安装模组[[663]]的“烹饪”组件。",
         "description_meta": {
-            "status": "done",
-            "source": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Celui-ci fournit un système de règles permettant aux personnages de se nourrir et de boire. Sans cela, leur constitution diminuera avec le temps. Il nécessite l'installation du composant `Cuisine` du mod [[663]]."
+            "status": "needs_review",
+            "source": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Celui-ci fournit un système de règles permettant aux personnages de se nourrir et de boire. Sans cela, leur constitution diminuera avec le temps."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Il nécessite l'installation du composant `Cuisine` du mod [[663]]."
+            ]
         }
     },
     {
@@ -9994,8 +9939,8 @@
         "id": 687,
         "description": "此模组带来了战斗规则和新的宗派，适用于战士、游侠、吟游诗人和盗贼。您可以根据自己的游戏方式选择安装或否决数十个组件。它定期更新。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod apporte des modifications de règles et de nouveaux kits pour combattants, rôdeurs, bardes et roublards. Vous avez le choix d'installer ou pas des dizaines de composants selon votre manière de jouer. Il est régulièrement mis à jour."
+            "status": "needs_review",
+            "source": "Ce mod apporte des modifications de règles et de nouveaux kits pour combattants, rôdeurs, bardes et roublards. Vous avez le choix d'installer ou pas des dizaines de composants selon votre manière de jouer."
         },
         "notes": [
             "注意：虽然与原版游戏兼容，但由于原版引擎的限制，许多组件仅适用于 EE 游戏。"
@@ -10616,16 +10561,17 @@
         "id": 728,
         "description": "你可以在行政区遇到这个新商人，他提供各种容器（羊皮纸套、宝石袋等等），以及+2飞镖和其他附魔投掷匕首。此模组需要ToB。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce nouveau marchand que vous pourrez rencontrer dans le district du Gouvernement propose toutes sortes de contenants (étuis à parchemins, sacs de gemmes et bien d'autres), mais également des fléchettes +2 et autres dagues de jet enchantées. Le mod nécessite ToB."
+            "status": "needs_review",
+            "source": "Ce nouveau marchand que vous pourrez rencontrer dans le district du Gouvernement propose toutes sortes de contenants (étuis à parchemins, sacs de gemmes et bien d'autres), mais également des fléchettes +2 et autres dagues de jet enchantées."
         },
         "notes": [
             "与[[1325]]搭配可实现EET兼容。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "La compatibilité EET est possible avec [[1325]]."
+                "La compatibilité EET est possible avec [[1325]].",
+                "Nécessite ToB."
             ]
         }
     },
@@ -10735,14 +10681,10 @@
             "status": "done",
             "source": "Ce mod permet de corriger quelques incohérences du jeu, notamment le choix du profil de Cernd en tant que métamorphe, ou le fait qu'Anomen conserve son bouclier familial bien que son père le chasse de chez lui. Quant à Nalia, ses compétences de voleuse reflètent mieux sa manie de sortir du château familial sans être vue (60 points en crochetage de serrures, 15 en détection des pièges et 40 en déplacement silencieux)."
         },
-        "notes": [
-            "与[[1601]]不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec [[1601]]."
-            ]
+            "source": []
         }
     },
     {
@@ -11195,8 +11137,8 @@
         "id": 768,
         "description": "此模组在EE系列游戏中添加了150多种法术，其中一些可以让你飞行或穿墙。但它需要先安装[[348]]。因此，它仅适用于Windows操作系统。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute plus de 150 sorts dans les jeux EE, dont certains vous permettent de voler ou de traverser des murs. Mais il nécessite [[348]] qu'il faut installer avant. Il n'est donc disponible que pour les systèmes d'exploitation Windows."
+            "status": "needs_review",
+            "source": "Ce mod ajoute plus de 150 sorts dans les jeux EE, dont certains vous permettent de voler ou de traverser des murs."
         },
         "notes": [],
         "notes_meta": {
@@ -11707,14 +11649,10 @@
             "status": "done",
             "source": "Ce mod ajoute Branwen (le PNJ du Baldur's Gate original) dans le district du Pont d'Athkatla, mais propose très peu de contenu.|FOR 13, DEX 16, CON 15, INT 9, SAG 16, CHA 13."
         },
-        "notes": [
-            "注意：此模组与许多同样在 BG2 中引入布朗温的模组不兼容，例如 [[193]]、[[194]] 和 [[1383]]。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[193]], [[194]] et [[1383]]."
-            ]
+            "source": []
         }
     },
     {
@@ -12597,9 +12535,9 @@
             "需要巴尔王座，同时也需要模组 [[74]]。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Throne of Bhaal est requis, mais également le mod [[74]]."
+                "ToB est requis."
             ]
         }
     },
@@ -12822,9 +12760,9 @@
             "此模组本质上与 [[784]] 的组件以及 [[1057]] 模组不兼容，因为它们也恢复了此任务，但方式完全不同。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Ce mod est par nature incompatible avec le composant du mod [[784]], ainsi que le mod [[1057]], qui restaurent aussi cette quête, mais de manière totalement différente."
+                "Ce mod est par nature incompatible avec le composant du mod [[784]] qui restaure aussi cette quête, mais de manière totalement différente."
             ]
         }
     },
@@ -14595,14 +14533,10 @@
             "status": "done",
             "source": "Ce mod ajoute la possibilité de sélectionner une sous-race pour le personnage principal. Pour l'instant, il n'y en a que 9 : Aasimar, Tieffelin, Elfe noir, Elfe sauvage, Nain d'or (Nain des collines), Nain gris (Duergar), Costaud et Sagespectre (halfelins), et Gnome des profondeurs (Svirfneblin).|Il donne aussi des sous-races à Viconia (Elfe noir), Baeloth (Elfe noir), Haer'Dalis (Tieffelin) et Caelar (Aasimar).|C'est sans doute le seul qui fonctionne vraiment."
         },
-        "notes": [
-            "似乎与[[1011]]不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Semble incompatible avec [[1011]]."
-            ]
+            "source": []
         }
     },
     {
@@ -14672,9 +14606,9 @@
             "注意：此模组与模组[[201]]以及模组[[884]]中的“改进的费尔克拉格”组件不兼容。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Attention : ce mod est incompatible avec le mod [[201]] et le composant `Firkraag amélioré` de [[884]]."
+                "Attention : ce mod est incompatible avec le composant `Firkraag amélioré` de [[884]]."
             ]
         }
     },
@@ -14771,14 +14705,10 @@
             "status": "done",
             "source": "Ce mod ajoute de nombreuses difficultés dans le jeu en rendant les adversaires plus intelligents, aussi bien les boss de fin de chapitre que le simple grouilleux, notamment par la gestion de l'intelligence de groupe. Il modifie également le comportement de certains sortilèges et comprend quelques ajustements cosmétiques ou de confort. Ce mod rend le jeu réellement plus difficile, soyez donc prêts... Ses  nombreux composants sont tous optionnels."
         },
-        "notes": [
-            "与[[1094]]不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec [[1094]]."
-            ]
+            "source": []
         }
     },
     {
@@ -14940,13 +14870,11 @@
             "source": "Ce mod est un remix de son prédécesseur [[1021]] adapté pour BG2EE et EET."
         },
         "notes": [
-            "与[[982]]和[[665]]不兼容。",
             "应作者要求已移除。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Incompatible avec [[982]] et [[665]].",
                 "Retiré à la demande de l'auteur"
             ]
         }
@@ -15550,13 +15478,11 @@
             "source": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque. Vous devez disposer d'une installation avec Throne of Bhaal."
         },
         "notes": [
-            "与 [[736]] 不兼容。",
             "对于 EE 版本，请查看 [[1601]]。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Incompatible avec [[736]].",
                 "Pour les versions EE, regardez [[1601]]."
             ]
         }
@@ -16110,14 +16036,12 @@
             "source": "Ce mod permet aux bardes et aux profils de barde (y compris ceux des mods) d'utiliser les capacités de crochetage de serrures, de trouver/désamorcer les pièges et de pickpocket. Le but du jeu étant de pouvoir se passer de voleur dans le groupe. Du niveau 1 au niveau 5, le barde recevra 10 points de compétence en crochetage de serrures, 10 points en détection/désarmorçage des pièges et 5 points en vol à la tire. Du niveau 6 au niveau 20, il recevra 5 points de compétence dans chacune de ces capacités."
         },
         "notes": [
-            "此模组需要安装 [[348]]，该模组用于更新动作条，使吟游诗人能够唱歌、侦测陷阱和使用盗贼技能，但代价是失去快速法术的访问权限。",
             "此模组已过时：已被同一作者制作的 [[962]] 取代。",
             "应作者要求已移除。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Ce mod nécessite l'installation de [[348]] qui permet de mettre à jour la barre d'actions afin de permettre aux bardes de chanter, de détecter les pièges et d'utiliser les capacités de voleur au prix de la perte de l'accès aux sorts rapides.",
                 "Ce mod est obsolète : remplacé par [[962]] du même auteur.",
                 "Retiré à la demande de l'auteur"
             ]
@@ -16212,14 +16136,10 @@
             "status": "done",
             "source": "Ce mod ajoute un nouveau PNJ dans IWD:EE : Tipps Rattletattle, un sorcier géomancien halfelin. Transformé en pierre il y a quelques années près de l'entrée du Temple du Dieu Oublié, il peut maintenant revenir dans le monde des vivants et rejoindre le groupe dirigé par le héros de Icewind Dale.|Le mod inclut des discussions d'amitié, des des interjections, de nouveaux objets et une romance pour certaines races : si votre personnage principal est un halfelin, un gnome ou un nain, quelque chose de plus que de l'amitié peut émerger. Bien que cela puisse être déclenché par tous les PJ, la romance peut être légèrement plus facile pour les personnages féminins, cependant un homme charismatique ou sage peut également poursuivre une relation sérieuse (si les restrictions raciales sont respectées)."
         },
-        "notes": [
-            "注意：此模组需要安装模组 [[443]]。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : Ce mod nécessite l'installation du mod [[443]]."
-            ]
+            "source": []
         }
     },
     {
@@ -16615,10 +16535,10 @@
     },
     {
         "id": 1137,
-        "description": "有了这个模组，你可以在王座最终之战中召唤那些在战场上牺牲的老盟友（戴娜黑、提亚斯、卡立德、萨尔、善最）。你甚至可以把你养父或养母召回你身边。它需要[[74]]。",
+        "description": "有了这个模组，你可以在王座最终之战中召唤那些在战场上牺牲的老盟友（戴娜黑、提亚斯、卡立德、萨尔、善最）。你甚至可以把你养父或养母召回你身边。",
         "description_meta": {
             "status": "done",
-            "source": "Grâce à ce mod, vous pouvez invoquer d'anciens alliés tombés au champ d'honneur dans la lutte finale du trône (Dynaheir, Tiax, Khalid, Xzar, Yoshimo). Vous pouvez même rappeler à vos côtés votre mère ou votre père adoptif. Il nécessite [[74]]."
+            "source": "Grâce à ce mod, vous pouvez invoquer d'anciens alliés tombés au champ d'honneur dans la lutte finale du trône (Dynaheir, Tiax, Khalid, Xzar, Yoshimo). Vous pouvez même rappeler à vos côtés votre mère ou votre père adoptif."
         },
         "notes": [],
         "notes_meta": {
@@ -18658,14 +18578,10 @@
             "status": "done",
             "source": "Ce mod permet d'éviter de devoir se séparer de Yoshimo. Il ajoute des échanges supplémentaires."
         },
-        "notes": [
-            "与[[1302]]和[[1303]]不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec [[1302]] et [[1303]]."
-            ]
+            "source": []
         }
     },
     {
@@ -18983,14 +18899,10 @@
             "status": "done",
             "source": "Ce mod ajoute un nouveau genre de romance avec le tristement célèbre chasseur de primes. Disponible pour des PJ féminins humaines, elfes, demi-elfes et tieffelines disposant d'au moins 13 en charisme, cette romance particulière épouse parfaitement la trame principale de SoA. Bien que l'on pourrait penser que tout s'arrêterait avec la rencontre de Jon Irenicus à l'asile de Spellhold, le mod dispose également de contenu pour ToB.| Ce mod est compatible avec [[1337]] et [[1118]], mais certains dialogues pourraient être affectés par la présence de ces mods."
         },
-        "notes": [
-            "与[[1280]]不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec [[1280]]."
-            ]
+            "source": []
         }
     },
     {
@@ -19000,14 +18912,10 @@
             "status": "done",
             "source": "Était-ce vraiment la fin des aventures de Yoshimo avec l'Enfant de Bhaal ? N'a-t-il tout simplement aucun moyen de se racheter ou d'expliquer ses actions au PJ ?|Ce mod fait de Yoshimo un personnage jouable dans Throne of Bhaal. Cependant, il n'est pas ce que vous attendez de lui... Alors préparez-vous pour d'autres aventures et discussions avec le tristement célèbre chasseur de primes, une âme tourmentée qui n'a laissé que des regrets. Écoutez-le, car c'est peut-être sa dernière chance de trouver la paix.|Yoshimo's Remorse est compatible avec [[1302]], mais si une telle relation a eu lieu dans SoA, il n'apparaîtra pas dans ToB, et le contenu du mod [[1302]] se produira à la place."
         },
-        "notes": [
-            "与[[1280]]不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec [[1280]]."
-            ]
+            "source": []
         }
     },
     {
@@ -19548,14 +19456,10 @@
             "status": "done",
             "source": "Ce mod vise à utiliser des opérations de couleur plus cohérentes, des filtres d'accentuation et de mise à l'échelle alternatifs via les fichiers de shaders introduits dans BG(2)EE."
         },
-        "notes": [
-            "尽管灵感来自模组[[930]]，但这两个模组不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Bien qu'inspiré par le mod [[930]], ces deux mods sont incompatibles."
-            ]
+            "source": []
         }
     },
     {
@@ -19772,14 +19676,10 @@
             "status": "done",
             "source": "Un archidruide est mort mais est revenu à la vie sous la forme d'une créature morte-vivante. Il est incapable d'aller de l'avant à cause de son plus grand regret : avoir empêché trois enfants d'être sacrifiés à Malar. Il regrette (1) son intervention et (2) le fait que deux des trois enfants soient devenus des personnes horribles. Aidez l'archidruide mort-vivant à retrouver la paix.... d'une manière ou d'une autre."
         },
-        "notes": [
-            "可能会与模组 [[1032]] 和 [[226]] 因使用同一洞穴而产生冲突。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Probablement incompatible avec les mods [[1032]] et [[226]] pour utiliser la même grotte."
-            ]
+            "source": []
         }
     },
     {
@@ -20592,10 +20492,10 @@
             "这需要用由此创建的可执行文件来启动游戏的 exe 文件。可能与 [[348]] 及类似模组不兼容。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
                 "Fonctionnel que sous Windows.",
-                "Cela nécessite de lancer l'exe du jeu avec l'exécutable ainsi créé. Probablement incompatible avec [[348]] et mods similaires."
+                "Cela nécessite de lancer l'exe du jeu avec l'exécutable ainsi créé."
             ]
         }
     },
@@ -20759,13 +20659,11 @@
             "source": " Pour tomber enceinte, les joueurs des deux sexes, les joueuses doivent participer à des 'aventures amoureuses' avec des personnages masculins du mod [[1289]]. Si la joueuse tombe enceinte, le bébé naîtra au bout de 9 mois."
         },
         "notes": [
-            "此模组需要 [[1289]]。",
             "必须启用队伍 AI。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Ce mod nécessite [[1289]].",
                 "L'IA de groupe doit être activée."
             ]
         }
@@ -21512,14 +21410,10 @@
             "status": "done",
             "source": "Il s'agit d'une démo d'un mod destiné à faire de Caelar Argent un PNJ joignable.|Pour que Caelar Argent vous rejoigne, vous devez tuer Belhifet avant elle."
         },
-        "notes": [
-            "与[[948]]不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec [[948]]."
-            ]
+            "source": []
         }
     },
     {
@@ -21624,10 +21518,10 @@
             "需要博德之门增强版、博德之门2增强版或冰风谷增强版2.6或更高版本。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
                 "Il existe un lien [Github](https://github.com/Boooof) mais celui-ci ne propose que trois soundsets. Le lien vers Drive propose l'intégrale des huit soundsets créés.",
-                "Nécessite BGEE, B2EE ou IWDEE en version 2.6+"
+                "Nécessite une version du jeu 2.6+"
             ]
         }
     },
@@ -22046,14 +21940,10 @@
             "status": "done",
             "source": "Ce petit mod pour Baldur's Gate Trilogy vous permet de modifier les paramètres des points de spawn de la zone afin de changer la difficulté des rencontres."
         },
-        "notes": [
-            "与 [[133]] 和 [[135]] 不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec [[133]] et [[135]]."
-            ]
+            "source": []
         }
     },
     {
@@ -22930,9 +22820,9 @@
             "它需要覆盖tlk文件，且该模组仅提供英文版。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Il nécessite d'overrider le fichier tlk et le mod est disponible uniquement en anglais."
+                "Il nécessite d'overrider le fichier tlk."
             ]
         }
     },
@@ -23140,14 +23030,10 @@
             "status": "done",
             "source": "Ce mod importe de nouveaux objets, sorts et kits de SoD dans BG2EE. Il est une réécriture du mod [[973]] du même auteur afin de le rendre plus modulaire et faciliter les compatibilités avec les autres mods."
         },
-        "notes": [
-            "与[[973]]不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec [[973]]."
-            ]
+            "source": []
         }
     },
     {
@@ -23335,14 +23221,12 @@
             "source": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque. Vous devez disposer d'une installation avec Throne of Bhaal."
         },
         "notes": [
-            "此版本适用于EE游戏：您必须先下载并解压原始v1.14版本（第一个链接），但不要安装。然后运行Setup-TDDz.exe文件，将模组安装到您的EE游戏中。",
-            "与[[736]]不兼容。"
+            "此版本适用于EE游戏：您必须先下载并解压原始v1.14版本（第一个链接），但不要安装。然后运行Setup-TDDz.exe文件，将模组安装到您的EE游戏中。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Cette version est pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale v1.14 (premier lien) SANS l'installer. Puis lancez le fichier Setup-TDDz.exe pour installer le mod sur votre jeu EE.",
-                "Incompatible avec [[736]]."
+                "Cette version est pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale [[1062]] SANS l'installer. Puis lancer le fichier `Setup-TDDz.exe` pour installer le mod sur votre jeu EE."
             ]
         }
     },
@@ -26207,14 +26091,10 @@
             "status": "done",
             "source": "Ce mod se concentre exclusivement sur le contenu lié au PNJ Clara, vous permettant de la sauver face à Hexxat. Il s'agit d'une refonte ciblée de [[1286]], supprimant tous les éléments non liés à Clara du mod original."
         },
-        "notes": [
-            "它与[[1286]]不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est incompatible avec [[1286]]."
-            ]
+            "source": []
         }
     },
     {
@@ -27003,14 +26883,10 @@
             "status": "done",
             "source": "Multiplie la résolution par x4 de toutes les cartes dans BG:EE. Comme il ne modifie pas directement les fichiers ARE/WED, cela le rend compatible avec la grande majorité des mods."
         },
-        "notes": [
-            "需要[[348]]。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Nécessite [[348]]."
-            ]
+            "source": []
         }
     },
     {
@@ -27020,14 +26896,10 @@
             "status": "done",
             "source": "Modification graphique du moteur pour Baldur's Gate Enhanced Edition."
         },
-        "notes": [
-            "需要[[348]]。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Nécessite [[348]]."
-            ]
+            "source": []
         }
     },
     {
@@ -27139,14 +27011,10 @@
             "status": "done",
             "source": ""
         },
-        "notes": [
-            "需要[[1526]]号模组。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Nécessite [[1526]]."
-            ]
+            "source": []
         }
     },
     {
@@ -27156,14 +27024,10 @@
             "status": "done",
             "source": "Il ajoute un petit PNJ, Avaunis (sans dialogue), à l'Ordre du Cœur radieux, qui vous mènera à la mini-quête « La salle du savoir »."
         },
-        "notes": [
-            "需要[[1601]]号模组。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Nécessite [[1601]]."
-            ]
+            "source": []
         }
     },
     {
