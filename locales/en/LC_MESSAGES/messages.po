@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-14 17:26+0200\n"
-"PO-Revision-Date: 2025-09-14 17:27+0200\n"
+"POT-Creation-Date: 2025-10-18 22:58+0200\n"
+"PO-Revision-Date: 2025-10-18 23:00+0200\n"
 "Last-Translator: Riws <toto.streak289@passinbox.com>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -16,14 +16,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.7\n"
+"X-Generator: Poedit 3.8\n"
 
-#: models/mod.py:193
-#, python-brace-format
+#: models/mod.py:194
+#, fuzzy, python-brace-format
 msgid "Fichier `{filename}`."
 msgstr "File `{filename}`."
 
-#: models/mod.py:200
+#: models/mod.py:201
 #, python-brace-format
 msgid ""
 "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
@@ -32,7 +32,7 @@ msgstr ""
 "⚠️ EE: The last update was in {year}. This mod may not work with the latest "
 "version of the game."
 
-#: models/mod.py:207
+#: models/mod.py:208
 msgid ""
 "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
 "le à vos risques et périls."
@@ -40,7 +40,7 @@ msgstr ""
 "⚠️ WeiDU: This mod overwrites files and cannot be uninstalled. Install it at "
 "your own risk.."
 
-#: models/mod.py:213
+#: models/mod.py:214
 msgid ""
 "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
 "donner suite."
@@ -48,24 +48,34 @@ msgstr ""
 "This mod has been archived by its author/maintainer, who does not seem to "
 "want to continue developing it."
 
-#: models/mod.py:217
+#: models/mod.py:218
 msgid "Ce mod est toujours en cours de réalisation."
 msgstr "This mod is still in progress."
 
-#: models/mod.py:222
+#: models/mod.py:223
 #, python-brace-format
 msgid "Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
 msgstr ""
 "This mod has disappeared from <a href='{url}' target='_blank'>{url}</a>."
 
-#: models/mod.py:225
+#: models/mod.py:226
 msgid "Ce mod a disparu."
 msgstr "This mod has disappeared."
 
-#: models/mod.py:237
+#: models/mod.py:238
 #, python-brace-format
 msgid "Disponible en {language}."
 msgstr "Available in {language}."
+
+#: models/mod.py:247
+#, python-brace-format
+msgid "Nécessite : {mods}"
+msgstr "Requires: {mods}"
+
+#: models/mod.py:253
+#, python-brace-format
+msgid "Incompatible avec : {mods}"
+msgstr "Incompatible with: {mods}"
 
 #: settings.py:33
 msgid "Mod de qualité"
@@ -91,7 +101,7 @@ msgstr "Mod partially translated"
 msgid "Mod non traduit"
 msgstr "Mod not translated"
 
-#: settings.py:61 i18n.py:113
+#: settings.py:61 i18n.py:115
 msgid "Mod Weidu"
 msgstr "Weidu Mod"
 
@@ -163,95 +173,95 @@ msgstr "Script and tactic"
 msgid "Personnalisation du groupe"
 msgstr "Party customisation"
 
-#: i18n.py:76
+#: i18n.py:78
 msgid "Liste des mods pour IE - La Couronne de Cuivre"
 msgstr "List of mods for IE - La Couronne de Cuivre"
 
-#: i18n.py:77
+#: i18n.py:79
 msgid "Mod"
 msgstr "Mod"
 
-#: i18n.py:78
+#: i18n.py:80
 msgid "Compatibilités"
 msgstr "Compatibilities"
 
-#: i18n.py:79
+#: i18n.py:81
 msgid "Auteurs"
 msgstr "Authors"
 
-#: i18n.py:80
+#: i18n.py:82
 msgid "Traducteurs"
 msgstr "Translators"
 
-#: i18n.py:81
+#: i18n.py:83
 msgid "Équipe"
 msgstr "Team"
 
-#: i18n.py:82
+#: i18n.py:84
 msgid "Lien"
 msgstr "Link"
 
-#: i18n.py:83
+#: i18n.py:85
 msgid "Tous"
 msgstr "All"
 
-#: i18n.py:84
+#: i18n.py:86
 msgid "Toutes"
 msgstr "All"
 
-#: i18n.py:85
+#: i18n.py:87
 msgid "État de la traduction"
 msgstr "Translation state"
 
-#: i18n.py:86
+#: i18n.py:88
 msgid "Qualité du mod"
 msgstr "Mod quality"
 
-#: i18n.py:87
+#: i18n.py:89
 msgid "Catégorie"
 msgstr "Category"
 
-#: i18n.py:88
+#: i18n.py:90
 msgid "Recherche :"
 msgstr "Search:"
 
-#: i18n.py:89
+#: i18n.py:91
 msgid "Filtres avancés"
 msgstr "Advanced filters"
 
-#: i18n.py:90
+#: i18n.py:92
 msgid "Liste des mods"
 msgstr "Mods list"
 
-#: i18n.py:91
+#: i18n.py:93
 msgid "Auteur :"
 msgstr "Author:"
 
-#: i18n.py:92
+#: i18n.py:94
 msgid "Mainteneur :"
 msgstr "Maintainer:"
 
-#: i18n.py:93
+#: i18n.py:95
 msgid "Retourner aux filtres"
 msgstr "Back to filters"
 
-#: i18n.py:94
+#: i18n.py:96
 msgid "Site internet"
 msgstr "Web Site"
 
-#: i18n.py:95
+#: i18n.py:97
 msgid "Discussion"
 msgstr "Discussion"
 
-#: i18n.py:96
+#: i18n.py:98
 msgid "Introduction"
 msgstr "Introduction"
 
-#: i18n.py:97
+#: i18n.py:99
 msgid "Mods recensés : "
 msgstr "Mods listed: "
 
-#: i18n.py:99
+#: i18n.py:101
 msgid ""
 "Voici la liste de mods de la saga Baldur's Gate disponibles au "
 "téléchargement. Afin qu'elle soit la plus précise possible, n'hésitez pas à "
@@ -272,7 +282,7 @@ msgstr ""
 "report any problems, broken links or newer links, confirm new compatibility, "
 "or simply announce the release of new mods."
 
-#: i18n.py:102
+#: i18n.py:104
 msgid ""
 "Quiconque le souhaite peut apporter des modifications et des améliorations à "
 "cette liste sur ce <a href=\"https://github.com/RiwsPy/lcc-docs/\">dépôt "
@@ -285,7 +295,7 @@ msgstr ""
 "‘issue’ and inform us of an error, a missing or incorrect link, or missing "
 "information; or fork it and submit a ‘Pull Request’."
 
-#: i18n.py:105
+#: i18n.py:107
 msgid ""
 "N'oubliez-pas de consulter le <a href=\"https://github.com/RiwsPy/lcc-docs/"
 "README.md\">readme</a> avant de contribuer ainsi que les <a href=\"https://"
@@ -295,11 +305,11 @@ msgstr ""
 "README.md\">readme</a> before contributing, as well as the <a href=\"https://"
 "github.com/RiwsPy/lcc-docs/CONTRIBUTING.md\">guidelines</a>."
 
-#: i18n.py:107
+#: i18n.py:109
 msgid "AVERTISSEMENTS"
 msgstr "WARNINGS"
 
-#: i18n.py:109
+#: i18n.py:111
 msgid ""
 "Par sécurité, tous les liens qui proposent un téléchargement direct sont "
 "coupés en deux. La première partie est dans le lien et la seconde dans la "
@@ -316,10 +326,10 @@ msgstr ""
 "href=\"#m903\">Runic Bladesinger Elven Kit</a>, the link `https://baldur.cob-"
 "bg.pl/download/bg2/kits/` should be combined with `Runiczny_v2.0.zip`."
 
-#: i18n.py:111
+#: i18n.py:113
 msgid "Nom du mod"
 msgstr "Mod name"
 
-#: i18n.py:112
+#: i18n.py:114
 msgid "Légende :"
 msgstr "Legend:"

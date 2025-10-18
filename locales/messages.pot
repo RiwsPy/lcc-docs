@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-14 17:26+0200\n"
+"POT-Creation-Date: 2025-10-18 22:58+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,46 +17,56 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: models/mod.py:193
+#: models/mod.py:194
 #, python-brace-format
 msgid "Fichier `{filename}`."
 msgstr ""
 
-#: models/mod.py:200
+#: models/mod.py:201
 #, python-brace-format
 msgid ""
 "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
 "fonctionner avec la dernière version du jeu."
 msgstr ""
 
-#: models/mod.py:207
+#: models/mod.py:208
 msgid ""
 "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
 "le à vos risques et périls."
 msgstr ""
 
-#: models/mod.py:213
+#: models/mod.py:214
 msgid ""
 "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
 "donner suite."
 msgstr ""
 
-#: models/mod.py:217
+#: models/mod.py:218
 msgid "Ce mod est toujours en cours de réalisation."
 msgstr ""
 
-#: models/mod.py:222
+#: models/mod.py:223
 #, python-brace-format
 msgid "Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
 msgstr ""
 
-#: models/mod.py:225
+#: models/mod.py:226
 msgid "Ce mod a disparu."
 msgstr ""
 
-#: models/mod.py:237
+#: models/mod.py:238
 #, python-brace-format
 msgid "Disponible en {language}."
+msgstr ""
+
+#: models/mod.py:247
+#, python-brace-format
+msgid "Nécessite : {mods}"
+msgstr ""
+
+#: models/mod.py:253
+#, python-brace-format
+msgid "Incompatible avec : {mods}"
 msgstr ""
 
 #: settings.py:33
@@ -83,7 +93,7 @@ msgstr ""
 msgid "Mod non traduit"
 msgstr ""
 
-#: settings.py:61 i18n.py:113
+#: settings.py:61 i18n.py:115
 msgid "Mod Weidu"
 msgstr ""
 
@@ -155,95 +165,95 @@ msgstr ""
 msgid "Personnalisation du groupe"
 msgstr ""
 
-#: i18n.py:76
+#: i18n.py:78
 msgid "Liste des mods pour IE - La Couronne de Cuivre"
 msgstr ""
 
-#: i18n.py:77
+#: i18n.py:79
 msgid "Mod"
 msgstr ""
 
-#: i18n.py:78
+#: i18n.py:80
 msgid "Compatibilités"
 msgstr ""
 
-#: i18n.py:79
+#: i18n.py:81
 msgid "Auteurs"
 msgstr ""
 
-#: i18n.py:80
+#: i18n.py:82
 msgid "Traducteurs"
 msgstr ""
 
-#: i18n.py:81
+#: i18n.py:83
 msgid "Équipe"
 msgstr ""
 
-#: i18n.py:82
+#: i18n.py:84
 msgid "Lien"
 msgstr ""
 
-#: i18n.py:83
+#: i18n.py:85
 msgid "Tous"
 msgstr ""
 
-#: i18n.py:84
+#: i18n.py:86
 msgid "Toutes"
 msgstr ""
 
-#: i18n.py:85
+#: i18n.py:87
 msgid "État de la traduction"
 msgstr ""
 
-#: i18n.py:86
+#: i18n.py:88
 msgid "Qualité du mod"
 msgstr ""
 
-#: i18n.py:87
+#: i18n.py:89
 msgid "Catégorie"
 msgstr ""
 
-#: i18n.py:88
+#: i18n.py:90
 msgid "Recherche :"
 msgstr ""
 
-#: i18n.py:89
+#: i18n.py:91
 msgid "Filtres avancés"
 msgstr ""
 
-#: i18n.py:90
+#: i18n.py:92
 msgid "Liste des mods"
 msgstr ""
 
-#: i18n.py:91
+#: i18n.py:93
 msgid "Auteur :"
 msgstr ""
 
-#: i18n.py:92
+#: i18n.py:94
 msgid "Mainteneur :"
 msgstr ""
 
-#: i18n.py:93
+#: i18n.py:95
 msgid "Retourner aux filtres"
 msgstr ""
 
-#: i18n.py:94
+#: i18n.py:96
 msgid "Site internet"
 msgstr ""
 
-#: i18n.py:95
+#: i18n.py:97
 msgid "Discussion"
 msgstr ""
 
-#: i18n.py:96
+#: i18n.py:98
 msgid "Introduction"
 msgstr ""
 
-#: i18n.py:97
+#: i18n.py:99
 msgid "Mods recensés : "
 msgstr ""
 
-#: i18n.py:99
+#: i18n.py:101
 msgid ""
 "Voici la liste de mods de la saga Baldur's Gate disponibles au "
 "téléchargement. Afin qu'elle soit la plus précise possible, n'hésitez pas à "
@@ -256,7 +266,7 @@ msgid ""
 "nouveaux mods."
 msgstr ""
 
-#: i18n.py:102
+#: i18n.py:104
 msgid ""
 "Quiconque le souhaite peut apporter des modifications et des améliorations à "
 "cette liste sur ce <a href=\"https://github.com/RiwsPy/lcc-docs/\">dépôt "
@@ -265,18 +275,18 @@ msgid ""
 "soit de le \"forker\" et de proposer une \"Pull Request\"."
 msgstr ""
 
-#: i18n.py:105
+#: i18n.py:107
 msgid ""
 "N'oubliez-pas de consulter le <a href=\"https://github.com/RiwsPy/lcc-docs/"
 "README.md\">readme</a> avant de contribuer ainsi que les <a href=\"https://"
 "github.com/RiwsPy/lcc-docs/CONTRIBUTING.md\">guidelines</a>."
 msgstr ""
 
-#: i18n.py:107
+#: i18n.py:109
 msgid "AVERTISSEMENTS"
 msgstr ""
 
-#: i18n.py:109
+#: i18n.py:111
 msgid ""
 "Par sécurité, tous les liens qui proposent un téléchargement direct sont "
 "coupés en deux. La première partie est dans le lien et la seconde dans la "
@@ -287,10 +297,10 @@ msgid ""
 "zip`."
 msgstr ""
 
-#: i18n.py:111
+#: i18n.py:113
 msgid "Nom du mod"
 msgstr ""
 
-#: i18n.py:112
+#: i18n.py:114
 msgid "Légende :"
 msgstr ""
