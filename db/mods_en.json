@@ -14510,10 +14510,10 @@
     },
     {
         "id": 1001,
-        "description": "This is a collection of small adjustments to spells, items and creatures made by subtledoctor for the EE games. Some, but very few, are retro-compatible with the original games (such as Add a saving throw for level absorption effects). Each component can be installed independently.",
+        "description": "This is a collection of small adjustments to spells, items and creatures for the EE games. Some, but very few, are retro-compatible with the original games (such as Add a saving throw for level absorption effects). Each component can be installed independently.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'une collection de petits ajustements de sorts, d'objets ou de créatures réalisés par subtledoctor pour les jeux EE. Certains, mais très peu, sont retro-compatibles avec les jeux originaux (comme Ajouter un jet de sauvegarde pour les effets d'absorption de niveau). Chaque composant peut être installé indépendamment."
+            "source": "Il s'agit d'une collection de petits ajustements de sorts, d'objets ou de créatures pour les jeux EE. Certains, mais très peu, sont retro-compatibles avec les jeux originaux (comme Ajouter un jet de sauvegarde pour les effets d'absorption de niveau). Chaque composant peut être installé indépendamment."
         },
         "notes": [
             "For greater consistency, the author has split the mod into two: [[1306]] and [[1278]]."
@@ -18885,10 +18885,10 @@
     },
     {
         "id": 1306,
-        "description": "This mod is a collection of subtledoctor tweaks that can be found in other mods by this author, such as [[922]], [[1114]] and [[1001]]. The components are numerous, so please refer to the mod's README.",
+        "description": "This mod is a collection of tweaks that can be found in other mods by this author, such as [[922]], [[1114]] and [[1001]]. The components are numerous, so please refer to the mod's README.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod est un regroupement des tweaks de subtledoctor que l'on peut retrouver dans d'autres mods de cet auteur comme [[922]], [[1114]] ou encore [[1001]]. Les composants sont nombreux, n'hésitez pas à vous référer au README du mod."
+            "source": "Ce mod est un regroupement de tweaks que l'on peut retrouver dans d'autres mods de cet auteur comme [[922]], [[1114]] ou encore [[1001]]. Les composants sont nombreux, n'hésitez pas à vous référer au README du mod."
         },
         "notes": [],
         "notes_meta": {
@@ -18904,13 +18904,13 @@
             "source": "Sub-Zero est un assassin du clan Lin Kuei. Kuai Liang possède le pouvoir de la glace et du froid. Comme son nom l'indique, le personnage est clairement inspiré du personnage homonyme de Mortal Kombat et possède son style très particulier. Il peut vous suivre comme un 7ème compagnon.|FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18."
         },
         "notes": [
-            "The github link is compatible with EET.",
+            "[This link](https://github.com/Endarire/BG2-Sub-Zero-Companion/)) is compatible with EET.",
             "Mod [[1521]] makes the character's characteristics more RP."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Le lien github est compatible avec EET.",
+                "[Ce lien](https://github.com/Endarire/BG2-Sub-Zero-Companion/) possède une version compatible avec EET.",
                 "Le mod [[1521]] rend les caractéristiques du personnage plus RP."
             ]
         }
@@ -27096,6 +27096,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1888,
+        "description": "This mod allows you to install all kinds of true multiclass kits from any combination of single-class kits which allows unusual combinations such as Kensai/Assassin or Berserker/Wild Mage/Swashbuckler. Custom kits from mods are considered as well if detected.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod vous permet d'installer toutes sortes de kits multiclassés authentiques à partir de n'importe quelle combinaison de kits monoclassés, ce qui permet des combinaisons inhabituelles telles que Kensaï/Assassin ou Berserker/Entropiste/Bretteur. Les kits personnalisés provenant de mods sont également pris en compte s'ils sont détectés."
         },
         "notes": [],
         "notes_meta": {

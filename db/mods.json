@@ -28898,7 +28898,7 @@
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=23996",
             "https://forums.beamdog.com/discussion/79293",
-            "https://github.com/GwendolyneFreddy/Rodeur_Ombre"
+            "https://github.com/Plutonium-X/KIT_Rodeur_Ombres/"
         ],
         "categories": [
             "Kit"
@@ -28924,7 +28924,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2020-05",
+        "last_update": "2025-10",
         "tp2": "fr_ombre"
     },
     {
@@ -31903,7 +31903,7 @@
     {
         "id": 1001,
         "name": "Subtledoc's Random Tweaks",
-        "description": "Il s'agit d'une collection de petits ajustements de sorts, d'objets ou de créatures réalisés par subtledoctor pour les jeux EE. Certains, mais très peu, sont retro-compatibles avec les jeux originaux (comme Ajouter un jet de sauvegarde pour les effets d'absorption de niveau). Chaque composant peut être installé indépendamment.",
+        "description": "Il s'agit d'une collection de petits ajustements de sorts, d'objets ou de créatures pour les jeux EE. Certains, mais très peu, sont retro-compatibles avec les jeux originaux (comme Ajouter un jet de sauvegarde pour les effets d'absorption de niveau). Chaque composant peut être installé indépendamment.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/31133-subtledocs-random-tweaks/"
         ],
@@ -41745,7 +41745,7 @@
     {
         "id": 1306,
         "name": "SubtleD's Spell Tweaks",
-        "description": "Ce mod est un regroupement des tweaks de subtledoctor que l'on peut retrouver dans d'autres mods de cet auteur comme [[922]], [[1114]] ou encore [[1001]]. Les composants sont nombreux, n'hésitez pas à vous référer au README du mod.",
+        "description": "Ce mod est un regroupement de tweaks que l'on peut retrouver dans d'autres mods de cet auteur comme [[922]], [[1114]] ou encore [[1001]]. Les composants sont nombreux, n'hésitez pas à vous référer au README du mod.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/37238-subtlemods-subtleds-spell-tweaks/",
             "https://github.com/subtledoctor/SubtleD_Spell_Tweaks"
@@ -54019,16 +54019,16 @@
             "IWDEE"
         ],
         "authors": [
-            "subtledoctor"
+            "Subtledoctor"
         ],
         "team": [],
         "notes": [
             "Ce mod n'est plus nécessaire avec un jeu patché en 2.6.6"
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2017-02",
         "tp2": "simularcum_fix"
     },
@@ -58997,5 +58997,39 @@
         "status": "active",
         "last_update": "2025-09",
         "tp2": "non-weidu"
+    },
+    {
+        "id": 1888,
+        "name": "Multiclass Kits",
+        "description": "Ce mod vous permet d'installer toutes sortes de kits multiclassés authentiques à partir de n'importe quelle combinaison de kits monoclassés, ce qui permet des combinaisons inhabituelles telles que Kensaï/Assassin ou Berserker/Entropiste/Bretteur. Les kits personnalisés provenant de mods sont également pris en compte s'ils sont détectés.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/89800/",
+            "https://www.gibberlings3.net/forums/topic/40601-mod-multiclass-kits",
+            "https://github.com/Argent77/A7-MultiKits/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Argent77"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en",
+            "de"
+        ],
+        "status": "active",
+        "last_update": "2025-10",
+        "tp2": "A7-MultiKits"
     }
 ]

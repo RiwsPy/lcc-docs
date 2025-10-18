@@ -93,7 +93,7 @@ class ModManager:
 class CleanModMixin:
     def __init__(self, data: dict):
         self.data = data
-        self.cleaned_data = dict()
+        self.cleaned_data: dict = dict()
 
     def clean_all(self) -> None:
         for field in fields(Mod):

@@ -14626,8 +14626,8 @@
         "id": 1001,
         "description": "这是subtle医生为EE游戏制作的一系列法术、物品或生物的小型调整。其中一些，但非常少，与原始游戏向后兼容（例如，为吸取等级的效果添加一次豁免检定）。每个组件都可以独立安装。",
         "description_meta": {
-            "status": "done",
-            "source": "Il s'agit d'une collection de petits ajustements de sorts, d'objets ou de créatures réalisés par subtledoctor pour les jeux EE. Certains, mais très peu, sont retro-compatibles avec les jeux originaux (comme Ajouter un jet de sauvegarde pour les effets d'absorption de niveau). Chaque composant peut être installé indépendamment."
+            "status": "needs_review",
+            "source": "Il s'agit d'une collection de petits ajustements de sorts, d'objets ou de créatures pour les jeux EE. Certains, mais très peu, sont retro-compatibles avec les jeux originaux (comme Ajouter un jet de sauvegarde pour les effets d'absorption de niveau). Chaque composant peut être installé indépendamment."
         },
         "notes": [
             "为了保持一致性，作者将此模组分成了两个：[[1306]]和[[1278]]。"
@@ -19051,8 +19051,8 @@
         "id": 1306,
         "description": "这个模组是subtledoctor的调整集合，可以在该作者的其他模组中找到，如[[922]]、[[1114]]或[[1001]]。组件众多，请务必参考模组的README文件。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod est un regroupement des tweaks de subtledoctor que l'on peut retrouver dans d'autres mods de cet auteur comme [[922]], [[1114]] ou encore [[1001]]. Les composants sont nombreux, n'hésitez pas à vous référer au README du mod."
+            "status": "needs_review",
+            "source": "Ce mod est un regroupement de tweaks que l'on peut retrouver dans d'autres mods de cet auteur comme [[922]], [[1114]] ou encore [[1001]]. Les composants sont nombreux, n'hésitez pas à vous référer au README du mod."
         },
         "notes": [],
         "notes_meta": {
@@ -19072,9 +19072,9 @@
             "[[1521]]模组使角色属性更具角色扮演风格。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Le lien github est compatible avec EET.",
+                "[Ce lien](https://github.com/Endarire/BG2-Sub-Zero-Companion/) possède une version compatible avec EET.",
                 "Le mod [[1521]] rend les caractéristiques du personnage plus RP."
             ]
         }
@@ -22030,7 +22030,7 @@
         "id": 1510,
         "description": "该模组为部分奥术与神术添加金币或经验值消耗，将复活成本调整为接近D&D 3.5或4版规则，修改种族加成，并设定圣武士在实施某些邪恶行为后可能堕落等机制。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute des coûts en or ou en expérience à certains sorts profanes et divins, change le coût de la résurection pour être proche soit de la version D&D 3.5 ou 4, modifie les bonus raciaux, les paladins peuvent être déchus après certaines actions maléfiques..."
         },
         "notes": [
@@ -27314,6 +27314,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1888,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod vous permet d'installer toutes sortes de kits multiclassés authentiques à partir de n'importe quelle combinaison de kits monoclassés, ce qui permet des combinaisons inhabituelles telles que Kensaï/Assassin ou Berserker/Entropiste/Bretteur. Les kits personnalisés provenant de mods sont également pris en compte s'ils sont détectés."
         },
         "notes": [],
         "notes_meta": {
