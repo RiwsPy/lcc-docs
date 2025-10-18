@@ -3,7 +3,7 @@ import logging
 
 from i18n import LANGUAGE_DEFAULT
 from models.mod import MetaStatusEnum
-from scripts.extract_tra_text import DATA_SEP
+from scripts.i18n.extract_tra_text import DATA_SEP
 from scripts.utils import ModManager
 from settings import DB_PATH
 
