@@ -1,0 +1,311 @@
+# Language cn translations for PACKAGE package.
+# Copyright (C) 2025 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Riws <toto.streak289@passinbox.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-14 17:26+0200\n"
+"PO-Revision-Date: 2025-10-10 17:26+0800\n"
+"Last-Translator: Riws <toto.streak289@passinbox.com>\n"
+"Language-Team: Language cn\n"
+"Language: cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+
+#: models/mod.py:193
+#, python-brace-format
+msgid "Fichier `{filename}`."
+msgstr "文件 `{filename}`。"
+
+#: models/mod.py:200
+#, python-brace-format
+msgid ""
+"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
+"fonctionner avec la dernière version du jeu."
+msgstr "⚠️ 请注意：此模组最后更新于{year}年，可能与游戏最新版本不兼容！"
+
+#: models/mod.py:207
+msgid ""
+"⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
+"le à vos risques et périls."
+msgstr "⚠️ WeiDU 警告：本模组会覆盖游戏文件且无法卸载，请自行承担安装风险！"
+
+#: models/mod.py:213
+msgid ""
+"Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
+"donner suite."
+msgstr "本模组已被原作者/维护者归档，且对方无意继续更新维护。"
+
+#: models/mod.py:217
+msgid "Ce mod est toujours en cours de réalisation."
+msgstr "本模组目前仍在持续开发中。"
+
+#: models/mod.py:222
+#, python-brace-format
+msgid "Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
+msgstr "该模组已从<a href='{url}' target='_blank'>{url}</a>下架。"
+
+#: models/mod.py:225
+msgid "Ce mod a disparu."
+msgstr "该模组已消失。"
+
+#: models/mod.py:237
+#, python-brace-format
+msgid "Disponible en {language}."
+msgstr "提供{language}语言版本。"
+
+#: settings.py:33
+msgid "Mod de qualité"
+msgstr "高品质模组"
+
+#: settings.py:37
+msgid "Mod pouvant poser des problèmes"
+msgstr "可能存在问题的模组"
+
+#: settings.py:41
+msgid "Mod à éviter ou obsolète"
+msgstr "应避免使用或已过时的模组"
+
+#: settings.py:47
+msgid "Mod traduit"
+msgstr "已翻译模组"
+
+#: settings.py:51
+msgid "Mod partiellement traduit"
+msgstr "部分翻译模组"
+
+#: settings.py:55
+msgid "Mod non traduit"
+msgstr "未翻译模组"
+
+#: settings.py:61 i18n.py:113
+msgid "Mod Weidu"
+msgstr "WeiDU模组"
+
+#: settings.py:65
+msgid "Mod override, non désinstallable"
+msgstr "覆盖式模组，无法卸载"
+
+#: settings.py:116
+msgid "Patch non officiel"
+msgstr "非官方补丁"
+
+#: settings.py:117
+msgid "Utilitaire"
+msgstr "实用工具"
+
+#: settings.py:118
+msgid "Conversion"
+msgstr "转换类"
+
+#: settings.py:119
+msgid "Interface"
+msgstr "界面类"
+
+#: settings.py:120
+msgid "Cosmétique"
+msgstr "视觉美化类"
+
+#: settings.py:121
+msgid "Portrait et son"
+msgstr "头像与语音类"
+
+#: settings.py:122
+msgid "Quête"
+msgstr "任务类"
+
+#: settings.py:123
+msgid "PNJ recrutable"
+msgstr "可招募NPC"
+
+#: settings.py:124
+msgid "PNJ One Day"
+msgstr "一日NPC"
+
+#: settings.py:125
+msgid "PNJ (autre)"
+msgstr "NPC（其他）"
+
+#: settings.py:126
+msgid "Forgeron et marchand"
+msgstr "铁匠与商人类"
+
+#: settings.py:127
+msgid "Sort et objet"
+msgstr "法术与物品类"
+
+#: settings.py:128
+msgid "Kit"
+msgstr "宗派类"
+
+#: settings.py:129
+msgid "Gameplay"
+msgstr "游戏玩法类"
+
+#: settings.py:130
+msgid "Script et tactique"
+msgstr "脚本与战术类"
+
+#: settings.py:131
+msgid "Personnalisation du groupe"
+msgstr "团队定制类"
+
+#: i18n.py:76
+msgid "Liste des mods pour IE - La Couronne de Cuivre"
+msgstr "IE引擎模组列表 - 铜冠酒馆"
+
+#: i18n.py:77
+msgid "Mod"
+msgstr "模组"
+
+#: i18n.py:78
+msgid "Compatibilités"
+msgstr "兼容性"
+
+#: i18n.py:79
+msgid "Auteurs"
+msgstr "作者"
+
+#: i18n.py:80
+msgid "Traducteurs"
+msgstr "翻译人员"
+
+#: i18n.py:81
+msgid "Équipe"
+msgstr "团队"
+
+#: i18n.py:82
+msgid "Lien"
+msgstr "链接"
+
+#: i18n.py:83
+msgid "Tous"
+msgstr "所有"
+
+#: i18n.py:84
+msgid "Toutes"
+msgstr "全部"
+
+#: i18n.py:85
+msgid "État de la traduction"
+msgstr "翻译状态"
+
+#: i18n.py:86
+msgid "Qualité du mod"
+msgstr "模组质量"
+
+#: i18n.py:87
+msgid "Catégorie"
+msgstr "类别"
+
+#: i18n.py:88
+msgid "Recherche :"
+msgstr "查找："
+
+#: i18n.py:89
+msgid "Filtres avancés"
+msgstr "高级筛选"
+
+#: i18n.py:90
+msgid "Liste des mods"
+msgstr "模组列表"
+
+#: i18n.py:91
+msgid "Auteur :"
+msgstr "作者："
+
+#: i18n.py:92
+msgid "Mainteneur :"
+msgstr "维护者："
+
+#: i18n.py:93
+msgid "Retourner aux filtres"
+msgstr "返回筛选"
+
+#: i18n.py:94
+msgid "Site internet"
+msgstr "网站"
+
+#: i18n.py:95
+msgid "Discussion"
+msgstr "论坛"
+
+#: i18n.py:96
+msgid "Introduction"
+msgstr "简介"
+
+#: i18n.py:97
+msgid "Mods recensés : "
+msgstr "收录模组："
+
+#: i18n.py:99
+msgid ""
+"Voici la liste de mods de la saga Baldur's Gate disponibles au "
+"téléchargement. Afin qu'elle soit la plus précise possible, n'hésitez pas à "
+"indiquer sur <a href=\"https://www.baldursgateworld.fr/viewtopic.php?"
+"t=34779\">le forum</a> si de nouvelles traductions sont en cours, sont "
+"nouvellement achevées ou sont provisoirement mises de côté (avec la "
+"possibilité ou non pour un autre traducteur de les reprendre à son compte). "
+"N'hésitez pas également à signaler tout problème, tout lien mort ou plus "
+"récent, confirmer de nouvelle compatibilité, ou tout simplement la sortie de "
+"nouveaux mods."
+msgstr ""
+"此处提供《博德之门》系列模组下载列表。为保障列表准确性，若您掌握以下信息：新"
+"翻译项目启动、近期完成或暂时搁置的翻译项目（无论是否允许其他译者接手续译），"
+"敬请前往<a href=\"https://www.baldursgateworld.fr/viewtopic.php?t=34779\">论"
+"坛</a>留言告知。同时欢迎您反馈任何问题、失效链接、最新兼容性确认，或单纯分享"
+"新模组发布动态。"
+
+#: i18n.py:102
+msgid ""
+"Quiconque le souhaite peut apporter des modifications et des améliorations à "
+"cette liste sur ce <a href=\"https://github.com/RiwsPy/lcc-docs/\">dépôt "
+"GitHub</a>. Il vous suffit soit d'ouvrir une \"issue\" et de nous informer "
+"d'une erreur, d'un lien manquant ou erroné, d'une information manquante ; "
+"soit de le \"forker\" et de proposer une \"Pull Request\"."
+msgstr ""
+"任何希望参与改进此列表的用户，均可通过<a href=\"https://github.com/RiwsPy/"
+"lcc-docs/\">GitHub repo</a>进行修改：您既可以创建新“issue”反馈错误信息、缺失/"
+"错误的链接或补充资料；也可以创建fork后提交“Pull Request”直接参与内容修订。"
+
+#: i18n.py:105
+msgid ""
+"N'oubliez-pas de consulter le <a href=\"https://github.com/RiwsPy/lcc-docs/"
+"README.md\">readme</a> avant de contribuer ainsi que les <a href=\"https://"
+"github.com/RiwsPy/lcc-docs/CONTRIBUTING.md\">guidelines</a>."
+msgstr ""
+"建议在参与贡献前，务必查阅<a href=\"https://github.com/RiwsPy/lcc-docs/"
+"README.md\">说明文档</a>及<a href=\"https://github.com/RiwsPy/lcc-docs/"
+"CONTRIBUTING.md\">贡献指南</a>。"
+
+#: i18n.py:107
+msgid "AVERTISSEMENTS"
+msgstr "敬告"
+
+#: i18n.py:109
+msgid ""
+"Par sécurité, tous les liens qui proposent un téléchargement direct sont "
+"coupés en deux. La première partie est dans le lien et la seconde dans la "
+"description, sous la dénomination `Fichier xxx.yy`. Pour avoir un lien "
+"valide il peut être nécessaire de reconstituer les deux. Par exemple, pour "
+"le mod <a href=\"#m903\">Runic Bladesinger Elven Kit</a>, le lien `https://"
+"baldur.cob-bg.pl/download/bg2/kits/` est à regrouper avec "
+"`Runiczny_v2.0.zip`."
+msgstr ""
+"出于安全考虑，所有提供直接下载的链接均被拆分为两部分：前半部分位于链接中，后"
+"半部分位于描述栏中（标注为文件xxx.yy）。要获取完整链接，您可能需要将两部分拼"
+"接。例如，对于模组<a href=\"#m903\">Runic Bladesinger Elven Kit</a>，需将链接"
+"https://baldur.cob-bg.pl/download/bg2/kits/与Runiczny_v2.0.zip组合使用。"
+
+#: i18n.py:111
+msgid "Nom du mod"
+msgstr "模组名称"
+
+#: i18n.py:112
+msgid "Légende :"
+msgstr "图例："
