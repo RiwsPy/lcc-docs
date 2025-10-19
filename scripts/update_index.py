@@ -3,6 +3,7 @@ from os import sep as os_sep
 from pathlib import Path
 
 from jinja2 import Environment, PackageLoader, select_autoescape
+import minify_html
 
 from i18n import LANGUAGE_CONFIG, LANGUAGE_DEFAULT, TEMPLATE_TRANSLATIONS, _g
 from models.mod import ModStatus
@@ -15,14 +16,12 @@ from settings import (
     resize_image_from_width,
 )
 
-# TODO:Réorienter automatiquement vers la page de sa langue
-
 logger = logging.getLogger(__name__)
 
 
 def main(**kwargs):
     def build_html_page(static: str) -> str:
-        return env.get_template("base.html").render(
+        html_page = env.get_template("base.html").render(
             games=GameEnum,
             categories=categories_mod,
             static=static,
@@ -33,6 +32,7 @@ def main(**kwargs):
             mod_id_to_name=mod_id_to_name,
             trans=TEMPLATE_TRANSLATIONS,
         )
+        return minify_html.minify(html_page, minify_js=True, minify_css=True)
 
     env = Environment(
         loader=PackageLoader("docs", "templates"),
