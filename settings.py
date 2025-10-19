@@ -170,7 +170,7 @@ domain_to_image: dict[str, str] = {
     "weidu.org": "weidu.ico",
     # les cas particuliers récupérés de la version de freddy
     "clandlan.net": "sp-flag-32.png",
-    "trow.cc": "cn-flag-32.png",
+    "trow.cc": "trow-32.png",
 }
 
 image_data: dict[str, dict[str, str | int]] = {
