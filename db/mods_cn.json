@@ -456,7 +456,8 @@
             "source": "Une voleuse neutre mauvaise avec voix, quelques banters légers et un portrait original. Vous pouvez la trouver dans les Bas Quartiers.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16."
         },
         "notes": [
-            "请选择BG2EE/EET版本的github链接。"
+            "请选择BG2EE/EET版本的github链接。",
+			"需求ToB。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -989,7 +990,7 @@
             "source": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, le The Mod for the Wicked. Combattante des tunnels demi-orque, Ariena est dotée d'une voix à la Angela Gossow d'Arch Enemy avec déjà pas mal de banters, d'une sorte de quête et d'un langage broken english amusant. Son petit dialogue avec Salvanas à la Couronne vaut le détour...|FOR 18, DEX 15, CON 17, INT 7, SAG 11, CHA 10."
         },
         "notes": [
-            "请选择 github 链接以获取 BG2EE/EET 版本。注意，这是一个非官方版本。"
+            "请选择 [github 链接](https://github.com/RoxanneSHS/ArienaEE/) 以获取 BG2EE/EET 版本。注意，这是一个非官方版本。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -1429,7 +1430,8 @@
             "source": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts)."
         },
         "notes": [
-            "存在一个非官方且兼容 EE 的版本：[[1790]]。"
+            "存在一个非官方且兼容 EE 的版本：[[1790]]。",
+			"需要《巴尔王座》。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -6484,7 +6486,7 @@
     },
     {
         "id": 446,
-        "description": "基于同名故事，此模组为[[594]]的爱情故事添加了一段过场动画。艾瑞尼卡斯已成为遥远的过去，凯尔西与他心爱人的生活非常美好……除了那个就是不肯离开的追求者……此模组需要[[598]]和[[594]]模组。",
+        "description": "基于同名故事，此模组为[[594]]的爱情故事添加了一段过场动画。艾瑞尼卡斯已成为遥远的过去，凯尔西与他心爱人的生活非常美好……除了那个就是不肯离开的追求者……",
         "description_meta": {
             "status": "needs_review",
             "source": "Basé sur l'histoire du même nom, ce mod ajoute une cinématique à la romance de [[594]]. Irenicus n'est plus qu'un lointain souvenir et la vie de Kelsey avec sa bien-aimée est merveilleuse... sauf pour le prétendant qui ne veut tout simplement pas partir..."
@@ -7903,7 +7905,7 @@
             "source": "Vous êtes du genre à envoyer une armée de chair à canon à l'assaut de vos ennemis ? Vous cherchez des solaires plus puissants ? Vous désirez invoquer des spectateurs à la place de ces ridicules vers charognards ? Vous préférez les vampires aux wivernes et regrettez que vos mort-vivants ne soient pas un peu plus costauds ? Ce mod est fait pour vous !"
         },
         "notes": [
-            "注意：此模组覆盖了法术，因此与修改原版法术的模组不兼容，特别是 [[982]]、[[521]] 和 [[1011]]。"
+            "注意：此模组覆盖了法术，因此与修改原版法术的模组不兼容。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -8318,13 +8320,14 @@
     },
     {
         "id": 574,
-        "description": "这个模组为游戏的博德之门部分添加了内容。它重新引入了一些游戏中未被利用或未完成，并且模组[[112]]没有恢复的元素。此外，它还完善了一些令人不满意的地方。|此模组需要安装[[1111]]、[[548]]的主组件以及[[112]]的“次要对话恢复”和“商店、酒馆和旅店修复与恢复”组件。",
+        "description": "这个模组为游戏的博德之门部分添加了内容。它重新引入了一些游戏中未被利用或未完成，并且模组[[112]]没有恢复的元素。此外，它还完善了一些令人不满意的地方。",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[112]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer."
         },
         "notes": [
-            "由于该模组已被转换为 EE 版本，所需的组件可能已经发生变化。"
+            "由于该模组已被转换为 EE 版本，所需的组件可能已经发生变化。",
+			"该模组必须安装[[548]]号模组的核心组件，以及[[112]]号模组的次要对话修复与商店、酒馆与旅店修复及功能恢复组件。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -8366,12 +8369,14 @@
     },
     {
         "id": 577,
-        "description": "这个模组添加了两个战士简介：绝地武士和西斯尊主。它需要巴尔王座。",
+        "description": "这个模组添加了两个战士简介：绝地武士和西斯武士。",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute deux profils de guerrier : Jedi et Sith."
         },
-        "notes": [],
+        "notes": [
+		"需求巴尔王座。"
+		],
         "notes_meta": {
             "status": "todo",
             "source": [
@@ -8741,7 +8746,7 @@
             "source": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido est un barde de kit bouffon et d'alignement chaotique mauvais. Il dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec [[66]]. Retrouvez-le dans l'auberge des Cinq Chopes.|FOR 11, DEX 17, CON 13, INT 16, SAG 8, CHA 15."
         },
         "notes": [
-            "对于博德之门2增强版/增强版三部曲的版本，请选择github链接。注意，这是一个非官方版本。"
+            "对于博德之门2增强版/增强版三部曲的版本，请选择[github链接](https://github.com/RoxanneSHS/KidoEE/) 。注意，这是一个非官方版本。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -9553,12 +9558,14 @@
     },
     {
         "id": 660,
-        "description": "这是Macholy的三个模组之一，旨在使游戏更真实。此模组提供了一个规则系统，允许角色进食和饮水。否则，他们的体质会随着时间的推移而下降。它需要安装模组[[663]]的“烹饪”组件。",
+        "description": "这是Macholy的三个模组之一，旨在使游戏更真实。此模组提供了一个规则系统，允许角色进食和饮水。否则，他们的体质会随着时间的推移而下降。",
         "description_meta": {
             "status": "needs_review",
             "source": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Celui-ci fournit un système de règles permettant aux personnages de se nourrir et de boire. Sans cela, leur constitution diminuera avec le temps."
         },
-        "notes": [],
+        "notes": [
+		"该模组需预先安装[[663]]号模组的烹饪组件。"
+		],
         "notes_meta": {
             "status": "todo",
             "source": [
@@ -10565,7 +10572,8 @@
             "source": "Ce nouveau marchand que vous pourrez rencontrer dans le district du Gouvernement propose toutes sortes de contenants (étuis à parchemins, sacs de gemmes et bien d'autres), mais également des fléchettes +2 et autres dagues de jet enchantées."
         },
         "notes": [
-            "与[[1325]]搭配可实现EET兼容。"
+            "与[[1325]]搭配可实现EET兼容。",
+			"需要《巴尔王座》。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -10725,7 +10733,7 @@
             "source": "Kensai gay (uniquement romançable par un PJ mâle) de son état, c'est un guerrier compétent bien qu'il souffre d'un manque de confiance en soi probablement dû à sa fragilité physique. Il dispose de contenu pour SoA et ToB. On le trouve dans le quartier des Docks ; il viendra vers vous pour vous demander de l'aide. Nathaniel romancera un personnage masculin humain, elfe ou demi-elfe, d'alignement bon ou loyal neutre, à condition qu'il ne soit pas un voleur. Nathaniel dispose de contenu pour [[594]] si ce mod est installé.|FOR 16, DEX 17, CON 12, INT 11, SAG 9, CHA 14."
         },
         "notes": [
-            "请选择GitHub链接以获取EET版本。"
+            "请选择[GitHub链接](https://github.com/Endarire/Nathaniel-NPC-for-BG2/) 以获取EET版本。注意，这是一个非官方版本。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -11455,7 +11463,7 @@
     },
     {
         "id": 790,
-        "description": "这是一套由Artastrophe为所有可招募角色、多个模组角色以及多款游戏的主角制作的统一风格肖像，此外还有三十多个主角肖像。",
+        "description": "这是一套由 [Artastrophe](https://artastrophe.deviantart.com) 为所有可招募角色、多个模组角色以及多款游戏的主角制作的统一风格肖像，此外还有三十多个主角肖像。",
         "description_meta": {
             "status": "needs_review",
             "source": "Un ensemble homogène de portraits réalisé par [Artastrophe](https://artastrophe.deviantart.com) pour tous les personnages recrutables, plusieurs personnages de mods et plusieurs personnages principaux des jeux, ainsi qu'une trentaine de portraits pour le personnage principal."
@@ -11472,7 +11480,7 @@
     },
     {
         "id": 791,
-        "description": "这是Artastrophe更新的[[790]]肖像包，用于在增强版游戏中使用。肖像与原始PaintBG中的相同，但也包含了Artastrophe自上一个正式版本发布以来发布的新肖像。",
+        "description": "这是 [Artastrophe](https://artastrophe.deviantart.com) 更新的[[790]]肖像包，用于在增强版游戏中使用。肖像与原始PaintBG中的相同，但也包含了Artastrophe自上一个正式版本发布以来发布的新肖像。",
         "description_meta": {
             "status": "needs_review",
             "source": "Il s'agit du pack de portraits [[790]] mis à jour par [Artastrophe](https://artastrophe.deviantart.com) pour être utilisé dans les jeux des éditions améliorées. Les portraits sont toujours les mêmes que dans le mod original, mais comprennent également de nouveaux portraits qu'Artastrophe a publié depuis la dernière version officielle."
@@ -12363,8 +12371,7 @@
             "source": "Ce mod rend disponibles 30 profils du module de conversion [[881]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres."
         },
         "notes": [
-            "无论您安装了哪个宗派，您都必须安装最终组件。",
-            "对于 BG2/BGT 版本，请使用 shs 链接；对于增强版，请使用 github 链接。"
+            "对于增强版，请使用 [github 链接](https://github.com/Plutonium-X/KIT_RTT/) 。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -12757,7 +12764,7 @@
             "source": "Ce tout petit mod restaure la recherche étendue du Rhynn Lanthorn de la version bêta de Baldur's Gate II qui contenait un mécanisme permettant de développer le chapitre 6 (celui où vous cherchez le Lanthorn de Rhynn). En plus du Lanthorn lui-même, le voleur aurait volé plusieurs lentilles et les aurait cachées dans des zones du jeu. Le joueur recevait des indices sur leur emplacement et devait les récupérer avant de pouvoir utiliser le Lanthorn pour accéder au chapitre 7. Les lentilles étaient en fait placées dans plusieurs des quêtes de forteresse que le joueur peut explorer au chapitre 2 (et si le joueur avait déjà fait toutes ces quêtes, aucune lentille ne serait placée).|Cette quête étendue a été supprimée de Baldur's Gate II avant sa sortie (selon toute vraisemblance, parce que les indices menant aux objectifs étaient un peu trop gnomiques pour les joueurs occasionnels, et qu'il n'y avait pas le temps de compléter les détails). Mais comme presque tout le mécanisme de la quête est encore présent dans le jeu - les scripts qui placent les lentilles, les lentilles elles-mêmes, et même les lignes de dialogue qui donnent les indices sur leurs emplacements- il a donc été possible de reconstituer presque exactement son fonctionnement.|Il y a deux options d'installation. La première (\"classique\") restaure presque exactement la manière dont la version originale de la quête se serait déroulée. La seconde (\"étendue\") augmente le nombre d'endroits où l'on peut trouver des lentilles, pour inclure quatre régions de quêtes secondaires supplémentaires dans le jeu original qui ne sont pas liées à une quête de forteresse. Vous pouvez également personnaliser l'installation (via le fichier dw_lanthorn.ini dans le dossier du mod) pour désélectionner tout emplacement de lentille que vous ne souhaitez pas utiliser."
         },
         "notes": [
-            "此模组本质上与 [[784]] 的组件以及 [[1057]] 模组不兼容，因为它们也恢复了此任务，但方式完全不同。"
+            "此模组本质上与 [[784]] 的组件不兼容，因为它们也恢复了此任务，但方式完全不同。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -18972,7 +18979,7 @@
             "source": "Sub-Zero est un assassin du clan Lin Kuei. Kuai Liang possède le pouvoir de la glace et du froid. Comme son nom l'indique, le personnage est clairement inspiré du personnage homonyme de Mortal Kombat et possède son style très particulier. Il peut vous suivre comme un 7ème compagnon.|FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18."
         },
         "notes": [
-            "GitHub链接与增强版三部曲兼容。",
+            "[GitHub链接](https://github.com/Endarire/BG2-Sub-Zero-Companion/) 与增强版三部曲兼容。",
             "[[1521]]模组使角色属性更具角色扮演风格。"
         ],
         "notes_meta": {
@@ -20489,7 +20496,7 @@
         },
         "notes": [
             "仅在 Windows 下可用。",
-            "这需要用由此创建的可执行文件来启动游戏的 exe 文件。可能与 [[348]] 及类似模组不兼容。"
+            "这需要用由此创建的可执行文件来启动游戏的 exe 文件。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -22817,7 +22824,7 @@
             "source": "Ce mod ajoute de nombreux objets au magasin de Joluv et Deidre."
         },
         "notes": [
-            "它需要覆盖tlk文件，且该模组仅提供英文版。"
+            "它需要覆盖tlk文件。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -27144,7 +27151,7 @@
     },
     {
         "id": 1885,
-        "description": "",
+        "description": "这就是利拉寇尔——那把痴迷于杀戮、会说话的凶刃。各位想必早已熟知并深深着迷！如今，这把神兵已化身语音包，专为同样嗜血成性、痴迷成性的角色打造，并完整支持盗贼技能体系及所有相关功能。",
         "description_meta": {
             "status": "todo",
             "source": "Voici Lilarcor, l'épée meurtrière qui parle et qui est obnubilée par une seule chose. Vous la connaissez, vous l'adorez ! Elle est désormais disponible sous forme de pack de sons pour un personnage tout aussi meurtrier et obnubilé, avec une prise en charge complète des compétences de voleur et tout le reste."
@@ -27157,7 +27164,7 @@
     },
     {
         "id": 1886,
-        "description": "",
+        "description": "这就是我们熟知且钟爱的妄自尊大、傲慢专横的反派角色——琼·艾瑞尼克斯，其配音更由大卫·沃纳爵士倾情演绎。现该角色语音包已正式推出，可供具有同样妄自尊大与傲慢特质的玩家角色使用，完整支持盗贼技能体系及全部语音配置。",
         "description_meta": {
             "status": "todo",
             "source": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste."
@@ -27170,7 +27177,7 @@
     },
     {
         "id": 1887,
-        "description": "",
+        "description": "这就是我们熟悉又热衷的狂妄自大反派——琼·艾瑞尼卡斯，其配音由大卫·沃纳倾情演绎。现已推出专属语音包，让您同样傲慢自负的玩家角色也能拥有这位角色的完整语音，全面支持盗贼技能及其他所有功能。",
         "description_meta": {
             "status": "todo",
             "source": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste."
@@ -27183,7 +27190,7 @@
     },
     {
         "id": 1888,
-        "description": "",
+        "description": "该模组允许您安装各类标准多职业套组（由任意单职业套组组合而成），可实现诸如剑圣/刺客或狂战士/狂乱法师/游荡剑客等非常规组合。若检测到来自其他模组的自定义职业套组，系统亦会将其纳入兼容范围。",
         "description_meta": {
             "status": "todo",
             "source": "Ce mod vous permet d'installer toutes sortes de kits multiclassés authentiques à partir de n'importe quelle combinaison de kits monoclassés, ce qui permet des combinaisons inhabituelles telles que Kensaï/Assassin ou Berserker/Entropiste/Bretteur. Les kits personnalisés provenant de mods sont également pris en compte s'ils sont détectés."

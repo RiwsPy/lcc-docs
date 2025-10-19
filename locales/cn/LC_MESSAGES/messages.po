@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-18 22:58+0200\n"
-"PO-Revision-Date: 2025-10-19 11:59+0200\n"
+"PO-Revision-Date: 2025-10-19 19:40+0800\n"
 "Last-Translator: Riws <toto.streak289@passinbox.com>\n"
 "Language-Team: Language cn\n"
 "Language: cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.8\n"
+"X-Generator: Poedit 3.7\n"
 
 #: models/mod.py:194
 #, python-brace-format
@@ -52,7 +52,7 @@ msgstr "该模组已从<a href='{url}' target='_blank'>{url}</a>下架。"
 
 #: models/mod.py:226
 msgid "Ce mod a disparu."
-msgstr "该模组已消失。"
+msgstr "该模组已散佚。"
 
 #: models/mod.py:238
 #, python-brace-format
@@ -62,12 +62,12 @@ msgstr "提供{language}语言版本。"
 #: models/mod.py:247
 #, python-brace-format
 msgid "Nécessite : {mods}"
-msgstr ""
+msgstr "依赖：{mods}"
 
 #: models/mod.py:253
 #, python-brace-format
 msgid "Incompatible avec : {mods}"
-msgstr ""
+msgstr "不兼容模组：{mods}"
 
 #: settings.py:33
 msgid "Mod de qualité"
