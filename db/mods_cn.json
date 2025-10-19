@@ -457,10 +457,10 @@
         },
         "notes": [
             "请选择BG2EE/EET版本的github链接。",
-			"需求ToB。"
+            "需求ToB。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Choisissez le lien github pour la version BG2EE/EET.",
                 "Nécessite ToB."
@@ -993,7 +993,7 @@
             "请选择 [github 链接](https://github.com/RoxanneSHS/ArienaEE/) 以获取 BG2EE/EET 版本。注意，这是一个非官方版本。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Choisissez [ce lien](https://github.com/RoxanneSHS/ArienaEE/) pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
             ]
@@ -1431,10 +1431,10 @@
         },
         "notes": [
             "存在一个非官方且兼容 EE 的版本：[[1790]]。",
-			"需要《巴尔王座》。"
+            "需要《巴尔王座》。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Une version non officielle et compatible EE existe : [[1790]].",
                 "Nécessite ToB."
@@ -6488,7 +6488,7 @@
         "id": 446,
         "description": "基于同名故事，此模组为[[594]]的爱情故事添加了一段过场动画。艾瑞尼卡斯已成为遥远的过去，凯尔西与他心爱人的生活非常美好……除了那个就是不肯离开的追求者……",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Basé sur l'histoire du même nom, ce mod ajoute une cinématique à la romance de [[594]]. Irenicus n'est plus qu'un lointain souvenir et la vie de Kelsey avec sa bien-aimée est merveilleuse... sauf pour le prétendant qui ne veut tout simplement pas partir..."
         },
         "notes": [],
@@ -8322,12 +8322,12 @@
         "id": 574,
         "description": "这个模组为游戏的博德之门部分添加了内容。它重新引入了一些游戏中未被利用或未完成，并且模组[[112]]没有恢复的元素。此外，它还完善了一些令人不满意的地方。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[112]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer."
         },
         "notes": [
             "由于该模组已被转换为 EE 版本，所需的组件可能已经发生变化。",
-			"该模组必须安装[[548]]号模组的核心组件，以及[[112]]号模组的次要对话修复与商店、酒馆与旅店修复及功能恢复组件。"
+            "该模组必须安装[[548]]号模组的核心组件，以及[[112]]号模组的次要对话修复与商店、酒馆与旅店修复及功能恢复组件。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -8371,14 +8371,14 @@
         "id": 577,
         "description": "这个模组添加了两个战士简介：绝地武士和西斯武士。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute deux profils de guerrier : Jedi et Sith."
         },
         "notes": [
-		"需求巴尔王座。"
-		],
+            "需求巴尔王座。"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Nécessite ToB."
             ]
@@ -8749,7 +8749,7 @@
             "对于博德之门2增强版/增强版三部曲的版本，请选择[github链接](https://github.com/RoxanneSHS/KidoEE/) 。注意，这是一个非官方版本。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Choisissez [ce lien](https://github.com/RoxanneSHS/KidoEE/) pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
             ]
@@ -9560,14 +9560,14 @@
         "id": 660,
         "description": "这是Macholy的三个模组之一，旨在使游戏更真实。此模组提供了一个规则系统，允许角色进食和饮水。否则，他们的体质会随着时间的推移而下降。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Celui-ci fournit un système de règles permettant aux personnages de se nourrir et de boire. Sans cela, leur constitution diminuera avec le temps."
         },
         "notes": [
-		"该模组需预先安装[[663]]号模组的烹饪组件。"
-		],
+            "该模组需预先安装[[663]]号模组的烹饪组件。"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il nécessite l'installation du composant `Cuisine` du mod [[663]]."
             ]
@@ -10573,7 +10573,7 @@
         },
         "notes": [
             "与[[1325]]搭配可实现EET兼容。",
-			"需要《巴尔王座》。"
+            "需要《巴尔王座》。"
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -10736,7 +10736,7 @@
             "请选择[GitHub链接](https://github.com/Endarire/Nathaniel-NPC-for-BG2/) 以获取EET版本。注意，这是一个非官方版本。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Choisissez [ce lien](https://github.com/Endarire/Nathaniel-NPC-for-BG2/) pour la version EET. Attention, il s'agit d'une version non officielle."
             ]
@@ -11465,7 +11465,7 @@
         "id": 790,
         "description": "这是一套由 [Artastrophe](https://artastrophe.deviantart.com) 为所有可招募角色、多个模组角色以及多款游戏的主角制作的统一风格肖像，此外还有三十多个主角肖像。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Un ensemble homogène de portraits réalisé par [Artastrophe](https://artastrophe.deviantart.com) pour tous les personnages recrutables, plusieurs personnages de mods et plusieurs personnages principaux des jeux, ainsi qu'une trentaine de portraits pour le personnage principal."
         },
         "notes": [
@@ -11482,7 +11482,7 @@
         "id": 791,
         "description": "这是 [Artastrophe](https://artastrophe.deviantart.com) 更新的[[790]]肖像包，用于在增强版游戏中使用。肖像与原始PaintBG中的相同，但也包含了Artastrophe自上一个正式版本发布以来发布的新肖像。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit du pack de portraits [[790]] mis à jour par [Artastrophe](https://artastrophe.deviantart.com) pour être utilisé dans les jeux des éditions améliorées. Les portraits sont toujours les mêmes que dans le mod original, mais comprennent également de nouveaux portraits qu'Artastrophe a publié depuis la dernière version officielle."
         },
         "notes": [],
@@ -12374,7 +12374,7 @@
             "对于增强版，请使用 [github 链接](https://github.com/Plutonium-X/KIT_RTT/) 。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Utilisez [ce lien](https://github.com/Plutonium-X/KIT_RTT/) pour les versions EE."
             ]
@@ -12767,7 +12767,7 @@
             "此模组本质上与 [[784]] 的组件不兼容，因为它们也恢复了此任务，但方式完全不同。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Ce mod est par nature incompatible avec le composant du mod [[784]] qui restaure aussi cette quête, mais de manière totalement différente."
             ]
@@ -20499,7 +20499,7 @@
             "这需要用由此创建的可执行文件来启动游戏的 exe 文件。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Fonctionnel que sous Windows.",
                 "Cela nécessite de lancer l'exe du jeu avec l'exécutable ainsi créé."
@@ -27153,7 +27153,7 @@
         "id": 1885,
         "description": "这就是利拉寇尔——那把痴迷于杀戮、会说话的凶刃。各位想必早已熟知并深深着迷！如今，这把神兵已化身语音包，专为同样嗜血成性、痴迷成性的角色打造，并完整支持盗贼技能体系及所有相关功能。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Voici Lilarcor, l'épée meurtrière qui parle et qui est obnubilée par une seule chose. Vous la connaissez, vous l'adorez ! Elle est désormais disponible sous forme de pack de sons pour un personnage tout aussi meurtrier et obnubilé, avec une prise en charge complète des compétences de voleur et tout le reste."
         },
         "notes": [],
@@ -27166,7 +27166,7 @@
         "id": 1886,
         "description": "这就是我们熟知且钟爱的妄自尊大、傲慢专横的反派角色——琼·艾瑞尼克斯，其配音更由大卫·沃纳爵士倾情演绎。现该角色语音包已正式推出，可供具有同样妄自尊大与傲慢特质的玩家角色使用，完整支持盗贼技能体系及全部语音配置。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste."
         },
         "notes": [],
@@ -27179,7 +27179,7 @@
         "id": 1887,
         "description": "这就是我们熟悉又热衷的狂妄自大反派——琼·艾瑞尼卡斯，其配音由大卫·沃纳倾情演绎。现已推出专属语音包，让您同样傲慢自负的玩家角色也能拥有这位角色的完整语音，全面支持盗贼技能及其他所有功能。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste."
         },
         "notes": [],
@@ -27192,7 +27192,7 @@
         "id": 1888,
         "description": "该模组允许您安装各类标准多职业套组（由任意单职业套组组合而成），可实现诸如剑圣/刺客或狂战士/狂乱法师/游荡剑客等非常规组合。若检测到来自其他模组的自定义职业套组，系统亦会将其纳入兼容范围。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod vous permet d'installer toutes sortes de kits multiclassés authentiques à partir de n'importe quelle combinaison de kits monoclassés, ce qui permet des combinaisons inhabituelles telles que Kensaï/Assassin ou Berserker/Entropiste/Bretteur. Les kits personnalisés provenant de mods sont également pris en compte s'ils sont détectés."
         },
         "notes": [],

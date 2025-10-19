@@ -142,7 +142,6 @@ class CategoryEnum(enum.StrEnum):
 FLAG_DIR = "flags"
 SITE_DIR = "sites"
 
-# TODO: réduire/convertir les static/img
 domain_to_image: dict[str, str] = {
     "artisans-corner.com": "artisans-32.avif",
     "baldursgateworld.fr": "logocc.png",
@@ -168,7 +167,6 @@ domain_to_image: dict[str, str] = {
     "sourceforge.net": "sf.png",
     "weaselmods.net": "weasel-32.png",
     "weidu.org": "weidu.ico",
-    # les cas particuliers récupérés de la version de freddy
     "clandlan.net": "sp-flag-32.png",
     "trow.cc": "trow-32.png",
 }
@@ -196,6 +194,7 @@ image_data: dict[str, dict[str, str | int]] = {
     "weidu.ico": {"title": "WeiDU", "width": 16, "height": 16},
     "bgforge.svg": {"title": "BG Forge", "width": 32, "height": 32},
     "-flag-32.png": {"title": "Mod %s", "width": 32, "height": 21},
+    "trow-32.png": {"title": "Trow", "width": 32, "height": 32},
 }
 
 
