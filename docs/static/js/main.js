@@ -66,7 +66,7 @@ function filterMod() {
 function filterByGame(mods) {
   const checkedGame = document.querySelector(".search_item.game input[type='radio']:checked")
   let modsFiltered = null
-  if (checkedGame.value !== "") {
+  if (checkedGame.value !== "on") {
     modsFiltered = Array()
     mods.forEach(mod => {
       for (let modGame of mod.querySelectorAll(".jeu *")) {
@@ -92,7 +92,7 @@ function filterByName(mods) {
 
 function filterByTranslation(mods) {
   const currentTranslation = document.querySelector("#translation-select input:checked").value
-  if (currentTranslation == "") {
+  if (currentTranslation == "on") {
     return null
   }
   return Array.from(mods).filter(mod => mod.querySelector(".icons").textContent.includes(currentTranslation))
@@ -100,7 +100,7 @@ function filterByTranslation(mods) {
 
 function filterByQuality(mods) {
   const currentQuality = document.querySelector("#quality-select input:checked").value
-  if (currentQuality == "") {
+  if (currentQuality == "on") {
     return null
   }
   return Array.from(mods).filter(mod => mod.querySelector(".icons").textContent.includes(currentQuality))
@@ -109,7 +109,7 @@ function filterByQuality(mods) {
 function filterByCategory() {
   const categoryChecked = document.querySelector("#category-select input[type='radio']:checked")
   const categories = Array.from(document.querySelectorAll(".category_container"))
-  if (categoryChecked && categoryChecked.value !== "") {
+  if (categoryChecked && categoryChecked.value !== "on") {
     categories.forEach(category => {
       let categoryName = category.getAttribute("data-name")
       category.parentElement.style.display = categoryChecked.value == categoryName ? "" : "none"
