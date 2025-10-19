@@ -54,8 +54,9 @@
                 <div class="column desc">
                     <div class="content">
                         {{ mod.get_description(mod_id_to_name=mod_id_to_name)|safe }}
-                        {% if mod.get_notes()|length > 0 %}
-                        <br/><br/>{% for note in mod.get_notes(mod_id_to_name=mod_id_to_name) %}{{ note|safe }}{% if not loop.last %}<br/>{% endif %}{% endfor %}
+                        {% set notes = mod.get_notes(mod_id_to_name=mod_id_to_name) %}
+                        {% if notes|length > 0 %}
+                        <br/><br/>{% for note in notes %}{{ note|safe }}{% if not loop.last %}<br/>{% endif %}{% endfor %}
                         {% endif %}
                     </div>
                 </div>
