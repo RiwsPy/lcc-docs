@@ -7575,14 +7575,10 @@
             "status": "done",
             "source": "Ce mod importe certains éléments de Icewind Dale dans la série de jeux Baldur's Gate, dont environ 70 sortilèges profanes et divins, les chanson du barde, les haches à deux mains... N'hésitez pas à lire son readme pour plus de détails.|Notez que ce mod est inutile si vous décidez d'installer [[1011]]."
         },
-        "notes": [
-            "`冰风谷职业更新：游侠：追踪` 组件未翻译。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Le composant `IWD Class Updates: Ranger: Tracking` n'est pas traduit."
-            ]
+            "source": []
         }
     },
     {
@@ -18266,10 +18262,10 @@
     },
     {
         "id": 1258,
-        "description": "此模组安装了12张高质量的专业肖像，替换现有NPC的肖像：艾黎、阿詹提斯、阿诺门、布朗温、瑟恩、科朗、艾德温、海尔达利、爱蒙、莎法娜、撒恩和善最。每张肖像都是单独安装的，因此您可以选择要使用的肖像，并且还可以将这些肖像用于您自己的角色。|此模组与所有原始博德之门系列游戏安装兼容。",
+        "description": "此模组安装了12张高质量的专业肖像，替换现有NPC的肖像：艾黎、阿詹提斯、阿诺门、布朗温、瑟恩、科朗、艾德温、海尔达利、爱蒙、莎法娜、撒恩和善最。每张肖像都是单独安装的，因此您可以选择要使用的肖像，并且还可以将这些肖像用于您自己的角色。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod installe 12 portraits de qualité professionnelle remplaçant ceux de PNJ existants : Aerie, Ajantis, Anomen, Branwen, Cernd, Coran, Edwin, Haer'Dalis, Imoen, Safana, Xan et Yoshimo. Chaque portrait est installé individuellement, vous pouvez donc choisir les portraits que vous utilisez, et vous avez également la possibilité d'utiliser les portraits pour votre propre PC.|Ce mod est compatible avec toutes les installations de la série Baldur's Gate original."
+            "source": "Ce mod installe 12 portraits de qualité professionnelle remplaçant ceux de PNJ existants : Aerie, Ajantis, Anomen, Branwen, Cernd, Coran, Edwin, Haer'Dalis, Imoen, Safana, Xan et Yoshimo. Chaque portrait est installé individuellement, vous pouvez donc choisir les portraits que vous utilisez, et vous avez également la possibilité d'utiliser les portraits pour votre propre PC."
         },
         "notes": [],
         "notes_meta": {
@@ -24199,8 +24195,8 @@
         "id": 1670,
         "description": "艾德温、贾希拉、卡立德、凯根、齐冯、明斯克、撒恩的1级版本，适用于剑湾传奇/博德之门1：剑湾传奇。",
         "description_meta": {
-            "status": "done",
-            "source": "Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, Xan versions niveau 1 pour DSotSC/NTotSC."
+            "status": "needs_review",
+            "source": "Ce mod propose de recruter les pnjs Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, Xan au niveau 1 lorsque charname est aussi niveau 1. À utiliser conjointement avec le mod [[287]] ou [[761]], qui met ces personnages au niveau 4."
         },
         "notes": [],
         "notes_meta": {
@@ -24493,7 +24489,7 @@
         "description": "这个模组允许泰蓝提尔通过给他一张“魅惑术”卷轴、一颗珍珠和500枚金币来制作一块能抵抗魅惑的伊欧石。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod permet à Thalantyr de crée une Pierre de Ioun qui protège contre les charmes en lui donnant un parchemin de Charme néfaste, une perle et 500 pièces d'or."
+            "source": "Ce mod permet à Thalantyr de créer une Pierre de Ioun qui protège contre les charmes en lui donnant un parchemin de Charme néfaste, une perle et 500 pièces d'or."
         },
         "notes": [],
         "notes_meta": {
@@ -26330,8 +26326,8 @@
             "source": "Ce mod permet possède trois composants :|Atteindre le niveau 50|Remplacer les HLA de mages et de clercs par des compétences innées|Modification de la restriction de niveau pour le gain de dés de points de vie pour être plus conforme à la version papier"
         },
         "notes": [
-		"需要先安装ToB"
-		],
+            "需要先安装ToB"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -27211,8 +27207,8 @@
             "source": "Ce mod revisite le kit de Tueur de magiciens. Il augmente notamment sa résistance à la magie,  ses jets de sauvegardes contre les Sorts et ajoute de nouvelles HLA. Ses restrictions d'utilisation d'objet a également été revue."
         },
         "notes": [
-		"已整合至[[614]]模组。"
-		],
+            "已整合至[[614]]模组。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [

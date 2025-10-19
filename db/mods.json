@@ -17202,9 +17202,7 @@
             "DavidW"
         ],
         "team": [],
-        "notes": [
-            "Le composant `IWD Class Updates: Ranger: Tracking` n'est pas traduit."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -21533,7 +21531,7 @@
     },
     {
         "id": 653,
-        "name": "Lost Items (PST)",
+        "name": "Lost Items",
         "description": "Ce petit mod restaure le Charme de rat et l'Œil de Vecna dans le jeu. Vous pouvez les obtenir respectivement chez Aboyant-Plusauvage et Vrischika.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=PST&f=Torment/items.zip"
@@ -25421,7 +25419,8 @@
         "name": "1pp: animation fixes for IWD: TotLM",
         "description": "Ce mod corrige certains dysfonctionnement apparus dans l'extension [[1129]] : il restaure les animations d'attente pendant les combats, il corrige les sons d'attaque et permet d'utiliser les animations de personnages de BG1 dans Heart of Winter et [[1129]].",
         "urls": [
-            "https://www.shsforums.net/files/file/972-1pp-animation-fixes-for-iwd-totlm/"
+            "https://www.shsforums.net/files/file/972-1pp-animation-fixes-for-iwd-totlm/",
+            "https://github.com/Spellhold-Studios/1pp-IWD-Fixes/"
         ],
         "categories": [
             "Patch non officiel"
@@ -25440,7 +25439,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2011-07",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "1pp_iwd_fixes"
     },
@@ -26008,7 +26007,8 @@
         "description": "Un ensemble homogène de portraits réalisé par [Artastrophe](https://artastrophe.deviantart.com) pour tous les personnages recrutables, plusieurs personnages de mods et plusieurs personnages principaux des jeux, ainsi qu'une trentaine de portraits pour le personnage principal.",
         "urls": [
             "https://www.shsforums.net/files/file/1033-paintbg/",
-            "https://www.shsforums.net/files/file/1032-paintbg-for-bgee/"
+            "https://www.shsforums.net/files/file/1032-paintbg-for-bgee/",
+            "https://github.com/Spellhold-Studios/PaintBG/"
         ],
         "categories": [
             "Portrait et son"
@@ -26033,9 +26033,9 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2013-12",
+        "last_update": "2025-10",
         "compatibilities": {},
-        "tp2": "non-weidu"
+        "tp2": "PaintBG"
     },
     {
         "id": 791,
@@ -33599,14 +33599,17 @@
         "name": "Sylmar Battlefield",
         "description": "Ce mod ajoute un combat et une quête stratégique au contenu de Baldur's Gate II: Shadows of Amn. Aidez une nation d'elfes dont les lieux sacrés de sépulture ont été envahis. Combattez aux côtés de l'armée elfique et testez votre sens tactique contre des hordes d'orques qui attaquent continuellement et même contre des démons mortels et cauchemardesques, tout en gardant le commandant elfe en vie et en préservant leurs terres sacrées.|Attention : ce mod est difficile, les orcs et autres créatures évoluant en fonction de votre niveau.",
         "urls": [
-            "https://www.shsforums.net/files/file/564-sylmar-battlefield-v1025/"
+            "https://www.shsforums.net/files/file/564-sylmar-battlefield-v1025/",
+            "https://github.com/Spellhold-Studios/Sylmar-Battlefield/"
         ],
         "categories": [
             "Quête"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Zyraen"
@@ -33621,9 +33624,9 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2008-01",
+        "last_update": "2025-10",
         "compatibilities": {},
-        "tp2": "1Syml"
+        "tp2": "1syml"
     },
     {
         "id": 1016,
@@ -34591,7 +34594,8 @@
         "name": "Tethyr Forest Patch",
         "description": "La grotte de la forêt de Téthyr est modifiée par le mod [[226]]. Les mods [[1118]] et [[1032]] utilisent également la grotte originale en termes de quêtes et de scripts. Ce mod crée donc une nouvelle entrée dans la grotte, disponible lorsque vous jouez avec tous les mods sans utiliser la console.",
         "urls": [
-            "https://www.shsforums.net/files/file/855-tethyr-forest-patch-version-3b-112609/"
+            "https://www.shsforums.net/files/file/855-tethyr-forest-patch-version-3b-112609/",
+            "https://github.com/Spellhold-Studios/Tethyr-Forest-Patch/"
         ],
         "categories": [
             "Patch non officiel"
@@ -34602,6 +34606,7 @@
             "EET"
         ],
         "authors": [
+            "Hoppy",
             "White Agnus"
         ],
         "team": [],
@@ -34616,8 +34621,12 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2009-11",
-        "compatibilities": {},
+        "last_update": "2025-10",
+        "compatibilities": {
+            "requires": [
+                226
+            ]
+        },
         "tp2": "tethyrforestpatch"
     },
     {
@@ -36885,7 +36894,7 @@
         "description": "Throne of Bhaal Extender est un outil de type patch qui corrige des bugs du moteur de jeu de BG2, et permet de corriger ou de remplacer certains mécanismes du jeu. Son utilisation est réservée aux plus aguerris, rompus aux arcanes des méga-installs et pointilleux lecteurs de Readme.",
         "urls": [
             "https://www.shsforums.net/files/file/871-bg2tob-throne-of-bhaal-extender/",
-            "https://github.com/Ascension64/TobEx",
+            "https://github.com/Spellhold-Studios/TobEx/",
             "https://github.com/BGforgeNet/TobEx"
         ],
         "categories": [
@@ -41667,9 +41676,10 @@
     {
         "id": 1258,
         "name": "wonnimchunha's Portrait Mod",
-        "description": "Ce mod installe 12 portraits de qualité professionnelle remplaçant ceux de PNJ existants : Aerie, Ajantis, Anomen, Branwen, Cernd, Coran, Edwin, Haer'Dalis, Imoen, Safana, Xan et Yoshimo. Chaque portrait est installé individuellement, vous pouvez donc choisir les portraits que vous utilisez, et vous avez également la possibilité d'utiliser les portraits pour votre propre PC.|Ce mod est compatible avec toutes les installations de la série Baldur's Gate original.",
+        "description": "Ce mod installe 12 portraits de qualité professionnelle remplaçant ceux de PNJ existants : Aerie, Ajantis, Anomen, Branwen, Cernd, Coran, Edwin, Haer'Dalis, Imoen, Safana, Xan et Yoshimo. Chaque portrait est installé individuellement, vous pouvez donc choisir les portraits que vous utilisez, et vous avez également la possibilité d'utiliser les portraits pour votre propre PC.",
         "urls": [
-            "https://www.shsforums.net/files/file/813-wonnimchunhas-portrait-mod-v1/"
+            "https://www.shsforums.net/files/file/813-wonnimchunhas-portrait-mod-v1/",
+            "https://github.com/Spellhold-Studios/wonnimchunha-Portrait-Mod/"
         ],
         "categories": [
             "Portrait et son"
@@ -41689,7 +41699,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2009-07",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "wonnimchunha"
     },
@@ -41698,7 +41708,8 @@
         "name": "xMinion",
         "description": "Ce mod améliore les scripts d'IA de nombreuses créatures invoquées par le groupe (planaires, dévas, princes élémentaires, efrit, nishruu et nakeashar, nymphe, Kitthix from et Cerebus). Dorénavant, elles s'efforceront d'utiliser leurs capacités aux bons moments, avec une meilleure précision de leurs cibles.",
         "urls": [
-            "https://www.shsforums.net/topic/54556-xminion-12-release/"
+            "https://www.shsforums.net/topic/54556-xminion-12-release/",
+            "https://github.com/Spellhold-Studios/xMinion/"
         ],
         "categories": [
             "Script et tactique"
@@ -41713,10 +41724,10 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2012-04",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
@@ -41725,7 +41736,8 @@
         "name": "xParty",
         "description": "Ce script d'IA très sophistiqué, mais conservateur, automatise les aspects fastidieux du jeu et laisse le joueur s'occuper des aspects les plus intéressants. Il offre de nombreux paramètres configurables et fournit de nombreux retours. Toutes les combinaisons de classes et tous les PNJ sont entièrement pris en charge, de sorte que le script peut être utilisé par l'ensemble du groupe.",
         "urls": [
-            "https://www.shsforums.net/topic/54552-xparty-14-release/"
+            "https://www.shsforums.net/topic/54552-xparty-14-release/",
+            "https://github.com/Spellhold-Studios/xParty/"
         ],
         "categories": [
             "Script et tactique"
@@ -41743,7 +41755,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2012-04",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
@@ -49937,7 +49949,8 @@
         "name": "Yovaneth's Scripts",
         "description": "Ce pack de script contient 1 version pour chaque jeu. Il met en avant plusieurs concepts intéressants :|Guérison coopérative en combat|Guérison du poison|Évaluation du niveau de menace|Utilisation de baguette|Backstab pour les classes de voleur|Et plus encore !",
         "urls": [
-            "https://www.shsforums.net/forum/279-yovaneths-scripts/"
+            "https://www.shsforums.net/forum/279-yovaneths-scripts/",
+            "https://github.com/Spellhold-Studios/Yovaneth-Scripts/"
         ],
         "categories": [
             "Script et tactique"
@@ -49957,9 +49970,9 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2006-03",
+        "last_update": "2025-10",
         "compatibilities": {},
-        "tp2": "ysSeries;btSeries;sgSeries"
+        "tp2": "ysSeries;btSeries;sgSeries;i2series"
     },
     {
         "id": 1518,
@@ -54581,7 +54594,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "pl"
         ],
@@ -54609,7 +54622,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -54640,7 +54653,7 @@
             "Renommer les compagnons peut être amusant, mais cela présente un bug : tous les dialogues font références aux noms originels. Par exemple, si vous avez renommée Imoen en \"Chipie\", elle s’appellera bien Chipie mais tous les textes parlerons d'Imoen."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -54652,7 +54665,7 @@
     {
         "id": 1670,
         "name": "NPC lvl 1 with DSotSC/NTotSC",
-        "description": "Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, Xan versions niveau 1 pour DSotSC/NTotSC.",
+        "description": "Ce mod propose de recruter les pnjs Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, Xan au niveau 1 lorsque charname est aussi niveau 1. À utiliser conjointement avec le mod [[287]] ou [[761]], qui met ces personnages au niveau 4.",
         "urls": [
             "https://baldur.cob-bg.pl/download/bg1/patches/NPC_1.lvl_w_NTotSC.zip"
         ],
@@ -54660,7 +54673,7 @@
             "PNJ (autre)"
         ],
         "games": [
-            "BG2",
+            "BG",
             "BGT"
         ],
         "authors": [
@@ -54669,7 +54682,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2003-03",
@@ -54727,7 +54740,7 @@
             "Ce mod désormais obsolète et a été remplace par un composant plus puissant du mod [[1141]]."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "pl"
         ],
@@ -54875,7 +54888,9 @@
         ],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "pl"
+        ],
         "status": "active",
         "last_update": "2019-01",
         "compatibilities": {},
@@ -55048,7 +55063,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -55085,7 +55100,7 @@
     },
     {
         "id": 1685,
-        "name": "Lost item (IWDEE)",
+        "name": "Lost item",
         "description": "Ce mod ajoute à la table des trésors aléatoires les objets qui y ont été retiré par l'extension HOW. Ils peuvent être trouvés aux mêmes endroits que dans le jeu original sans l’extension. Seuls les objets qui ne peuvent plus être trouvés ont été ajoutés.",
         "urls": [
             "https://forums.beamdog.com/discussion/78449"
@@ -55253,7 +55268,7 @@
     {
         "id": 1691,
         "name": "Ioun Stone of Charm Protection",
-        "description": "Ce mod permet à Thalantyr de crée une Pierre de Ioun qui protège contre les charmes en lui donnant un parchemin de Charme néfaste, une perle et 500 pièces d'or.",
+        "description": "Ce mod permet à Thalantyr de créer une Pierre de Ioun qui protège contre les charmes en lui donnant un parchemin de Charme néfaste, une perle et 500 pièces d'or.",
         "urls": [
             "https://forums.beamdog.com/discussion/63553"
         ],

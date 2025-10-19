@@ -7504,14 +7504,10 @@
             "status": "needs_review",
             "source": "Ce mod importe certains éléments de Icewind Dale dans la série de jeux Baldur's Gate, dont environ 70 sortilèges profanes et divins, les chanson du barde, les haches à deux mains... N'hésitez pas à lire son readme pour plus de détails.|Notez que ce mod est inutile si vous décidez d'installer [[1011]]."
         },
-        "notes": [
-            "The IWD Class Updates: Ranger: Tracking component is not translated."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Le composant `IWD Class Updates: Ranger: Tracking` n'est pas traduit."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -18118,10 +18114,10 @@
     },
     {
         "id": 1258,
-        "description": "This mod installs 12 professional-quality portraits replacing those of existing NPCs: Aerie, Ajantis, Anomen, Branwen, Cernd, Coran, Edwin, Haer'Dalis, Imoen, Safana, Xan and Yoshimo. Each portrait is installed individually, so you can choose which portraits you use, and you also have the option of using the portraits for your own PC.|This mod is compatible with all installations in the original Baldur's Gate series.",
+        "description": "This mod installs 12 professional-quality portraits replacing those of existing NPCs: Aerie, Ajantis, Anomen, Branwen, Cernd, Coran, Edwin, Haer'Dalis, Imoen, Safana, Xan and Yoshimo. Each portrait is installed individually, so you can choose which portraits you use, and you also have the option of using the portraits for your own PC.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod installe 12 portraits de qualité professionnelle remplaçant ceux de PNJ existants : Aerie, Ajantis, Anomen, Branwen, Cernd, Coran, Edwin, Haer'Dalis, Imoen, Safana, Xan et Yoshimo. Chaque portrait est installé individuellement, vous pouvez donc choisir les portraits que vous utilisez, et vous avez également la possibilité d'utiliser les portraits pour votre propre PC.|Ce mod est compatible avec toutes les installations de la série Baldur's Gate original."
+            "source": "Ce mod installe 12 portraits de qualité professionnelle remplaçant ceux de PNJ existants : Aerie, Ajantis, Anomen, Branwen, Cernd, Coran, Edwin, Haer'Dalis, Imoen, Safana, Xan et Yoshimo. Chaque portrait est installé individuellement, vous pouvez donc choisir les portraits que vous utilisez, et vous avez également la possibilité d'utiliser les portraits pour votre propre PC."
         },
         "notes": [],
         "notes_meta": {
@@ -23987,10 +23983,10 @@
     },
     {
         "id": 1670,
-        "description": "Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, Xan level 1 versions for DSotSC/NTotSC.",
+        "description": "This mod allows you to recruit the NPCs Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, and Xan at level 1 when charname is also level 1. Use in conjunction with mod [[287]] or [[761]], which sets these characters to level 4.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, Xan versions niveau 1 pour DSotSC/NTotSC."
+            "source": "Ce mod propose de recruter les pnjs Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, Xan au niveau 1 lorsque charname est aussi niveau 1. À utiliser conjointement avec le mod [[287]] ou [[761]], qui met ces personnages au niveau 4."
         },
         "notes": [],
         "notes_meta": {
@@ -24267,7 +24263,7 @@
     },
     {
         "id": 1690,
-        "description": "This mod adds Stormbringer, the cursed sword of Elric of Melniboné, to the stock of the Sorcerous Sundries for BGEE, the Quill and Parchment store for BG2EE or Ribald's stock for BG2 without TOB.",
+        "description": "This mod adds Stormbringer, the cursed sword of Elric of Melnibone, to the stock of the Sorcerous Sundries for BGEE, the Quill and Parchment store for BG2EE or Ribald's stock for BG2 without TOB.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod rajoute Stormbringer, l'Epée maudite d'Elric de Melniboné dans le stock du Bazar magique pour BGEE, du magasin Plume et parchemin pour BG2EE ou dans le stock de Ribald pour BG2 sans TOB."
@@ -24280,10 +24276,10 @@
     },
     {
         "id": 1691,
-        "description": "This mod allows Thalantyr to create an Ioun Stone that protects against charms by giving him a scroll of Harmful Charm, a pearl and 500 gold coins.",
+        "description": "This mod allows Thalantyr to create an Ioun Stone that protects against charms by giving him a scroll of Dire Charm, a Pearl and 500gp.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet à Thalantyr de crée une Pierre de Ioun qui protège contre les charmes en lui donnant un parchemin de Charme néfaste, une perle et 500 pièces d'or."
+            "source": "Ce mod permet à Thalantyr de créer une Pierre de Ioun qui protège contre les charmes en lui donnant un parchemin de Charme néfaste, une perle et 500 pièces d'or."
         },
         "notes": [],
         "notes_meta": {
