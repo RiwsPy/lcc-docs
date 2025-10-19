@@ -194,7 +194,7 @@ image_data: dict[str, dict[str, str | int]] = {
     "weidu.ico": {"title": "WeiDU", "width": 16, "height": 16},
     "bgforge.svg": {"title": "BG Forge", "width": 32, "height": 32},
     "-flag-32.png": {"title": "Mod %s", "width": 32, "height": 21},
-    "trow-32.png": {"title": "Trow", "width": 32, "height": 32},
+    "trow-32.png": {"title": "The Ring of Wonder", "width": 32, "height": 32},
 }
 
 

@@ -450,9 +450,9 @@
     },
     {
         "id": 30,
-        "description": "一个中立邪恶的女盗贼，有配音、一些轻松的闲聊和一张原创肖像。你可以在贫民区找到她。需要巴尔王座。|力量10，敏捷15，体质9，智力14，智慧12，魅力16。",
+        "description": "一个中立邪恶的女盗贼，有配音、一些轻松的闲聊和一张原创肖像。你可以在贫民区找到她。|力量10，敏捷15，体质9，智力14，智慧12，魅力16。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Une voleuse neutre mauvaise avec voix, quelques banters légers et un portrait original. Vous pouvez la trouver dans les Bas Quartiers.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16."
         },
         "notes": [
@@ -1287,7 +1287,7 @@
             "注意：不幸的是，它会或多或少地覆盖它所触及的一切，这意味着它会删除许多在它之前安装的模组的修改。因此，您必须最先安装它，甚至在修复包之前。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Attention : Malheureusement, il écrase plus ou moins tout ce qu'il touche, ce qui signifie qu'il efface de nombreuses modifications de mods installés avant lui. Il faut donc l'installer en tout premier, avant même le fixpack."
             ]
@@ -1426,7 +1426,7 @@
         "id": 96,
         "description": "这个模组在安姆阴影的不同地点添加了各种有趣的遭遇……等等。请仔细阅读存档中的 readme 文件以获取更多细节（内容相当丰富）。它需要巴尔王座。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts)."
         },
         "notes": [
@@ -3111,9 +3111,9 @@
     },
     {
         "id": 213,
-        "description": "这个小型模组允许你选择你想要的使魔。",
+        "description": "该小型模组可在施放“召唤魔宠”法术后，让玩家自由选择所需的魔宠类型。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce petit mod permet, une fois le sort Familier lancé, de choisir le familier de son choix."
         },
         "notes": [],
@@ -3335,7 +3335,7 @@
             "存在一个[此模组的非官方变体](https://github.com/Plutonium-X/NPC_Chloe/)。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Il existe une [version EE non officielle](https://github.com/Plutonium-X/NPC_Chloe/)."
             ]
@@ -4713,9 +4713,9 @@
     },
     {
         "id": 324,
-        "description": "前身为龙矛围攻界面重制，此模组由Pecca制作，完全重新排列了龙矛围攻的游戏界面。它还集成了（经许可）来自官方论坛界面修改版块其他贡献者的界面修改。需要在不缩放的情况下，使用全高清屏幕进行游戏。否则可能会有意想不到的效果。界面部分为英文。",
+        "description": "此模组前身为“SoD GUI Overhaul”，可彻底重塑《龙矛围攻》的游戏界面。经原作者授权，该模组还整合了官方论坛界面修改专区中其他贡献者发布的界面调整方案。使用时需禁用界面缩放功能并保持全高清分辨率，否则可能出现显示异常。当前界面部分内容仍为英文版本。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Anciennement SoD GUI Overhaul, ce mod réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais."
         },
         "notes": [],
@@ -5647,9 +5647,9 @@
     },
     {
         "id": 388,
-        "description": "Ascension64，[[148]]的作者，对博德之门II的游戏引擎进行了两个缺陷修复。这些修复需要修改游戏的可执行文件，这使得它们非常特殊。这个修复涉及正确分配经验值。",
+        "description": "该模组针对《博德之门II》游戏引擎中两处涉及团队经验分配的系统缺陷提供修复。由于修复过程需修改游戏可执行文件，因此具有特殊的技术实现方式。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod propose deux corrections de défauts du moteur de jeu de Baldur's Gate II qui concerne l'attribution d'expérience du groupe. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières."
         },
         "notes": [],
@@ -5977,9 +5977,9 @@
     },
     {
         "id": 411,
-        "description": "此模组的前身是[便利性调整与Glaicas修复](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/)，现已适配EE版游戏。这是一个（小型）调整、作弊和修复的集合，它让某些事情比在原版游戏中变得更方便，特别是当您是第100次游玩时。它包含多个组件：|- 总能战胜艾瑟加瑞斯|- 减少从奇迹纸牌游戏中抽到想要物品的次数|- 让疯子卢姆的机器更容易使用|- 更容易解除Glaicas的魅惑|- 投掷武器不再获得力量命中加成",
+        "description": "该模组前身为“Convenience Tweaks and Glaicas Fix”，是一个（小型）功能合集，包含多项优化调整、作弊功能及修复内容，旨在为重复游玩（尤其是第100次通关时）提供比原版更便捷的游戏体验。其主要组件包括：|- 始终战胜艾斯嘉雷斯|- 减少万象无常牌达成目标的抽牌次数|- 优化疯狂卢姆装置的操作便捷性|- 更容易解除格莱卡斯的魅惑状态|-远程投掷武器不再享受力量命中加成",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Anciennement `Convenience Tweaks and Glaicas Fix`, ce mod est une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants :|- Toujours gagner contre Aesgareth|- Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse|- Rendre la Machine de Lum le Fou plus facile à utiliser|- Libérer plus facilement Glaicas de son charme|- Les armes de jet ne bénéficient plus de bonus de force au toucher"
         },
         "notes": [
@@ -6439,9 +6439,9 @@
         "team": [
             "redrumcha"
         ],
-        "description": "此模组在很大程度上借鉴了由Constant Gaw制作的[[335]]，并自由改编自D&D第三版的进阶职业：地脉术士。该职业结合了法师的法术和施法方式，以及德鲁伊的法术、能力和特性。此外，它还拥有自己的法术和高阶法术。该模组还提供了为地脉术士选择特定肖像的选项，就像他将使用的变形术一样：熊、猫、狗、豹、麋鹿、豹、鼠、蛇和狼。",
+        "description": "该模组的设计理念主要借鉴[[335]]号模组，并自由借鉴了D&D第三版规则中的“地脉术士”进阶职业。该职业档案融合了术士的法术位施法机制与德鲁伊的自然神术、职业能力及属性特质，同时拥有独立的全新法术体系和高等级能力。模组还提供地脉术士专属肖像选择功能，以及多种变身形态选项：熊、猫、狗、豹、麋鹿、黑豹、鼠、蛇与狼。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod s'inspire largement du [[335]] et est librement adapté de la classe de prestige de la 3ème édition D&D : le Géomancien. Le profil combine les sorts et méthodes d'incantation du sorcier, avec des sorts, capacités et caractéristiques druidiques. De plus, il utilise ses propres sorts et HLA. Le mod dispose également d'options permettant de sélectionner des portraits spécifiques pour le Géomancien, comme pour les métamorphoses dont il se servira : ours, chat, chien, léopard, orignal, panthère, rat, serpent et loup."
         },
         "notes": [],
@@ -7905,10 +7905,10 @@
             "source": "Vous êtes du genre à envoyer une armée de chair à canon à l'assaut de vos ennemis ? Vous cherchez des solaires plus puissants ? Vous désirez invoquer des spectateurs à la place de ces ridicules vers charognards ? Vous préférez les vampires aux wivernes et regrettez que vos mort-vivants ne soient pas un peu plus costauds ? Ce mod est fait pour vous !"
         },
         "notes": [
-            "注意：此模组覆盖了法术，因此与修改原版法术的模组不兼容。"
+            "注意：本模组会覆盖游戏原始法术文件，因此与任何修改原版法术的模组均存在兼容性冲突。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Attention : Ce mod override les sorts et est donc incompatible avec les nombreux mods modifiant les sorts vanilla."
             ]
@@ -8327,10 +8327,10 @@
         },
         "notes": [
             "由于该模组已被转换为 EE 版本，所需的组件可能已经发生变化。",
-            "该模组必须安装[[548]]号模组的核心组件，以及[[112]]号模组的次要对话修复与商店、酒馆与旅店修复及功能恢复组件。"
+            "该模组必须安装[[548]]模组的核心组件，以及[[112]]模组的次要对话修复与商店、酒馆与旅店修复及功能恢复组件。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Depuis que le mod a été converti aux EE, les composants nécessaires ont pu évoluer.",
                 "Ce mod nécessite l'installation du composant principal d'[[548]] et des composants `Restitutions mineures de dialogues` et `Réparations et restitutions de magasins, tavernes et auberges` de [[112]]."
@@ -8908,9 +8908,9 @@
     },
     {
         "id": 614,
-        "description": "此模组为BG2提供了一系列调整。它是模块化的，包含角色档案、物品修复、有趣的添加和规则修改。在安装其组件之前，请务必仔细阅读其自述文件。|它特别包含了作者以前的模组[[1058]]、[[893]]和Konalan的法师杀手增强版。",
+        "description": "该模组提供一系列模块化调整选项，包含角色档案修正、物品修复、趣味内容及规则调整。安装前请务必阅读说明文档。|特别整合了同一位作者开发的旧版模组[[1058]]、[[893]]与[[1889]]。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod propose une collection d'ajustements. Il est modulaire et contient des correctifs de profils, d'objets, des ajouts amusants, et des modifications de règles. Veuillez bien lire son readme avant d'installer ses composants.|Il inclue notamment les anciens mods [[1058]], [[893]] et [[1889]], du même auteur."
         },
         "notes": [
@@ -9359,9 +9359,9 @@
     },
     {
         "id": 645,
-        "description": "由 Lollorian 制作，此包汇集了多个转换为 WeiDU 格式的旧模组，并以独立组件的形式提供：|- [正宗之剑迷你迷你任务](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/masamune.zip) (由 ShadowDaemon 制作) ：一个延伸至《巴尔王座》的小任务，将让您能锻造出一把地狱之剑。|- [改进的安纳格](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/anarg.rar) (由 knightlight 制作) ：堕落的圣武士领袖安纳格，拥有一顶使他免疫多种效果的头盔，因此更难被击败。但奖励将与风险成正比……|- 扩展的离子石动画（由 WoRm 制作） ：许多模组添加的离子石将受益于围绕其所有者头部旋转的石头动画。|- 还有其他一些便利组件……",
+        "description": "由 Lollorian 制作，此包汇集了多个转换为 WeiDU 格式的旧模组，并以独立组件的形式提供：|- [正宗之剑迷你迷你任务](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/masamune.zip) (由 ShadowDaemon 制作) ：一个延伸至《巴尔王座》的小任务，将让您能锻造出一把地狱之剑。|- [改进的安纳格](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/anarg.rar) (由 knightlight 制作) ：堕落的圣武士领袖安纳格，拥有一顶使他免疫多种效果的头盔，因此更难被击败。但奖励将与风险成正比……|- 扩展的艾欧石动画（由 WoRm 制作） ：许多模组添加的艾欧石将受益于围绕其所有者头部旋转的石头动画。|- 还有其他一些便利组件……",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce pack regroupe plusieurs anciens mods convertis au format WeiDU et proposés sous forme de composants indépendants :|- [Masamune sword mini-mini-quest](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/masamune.zip) (de ShadowDaemon) : une petite quête qui s'étend jusqu'au ToB vous permettra de faire forger une épée d'enfer.|- [Improved Anarg](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/anarg.rar) (de knightlight) : Anarg, le chef des Paladins déchus, possède un casque qui l'immunise à de nombreux effets, et le rend donc plus coriace à neutraliser. Mais la récompense sera à la hauteur des risques pris...|- Animations des pierres ioniques étendues (de WoRm) : les pierres ioniques ajoutés par de nombreux mods bénéficieront des animations de pierre tournant autour de la tête de leur possesseur.|- Plus d'autres composants de confort..."
         },
         "notes": [],
@@ -9946,7 +9946,7 @@
         "id": 687,
         "description": "此模组带来了战斗规则和新的宗派，适用于战士、游侠、吟游诗人和盗贼。您可以根据自己的游戏方式选择安装或否决数十个组件。它定期更新。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod apporte des modifications de règles et de nouveaux kits pour combattants, rôdeurs, bardes et roublards. Vous avez le choix d'installer ou pas des dizaines de composants selon votre manière de jouer."
         },
         "notes": [
@@ -10568,7 +10568,7 @@
         "id": 728,
         "description": "你可以在行政区遇到这个新商人，他提供各种容器（羊皮纸套、宝石袋等等），以及+2飞镖和其他附魔投掷匕首。此模组需要ToB。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce nouveau marchand que vous pourrez rencontrer dans le district du Gouvernement propose toutes sortes de contenants (étuis à parchemins, sacs de gemmes et bien d'autres), mais également des fléchettes +2 et autres dagues de jet enchantées."
         },
         "notes": [
@@ -10576,7 +10576,7 @@
             "需要《巴尔王座》。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "La compatibilité EET est possible avec [[1325]].",
                 "Nécessite ToB."
@@ -11080,7 +11080,7 @@
         "id": 763,
         "description": "此模组为《冰风谷》和《冰风谷2》中的玩家提供了新的法语语音包。这项工作由Luren完成，他收集并重新加工了来自《博德之门》（艾黎、瑟恩、贾希拉、姚恩·姚森和明斯克）或《无冬之夜2》（妮丝卡 - 盗贼、卡拉 - 法师、主教 - 游侠、凯尔加 - 矮人）等 various NPC的语音，以丰富选择。|这些语音包的安装程序可在提供的下载链接中找到。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod propose de nouveaux packs de voix françaises disponibles pour les joueurs dans IWD et IWD2. L'auteur a récupéré et retravaillé ceux de divers PNJ de Baldur's Gate (Aerie, Cernd, Jaheira, Jan et Minsc) ou de Neverwinter Nights 2 (Neeshka - Voleuse, Qara - Magicienne, Bishop - Rôdeur, Khelgar - Nain), afin d'en étoffer un peu le choix.|La procédure d'installation de ces packs est disponible sur le lien de téléchargement proposé."
         },
         "notes": [],
@@ -11145,7 +11145,7 @@
         "id": 768,
         "description": "此模组在EE系列游戏中添加了150多种法术，其中一些可以让你飞行或穿墙。但它需要先安装[[348]]。因此，它仅适用于Windows操作系统。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute plus de 150 sorts dans les jeux EE, dont certains vous permettent de voler ou de traverser des murs."
         },
         "notes": [],
@@ -11542,7 +11542,7 @@
         "id": 795,
         "description": "这个波兰模组（北方回忆）修改了BG2中的33件物品，使其更有用，并在渥金商场的米拉商店中添加了来自[[761]]的35件物品。此外，它还添加了商人黛德丽和乔卢夫，并略微修改了前厅的环境。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod polonais (Pamiątki z Północy) modifie 33 objets de BG2 pour les rendre plus utiles, et ajoute 35 objets de [[761]] à l'échoppe de Mira sur la Promenade de Waukyne. Par ailleurs, il ajoute les vendeurs Deidre et Joluv, et modifie quelque peu l'environnement de l'Antichambre."
         },
         "notes": [],
@@ -11555,7 +11555,7 @@
         "id": 796,
         "description": "此模组可以解锁高难度内容，而无需承受其疯狂的伤害和其他非角色扮演的不便之处。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod donne accès aux contenus des hauts niveaux de difficulté SANS en subir les dégâts démentiels et autres effets non liés au role-play."
         },
         "notes": [],
@@ -11568,7 +11568,7 @@
         "id": 797,
         "description": "这个小型模组可以重新招募那些被你从队伍中除掉的NPC。它仅在BGT或Tutu安装上有效。你可以决定他们永久离开的条件：要么是他们非常不满，要么是他们已经达到了临界点。对于模组制作者来说，这些是变量SERIOUSLY_UNHAPPY和BREAKING_POINT。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce petit mod permet de recruter à nouveau les PNJ que l'on a écartés du groupe. Vous pouvez décider des conditions dans lesquels ils partiront définitivement : soit s'il sont sérieusement mécontents, soit s'ils ont atteint le point de non retour. Pour les moddeurs, il s'agit des variables SERIOUSLY_UNHAPPY et BREAKING_POINT."
         },
         "notes": [],
@@ -12539,10 +12539,10 @@
             "source": "Ce mod est en fait un complément d'[[74]] et permet de modifier le final de ToB, en rendant possible la rédemption de Jon Irenicus. Pour ce faire, recrutez-le avant de pénétrer dans l'antre de Mélissane, en jouant sur sa fierté blessée.|Une autre facette inattendue du mod se situe dans l'apparition de votre vieil ennemi, Demogorgon, le Prince des Démons. Il vous posera quelques énigmes, avant d'engager un nouveau combat qu'il semble possible d'éviter tout en humiliant sa majesté. Ces énigmes sont largement inspirés des livres de Raymond Smullyan (Satan, Cantor et Les énigmes de Shéhérazade)."
         },
         "notes": [
-            "需要巴尔王座，同时也需要模组 [[74]]。"
+            "需要巴尔王座。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "ToB est requis."
             ]
@@ -14561,9 +14561,9 @@
     },
     {
         "id": 1001,
-        "description": "这是subtle医生为EE游戏制作的一系列法术、物品或生物的小型调整。其中一些，但非常少，与原始游戏向后兼容（例如，为吸取等级的效果添加一次豁免检定）。每个组件都可以独立安装。",
+        "description": "这是针对增强版游戏的法术、物品及生物微调合集。其中部分组件（数量极少）可向后兼容原版游戏（例如：为等级吸收效果添加豁免检定）。所有组件均支持独立安装。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit d'une collection de petits ajustements de sorts, d'objets ou de créatures pour les jeux EE. Certains, mais très peu, sont retro-compatibles avec les jeux originaux (comme Ajouter un jet de sauvegarde pour les effets d'absorption de niveau). Chaque composant peut être installé indépendamment."
         },
         "notes": [
@@ -14610,10 +14610,10 @@
             "source": "Destiné aux joueurs confirmés, ce mod devrait faire de Firkraag l'utilisateur de magie et le dragon incroyablement puissant qu'il devrait être. Son auteur se vante d'avoir lancé un défi à tous les tricheurs pour trouver le moyen de le battre..."
         },
         "notes": [
-            "注意：此模组与模组[[201]]以及模组[[884]]中的“改进的费尔克拉格”组件不兼容。"
+            "注意：此模组与模组[[884]]中的“改进的费尔克拉格”组件不兼容。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Attention : ce mod est incompatible avec le composant `Firkraag amélioré` de [[884]]."
             ]
@@ -18962,7 +18962,7 @@
         "id": 1306,
         "description": "这个模组是subtledoctor的调整集合，可以在该作者的其他模组中找到，如[[922]]、[[1114]]或[[1001]]。组件众多，请务必参考模组的README文件。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod est un regroupement de tweaks que l'on peut retrouver dans d'autres mods de cet auteur comme [[922]], [[1114]] ou encore [[1001]]. Les composants sont nombreux, n'hésitez pas à vous référer au README du mod."
         },
         "notes": [],
@@ -18983,7 +18983,7 @@
             "[[1521]]模组使角色属性更具角色扮演风格。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "[Ce lien](https://github.com/Endarire/BG2-Sub-Zero-Companion/) possède une version compatible avec EET.",
                 "Le mod [[1521]] rend les caractéristiques du personnage plus RP."
@@ -21521,11 +21521,11 @@
             "source": "Tous les packs de sons (en anglais) crées par Boooof. Il y a :|[[1482]] et Garrett du jeu Thief.|[[1540]], Delphi et Yan du jeu Giants Citizen Kabuto.|Cassandra du jeu Dragon Age Inquisition.|Une garde de l'Oblivion du jeu Oblivion.|Zapp Brannigan de la série tv Futurama."
         },
         "notes": [
-            "存在一个[Github](https://github.com/Boooof)链接，但其中只提供了三个语音包。而Drive链接则提供了全部八个由作者创建的语音包。",
+            "存在一个[Github 链接](https://github.com/Boooof) ，但其中只提供了三个语音包。而Drive链接则提供了全部八个由作者创建的语音包。",
             "需要博德之门增强版、博德之门2增强版或冰风谷增强版2.6或更高版本。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Il existe un lien [Github](https://github.com/Boooof) mais celui-ci ne propose que trois soundsets. Le lien vers Drive propose l'intégrale des huit soundsets créés.",
                 "Nécessite une version du jeu 2.6+"
@@ -22824,10 +22824,10 @@
             "source": "Ce mod ajoute de nombreux objets au magasin de Joluv et Deidre."
         },
         "notes": [
-            "它需要覆盖tlk文件。"
+            "它会覆盖tlk文件。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Il nécessite d'overrider le fichier tlk."
             ]
@@ -23231,7 +23231,7 @@
             "此版本适用于EE游戏：您必须先下载并解压原始v1.14版本（第一个链接），但不要安装。然后运行Setup-TDDz.exe文件，将模组安装到您的EE游戏中。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Cette version est pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale [[1062]] SANS l'installer. Puis lancer le fichier `Setup-TDDz.exe` pour installer le mod sur votre jeu EE."
             ]
@@ -23239,7 +23239,7 @@
     },
     {
         "id": 1602,
-        "description": "你总是会在队伍中带上姚恩·姚森。你享受着他那些荒诞不经的台词，但他个人任务却让你意犹未尽。你是否想了解阿斯卡特拉最古怪幻术盗贼的前任伴侣，以及她那位暴虐丈夫瓦拉格的故事？|姚恩任务扩展包通过两个非常简短的任务，为这个原创任务提供了续篇，其中充满了典型的对话和与新角色的意外相遇。在背景设定上，该模组试图为城市中一些最具影响力的组织提供新的视角。|无需重新开始游戏即可了解故事的结局。由于该模组的难度已调整为适合低等级角色，我们建议你在游戏进程不太深入时体验。|该模组还包含2个可按任意顺序完成的新任务和2个关于姚恩的新故事。",
+        "description": "您是否总觉得队伍里少不了姚恩·姚森？虽沉醉于他那些天马行空的俏皮话，却对他未完结的个人任务意犹未尽？现在，您将有机会知晓这位阿斯卡特拉最荒诞的幻术盗贼与其旧爱——以及那位施暴成性的丈夫瓦埃拉格——之间的故事结局。|《姚恩任务扩展》通过两段精炼的新任务延续原版剧情，不仅保留了标志性对话风格，更安排了与全新配角们的意外邂逅。该模组还尝试以独特视角，悄然揭示这座都市中某些最具影响力的组织背后不为人知的秘密。|无需重启存档即可体验完整故事线。虽然模组难度适配低等级角色，但仍建议在游戏前期体验以获得最佳效果。|本模组主要包含：2个可自由选择顺序的新任务线，以及2段姚恩的全新背景故事。",
         "description_meta": {
             "status": "done",
             "source": "Vous ne manquez jamais d'inclure Jan Jansen dans votre groupe. Vous vous délectez de ses répliques abracadabrantes, mais sa quête personnelle vous laisse sur votre faim. Vous avez envie de connaître la fin de l'histoire concernant l'ancienne compagne du voleur illusionniste le plus loufoque d'Athkatla, et de Vaelag, le mari violent de cette dernière ?|L'Extension de la quête de Jan propose une suite à cette quête originale sous la forme de deux très courtes missions agrémentées de dialogues typiques et de rencontres inopinées avec de nouveaux personnages secondaires. En trame de fond, le mod tente modestement de jeter un éclairage nouveau sur certaines des organisations les plus influentes de la cité.|Découvrez la fin de l'histoire sans avoir besoin de recommencer une partie. La difficulté du mod étant adaptée à des personnages de faible niveau, nous vous conseillons malgré tout d'en profiter sur une partie pas trop avancée.|Le mod comporte entre autres 2 nouvelles missions qui peuvent être faite dans l'ordre de votre choix et 2 nouvelles histoires de Jan."
@@ -26329,9 +26329,11 @@
             "status": "done",
             "source": "Ce mod permet possède trois composants :|Atteindre le niveau 50|Remplacer les HLA de mages et de clercs par des compétences innées|Modification de la restriction de niveau pour le gain de dés de points de vie pour être plus conforme à la version papier"
         },
-        "notes": [],
+        "notes": [
+		"需要先安装ToB"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "ToB est recommandé."
             ]
@@ -27203,14 +27205,16 @@
     },
     {
         "id": 1889,
-        "description": "",
+        "description": "该模组重新设计了法师杀手职业套组，重点提升其魔法抗性、增强对抗法术的豁免检定，并新增高等级能力。同时对其物品使用限制进行了重新调整。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod revisite le kit de Tueur de magiciens. Il augmente notamment sa résistance à la magie,  ses jets de sauvegardes contre les Sorts et ajoute de nouvelles HLA. Ses restrictions d'utilisation d'objet a également été revue."
         },
-        "notes": [],
+        "notes": [
+		"已整合至[[614]]模组。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Inclus dans [[614]]."
             ]
@@ -27218,9 +27222,9 @@
     },
     {
         "id": 1890,
-        "description": "",
+        "description": "该模组提供全新动画与武器资源，包含为忍者刀设计的双手持握新动画，以及一款名为穿刺者的中世纪武器，该武器专门针对重甲目标设计。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose de nouvelles animations et des armes. Il contient notamment une nouvelle animation à deux mains pour Ninja-to ainsi qu'une nouvelle arme médiévale : le `Piercer`, utilisée contre les armures lourdes."
         },
         "notes": [],
@@ -27231,9 +27235,9 @@
     },
     {
         "id": 1891,
-        "description": "",
+        "description": "这款小型诙谐模组在强盗营地新增了一段对话剧情。作者建议将一名队员部署在豺狼人洞穴附近，另一名队员安排在陶苟斯所在位置。随后与阿德诺进行四次对话即可触发完整剧情线。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce petit mod pas très sérieux ajoute un dialogue dans le Camp des bandits. L'auteur vous recommande de placer un membre du groupe près de la grotte des gnolls et un autre près de Taugosz. Ensuite, vous devez parler quatre fois à Ardenor pour que l'histoire se déroule."
         },
         "notes": [],
@@ -27244,9 +27248,9 @@
     },
     {
         "id": 1892,
-        "description": "",
+        "description": "该小型模组修改了法师二级法术“开锁术”，使其能够在有限作用范围内同时解除陷阱。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce petit mod modifie le sort de mage de 2ème niveau Déblocage pour lui permettre de désarmorcer également les pièges dans un rayon d'action limité."
         },
         "notes": [],
