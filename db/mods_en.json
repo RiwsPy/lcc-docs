@@ -3080,10 +3080,10 @@
     },
     {
         "id": 213,
-        "description": "This little mod lets you choose the pet of your choice.",
+        "description": "This small mod allows you to choose the familiar of your choice once the Find Familiar spell has been cast.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce petit mod permet de choisir le familier de son choix."
+            "source": "Ce petit mod permet, une fois le sort Familier lancé, de choisir le familier de son choix."
         },
         "notes": [],
         "notes_meta": {
@@ -3117,7 +3117,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Ce mod est désormais inclu dans [[504]]."
+                "Ce mod est désormais inclus dans [[504]]."
             ]
         }
     },
@@ -4895,7 +4895,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Ce mod a été inclu dans [[1305]] du même auteur."
+                "Ce mod a été inclus dans [[1305]] du même auteur."
             ]
         }
     },
@@ -5600,10 +5600,10 @@
     },
     {
         "id": 388,
-        "description": "Ascension64, the author of [[148]], has made two fixes to defects in the Baldur's Gate II game engine. These involved modifying the game executable, which makes them very special. The first concerns the correct allocation of experience points.",
+        "description": "This mod made two fixes to defects in the Baldur's Gate II game engine regarding the allocation of party experience. These involved modifying the game executable, which makes them very special.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ascension64, l'auteur de [[148]], a réalisé deux corrections de défauts du moteur de jeu de Baldur's Gate II. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières. Celle-ci concerne l'attribution correcte des points d'expérience."
+            "source": "Ce mod propose deux corrections de défauts du moteur de jeu de Baldur's Gate II qui concerne l'attribution d'expérience du groupe. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières."
         },
         "notes": [],
         "notes_meta": {
@@ -5923,10 +5923,10 @@
     },
     {
         "id": 411,
-        "description": "Formerly known as [Convenience Tweaks and Glaicas Fix](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/), this mod has been adapted for EE games. It's a (small) collection of tweaks, cheats and fixes that make some things slightly more convenient than they were in the original game, especially if you're playing for the 100th time. It includes several components:|- Always win against Aesgareth|- Reduce the number of draws to get what you want from the Wonderful Card Game|- Make Lum the Fool's Machine easier to use|- Free Glaicas from his spell more easily|- Thrown Weapon do not gain Strength bonus to THAC0",
+        "description": "Formerly known as `Convenience Tweaks and Glaicas Fix`, this mod is a (small) collection of tweaks, cheats and fixes that make some things slightly more convenient than they were in the original game, especially if you're playing for the 100th time. It includes several components:|- Always win against Aesgareth|- Reduce the number of draws to get what you want from the Wonderful Card Game|- Make Lum the Fool's Machine easier to use|- Free Glaicas from his spell more easily|- Thrown Weapon do not gain Strength bonus to THAC0",
         "description_meta": {
             "status": "needs_review",
-            "source": "Anciennement [Convenience Tweaks and Glaicas Fix](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/), ce mod a été adapté aux jeux EE. Il s'agit d'une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants :|- Toujours gagner contre Aesgareth|- Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse|- Rendre la Machine de Lum le Fou plus facile à utiliser|- Libérer plus facilement Glaicas de son charme|- Les armes de jet ne bénéficient plus de bonus de force au toucher"
+            "source": "Anciennement `Convenience Tweaks and Glaicas Fix`, ce mod est une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants :|- Toujours gagner contre Aesgareth|- Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse|- Rendre la Machine de Lum le Fou plus facile à utiliser|- Libérer plus facilement Glaicas de son charme|- Les armes de jet ne bénéficient plus de bonus de force au toucher"
         },
         "notes": [],
         "notes_meta": {
@@ -8828,10 +8828,10 @@
     },
     {
         "id": 614,
-        "description": "This mod offers a collection of adjustments for BG2. It is modular and contains profile fixes, item fixes, fun additions and rule changes. Please read its readme carefully before installing its components.|It includes the old mods [[1058]], [[893]] and Konalan's Wizard Slayer Enhancements, by the same author.",
+        "description": "This mod offers a collection of adjustments. It is modular and contains profile fixes, item fixes, fun additions and rule changes. Please read its readme carefully before installing its components.|It includes the old mods [[1058]], [[893]] and [[1889]], by the same author.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod propose une collection d'ajustements pour BG2. Il est modulaire et contient des correctifs de profils, d'objets, des ajouts amusants, et des modifications de règles. Veuillez bien lire son readme avant d'installer ses composants.|Il inclue notamment les anciens mods [[1058]], [[893]] et Konalan's Wizard Slayer Enhancements, du même auteur."
+            "source": "Ce mod propose une collection d'ajustements. Il est modulaire et contient des correctifs de profils, d'objets, des ajouts amusants, et des modifications de règles. Veuillez bien lire son readme avant d'installer ses composants.|Il inclue notamment les anciens mods [[1058]], [[893]] et [[1889]], du même auteur."
         },
         "notes": [
             "Some people have managed to install it on BG2:EE, but it wasn't coded for. So, if you try it on an EE game, do so at your own risk!"
@@ -18374,7 +18374,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Ce mod a été inclu dans [[302]] du même auteur."
+                "Ce mod a été inclus dans [[302]] du même auteur."
             ]
         }
     },
@@ -19762,7 +19762,7 @@
             "status": "needs_review",
             "source": [
                 "Ne fonctionne qu'avec qu'une version 2.6, ni plus ni moins. Et seulement avec un exécutable Windows !",
-                "Inclu dans [[1525]]."
+                "Inclus dans [[1525]]."
             ]
         }
     },
@@ -26978,6 +26978,62 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod vous permet d'installer toutes sortes de kits multiclassés authentiques à partir de n'importe quelle combinaison de kits monoclassés, ce qui permet des combinaisons inhabituelles telles que Kensaï/Assassin ou Berserker/Entropiste/Bretteur. Les kits personnalisés provenant de mods sont également pris en compte s'ils sont détectés."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1889,
+        "description": "This mod revisits the Wizard Slayer kit. In particular, it increases its magic resistance, its saving throws against spells, and adds new HLA. Its restrictions on item usage have also been revised.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod revisite le kit de Tueur de magiciens. Il augmente notamment sa résistance à la magie,  ses jets de sauvegardes contre les Sorts et ajoute de nouvelles HLA. Ses restrictions d'utilisation d'objet a également été revue."
+        },
+        "notes": [
+            "Included in [[614]]."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Inclus dans [[614]]."
+            ]
+        }
+    },
+    {
+        "id": 1890,
+        "description": "This mod offers new animations and weapons. It includes a new two-handed animation for Ninja-to as well as a new weapon of medieval age: the `Piercer`, used against heavy armor.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose de nouvelles animations et des armes. Il contient notamment une nouvelle animation à deux mains pour Ninja-to ainsi qu'une nouvelle arme médiévale : le `Piercer`, utilisée contre les armures lourdes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1891,
+        "description": "This silly little mod adds some dialogue to the Bandit Camp. The author recommend that you move one party member near the Gnoll Cave and one near Taugosz. After that, you must talk to Ardenor four times for the storyline to play out.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce petit mod pas très sérieux ajoute un dialogue dans le Camp des bandits. L'auteur vous recommande de placer un membre du groupe près de la grotte des gnolls et un autre près de Taugosz. Ensuite, vous devez parler quatre fois à Ardenor pour que l'histoire se déroule."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1892,
+        "description": "This small mod modifies the 2nd-level mage spell Knock to allow it to also disarm traps within a limited range.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce petit mod modifie le sort de mage de 2ème niveau Déblocage pour lui permettre de désarmorcer également les pièges dans un rayon d'action limité."
         },
         "notes": [],
         "notes_meta": {

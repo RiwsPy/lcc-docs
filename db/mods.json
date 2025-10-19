@@ -7076,7 +7076,7 @@
     {
         "id": 213,
         "name": "Cast find familiar, and choose any",
-        "description": "Ce petit mod permet de choisir le familier de son choix.",
+        "description": "Ce petit mod permet, une fois le sort Familier lancé, de choisir le familier de son choix.",
         "urls": [
             "https://www.shsforums.net/files/file/890-bg-cast-find-familiar-and-choose-any/"
         ],
@@ -7163,7 +7163,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est désormais inclu dans [[504]]."
+            "Ce mod est désormais inclus dans [[504]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -11267,7 +11267,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod a été inclu dans [[1305]] du même auteur."
+            "Ce mod a été inclus dans [[1305]] du même auteur."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -12886,12 +12886,12 @@
     {
         "id": 388,
         "name": "Experience Corrections",
-        "description": "Ascension64, l'auteur de [[148]], a réalisé deux corrections de défauts du moteur de jeu de Baldur's Gate II. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières. Celle-ci concerne l'attribution correcte des points d'expérience.",
+        "description": "Ce mod propose deux corrections de défauts du moteur de jeu de Baldur's Gate II qui concerne l'attribution d'expérience du groupe. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières.",
         "urls": [
             "https://www.shsforums.net/files/file/518-bg2-experience-corrections-3/"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "Tutu",
@@ -12903,7 +12903,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "de",
@@ -13637,8 +13637,9 @@
     {
         "id": 411,
         "name": "Flamewing's Tweaks",
-        "description": "Anciennement [Convenience Tweaks and Glaicas Fix](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/), ce mod a été adapté aux jeux EE. Il s'agit d'une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants :|- Toujours gagner contre Aesgareth|- Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse|- Rendre la Machine de Lum le Fou plus facile à utiliser|- Libérer plus facilement Glaicas de son charme|- Les armes de jet ne bénéficient plus de bonus de force au toucher",
+        "description": "Anciennement `Convenience Tweaks and Glaicas Fix`, ce mod est une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants :|- Toujours gagner contre Aesgareth|- Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse|- Rendre la Machine de Lum le Fou plus facile à utiliser|- Libérer plus facilement Glaicas de son charme|- Les armes de jet ne bénéficient plus de bonus de force au toucher",
         "urls": [
+            "https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/",
             "https://github.com/flamewing/m7tweaks/"
         ],
         "categories": [
@@ -19687,7 +19688,7 @@
     },
     {
         "id": 595,
-        "name": "Kenan's Blade",
+        "name": "Kenan's First Blade",
         "description": "Ce mini mod ajoute au magasin de Ribald un katana +3 ayant 15 % de chances de rendre sa cible silencieuse à chaque coup porté.",
         "urls": [
             "https://www.shsforums.net/topic/40737-kenans-blade/"
@@ -20310,7 +20311,7 @@
     {
         "id": 614,
         "name": "Konalan's Tweaks",
-        "description": "Ce mod propose une collection d'ajustements pour BG2. Il est modulaire et contient des correctifs de profils, d'objets, des ajouts amusants, et des modifications de règles. Veuillez bien lire son readme avant d'installer ses composants.|Il inclue notamment les anciens mods [[1058]], [[893]] et Konalan's Wizard Slayer Enhancements, du même auteur.",
+        "description": "Ce mod propose une collection d'ajustements. Il est modulaire et contient des correctifs de profils, d'objets, des ajouts amusants, et des modifications de règles. Veuillez bien lire son readme avant d'installer ses composants.|Il inclue notamment les anciens mods [[1058]], [[893]] et [[1889]], du même auteur.",
         "urls": [
             "https://www.shsforums.net/files/file/706-konalans-tweaks/"
         ],
@@ -21804,7 +21805,7 @@
         "description": "Ce mod revisite des scripts de combat, les agrémentant de quelques touches rapides et modes semi-automatiques.",
         "urls": [
             "https://www.shsforums.net/files/file/742-macholys-teammates-fight-scripts-v31/",
-            "https://trow.cc/board/showtopic=15651&hl=Macholy"
+            "https://trow.cc/board/showtopic=15651"
         ],
         "categories": [
             "Script et tactique"
@@ -29891,7 +29892,7 @@
             "EET"
         ],
         "authors": [
-            "Coco_Pliz"
+            "vilkacis"
         ],
         "team": [],
         "notes": [],
@@ -41752,6 +41753,7 @@
         "description": "Un combattant agile, maître de la vitesse. Léger et libre de ses mouvements, il peut se hâter pour frapper avec une rapidité fulgurante tout en ralentissant ses ennemis. Cependant, ce guerrier sacrifie toute armure et protection lourde pour conserver sa mobilité exceptionnelle.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/5268-riskbreaker-kit-version-3-released/",
+            "https://www.shsforums.net/topic/18105-riskbreaker-kit-version-2-released/",
             "https://github.com/Plutonium-X/KIT_Riskbreaker"
         ],
         "categories": [
@@ -42229,7 +42231,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod a été inclu dans [[302]] du même auteur."
+            "Ce mod a été inclus dans [[302]] du même auteur."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -45560,7 +45562,7 @@
         "team": [],
         "notes": [
             "Ne fonctionne qu'avec qu'une version 2.6, ni plus ni moins. Et seulement avec un exécutable Windows !",
-            "Inclu dans [[1525]]."
+            "Inclus dans [[1525]]."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -49660,7 +49662,8 @@
             "BGT"
         ],
         "authors": [
-            "MajorTomSawyer"
+            "MajorTomSawyer",
+            "WizWom"
         ],
         "team": [],
         "notes": [
@@ -54752,7 +54755,7 @@
             "EET"
         ],
         "authors": [
-            "Drake127"
+            "drake127"
         ],
         "team": [],
         "notes": [
@@ -57263,7 +57266,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -61219,5 +61222,122 @@
         "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "A7-MultiKits"
+    },
+    {
+        "id": 1889,
+        "name": "Konalan's Wizard Slayer Enhancements",
+        "description": "Ce mod revisite le kit de Tueur de magiciens. Il augmente notamment sa résistance à la magie,  ses jets de sauvegardes contre les Sorts et ajoute de nouvelles HLA. Ses restrictions d'utilisation d'objet a également été revue.",
+        "urls": [
+            "https://www.shsforums.net/topic/35122-konalans-wizard-slayer-enhancements/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Konalan"
+        ],
+        "team": [],
+        "notes": [
+            "Inclus dans [[614]]."
+        ],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "obsolete",
+        "last_update": "2008-07",
+        "compatibilities": {},
+        "tp2": "KonWSE"
+    },
+    {
+        "id": 1890,
+        "name": "vGur's Unfinished Business",
+        "description": "Ce mod propose de nouvelles animations et des armes. Il contient notamment une nouvelle animation à deux mains pour Ninja-to ainsi qu'une nouvelle arme médiévale : le `Piercer`, utilisée contre les armures lourdes.",
+        "urls": [
+            "https://www.shsforums.net/topic/42229-vgurs-unfinished-business-ub-demoii/"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "Tutu",
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "@vGur"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": "wip",
+        "last_update": "2009-09",
+        "compatibilities": {},
+        "tp2": "UB-Demo2"
+    },
+    {
+        "id": 1891,
+        "name": "Ardenor's True Power",
+        "description": "Ce petit mod pas très sérieux ajoute un dialogue dans le Camp des bandits. L'auteur vous recommande de placer un membre du groupe près de la grotte des gnolls et un autre près de Taugosz. Ensuite, vous devez parler quatre fois à Ardenor pour que l'histoire se déroule.",
+        "urls": [
+            "https://www.shsforums.net/topic/45706-ardenors-true-power/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "Tutu"
+        ],
+        "authors": [
+            "Ipsissimus"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2010-08",
+        "compatibilities": {},
+        "tp2": "ATP"
+    },
+    {
+        "id": 1892,
+        "name": "Altered Knock spell Mod",
+        "description": "Ce petit mod modifie le sort de mage de 2ème niveau Déblocage pour lui permettre de désarmorcer également les pièges dans un rayon d'action limité.",
+        "urls": [
+            "https://www.shsforums.net/topic/41138-altered-knock-spell-mod/"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "sotona"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2009-06",
+        "compatibilities": {},
+        "tp2": "ce#knock"
     }
 ]

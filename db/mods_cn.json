@@ -3113,8 +3113,8 @@
         "id": 213,
         "description": "这个小型模组允许你选择你想要的使魔。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce petit mod permet de choisir le familier de son choix."
+            "status": "needs_review",
+            "source": "Ce petit mod permet, une fois le sort Familier lancé, de choisir le familier de son choix."
         },
         "notes": [],
         "notes_meta": {
@@ -3148,7 +3148,7 @@
         "notes_meta": {
             "status": "done",
             "source": [
-                "Ce mod est désormais inclu dans [[504]]."
+                "Ce mod est désormais inclus dans [[504]]."
             ]
         }
     },
@@ -4935,7 +4935,7 @@
         "notes_meta": {
             "status": "done",
             "source": [
-                "Ce mod a été inclu dans [[1305]] du même auteur."
+                "Ce mod a été inclus dans [[1305]] du même auteur."
             ]
         }
     },
@@ -5649,8 +5649,8 @@
         "id": 388,
         "description": "Ascension64，[[148]]的作者，对博德之门II的游戏引擎进行了两个缺陷修复。这些修复需要修改游戏的可执行文件，这使得它们非常特殊。这个修复涉及正确分配经验值。",
         "description_meta": {
-            "status": "done",
-            "source": "Ascension64, l'auteur de [[148]], a réalisé deux corrections de défauts du moteur de jeu de Baldur's Gate II. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières. Celle-ci concerne l'attribution correcte des points d'expérience."
+            "status": "needs_review",
+            "source": "Ce mod propose deux corrections de défauts du moteur de jeu de Baldur's Gate II qui concerne l'attribution d'expérience du groupe. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières."
         },
         "notes": [],
         "notes_meta": {
@@ -5979,8 +5979,8 @@
         "id": 411,
         "description": "此模组的前身是[便利性调整与Glaicas修复](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/)，现已适配EE版游戏。这是一个（小型）调整、作弊和修复的集合，它让某些事情比在原版游戏中变得更方便，特别是当您是第100次游玩时。它包含多个组件：|- 总能战胜艾瑟加瑞斯|- 减少从奇迹纸牌游戏中抽到想要物品的次数|- 让疯子卢姆的机器更容易使用|- 更容易解除Glaicas的魅惑|- 投掷武器不再获得力量命中加成",
         "description_meta": {
-            "status": "done",
-            "source": "Anciennement [Convenience Tweaks and Glaicas Fix](https://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/), ce mod a été adapté aux jeux EE. Il s'agit d'une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants :|- Toujours gagner contre Aesgareth|- Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse|- Rendre la Machine de Lum le Fou plus facile à utiliser|- Libérer plus facilement Glaicas de son charme|- Les armes de jet ne bénéficient plus de bonus de force au toucher"
+            "status": "needs_review",
+            "source": "Anciennement `Convenience Tweaks and Glaicas Fix`, ce mod est une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants :|- Toujours gagner contre Aesgareth|- Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse|- Rendre la Machine de Lum le Fou plus facile à utiliser|- Libérer plus facilement Glaicas de son charme|- Les armes de jet ne bénéficient plus de bonus de force au toucher"
         },
         "notes": [
             "注意，最后一个组件在模组的最新版本中缺失。"
@@ -8910,8 +8910,8 @@
         "id": 614,
         "description": "此模组为BG2提供了一系列调整。它是模块化的，包含角色档案、物品修复、有趣的添加和规则修改。在安装其组件之前，请务必仔细阅读其自述文件。|它特别包含了作者以前的模组[[1058]]、[[893]]和Konalan的法师杀手增强版。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod propose une collection d'ajustements pour BG2. Il est modulaire et contient des correctifs de profils, d'objets, des ajouts amusants, et des modifications de règles. Veuillez bien lire son readme avant d'installer ses composants.|Il inclue notamment les anciens mods [[1058]], [[893]] et Konalan's Wizard Slayer Enhancements, du même auteur."
+            "status": "needs_review",
+            "source": "Ce mod propose une collection d'ajustements. Il est modulaire et contient des correctifs de profils, d'objets, des ajouts amusants, et des modifications de règles. Veuillez bien lire son readme avant d'installer ses composants.|Il inclue notamment les anciens mods [[1058]], [[893]] et [[1889]], du même auteur."
         },
         "notes": [
             "有些人成功在博德之门2：增强版上安装了它，但它并非为此而编写。因此，如果您尝试在增强版游戏上安装，请自行承担风险！"
@@ -18522,7 +18522,7 @@
         "notes_meta": {
             "status": "done",
             "source": [
-                "Ce mod a été inclu dans [[302]] du même auteur."
+                "Ce mod a été inclus dans [[302]] du même auteur."
             ]
         }
     },
@@ -19956,7 +19956,7 @@
             "status": "done",
             "source": [
                 "Ne fonctionne qu'avec qu'une version 2.6, ni plus ni moins. Et seulement avec un exécutable Windows !",
-                "Inclu dans [[1525]]."
+                "Inclus dans [[1525]]."
             ]
         }
     },
@@ -27194,6 +27194,60 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod vous permet d'installer toutes sortes de kits multiclassés authentiques à partir de n'importe quelle combinaison de kits monoclassés, ce qui permet des combinaisons inhabituelles telles que Kensaï/Assassin ou Berserker/Entropiste/Bretteur. Les kits personnalisés provenant de mods sont également pris en compte s'ils sont détectés."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1889,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod revisite le kit de Tueur de magiciens. Il augmente notamment sa résistance à la magie,  ses jets de sauvegardes contre les Sorts et ajoute de nouvelles HLA. Ses restrictions d'utilisation d'objet a également été revue."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Inclus dans [[614]]."
+            ]
+        }
+    },
+    {
+        "id": 1890,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose de nouvelles animations et des armes. Il contient notamment une nouvelle animation à deux mains pour Ninja-to ainsi qu'une nouvelle arme médiévale : le `Piercer`, utilisée contre les armures lourdes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1891,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce petit mod pas très sérieux ajoute un dialogue dans le Camp des bandits. L'auteur vous recommande de placer un membre du groupe près de la grotte des gnolls et un autre près de Taugosz. Ensuite, vous devez parler quatre fois à Ardenor pour que l'histoire se déroule."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1892,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce petit mod modifie le sort de mage de 2ème niveau Déblocage pour lui permettre de désarmorcer également les pièges dans un rayon d'action limité."
         },
         "notes": [],
         "notes_meta": {
