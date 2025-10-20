@@ -2008,10 +2008,10 @@
     },
     {
         "id": 137,
-        "description": "This mod reduces the impact of several major mod installations during the course of the game. You can reduce the experience points earned for learning spells, disarming traps and pickpocketing. Likewise, you can remove certain overly powerful items from the [[287]], [[761]], [[1084]], [[1064]] and NPC-Tweaks mods.",
+        "description": "This mod reduces the impact of several major mod installations during the course of the game. You can reduce the experience points earned for learning spells, disarming traps and pickpocketing. Likewise, you can remove certain overly powerful items from the [[287]], [[761]], [[1084]], [[1064]].",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]], NPC-Tweaks."
+            "source": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]]."
         },
         "notes": [],
         "notes_meta": {
@@ -6445,13 +6445,11 @@
             "source": "Il s'agit d'un mod pornographique qui propose plusieurs composants dont un système de prostitution, quelques objets pour adultes..."
         },
         "notes": [
-            "[Kelsey NPC MOD for Baldur's Gate 2]] seems to be required.",
             "Beware, the content is explicit."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "[[594]] semble requis.",
                 "Attention, le contenu est explicite."
             ]
         }
@@ -6753,10 +6751,10 @@
     },
     {
         "id": 469,
-        "description": "This German mod seems to have disappeared.",
+        "description": "",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod allemand semble avoir disparu."
+            "status": "done",
+            "source": ""
         },
         "notes": [],
         "notes_meta": {
@@ -16962,13 +16960,11 @@
             "source": "Ce mod fait la part belle aux morts-vivants dans la Saga. Vous pouvez devenir mort-vivant, en accueillir dans votre groupe, embaucher Bodhi après l'avoir tuée..."
         },
         "notes": [
-            "[Enhanced Edition Trilogy]] is required.",
             "A request has been made to shs to host it on their github, to be continued."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "[[372]] est requis.",
                 "Une requête a été passé à shs pour l'héberger sur leur github, à suivre."
             ]
         }
@@ -17101,7 +17097,7 @@
         "description": "Still puzzled by the game's inconsistency on reputation coding, which doesn't affect alignment? Well, this mod solves the problem in an original way by creating a third variable, \"virtue\" (the team's morality, to be distinguished from reputation, i.e. how the NPCs feel about you) which, if lowered, will logically modify your alignment. New dialogs have been added concerning your group's reactions to changes in your \"virtue\". Now all your actions will have consequences (fallen lurkers or paladins, abandonment by your NPCs...).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Toujours étonné de l'incohérence du jeu sur le codage de la réputation qui n'influe pas sur l'alignement ? Eh bien ce mod résout le tout de manière original en créant une troisième variable, la \"vertu\" (la moralité de l'équipe, à différencier de la réputation, c'est à dire ce que ressentent les PNJ à votre égard) qui, si elle baisse, modifiera votre alignement, en toute logique. De nouveaux dialogues ont été ajoutés concernant les évolutions les réactions de votre groupe face à l'évolution de votre \"vertu\". Maintenant tous vos gestes auront des conséquences (rôdeurs ou paladins déchus, abandon par vos PNJ...)."
+            "source": "Toujours étonné de l'incohérence du jeu sur le codage de la réputation qui n'influe pas sur l'alignement ? Eh bien ce mod résout le tout de manière originale en créant une troisième variable, la \"vertu\" (la moralité de l'équipe, à différencier de la réputation, c'est à dire ce que ressentent les PNJ à votre égard) qui, si elle baisse, modifiera votre alignement, en toute logique. De nouveaux dialogues ont été ajoutés concernant les évolutions les réactions de votre groupe face à l'évolution de votre \"vertu\". Maintenant tous vos gestes auront des conséquences (rôdeurs ou paladins déchus, abandon par vos PNJ...)."
         },
         "notes": [
             "It must be installed last, and is not compatible with BGT."
@@ -23412,14 +23408,10 @@
             "status": "needs_review",
             "source": "Les mages standard peuvent se spécialiser après coup (et garder dans leur livre de sorts les sorts interdits par leur nouvelle spécialisation.)"
         },
-        "notes": [
-            "at"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "en"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -24832,7 +24824,7 @@
         "description": "This file, to be copied into the override, gives an unlimited supply of potions and/or projectiles of all kinds to five in-game merchants.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce fichier à copier dans l'override donne un stock illimités de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu."
+            "source": "Ce fichier à copier dans l'override donne un stock illimité de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu."
         },
         "notes": [],
         "notes_meta": {

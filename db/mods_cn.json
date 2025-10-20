@@ -2029,8 +2029,8 @@
         "id": 137,
         "description": "此模组旨在减少多个大型模组在游戏过程中的影响。您可以降低学习法术、解除陷阱、开锁所获得的经验值。同样，您可以从模组[[287]]、[[761]]、[[1084]]、[[1064]]、NPC-Tweaks中移除某些过于强大的物品。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]], NPC-Tweaks."
+            "status": "needs_review",
+            "source": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]]."
         },
         "notes": [],
         "notes_meta": {
@@ -6505,13 +6505,11 @@
             "source": "Il s'agit d'un mod pornographique qui propose plusieurs composants dont un système de prostitution, quelques objets pour adultes..."
         },
         "notes": [
-            "[[594]] 似乎是必需的。",
             "注意，内容是露骨的。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "[[594]] semble requis.",
                 "Attention, le contenu est explicite."
             ]
         }
@@ -6816,10 +6814,10 @@
     },
     {
         "id": 469,
-        "description": "这个德语模组似乎已经消失了。",
+        "description": "",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod allemand semble avoir disparu."
+            "source": ""
         },
         "notes": [],
         "notes_meta": {
@@ -17107,13 +17105,11 @@
             "source": "Ce mod fait la part belle aux morts-vivants dans la Saga. Vous pouvez devenir mort-vivant, en accueillir dans votre groupe, embaucher Bodhi après l'avoir tuée..."
         },
         "notes": [
-            "需要[[372]]。",
             "已向shs提交请求，希望他们能将其托管在他们的GitHub上，有待后续跟进。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "[[372]] est requis.",
                 "Une requête a été passé à shs pour l'héberger sur leur github, à suivre."
             ]
         }
@@ -17246,7 +17242,7 @@
         "description": "你是否总是对游戏中声誉编码的不一致感到惊讶，即声誉不影响阵营？嗯，这个模组以一种独特的方式解决了这个问题，它创建了一个第三个变量——“美德”（团队的道德观，需要与声誉区分开，即NPC对你的感受），如果它下降，会合乎逻辑地改变你的阵营。添加了新的对话，涉及你的队友在“美德”变化时的反应。现在，你的每一个举动都会有后果（堕落游侠或圣武士，被NPC抛弃……）。",
         "description_meta": {
             "status": "done",
-            "source": "Toujours étonné de l'incohérence du jeu sur le codage de la réputation qui n'influe pas sur l'alignement ? Eh bien ce mod résout le tout de manière original en créant une troisième variable, la \"vertu\" (la moralité de l'équipe, à différencier de la réputation, c'est à dire ce que ressentent les PNJ à votre égard) qui, si elle baisse, modifiera votre alignement, en toute logique. De nouveaux dialogues ont été ajoutés concernant les évolutions les réactions de votre groupe face à l'évolution de votre \"vertu\". Maintenant tous vos gestes auront des conséquences (rôdeurs ou paladins déchus, abandon par vos PNJ...)."
+            "source": "Toujours étonné de l'incohérence du jeu sur le codage de la réputation qui n'influe pas sur l'alignement ? Eh bien ce mod résout le tout de manière originale en créant une troisième variable, la \"vertu\" (la moralité de l'équipe, à différencier de la réputation, c'est à dire ce que ressentent les PNJ à votre égard) qui, si elle baisse, modifiera votre alignement, en toute logique. De nouveaux dialogues ont été ajoutés concernant les évolutions les réactions de votre groupe face à l'évolution de votre \"vertu\". Maintenant tous vos gestes auront des conséquences (rôdeurs ou paladins déchus, abandon par vos PNJ...)."
         },
         "notes": [
             "它必须最后安装，并且与BGT不兼容。"
@@ -23620,14 +23616,10 @@
             "status": "done",
             "source": "Les mages standard peuvent se spécialiser après coup (et garder dans leur livre de sorts les sorts interdits par leur nouvelle spécialisation.)"
         },
-        "notes": [
-            "英文"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "en"
-            ]
+            "source": []
         }
     },
     {
@@ -25042,7 +25034,7 @@
         "description": "将此文件复制到override文件夹中，可以为游戏中的五个商人提供无限量的各种药水和/或投射物。",
         "description_meta": {
             "status": "done",
-            "source": "Ce fichier à copier dans l'override donne un stock illimités de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu."
+            "source": "Ce fichier à copier dans l'override donne un stock illimité de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu."
         },
         "notes": [],
         "notes_meta": {

@@ -1215,8 +1215,7 @@
             "https://almrep.blogspot.com/p/almaquest-2.html"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -3674,7 +3673,7 @@
         "languages": [
             "de"
         ],
-        "status": "missing",
+        "status": "hidden",
         "last_update": "",
         "compatibilities": {},
         "tp2": ""
@@ -4619,7 +4618,7 @@
     {
         "id": 137,
         "name": "BP-Balancer",
-        "description": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]], NPC-Tweaks.",
+        "description": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]].",
         "urls": [
             "https://www.shsforums.net/files/file/493-bp-balancer/",
             "https://github.com/Spellhold-Studios/BP-Balancer/"
@@ -11080,7 +11079,7 @@
             "https://www.mediafire.com/file/vj699du6a4ka55j/phord_druidkits.zip/file"
         ],
         "categories": [
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -11388,7 +11387,7 @@
             "https://forums.beamdog.com/discussion/68767/"
         ],
         "categories": [
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -14827,19 +14826,17 @@
             "Gameplay"
         ],
         "games": [
-            "BG2",
-            "BGT"
+            "BG2"
         ],
         "authors": [
             "Ggib Eht"
         ],
         "team": [],
         "notes": [
-            "[[594]] semble requis.",
             "Attention, le contenu est explicite."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -15542,7 +15539,7 @@
     {
         "id": 469,
         "name": "Harden Coonors Tutu-AddOn",
-        "description": "Ce mod allemand semble avoir disparu.",
+        "description": "",
         "urls": [
             "http://www.rosenranken.de/index.php?board=36;action=display;threadid=4719"
         ],
@@ -15558,7 +15555,7 @@
         "translation_state": "auto",
         "safe": 1,
         "languages": [],
-        "status": "missing",
+        "status": "hidden",
         "last_update": "",
         "compatibilities": {},
         "tp2": ""
@@ -20283,7 +20280,7 @@
         ],
         "categories": [
             "Kit",
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -21625,7 +21622,8 @@
             "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/LuizMods.rar"
         ],
         "categories": [
-            "Gameplay"
+            "Kit",
+            "Portrait et son"
         ],
         "games": [
             "BG2",
@@ -23015,7 +23013,7 @@
             "https://www.gibberlings3.net/mods/kits/mkr/"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "BG2",
@@ -23614,8 +23612,7 @@
             "https://github.com/Plutonium-X/MISC_Mortis"
         ],
         "categories": [
-            "Forgeron et marchand",
-            "Gameplay"
+            "Forgeron et marchand"
         ],
         "games": [
             "BG2",
@@ -26577,7 +26574,7 @@
         "translation_state": "auto",
         "safe": 0,
         "languages": [],
-        "status": "missing",
+        "status": "hidden",
         "last_update": "2016-04",
         "compatibilities": {},
         "tp2": ""
@@ -27071,7 +27068,7 @@
             "https://github.com/Gibberlings3/PnP_Celestials"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -28577,7 +28574,7 @@
         ],
         "categories": [
             "Quête",
-            "Gameplay"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -29011,7 +29008,7 @@
             "https://www.shsforums.net/files/file/637-restored-tob-heads/"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "BG2",
@@ -30286,8 +30283,7 @@
             "https://forums.beamdog.com/discussion/28623/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -30518,8 +30514,7 @@
             "https://www.shsforums.net/files/file/1023-cleric-class-kit-scion-of-murder/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2EE",
@@ -31711,8 +31706,7 @@
             "https://www.pocketplane.net/sixs-kitpack/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -32244,7 +32238,7 @@
             "https://www.gibberlings3.net/forums/topic/31405-some-individuals-mod-for-soatutu-or-possibly-only-for-ee/"
         ],
         "categories": [
-            "Gameplay"
+            "Cosmétique"
         ],
         "games": [
             "BGEE",
@@ -38250,7 +38244,7 @@
             "https://forums.beamdog.com/discussion/65617/"
         ],
         "categories": [
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -38921,7 +38915,7 @@
             "https://www.shsforums.net/files/file/1088-valorious-manual-for-the-incompetent-and-the-mundane-adventurer/"
         ],
         "categories": [
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -38999,7 +38993,6 @@
         ],
         "team": [],
         "notes": [
-            "[[372]] est requis.",
             "Une requête a été passé à shs pour l'héberger sur leur github, à suivre."
         ],
         "translation_state": "auto",
@@ -39009,7 +39002,11 @@
         ],
         "status": "active",
         "last_update": "2017-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                372
+            ]
+        },
         "tp2": "Vampire_World"
     },
     {
@@ -39301,7 +39298,7 @@
     {
         "id": 1186,
         "name": "Virtue",
-        "description": "Toujours étonné de l'incohérence du jeu sur le codage de la réputation qui n'influe pas sur l'alignement ? Eh bien ce mod résout le tout de manière original en créant une troisième variable, la \"vertu\" (la moralité de l'équipe, à différencier de la réputation, c'est à dire ce que ressentent les PNJ à votre égard) qui, si elle baisse, modifiera votre alignement, en toute logique. De nouveaux dialogues ont été ajoutés concernant les évolutions les réactions de votre groupe face à l'évolution de votre \"vertu\". Maintenant tous vos gestes auront des conséquences (rôdeurs ou paladins déchus, abandon par vos PNJ...).",
+        "description": "Toujours étonné de l'incohérence du jeu sur le codage de la réputation qui n'influe pas sur l'alignement ? Eh bien ce mod résout le tout de manière originale en créant une troisième variable, la \"vertu\" (la moralité de l'équipe, à différencier de la réputation, c'est à dire ce que ressentent les PNJ à votre égard) qui, si elle baisse, modifiera votre alignement, en toute logique. De nouveaux dialogues ont été ajoutés concernant les évolutions les réactions de votre groupe face à l'évolution de votre \"vertu\". Maintenant tous vos gestes auront des conséquences (rôdeurs ou paladins déchus, abandon par vos PNJ...).",
         "urls": [
             "https://www.pocketplane.net/virtue/"
         ],
@@ -47126,7 +47123,7 @@
             "https://github.com/szaumoor/ZS_ShadowdancerOverhaul"
         ],
         "categories": [
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -49827,7 +49824,6 @@
             "https://america.iegmc.com/marchmod/march_mod.zip"
         ],
         "categories": [
-            "Gameplay",
             "Quête"
         ],
         "games": [
@@ -50194,7 +50190,7 @@
             "https://github.com/Bubb13/IE-Snippets"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "BGEE",
@@ -53436,9 +53432,7 @@
             "temnix"
         ],
         "team": [],
-        "notes": [
-            "en"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -55334,7 +55328,7 @@
             "https://forums.beamdog.com/discussion/30387"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "BGEE",
@@ -55348,7 +55342,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -55482,7 +55476,7 @@
             "https://forums.beamdog.com/discussion/40699"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -55494,7 +55488,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2015-04",
@@ -56475,7 +56469,7 @@
     {
         "id": 1733,
         "name": "Store revisions",
-        "description": "Ce fichier à copier dans l'override donne un stock illimités de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu.",
+        "description": "Ce fichier à copier dans l'override donne un stock illimité de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu.",
         "urls": [
             "https://www.dropbox.com/scl/fi/wlcfgfps1jzbuafq37fdr/store_revisions.tpa?rlkey=j7qovdw73p5rz3ry044pw0d44&e=1&dl=0"
         ],
@@ -57285,7 +57279,7 @@
         "languages": [
             "en"
         ],
-        "status": "missing",
+        "status": "hidden",
         "last_update": "2006-08",
         "compatibilities": {},
         "tp2": "SQUAREMOD"
@@ -57715,7 +57709,7 @@
             "https://baldur.cob-bg.pl/download/applications/BG_Fight_v1.4.rar"
         ],
         "categories": [
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BG2"
