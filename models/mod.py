@@ -155,7 +155,7 @@ class Mod:
         note = 2
         if self.is_outdated:
             note -= 1
-        if not self.is_weidu:
+        if not self.is_weidu and CategoryEnum.PARTY_PERSONNALISATION not in self.categories:
             note -= 1
         if "temnix" in self.authors:  # déso
             note -= 1
