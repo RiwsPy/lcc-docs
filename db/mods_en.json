@@ -12679,14 +12679,10 @@
             "status": "needs_review",
             "source": "Si vous regrettez la sublime musique de BG1 que vous pouviez entendre lors du tout premier écran de texte racontant le début de votre histoire, ainsi que pendant les rêves, ce mod vous permet de la restaurer. À réserver aux utilisateurs de BGT et de Tutu qui sont prêts à télécharger 18 Mo juste pour l'écran d'introduction."
         },
-        "notes": [
-            "You need to download both parts of the mod before installing it: the main component (first link) and the French content (second link)."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Vous devez télécharger les deux parties du mod avant de l'installer : le composant principal (premier lien) et le contenu français (second lien)."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -12694,7 +12690,7 @@
         "description": "This little mod restores the missing dialogs from the heads to the ToB introduction.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce petit mod restaure les dialogues manquants des tête à l'introduction de ToB."
+            "source": "Ce petit mod restaure les dialogues manquants des têtes à l'introduction de ToB."
         },
         "notes": [
             "This mod is included in [[1213]]."
@@ -15697,10 +15693,10 @@
     },
     {
         "id": 1087,
-        "description": "This mod adds a short quest in Throne of Bhaal (this mod is therefore not available to those using only Baldur's Gate 2 - Shadows of Amn without the expansion). More precisely, it's triggered in Bhaal's Pocket Plane, once you've brought Sarevok back to life. For the quest to begin, Imoen must be in your party. It's your mischievous sister who will trigger it by committing one of her stupid deeds. Among other things, you'll be treated to a fight, followed by a brand-new magical item as a reward for your efforts.",
+        "description": "This mod adds a short quest in Throne of Bhaal. More precisely, it's triggered in Bhaal's Pocket Plane, once you've brought Sarevok back to life. For the quest to begin, Imoen must be in your party. It's your mischievous sister who will trigger it by committing one of her stupid deeds. Among other things, you'll be treated to a fight, followed by a brand-new magical item as a reward for your efforts.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute une courte quête dans Throne of Bhaal (ce mod n'est donc pas disponible pour ceux n'utilisant que Baldur's Gate 2 - Shadows of Amn sans l'extension). Plus précisément, elle se déclenche dans l'Antichambre de Bhaal, une fois que vous avez rendu vie à Sarevok. Pour que la quête commence, Imoen doit être dans votre groupe. c'est votre chipie de sœur qui, en effet, va la déclencher en commettant une de ses bêtises. Vous aurez entre autres droit à un combat, puis à un objet magique inédit reçu en récompense pour vos efforts."
+            "source": "Ce mod ajoute une courte quête dans Throne of Bhaal. Plus précisément, elle se déclenche dans l'Antichambre de Bhaal, une fois que vous avez rendu vie à Sarevok. Pour que la quête commence, Imoen doit être dans votre groupe. c'est votre chipie de sœur qui, en effet, va la déclencher en commettant une de ses bêtises. Vous aurez entre autres droit à un combat, puis à un objet magique inédit reçu en récompense pour vos efforts."
         },
         "notes": [],
         "notes_meta": {
@@ -16490,7 +16486,7 @@
         "description": "This mod gives meaning to the encounter with the members of the Twisted Rune. In EET, the story begins in the BG section. If you only play BG2:EE, you'll know what you've learned in BG and SoD. There's also a link to Balthazar in ToB that appears in the original game but was never explained (you need to own a bastion to trigger it).|There's no linear storyline, it's more of a puzzle where you find elements of the tableau as you go along, which may give you a vague idea of an organization secretly operating in Faerûn. The Rune has no interest in Bhaal's offspring as such, and the mod mainly provides a link between events that originally seemed unrelated.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod donne du sens à la rencontre avec les membres de la Rune Tordue. Dans EET, l'histoire commence dans la partie BG. Si vous jouer uniquement avec BG2:EE, vous aurez connaissance de ce que vous auriez appris dans BG et SoD. Il existe également un lien avec Balthazar dans ToB qui apparaît dans le jeu original mais qui n'y a jamais été expliqué (il faut être propriétaire d'un bastion pour le déclencher).|Il n'y a pas de scénario linéaire, il s'agit plutôt d'un puzzle où vous trouvez des éléments du tableau au fur et à mesure de votre aventure, ce qui peut vous donner une vague idée d'une organisation opérant secrètement dans Féérune. La Rune n'a aucun intérêt pour le rejeton de Bhaal en tant que tel, et le mod fournit principalement un lien entre des événements qui semblaient à l'origine sans rapport."
+            "source": "Ce mod donne du sens à la rencontre avec les membres de la Rune Tordue. Dans EET, l'histoire commence dans la partie BG. Si vous jouez uniquement avec BG2:EE, vous aurez connaissance de ce que vous auriez appris dans BG et SoD. Il existe également un lien avec Balthazar dans ToB qui apparaît dans le jeu original mais qui n'y a jamais été expliqué (il faut être propriétaire d'un bastion pour le déclencher).|Il n'y a pas de scénario linéaire, il s'agit plutôt d'un puzzle où vous trouvez des éléments du tableau au fur et à mesure de votre aventure, ce qui peut vous donner une vague idée d'une organisation opérant secrètement dans Féérune. La Rune n'a aucun intérêt pour le rejeton de Bhaal en tant que tel, et le mod fournit principalement un lien entre des événements qui semblaient à l'origine sans rapport."
         },
         "notes": [],
         "notes_meta": {
@@ -17068,10 +17064,10 @@
     },
     {
         "id": 1184,
-        "description": "Difficult to live with, Vienxay is a neutral evil, elf-magician who has been banished from her homeland. Falsely accused of murder, or so she claims, she wanders the Sword Coast, first in quest of vengeance, then of purpose, then of home. In the saga, you can help or hinder each of these stages, as you see fit, although she'll complain if she doesn't agree.|Her alignment can lean towards absolute neutral in BG1 and SoD, as well as in BG2. As her alignment is not memorized when she switches to BG2, she will fall back into old habits and dangerous choices in BG2, and will need the protagonist's advice and friendship or love to overcome her own darkness.|You'll find her outside the Friendly Arm in BG1, and in a cell in SoD. In BG2, she's on the Promenade just outside the Adventurer Mart, about to be arrested. You can then intervene and recruit her, or find her and recruit her later in the prison.",
+        "description": "Difficult to live with, Vienxay is a neutral evil, elf-magician who has been banished from her homeland. Falsely accused of murder, or so she claims, she wanders the Sword Coast, first in quest of vengeance, then of purpose, then of home. In the saga, you can help or hinder each of these stages, as you see fit, although she'll complain if she doesn't agree.|Her alignment can lean towards absolute neutral in BG1 and SoD, as well as in BG2. As her alignment is not memorized when she switches to BG2, she will fall back into old habits and dangerous choices in BG2, and will need the protagonist's advice and friendship or love to overcome her own darkness.|You'll find her outside the Friendly Arm in BG1, and in a cell in SoD. In BG2, she's on the Promenade just outside the Adventurer Mart, about to be arrested. You can then intervene and recruit her, or find her and recruit her later in the prison.|STR 15, DEX 17, CON 10, INT 18, WIS 10, CHA 11.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Difficile à vivre, Vienxay est une elfette magicienne maîtresse des ombres neutre mauvaise qui a été bannie de sa contrée. Faussement accusée de meurtre, du moins selon elle, elle erre sur la Côte des Épées, d'abord en quête de vengeance, puis d'un but, puis de la recherche d'un foyer. Dans la saga, vous pouvez l'aider ou entraver chacune de ces étapes, comme bon vous semble, même si elle se plaindra si elle n'est pas d'accord.|Son alignement peut pencher vers le neutre absolu dans BG1 et SoD ainsi que dans BG2. Son alignement n'étant pas mémorisé lors du passage à BG2, elle retombera dans ses vieilles habitudes et ses choix dangereux dans BG2 et aura besoin des conseils et de l'amitié ou de l'amour du protagoniste pour surmonter sa propre noirceur.|Vous la trouverez à l'extérieur du Bras amical dans BG1, et dans une cellule dans SoD. Dans BG2, elle se trouve sur la Promenade juste devant le Marché des Aventuriers, sur le point d'être arrêtée. Vous pouvez alors intervenir et la recruter, ou la retrouver et la recruter plus tard dans la prison."
+            "source": "Difficile à vivre, Vienxay est une elfette magicienne maîtresse des ombres neutre mauvaise qui a été bannie de sa contrée. Faussement accusée de meurtre, du moins selon elle, elle erre sur la Côte des Épées, d'abord en quête de vengeance, puis d'un but, puis de la recherche d'un foyer. Dans la saga, vous pouvez l'aider ou entraver chacune de ces étapes, comme bon vous semble, même si elle se plaindra si elle n'est pas d'accord.|Son alignement peut pencher vers le neutre absolu dans BG1 et SoD ainsi que dans BG2. Son alignement n'étant pas mémorisé lors du passage à BG2, elle retombera dans ses vieilles habitudes et ses choix dangereux dans BG2 et aura besoin des conseils et de l'amitié ou de l'amour du protagoniste pour surmonter sa propre noirceur.|Vous la trouverez à l'extérieur du Bras amical dans BG1, et dans une cellule dans SoD. Dans BG2, elle se trouve sur la Promenade juste devant le Marché des Aventuriers, sur le point d'être arrêtée. Vous pouvez alors intervenir et la recruter, ou la retrouver et la recruter plus tard dans la prison.|FOR 15, DEX 17, CON 10, INT 18, SAG 10, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -23325,10 +23321,10 @@
     },
     {
         "id": 1624,
-        "description": "Meet Driel: an erudite, ironic and verbose young lady with steely muscles and a comely sword. This soundset is perfectly suited to the children of Chateausuif, with elegant phrases, a deliciously purring accent and enough daring to make bondage-obsessed mages shudder.",
+        "description": "Meet Driel: an erudite, ironic and verbose young lady with steely muscles and a comely sword. This soundset is perfectly suited to the children of Candlekeep, with elegant phrases, a deliciously purring accent and enough daring to make bondage-obsessed mages shudder.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Faites connaissance avec Driel : une jeune fille érudite, ironique et verbeuse, avec une des muscles d'aciers et une épée avenante. Ce jeu de sons convient parfaitement aux enfants de Chateausuif, avec des phrases élégantes, un accent délicieusement ronflant et suffisamment d'audace pour faire frémir les mages obsédés par le bondage."
+            "source": "Faites connaissance avec Driel : une jeune fille érudite, ironique et verbeuse, avec une des muscles d'aciers et une épée avenante. Ce jeu de sons convient parfaitement aux enfants de Château-Suif, avec des phrases élégantes, un accent délicieusement ronflant et suffisamment d'audace pour faire frémir les mages obsédés par le bondage."
         },
         "notes": [],
         "notes_meta": {
@@ -24242,10 +24238,10 @@
     },
     {
         "id": 1689,
-        "description": "The invasion has begun... This mod replaces some of Chateausuif's npcs and creatures with Tyrannoeils.|The download link can be found in the last posts of the thread.",
+        "description": "The invasion has begun... This mod replaces some of Candlekeep's npcs and creatures with Tyrannoeils.|The download link can be found in the last posts of the thread.",
         "description_meta": {
             "status": "needs_review",
-            "source": "L'invasion a commencé... Ce mod replace certains pnjs et créature de Chateausuif par des Tyrannoeils.|Le lien de téléchargement se trouve dans les derniers messages du fil."
+            "source": "L'invasion a commencé... Ce mod replace certains pnjs et créature de Château-Suif par des Tyrannoeils.|Le lien de téléchargement se trouve dans les derniers messages du fil."
         },
         "notes": [],
         "notes_meta": {
@@ -24522,7 +24518,7 @@
         "description": "This infinite magic book (C:CreateItem(\"BLBOOK01\")) allows you to summon and recruit any BGEE/SOD companion, gain any of Bhaal's powers, and buy any normal or magic item available in the game at the unbeatable price of 1 gold coin.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce livre magique infini à se donner par la console (C:CreateItem(\"BLBOOK01\")) permet de convoquer et recruter n'importe quel compagnon de BGEE/SOD, de gagner n'importe quel pouvoir de Bhaal, et d'acheter tout les objets normaux ou magiques disponibles dans le jeu au prix imbattable de 1 pièce d'or."
+            "source": "Ce livre magique infini à se donner par la console (C:CreateItem(\"BLBOOK01\")) permet de convoquer et recruter n'importe quel compagnon de BGEE/SOD, de gagner n'importe quel pouvoir de Bhaal, et d'acheter tous les objets normaux ou magiques disponibles dans le jeu au prix imbattable de 1 pièce d'or."
         },
         "notes": [],
         "notes_meta": {
@@ -24600,7 +24596,7 @@
         "description": "It adds Grazilaxx, an illithid spellcasting npc with many new spells (psionic abilities). She has a voice set but no dialog. You'll find her near the Friendly Arm inn.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce ajoute Grazilaxx, une pnj illithid ensorceleuse avec de nombreux sorts inédits (capacités psioniques). Elle possède un set de voix mais aucun dialogue. Vous la trouverez prêt de l'auberge de Brasamical."
+            "source": "Ce mod ajoute Grazilaxx, une pnj illithid ensorceleuse avec de nombreux sorts inédits (capacités psioniques). Elle possède un set de voix mais aucun dialogue. Vous la trouverez prêt de l'auberge de Brasamical."
         },
         "notes": [
             "To use this mod, you'll need to rename its directory and weidu.exe to \"Uzilnpc\".|This mod installs a TLK file in English."
@@ -24677,7 +24673,7 @@
         "description": "This mod modifies Adoy's Belt to make it immune to all hiatuses. The mod author warns that this is EXTREMELY cheaty.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod modifie la Ceinture d'Adoy pour qu'elle immunise contre tous les hiatus. L'auteur du mod prévient que c'est EXTREMENT cheaté."
+            "source": "Ce mod modifie la Ceinture d'Adoy pour qu'elle immunise contre tous les hiatus. L'auteur du mod prévient que c'est EXTREMEMENT cheaté."
         },
         "notes": [],
         "notes_meta": {
