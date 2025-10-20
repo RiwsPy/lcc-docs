@@ -56,15 +56,9 @@
                     <h2 class="background">{{ _(trans["introduction"]) }}</h2>
                     <div class="text">
                         <div class="intro">
-                            <p>
-                                {{ _(trans["intro1"]) }}
-                            </p>
-                            <p>
-                                {{ _(trans["intro2"]) }}
-                            </p>
-                            <p>
-                                {{ _(trans["intro3"]) }}
-                            </p>
+                            {% for intro in trans["intros"] %}
+                                <p>{{ _(intro) }}</p>
+                            {% endfor %}
                         </div>
                         <p class="title">{{ _(trans["mod_nb"]) }}<strong>{{ mod_length }}</strong></p>
                         <div class="tables">
@@ -99,9 +93,9 @@
                             <div class="warning">
                                 <p class="titre">⚠️ {{ _(trans["wargning_title"]) }} ⚠️</p>
                                 <ul>
-                                    <li>
-                                        {{ _(trans["warning1"]) }}
-                                    </li>
+                                    {% for warning in trans["warnings"] %}
+                                        <li>{{ _(warning) }}</li>
+                                    {% endfor %}
                                 </ul>
                             </div>
                         </div>
