@@ -2221,9 +2221,11 @@
             "status": "done",
             "source": "Ce mod modifie l'aspect des mannequins et des portraits afin de les rendre d'apparence plus gothiques, et se décline en 4 versions. Celle-ci concerne uniquement le jeu BG2 original."
         },
-        "notes": [],
+        "notes": [
+		"已包含在[[1893]]中。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Inclus dans [[1893]]."
             ]
@@ -3914,9 +3916,11 @@
             "status": "done",
             "source": "Cette version du mod comprend des portraits alternatifs pour certains mods de PNJ, afin de les rendre plus conformes au graphisme gothique des PNJ du jeu."
         },
-        "notes": [],
+        "notes": [
+		"已包含在[[1893]]中。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Inclus dans [[1893]]."
             ]
@@ -12174,9 +12178,9 @@
     },
     {
         "id": 839,
-        "description": "此模组添加了一个邪恶牧师宗派，可以施展混乱术、类火球术和类闪电链，并对毒素免疫。他拥有自定义的高阶法师能力。",
+        "description": "该模组新增一个混乱邪恶牧师宗派，可施放混乱术、类火球术与类连环闪电术。|该宗派角色从10级起获得毒素免疫，16级起免疫麻痹与等级吸取效果。|同时配备专属高等级技能。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute un kit de clerc chaotique mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs.|Il devient immunisé au poison à partir du niveau 10 et immunisé à la paralysie et au drain de niveau à partir du niveau 16.|Il a des HLA personnalisées."
         },
         "notes": [],
@@ -20079,9 +20083,9 @@
     },
     {
         "id": 1383,
-        "description": "这个雄心勃勃的模组在阿斯卡特拉添加了一个新区域，你所有来自BG1的老朋友都在那里聚会。他们在那里做什么？他们闲聊、放松和喝酒。数千行对话，每次对话都会改变。根据白天（或夜晚）时间的变化。此模组允许其他模组制作者自行添加NPC。还有一些惊喜。",
+        "description": "这款大型模组在阿斯卡特拉城新增了「水园」区域，汇聚全城名流显贵。他们在此谈天说地、休憩小酌。数千条对话文本会随每次交谈动态更新，并配有昼夜交替的实时演算系统。|该模组同时允许其他制作者为博德之门1的NPC创建扩展组件，这些角色不仅拥有全新台词，更可触发全新任务线乃至同伴间的恋爱剧情，还暗藏诸多意外之喜。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ambitieux ajoute une nouvelle zone dans Athkatla (Water Gardens) où se réunissent toutes les personnes riches et célèbres d'Athkatla. Que font-ils là-bas ? Ils papotent, ils se détentent et boivent. Des milliers de lignes de dialogues qui changent à chaque conversation. Des variations selon l'heure du jour (ou de la nuit).|Ce mod permet également aux moddeurs d'ajouter eux-mêmes des composants pour des PNJ issus de BG1, ils ont de nouvelles répliques et parfois même de nouvelles quêtes ou des romances entre eux. Il y a aussi quelques surprises."
         },
         "notes": [
@@ -22341,9 +22345,9 @@
     },
     {
         "id": 1539,
-        "description": "此模组为角色添加了57个语音包。",
+        "description": "该模组新增57套角色语音包，均为波兰语版本。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute 57 packs de voix pour les personnages, tous en polonais."
         },
         "notes": [],
@@ -27193,9 +27197,9 @@
     },
     {
         "id": 1889,
-        "description": "该模组重新设计了法师杀手职业套组，重点提升其魔法抗性、增强对抗法术的豁免检定，并新增高等级能力。同时对其物品使用限制进行了重新调整。",
+        "description": "该模组对法师杀手职业宗派进行了全面重制：显著提升其魔法抗性、增强对抗法术的豁免检定，并新增专属高等级能力。同时，该职业的物品使用限制亦经过重新调整。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod revisite le kit de Tueur de magiciens. Il augmente notamment sa résistance à la magie, ses jets de sauvegarde contre les Sorts et ajoute de nouvelles HLA. La restriction d'utilisation d'objet a également été revue."
         },
         "notes": [
@@ -27249,9 +27253,9 @@
     },
     {
         "id": 1893,
-        "description": "",
+        "description": "整合了[[150]]号、[[268]]号模组及Baldur's Goth扩展包的综合性模组。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Regroupement des mods [[150]], [[268]] et Baldur's Goth Expansion Pack."
         },
         "notes": [],
