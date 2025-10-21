@@ -24181,9 +24181,9 @@
     },
     {
         "id": 1670,
-        "description": "艾德温、贾希拉、卡立德、凯根、齐冯、明斯克、撒恩的1级版本，适用于剑湾传奇/博德之门1：剑湾传奇。",
+        "description": "该模组支持在主角等级为1级时，以1级状态招募艾德温、贾希拉、卡立德、凯根、齐冯、明斯克、撒恩等队友。需配合[[287]]或[[761]]模组使用（这两个模组会将上述角色等级调整为4级）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod propose de recruter les pnjs Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, Xan au niveau 1 lorsque charname est aussi niveau 1. À utiliser conjointement avec le mod [[287]] ou [[761]], qui met ces personnages au niveau 4."
         },
         "notes": [],
