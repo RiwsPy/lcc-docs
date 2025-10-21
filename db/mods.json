@@ -5039,7 +5039,7 @@
     },
     {
         "id": 150,
-        "name": "Baldur's Goth",
+        "name": "Baldur's Goth II",
         "description": "Ce mod modifie l'aspect des mannequins et des portraits afin de les rendre d'apparence plus gothiques, et se décline en 4 versions. Celle-ci concerne uniquement le jeu BG2 original.",
         "urls": [
             "https://www.shsforums.net/files/file/82-baldurs-goth/"
@@ -5054,13 +5054,15 @@
             "SConrad"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Inclus dans [[1893]]."
+        ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2005-08",
         "compatibilities": {},
         "tp2": "BGothII"
@@ -8889,11 +8891,13 @@
             "MajorTomSawer"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Inclus dans [[1893]]."
+        ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2008-11",
         "compatibilities": {},
         "tp2": "CGoth"
@@ -27648,7 +27652,7 @@
     {
         "id": 839,
         "name": "Prêtre de Bhaal",
-        "description": "Ce mod ajoute un profil de clerc mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs, et est immunisé au poison. Il a des HLA personnalisées.",
+        "description": "Ce mod ajoute un kit de clerc chaotique mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs.|Il devient immunisé au poison à partir du niveau 10 et immunisé à la paralysie et au drain de niveau à partir du niveau 16.|Il a des HLA personnalisées.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=12344",
             "https://github.com/Plutonium-X/KIT_Bhaal"
@@ -27666,7 +27670,7 @@
             "EET"
         ],
         "authors": [
-            "esprit"
+            "Esprit"
         ],
         "team": [],
         "notes": [],
@@ -27677,7 +27681,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "P!Bhaal"
     },
@@ -29995,7 +29999,7 @@
             "IWDEE"
         ],
         "authors": [
-            "esprit"
+            "Esprit"
         ],
         "team": [],
         "notes": [],
@@ -45883,13 +45887,14 @@
     {
         "id": 1383,
         "name": "BG1 NPC in SoA&ToB",
-        "description": "Ce mod ambitieux ajoute une nouvelle zone dans Athkatla où se réunissent tous vos anciens amis de BG1. Que font-ils là-bas ? Ils papotent, ils se détentent et boivent. Des milliers de lignes de dialogues qui changent à chaque conversation. Des variations selon l'heure du jour (ou de la nuit). Ce mod permet aux autres moddeurs d'ajouter eux-mêmes des PNJ. Il y a aussi quelques surprises.",
+        "description": "Ce mod ambitieux ajoute une nouvelle zone dans Athkatla (Water Gardens) où se réunissent toutes les personnes riches et célèbres d'Athkatla. Que font-ils là-bas ? Ils papotent, ils se détentent et boivent. Des milliers de lignes de dialogues qui changent à chaque conversation. Des variations selon l'heure du jour (ou de la nuit).|Ce mod permet également aux moddeurs d'ajouter eux-mêmes des composants pour des PNJ issus de BG1, ils ont de nouvelles répliques et parfois même de nouvelles quêtes ou des romances entre eux. Il y a aussi quelques surprises.",
         "urls": [
             "https://forums.beamdog.com/discussion/82463/",
             "https://github.com/Spellhold-Studios/BG1-NPCs-for-SoA-ToB"
         ],
         "categories": [
-            "PNJ (autre)"
+            "PNJ (autre)",
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -45898,7 +45903,8 @@
             "EET"
         ],
         "authors": [
-            "Smiling Imp"
+            "Smiling Imp",
+            "Arcanecoast Team"
         ],
         "team": [],
         "notes": [
@@ -45918,7 +45924,7 @@
     {
         "id": 1384,
         "name": "Askii's Kits",
-        "description": "Ce mod contient 4 kits.|Le `Capitaine`, guerrier charismatique qui se sert de son autorité pour optimiser les performances de son équipe ou briser moralement son adversaire, doté d'une capacité de résistance importante et d'une protection contre la confusion.|Le `Lanceur de flèchettes`, voleur adroit, sournois et amateur de boisson alcoolisée, il est capable de détourner l'attention de ses adversaires et de lancer des bombes littéralement enivrantes.|Le `Prêtre de Mystra` profite quand à lui d'un bonus sur les temps d'incantation des sorts, il peut également, pendant un tour, augmenter drastiquement le niveau d'enchantement d'une arme. Il a également accès à quelques sorts supplémentaires.|Le `Virtuose` est un mage aussi talentueux que spécialisé, sous entendu inapte à autre chose que lancer des sorts (mais laissons les autres tâches de moindre importance aux gens de moindre importance ?). Il possède un bonus sur les temps d'incantation des sorts et un bonus sur le niveau de mage, en plus de pouvoir mémoriser plus de sorts que ces congénères. En contrepartie, il a un malus sur sa classe d'armure et sur ses jets de sauvegardes (qui augmentent au fil des niveaux). Il ne peut apprendre à manier une arme et subit un malus de 4 en Sagesse.",
+        "description": "Ce mod contient 4 kits.|Le `Capitaine`, guerrier charismatique qui se sert de son autorité pour optimiser les performances de son équipe ou briser moralement son adversaire, doté d'une capacité de résistance importante et d'une protection contre la confusion.|Le `Lanceur de flèchettes`, voleur adroit, sournois et amateur de boisson alcoolisée, il est capable de détourner l'attention de ses adversaires et de lancer des bombes littéralement enivrantes.|Le `Prêtre de Mystra` profite quand à lui d'un bonus sur les temps d'incantation des sorts, il peut également, pendant un tour, augmenter drastiquement le niveau d'enchantement d'une arme. Il a également accès à quelques sorts supplémentaires.|Le `Virtuose` est un mage aussi talentueux que spécialisé, sous entendu inapte à autre chose que lancer des sorts (mais laissons les autres tâches de moindre importance aux gens de moindre importance ?). Il possède un bonus sur les temps d'incantation des sorts et un bonus sur le niveau de mage, en plus de pouvoir mémoriser plus de sorts que ces congénères. En contrepartie, il a un malus sur sa classe d'armure et sur ses jets de sauvegarde (qui augmentent au fil des niveaux). Il ne peut apprendre à manier une arme et subit un malus de 4 en Sagesse.",
         "urls": [
             "https://github.com/fmugra/AskiiKits"
         ],
@@ -50649,7 +50655,7 @@
     {
         "id": 1539,
         "name": "Etamin's Extra Soundsets",
-        "description": "Ce mod ajoute 57 packs de voix pour les personnages.",
+        "description": "Ce mod ajoute 57 packs de voix pour les personnages, tous en polonais.",
         "urls": [
             "https://github.com/Eltamin/etamin-soundsets/"
         ],
@@ -50887,7 +50893,7 @@
     {
         "id": 1547,
         "name": "Fixing Saving throws BUG for Lecgacy of Bhaal difficulty",
-        "description": "Ce mod propose un fix pour la difficulté Legacy Of Bhaal qui ajustait les jets de sauvegardes à 20. Ce mod modifie les scripts de la plupart des créatures, leur permettant de modifier leurs propres jets de sauvegarde au fur et à mesure qu'ils apparaissent.",
+        "description": "Ce mod propose un fix pour la difficulté Legacy Of Bhaal qui ajustait les jets de sauvegarde à 20. Ce mod modifie les scripts de la plupart des créatures, leur permettant de modifier leurs propres jets de sauvegarde au fur et à mesure qu'ils apparaissent.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38985-legacyofbhaalfix-v04-fixing-saving-throws-bug-for-lecgacy-of-bhaal-difficulty",
             "https://github.com/shohysie/LegacyofBhaalFix"
@@ -51723,7 +51729,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2020-03",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "DlcBuilder"
     },
@@ -57833,7 +57839,7 @@
             "https://cafe.naver.com/f-e/cafes/12857088/articles/77274?boardtype=I&menuid=25&referrerAllArticles=false"
         ],
         "categories": [
-            "Gameplay"
+            "Utilitaire"
         ],
         "games": [
             "BG2",
@@ -61236,7 +61242,7 @@
     {
         "id": 1889,
         "name": "Konalan's Wizard Slayer Enhancements",
-        "description": "Ce mod revisite le kit de Tueur de magiciens. Il augmente notamment sa résistance à la magie,  ses jets de sauvegardes contre les Sorts et ajoute de nouvelles HLA. Ses restrictions d'utilisation d'objet a également été revue.",
+        "description": "Ce mod revisite le kit de Tueur de magiciens. Il augmente notamment sa résistance à la magie, ses jets de sauvegarde contre les Sorts et ajoute de nouvelles HLA. La restriction d'utilisation d'objet a également été revue.",
         "urls": [
             "https://www.shsforums.net/topic/35122-konalans-wizard-slayer-enhancements/"
         ],
@@ -61349,5 +61355,35 @@
         "last_update": "2009-06",
         "compatibilities": {},
         "tp2": "ce#knock"
+    },
+    {
+        "id": 1893,
+        "name": "Baldur's Goth",
+        "description": "Regroupement des mods [[150]], [[268]] et Baldur's Goth Expansion Pack.",
+        "urls": [
+            "https://www.shsforums.net/forum/269-baldurs-goth/",
+            "https://github.com/Spellhold-Studios/Baldurs-Goth/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Multiple"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-10",
+        "compatibilities": {},
+        "tp2": "bgoth"
     }
 ]

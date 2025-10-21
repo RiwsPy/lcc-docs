@@ -2202,10 +2202,14 @@
             "status": "needs_review",
             "source": "Ce mod modifie l'aspect des mannequins et des portraits afin de les rendre d'apparence plus gothiques, et se décline en 4 versions. Celle-ci concerne uniquement le jeu BG2 original."
         },
-        "notes": [],
+        "notes": [
+            "Included in [[1893]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Inclus dans [[1893]]."
+            ]
         }
     },
     {
@@ -3872,10 +3876,14 @@
             "status": "needs_review",
             "source": "Cette version du mod comprend des portraits alternatifs pour certains mods de PNJ, afin de les rendre plus conformes au graphisme gothique des PNJ du jeu."
         },
-        "notes": [],
+        "notes": [
+            "Included in [[1893]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Inclus dans [[1893]]."
+            ]
         }
     },
     {
@@ -12081,10 +12089,11 @@
     },
     {
         "id": 839,
-        "description": "This mod adds an evil cleric profile that can cast Chaos, mock Fireball and mock Chain Lightning, and is immune to poison. It has custom HLA.",
+        "name": "Priest of Bhaal",
+        "description": "This mod adds an chaotic evil cleric kit that can cast Chaos, mock Fireball and mock Chain Lightning.|It becomes immune to poison from level 10 and immune to paralysis and level drain from level 16.|It has custom HLA.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute un profil de clerc mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs, et est immunisé au poison. Il a des HLA personnalisées."
+            "source": "Ce mod ajoute un kit de clerc chaotique mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs.|Il devient immunisé au poison à partir du niveau 10 et immunisé à la paralysie et au drain de niveau à partir du niveau 16.|Il a des HLA personnalisées."
         },
         "notes": [],
         "notes_meta": {
@@ -19881,10 +19890,10 @@
     },
     {
         "id": 1383,
-        "description": "This ambitious mod adds a new area in Athkatla where all your old BG1 friends gather. What do they do there? Chatting, relaxing and drinking. Thousands of lines of dialog that change with every conversation. Variations depending on the time of day (or night). This mod allows other modders to add their own NPCs. There are also a few surprises.",
+        "description": "This ambitious mod adds a new area in Athkatla (Water Gardens) where all the rich and famous people of Athkatla gather. What do they do there? Chatting, relaxing and drinking. Thousands of lines of dialog that change with every conversation. Variations depending on the time of day (or night). This mod also allows modders to add components for NPCs from BG1 themselves, with new lines and sometimes even new quests or romances between them. There are also a few surprises.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ambitieux ajoute une nouvelle zone dans Athkatla où se réunissent tous vos anciens amis de BG1. Que font-ils là-bas ? Ils papotent, ils se détentent et boivent. Des milliers de lignes de dialogues qui changent à chaque conversation. Des variations selon l'heure du jour (ou de la nuit). Ce mod permet aux autres moddeurs d'ajouter eux-mêmes des PNJ. Il y a aussi quelques surprises."
+            "source": "Ce mod ambitieux ajoute une nouvelle zone dans Athkatla (Water Gardens) où se réunissent toutes les personnes riches et célèbres d'Athkatla. Que font-ils là-bas ? Ils papotent, ils se détentent et boivent. Des milliers de lignes de dialogues qui changent à chaque conversation. Des variations selon l'heure du jour (ou de la nuit).|Ce mod permet également aux moddeurs d'ajouter eux-mêmes des composants pour des PNJ issus de BG1, ils ont de nouvelles répliques et parfois même de nouvelles quêtes ou des romances entre eux. Il y a aussi quelques surprises."
         },
         "notes": [
             "This mod must be installed AFTER other mods containing these same NPCs."
@@ -19901,7 +19910,7 @@
         "description": "This mod contains 4 kits: The `Captain`, a charismatic fighter who uses his authority to optimize his team's performance or break his opponent's morale, with high stamina and protection against confusion.|The \"Arrow Thrower\" is a clever, devious thief who likes to drink, and is capable of diverting the attention of his opponents and throwing bombs that are literally intoxicating. The \"Priest of Mystra\" benefits from a bonus on spell casting times, and can drastically increase the enchantment level of a weapon for one turn. The `Virtuoso` is a mage as talented as he is specialized, which is to say unfit for anything other than casting spells (but let's leave other less important tasks to less important people?). He has a bonus on spell casting times and a bonus on mage level, as well as being able to memorize more spells than his fellows. On the other hand, he has a penalty on his armor class and on his saving throws (which increase with level). He cannot learn to wield a weapon, and suffers a 4-point Wisdom penalty.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod contient 4 kits.|Le `Capitaine`, guerrier charismatique qui se sert de son autorité pour optimiser les performances de son équipe ou briser moralement son adversaire, doté d'une capacité de résistance importante et d'une protection contre la confusion.|Le `Lanceur de flèchettes`, voleur adroit, sournois et amateur de boisson alcoolisée, il est capable de détourner l'attention de ses adversaires et de lancer des bombes littéralement enivrantes.|Le `Prêtre de Mystra` profite quand à lui d'un bonus sur les temps d'incantation des sorts, il peut également, pendant un tour, augmenter drastiquement le niveau d'enchantement d'une arme. Il a également accès à quelques sorts supplémentaires.|Le `Virtuose` est un mage aussi talentueux que spécialisé, sous entendu inapte à autre chose que lancer des sorts (mais laissons les autres tâches de moindre importance aux gens de moindre importance ?). Il possède un bonus sur les temps d'incantation des sorts et un bonus sur le niveau de mage, en plus de pouvoir mémoriser plus de sorts que ces congénères. En contrepartie, il a un malus sur sa classe d'armure et sur ses jets de sauvegardes (qui augmentent au fil des niveaux). Il ne peut apprendre à manier une arme et subit un malus de 4 en Sagesse."
+            "source": "Ce mod contient 4 kits.|Le `Capitaine`, guerrier charismatique qui se sert de son autorité pour optimiser les performances de son équipe ou briser moralement son adversaire, doté d'une capacité de résistance importante et d'une protection contre la confusion.|Le `Lanceur de flèchettes`, voleur adroit, sournois et amateur de boisson alcoolisée, il est capable de détourner l'attention de ses adversaires et de lancer des bombes littéralement enivrantes.|Le `Prêtre de Mystra` profite quand à lui d'un bonus sur les temps d'incantation des sorts, il peut également, pendant un tour, augmenter drastiquement le niveau d'enchantement d'une arme. Il a également accès à quelques sorts supplémentaires.|Le `Virtuose` est un mage aussi talentueux que spécialisé, sous entendu inapte à autre chose que lancer des sorts (mais laissons les autres tâches de moindre importance aux gens de moindre importance ?). Il possède un bonus sur les temps d'incantation des sorts et un bonus sur le niveau de mage, en plus de pouvoir mémoriser plus de sorts que ces congénères. En contrepartie, il a un malus sur sa classe d'armure et sur ses jets de sauvegarde (qui augmentent au fil des niveaux). Il ne peut apprendre à manier une arme et subit un malus de 4 en Sagesse."
         },
         "notes": [],
         "notes_meta": {
@@ -22133,10 +22142,10 @@
     },
     {
         "id": 1539,
-        "description": "This mod adds 57 voice packs for the characters.",
+        "description": "This mod adds 57 voice packs for the characters, all in Polish.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute 57 packs de voix pour les personnages."
+            "source": "Ce mod ajoute 57 packs de voix pour les personnages, tous en polonais."
         },
         "notes": [],
         "notes_meta": {
@@ -22252,7 +22261,7 @@
         "description": "This mod features a fix for the Legacy Of Bhaal difficulty, which adjusted save rolls to 20. This mod modifies the scripts of most creatures, allowing them to modify their own saving throws as they appear.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod propose un fix pour la difficulté Legacy Of Bhaal qui ajustait les jets de sauvegardes à 20. Ce mod modifie les scripts de la plupart des créatures, leur permettant de modifier leurs propres jets de sauvegarde au fur et à mesure qu'ils apparaissent."
+            "source": "Ce mod propose un fix pour la difficulté Legacy Of Bhaal qui ajustait les jets de sauvegarde à 20. Ce mod modifie les scripts de la plupart des créatures, leur permettant de modifier leurs propres jets de sauvegarde au fur et à mesure qu'ils apparaissent."
         },
         "notes": [],
         "notes_meta": {
@@ -26971,10 +26980,10 @@
     },
     {
         "id": 1889,
-        "description": "This mod revisits the Wizard Slayer kit. In particular, it increases its magic resistance, its saving throws against spells, and adds new HLA. Its restrictions on item usage have also been revised.",
+        "description": "This mod revisits the Wizard Slayer kit. In particular, it increases its magic resistance, its saving throws against spells, and adds new HLA. Its item restrictions have also been revised.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod revisite le kit de Tueur de magiciens. Il augmente notamment sa résistance à la magie,  ses jets de sauvegardes contre les Sorts et ajoute de nouvelles HLA. Ses restrictions d'utilisation d'objet a également été revue."
+            "source": "Ce mod revisite le kit de Tueur de magiciens. Il augmente notamment sa résistance à la magie, ses jets de sauvegarde contre les Sorts et ajoute de nouvelles HLA. La restriction d'utilisation d'objet a également été revue."
         },
         "notes": [
             "Included in [[614]]."
@@ -27018,6 +27027,19 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce petit mod modifie le sort de mage de 2ème niveau Déblocage pour lui permettre de désarmorcer également les pièges dans un rayon d'action limité."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1893,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Regroupement des mods [[150]], [[268]] et Baldur's Goth Expansion Pack."
         },
         "notes": [],
         "notes_meta": {
