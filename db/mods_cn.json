@@ -2027,9 +2027,9 @@
     },
     {
         "id": 137,
-        "description": "此模组旨在减少多个大型模组在游戏过程中的影响。您可以降低学习法术、解除陷阱、开锁所获得的经验值。同样，您可以从模组[[287]]、[[761]]、[[1084]]、[[1064]]、NPC-Tweaks中移除某些过于强大的物品。",
+        "description": "此模组旨在减少多个大型模组在游戏过程中的影响。您可以降低学习法术、解除陷阱、开锁所获得的经验值。同样，您可以从模组[[287]]、[[761]]、[[1084]]、[[1064]]中移除某些过于强大的物品。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]]."
         },
         "notes": [],
@@ -6439,7 +6439,7 @@
         "team": [
             "redrumcha"
         ],
-        "description": "该模组的设计理念主要借鉴[[335]]号模组，并自由借鉴了D&D第三版规则中的“地脉术士”进阶职业。该职业档案融合了术士的法术位施法机制与德鲁伊的自然神术、职业能力及属性特质，同时拥有独立的全新法术体系和高等级能力。模组还提供地脉术士专属肖像选择功能，以及多种变身形态选项：熊、猫、狗、豹、麋鹿、黑豹、鼠、蛇与狼。",
+        "description": "该模组的设计理念主要借鉴[[335]]模组，并自由借鉴了D&D第三版规则中的“地脉术士”进阶职业。该职业档案融合了术士的法术位施法机制与德鲁伊的自然神术、职业能力及属性特质，同时拥有独立的全新法术体系和高等级能力。模组还提供地脉术士专属肖像选择功能，以及多种变身形态选项：熊、猫、狗、豹、麋鹿、黑豹、鼠、蛇与狼。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod s'inspire largement du [[335]] et est librement adapté de la classe de prestige de la 3ème édition D&D : le Géomancien. Le profil combine les sorts et méthodes d'incantation du sorcier, avec des sorts, capacités et caractéristiques druidiques. De plus, il utilise ses propres sorts et HLA. Le mod dispose également d'options permettant de sélectionner des portraits spécifiques pour le Géomancien, comme pour les métamorphoses dont il se servira : ours, chat, chien, léopard, orignal, panthère, rat, serpent et loup."
@@ -9558,7 +9558,7 @@
             "source": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Celui-ci fournit un système de règles permettant aux personnages de se nourrir et de boire. Sans cela, leur constitution diminuera avec le temps."
         },
         "notes": [
-            "该模组需预先安装[[663]]号模组的烹饪组件。"
+            "该模组需预先安装[[663]]模组的烹饪组件。"
         ],
         "notes_meta": {
             "status": "done",
@@ -17209,9 +17209,9 @@
     },
     {
         "id": 1184,
-        "description": "维恩赛的生活很艰难，她是一名中立邪恶的阴影精灵法师大师，被自己的国度放逐。她被错误地指控谋杀，至少她自己是这么认为的，她在剑湾海岸游荡，起初是为了复仇，然后是为了一个目标，最后是为了寻找一个归宿。在传奇故事中，你可以选择帮助或阻碍她的每一个阶段，即使她不同意也会抱怨。|她的阵营在博德之门1、龙矛围攻以及博德之门2中可能倾向于绝对中立。由于阵营在转移到博德之门2时没有被记忆，她会在博德之门2中重拾旧习并做出危险的选择，需要主角的建议、友谊或爱来克服自身的黑暗。|你会在博德之门1中友善之臂的外面找到她，在龙矛围攻中的一间牢房里。在博德之门2中，她就在冒险者市场前面的漫步街上，即将被捕。你可以介入并招募她，或者稍后在监狱里找到她并招募。",
+        "description": "维恩赛的生活很艰难，她是一名中立邪恶的阴影精灵法师大师，被自己的国度放逐。她被错误地指控谋杀，至少她自己是这么认为的，她在剑湾海岸游荡，起初是为了复仇，然后是为了一个目标，最后是为了寻找一个归宿。在传奇故事中，你可以选择帮助或阻碍她的每一个阶段，即使她不同意也会抱怨。|她的阵营在博德之门1、龙矛围攻以及博德之门2中可能倾向于绝对中立。由于阵营在转移到博德之门2时没有被记忆，她会在博德之门2中重拾旧习并做出危险的选择，需要主角的建议、友谊或爱来克服自身的黑暗。|你会在博德之门1中友善之臂的外面找到她，在龙矛围攻中的一间牢房里。在博德之门2中，她就在冒险者市场前面的漫步街上，即将被捕。你可以介入并招募她，或者稍后在监狱里找到她并招募。|力量15，敏捷17，体质10，智力18，智慧10，魅力11。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Difficile à vivre, Vienxay est une elfette magicienne maîtresse des ombres neutre mauvaise qui a été bannie de sa contrée. Faussement accusée de meurtre, du moins selon elle, elle erre sur la Côte des Épées, d'abord en quête de vengeance, puis d'un but, puis de la recherche d'un foyer. Dans la saga, vous pouvez l'aider ou entraver chacune de ces étapes, comme bon vous semble, même si elle se plaindra si elle n'est pas d'accord.|Son alignement peut pencher vers le neutre absolu dans BG1 et SoD ainsi que dans BG2. Son alignement n'étant pas mémorisé lors du passage à BG2, elle retombera dans ses vieilles habitudes et ses choix dangereux dans BG2 et aura besoin des conseils et de l'amitié ou de l'amour du protagoniste pour surmonter sa propre noirceur.|Vous la trouverez à l'extérieur du Bras amical dans BG1, et dans une cellule dans SoD. Dans BG2, elle se trouve sur la Promenade juste devant le Marché des Aventuriers, sur le point d'être arrêtée. Vous pouvez alors intervenir et la recruter, ou la retrouver et la recruter plus tard dans la prison.|FOR 15, DEX 17, CON 10, INT 18, SAG 10, CHA 11."
         },
         "notes": [],
@@ -24181,9 +24181,9 @@
     },
     {
         "id": 1670,
-        "description": "艾德温、贾希拉、卡立德、凯根、齐冯、明斯克、撒恩的1级版本，适用于剑湾传奇/博德之门1：剑湾传奇。",
+        "description": "该模组支持在主角等级为1级时，以1级状态招募艾德温、贾希拉、卡立德、凯根、齐冯、明斯克、撒恩等队友。需配合[[287]]或[[761]]模组使用（这两个模组会将上述角色等级调整为4级）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod propose de recruter les pnjs Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, Xan au niveau 1 lorsque charname est aussi niveau 1. À utiliser conjointement avec le mod [[287]] ou [[761]], qui met ces personnages au niveau 4."
         },
         "notes": [],
@@ -26429,7 +26429,7 @@
     },
     {
         "id": 1832,
-        "description": "IWDSpells是一个工具，用于将冰风谷的新法术和吟游诗人歌曲集成到博德之门系列游戏中。虽然它可以作为独立模组使用，但主要供模组作者在他们自己的模组中使用。若您并非模组制作者，仅希望获取冰风谷法术，直接使用[[521]]号模组可能是更便捷的选择。",
+        "description": "IWDSpells是一个工具，用于将冰风谷的新法术和吟游诗人歌曲集成到博德之门系列游戏中。虽然它可以作为独立模组使用，但主要供模组作者在他们自己的模组中使用。若您并非模组制作者，仅希望获取冰风谷法术，直接使用[[521]]模组可能是更便捷的选择。",
         "description_meta": {
             "status": "done",
             "source": "IWDSpells est un outil permettant d'intégrer les nouveaux sorts et chants de barde d'Icewind Dale dans la série de jeux Baldur's Gate. Bien qu'il puisse être utilisé comme mod autonome, il est principalement destiné à être utilisé par les créateurs de mods dans leurs propres mods. Si vous n'êtes pas moddeur et que vous souhaitez simplement obtenir les sorts IWD, il est probablement plus simple d'utiliser le mod [[521]]."
@@ -27025,7 +27025,7 @@
     },
     {
         "id": 1877,
-        "description": "将[[897]]号模组移植至EET平台。",
+        "description": "将[[897]]模组移植至EET平台。",
         "description_meta": {
             "status": "done",
             "source": "Portage du mod [[897]] sur EET."
@@ -27042,7 +27042,7 @@
             "Archenemy",
             "YouYe"
         ],
-        "description": "将[[1084]]号模组移植至EET平台。",
+        "description": "将[[1084]]模组移植至EET平台。",
         "description_meta": {
             "status": "done",
             "source": "Portage du mod [[1084]] sur EET."
@@ -27055,7 +27055,7 @@
     },
     {
         "id": 1879,
-        "description": "将[[1095]]号模组移植至EET平台。",
+        "description": "将[[1095]]模组移植至EET平台。",
         "description_meta": {
             "status": "done",
             "source": "Portage du mod [[1095]] sur EET."
