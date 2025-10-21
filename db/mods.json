@@ -1215,8 +1215,7 @@
             "https://almrep.blogspot.com/p/almaquest-2.html"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -1831,7 +1830,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "fr",
             "en"
@@ -3674,7 +3673,7 @@
         "languages": [
             "de"
         ],
-        "status": "missing",
+        "status": "hidden",
         "last_update": "",
         "compatibilities": {},
         "tp2": ""
@@ -3862,7 +3861,7 @@
             "https://www.shsforums.net/files/file/968-bg1-engine-fix-extending-limit-of-maximum-global-variables/"
         ],
         "categories": [
-            "Conversion"
+            "Patch non officiel"
         ],
         "games": [
             "BG"
@@ -4619,7 +4618,7 @@
     {
         "id": 137,
         "name": "BP-Balancer",
-        "description": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]], NPC-Tweaks.",
+        "description": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]].",
         "urls": [
             "https://www.shsforums.net/files/file/493-bp-balancer/",
             "https://github.com/Spellhold-Studios/BP-Balancer/"
@@ -6578,7 +6577,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2014-01",
@@ -7000,7 +6999,7 @@
         "languages": [
             "es"
         ],
-        "status": "missing",
+        "status": "hidden",
         "last_update": "",
         "compatibilities": {},
         "tp2": ""
@@ -8404,7 +8403,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -9612,7 +9611,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -10943,7 +10942,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2013-02",
@@ -11080,7 +11079,7 @@
             "https://www.mediafire.com/file/vj699du6a4ka55j/phord_druidkits.zip/file"
         ],
         "categories": [
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -11388,7 +11387,7 @@
             "https://forums.beamdog.com/discussion/68767/"
         ],
         "categories": [
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -11816,7 +11815,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2016-01",
@@ -14827,19 +14826,17 @@
             "Gameplay"
         ],
         "games": [
-            "BG2",
-            "BGT"
+            "BG2"
         ],
         "authors": [
             "Ggib Eht"
         ],
         "team": [],
         "notes": [
-            "[[594]] semble requis.",
             "Attention, le contenu est explicite."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -15542,7 +15539,7 @@
     {
         "id": 469,
         "name": "Harden Coonors Tutu-AddOn",
-        "description": "Ce mod allemand semble avoir disparu.",
+        "description": "",
         "urls": [
             "http://www.rosenranken.de/index.php?board=36;action=display;threadid=4719"
         ],
@@ -15558,7 +15555,7 @@
         "translation_state": "auto",
         "safe": 1,
         "languages": [],
-        "status": "missing",
+        "status": "hidden",
         "last_update": "",
         "compatibilities": {},
         "tp2": ""
@@ -20283,7 +20280,7 @@
         ],
         "categories": [
             "Kit",
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -20749,7 +20746,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2013-11",
@@ -21625,7 +21622,8 @@
             "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/LuizMods.rar"
         ],
         "categories": [
-            "Gameplay"
+            "Kit",
+            "Portrait et son"
         ],
         "games": [
             "BG2",
@@ -23015,7 +23013,7 @@
             "https://www.gibberlings3.net/mods/kits/mkr/"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "BG2",
@@ -23231,7 +23229,7 @@
             "Il existe une version directement intégrée dans [[347]]."
         ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -23614,8 +23612,7 @@
             "https://github.com/Plutonium-X/MISC_Mortis"
         ],
         "categories": [
-            "Forgeron et marchand",
-            "Gameplay"
+            "Forgeron et marchand"
         ],
         "games": [
             "BG2",
@@ -25858,7 +25855,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2015-01",
@@ -26577,7 +26574,7 @@
         "translation_state": "auto",
         "safe": 0,
         "languages": [],
-        "status": "missing",
+        "status": "hidden",
         "last_update": "2016-04",
         "compatibilities": {},
         "tp2": ""
@@ -27071,7 +27068,7 @@
             "https://github.com/Gibberlings3/PnP_Celestials"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -28577,7 +28574,7 @@
         ],
         "categories": [
             "Quête",
-            "Gameplay"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -28914,7 +28911,7 @@
             "https://www.pocketplane.net/bg1Tutu/"
         ],
         "categories": [
-            "Conversion"
+            "Patch non officiel"
         ],
         "games": [
             "BG2",
@@ -28978,11 +28975,10 @@
         "name": "Restored Textscreen Music",
         "description": "Si vous regrettez la sublime musique de BG1 que vous pouviez entendre lors du tout premier écran de texte racontant le début de votre histoire, ainsi que pendant les rêves, ce mod vous permet de la restaurer. À réserver aux utilisateurs de BGT et de Tutu qui sont prêts à télécharger 18 Mo juste pour l'écran d'introduction.",
         "urls": [
-            "https://www.shsforums.net/files/file/74-restored-textscreen-music-core-installation-package-9/",
-            "https://www.shsforums.net/files/file/497-restored-textscreen-music-french-language-pack/"
+            "https://www.shsforums.net/files/file/74-restored-textscreen-music-core-installation-package-9/"
         ],
         "categories": [
-            "Conversion"
+            "Patch non officiel"
         ],
         "games": [
             "Tutu",
@@ -28992,9 +28988,7 @@
             "Ascension64"
         ],
         "team": [],
-        "notes": [
-            "Vous devez télécharger les deux parties du mod avant de l'installer : le composant principal (premier lien) et le contenu français (second lien)."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
@@ -29006,12 +29000,12 @@
     {
         "id": 879,
         "name": "Restored ToB Heads",
-        "description": "Ce petit mod restaure les dialogues manquants des tête à l'introduction de ToB.",
+        "description": "Ce petit mod restaure les dialogues manquants des têtes à l'introduction de ToB.",
         "urls": [
             "https://www.shsforums.net/files/file/637-restored-tob-heads/"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "BG2",
@@ -30286,8 +30280,7 @@
             "https://forums.beamdog.com/discussion/28623/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -30518,8 +30511,7 @@
             "https://www.shsforums.net/files/file/1023-cleric-class-kit-scion-of-murder/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2EE",
@@ -31711,8 +31703,7 @@
             "https://www.pocketplane.net/sixs-kitpack/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -32244,7 +32235,7 @@
             "https://www.gibberlings3.net/forums/topic/31405-some-individuals-mod-for-soatutu-or-possibly-only-for-ee/"
         ],
         "categories": [
-            "Gameplay"
+            "Cosmétique"
         ],
         "games": [
             "BGEE",
@@ -36069,7 +36060,7 @@
     {
         "id": 1087,
         "name": "The Slithering Menace",
-        "description": "Ce mod ajoute une courte quête dans Throne of Bhaal (ce mod n'est donc pas disponible pour ceux n'utilisant que Baldur's Gate 2 - Shadows of Amn sans l'extension). Plus précisément, elle se déclenche dans l'Antichambre de Bhaal, une fois que vous avez rendu vie à Sarevok. Pour que la quête commence, Imoen doit être dans votre groupe. c'est votre chipie de sœur qui, en effet, va la déclencher en commettant une de ses bêtises. Vous aurez entre autres droit à un combat, puis à un objet magique inédit reçu en récompense pour vos efforts.",
+        "description": "Ce mod ajoute une courte quête dans Throne of Bhaal. Plus précisément, elle se déclenche dans l'Antichambre de Bhaal, une fois que vous avez rendu vie à Sarevok. Pour que la quête commence, Imoen doit être dans votre groupe. c'est votre chipie de sœur qui, en effet, va la déclencher en commettant une de ses bêtises. Vous aurez entre autres droit à un combat, puis à un objet magique inédit reçu en récompense pour vos efforts.",
         "urls": [
             "https://www.shsforums.net/files/file/151-the-slithering-menace-tob/",
             "https://github.com/Spellhold-Studios/Slithering-Menace"
@@ -37932,7 +37923,7 @@
     {
         "id": 1143,
         "name": "Twisting With The Rune",
-        "description": "Ce mod donne du sens à la rencontre avec les membres de la Rune Tordue. Dans EET, l'histoire commence dans la partie BG. Si vous jouer uniquement avec BG2:EE, vous aurez connaissance de ce que vous auriez appris dans BG et SoD. Il existe également un lien avec Balthazar dans ToB qui apparaît dans le jeu original mais qui n'y a jamais été expliqué (il faut être propriétaire d'un bastion pour le déclencher).|Il n'y a pas de scénario linéaire, il s'agit plutôt d'un puzzle où vous trouvez des éléments du tableau au fur et à mesure de votre aventure, ce qui peut vous donner une vague idée d'une organisation opérant secrètement dans Féérune. La Rune n'a aucun intérêt pour le rejeton de Bhaal en tant que tel, et le mod fournit principalement un lien entre des événements qui semblaient à l'origine sans rapport.",
+        "description": "Ce mod donne du sens à la rencontre avec les membres de la Rune Tordue. Dans EET, l'histoire commence dans la partie BG. Si vous jouez uniquement avec BG2:EE, vous aurez connaissance de ce que vous auriez appris dans BG et SoD. Il existe également un lien avec Balthazar dans ToB qui apparaît dans le jeu original mais qui n'y a jamais été expliqué (il faut être propriétaire d'un bastion pour le déclencher).|Il n'y a pas de scénario linéaire, il s'agit plutôt d'un puzzle où vous trouvez des éléments du tableau au fur et à mesure de votre aventure, ce qui peut vous donner une vague idée d'une organisation opérant secrètement dans Féérune. La Rune n'a aucun intérêt pour le rejeton de Bhaal en tant que tel, et le mod fournit principalement un lien entre des événements qui semblaient à l'origine sans rapport.",
         "urls": [
             "https://github.com/RoxanneSHS/The-Rune"
         ],
@@ -38250,7 +38241,7 @@
             "https://forums.beamdog.com/discussion/65617/"
         ],
         "categories": [
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -38732,7 +38723,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2007-01",
@@ -38921,7 +38912,7 @@
             "https://www.shsforums.net/files/file/1088-valorious-manual-for-the-incompetent-and-the-mundane-adventurer/"
         ],
         "categories": [
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -38999,7 +38990,6 @@
         ],
         "team": [],
         "notes": [
-            "[[372]] est requis.",
             "Une requête a été passé à shs pour l'héberger sur leur github, à suivre."
         ],
         "translation_state": "auto",
@@ -39009,7 +38999,11 @@
         ],
         "status": "active",
         "last_update": "2017-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                372
+            ]
+        },
         "tp2": "Vampire_World"
     },
     {
@@ -39241,7 +39235,7 @@
     {
         "id": 1184,
         "name": "Vienxay, an Elven Shadowdancer Mage",
-        "description": "Difficile à vivre, Vienxay est une elfette magicienne maîtresse des ombres neutre mauvaise qui a été bannie de sa contrée. Faussement accusée de meurtre, du moins selon elle, elle erre sur la Côte des Épées, d'abord en quête de vengeance, puis d'un but, puis de la recherche d'un foyer. Dans la saga, vous pouvez l'aider ou entraver chacune de ces étapes, comme bon vous semble, même si elle se plaindra si elle n'est pas d'accord.|Son alignement peut pencher vers le neutre absolu dans BG1 et SoD ainsi que dans BG2. Son alignement n'étant pas mémorisé lors du passage à BG2, elle retombera dans ses vieilles habitudes et ses choix dangereux dans BG2 et aura besoin des conseils et de l'amitié ou de l'amour du protagoniste pour surmonter sa propre noirceur.|Vous la trouverez à l'extérieur du Bras amical dans BG1, et dans une cellule dans SoD. Dans BG2, elle se trouve sur la Promenade juste devant le Marché des Aventuriers, sur le point d'être arrêtée. Vous pouvez alors intervenir et la recruter, ou la retrouver et la recruter plus tard dans la prison.",
+        "description": "Difficile à vivre, Vienxay est une elfette magicienne maîtresse des ombres neutre mauvaise qui a été bannie de sa contrée. Faussement accusée de meurtre, du moins selon elle, elle erre sur la Côte des Épées, d'abord en quête de vengeance, puis d'un but, puis de la recherche d'un foyer. Dans la saga, vous pouvez l'aider ou entraver chacune de ces étapes, comme bon vous semble, même si elle se plaindra si elle n'est pas d'accord.|Son alignement peut pencher vers le neutre absolu dans BG1 et SoD ainsi que dans BG2. Son alignement n'étant pas mémorisé lors du passage à BG2, elle retombera dans ses vieilles habitudes et ses choix dangereux dans BG2 et aura besoin des conseils et de l'amitié ou de l'amour du protagoniste pour surmonter sa propre noirceur.|Vous la trouverez à l'extérieur du Bras amical dans BG1, et dans une cellule dans SoD. Dans BG2, elle se trouve sur la Promenade juste devant le Marché des Aventuriers, sur le point d'être arrêtée. Vous pouvez alors intervenir et la recruter, ou la retrouver et la recruter plus tard dans la prison.|FOR 15, DEX 17, CON 10, INT 18, SAG 10, CHA 11.",
         "urls": [
             "https://skitias-stories.com/mods-view.php?name=Vienxay",
             "https://forums.beamdog.com/discussion/74701/",
@@ -39301,7 +39295,7 @@
     {
         "id": 1186,
         "name": "Virtue",
-        "description": "Toujours étonné de l'incohérence du jeu sur le codage de la réputation qui n'influe pas sur l'alignement ? Eh bien ce mod résout le tout de manière original en créant une troisième variable, la \"vertu\" (la moralité de l'équipe, à différencier de la réputation, c'est à dire ce que ressentent les PNJ à votre égard) qui, si elle baisse, modifiera votre alignement, en toute logique. De nouveaux dialogues ont été ajoutés concernant les évolutions les réactions de votre groupe face à l'évolution de votre \"vertu\". Maintenant tous vos gestes auront des conséquences (rôdeurs ou paladins déchus, abandon par vos PNJ...).",
+        "description": "Toujours étonné de l'incohérence du jeu sur le codage de la réputation qui n'influe pas sur l'alignement ? Eh bien ce mod résout le tout de manière originale en créant une troisième variable, la \"vertu\" (la moralité de l'équipe, à différencier de la réputation, c'est à dire ce que ressentent les PNJ à votre égard) qui, si elle baisse, modifiera votre alignement, en toute logique. De nouveaux dialogues ont été ajoutés concernant les évolutions les réactions de votre groupe face à l'évolution de votre \"vertu\". Maintenant tous vos gestes auront des conséquences (rôdeurs ou paladins déchus, abandon par vos PNJ...).",
         "urls": [
             "https://www.pocketplane.net/virtue/"
         ],
@@ -42954,7 +42948,11 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                1294
+            ]
+        },
         "tp2": "rpgsolaflirtpack"
     },
     {
@@ -46154,7 +46152,7 @@
             "Il existe une version directement intégrée dans [[347]]."
         ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "embed",
         "last_update": "2017-02",
@@ -47126,7 +47124,7 @@
             "https://github.com/szaumoor/ZS_ShadowdancerOverhaul"
         ],
         "categories": [
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -49827,7 +49825,6 @@
             "https://america.iegmc.com/marchmod/march_mod.zip"
         ],
         "categories": [
-            "Gameplay",
             "Quête"
         ],
         "games": [
@@ -50194,7 +50191,7 @@
             "https://github.com/Bubb13/IE-Snippets"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "BGEE",
@@ -53239,7 +53236,7 @@
     {
         "id": 1624,
         "name": "Driel Soundset",
-        "description": "Faites connaissance avec Driel : une jeune fille érudite, ironique et verbeuse, avec une des muscles d'aciers et une épée avenante. Ce jeu de sons convient parfaitement aux enfants de Chateausuif, avec des phrases élégantes, un accent délicieusement ronflant et suffisamment d'audace pour faire frémir les mages obsédés par le bondage.",
+        "description": "Faites connaissance avec Driel : une jeune fille érudite, ironique et verbeuse, avec une des muscles d'aciers et une épée avenante. Ce jeu de sons convient parfaitement aux enfants de Château-Suif, avec des phrases élégantes, un accent délicieusement ronflant et suffisamment d'audace pour faire frémir les mages obsédés par le bondage.",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
@@ -53436,9 +53433,7 @@
             "temnix"
         ],
         "team": [],
-        "notes": [
-            "en"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -53599,7 +53594,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -53939,11 +53934,11 @@
             "La page de téléchargement propose aussi le téléchargement de lifedret.spl. C'est un sort corrigé à mettre dans le dossier \"spell\" du mod avant d'installer."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "kr"
         ],
-        "status": "embed",
+        "status": "active",
         "last_update": "2010-10",
         "compatibilities": {},
         "tp2": "DeaKn"
@@ -55197,7 +55192,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -55209,7 +55204,7 @@
     {
         "id": 1689,
         "name": "Beholder Invasion",
-        "description": "L'invasion a commencé... Ce mod replace certains pnjs et créature de Chateausuif par des Tyrannoeils.|Le lien de téléchargement se trouve dans les derniers messages du fil.",
+        "description": "L'invasion a commencé... Ce mod replace certains pnjs et créature de Château-Suif par des Tyrannoeils.|Le lien de téléchargement se trouve dans les derniers messages du fil.",
         "urls": [
             "https://forums.beamdog.com/discussion/22147"
         ],
@@ -55225,7 +55220,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2014-04",
@@ -55256,7 +55251,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -55317,7 +55312,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -55334,7 +55329,7 @@
             "https://forums.beamdog.com/discussion/30387"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "BGEE",
@@ -55348,7 +55343,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -55404,7 +55399,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2015-01",
@@ -55482,7 +55477,7 @@
             "https://forums.beamdog.com/discussion/40699"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -55494,7 +55489,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2015-04",
@@ -55563,7 +55558,7 @@
             "https://forums.beamdog.com/discussion/65872"
         ],
         "categories": [
-            "Sort et objet"
+            "Cosmétique"
         ],
         "games": [
             "BGEE"
@@ -55574,7 +55569,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -55733,7 +55728,7 @@
             "https://forums.beamdog.com/discussion/61953"
         ],
         "categories": [
-            "Gameplay",
+            "Sort et objet",
             "Personnalisation du groupe"
         ],
         "games": [
@@ -55824,7 +55819,7 @@
     {
         "id": 1710,
         "name": "Book of Legal Possibilities",
-        "description": "Ce livre magique infini à se donner par la console (C:CreateItem(\"BLBOOK01\")) permet de convoquer et recruter n'importe quel compagnon de BGEE/SOD, de gagner n'importe quel pouvoir de Bhaal, et d'acheter tout les objets normaux ou magiques disponibles dans le jeu au prix imbattable de 1 pièce d'or.",
+        "description": "Ce livre magique infini à se donner par la console (C:CreateItem(\"BLBOOK01\")) permet de convoquer et recruter n'importe quel compagnon de BGEE/SOD, de gagner n'importe quel pouvoir de Bhaal, et d'acheter tous les objets normaux ou magiques disponibles dans le jeu au prix imbattable de 1 pièce d'or.",
         "urls": [
             "https://forums.beamdog.com/discussion/49645"
         ],
@@ -55841,7 +55836,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -55902,7 +55897,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2019-09",
@@ -56000,7 +55995,7 @@
     {
         "id": 1716,
         "name": "Uzil NPC",
-        "description": "Ce ajoute Grazilaxx, une pnj illithid ensorceleuse avec de nombreux sorts inédits (capacités psioniques). Elle possède un set de voix mais aucun dialogue. Vous la trouverez prêt de l'auberge de Brasamical.",
+        "description": "Ce mod ajoute Grazilaxx, une pnj illithid ensorceleuse avec de nombreux sorts inédits (capacités psioniques). Elle possède un set de voix mais aucun dialogue. Vous la trouverez prêt de l'auberge de Brasamical.",
         "urls": [
             "https://forums.beamdog.com/discussion/72883"
         ],
@@ -56152,7 +56147,7 @@
     {
         "id": 1721,
         "name": "Adoy's Surgeproof Belt",
-        "description": "Ce mod modifie la Ceinture d'Adoy pour qu'elle immunise contre tous les hiatus. L'auteur du mod prévient que c'est EXTREMENT cheaté.",
+        "description": "Ce mod modifie la Ceinture d'Adoy pour qu'elle immunise contre tous les hiatus. L'auteur du mod prévient que c'est EXTREMEMENT cheaté.",
         "urls": [
             "https://forums.beamdog.com/discussion/31861"
         ],
@@ -56171,7 +56166,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2016-04",
@@ -56216,7 +56211,7 @@
             "https://forums.beamdog.com/discussion/39686"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -56229,7 +56224,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2015-02",
@@ -56273,7 +56268,7 @@
             "https://forums.beamdog.com/discussion/37669"
         ],
         "categories": [
-            "Sort et objet"
+            "Cosmétique"
         ],
         "games": [
             "BGEE",
@@ -56287,7 +56282,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2014-12",
@@ -56475,7 +56470,7 @@
     {
         "id": 1733,
         "name": "Store revisions",
-        "description": "Ce fichier à copier dans l'override donne un stock illimités de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu.",
+        "description": "Ce fichier à copier dans l'override donne un stock illimité de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu.",
         "urls": [
             "https://www.dropbox.com/scl/fi/wlcfgfps1jzbuafq37fdr/store_revisions.tpa?rlkey=j7qovdw73p5rz3ry044pw0d44&e=1&dl=0"
         ],
@@ -56847,7 +56842,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2023-03",
@@ -57000,7 +56995,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -57032,7 +57027,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -57285,7 +57280,7 @@
         "languages": [
             "en"
         ],
-        "status": "missing",
+        "status": "hidden",
         "last_update": "2006-08",
         "compatibilities": {},
         "tp2": "SQUAREMOD"
@@ -57400,7 +57395,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "fr"
         ],
@@ -57715,7 +57710,7 @@
             "https://baldur.cob-bg.pl/download/applications/BG_Fight_v1.4.rar"
         ],
         "categories": [
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BG2"

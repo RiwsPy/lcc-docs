@@ -2029,8 +2029,8 @@
         "id": 137,
         "description": "此模组旨在减少多个大型模组在游戏过程中的影响。您可以降低学习法术、解除陷阱、开锁所获得的经验值。同样，您可以从模组[[287]]、[[761]]、[[1084]]、[[1064]]、NPC-Tweaks中移除某些过于强大的物品。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]], NPC-Tweaks."
+            "status": "needs_review",
+            "source": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]]."
         },
         "notes": [],
         "notes_meta": {
@@ -6505,13 +6505,11 @@
             "source": "Il s'agit d'un mod pornographique qui propose plusieurs composants dont un système de prostitution, quelques objets pour adultes..."
         },
         "notes": [
-            "[[594]] 似乎是必需的。",
             "注意，内容是露骨的。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "[[594]] semble requis.",
                 "Attention, le contenu est explicite."
             ]
         }
@@ -6816,10 +6814,10 @@
     },
     {
         "id": 469,
-        "description": "这个德语模组似乎已经消失了。",
+        "description": "",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod allemand semble avoir disparu."
+            "source": ""
         },
         "notes": [],
         "notes_meta": {
@@ -12776,14 +12774,10 @@
             "status": "done",
             "source": "Si vous regrettez la sublime musique de BG1 que vous pouviez entendre lors du tout premier écran de texte racontant le début de votre histoire, ainsi que pendant les rêves, ce mod vous permet de la restaurer. À réserver aux utilisateurs de BGT et de Tutu qui sont prêts à télécharger 18 Mo juste pour l'écran d'introduction."
         },
-        "notes": [
-            "安装此模组前，您必须下载其两部分：主组件（第一个链接）和法语内容（第二个链接）。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Vous devez télécharger les deux parties du mod avant de l'installer : le composant principal (premier lien) et le contenu français (second lien)."
-            ]
+            "source": []
         }
     },
     {
@@ -12791,7 +12785,7 @@
         "description": "这个小小的模组恢复了ToB开场中缺失的对话。",
         "description_meta": {
             "status": "done",
-            "source": "Ce petit mod restaure les dialogues manquants des tête à l'introduction de ToB."
+            "source": "Ce petit mod restaure les dialogues manquants des têtes à l'introduction de ToB."
         },
         "notes": [
             "此模组包含在 [[1213]] 中。"
@@ -15836,10 +15830,10 @@
     },
     {
         "id": 1087,
-        "description": "此模组在巴尔王座中添加了一个短任务（因此，对于仅使用博德之门2：安姆阴影而没有扩展包的玩家，此模组不可用）。具体来说，在你复活沙洛佛克后，此任务会在巴尔的门厅触发。要开启任务，爱蒙必须在你的队伍中。确实，正是你那个调皮的妹妹会通过犯下一个蠢事来触发它。你将获得一场战斗，以及一个作为奖励的全新魔法物品。",
+        "description": "此模组在巴尔王座中添加了一个短任务。具体来说，在你复活沙洛佛克后，此任务会在巴尔的门厅触发。要开启任务，爱蒙必须在你的队伍中。确实，正是你那个调皮的妹妹会通过犯下一个蠢事来触发它。你将获得一场战斗，以及一个作为奖励的全新魔法物品。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod ajoute une courte quête dans Throne of Bhaal (ce mod n'est donc pas disponible pour ceux n'utilisant que Baldur's Gate 2 - Shadows of Amn sans l'extension). Plus précisément, elle se déclenche dans l'Antichambre de Bhaal, une fois que vous avez rendu vie à Sarevok. Pour que la quête commence, Imoen doit être dans votre groupe. c'est votre chipie de sœur qui, en effet, va la déclencher en commettant une de ses bêtises. Vous aurez entre autres droit à un combat, puis à un objet magique inédit reçu en récompense pour vos efforts."
+            "source": "Ce mod ajoute une courte quête dans Throne of Bhaal. Plus précisément, elle se déclenche dans l'Antichambre de Bhaal, une fois que vous avez rendu vie à Sarevok. Pour que la quête commence, Imoen doit être dans votre groupe. c'est votre chipie de sœur qui, en effet, va la déclencher en commettant une de ses bêtises. Vous aurez entre autres droit à un combat, puis à un objet magique inédit reçu en récompense pour vos efforts."
         },
         "notes": [],
         "notes_meta": {
@@ -16631,7 +16625,7 @@
         "description": "这个模组让你与扭曲符文成员的相遇变得有意义。在增强版三部曲中，故事从博德之门部分开始。如果你只玩博德之门2：增强版，你将了解到本应在博德之门和龙矛围攻中学到的东西。在巴尔王座中，还有一个与巴尔扎的关联，这个关联在原版游戏中出现过但从未被解释过（需要拥有一座堡垒才能触发）。|它没有线性剧情，而更像是一个谜题，你在冒险过程中会逐渐找到拼图碎片，这可能会让你对费伦秘密运作的一个组织有一个模糊的概念。扭曲符文对巴尔之子本身并不感兴趣，该模组主要将一些最初看似无关的事件联系了起来。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod donne du sens à la rencontre avec les membres de la Rune Tordue. Dans EET, l'histoire commence dans la partie BG. Si vous jouer uniquement avec BG2:EE, vous aurez connaissance de ce que vous auriez appris dans BG et SoD. Il existe également un lien avec Balthazar dans ToB qui apparaît dans le jeu original mais qui n'y a jamais été expliqué (il faut être propriétaire d'un bastion pour le déclencher).|Il n'y a pas de scénario linéaire, il s'agit plutôt d'un puzzle où vous trouvez des éléments du tableau au fur et à mesure de votre aventure, ce qui peut vous donner une vague idée d'une organisation opérant secrètement dans Féérune. La Rune n'a aucun intérêt pour le rejeton de Bhaal en tant que tel, et le mod fournit principalement un lien entre des événements qui semblaient à l'origine sans rapport."
+            "source": "Ce mod donne du sens à la rencontre avec les membres de la Rune Tordue. Dans EET, l'histoire commence dans la partie BG. Si vous jouez uniquement avec BG2:EE, vous aurez connaissance de ce que vous auriez appris dans BG et SoD. Il existe également un lien avec Balthazar dans ToB qui apparaît dans le jeu original mais qui n'y a jamais été expliqué (il faut être propriétaire d'un bastion pour le déclencher).|Il n'y a pas de scénario linéaire, il s'agit plutôt d'un puzzle où vous trouvez des éléments du tableau au fur et à mesure de votre aventure, ce qui peut vous donner une vague idée d'une organisation opérant secrètement dans Féérune. La Rune n'a aucun intérêt pour le rejeton de Bhaal en tant que tel, et le mod fournit principalement un lien entre des événements qui semblaient à l'origine sans rapport."
         },
         "notes": [],
         "notes_meta": {
@@ -17107,13 +17101,11 @@
             "source": "Ce mod fait la part belle aux morts-vivants dans la Saga. Vous pouvez devenir mort-vivant, en accueillir dans votre groupe, embaucher Bodhi après l'avoir tuée..."
         },
         "notes": [
-            "需要[[372]]。",
             "已向shs提交请求，希望他们能将其托管在他们的GitHub上，有待后续跟进。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "[[372]] est requis.",
                 "Une requête a été passé à shs pour l'héberger sur leur github, à suivre."
             ]
         }
@@ -17219,8 +17211,8 @@
         "id": 1184,
         "description": "维恩赛的生活很艰难，她是一名中立邪恶的阴影精灵法师大师，被自己的国度放逐。她被错误地指控谋杀，至少她自己是这么认为的，她在剑湾海岸游荡，起初是为了复仇，然后是为了一个目标，最后是为了寻找一个归宿。在传奇故事中，你可以选择帮助或阻碍她的每一个阶段，即使她不同意也会抱怨。|她的阵营在博德之门1、龙矛围攻以及博德之门2中可能倾向于绝对中立。由于阵营在转移到博德之门2时没有被记忆，她会在博德之门2中重拾旧习并做出危险的选择，需要主角的建议、友谊或爱来克服自身的黑暗。|你会在博德之门1中友善之臂的外面找到她，在龙矛围攻中的一间牢房里。在博德之门2中，她就在冒险者市场前面的漫步街上，即将被捕。你可以介入并招募她，或者稍后在监狱里找到她并招募。",
         "description_meta": {
-            "status": "done",
-            "source": "Difficile à vivre, Vienxay est une elfette magicienne maîtresse des ombres neutre mauvaise qui a été bannie de sa contrée. Faussement accusée de meurtre, du moins selon elle, elle erre sur la Côte des Épées, d'abord en quête de vengeance, puis d'un but, puis de la recherche d'un foyer. Dans la saga, vous pouvez l'aider ou entraver chacune de ces étapes, comme bon vous semble, même si elle se plaindra si elle n'est pas d'accord.|Son alignement peut pencher vers le neutre absolu dans BG1 et SoD ainsi que dans BG2. Son alignement n'étant pas mémorisé lors du passage à BG2, elle retombera dans ses vieilles habitudes et ses choix dangereux dans BG2 et aura besoin des conseils et de l'amitié ou de l'amour du protagoniste pour surmonter sa propre noirceur.|Vous la trouverez à l'extérieur du Bras amical dans BG1, et dans une cellule dans SoD. Dans BG2, elle se trouve sur la Promenade juste devant le Marché des Aventuriers, sur le point d'être arrêtée. Vous pouvez alors intervenir et la recruter, ou la retrouver et la recruter plus tard dans la prison."
+            "status": "needs_review",
+            "source": "Difficile à vivre, Vienxay est une elfette magicienne maîtresse des ombres neutre mauvaise qui a été bannie de sa contrée. Faussement accusée de meurtre, du moins selon elle, elle erre sur la Côte des Épées, d'abord en quête de vengeance, puis d'un but, puis de la recherche d'un foyer. Dans la saga, vous pouvez l'aider ou entraver chacune de ces étapes, comme bon vous semble, même si elle se plaindra si elle n'est pas d'accord.|Son alignement peut pencher vers le neutre absolu dans BG1 et SoD ainsi que dans BG2. Son alignement n'étant pas mémorisé lors du passage à BG2, elle retombera dans ses vieilles habitudes et ses choix dangereux dans BG2 et aura besoin des conseils et de l'amitié ou de l'amour du protagoniste pour surmonter sa propre noirceur.|Vous la trouverez à l'extérieur du Bras amical dans BG1, et dans une cellule dans SoD. Dans BG2, elle se trouve sur la Promenade juste devant le Marché des Aventuriers, sur le point d'être arrêtée. Vous pouvez alors intervenir et la recruter, ou la retrouver et la recruter plus tard dans la prison.|FOR 15, DEX 17, CON 10, INT 18, SAG 10, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -17246,7 +17238,7 @@
         "description": "你是否总是对游戏中声誉编码的不一致感到惊讶，即声誉不影响阵营？嗯，这个模组以一种独特的方式解决了这个问题，它创建了一个第三个变量——“美德”（团队的道德观，需要与声誉区分开，即NPC对你的感受），如果它下降，会合乎逻辑地改变你的阵营。添加了新的对话，涉及你的队友在“美德”变化时的反应。现在，你的每一个举动都会有后果（堕落游侠或圣武士，被NPC抛弃……）。",
         "description_meta": {
             "status": "done",
-            "source": "Toujours étonné de l'incohérence du jeu sur le codage de la réputation qui n'influe pas sur l'alignement ? Eh bien ce mod résout le tout de manière original en créant une troisième variable, la \"vertu\" (la moralité de l'équipe, à différencier de la réputation, c'est à dire ce que ressentent les PNJ à votre égard) qui, si elle baisse, modifiera votre alignement, en toute logique. De nouveaux dialogues ont été ajoutés concernant les évolutions les réactions de votre groupe face à l'évolution de votre \"vertu\". Maintenant tous vos gestes auront des conséquences (rôdeurs ou paladins déchus, abandon par vos PNJ...)."
+            "source": "Toujours étonné de l'incohérence du jeu sur le codage de la réputation qui n'influe pas sur l'alignement ? Eh bien ce mod résout le tout de manière originale en créant une troisième variable, la \"vertu\" (la moralité de l'équipe, à différencier de la réputation, c'est à dire ce que ressentent les PNJ à votre égard) qui, si elle baisse, modifiera votre alignement, en toute logique. De nouveaux dialogues ont été ajoutés concernant les évolutions les réactions de votre groupe face à l'évolution de votre \"vertu\". Maintenant tous vos gestes auront des conséquences (rôdeurs ou paladins déchus, abandon par vos PNJ...)."
         },
         "notes": [
             "它必须最后安装，并且与BGT不兼容。"
@@ -23540,7 +23532,7 @@
         "description": "来认识一下德瑞尔：一位博学、讽刺且健谈的年轻女孩，有着钢铁般的肌肉和一把惹人注目的剑。这个语音包非常适合烛堡的孩子们，台词优雅，口音令人愉悦地低沉，并且有足够的胆量让那些痴迷于束缚术的法师不寒而栗。",
         "description_meta": {
             "status": "done",
-            "source": "Faites connaissance avec Driel : une jeune fille érudite, ironique et verbeuse, avec une des muscles d'aciers et une épée avenante. Ce jeu de sons convient parfaitement aux enfants de Chateausuif, avec des phrases élégantes, un accent délicieusement ronflant et suffisamment d'audace pour faire frémir les mages obsédés par le bondage."
+            "source": "Faites connaissance avec Driel : une jeune fille érudite, ironique et verbeuse, avec une des muscles d'aciers et une épée avenante. Ce jeu de sons convient parfaitement aux enfants de Château-Suif, avec des phrases élégantes, un accent délicieusement ronflant et suffisamment d'audace pour faire frémir les mages obsédés par le bondage."
         },
         "notes": [],
         "notes_meta": {
@@ -23620,14 +23612,10 @@
             "status": "done",
             "source": "Les mages standard peuvent se spécialiser après coup (et garder dans leur livre de sorts les sorts interdits par leur nouvelle spécialisation.)"
         },
-        "notes": [
-            "英文"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "en"
-            ]
+            "source": []
         }
     },
     {
@@ -24463,7 +24451,7 @@
         "description": "入侵已经开始了……这个模组将烛堡中的一些NPC和生物替换为眼魔。|下载链接在主题的最后几条留言中。",
         "description_meta": {
             "status": "done",
-            "source": "L'invasion a commencé... Ce mod replace certains pnjs et créature de Chateausuif par des Tyrannoeils.|Le lien de téléchargement se trouve dans les derniers messages du fil."
+            "source": "L'invasion a commencé... Ce mod replace certains pnjs et créature de Château-Suif par des Tyrannoeils.|Le lien de téléchargement se trouve dans les derniers messages du fil."
         },
         "notes": [],
         "notes_meta": {
@@ -24740,7 +24728,7 @@
         "description": "通过控制台（C:CreateItem(\"BLBOOK01\")）给予这本无限魔法书，可以召唤和招募博德之门增强版/龙矛围攻中的任何同伴，获得任何巴尔的权能，并以1枚金币的无法击败的价格购买游戏中所有普通或魔法物品。",
         "description_meta": {
             "status": "done",
-            "source": "Ce livre magique infini à se donner par la console (C:CreateItem(\"BLBOOK01\")) permet de convoquer et recruter n'importe quel compagnon de BGEE/SOD, de gagner n'importe quel pouvoir de Bhaal, et d'acheter tout les objets normaux ou magiques disponibles dans le jeu au prix imbattable de 1 pièce d'or."
+            "source": "Ce livre magique infini à se donner par la console (C:CreateItem(\"BLBOOK01\")) permet de convoquer et recruter n'importe quel compagnon de BGEE/SOD, de gagner n'importe quel pouvoir de Bhaal, et d'acheter tous les objets normaux ou magiques disponibles dans le jeu au prix imbattable de 1 pièce d'or."
         },
         "notes": [],
         "notes_meta": {
@@ -24818,7 +24806,7 @@
         "description": "这添加了格拉利克斯，一个被附魔的夺心魔NPC，拥有许多独特的法术（心灵能力）。她有一套语音文件，但没有对话。您会在友善之臂旅店附近找到她。",
         "description_meta": {
             "status": "done",
-            "source": "Ce ajoute Grazilaxx, une pnj illithid ensorceleuse avec de nombreux sorts inédits (capacités psioniques). Elle possède un set de voix mais aucun dialogue. Vous la trouverez prêt de l'auberge de Brasamical."
+            "source": "Ce mod ajoute Grazilaxx, une pnj illithid ensorceleuse avec de nombreux sorts inédits (capacités psioniques). Elle possède un set de voix mais aucun dialogue. Vous la trouverez prêt de l'auberge de Brasamical."
         },
         "notes": [
             "注意：要使用此模组，您必须将其目录和weidu.exe重命名为\"Uzilnpc\"。|此模组安装一个英文TLK文件。"
@@ -24895,7 +24883,7 @@
         "description": "这个模组修改了阿多伊腰带，使其对所有所有停滞免疫。模组作者警告说，这极其作弊。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod modifie la Ceinture d'Adoy pour qu'elle immunise contre tous les hiatus. L'auteur du mod prévient que c'est EXTREMENT cheaté."
+            "source": "Ce mod modifie la Ceinture d'Adoy pour qu'elle immunise contre tous les hiatus. L'auteur du mod prévient que c'est EXTREMEMENT cheaté."
         },
         "notes": [],
         "notes_meta": {
@@ -25042,7 +25030,7 @@
         "description": "将此文件复制到override文件夹中，可以为游戏中的五个商人提供无限量的各种药水和/或投射物。",
         "description_meta": {
             "status": "done",
-            "source": "Ce fichier à copier dans l'override donne un stock illimités de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu."
+            "source": "Ce fichier à copier dans l'override donne un stock illimité de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu."
         },
         "notes": [],
         "notes_meta": {
