@@ -220,10 +220,11 @@
     {
         "id": 8,
         "name": "A Frosty Journey: The IWDEE Kitpack",
-        "description": "Ce mod ajoute 34 nouveaux profils :|- guerriers : Gnome de choc, Mercenaire, Soldat et Rat de tunnel.|- rôdeurs : Tueur de géant.|- paladins : Chevalier du feu mystique, Serviteur de la forêt et Guerrier sanctifié de la souffrance.|- moines : Frères et sœurs de la Flamme pure, Enfant de la Voix passive, Disciple du Visage immuable, Disciple du Phénix, Disciple de la Salamandre, Disciple de la Baguette blanche, Disciple de la Voie du renoncement, Moine de l'Ordre ancien, Moine de l'Ordre de la longue mort, Moine des vents légers, Moine de la Main étincelante, Moine des Frères pleureurs, Zélateur des Grands écrits.|- voleurs : Petit rat, Dératiseur, Éclaireur, Voltigeur, Tueur de vermines.|- clercs : Marcheterre de Grumbar, Gardien des glaces d'Ulutiu, Prêtre des glaces d'Aurile, Soigne-feuilles, Prêtre de Luthic, Chaman de Gruumsh, Soigne-bois.|- druides : Essaimeur.",
+        "description": "Ce mod ajoute 34 nouveaux profils :|- guerriers : Gnome de choc, Mercenaire, Myrmidon et Rat de tunnel.|- rôdeurs : Tueur de géant.|- paladins : Chevalier du feu mystique, Serviteur de la forêt et Guerrier sanctifié de la souffrance.|- moines : Frères et sœurs de la Flamme pure, Enfant de la Voix passive, Disciple du Visage immuable, Disciple du Phénix, Disciple de la Salamandre, Disciple du Bâton Blanc, Disciple de la Voie du souplesse, Moine de l'Ordre ancien, Moine de l'Ordre de la longue mort, Moine du Vent Scintillant, Moine de la Main étincelante, Moine des Frères pleureurs, Zélateur des Grands écrits.|- voleurs : Petit rat, Dératiseur, Éclaireur, Voltigeur, Tueur de vermines.|- clercs : Marcheterre de Grumbar, Gardien des glaces d'Ulutiu, Prêtre des glaces d'Aurile, Soigne-feuilles, Prêtre de Luthic, Chaman de Gruumsh, Soigne-bois.|- druides : Essaimeur.",
         "urls": [
             "https://www.shsforums.net/files/file/1099-a-frosty-journey-the-iwdee-kitpack/",
-            "https://forums.beamdog.com/discussion/36181/"
+            "https://forums.beamdog.com/discussion/36181/",
+            "https://github.com/GwendolyneFreddy/A_Frosty_Journey_IWDEE_Kitpack/"
         ],
         "categories": [
             "Kit"
@@ -243,7 +244,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2020-11",
+        "last_update": "2020-12",
         "compatibilities": {},
         "tp2": "k9iwdeekit"
     },
@@ -1244,7 +1245,7 @@
         "description": "Pouvant être également installé indépendamment d'[[1157]], ce mod a toutefois pour vocation de restaurer du contenu non exploité par ce dernier ; dans ce sens il est donc intéressant de le coupler à [[1157]].",
         "urls": [
             "https://www.shsforums.net/files/file/1053-almaterias-restoration-project/",
-            "https://github.com/Spellhold-Studios/Almaterias-Restoration-Project"
+            "https://github.com/Spellhold-Studios/Almateria-Restoration-Project/"
         ],
         "categories": [
             "Gameplay"
@@ -5201,6 +5202,7 @@
         "name": "Banter Accelerator for Enhanced Edition games",
         "description": "Ce mod vous permet de définir le rythme des bavardages entre les personnages de votre équipe. Vous pouvez le choisir dans une liste pré-établie ou le définir vous-même. Il est compatible avec tous les jeux Enhanced Edition.",
         "urls": [
+            "https://forums.beamdog.com/discussion/64551/",
             "https://github.com/Argent77/A7-BanterAccelerator"
         ],
         "categories": [
@@ -20120,11 +20122,12 @@
             "Kit"
         ],
         "games": [
+            "Tutu",
             "BG2",
             "BGT"
         ],
         "authors": [
-            "Demi"
+            "Demivrgvs"
         ],
         "team": [],
         "notes": [],
@@ -20176,7 +20179,7 @@
         "description": "Kitanya est une tueuse de magiciens elfe sympathique et de compagnie fort agréable, chaotique bonne avec de nombreuses interactions et une romance. Elle pourra même avoir des dialogues particulièrement amusants avec Edwin. Vous la trouverez dans les environs des Collines d'Umar. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier.|FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19.",
         "urls": [
             "https://www.shsforums.net/topic/57821-kitanya-npc-v641-a-mod-from-rastor/",
-            "https://github.com/GwendolyneFreddy/Kitanya_NPC"
+            "https://github.com/Spellhold-Studios/Kitanya-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -31431,7 +31434,11 @@
         ],
         "status": "active",
         "last_update": "2021-04",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                608
+            ]
+        },
         "tp2": "shurininja"
     },
     {
@@ -54566,7 +54573,7 @@
             "Ce mod converti le texte des objets modifiés en polonais."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "pl"
         ],
@@ -61385,5 +61392,68 @@
         "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "bgoth"
+    },
+    {
+        "id": 1894,
+        "name": "Traps Rebalanced",
+        "description": "Traps Rebalanced vise à transformer les pièges, qui servent actuellement à éliminer les boss, en un outil tactique fiable pour les aventures plus classiques, en les rendant plus efficaces contre les grands groupes d'ennemis, mais moins efficaces lorsqu'ils sont cumulés. Les voleurs acquièrent deux nouvelles capacités : Set Basic Traps et Set Advanced Traps. Qui leur permettent de déployer un total de six pièges uniques.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/40604-traps-rebalanced-thieves-set-snare/",
+            "https://github.com/MangaPwnz/N1TrapRB---Release/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "N1"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-10",
+        "compatibilities": {},
+        "tp2": "N1TrapRB"
+    },
+    {
+        "id": 1895,
+        "name": "Achivements",
+        "description": "Ce mod permet de débloquer les succès des jeux EE disponibles seulement via le client Steam.",
+        "urls": [
+            "https://github.com/tipun81/achivements/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "SoD",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "tipun"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2023-04",
+        "compatibilities": {},
+        "tp2": "achivements"
     }
 ]

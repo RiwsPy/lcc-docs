@@ -110,10 +110,10 @@
     },
     {
         "id": 8,
-        "description": "This mod adds 34 new profiles:|- Fighters: Shock Gnome, Mercenary, Soldier and Tunnel Rat.|- Rangers: Giant Slayer.|- Paladins: Knight of Mystic Fire, Servant of the Forest and Sanctified Warrior of Suffering.|- Monks: Brothers and sisters of the Pure Flame, Child of the Passive Voice, Disciple of the Unchanging Face, Disciple of the Phoenix, Disciple of the Salamander, Disciple of the White Wand, Disciple of the Way of Renunciation, Monk of the Ancient Order, Monk of the Order of the Long Death, Monk of the Light Winds, Monk of the Sparkling Hand, Monk of the Weeping Brothers, Zealot of the Great Writings.|- Clerics: Grumbar Walker, Ulutiu Ice Keeper, Aurile Ice Priest, Leaf Healer, Luthic Priest, Gruumsh Shaman, Wood Healer.",
+        "description": "This mod adds 34 new profiles:|- fighters: Breachgnome, Mercenary, Myrmidon and Tunnelrat.|- rangers: Giant Killer.|- paladins: Knight of the Mystic Fire, Walker of the Forest and Holy Warrior of Suffering.|- monks: Brothers and sisters of the Pure Flame, Child of the Passive Voice, Disciple of the Changeless Face, Disciple of the Phoenix, Disciple of the Salamander, Disciple of the White Rod, Disciple of the Yielding Way, Monk of the Old Order, Monk of the Order of the Long Death, Monk of the Shimmering Wind, Monk of the Shining Hand, Monk of the Weeping Friars, Zealot of the Written Word.|- thiefs: Pest Controller, Scout, Tumbler, Vermin Slayer.|- clerics: Earthwalker of Grumbar, Iceguardian of Ulutiu, Icepriest of Auril, Leaftender, Priest of Luthic, Shaman of Gruumsh, Treetender.|- druids: Hivemaster.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute 34 nouveaux profils :|- guerriers : Gnome de choc, Mercenaire, Soldat et Rat de tunnel.|- rôdeurs : Tueur de géant.|- paladins : Chevalier du feu mystique, Serviteur de la forêt et Guerrier sanctifié de la souffrance.|- moines : Frères et sœurs de la Flamme pure, Enfant de la Voix passive, Disciple du Visage immuable, Disciple du Phénix, Disciple de la Salamandre, Disciple de la Baguette blanche, Disciple de la Voie du renoncement, Moine de l'Ordre ancien, Moine de l'Ordre de la longue mort, Moine des vents légers, Moine de la Main étincelante, Moine des Frères pleureurs, Zélateur des Grands écrits.|- voleurs : Petit rat, Dératiseur, Éclaireur, Voltigeur, Tueur de vermines.|- clercs : Marcheterre de Grumbar, Gardien des glaces d'Ulutiu, Prêtre des glaces d'Aurile, Soigne-feuilles, Prêtre de Luthic, Chaman de Gruumsh, Soigne-bois.|- druides : Essaimeur."
+            "source": "Ce mod ajoute 34 nouveaux profils :|- guerriers : Gnome de choc, Mercenaire, Myrmidon et Rat de tunnel.|- rôdeurs : Tueur de géant.|- paladins : Chevalier du feu mystique, Serviteur de la forêt et Guerrier sanctifié de la souffrance.|- moines : Frères et sœurs de la Flamme pure, Enfant de la Voix passive, Disciple du Visage immuable, Disciple du Phénix, Disciple de la Salamandre, Disciple du Bâton Blanc, Disciple de la Voie du souplesse, Moine de l'Ordre ancien, Moine de l'Ordre de la longue mort, Moine du Vent Scintillant, Moine de la Main étincelante, Moine des Frères pleureurs, Zélateur des Grands écrits.|- voleurs : Petit rat, Dératiseur, Éclaireur, Voltigeur, Tueur de vermines.|- clercs : Marcheterre de Grumbar, Gardien des glaces d'Ulutiu, Prêtre des glaces d'Aurile, Soigne-feuilles, Prêtre de Luthic, Chaman de Gruumsh, Soigne-bois.|- druides : Essaimeur."
         },
         "notes": [],
         "notes_meta": {
@@ -10188,7 +10188,7 @@
     },
     {
         "id": 708,
-        "description": "Did you like the `High-level monk abilities` component of the [[784]] mod? Then this mod is for you: it takes its content and makes it compatible with EE games. It replaces the monk's table of high-level abilities (which was that of fighters) with one inspired by those used by Balthazar in ToB: Shadow Strike, Tiger Strike, Draconic Fist, Faster Than Light, Swap Resistances, Solar Stance, Lunar Stance, Shadow Stance, Wind Feet and Second Wind.",
+        "description": "Did you like the `High-level monk abilities` component of the [[784]] mod? Then this mod is for you: it takes its content and makes it compatible with EE games. It replaces the monk's table of high-level abilities (which was that of fighters) with one inspired by those used by Balthazar in ToB: Shadowless Kick, Tiger Strike, Dracon Fist, Faster Than The Eye, Flip Resistances, Solar Stance, Lunar Stance, Shadow Stance, Feet of the Wind and Second Wind.",
         "description_meta": {
             "status": "needs_review",
             "source": "Vous avez aimé le composant `Capacités de haut niveau du moine` du mod [[784]] ? Alors, ce mod est pour vous.|Il reprend son contenu et le rend compatible avec les jeux EE. Il remplace la table des capacités de haut niveau des moines (qui était celle des guerriers) par une autre inspirée de celles utilisées par Balthazar dans ToB : Coup d'ombre, Frappe du tigre, Poing draconique, Plus vite que la lumière, Échanger les résistances, Position solaire, Position lunaire, Position d'ombre, Pieds du vent et Second souffle."
@@ -27040,6 +27040,32 @@
         "description_meta": {
             "status": "todo",
             "source": "Regroupement des mods [[150]], [[268]] et Baldur's Goth Expansion Pack."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1894,
+        "description": "Traps Rebalanced strives to transform traps from a cheesy boss-deleter into a reliable, tactical tool for normal adventuring by making them stronger against large groups of enemies but weaker when stacked. Thieves gain two new abilities — Set Basic Traps and Set Advanced Traps — which allow them to deploy a total of six unique traps.",
+        "description_meta": {
+            "status": "done",
+            "source": "Traps Rebalanced vise à transformer les pièges, qui servent actuellement à éliminer les boss, en un outil tactique fiable pour les aventures plus classiques, en les rendant plus efficaces contre les grands groupes d'ennemis, mais moins efficaces lorsqu'ils sont cumulés. Les voleurs acquièrent deux nouvelles capacités : Set Basic Traps et Set Advanced Traps. Qui leur permettent de déployer un total de six pièges uniques."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1895,
+        "description": "This mod unlocks EE game achievements available only via the Steam client.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod permet de débloquer les succès des jeux EE disponibles seulement via le client Steam."
         },
         "notes": [],
         "notes_meta": {

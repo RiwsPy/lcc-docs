@@ -114,8 +114,8 @@
         "id": 8,
         "description": "此模组添加了34个新的职业：|- 战士：冲击侏儒、佣兵、士兵和隧道鼠。|- 游侠：巨人杀手。|- 圣武士：神秘之火骑士、森林之仆和受难之圣战者。|- 武僧：纯焰兄弟会、被动之声之子、不变之面弟子、凤凰弟子、蝾螈弟子、白杖弟子、弃道弟子、古序武僧、长死序武僧、轻风武僧、烁手武僧、悲泣兄弟会、伟大经文狂热者。|- 盗贼：小老鼠、灭鼠者、侦察兵、杂技演员、害虫杀手。|- 牧师：格朗巴的行者、乌卢提乌的冰霜守卫、奥瑞尔的冰霜牧师、疗叶者、卢西克的牧师、格鲁姆什的萨满、疗木者。|- 德鲁伊：群聚者。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute 34 nouveaux profils :|- guerriers : Gnome de choc, Mercenaire, Soldat et Rat de tunnel.|- rôdeurs : Tueur de géant.|- paladins : Chevalier du feu mystique, Serviteur de la forêt et Guerrier sanctifié de la souffrance.|- moines : Frères et sœurs de la Flamme pure, Enfant de la Voix passive, Disciple du Visage immuable, Disciple du Phénix, Disciple de la Salamandre, Disciple de la Baguette blanche, Disciple de la Voie du renoncement, Moine de l'Ordre ancien, Moine de l'Ordre de la longue mort, Moine des vents légers, Moine de la Main étincelante, Moine des Frères pleureurs, Zélateur des Grands écrits.|- voleurs : Petit rat, Dératiseur, Éclaireur, Voltigeur, Tueur de vermines.|- clercs : Marcheterre de Grumbar, Gardien des glaces d'Ulutiu, Prêtre des glaces d'Aurile, Soigne-feuilles, Prêtre de Luthic, Chaman de Gruumsh, Soigne-bois.|- druides : Essaimeur."
+            "status": "needs_review",
+            "source": "Ce mod ajoute 34 nouveaux profils :|- guerriers : Gnome de choc, Mercenaire, Myrmidon et Rat de tunnel.|- rôdeurs : Tueur de géant.|- paladins : Chevalier du feu mystique, Serviteur de la forêt et Guerrier sanctifié de la souffrance.|- moines : Frères et sœurs de la Flamme pure, Enfant de la Voix passive, Disciple du Visage immuable, Disciple du Phénix, Disciple de la Salamandre, Disciple du Bâton Blanc, Disciple de la Voie du souplesse, Moine de l'Ordre ancien, Moine de l'Ordre de la longue mort, Moine du Vent Scintillant, Moine de la Main étincelante, Moine des Frères pleureurs, Zélateur des Grands écrits.|- voleurs : Petit rat, Dératiseur, Éclaireur, Voltigeur, Tueur de vermines.|- clercs : Marcheterre de Grumbar, Gardien des glaces d'Ulutiu, Prêtre des glaces d'Aurile, Soigne-feuilles, Prêtre de Luthic, Chaman de Gruumsh, Soigne-bois.|- druides : Essaimeur."
         },
         "notes": [],
         "notes_meta": {
@@ -27257,6 +27257,32 @@
         "description_meta": {
             "status": "done",
             "source": "Regroupement des mods [[150]], [[268]] et Baldur's Goth Expansion Pack."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1894,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Traps Rebalanced vise à transformer les pièges, qui servent actuellement à éliminer les boss, en un outil tactique fiable pour les aventures plus classiques, en les rendant plus efficaces contre les grands groupes d'ennemis, mais moins efficaces lorsqu'ils sont cumulés. Les voleurs acquièrent deux nouvelles capacités : Set Basic Traps et Set Advanced Traps. Qui leur permettent de déployer un total de six pièges uniques."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1895,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod permet de débloquer les succès des jeux EE disponibles seulement via le client Steam."
         },
         "notes": [],
         "notes_meta": {
