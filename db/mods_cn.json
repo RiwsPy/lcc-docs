@@ -112,9 +112,9 @@
     },
     {
         "id": 8,
-        "description": "此模组添加了34个新的职业：|- 战士：冲击侏儒、佣兵、士兵和隧道鼠。|- 游侠：巨人杀手。|- 圣武士：神秘之火骑士、森林之仆和受难之圣战者。|- 武僧：纯焰兄弟会、被动之声之子、不变之面弟子、凤凰弟子、蝾螈弟子、白杖弟子、弃道弟子、古序武僧、长死序武僧、轻风武僧、烁手武僧、悲泣兄弟会、伟大经文狂热者。|- 盗贼：小老鼠、灭鼠者、侦察兵、杂技演员、害虫杀手。|- 牧师：格朗巴的行者、乌卢提乌的冰霜守卫、奥瑞尔的冰霜牧师、疗叶者、卢西克的牧师、格鲁姆什的萨满、疗木者。|- 德鲁伊：群聚者。",
+        "description": "该模组新增34种职业配置：|- 战士：突击侏儒、雇佣兵、密尔腾武者、隧道鼠|- 游侠：巨人杀手|- 圣武士：秘火骑士、森林仆从、苦痛圣战者|- 武僧：纯净火焰兄弟会、被动之声童子、无相门徒、凤凰门徒、火蜥门徒、白杖门徒、柔道门徒、古序武僧、长亡序武僧、闪风武僧、火花手武僧、泣兄弟武僧、圣典传道者|- 盗贼：小耗子、捕鼠人、侦察兵、飞贼、害虫灭除者|- 牧师：格姆巴大地行者、乌吕提乌冰卫、奥丽尔冰祭司、愈叶者、卢锡克祭司、格乌什萨满、治林者|- 德鲁伊：虫群之主",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute 34 nouveaux profils :|- guerriers : Gnome de choc, Mercenaire, Myrmidon et Rat de tunnel.|- rôdeurs : Tueur de géant.|- paladins : Chevalier du feu mystique, Serviteur de la forêt et Guerrier sanctifié de la souffrance.|- moines : Frères et sœurs de la Flamme pure, Enfant de la Voix passive, Disciple du Visage immuable, Disciple du Phénix, Disciple de la Salamandre, Disciple du Bâton Blanc, Disciple de la Voie du souplesse, Moine de l'Ordre ancien, Moine de l'Ordre de la longue mort, Moine du Vent Scintillant, Moine de la Main étincelante, Moine des Frères pleureurs, Zélateur des Grands écrits.|- voleurs : Petit rat, Dératiseur, Éclaireur, Voltigeur, Tueur de vermines.|- clercs : Marcheterre de Grumbar, Gardien des glaces d'Ulutiu, Prêtre des glaces d'Aurile, Soigne-feuilles, Prêtre de Luthic, Chaman de Gruumsh, Soigne-bois.|- druides : Essaimeur."
         },
         "notes": [],
@@ -8863,7 +8863,7 @@
     },
     {
         "id": 611,
-        "description": "曾经是希尔米斯塔的齐冯，Kivan通过此模组终于回到了BG2，他的妻子黛赫瑞安娜（在某些条件下亦是如此）。他在艾瑞尼卡斯的地牢出口处与你重逢。这为没有玩过BG1的玩家提供了一个认识原版游戏最佳NPC之一的契机，也为其他玩家提供了了解齐冯后来如何以及发生了什么变化的机会。|力量 18/21, 敏捷 17, 体质 14, 智力 12, 智慧 16, 魅力 8。|",
+        "description": "该模组旧称“西尔明斯塔的齐冯”。藉此，齐冯终于回归BG2，他的妻子黛赫瑞安娜（在特定条件下）也一并得以重逢。他会在艾瑞尼卡斯的地牢出口处与你相见。这既让尚未游玩BG1的玩家有缘结识原版游戏中的最佳NPC之一，也使我们其他人有机会见证齐冯的后续遭遇，目睹他发生了怎样的改变。|力量 18/21，敏捷 17，体质 14，智力 12，智慧 16，魅力 8。|",
         "description_meta": {
             "status": "done",
             "source": "Anciennement Kivan de Shilmista, Kivan est enfin de retour dans BG2 grâce à ce mod, ainsi que sa femme, Dehenaria (sous certaines conditions). Il vous retrouve à la sortie du donjon d'Irenicus. L'occasion pour ceux qui n'ont pas joué à BG1 de connaître un des meilleurs PNJ du jeu originel et pour les autres, la possibilité de voir ce qu'il est advenu de Kivan et comment il a changé.|FOR 18/21, DEX 17, CON 14, INT 12, SAG 16, CHA 8."
@@ -27266,9 +27266,9 @@
     },
     {
         "id": 1894,
-        "description": "",
+        "description": "陷阱再平衡旨在将目前主要用于消灭首领的陷阱，转化为传统冒险中可靠的战术工具，使其在对抗大群敌人时更有效，但叠加使用时效果减弱。盗贼将获得两项新能力：“设置基础陷阱”和“设置高级陷阱”，可部署总计六种独特陷阱。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Traps Rebalanced vise à transformer les pièges, qui servent actuellement à éliminer les boss, en un outil tactique fiable pour les aventures plus classiques, en les rendant plus efficaces contre les grands groupes d'ennemis, mais moins efficaces lorsqu'ils sont cumulés. Les voleurs acquièrent deux nouvelles capacités : Set Basic Traps et Set Advanced Traps. Qui leur permettent de déployer un total de six pièges uniques."
         },
         "notes": [],
@@ -27279,9 +27279,9 @@
     },
     {
         "id": 1895,
-        "description": "",
+        "description": "该模组可解锁仅能通过Steam客户端获取的EE游戏成就。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod permet de débloquer les succès des jeux EE disponibles seulement via le client Steam."
         },
         "notes": [],
