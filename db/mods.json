@@ -7560,6 +7560,9 @@
         "compatibilities": {
             "incompatible_with": [
                 1354
+            ],
+            "requires": [
+                1229
             ]
         },
         "tp2": "ctb"
@@ -9698,7 +9701,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "Item_Pack"
     },
@@ -12980,7 +12983,11 @@
         ],
         "status": "active",
         "last_update": "2022-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1602
+            ]
+        },
         "tp2": "JanQuestRemix"
     },
     {
@@ -13956,7 +13963,12 @@
         ],
         "status": "active",
         "last_update": "2023-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1878,
+                1879
+            ]
+        },
         "tp2": "framed"
     },
     {
@@ -14282,7 +14294,7 @@
     {
         "id": 431,
         "name": "Garrick: Tales of a Troubadour",
-        "description": "Ce mod vise à rendre le personnage de Garrick plus intéressant à jouer, en ajoutant de nouveaux dialogues, de nouvelles situations et rencontres ainsi que des chants supplémentaires propres au barde de Bérégost. Il s'appuie pour cela sur le contenu introduit par le [[25]] et le complète. Il faut impérativement que [[25]] soit installé avant.",
+        "description": "Ce mod vise à rendre le personnage de Garrick plus intéressant à jouer, en ajoutant de nouveaux dialogues, de nouvelles situations et rencontres ainsi que des chants supplémentaires propres au barde de Bérégost. Il s'appuie pour cela sur le contenu introduit par le [[105]] et le complète.",
         "urls": [
             "https://mirandir.baldursgateworld.fr/garrick-tt/fr.html",
             "https://github.com/The-Gate-Project/Garrick_Tales-of-a-Troubadour"
@@ -14316,6 +14328,9 @@
             "incompatible_with": [
                 432,
                 1042
+            ],
+            "requires": [
+                105
             ]
         },
         "tp2": "garrick-tt"
@@ -17897,7 +17912,11 @@
         ],
         "status": "active",
         "last_update": "2017-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                562
+            ]
+        },
         "tp2": "valhorn"
     },
     {
@@ -18643,7 +18662,11 @@
         ],
         "status": "active",
         "last_update": "2023-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                541
+            ]
+        },
         "tp2": "item_rev"
     },
     {
@@ -28497,6 +28520,9 @@
         "compatibilities": {
             "requires": [
                 74
+            ],
+            "incompatible_with": [
+                1297
             ]
         },
         "tp2": "Redemption"
@@ -29129,7 +29155,11 @@
         ],
         "status": "active",
         "last_update": "2021-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1137
+            ]
+        },
         "tp2": "reunion"
     },
     {
@@ -29137,6 +29167,7 @@
         "name": "Reveal Hidden Gameplay Options",
         "description": "Ce mod permet de modifier la nouvelle interface de jeu de BG:EE et BG2:EE apparue avec la version 2.0 et Siege of Dragonspear. Il ajoute dans l'interface du jeu la possibilité de modifier des réglages déjà présents dans le fichier Baldur.lua mais qu'il fallait régler à la main, comme le \"célèbre\" panneau de débogage (ce qui vous dispensera de la manip indiquée dans le manuel d'installation du jeu), plusieurs paramétrages graphiques et de feedback, et d'autres encore.",
         "urls": [
+            "https://www.shsforums.net/topic/60062-reveal-hidden-gameplay-options/",
             "https://forums.beamdog.com/discussion/64524/",
             "https://github.com/Argent77/A7-HiddenGameplayOptions"
         ],
@@ -29171,7 +29202,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-03",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "HiddenGameplayOptions"
     },
@@ -35245,6 +35276,9 @@
         "compatibilities": {
             "incompatible_with": [
                 736
+            ],
+            "requires": [
+                1229
             ]
         },
         "tp2": "tdd"
@@ -37760,6 +37794,9 @@
         "compatibilities": {
             "requires": [
                 74
+            ],
+            "incompatible_with": [
+                882
             ]
         },
         "tp2": "turnabout"
@@ -43037,7 +43074,14 @@
         ],
         "status": "active",
         "last_update": "2023-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                74
+            ],
+            "incompatible_with": [
+                863
+            ]
+        },
         "tp2": "LongerRoad"
     },
     {
@@ -44399,7 +44443,11 @@
         ],
         "status": "active",
         "last_update": "2023-03",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                1233
+            ]
+        },
         "tp2": "XanFrenchMini"
     },
     {
@@ -52563,6 +52611,7 @@
                 736
             ],
             "requires": [
+                146,
                 1062
             ]
         },
@@ -52603,7 +52652,11 @@
         ],
         "status": "active",
         "last_update": "2019-08",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                390
+            ]
+        },
         "tp2": "janquest"
     },
     {
@@ -60945,7 +60998,14 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                1229
+            ],
+            "incompatible_with": [
+                420
+            ]
+        },
         "tp2": "BonehillEET"
     },
     {
@@ -60986,7 +61046,11 @@
         ],
         "status": "active",
         "last_update": "2024-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                420
+            ]
+        },
         "tp2": "Vaulteet"
     },
     {
