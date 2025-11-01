@@ -2555,9 +2555,9 @@
     },
     {
         "id": 175,
-        "description": "由Selphira在您最喜欢的论坛上开发，BWS-FR是已停止开发的[Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup)的一个分支，专门用于安装法语翻译的模组，并与博德之门三部曲兼容（它也会安装一些不在游戏中添加文本的英文模组）。|与后者一样，它允许您下载、解压和自动安装模组，同时管理冲突、依赖关系和安装顺序。因此，它为Project Infinity工具提供了一个功能性的替代方案，该工具仍在开发阶段，其使用至少不够直观，并且远未完善。|<u>其主要功能：</u>|- 它允许您选择所需的模组和组件，并负责完全自动化安装过程。|- 它支持模组预设。|- 它自动下载大多数模组。|- 它自动解压大多数模组。|- 它负责管理安装顺序。|- 它会提示您选择中可能存在的冲突，并提供解决方案以避免这些冲突。|- 它对某些模组应用修正。|您可以访问[专属论坛](https://www.baldursgateworld.fr/viewforum.php?f=757)获取更多信息并使用指南。",
+        "description": "BWS-FR 是基于已停止更新的 [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) 分支版本，专门用于安装法语翻译且兼容 EET 的模组（同时也会安装部分不添加游戏内文本的英文模组）。|与此前版本相同，它支持自动下载、解压并安装模组，同时处理冲突检测、依赖关系及安装顺序管理。这为 [[1367]] 号工具提供了另一种替代方案。|<u>核心功能：</u>|- 支持选择所需模组及其组件，并实现全自动安装流程。|- 支持模组预设方案。|- 自动下载绝大多数模组。|- 自动解压绝大多数模组。|- 自动管理安装顺序。|- 检测当前选择可能存在的冲突，并提供解决方案。|- 自动应用 [[1325]] 号修正补丁。|您可查阅 [专属讨论区](https://www.baldursgateworld.fr/viewforum.php?f=757) 获取更多信息并使用操作指南。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "BWS-FR est un fork du défunt [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) spécialisé dans l'installation des mods traduits en Français et compatibles avec EET (il installe aussi certains mods anglais qui n'ajoutent pas de texte dans le jeu).|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative à l'outil [[1367]].|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter.|- Il applique les corrections de [[1325]].|Vous pouvez consulter le [Forum dédié](https://www.baldursgateworld.fr/viewforum.php?f=757) pour de plus amples informations et accéder aux Guides d'utilisation."
         },
         "notes": [
@@ -17859,9 +17859,9 @@
     },
     {
         "id": 1229,
-        "description": "此模组对于任何在世界地图上添加地点的模组组合（BGT、[[1601]]、[[226]]、[[936]]等）都是绝对必需的。它提供了一个独特、更大、更美观的世界地图，并且与所有现有的博德之门II模组，或特定于BGT或BG1Tutu的模组（融入博德之门的剧情框架）兼容。|它必须在所有可能在世界地图上添加位置的模组之后至少安装一次。注意避免卸载或重新安装此模组，否则可能会直接摧毁你的游戏存档。|强烈建议您选择“原始旅行时间”和小地图选项（如果系统询问）。修改后的“旅行时间”存在未解决的错误，而大地图加载更重且没有优势（但如果您安装了一个需要大地图的模组，大地图将自动安装而不会询问您）。",
+        "description": "该模组对于任何添加世界地图地点的大型模组（[[148]], [[1062]], [[226]], [[936]], [[287]], [[761]], [[1084]], [[1064]]...）都是绝对必备的。它能提供唯一、更宏大且更精美的世界地图。|此模组必须至少在所有可能添加世界地图位置的模组之后安装。注意避免卸载或重新安装此模组，否则很可能直接损坏您的游戏存档。|强烈建议选择“原始旅行时间”选项和小地图（如果系统询问）。“修订版”旅行时间存在未修复的程序错误，而大地图加载更缓慢且无明显优势（但若您安装的某个模组要求使用大地图，则系统会默认直接安装而不会询问）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod est absolument indispensable avec n'importe quel gros mod ajoutant des lieux sur la carte du monde ([[148]], [[1062]], [[226]], [[936]], [[287]], [[761]], [[1084]], [[1064]]...). Il permet de disposer d'une carte du monde unique, plus grande et plus jolie.|Il doit être installé au minimum après tous les mods susceptibles d'ajouter des emplacements dans la carte du monde. Attention à éviter de désinstaller ou réinstaller ce mod, cela pourrait tout simplement détruire votre partie.|Il vous est fortement conseillé de choisir l'option `Temps de voyages originaux` et la petite carte (si on vous pose la question). Les temps de voyages \"revus\" comportent des bugs non résolus, et la grande carte est plus lourde à charger sans présenter d'avantages (mais si vous installez un mod qui requiert la grande carte, cette dernière sera installée d'office sans qu'on vous pose la question)."
         },
         "notes": [],
@@ -27292,9 +27292,9 @@
     },
     {
         "id": 1896,
-        "description": "",
+        "description": "《繁花与腐朽之战》是一款任务模组，引入了一个规模宏大的全新任务。探索二十个新区域并迎战强大的敌人，同时您还需设法从地下洞穴网络返回。启程之前，您或许需要终结蕈人群落与另一个强大存在之间的战争——这个饥饿的存在决心清除沿途的一切障碍。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "The War of Bloom and Rot est un mod de quête qui introduit une nouvelle quête d'une taille importante. Explorez vingt nouvelles zones et affrontez de puissants ennemis alors que vous tentez de revenir du réseau souterrain de grottes. Pour partir, vous devrez peut-être mettre fin à une guerre entre les myconides et une autre entité puissante, affamée et déterminée à éradiquer tout ce qui se trouve sur son chemin."
         },
         "notes": [],
