@@ -27,7 +27,7 @@ def main(**kwargs) -> None:
 
     print("# Check K4thos list")
     compatible_links = {
-        clean_url(str(link.attrs.get("href", "")))
+        simplify_url(str(link.attrs.get("href", "")))
         for link in links
         if link.parent and link.parent.name == "li" and isinstance(link, bs4.Tag)
     }
@@ -52,7 +52,3 @@ def main(**kwargs) -> None:
     if not_found_links:
         print(f"\n## Mods not found in lcc-list ({len(not_found_links)}):")
         print("\n".join(sorted(list(not_found_links))))
-
-
-def clean_url(url: str) -> str:
-    return simplify_url(url).replace("http://www.shsforums.net/", "https://www.shsforums.net/")
