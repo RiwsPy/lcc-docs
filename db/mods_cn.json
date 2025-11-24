@@ -2821,7 +2821,10 @@
             "source": [
                 "Bien que fonctionnel sous BG2 et BG2EE, il n'a aucun contenu."
             ]
-        }
+        },
+        "team": [
+            "Lzw104522773"
+        ]
     },
     {
         "id": 193,
@@ -15465,14 +15468,10 @@
             "status": "done",
             "source": "Quelqu'un a œuvré dans l'ombre, manipulant les événements de la Côte des Épées à son avantage. Percez les mystères de la Rune tordue et enquêtez sur les agissements des Mages cagoulés."
         },
-        "notes": [
-            "需要 [[372]]。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "[[372]] est requis."
-            ]
+            "source": []
         }
     },
     {
@@ -18413,7 +18412,10 @@
             "source": [
                 "Installez ce mod après EET et les mods ajoutant de nouvelles zones à la CluaConsole et si possible après les mods d'interface. Lisez le readme du projet pour en savoir plus."
             ]
-        }
+        },
+        "team": [
+            "MephistoSatanDevil"
+        ]
     },
     {
         "id": 1269,
@@ -19916,7 +19918,12 @@
             "source": [
                 "Il y a plusieurs options disponibles|[Version explicite](https://github.com/LCA-EET/LCA_Explicit)|[Version EE sans EET](https://github.com/LCA-EET/LCA_EE)|[Pack de voix](https://github.com/LCA-EET/LCA_VoicePack)|Lisez les readme pour en savoir plus."
             ]
-        }
+        },
+        "team": [
+            "mogui45",
+            "MephistoSatanDevil",
+            "Yoshimo0417"
+        ]
     },
     {
         "id": 1372,

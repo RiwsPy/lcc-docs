@@ -5414,7 +5414,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "BardicWonders"
     },
@@ -5611,6 +5611,8 @@
         ],
         "games": [
             "BG",
+            "BGT",
+            "Tutu",
             "BG2",
             "BGEE",
             "BG2EE",
@@ -5632,7 +5634,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "d2-script"
     },
@@ -6416,7 +6418,8 @@
         "safe": 2,
         "languages": [
             "en",
-            "de"
+            "de",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-11",
@@ -6748,7 +6751,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "AutoLoot"
     },
@@ -9479,7 +9482,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "DarkHorizons"
     },
@@ -9702,7 +9705,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "Item_Pack"
     },
@@ -11605,7 +11608,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-11",
         "compatibilities": {
             "incompatible_with": [
                 1410
@@ -12850,7 +12853,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "expandedclasses"
     },
@@ -16982,7 +16985,8 @@
             "en",
             "fr",
             "es",
-            "de"
+            "de",
+            "ru"
         ],
         "status": "active",
         "last_update": "2023-12",
@@ -23652,7 +23656,8 @@
             "EET"
         ],
         "authors": [
-            "Mortis"
+            "Mortis",
+            "Seifer"
         ],
         "team": [],
         "notes": [
@@ -24824,7 +24829,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "BlinkingDead"
     },
@@ -35216,19 +35221,22 @@
             "Daxtreme"
         ],
         "team": [],
-        "notes": [
-            "[[372]] est requis."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
             "en",
             "ru",
-            "cn"
+            "cn",
+            "it"
         ],
         "status": "active",
         "last_update": "2024-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                372
+            ]
+        },
         "tp2": "cowledmenace"
     },
     {
@@ -40485,7 +40493,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "willowisp"
     },
@@ -42045,10 +42053,10 @@
     },
     {
         "id": 1268,
-        "name": "CluaFr",
+        "name": "CluAreas",
         "description": "Ce mod permet traduire les CheatsAreas disponibles via la CLUA console, y compris celles ajoutées par d'autres mods. Il ajoute également de nouvelles zones dans la liste.",
         "urls": [
-            "https://github.com/The-Gate-Project/CluaFr"
+            "https://github.com/The-Gate-Project/CluAreas/"
         ],
         "categories": [
             "Patch non officiel"
@@ -42070,12 +42078,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": "active",
         "last_update": "2023-06",
         "compatibilities": {},
-        "tp2": "CluaFr"
+        "tp2": "CluAreas"
     },
     {
         "id": 1269,
@@ -43509,7 +43518,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "Bethany"
     },
@@ -43642,7 +43651,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "Loretakers"
     },
@@ -44115,7 +44124,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2025-10",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -45039,7 +45048,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "zbpod"
     },
@@ -45293,7 +45302,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "valkrana"
     },
@@ -45511,7 +45520,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -45576,7 +45585,8 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-10",
@@ -46952,7 +46962,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "mih_fr"
     },
@@ -50032,7 +50042,9 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2025-10",
         "compatibilities": {},
@@ -57510,7 +57522,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "Derats_Oops"
     },
@@ -58811,10 +58823,11 @@
         "languages": [
             "en",
             "ru",
-            "cn"
+            "cn",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-11",
         "compatibilities": {
             "incompatible_with": [
                 1286
@@ -60197,7 +60210,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "Spells_and_Magic"
     },
@@ -61123,7 +61136,8 @@
             "Patch non officiel"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BGT"
         ],
         "authors": [
             "Leonardo Watson"
@@ -61556,7 +61570,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "TheWarOfBloomAndRot"
     }
