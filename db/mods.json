@@ -33655,11 +33655,9 @@
             "Zyraen"
         ],
         "team": [],
-        "notes": [
-            "Le mod crash lors de la téléportation du Protagoniste vers la nouvelle carte."
-        ],
+        "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
@@ -49622,7 +49620,7 @@
         "description": "Il s'agit d'un utilitaire de configuration non officiel pour les jeux Infinity Engine - Enhanced Edition. Il permet de modifier facilement certaines propriétés modifiables dans le fichier Baldur.lua.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/33825-infinity-engine-configuration-utility/",
-            "https://github.com/LionAG/IE-EE-Configuration/"
+            "https://github.com/MephistoSatanDevil/IE-EE-Config/"
         ],
         "categories": [
             "Utilitaire"
@@ -49631,20 +49629,24 @@
             "BGEE",
             "BG2EE",
             "IWDEE",
-            "PSTEE"
+            "PSTEE",
+            "EET"
         ],
         "authors": [
-            "LionAG"
+            "LionAG",
+            "MephistoSatanDevil"
         ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2022-10",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -58471,7 +58473,7 @@
     {
         "id": 1795,
         "name": "IWDisateur",
-        "description": "Le IWDisateur est un mod qui vous permet d'installer sur IWDEE des mods initialement prévus pour BG2EE. Une trentaine de mods sont actuellement proposés.",
+        "description": "Le IWDisateur est un mod qui vous permet d'installer sur IWDEE des mods initialement prévus pour BG2EE. Une trentaine de mods sont actuellement proposés comme [[1121]], [[337]], [[1090]], [[474]], [[850]], [[1155]] et bien d'autres...",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34964",
             "https://forums.beamdog.com/discussion/89655/",
@@ -58488,7 +58490,7 @@
         ],
         "team": [],
         "notes": [
-            "La procédure d'installation est expliquée dans le README du projet."
+            "La procédure d'installation ainsi que la liste exhaustive des mods supportés sont présentés dans le README du projet."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -61130,6 +61132,7 @@
         "name": "BiG World Textpack English",
         "description": "Ce pack de texte installe toutes les traductions disponibles de plusieurs dizaines de mods, qui ne sont pas incluses dans les mods, et effectue d'autres corrections de texte.",
         "urls": [
+            "https://www.shsforums.net/files/file/979-big-world-textpack-english/",
             "https://github.com/Spellhold-Studios/BiG-World-Textpack-English/"
         ],
         "categories": [
@@ -61270,7 +61273,7 @@
     {
         "id": 1887,
         "name": "PC soundset",
-        "description": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste.",
+        "description": "Ce mod ajoute 30 ensembles de sons entièrement nouveaux et originaux au jeu, que vous pouvez utiliser sur votre PC. Les ensembles de sons ont tous été écrits et enregistrés par des membres de la communauté de modding.",
         "urls": [
             "https://www.shsforums.net/files/file/563-pc-soundsets-osxlinuxfull/",
             "https://github.com/Spellhold-Studios/PC-Soundsets/"
@@ -61567,11 +61570,99 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "fr"
         ],
         "status": "active",
         "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "TheWarOfBloomAndRot"
+    },
+    {
+        "id": 1897,
+        "name": "Baldur's Gate Random Loot",
+        "description": "Rend les nouvelles parties plus amusantes et imprévisibles en randomisant plus de 500 objets. Fini le métagaming.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/107",
+            "https://github.com/the-overdriven/bg-random-loot/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "korootz"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-10",
+        "compatibilities": {},
+        "tp2": "bg-random-loot"
+    },
+    {
+        "id": 1898,
+        "name": "Skills & Proficiencies",
+        "description": "Il s'agit d'un mod qui ajoute un certain nombre de capacités spéciales et de compétences de type voleur au jeu (pour les voleurs et les non-voleurs). [[348]] n'est pas nécessaire pour la plupart des composants de ce mod, mais il est généralement recommandé.",
+        "urls": [
+            "https://github.com/Grammarsalad/IE_Skillz/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "Grammarsalad"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-10",
+        "compatibilities": {},
+        "tp2": "Skills_and_Profiencies"
+    },
+    {
+        "id": 1899,
+        "name": "Baldur's Gate 2: Rebirth TC Mod for EE",
+        "description": "Rebirth est un mod de conversion totale qui se déroule dans le royaume de Cormyr. Il introduit un scénario, des personnages, des zones et des défis entièrement nouveaux dans les Royaumes Oubliés.",
+        "urls": [
+            "https://www.bg2rebirthmod.com/bg2rebirthmod/",
+            "https://www.gibberlings3.net/forums/topic/40754-announcing-baldurs-gate-2-rebirth-tc-mod-for-ee/"
+        ],
+        "categories": [
+            "Conversion"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Vangerdahast"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [],
+        "status": "wip",
+        "last_update": "2025-11",
+        "compatibilities": {},
+        "tp2": ""
     }
 ]

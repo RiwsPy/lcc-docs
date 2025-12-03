@@ -14062,10 +14062,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Le mod crash lors de la téléportation du Protagoniste vers la nouvelle carte."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -24745,13 +24743,13 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Le IWDisateur est un mod qui vous permet d'installer sur IWDEE des mods initialement prévus pour BG2EE. Une trentaine de mods sont actuellement proposés."
+            "source": "Le IWDisateur est un mod qui vous permet d'installer sur IWDEE des mods initialement prévus pour BG2EE. Une trentaine de mods sont actuellement proposés comme [[1121]], [[337]], [[1090]], [[474]], [[850]], [[1155]] et bien d'autres..."
         },
         "notes": [],
         "notes_meta": {
             "status": "todo",
             "source": [
-                "La procédure d'installation est expliquée dans le README du projet."
+                "La procédure d'installation ainsi que la liste exhaustive des mods supportés sont présentés dans le README du projet."
             ]
         }
     },
@@ -25966,7 +25964,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste."
+            "source": "Ce mod ajoute 30 ensembles de sons entièrement nouveaux et originaux au jeu, que vous pouvez utiliser sur votre PC. Les ensembles de sons ont tous été écrits et enregistrés par des membres de la communauté de modding."
         },
         "notes": [],
         "notes_meta": {
@@ -26086,6 +26084,45 @@
         "description_meta": {
             "status": "todo",
             "source": "The War of Bloom and Rot est un mod de quête qui introduit une nouvelle quête d'une taille importante. Explorez vingt nouvelles zones et affrontez de puissants ennemis alors que vous tentez de revenir du réseau souterrain de grottes. Pour partir, vous devrez peut-être mettre fin à une guerre entre les myconides et une autre entité puissante, affamée et déterminée à éradiquer tout ce qui se trouve sur son chemin."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1897,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Rend les nouvelles parties plus amusantes et imprévisibles en randomisant plus de 500 objets. Fini le métagaming."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1898,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Il s'agit d'un mod qui ajoute un certain nombre de capacités spéciales et de compétences de type voleur au jeu (pour les voleurs et les non-voleurs). [[348]] n'est pas nécessaire pour la plupart des composants de ce mod, mais il est généralement recommandé."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1899,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Rebirth est un mod de conversion totale qui se déroule dans le royaume de Cormyr. Il introduit un scénario, des personnages, des zones et des défis entièrement nouveaux dans les Royaumes Oubliés."
         },
         "notes": [],
         "notes_meta": {
