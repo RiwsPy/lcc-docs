@@ -2429,7 +2429,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "BWS-FR est un fork du défunt [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) spécialisé dans l'installation des mods traduits en Français et compatibles avec EET (il installe aussi certains mods anglais qui n'ajoutent pas de texte dans le jeu).|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative à l'outil [[1367]].|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter.|- Il applique les corrections de [[1325]].|Vous pouvez consulter le [Forum dédié](https://www.baldursgateworld.fr/viewforum.php?f=757) pour de plus amples informations et accéder aux Guides d'utilisation."
+            "source": "BWS-FR est un fork du défunt [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) spécialisé dans l'installation des mods traduits en Français et compatibles avec EET (il installe aussi certains mods qui n'ajoutent pas de texte dans le jeu).|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative à l'outil [[1367]].|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter.|- Il applique les corrections de [[1325]].|Vous pouvez consulter le [Forum dédié](https://www.baldursgateworld.fr/viewforum.php?f=757) pour de plus amples informations et accéder aux Guides d'utilisation."
         },
         "notes": [],
         "notes_meta": {
@@ -2922,12 +2922,14 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod ajoute un nouveau compagnon à l'IWD:EE - la tiefling Cassia. Cassia est une jeune clerc de Heaum originaire de Mirabar qui s'est rendue à Easthaven à la demande de son église pour apporter toute l'aide possible à l'expédition de Hrothgar. En tant que heaumite dévouée, elle fera tout ce qui est en son pouvoir pour protéger les Dix Cités et éradiquer les maux qui les menacent. Mais sera-t-elle à la hauteur de la tâche ou cédera-t-elle sous la responsabilité ?||Cassia est un clerc de classe unique avec le kit prêtre de Heaum et peut être recrutée à l'extérieur du Temple de Tempus à Easthaven. Elle est associée à une petite quête qui se terminera naturellement au cours du jeu et peut être romancée par des nains, des humains, des elfes, des demi-elfes et des demi-orques mâles ayant un score de charisme de 10 ou plus. Elle réagira et interviendra à la fois dans le jeu principal et dans l'extension. Elle a tendance à mieux s'entendre avec les personnages bons, mais elle n'hésitera pas à suivre l'exemple d'un joueur mauvais tant qu'il ne franchit pas de ligne rouge morale.||Cassia a un contenu crossmod avec de nombreux mods créés par Lava !"
+            "source": "Ce mod ajoute un nouveau compagnon à l'IWD:EE - la tiefling Cassia. Cassia est une jeune clerc de Heaum originaire de Mirabar qui s'est rendue à Easthaven à la demande de son église pour apporter toute l'aide possible à l'expédition de Hrothgar. En tant que heaumite dévouée, elle fera tout ce qui est en son pouvoir pour protéger les Dix Cités et éradiquer les maux qui les menacent. Mais sera-t-elle à la hauteur de la tâche ou cédera-t-elle sous la responsabilité ?||Cassia est un clerc de classe unique avec le kit prêtre de Heaum et peut être recrutée à l'extérieur du Temple de Tempus à Easthaven. Elle est associée à une petite quête qui se terminera naturellement au cours du jeu et peut être romancée par des nains, des humains, des elfes, des demi-elfes et des demi-orques mâles ayant un score de charisme de 10 ou plus. Elle réagira et interviendra à la fois dans le jeu principal et dans l'extension. Elle a tendance à mieux s'entendre avec les personnages bons, mais elle n'hésitera pas à suivre l'exemple d'un joueur mauvais tant qu'il ne franchit pas de ligne rouge morale.||Cassia a un contenu partagé avec [[1082]], [[1025]], [[165]], [[971]] et [[1043]]."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Le portrait a été réalisé par [Tomasz Chistowski](https://www.deviantart.com/takeda11)."
+            ]
         }
     },
     {
@@ -15091,14 +15093,12 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "The Stone of Askavar `La pierre d'Askavar` est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir.|Depuis la version 1.9, il est désormais réuni dans un seul package pour BG1, BG1Tutu, BGT, BG:EE avec ou sans SoD."
+            "source": "The Stone of Askavar `La pierre d'Askavar` est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir."
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Certains éléments ont été ajoutés après la traduction française comme la quête de Kestrell, qui est donc en anglais."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -22055,10 +22055,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "La traduction française a été effectuée par IA."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
