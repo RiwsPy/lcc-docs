@@ -61666,5 +61666,35 @@
         "last_update": "2025-11",
         "compatibilities": {},
         "tp2": ""
+    },
+    {
+        "id": 1900,
+        "name": "Vito",
+        "description": "Ce mod ajoute un nouveau compagnon : Vito, un devin kenku neutre (mage). Il peut rejoindre le groupe une fois que vous avez atteint le col de Kuldahar. Vito a prévu sa propre mort, et vous, le survivant de l'avalanche, pourriez être la clé pour changer un avenir qu'il refuse d'accepter. Le mod comprend une petite quête, un parcours d'amitié, une série de dialogues romantiques, de nouveaux sorts et quelques nouveaux objets.",
+        "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=76",
+            "https://forums.beamdog.com/discussion/90426/",
+            "https://downloads.weaselmods.net/download/vito/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-12",
+        "compatibilities": {},
+        "tp2": "Vito"
     }
 ]
