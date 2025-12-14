@@ -2908,8 +2908,8 @@
         "id": 199,
         "description": "Britt是St. Joséphine和jcompton合作约一小时的作品，她是一个热情洋溢的年轻女子，说自己想成为一名冒险者。她有自己的配音。只是这配音似乎从未真正起作用……为了节省时间，他们以Nalia的角色为基础，她拥有Nalia的一些技能。然而，她所有的属性值都为25。",
         "description_meta": {
-            "status": "done",
-            "source": "Fruit d'une collaboration d'une heure environ entre St. Joséphine et jcompton, Britt est une jeune femme enthousiaste qui dit qu'elle veut être une aventurière. Elle a sa propre voix. Sauf que ça ne semble jamais vraiment marcher... Pour gagner du temps, ils sont partis du personnage de Nalia, elle possède certaines de ses compétences.|En revanche, toutes ses caractéristiques sont à 25."
+            "status": "needs_review",
+            "source": "Fruit d'une collaboration d'une heure environ, Britt est une jeune femme enthousiaste qui dit vouloir devenir une aventurière. Elle a sa propre voix. Sauf que ça ne semble jamais vraiment marcher... Pour gagner du temps, ils sont partis du personnage de Nalia, elle possède certaines de ses compétences.|FOR 25, DEX 25, CON 25, INT 25, SAG 25, CHA 25."
         },
         "notes": [
             "作者备注：`这不是一个好模组。`"
@@ -3543,8 +3543,8 @@
         "id": 242,
         "description": "此模组受J. Compton的两部同人小说启发（他创作了[[594]]、[[598]]以及许多其他精彩的模组）。它提供了一个漫长而愉快搞笑的短剧，举办了一场类似“谁想成为百万富翁”的游戏，汇集了游戏中的NPC：凯东扮演让-皮埃尔·富凯、萨尔瓦纳斯、维康妮亚、爱蒙、寇根……等等。要观看这场表演，你需要在铜冠旅店附近遇到一个名叫凯弗里的人。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod est inspiré de deux fanfics de J. Compton (à qui on doit [[594]], [[598]] et bien d'autres modules fabuleux). Il offre une longue saynète réjouissante et rigolote en proposant une sorte de \"Qui veut gagner des millions\" réunissant les PNJ du jeu : Keldorn en Jean-Pierre Foucault, Salvanas, Viconia, Imoen, Korgan... et bien d'autres. Pour assister à ce spectacle, il vous faudra rencontrer un certain Caffrey près de la Couronne de Cuivre."
+            "status": "needs_review",
+            "source": "Ce mod est inspiré de deux fanfics de l'auteur. Il offre une longue saynète réjouissante et rigolote en proposant une sorte de \"Qui veut gagner des millions\" réunissant les PNJ du jeu : Keldorn en Jean-Pierre Foucault, Salvanas, Viconia, Imoen, Korgan... et bien d'autres. Pour assister à ce spectacle, il vous faudra rencontrer un certain Caffrey près de la Couronne de Cuivre."
         },
         "notes": [],
         "notes_meta": {
@@ -5636,8 +5636,8 @@
         "id": 386,
         "description": "这是semiticgoddess创建的档案的汇编：|- 战士：[[1196]]，[[1162]]，[变形者](https://forums.beamdog.com/discussion/69127/)，[简化灵能师](https://forums.beamdog.com/discussion/76756/)，[舞剑士](https://forums.beamdog.com/discussion/75696/)。|- 圣武士：[[1162]]，剑圣。|- 武僧：剑圣，潜行者，刺客，[简化灵能师](https://forums.beamdog.com/discussion/76756/)，闪光舞者，天空舞者，战士/武僧。|- 法师：[[31]]，[[862]]，[等离子体巫师](https://forums.beamdog.com/discussion/77517/)，战斗法师。|- 术士：[[862]]。|- 牧师：牧师/德鲁伊，预言师。|- 德鲁伊：预言师。|- 盗贼：[[1370]]，[[1162]]，剑圣，[变形者](https://forums.beamdog.com/discussion/74379/)。|- 牧师/法师：德鲁伊/法师，牧师/德鲁伊/法师。|- 法师/盗贼：德鲁伊/盗贼。|- 战士/法师/盗贼：战士/牧师/德鲁伊/法师/盗贼。",
         "description_meta": {
-            "status": "done",
-            "source": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins : [[1162]], Kensai.|- Moines : Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage.|- Sorciers : [[862]].|- Clercs : Cleric/Druid, Seer.|- Druides : Seer.|- Voleurs : [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief."
+            "status": "needs_review",
+            "source": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins : [[1162]], Kensai, Revolutionary.|- Moines : Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage, Demon Summoner.|- Sorciers : [[862]].|- Clercs : Cleric/Druid, Seer, Healer.|- Druides : Seer, Healer.|- Voleurs : [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief, Hedge Wizard.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief|- Rôdeur : Wildhaunt|- Barde : Folkherder."
         },
         "notes": [],
         "notes_meta": {
@@ -7025,6 +7025,9 @@
     },
     {
         "id": 483,
+        "team": [
+            "MephistoSatanDevil"
+        ],
         "description": "这个模组添加了新的任务和区域，可招募NPC之间的互动以及其他模组的互动。一个组件甚至在渥金商场植入了一个银行！另一个提供了与艾朗·林维尔发展爱情关系的可能性。",
         "description_meta": {
             "status": "done",

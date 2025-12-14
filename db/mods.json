@@ -936,7 +936,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "akgear"
     },
@@ -4154,7 +4154,7 @@
             "se"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "tnt"
     },
@@ -5194,7 +5194,8 @@
         "languages": [
             "en",
             "fr",
-            "ru"
+            "ru",
+            "es"
         ],
         "status": "active",
         "last_update": "2024-12",
@@ -5418,7 +5419,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "BardicWonders"
     },
@@ -6631,7 +6632,7 @@
     {
         "id": 199,
         "name": "Britt, the One-Hour Unjoinable NPC",
-        "description": "Fruit d'une collaboration d'une heure environ entre St. Joséphine et jcompton, Britt est une jeune femme enthousiaste qui dit qu'elle veut être une aventurière. Elle a sa propre voix. Sauf que ça ne semble jamais vraiment marcher... Pour gagner du temps, ils sont partis du personnage de Nalia, elle possède certaines de ses compétences.|En revanche, toutes ses caractéristiques sont à 25.",
+        "description": "Fruit d'une collaboration d'une heure environ, Britt est une jeune femme enthousiaste qui dit vouloir devenir une aventurière. Elle a sa propre voix. Sauf que ça ne semble jamais vraiment marcher... Pour gagner du temps, ils sont partis du personnage de Nalia, elle possède certaines de ses compétences.|FOR 25, DEX 25, CON 25, INT 25, SAG 25, CHA 25.",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
@@ -6643,7 +6644,7 @@
         ],
         "authors": [
             "St. Josephine",
-            "jcompton"
+            "Jason Compton"
         ],
         "team": [],
         "notes": [
@@ -8043,7 +8044,7 @@
     {
         "id": 242,
         "name": "Cloakwood Squares",
-        "description": "Ce mod est inspiré de deux fanfics de J. Compton (à qui on doit [[594]], [[598]] et bien d'autres modules fabuleux). Il offre une longue saynète réjouissante et rigolote en proposant une sorte de \"Qui veut gagner des millions\" réunissant les PNJ du jeu : Keldorn en Jean-Pierre Foucault, Salvanas, Viconia, Imoen, Korgan... et bien d'autres. Pour assister à ce spectacle, il vous faudra rencontrer un certain Caffrey près de la Couronne de Cuivre.",
+        "description": "Ce mod est inspiré de deux fanfics de l'auteur. Il offre une longue saynète réjouissante et rigolote en proposant une sorte de \"Qui veut gagner des millions\" réunissant les PNJ du jeu : Keldorn en Jean-Pierre Foucault, Salvanas, Viconia, Imoen, Korgan... et bien d'autres. Pour assister à ce spectacle, il vous faudra rencontrer un certain Caffrey près de la Couronne de Cuivre.",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
@@ -8055,7 +8056,7 @@
             "BGT"
         ],
         "authors": [
-            "jcompton"
+            "Jason Compton"
         ],
         "team": [],
         "notes": [],
@@ -9186,7 +9187,7 @@
     },
     {
         "id": 277,
-        "name": "Imnesvale",
+        "name": "D's Odd Quest Mod (Imnesvale)",
         "description": "Ce mini mod ajoute une rencontre supplémentaire dans les Collines d'Umar au chapitre 6. Ce n'est que le prétexte à un combat assez difficile contre des ennemis de niveaux 15 à 20 et très bien équipés. L'auteur a prévu 3 niveaux de difficulté : facile (déjà bien assez ardu), difficile et carrément démentiel.",
         "urls": [
             "https://www.shsforums.net/files/file/614-ds-odd-quest-mod/",
@@ -9212,7 +9213,9 @@
             "en",
             "de",
             "it",
-            "ru"
+            "ru",
+            "fr",
+            "es"
         ],
         "status": "active",
         "last_update": "2024-12",
@@ -10008,7 +10011,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2024-01",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "Dendjelion"
     },
@@ -11237,7 +11240,7 @@
         ],
         "authors": [
             "Blue the Immortal Bard",
-            "jcompton"
+            "Jason Compton"
         ],
         "team": [],
         "notes": [
@@ -12834,7 +12837,7 @@
     {
         "id": 386,
         "name": "Expanded Classes and Kits",
-        "description": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins : [[1162]], Kensai.|- Moines : Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage.|- Sorciers : [[862]].|- Clercs : Cleric/Druid, Seer.|- Druides : Seer.|- Voleurs : [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief.",
+        "description": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins : [[1162]], Kensai, Revolutionary.|- Moines : Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage, Demon Summoner.|- Sorciers : [[862]].|- Clercs : Cleric/Druid, Seer, Healer.|- Druides : Seer, Healer.|- Voleurs : [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief, Hedge Wizard.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief|- Rôdeur : Wildhaunt|- Barde : Folkherder.",
         "urls": [
             "https://forums.beamdog.com/discussion/77859/"
         ],
@@ -12859,7 +12862,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "expandedclasses"
     },
@@ -14136,7 +14139,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "fyalvara"
     },
@@ -14891,7 +14894,7 @@
             "BGT"
         ],
         "authors": [
-            "jcompton"
+            "Jason Compton"
         ],
         "team": [],
         "notes": [],
@@ -16034,10 +16037,11 @@
         "languages": [
             "en",
             "ru",
-            "es"
+            "es",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "HerThiMoney"
     },
@@ -25739,10 +25743,11 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "pl"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "Orra"
     },
@@ -32573,7 +32578,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2020-08",
+        "last_update": "2025-12",
         "compatibilities": {
             "incompatible_with": [
                 297,
@@ -33665,7 +33670,8 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "fr"
         ],
         "status": "active",
         "last_update": "2025-10",
@@ -36867,10 +36873,11 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "pl"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-12",
         "compatibilities": {
             "requires": [
                 443
@@ -41981,7 +41988,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "peacespeaker"
     },
@@ -43210,7 +43217,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "WilsonChronicles"
     },
@@ -43487,10 +43494,11 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "pt"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "XzarAndMontaron"
     },
@@ -43549,10 +43557,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "pl"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "GroveOfChaos"
     },
@@ -44912,10 +44921,11 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "mod-thalantyr-ex"
     },
@@ -45039,7 +45049,10 @@
             "EET"
         ],
         "authors": [
-            "zenblack"
+            "zenblack",
+            "dark0dave",
+            "RoyalProtector",
+            "Llewren"
         ],
         "team": [],
         "notes": [],
@@ -45050,7 +45063,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "zbpod"
     },
@@ -45591,7 +45604,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "lca"
     },
@@ -47604,7 +47617,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-11",
+        "last_update": "2023-09",
         "compatibilities": {},
         "tp2": "wl_SummonsFoW"
     },
@@ -49582,7 +49595,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "Kvel_BG1"
     },
@@ -53117,7 +53130,8 @@
             "en",
             "it",
             "ru",
-            "fr"
+            "fr",
+            "pt"
         ],
         "status": "active",
         "last_update": "2025-10",
@@ -56966,10 +56980,11 @@
             "de",
             "cn",
             "es",
-            "ru"
+            "ru",
+            "pt"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "ThroneoftheMadGod"
     },
@@ -57526,7 +57541,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "Derats_Oops"
     },
@@ -58831,7 +58846,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {
             "incompatible_with": [
                 1286
@@ -58913,7 +58928,8 @@
             "BGEE",
             "BG2EE",
             "EET",
-            "IWDEE"
+            "IWDEE",
+            "SoD"
         ],
         "authors": [
             "Deratiseur"
@@ -58927,7 +58943,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "Derats_Thingies"
     },
@@ -59640,7 +59656,7 @@
         "languages": [
             "en"
         ],
-        "status": "wip",
+        "status": "missing",
         "last_update": "2025-09",
         "compatibilities": {},
         "tp2": "TPoJ"
@@ -59769,7 +59785,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "tutorils_he"
     },
@@ -59800,7 +59816,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "jarnip"
     },
@@ -60214,7 +60230,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "Spells_and_Magic"
     },
@@ -60455,7 +60471,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -61573,10 +61589,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "pl"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "TheWarOfBloomAndRot"
     },
@@ -61636,7 +61653,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "Skills_and_Profiencies"
     },

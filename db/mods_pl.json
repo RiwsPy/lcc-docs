@@ -2756,7 +2756,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Fruit d'une collaboration d'une heure environ entre St. Joséphine et jcompton, Britt est une jeune femme enthousiaste qui dit qu'elle veut être une aventurière. Elle a sa propre voix. Sauf que ça ne semble jamais vraiment marcher... Pour gagner du temps, ils sont partis du personnage de Nalia, elle possède certaines de ses compétences.|En revanche, toutes ses caractéristiques sont à 25."
+            "source": "Fruit d'une collaboration d'une heure environ, Britt est une jeune femme enthousiaste qui dit vouloir devenir une aventurière. Elle a sa propre voix. Sauf que ça ne semble jamais vraiment marcher... Pour gagner du temps, ils sont partis du personnage de Nalia, elle possède certaines de ses compétences.|FOR 25, DEX 25, CON 25, INT 25, SAG 25, CHA 25."
         },
         "notes": [],
         "notes_meta": {
@@ -3355,7 +3355,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod est inspiré de deux fanfics de J. Compton (à qui on doit [[594]], [[598]] et bien d'autres modules fabuleux). Il offre une longue saynète réjouissante et rigolote en proposant une sorte de \"Qui veut gagner des millions\" réunissant les PNJ du jeu : Keldorn en Jean-Pierre Foucault, Salvanas, Viconia, Imoen, Korgan... et bien d'autres. Pour assister à ce spectacle, il vous faudra rencontrer un certain Caffrey près de la Couronne de Cuivre."
+            "source": "Ce mod est inspiré de deux fanfics de l'auteur. Il offre une longue saynète réjouissante et rigolote en proposant une sorte de \"Qui veut gagner des millions\" réunissant les PNJ du jeu : Keldorn en Jean-Pierre Foucault, Salvanas, Viconia, Imoen, Korgan... et bien d'autres. Pour assister à ce spectacle, il vous faudra rencontrer un certain Caffrey près de la Couronne de Cuivre."
         },
         "notes": [],
         "notes_meta": {
@@ -4161,6 +4161,9 @@
     },
     {
         "id": 300,
+        "team": [
+            "norQ"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -5343,7 +5346,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins : [[1162]], Kensai.|- Moines : Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage.|- Sorciers : [[862]].|- Clercs : Cleric/Druid, Seer.|- Druides : Seer.|- Voleurs : [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief."
+            "source": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins : [[1162]], Kensai, Revolutionary.|- Moines : Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage, Demon Summoner.|- Sorciers : [[862]].|- Clercs : Cleric/Druid, Seer, Healer.|- Druides : Seer, Healer.|- Voleurs : [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief, Hedge Wizard.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief|- Rôdeur : Wildhaunt|- Barde : Folkherder."
         },
         "notes": [],
         "notes_meta": {
@@ -10776,6 +10779,9 @@
     },
     {
         "id": 780,
+        "team": [
+            "norQ"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -15365,6 +15371,9 @@
     },
     {
         "id": 1108,
+        "team": [
+            "norQ"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -18156,6 +18165,9 @@
     },
     {
         "id": 1310,
+        "team": [
+            "norQ"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -26078,6 +26090,9 @@
     },
     {
         "id": 1896,
+        "team": [
+            "norQ"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
