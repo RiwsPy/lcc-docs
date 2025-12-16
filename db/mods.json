@@ -50405,7 +50405,6 @@
         ],
         "team": [],
         "notes": [
-            "[[372]] est requis.",
             "Le second lien renvoie vers la version IWD1, le troisième vers la version IWD2, le quatrième vers la version à installer à la fin.",
             "Attention à l'ordre d'installation du mod : lire le readme.",
             "Attention : certains mods semblent avoir été ajoutés par défaut dans l'installation de IWD1.",
@@ -50424,7 +50423,11 @@
         ],
         "status": "active",
         "last_update": "2025-08",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                372
+            ]
+        },
         "tp2": "iwd1_eet;iwd2_eet;iwd_eet_end"
     },
     {
