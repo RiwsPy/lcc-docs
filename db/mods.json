@@ -3798,8 +3798,7 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
-            "EET"
+            "SoD"
         ],
         "authors": [
             "Icelus",
@@ -3812,7 +3811,9 @@
             "Dudley"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il doit être installé avant [[372]]."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -22371,14 +22372,15 @@
             "PNJ recrutable"
         ],
         "games": [
-            "BGEE",
-            "EET"
+            "BGEE"
         ],
         "authors": [
             "Xavioria"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il doit être installé avant [[372]]."
+        ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -29733,15 +29735,15 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "EET",
-            "IWDEE",
-            "PSTEE"
+            "IWDEE"
         ],
         "authors": [
             "elminster"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il doit être installé avant [[372]]."
+        ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -31090,7 +31092,7 @@
     {
         "id": 939,
         "name": "Shar-Teel NPC for SoD",
-        "description": "À ne pas confondre avec [[938]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ.|Gardez à l'esprit que ce mod est encore en développement.",
+        "description": "À ne pas confondre avec [[938]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ.",
         "urls": [
             "https://www.shsforums.net/files/file/1164-sharteel-npc-mod-for-sod/",
             "https://forums.beamdog.com/discussion/62941/",
@@ -31100,14 +31102,15 @@
             "PNJ recrutable"
         ],
         "games": [
-            "SoD",
-            "EET"
+            "SoD"
         ],
         "authors": [
             "elminster"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il doit être installé avant [[372]]."
+        ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -34546,15 +34549,15 @@
         ],
         "games": [
             "BGT",
-            "BGEE",
-            "EET"
+            "BGEE"
         ],
         "authors": [
             "Insomniator"
         ],
         "team": [],
         "notes": [
-            "Le lien mediafire permet de télécharger une version pour BGT."
+            "Le lien mediafire permet de télécharger une version pour BGT.",
+            "Il doit être installé avant [[372]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -35348,8 +35351,7 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
-            "EET"
+            "SoD"
         ],
         "authors": [
             "Flysoup",
@@ -35358,7 +35360,9 @@
             "Erebusant"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il doit être installé avant [[372]]."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -36176,14 +36180,15 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
-            "EET"
+            "SoD"
         ],
         "authors": [
             "Red Carnelian"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il doit être installé avant [[372]]."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -40308,14 +40313,15 @@
         "games": [
             "Tutu",
             "BGT",
-            "BGEE",
-            "EET"
+            "BGEE"
         ],
         "authors": [
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il doit être installé avant [[372]]."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -44110,7 +44116,9 @@
             "DavidW"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il doit être installé sur BGEE et BG2EE avant [[372]]."
+        ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [

@@ -1646,8 +1646,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Il doit être installé avant [[372]]."
+            ]
         }
     },
     {
@@ -9738,10 +9740,14 @@
             "status": "needs_review",
             "source": "Ce mod ajoute une nouvelle traqueuse halfelin qui voyage sur la Côte des Épées, bien qu'il soit évident qu'elle n'est pas de la région. Elle aime se faire passer pour une personne inutile, timide ou innocente, même si ce n'est pas tout à fait le cas. Vous pourrez la recruter dans les mines de Nashkel.|FOR 15, DEX 17, CON 15, INT 12, SAG 14, CHA 15."
         },
-        "notes": [],
+        "notes": [
+            "It must be installed before [[372]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Il doit être installé avant [[372]]."
+            ]
         }
     },
     {
@@ -12987,10 +12993,14 @@
             "status": "needs_review",
             "source": "Le concept de ce mod est de rendre le monde plus violent. Les personnages de faible réputation sont considérés comme des êtres humains absolument horribles - il y a donc très peu de chances qu'ils aident qui que ce soit. Lorsqu'ils le font, c'est considéré comme un acte exceptionnel. Par conséquent, ils ont désormais moins de chances de faire des dons pour améliorer leur réputation que les personnages de bonne réputation. Les marchands sont également enclins à leur accorder des réductions, ne serait-ce que pour s'assurer qu'ils ne sont pas vexés.|De même, parce que le monde est un endroit sombre et sans pitié, les personnages dont la réputation est élevée sont vus sous un jour beaucoup plus positif. Les gens sont plus disposés à leur pardonner s'ils commettent une erreur (comme tuer un habitant de la ville).|Le mod comporte également d'autres composants qui modifient considérablement la façon dont le chapitre 7 est géré dans le jeu ou augmentent la difficulté du jeu."
         },
-        "notes": [],
+        "notes": [
+            "It must be installed before [[372]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Il doit être installé avant [[372]]."
+            ]
         }
     },
     {
@@ -13560,15 +13570,19 @@
     },
     {
         "id": 939,
-        "description": "Not to be confused with [[938]], this mod allows you to recruit Shar-Teel in the Siege of Dragonspear expansion. You'll find her in one of the prison cells at the Fiery Fist headquarters, with limited dialog during the game (and all in modal form, so no highlighted text). Keep in mind that this mod is still in development.",
+        "description": "Not to be confused with [[938]], this mod allows you to recruit Shar-Teel in the Siege of Dragonspear expansion. You'll find her in one of the prison cells at the Flaming Fist headquarters, with limited dialog during the game (and all in modal form, so no highlighted text).",
         "description_meta": {
             "status": "needs_review",
-            "source": "À ne pas confondre avec [[938]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ.|Gardez à l'esprit que ce mod est encore en développement."
+            "source": "À ne pas confondre avec [[938]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ."
         },
-        "notes": [],
+        "notes": [
+            "It must be installed before [[372]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Il doit être installé avant [[372]]."
+            ]
         }
     },
     {
@@ -15054,12 +15068,14 @@
             "source": "Bien qu'âgée d'une vingtaine d'années, Tenya est très puissante pour son âge, grâce à l'entraînement prodigué par sa mère pour la gloire d'Umberlie. Et elle est très en colère après le meurtre de sa mère... Elle dispose d'une mini-quête qui lui permettra d'utiliser son bol de contrôle élémentaire, et éventuellement de ramasser un ou deux autres objets en cours de route. C'est une clerc d'alignement Chaotique Neutre avec un talent inné pour l'élément eau. Elle compense ses caractéristiques assez moyennes par des objets efficaces.|FOR 9, DEX 16, CON 14, INT 12, SAG 16, CHA 13."
         },
         "notes": [
-            "The mediafire link allows you to download a version for BGT."
+            "The mediafire link allows you to download a version for BGT.",
+            "It must be installed before [[372]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Le lien mediafire permet de télécharger une version pour BGT."
+                "Le lien mediafire permet de télécharger une version pour BGT.",
+                "Il doit être installé avant [[372]]."
             ]
         }
     },
@@ -15382,10 +15398,14 @@
             "status": "needs_review",
             "source": "Drizzt est sur le chemin du retour depuis la Côte des Épées en direction du Val de Bise. Ce qu'il ne sait pas, c'est que des temps sombres se profilent sur le Val et ses compagnons l'entraîneront, lui comme vous, dans une aventure aux dimensions épiques.|Ce mod vous propose une quête majeure, aux côtés du célèbre personnage de R.A. Salvatore, qui débute au moment où vous le rencontrez dans le jeu. Cette aventure prend place dans de nouvelles zones inspirées d'Icewind Dale et englobe de nombreuses quêtes secondaires, des monstres inédits, de nouveaux sorts et équipements...|Il existe deux versions : l'une pour ToSC qui ne comprend pas le français, l'autre pour BG1tutu, BGT et BG:EE, disponible en français."
         },
-        "notes": [],
+        "notes": [
+            "It must be installed before [[372]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Il doit être installé avant [[372]]."
+            ]
         }
     },
     {
@@ -15716,10 +15736,14 @@
             "status": "needs_review",
             "source": "The Stone of Askavar `La pierre d'Askavar` est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir."
         },
-        "notes": [],
+        "notes": [
+            "It must be installed before [[372]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Il doit être installé avant [[372]]."
+            ]
         }
     },
     {
@@ -17509,10 +17533,14 @@
             "status": "needs_review",
             "source": "Ce mod ajoute un barbare humain de niveau 2 (tachez donc de le recruter assez vite) qui peut aussi se révéler bon chasseur. Vous pouvez le recruter près de l'entrée des ruines d'Ulcaster. Les PJ masculins, sans restriction de race, disposant d'au moins 11 de Charisme et 12 de Force peuvent tenter de le romancer. Flirts, interjections et banters avec tous les PNJ (y compris les 3 de BG:EE) sont également au programme."
         },
-        "notes": [],
+        "notes": [
+            "It must be installed before [[372]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Il doit être installé avant [[372]]."
+            ]
         }
     },
     {
@@ -19080,10 +19108,14 @@
             "status": "needs_review",
             "source": "Le EE Fixpack est une compilation WeiDU de corrections pour les éditions améliorées de Baldur's Gate, Baldur's Gate II, Icewind Dale, et Planescape : Torment. Cet effort de collaboration, qui comprend le travail de moddeurs de plusieurs communautés différentes, est destiné à résoudre les problèmes qui subsistent dans ces jeux après le patch officiel actuel."
         },
-        "notes": [],
+        "notes": [
+            "It must be installed on both BGEE and BG2EE before [[372]]."
+        ],
         "notes_meta": {
             "status": "done",
-            "source": []
+            "source": [
+                "Il doit être installé sur BGEE et BG2EE avant [[372]]."
+            ]
         }
     },
     {
