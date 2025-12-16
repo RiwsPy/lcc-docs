@@ -22447,14 +22447,10 @@
             "status": "done",
             "source": "Ce mod propose de nouveaux portraits réalistes pour tous les personnages recrutables."
         },
-        "notes": [
-            "第一个链接提供《博德之门：增强版》的肖像，第二个提供《博德之门2：增强版》的肖像。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Le premier lien propose des portraits pour BGEE. Le second pour BG2EE."
-            ]
+            "source": []
         }
     },
     {
@@ -27355,6 +27351,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod ajoute Zakrion, un duelliste humain neutre strict. Vous le trouverez à la Bonté Marine après la rencontre avec les pirates. Il dispose de portraits, d'un set de voix, de quêtes, d'une voie de l'amitié, de nombreux banters et d'une romance.|FOR 16, DEX 17, CON 15, INT 10, SAG 12, CHA 14."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1902,
+        "description": "此模组为所有可招募的角色提供了新写实肖像。",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod propose de nouveaux portraits réalistes pour tous les personnages recrutables."
         },
         "notes": [],
         "notes_meta": {

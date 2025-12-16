@@ -50953,34 +50953,30 @@
     },
     {
         "id": 1546,
-        "name": "Realistic Portraits for EE",
+        "name": "Realistic Portraits for BGEE",
         "description": "Ce mod propose de nouveaux portraits réalistes pour tous les personnages recrutables.",
         "urls": [
-            "https://www.nexusmods.com/baldursgate/mods/52",
-            "https://www.nexusmods.com/baldursgate2ee/mods/76"
+            "https://www.nexusmods.com/baldursgate/mods/52"
         ],
         "categories": [
             "Portrait et son"
         ],
         "games": [
             "BGEE",
-            "BG2EE",
             "EET"
         ],
         "authors": [
             "NolSol"
         ],
         "team": [],
-        "notes": [
-            "Le premier lien propose des portraits pour BGEE. Le second pour BG2EE."
-        ],
+        "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2024-09",
         "compatibilities": {},
-        "tp2": "RealisticNpcPortraitsForBGEE;RealisticNpcPortraitsForBG2EE"
+        "tp2": "non-weidu"
     },
     {
         "id": 1547,
@@ -61741,5 +61737,32 @@
         "last_update": "2023-11",
         "compatibilities": {},
         "tp2": "Zakrion_BG2"
+    },
+    {
+        "id": 1902,
+        "name": "Realistic Portraits for BG2EE",
+        "description": "Ce mod propose de nouveaux portraits réalistes pour tous les personnages recrutables.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/76"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "NolSol"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-09",
+        "compatibilities": {},
+        "tp2": "non-weidu"
     }
 ]

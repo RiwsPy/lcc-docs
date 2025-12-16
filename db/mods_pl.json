@@ -21403,10 +21403,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Le premier lien propose des portraits pour BGEE. Le second pour BG2EE."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -26159,6 +26157,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod ajoute Zakrion, un duelliste humain neutre strict. Vous le trouverez à la Bonté Marine après la rencontre avec les pirates. Il dispose de portraits, d'un set de voix, de quêtes, d'une voie de l'amitié, de nombreux banters et d'une romance.|FOR 16, DEX 17, CON 15, INT 10, SAG 12, CHA 14."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1902,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose de nouveaux portraits réalistes pour tous les personnages recrutables."
         },
         "notes": [],
         "notes_meta": {
