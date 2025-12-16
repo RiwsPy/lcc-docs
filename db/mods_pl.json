@@ -17221,14 +17221,12 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod ajoute Zakrion, un vrai duelliste humain neutre, près de l'épave du navire le long de la Côte des Épées. Il dispose d'une voie de l'amitié et d'une \"semi-romance\"."
+            "source": "Ce mod ajoute Zakrion, un duelliste humain neutre strict, près de l'épave du navire le long de la Côte des Épées. Il dispose de portraits personnalisés, d'un set de voix, de banters, d'une voie de l'amitié et d'une \"semi-romance\".|FOR 16, DEX 17, CON 15, INT 10, SAG 12, CHA 14."
         },
         "notes": [],
         "notes_meta": {
             "status": "todo",
-            "source": [
-                "Le premier lien renvoie vers une version BGEE, la seconde vers la version BG2EE."
-            ]
+            "source": []
         }
     },
     {
@@ -26149,6 +26147,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod ajoute un nouveau compagnon : Vito, un devin kenku neutre (mage). Il peut rejoindre le groupe une fois que vous avez atteint le col de Kuldahar. Vito a prévu sa propre mort, et vous, le survivant de l'avalanche, pourriez être la clé pour changer un avenir qu'il refuse d'accepter. Le mod comprend une petite quête, un parcours d'amitié, une série de dialogues romantiques, de nouveaux sorts et quelques nouveaux objets."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1901,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute Zakrion, un duelliste humain neutre strict. Vous le trouverez à la Bonté Marine après la rencontre avec les pirates. Il dispose de portraits, d'un set de voix, de quêtes, d'une voie de l'amitié, de nombreux banters et d'une romance.|FOR 16, DEX 17, CON 15, INT 10, SAG 12, CHA 14."
         },
         "notes": [],
         "notes_meta": {

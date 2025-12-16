@@ -17877,19 +17877,15 @@
     },
     {
         "id": 1242,
-        "description": "This mod adds Zakrion, a true neutral human duelist, near the shipwreck along the Sword Coast. He has a friendship path and a \"semi-romance\".",
+        "description": "This mod adds Zakrion, a True Neutral Human Duelist, near the ship wreckage on the Sword Coast. He has custom portraits, custom soundset, numerous banters, a friendship track and a \"semi-romance\".|STR 16, DEX 17, CON 15, INT 10, WIS 12, CHA 14.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute Zakrion, un vrai duelliste humain neutre, près de l'épave du navire le long de la Côte des Épées. Il dispose d'une voie de l'amitié et d'une \"semi-romance\"."
+            "source": "Ce mod ajoute Zakrion, un duelliste humain neutre strict, près de l'épave du navire le long de la Côte des Épées. Il dispose de portraits personnalisés, d'un set de voix, de banters, d'une voie de l'amitié et d'une \"semi-romance\".|FOR 16, DEX 17, CON 15, INT 10, SAG 12, CHA 14."
         },
-        "notes": [
-            "The first link refers to a BGEE version, the second to the BG2EE version."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Le premier lien renvoie vers une version BGEE, la seconde vers la version BG2EE."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -27119,6 +27115,19 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod ajoute un nouveau compagnon : Vito, un devin kenku neutre (mage). Il peut rejoindre le groupe une fois que vous avez atteint le col de Kuldahar. Vito a prévu sa propre mort, et vous, le survivant de l'avalanche, pourriez être la clé pour changer un avenir qu'il refuse d'accepter. Le mod comprend une petite quête, un parcours d'amitié, une série de dialogues romantiques, de nouveaux sorts et quelques nouveaux objets."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1901,
+        "description": "This mod adds Zakrion, a True Neutral Human Duelist. Zakrion can be found after the pirate encounter in the Sea's Bounty Tavern. He has custom portraits, custom soundset, numerous banters, a friendship track and a romance.|STR 16, DEX 17, CON 15, INT 10, WIS 12, CHA 14.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute Zakrion, un duelliste humain neutre strict. Vous le trouverez à la Bonté Marine après la rencontre avec les pirates. Il dispose de portraits, d'un set de voix, de quêtes, d'une voie de l'amitié, de nombreux banters et d'une romance.|FOR 16, DEX 17, CON 15, INT 10, SAG 12, CHA 14."
         },
         "notes": [],
         "notes_meta": {

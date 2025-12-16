@@ -41214,26 +41214,22 @@
     {
         "id": 1242,
         "name": "Zakrion",
-        "description": "Ce mod ajoute Zakrion, un vrai duelliste humain neutre, près de l'épave du navire le long de la Côte des Épées. Il dispose d'une voie de l'amitié et d'une \"semi-romance\".",
+        "description": "Ce mod ajoute Zakrion, un duelliste humain neutre strict, près de l'épave du navire le long de la Côte des Épées. Il dispose de portraits personnalisés, d'un set de voix, de banters, d'une voie de l'amitié et d'une \"semi-romance\".|FOR 16, DEX 17, CON 15, INT 10, SAG 12, CHA 14.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1020-zakrion/",
-            "https://www.gibberlings3.net/files/file/1040-zakrion-for-bg2/"
+            "https://www.gibberlings3.net/files/file/1020-zakrion/"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
             "BGEE",
-            "BG2EE",
             "EET"
         ],
         "authors": [
             "jmaeq"
         ],
         "team": [],
-        "notes": [
-            "Le premier lien renvoie vers une version BGEE, la seconde vers la version BG2EE."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -41242,7 +41238,7 @@
         "status": "active",
         "last_update": "2023-11",
         "compatibilities": {},
-        "tp2": "Zakrion;Zakrion_BG2"
+        "tp2": "Zakrion"
     },
     {
         "id": 1243,
@@ -61713,5 +61709,34 @@
         "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "Vito"
+    },
+    {
+        "id": 1901,
+        "name": "Zakrion for BG2",
+        "description": "Ce mod ajoute Zakrion, un duelliste humain neutre strict. Vous le trouverez à la Bonté Marine après la rencontre avec les pirates. Il dispose de portraits, d'un set de voix, de quêtes, d'une voie de l'amitié, de nombreux banters et d'une romance.|FOR 16, DEX 17, CON 15, INT 10, SAG 12, CHA 14.",
+        "urls": [
+            "https://www.gibberlings3.net/files/file/1040-zakrion-for-bg2/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "jmaeq"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-11",
+        "compatibilities": {},
+        "tp2": "Zakrion_BG2"
     }
 ]
