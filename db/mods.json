@@ -47814,9 +47814,7 @@
             "el.critto"
         ],
         "team": [],
-        "notes": [
-            "[[530]] est requis."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -47824,7 +47822,11 @@
         ],
         "status": "active",
         "last_update": "2024-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                530
+            ]
+        },
         "tp2": "IATweaks"
     },
     {
@@ -51164,7 +51166,11 @@
         ],
         "status": "active",
         "last_update": "2008-03",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                530
+            ]
+        },
         "tp2": "TheFour"
     },
     {
