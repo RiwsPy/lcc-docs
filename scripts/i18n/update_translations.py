@@ -58,21 +58,38 @@ def main(**kwargs):
 
             for attr in ("description", "notes"):
                 meta_attr = f"{attr}_meta"
-                if (
-                    meta_attr in translated_mod
-                    and translated_mod[meta_attr]["source"] != mod_main_data[attr]
-                ):
-                    if translated_mod[meta_attr]["status"] == MetaStatusEnum.DONE:
-                        if translated_mod[attr]:
-                            next_status = MetaStatusEnum.NEEDS_REVIEW
-                        else:
-                            next_status = MetaStatusEnum.TODO
-                        translated_mod[meta_attr]["status"] = next_status
+                if meta_attr not in translated_mod:
+                    continue
 
-                    translated_mod[meta_attr]["source"] = mod_main_data[attr]
-                    logger.info(
-                        f"{language}, Mod {translated_mod['id']}, attr {attr} have been updated"
-                    )
+                data_source = translated_mod[meta_attr]["source"]
+                data_status = translated_mod[meta_attr]["status"]
+                have_changed = False
+                # la source a changé, on met à jour le statut
+                if data_source != mod_main_data[attr]:
+                    if data_status == MetaStatusEnum.DONE:
+                        if translated_mod[attr]:
+                            data_status = MetaStatusEnum.NEEDS_REVIEW
+                        else:
+                            data_status = MetaStatusEnum.TODO
+                    data_source = mod_main_data[attr]
+                    have_changed = True
+
+                # la source a été supprimée, on reset la traduction
+                if not data_source and (
+                    data_status != MetaStatusEnum.DONE or translated_mod[attr]
+                ):
+                    data_status = MetaStatusEnum.DONE
+                    translated_mod[attr] = data_source
+                    have_changed = True
+
+                if not have_changed:
+                    continue
+
+                translated_mod[meta_attr]["source"] = data_source
+                translated_mod[meta_attr]["status"] = data_status
+                logger.info(
+                    f"{language}, Mod {translated_mod['id']}, attr {attr} have been updated"
+                )
 
         ModManager.export(translated_mods, language=language)
         logger.info(f"{language} check done")
