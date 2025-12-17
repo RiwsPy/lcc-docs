@@ -41,6 +41,12 @@ def main(**kwargs):
             translated_mods.append(mod_data)
             logger.info(f"{language}, Mod {mod_id} added")
 
+        # Suppression des mods en trop dans les traductions
+        mod_to_delete = translated_mods_ids - mods_id_to_data.keys()
+        if mod_to_delete:
+            translated_mods = [mod for mod in translated_mods if mod["id"] not in mod_to_delete]
+            logger.info(f"{language}, Mod(s) {mod_to_delete} deleted")
+
         # Mise à jour des données source des traductions
         for translated_mod in translated_mods:
             mod_main_data = mods_id_to_data.get(translated_mod["id"])
