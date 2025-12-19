@@ -1657,9 +1657,11 @@
             "status": "done",
             "source": "À l'instar du mod du même nom pour Baldur's Gate II, ce mod vient combler un certain nombre d'oublis ou d'éléments inachevés dans le jeu d'origine. Il réintroduit donc dans le jeu un certain nombre de quêtes, d'objets, de personnages... qui figuraient dans le jeu, mais n'étaient pas exploités ou inachevés (en particulier des réactions des personnages recrutables). Vous trouverez notamment le deuxième niveau de l'île des Glaces de BG1, faire que Branwen reconnaisse Tranzig, donner un usage à la potion mystérieuse trouvée dans les mines, etc. Il corrige également certains bugs."
         },
-        "notes": [],
+        "notes": [
+			"它必须安装在[[372]]之前。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il doit être installé avant [[372]]."
             ]
@@ -2557,9 +2559,9 @@
     },
     {
         "id": 175,
-        "description": "BWS-FR 是基于已停止更新的 [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) 分支版本，专门用于安装法语翻译且兼容 EET 的模组（同时也会安装部分不添加游戏内文本的英文模组）。|与此前版本相同，它支持自动下载、解压并安装模组，同时处理冲突检测、依赖关系及安装顺序管理。这为 [[1367]] 号工具提供了另一种替代方案。|<u>核心功能：</u>|- 支持选择所需模组及其组件，并实现全自动安装流程。|- 支持模组预设方案。|- 自动下载绝大多数模组。|- 自动解压绝大多数模组。|- 自动管理安装顺序。|- 检测当前选择可能存在的冲突，并提供解决方案。|- 自动应用 [[1325]] 号修正补丁。|您可查阅 [专属讨论区](https://www.baldursgateworld.fr/viewforum.php?f=757) 获取更多信息并使用操作指南。",
+        "description": "BWS-FR 是已停止开发的 [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) 的一个分支版本，专门用于安装已翻译成法语且兼容 EET 的模组（它也会安装一些不在游戏中添加文本的模组）。与此前版本一样，它能自动为您下载、解压并安装模组，同时处理冲突、依赖关系和安装顺序。因此，它提供了 [[1367]] 工具的另一种选择。|<u>其主要功能：</u>|- 允许您选择想要的模组和组件，并负责完全自动化安装流程。|- 支持模组预设。|- 自动下载大多数模组。|- 自动解压大多数模组。|- 负责管理安装顺序。|- 指出您所选模组可能存在的冲突，并提供解决方案以避免冲突。|- 应用 [[1325]] 的修正补丁。|您可以在[专属论坛](https://www.baldursgateworld.fr/viewforum.php?f=757)查阅更多信息并获取使用指南。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "BWS-FR est un fork du défunt [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) spécialisé dans l'installation des mods traduits en Français et compatibles avec EET (il installe aussi certains mods qui n'ajoutent pas de texte dans le jeu).|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative à l'outil [[1367]].|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter.|- Il applique les corrections de [[1325]].|Vous pouvez consulter le [Forum dédié](https://www.baldursgateworld.fr/viewforum.php?f=757) pour de plus amples informations et accéder aux Guides d'utilisation."
         },
         "notes": [
@@ -2908,9 +2910,9 @@
     },
     {
         "id": 199,
-        "description": "Britt是St. Joséphine和jcompton合作约一小时的作品，她是一个热情洋溢的年轻女子，说自己想成为一名冒险者。她有自己的配音。只是这配音似乎从未真正起作用……为了节省时间，他们以Nalia的角色为基础，她拥有Nalia的一些技能。然而，她所有的属性值都为25。",
+        "description": "在大约一小时的合作成果中，布里特是一位充满热情、自称想成为冒险者的年轻女性。她拥有独立的语音系统。只是似乎从来没能真正运作起来……为了节省时间，他们以娜里亚的角色为基础进行创作，因此她具备了娜里亚的部分技能。|力量25，敏捷25，体质25，智力25，智慧25，魅力25。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Fruit d'une collaboration d'une heure environ, Britt est une jeune femme enthousiaste qui dit vouloir devenir une aventurière. Elle a sa propre voix. Sauf que ça ne semble jamais vraiment marcher... Pour gagner du temps, ils sont partis du personnage de Nalia, elle possède certaines de ses compétences.|FOR 25, DEX 25, CON 25, INT 25, SAG 25, CHA 25."
         },
         "notes": [
@@ -3090,14 +3092,16 @@
     },
     {
         "id": 211,
-        "description": "此模组为冰风谷：增强版添加了一名新同伴——提夫林Cassia。Cassia是一位来自米拉巴尔的年轻海姆牧师，应教会的要求前往东港，为Hrothgar的探险队提供一切可能的帮助。作为一名虔诚的海姆信徒，她会尽其所能保护十镇并根除威胁它们的邪恶。但她能胜任这项任务，还是会在责任面前屈服？|Cassia是一个拥有海姆牧师职业的单一职业牧师，可以在东港的坦帕斯神殿外招募。她有一个小型任务，会在游戏过程中自然结束，并且可以被男性矮人、人类、精灵、半精灵和半兽人追求，只要他们的魅力值达到10或更高。她会在主线游戏和扩展包中做出反应和互动。她倾向于与善良的角色相处得更好，但如果玩家不越过道德底线，她也不会犹豫跟随一个邪恶玩家的榜样。|Cassia与Lava创建的许多模组都有跨模组内容！",
+        "description": "该模组为《冰风谷：增强版》添加了一位新队友——提夫林牧师卡西娅。卡西娅是一位来自秘银厅的年轻海姆牧师，她应教会要求前往东流亡地，为霍斯伽的远征队提供全力协助。作为忠诚的海姆信徒，她将竭尽所能保护十镇，铲除威胁它们的邪恶势力。但她能否胜任重任，还是会在责任重压下崩溃？||卡西娅是拥有海姆牧师宗派的独特牧师职业角色，可在东流亡地的坦帕斯神殿外招募。她附带一个将在游戏进程中自然完结的小型任务线，并能与魅力值达到10或以上的男性矮人、人类、精灵、半精灵和半兽人角色发展恋爱关系。她会对主线游戏及资料片中的事件做出反应并进行评论。她倾向于与善良阵营的角色更好地相处，但只要不跨越道德红线，她也愿意追随邪恶阵营玩家的领导。||卡西娅与模组 [[1082]]、[[1025]]、[[165]]、[[971]] 和 [[1043]] 存在跨模组内容。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute un nouveau compagnon à l'IWD:EE - la tiefling Cassia. Cassia est une jeune clerc de Heaum originaire de Mirabar qui s'est rendue à Easthaven à la demande de son église pour apporter toute l'aide possible à l'expédition de Hrothgar. En tant que heaumite dévouée, elle fera tout ce qui est en son pouvoir pour protéger les Dix Cités et éradiquer les maux qui les menacent. Mais sera-t-elle à la hauteur de la tâche ou cédera-t-elle sous la responsabilité ?||Cassia est un clerc de classe unique avec le kit prêtre de Heaum et peut être recrutée à l'extérieur du Temple de Tempus à Easthaven. Elle est associée à une petite quête qui se terminera naturellement au cours du jeu et peut être romancée par des nains, des humains, des elfes, des demi-elfes et des demi-orques mâles ayant un score de charisme de 10 ou plus. Elle réagira et interviendra à la fois dans le jeu principal et dans l'extension. Elle a tendance à mieux s'entendre avec les personnages bons, mais elle n'hésitera pas à suivre l'exemple d'un joueur mauvais tant qu'il ne franchit pas de ligne rouge morale.||Cassia a un contenu partagé avec [[1082]], [[1025]], [[165]], [[971]] et [[1043]]."
         },
-        "notes": [],
+        "notes": [
+			"该肖像画由[Tomasz Chistowski](https://www.deviantart.com/takeda11) 创作。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Le portrait a été réalisé par [Tomasz Chistowski](https://www.deviantart.com/takeda11)."
             ]
@@ -3543,9 +3547,9 @@
     },
     {
         "id": 242,
-        "description": "此模组受J. Compton的两部同人小说启发（他创作了[[594]]、[[598]]以及许多其他精彩的模组）。它提供了一个漫长而愉快搞笑的短剧，举办了一场类似“谁想成为百万富翁”的游戏，汇集了游戏中的NPC：凯东扮演让-皮埃尔·富凯、萨尔瓦纳斯、维康妮亚、爱蒙、寇根……等等。要观看这场表演，你需要在铜冠旅店附近遇到一个名叫凯弗里的人。",
+        "description": "该模组灵感来源于作者的两篇同人小说。它提供了一个漫长而令人捧腹的趣味小剧场，呈现了一场集结了游戏中多位NPC的“《谁想成为百万富翁》”式节目：凯东饰演主持人让-皮埃尔·富卡，萨尔瓦纳斯、维康妮亚、爱蒙、寇根……以及许多其他角色都将登场。若要观看这场演出，您需要在铜冠旅店附近找到一位名叫卡弗雷的人。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod est inspiré de deux fanfics de l'auteur. Il offre une longue saynète réjouissante et rigolote en proposant une sorte de \"Qui veut gagner des millions\" réunissant les PNJ du jeu : Keldorn en Jean-Pierre Foucault, Salvanas, Viconia, Imoen, Korgan... et bien d'autres. Pour assister à ce spectacle, il vous faudra rencontrer un certain Caffrey près de la Couronne de Cuivre."
         },
         "notes": [],
@@ -5636,9 +5640,9 @@
     },
     {
         "id": 386,
-        "description": "这是semiticgoddess创建的档案的汇编：|- 战士：[[1196]]，[[1162]]，[变形者](https://forums.beamdog.com/discussion/69127/)，[简化灵能师](https://forums.beamdog.com/discussion/76756/)，[舞剑士](https://forums.beamdog.com/discussion/75696/)。|- 圣武士：[[1162]]，剑圣。|- 武僧：剑圣，潜行者，刺客，[简化灵能师](https://forums.beamdog.com/discussion/76756/)，闪光舞者，天空舞者，战士/武僧。|- 法师：[[31]]，[[862]]，[等离子体巫师](https://forums.beamdog.com/discussion/77517/)，战斗法师。|- 术士：[[862]]。|- 牧师：牧师/德鲁伊，预言师。|- 德鲁伊：预言师。|- 盗贼：[[1370]]，[[1162]]，剑圣，[变形者](https://forums.beamdog.com/discussion/74379/)。|- 牧师/法师：德鲁伊/法师，牧师/德鲁伊/法师。|- 法师/盗贼：德鲁伊/盗贼。|- 战士/法师/盗贼：战士/牧师/德鲁伊/法师/盗贼。",
+        "description": "这是由semiticgoddess创建档案的汇编：|- 战士：[[1196]], [[1162]], [变形者](https://forums.beamdog.com/discussion/69127/), [简化心灵术士](https://forums.beamdog.com/discussion/76756/), [剑舞者](https://forums.beamdog.com/discussion/75696/).|- 圣武士：[[1162]], 剑圣, 革命者.|- 武僧：剑圣, 潜行者, 刺客, [简化心灵术士](https://forums.beamdog.com/discussion/76756/), 耀光舞者, 天穹舞者, 战士/武僧.|- 法师：[[31]], [[862]], [等离子法师](https://forums.beamdog.com/discussion/77517/), 战争法师, 恶魔召唤师.|- 术士：[[862]].|- 牧师：牧师/德鲁伊, 先知, 治疗者.|- 德鲁伊：先知, 治疗者.|- 盗贼：[[1370]], [[1162]], 剑圣, [变形者](https://forums.beamdog.com/discussion/74379/).|- 牧师/法师：德鲁伊/法师, 牧师/德鲁伊/法师.|- 法师/盗贼：德鲁伊/盗贼, 狂乱法师.|- 战士/法师/盗贼：战士/牧师/德鲁伊/法师/盗贼|- 游侠：荒野游魂|- 吟游诗人：民谣牧人.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins : [[1162]], Kensai, Revolutionary.|- Moines : Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage, Demon Summoner.|- Sorciers : [[862]].|- Clercs : Cleric/Druid, Seer, Healer.|- Druides : Seer, Healer.|- Voleurs : [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief, Hedge Wizard.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief|- Rôdeur : Wildhaunt|- Barde : Folkherder."
         },
         "notes": [],
@@ -9828,9 +9832,11 @@
             "status": "done",
             "source": "Ce mod ajoute une nouvelle traqueuse halfelin qui voyage sur la Côte des Épées, bien qu'il soit évident qu'elle n'est pas de la région. Elle aime se faire passer pour une personne inutile, timide ou innocente, même si ce n'est pas tout à fait le cas. Vous pourrez la recruter dans les mines de Nashkel.|FOR 15, DEX 17, CON 15, INT 12, SAG 14, CHA 15."
         },
-        "notes": [],
+        "notes": [
+			"必须在 [[372]] 之前安装。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il doit être installé avant [[372]]."
             ]
@@ -13098,9 +13104,11 @@
             "status": "done",
             "source": "Le concept de ce mod est de rendre le monde plus violent. Les personnages de faible réputation sont considérés comme des êtres humains absolument horribles - il y a donc très peu de chances qu'ils aident qui que ce soit. Lorsqu'ils le font, c'est considéré comme un acte exceptionnel. Par conséquent, ils ont désormais moins de chances de faire des dons pour améliorer leur réputation que les personnages de bonne réputation. Les marchands sont également enclins à leur accorder des réductions, ne serait-ce que pour s'assurer qu'ils ne sont pas vexés.|De même, parce que le monde est un endroit sombre et sans pitié, les personnages dont la réputation est élevée sont vus sous un jour beaucoup plus positif. Les gens sont plus disposés à leur pardonner s'ils commettent une erreur (comme tuer un habitant de la ville).|Le mod comporte également d'autres composants qui modifient considérablement la façon dont le chapitre 7 est géré dans le jeu ou augmentent la difficulté du jeu."
         },
-        "notes": [],
+        "notes": [
+			"必须在 [[372]] 之前安装。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il doit être installé avant [[372]]."
             ]
@@ -13673,9 +13681,11 @@
             "status": "done",
             "source": "À ne pas confondre avec [[938]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ."
         },
-        "notes": [],
+        "notes": [
+			"需要在[[372]]之前安装。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il doit être installé avant [[372]]."
             ]
@@ -15186,10 +15196,11 @@
             "source": "Bien qu'âgée d'une vingtaine d'années, Tenya est très puissante pour son âge, grâce à l'entraînement prodigué par sa mère pour la gloire d'Umberlie. Et elle est très en colère après le meurtre de sa mère... Elle dispose d'une mini-quête qui lui permettra d'utiliser son bol de contrôle élémentaire, et éventuellement de ramasser un ou deux autres objets en cours de route. C'est une clerc d'alignement Chaotique Neutre avec un talent inné pour l'élément eau. Elle compense ses caractéristiques assez moyennes par des objets efficaces.|FOR 9, DEX 16, CON 14, INT 12, SAG 16, CHA 13."
         },
         "notes": [
-            "Mediafire链接可下载适用于博德之门三部曲的版本。"
+            "Mediafire链接可下载适用于博德之门三部曲的版本。",
+			"需要在[[372]]之前安装。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Le lien mediafire permet de télécharger une version pour BGT.",
                 "Il doit être installé avant [[372]]."
@@ -15521,9 +15532,11 @@
             "status": "done",
             "source": "Drizzt est sur le chemin du retour depuis la Côte des Épées en direction du Val de Bise. Ce qu'il ne sait pas, c'est que des temps sombres se profilent sur le Val et ses compagnons l'entraîneront, lui comme vous, dans une aventure aux dimensions épiques.|Ce mod vous propose une quête majeure, aux côtés du célèbre personnage de R.A. Salvatore, qui débute au moment où vous le rencontrez dans le jeu. Cette aventure prend place dans de nouvelles zones inspirées d'Icewind Dale et englobe de nombreuses quêtes secondaires, des monstres inédits, de nouveaux sorts et équipements...|Il existe deux versions : l'une pour ToSC qui ne comprend pas le français, l'autre pour BG1tutu, BGT et BG:EE, disponible en français."
         },
-        "notes": [],
+        "notes": [
+			"需要在[[372]]之前安装。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il doit être installé avant [[372]]."
             ]
@@ -15862,14 +15875,15 @@
     },
     {
         "id": 1088,
-        "description": "阿斯卡瓦之石《La pierre d'Askavar》是一个为博德之门I：剑湾传奇设计的模组，包含一个主线任务和几个支线任务，带来了新区域、新物品和新法术，以及许多需要战斗的新生物。它将你派去寻找一颗强大的宝石，这颗宝石位于一个名为阿斯卡瓦的古老精灵社区中。它类似于冰风谷中的宝石石心任务，但在这里，你需要抢在黑手套成员之前找到宝石。在淹没了禁魔监狱的矿洞后，你的冒险就在那西凯以北开始，在那里你将遭到黑手套骑士的袭击。",
+        "description": "阿斯卡瓦之石《The Stone of Askavar》是一个为博德之门I：剑湾传奇设计的一款模组，包含一条主线任务与多条支线任务，引入了新区域、新物品与法术，以及大量可供战斗的新生物。它将引领你前往古老的精灵社区阿斯卡瓦，寻找一颗强大的宝石。其玩法类似于《冰风谷》中寻找“石之心”宝石的任务，但在此处，你的目标是在黑手套组织的成员之前找到宝石。在淹没了斗篷森林的矿坑后，你的冒险始于那西凯正北，在那里你将遭到黑手套骑士的袭击。",
         "description_meta": {
             "status": "done",
             "source": "The Stone of Askavar `La pierre d'Askavar` est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir."
         },
-        "notes": [],
+        "notes": [
+			"需要在[[372]]之前安装。"
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il doit être installé avant [[372]]."
             ]
@@ -17673,9 +17687,11 @@
             "status": "done",
             "source": "Ce mod ajoute un barbare humain de niveau 2 (tachez donc de le recruter assez vite) qui peut aussi se révéler bon chasseur. Vous pouvez le recruter près de l'entrée des ruines d'Ulcaster. Les PJ masculins, sans restriction de race, disposant d'au moins 11 de Charisme et 12 de Force peuvent tenter de le romancer. Flirts, interjections et banters avec tous les PNJ (y compris les 3 de BG:EE) sont également au programme."
         },
-        "notes": [],
+        "notes": [
+			"需要在[[372]]之前安装。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il doit être installé avant [[372]]."
             ]
@@ -18043,9 +18059,9 @@
     },
     {
         "id": 1242,
-        "description": "这个模组添加了扎克里昂，一位真正的人类中立决斗者，他位于剑湾沿岸的沉船附近。他拥有友谊路线和“半段浪漫”。",
+        "description": "这个模组在剑湾沿岸的船只残骸附近添加了扎克里昂，一名绝对中立的人类决斗家。他拥有定制肖像、专属语音包、同伴闲聊、友谊线以及一条“准浪漫线”。|力量16，敏捷17，体质15，智力10，智慧12，魅力14。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute Zakrion, un duelliste humain neutre strict, près de l'épave du navire le long de la Côte des Épées. Il dispose de portraits personnalisés, d'un set de voix, de banters, d'une voie de l'amitié et d'une \"semi-romance\".|FOR 16, DEX 17, CON 15, INT 10, SAG 12, CHA 14."
         },
         "notes": [],
@@ -19011,7 +19027,7 @@
     },
     {
         "id": 1309,
-        "description": "这个模组添加了一个新同伴，贝瑟妮·薇薇耶勒·海伦娜·科尔萨拉，一个通灵者（萨满宗派），她一直梦想成为一名女帽商。然而，她能看到死人，而且很难成为一个时尚专家，参加所有这些社交活动，并向每个人展示当你被死人纠缠时可以有多棒。因此，她需要一点分散注意力……和名气，因为当她一切结束时，她想开自己的公司，这可能会对她非常有用。",
+        "description": "这个模组新增了一位同伴：贝萨妮·维维埃尔·海伦娜·科塔拉，一位梦想成为帽匠的灵媒（萨满宗派）。然而，她拥有看见亡灵的能力。试想一下，既要当时尚达人，出席各种社交场合，向全世界展示自己有多出色，同时又被亡灵纠缠不休——这实在是难上加难。因此，她需要一些消遣，也需要……名气，因为这会对她大有帮助，毕竟她希望在一切结束后，能开创属于自己的事业。",
         "description_meta": {
             "status": "done",
             "source": "Le mod ajoute un nouveau compagnon, Bethany Vivielle Helena Corthala, une médium (kit de shaman) qui a toujours rêvé d'être chapelière. Cependant, elle a la capacité de voir les morts et il est vraiment difficile d'être une experte de la mode, d'assister à tous ces événements sociaux et de montrer à tout le monde à quel point on peut être génial quand on est hanté par les morts. Elle a donc besoin d'un peu de distraction et... de célébrité, car cela peut être lui très utile car elle veut ouvrir sa propre entreprise quand tout sera fini."
@@ -19265,9 +19281,11 @@
             "status": "done",
             "source": "Le EE Fixpack est une compilation WeiDU de corrections pour les éditions améliorées de Baldur's Gate, Baldur's Gate II, Icewind Dale, et Planescape : Torment. Cet effort de collaboration, qui comprend le travail de moddeurs de plusieurs communautés différentes, est destiné à résoudre les problèmes qui subsistent dans ces jeux après le patch officiel actuel."
         },
-        "notes": [],
+        "notes": [
+			"必须在 [[372]] 之前安装在 BGEE 和 BG2EE 上。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il doit être installé sur BGEE et BG2EE avant [[372]]."
             ]
@@ -20990,7 +21008,7 @@
             "status": "done",
             "source": "Ce mod est un ensemble de divers patchs pour [[530]]. Il a été conçu pour les joueurs qui souhaitent faciliter, simplifier ou personnaliser leur expérience avec IA."
         },
-        "notes": [],
+        "notes": [],																																								  
         "notes_meta": {
             "status": "done",
             "source": []
@@ -25502,7 +25520,7 @@
     },
     {
         "id": 1766,
-        "description": "Arszyk 是一个中立邪恶的战士/德鲁伊，一个被派往冰风谷寻找失落神器但在此期间惹上麻烦的吸血鬼，如果他想继续研究，就需要一些帮助。他伴随着一些感叹词、物品和一个德鲁伊宗派（腐朽监管者，也包含在作者制作的[[1516]中）。你可以与 Arszyk 调情，但这个模组没有真正的爱情线。",
+        "description": "Arszyk 是一个中立邪恶的战士/德鲁伊，一个被派往冰风谷寻找失落神器但在此期间惹上麻烦的吸血鬼，如果他想继续研究，就需要一些帮助。他伴随着一些感叹词、物品和一个德鲁伊宗派（腐朽监管者，也包含在作者制作的[[1516]]中）。你可以与 Arszyk 调情，但这个模组没有真正的爱情线。",
         "description_meta": {
             "status": "done",
             "source": "Arszyk est un guerrier/druide d'alignement neutre mauvais, un vampire qui a été envoyé à Icewind Dale pour trouver un artefact perdu, mais qui entre-temps s'est attiré des ennuis et a besoin d'un coup de main s'il veut reprendre ses recherches. Il est accompagné de quelques interjections, objets et d'un kit de druide (Decay Overseer, inclus également dans [[1516]] du même auteur).|Vous pouvez flirter avec Arszyk, mais le mod ne comprend pas de véritable romance."
@@ -27347,9 +27365,9 @@
     },
     {
         "id": 1900,
-        "description": "",
+        "description": "这个模组添加了一个新的同伴：维托，一个中立肯努预言师（法师）。一旦你到达库达哈山口，他就可以加入队伍。维托预见到了他自己的死亡，而你，作为雪崩的幸存者，可能是改变一个他拒绝接受的未来的关键。这个模组包含一个小任务、一段友谊进程、一系列浪漫对话、新法术和一些新物品。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute un nouveau compagnon : Vito, un devin kenku neutre (mage). Il peut rejoindre le groupe une fois que vous avez atteint le col de Kuldahar. Vito a prévu sa propre mort, et vous, le survivant de l'avalanche, pourriez être la clé pour changer un avenir qu'il refuse d'accepter. Le mod comprend une petite quête, un parcours d'amitié, une série de dialogues romantiques, de nouveaux sorts et quelques nouveaux objets."
         },
         "notes": [],
@@ -27360,9 +27378,9 @@
     },
     {
         "id": 1901,
-        "description": "",
+        "description": "这个模组添加了扎克里昂（Zakrion），一名真正中立的人类决斗者。你将在遭遇海盗后，在"海之仁慈号"（Bonté Marine）找到他。他拥有专属肖像、一套语音、任务线、一条友谊路线、大量互动对话以及一段浪漫剧情。|力量 16，敏捷 17，体质 15，智力 10，智慧 12，魅力 14。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute Zakrion, un duelliste humain neutre strict. Vous le trouverez à la Bonté Marine après la rencontre avec les pirates. Il dispose de portraits, d'un set de voix, de quêtes, d'une voie de l'amitié, de nombreux banters et d'une romance.|FOR 16, DEX 17, CON 15, INT 10, SAG 12, CHA 14."
         },
         "notes": [],
@@ -27386,9 +27404,9 @@
     },
     {
         "id": 1904,
-        "description": "",
+        "description": "该模组包含了新增任务、物品以及高难度的战斗。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose des quêtes, des objets et des combats difficiles."
         },
         "notes": [],
@@ -27399,14 +27417,16 @@
     },
     {
         "id": 1905,
-        "description": "",
+        "description": "该模组将仅在《博德之门1》中遇到的NPC角色添加至《龙矛围攻》和《博德之门2》。模组本身需要增强版三部曲（EET）的支持，并将在后续游戏中为这些角色提供连续的体验。这意味着所有在《博德之门1》中分配给NPC的属性、经验、技能、法术等，都将在他们于《龙矛围攻》和《博德之门2》中出现时得以保留。要使一个NPC在《龙矛围攻》和《博德之门2》中出现，必须先在《博德之门1》中招募该角色。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute les PNJ rencontrés uniquement dans Baldur's Gate 1 à Siege of Dragonspear et Baldur's Gate 2. Le mod lui-même nécessite EET et présentera une version continue de ces personnages dans les jeux suivants. Cela signifie que toutes les statistiques, expériences, compétences, sorts, etc. attribués aux PNJ dans BG1 seront présents lorsqu'ils apparaîtront dans SoD et BG2. Pour qu'un PNJ apparaisse dans SoD et BG2, il doit d'abord être recruté dans BG1."
         },
-        "notes": [],
+        "notes": [
+			"应作者要求撤回"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Retiré à la demande de l'auteur"
             ]
@@ -27414,9 +27434,9 @@
     },
     {
         "id": 1903,
-        "description": "",
+        "description": "《国度海盗》原本计划允许玩家前往马兹提卡，并提供航海系统、三个章节、可招募的新队友、新宗派、新法术，以及百余个新区域和新任务。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Pirates of the Realms devait permettre aux joueurs de rejoindre Maztica et proposait une gestion du voyage en bateau, 3 épisodes, des nouveaux pnjs recrutables, des nouveaux kits, des nouveaux sorts, plus d'une centaine de nouvelles zones et de nouvelles quêtes."
         },
         "notes": [],
