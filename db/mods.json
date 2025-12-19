@@ -61865,5 +61865,37 @@
         "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "continious-npcs"
+    },
+    {
+        "id": 1906,
+        "name": "EE Soundset Tool",
+        "description": "Un outil permettant d'ajouter facilement des ensembles de sons sur les versions enhanced 2.6 et plus.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/34560-adding-soundsets-to-the-ees-using-the-ee-soundset-tool/",
+            "https://github.com/Gibberlings3/EE_soundset_tool/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "CamDawg",
+            "Graion Dilach"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-02",
+        "compatibilities": {},
+        "tp2": "cd_soundsets"
     }
 ]
