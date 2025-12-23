@@ -1158,7 +1158,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Vous la trouverez dans le centre de Bérégost. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir.|FOR 8, DEX 16, CON 13, INT 19, SAG 14, CHA 15."
+            "source": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Dans BG1, vous la trouverez dans le centre de Bérégost, dans BG2 vous la trouverez dans la Promenade de Waukyne après avoir participé à un évènement dans la maison de Jan. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir.|FOR 8, DEX 16, CON 13, INT 19, SAG 14, CHA 15."
         },
         "notes": [],
         "notes_meta": {
@@ -15058,7 +15058,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion. Le mod [[1229]] est indispensable.",
+                "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion.",
                 "Le lien [athkatla](https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507) propose un fix."
             ]
         }
@@ -18115,10 +18115,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "La traduction française a été réalisée grâce à des traducteurs automatiques."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {

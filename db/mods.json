@@ -246,7 +246,7 @@
         "status": "active",
         "last_update": "2020-11",
         "compatibilities": {},
-        "tp2": "k9iwdeekit"
+        "tp2": "k9IWDEEKit"
     },
     {
         "id": 9,
@@ -2212,7 +2212,7 @@
         "status": "active",
         "last_update": "2025-09",
         "compatibilities": {},
-        "tp2": "Ariena"
+        "tp2": "ariena"
     },
     {
         "id": 67,
@@ -2460,7 +2460,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "ac_quest"
     },
@@ -2803,12 +2803,12 @@
     },
     {
         "id": 83,
-        "name": "Aura NPC for BG:EE and EET",
-        "description": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Vous la trouverez dans le centre de Bérégost. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir.|FOR 8, DEX 16, CON 13, INT 19, SAG 14, CHA 15.",
+        "name": "Aura NPC for Baldur's Gate: Enhanced Edition",
+        "description": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Dans BG1, vous la trouverez dans le centre de Bérégost, dans BG2 vous la trouverez dans la Promenade de Waukyne après avoir participé à un évènement dans la maison de Jan. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir.|FOR 8, DEX 16, CON 13, INT 19, SAG 14, CHA 15.",
         "urls": [
             "https://artisans-corner.com/aura-npc/",
             "https://forums.beamdog.com/discussion/65891/",
-            "https://github.com/ArtemiusI/Aura_BG1"
+            "https://github.com/ArtemiusI/Aura_BG1_BG2_EET/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -2816,6 +2816,7 @@
         "games": [
             "BGEE",
             "SoD",
+            "BG2EE",
             "EET"
         ],
         "authors": [
@@ -2829,9 +2830,9 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-01",
+        "last_update": "2025-12",
         "compatibilities": {},
-        "tp2": "Aura_BG1"
+        "tp2": "Aura_BG1_2_EET"
     },
     {
         "id": 84,
@@ -3390,7 +3391,7 @@
             "https://github.com/Gibberlings3/BG1_Romantic_Encounters"
         ],
         "categories": [
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG",
@@ -4646,7 +4647,7 @@
         "status": "active",
         "last_update": "2025-09",
         "compatibilities": {},
-        "tp2": "BP-Balancer"
+        "tp2": "bp-balancer"
     },
     {
         "id": 138,
@@ -7284,7 +7285,7 @@
         "status": "active",
         "last_update": "2025-10",
         "compatibilities": {},
-        "tp2": "chantelame"
+        "tp2": "chantelame;Px_Chantelame"
     },
     {
         "id": 219,
@@ -7649,7 +7650,7 @@
         "status": "active",
         "last_update": "2025-09",
         "compatibilities": {},
-        "tp2": "Chloe"
+        "tp2": "chloe"
     },
     {
         "id": 229,
@@ -12833,7 +12834,7 @@
         "status": "active",
         "last_update": "2025-09",
         "compatibilities": {},
-        "tp2": "Exnem"
+        "tp2": "exnem"
     },
     {
         "id": 386,
@@ -14971,7 +14972,7 @@
         "status": "active",
         "last_update": "2025-09",
         "compatibilities": {},
-        "tp2": "GhostDog's-PST-UI"
+        "tp2": "ghostdog's-pst-ui"
     },
     {
         "id": 451,
@@ -17381,7 +17382,7 @@
         "status": "active",
         "last_update": "2025-09",
         "compatibilities": {},
-        "tp2": "IlmatarPack"
+        "tp2": "ilmatarpack"
     },
     {
         "id": 526,
@@ -19987,7 +19988,7 @@
         "status": "active",
         "last_update": "2025-09",
         "compatibilities": {},
-        "tp2": "Kido"
+        "tp2": "kido"
     },
     {
         "id": 603,
@@ -24456,7 +24457,7 @@
         "status": "active",
         "last_update": "2025-09",
         "compatibilities": {},
-        "tp2": "Nathaniel"
+        "tp2": "nathaniel"
     },
     {
         "id": 740,
@@ -26186,7 +26187,7 @@
         "status": "active",
         "last_update": "2022-11",
         "compatibilities": {},
-        "tp2": "PoFQuestPack"
+        "tp2": "Paladins-of-Faerun"
     },
     {
         "id": 794,
@@ -26854,7 +26855,7 @@
         "status": "active",
         "last_update": "2025-09",
         "compatibilities": {},
-        "tp2": "PST-Fix"
+        "tp2": "pst-fix"
     },
     {
         "id": 815,
@@ -27936,7 +27937,6 @@
             "fr",
             "it",
             "ru",
-            "pl",
             "cn"
         ],
         "status": "active",
@@ -28011,7 +28011,7 @@
         "status": "embed",
         "last_update": "2025-09",
         "compatibilities": {},
-        "tp2": "PST-Tweak"
+        "tp2": "pst-tweak"
     },
     {
         "id": 848,
@@ -28144,7 +28144,7 @@
         "status": "active",
         "last_update": "2025-10",
         "compatibilities": {},
-        "tp2": "rttkit"
+        "tp2": "kitrtt;rttkit"
     },
     {
         "id": 852,
@@ -29261,7 +29261,7 @@
             "it"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "RevisedBattles"
     },
@@ -29922,7 +29922,7 @@
         "status": "active",
         "last_update": "2025-05",
         "compatibilities": {},
-        "tp2": "Run"
+        "tp2": "run"
     },
     {
         "id": 904,
@@ -30931,7 +30931,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "shadowadept"
     },
@@ -31799,7 +31799,8 @@
             "https://downloads.weaselmods.net/download/skie-the-cost-of-one-girls-soul/"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ recrutable",
+            "Quête"
         ],
         "games": [
             "BG2EE",
@@ -32751,7 +32752,7 @@
     },
     {
         "id": 988,
-        "name": "Spirit Hunter",
+        "name": "Spirit Hunter Shaman Kit",
         "description": "Ce mod ajoute un nouveau profil de chaman. À parts égales chaman et chasseur, c'est un tireur d'élite hors pair qui peut utiliser sa danse chamanique pour invoquer un esprit chien pour l'aider à chasser.",
         "urls": [
             "https://github.com/thisisulb/SpiritHunterShamanKit"
@@ -33108,8 +33109,7 @@
         "description": "Ce mod ajoute la possibilité de sélectionner une sous-race pour le personnage principal. Pour l'instant, il n'y en a que 9 : Aasimar, Tieffelin, Elfe noir, Elfe sauvage, Nain d'or (Nain des collines), Nain gris (Duergar), Costaud et Sagespectre (halfelins), et Gnome des profondeurs (Svirfneblin).|Il donne aussi des sous-races à Viconia (Elfe noir), Baeloth (Elfe noir), Haer'Dalis (Tieffelin) et Caelar (Aasimar).|C'est sans doute le seul qui fonctionne vraiment.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32267-subrace-mod/",
-            "https://github.com/tipun81/Subrace-mod/",
-            "https://github.com/dark0dave/Subrace-mod/"
+            "https://github.com/tipun81/Subrace-mod/"
         ],
         "categories": [
             "Gameplay"
@@ -33679,7 +33679,7 @@
         "status": "active",
         "last_update": "2025-10",
         "compatibilities": {},
-        "tp2": "1syml"
+        "tp2": "1sylm"
     },
     {
         "id": 1016,
@@ -34243,7 +34243,7 @@
                 1354
             ]
         },
-        "tp2": "Tashia"
+        "tp2": "tashia"
     },
     {
         "id": 1033,
@@ -35228,6 +35228,7 @@
             "Quête"
         ],
         "games": [
+            "BG2EE",
             "EET"
         ],
         "authors": [
@@ -35248,6 +35249,9 @@
         "compatibilities": {
             "requires": [
                 372
+            ],
+            "incompatible_with": [
+                1166
             ]
         },
         "tp2": "cowledmenace"
@@ -36038,7 +36042,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion. Le mod [[1229]] est indispensable.",
+            "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion.",
             "Le lien [athkatla](https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507) propose un fix."
         ],
         "translation_state": "auto",
@@ -36053,8 +36057,12 @@
         ],
         "status": "active",
         "last_update": "2025-09",
-        "compatibilities": {},
-        "tp2": "BoneHill"
+        "compatibilities": {
+            "requires": [
+                1229
+            ]
+        },
+        "tp2": "BoneHill;bonehillv275"
     },
     {
         "id": 1085,
@@ -37193,7 +37201,7 @@
         "status": "active",
         "last_update": "2022-03",
         "compatibilities": {},
-        "tp2": "vladtslite"
+        "tp2": "TorturedSoulsLite"
     },
     {
         "id": 1118,
@@ -37237,7 +37245,7 @@
     },
     {
         "id": 1119,
-        "name": "Touchstone NPC",
+        "name": "Touch the Moon NPC",
         "description": "Touchstone est un elfe sauvage guerrier qui semble ne pouvoir s'exprimer en langue commune qu'avec efforts, mais qui tentera cependant de se lier avec vous. Pas de romance néanmoins, il est annoncé comme étant sociable, même si apparemment il n'a pas énormément d'interactions avec les personnages du jeu. Vous le trouverez sur les Docks d'Athkatla. Un composant optionnel permet de lui attribuer un kit de guerrier elfe sauvage.|FOR 16, DEX 17, CON 14, INT 12, SAG 12, CHA 12.",
         "urls": [
             "https://www.shsforums.net/topic/56148-touchstone-a-mod-from-rabain/",
@@ -38771,7 +38779,11 @@
         ],
         "status": "active",
         "last_update": "2021-07",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                1061
+            ]
+        },
         "tp2": "Unofficial Item Pack"
     },
     {
@@ -39565,7 +39577,7 @@
         "status": "active",
         "last_update": "2025-10",
         "compatibilities": {},
-        "tp2": "W_GUI"
+        "tp2": "w_gui"
     },
     {
         "id": 1192,
@@ -41182,7 +41194,7 @@
         "status": "active",
         "last_update": "2025-09",
         "compatibilities": {},
-        "tp2": "Yikari"
+        "tp2": "yikari"
     },
     {
         "id": 1241,
@@ -42352,7 +42364,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-01",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "mod-caster-crafting"
     },
@@ -43376,7 +43388,7 @@
             "https://github.com/evancauteren/bg2-autumns-twilight-mod"
         ],
         "categories": [
-            "Sort et objet",
+            "Quête",
             "PNJ recrutable"
         ],
         "games": [
@@ -43387,9 +43399,7 @@
             "Pol Rupes"
         ],
         "team": [],
-        "notes": [
-            "La traduction française a été réalisée grâce à des traducteurs automatiques."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -44139,7 +44149,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -46072,7 +46082,7 @@
         "status": "active",
         "last_update": "2025-05",
         "compatibilities": {},
-        "tp2": "Lichdom_EET"
+        "tp2": "lichdom"
     },
     {
         "id": 1386,
@@ -47239,7 +47249,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "ZS_ShadowdancerOverhaul"
     },
@@ -47444,7 +47454,7 @@
         "status": "active",
         "last_update": "2025-03",
         "compatibilities": {},
-        "tp2": "Reflections"
+        "tp2": "Reflections_of_Destiny"
     },
     {
         "id": 1431,
@@ -51211,7 +51221,7 @@
         "status": "active",
         "last_update": "2024-06",
         "compatibilities": {},
-        "tp2": "SibelNPC"
+        "tp2": "SibelNPC;SibelNPCEE"
     },
     {
         "id": 1554,
@@ -57717,9 +57727,9 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-12",
         "compatibilities": {},
-        "tp2": "Derats_Kribinn"
+        "tp2": "Derats_KriBinn"
     },
     {
         "id": 1770,
@@ -59948,7 +59958,7 @@
     },
     {
         "id": 1844,
-        "name": "Dynaheir BG2EE NPC",
+        "name": "Dynaheir BG2EE",
         "description": "Dynaheir BG2EE permet aux joueurs de décider lequel des compagnons Rashemaar devrait être disponible pendant les campagnes Shadows of Amn et Throne of Bhaal : Minsc ou Dynaheir. La décision est prise dans une nouvelle zone, où vous devez amener Minsc. Il y a une nouvelle porte à côté de sa cage. Libérez-le et laissez-le voir ce qui est arrivé à son amie.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=73",
@@ -59968,12 +59978,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
-        "status": "wip",
-        "last_update": "2025-09",
+        "status": "active",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "DynaheirBG2EE"
     },
@@ -60480,7 +60490,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -61664,7 +61674,7 @@
         "status": "active",
         "last_update": "2025-11",
         "compatibilities": {},
-        "tp2": "Skills_and_Profiencies"
+        "tp2": "Skills_and_Proficiencies"
     },
     {
         "id": 1899,
