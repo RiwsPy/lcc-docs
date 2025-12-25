@@ -1120,20 +1120,25 @@
         "description": "Cette jeune elfe druide, enjouée et haute en couleurs vous demande de l'aide au Bosquet des Druides, et vous propose même de vous rejoindre pour mettre fin au règne de Faldorn. Elle possède de nombreux banters avec les différents PNJ du jeu.|FOR 14, DEX 14, CON 7, INT 12, SAG 18, CHA 12.",
         "urls": [
             "https://www.shsforums.net/files/file/1260-allison-one-day-npc/",
-            "https://github.com/Spellhold-Studios/Allison-One-Day-NPC/"
+            "https://github.com/Spellhold-Studios/Allison-One-Day-NPC/",
+            "https://github.com/Plutonium-X/FORK_Allison-One-Day-NPC"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
             "BG2",
+            "BGT",
+            "BG2EE",
             "BGT"
         ],
         "authors": [
             "Rastor"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choisissez le deuxième lien github pour la version BG2EE/EET."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -1144,7 +1149,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "allison"
     },
@@ -7628,7 +7633,9 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Lucythebeast"
@@ -20460,7 +20467,8 @@
             "https://app.mediafire.com/folder/depaqus3ma8bt/BG2_Mes_créations"
         ],
         "categories": [
-            "PNJ One Day"
+            "PNJ One Day",
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -28117,22 +28125,26 @@
         "description": "Ce mod rend disponibles 30 profils du module de conversion [[881]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
         "urls": [
             "https://www.shsforums.net/files/file/51-return-to-trademeet-kit-pack/",
-            "https://github.com/Spellhold-Studios/RTT-Kit-Pack/"
+            "https://github.com/Spellhold-Studios/RTT-Kit-Pack/",
+            "https://github.com/Plutonium-X/KIT_RTT"
+            
         ],
         "categories": [
             "Kit"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "al17",
             "the bigg"
         ],
         "team": [],
-        "notes": [
-            "Utilisez [ce lien](https://github.com/Plutonium-X/KIT_RTT/) pour les versions EE."
+         "notes": [
+            "Choisissez le deuxième lien github pour la version BG2EE/EET."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -41169,20 +41181,25 @@
         "description": "Ce mod ajoute un nouveau PNJ, un moine loyal neutre qui vient de Kara-Tur. Il possède sa propre quête ainsi que des interactions avec chaque personnage. Il a fait vœu de silence jusqu'à ce qu'il réussisse sa mission, donc votre première rencontre se déroulera sous forme d'un jeu de charades intéressant. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe.|FOR 16, DEX 18, CON 14, INT 8, SAG 18, CHA 4.",
         "urls": [
             "https://www.shsforums.net/files/file/34-yikari-v-17/",
-            "https://github.com/Spellhold-Studios/Yikari-NPC/"
+            "https://github.com/Spellhold-Studios/Yikari-NPC/",
+            "https://github.com/Plutonium-X/Yikari-NPC"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Shed"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choisissez le deuxième lien github pour la version BG2EE/EET."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -41192,7 +41209,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "yikari"
     },
@@ -60019,19 +60036,24 @@
         "description": "Ce mod est une extension de l'histoire de Dili, une fille que le joueur rencontre au chapitre 4. (Indice : si vous avez parlé à Dili à Spellhold, rendez-vous dans le quartier des docks au chapitre 6 ou 7, puis descendez vers les navires.)",
         "urls": [
             "https://forums.pocketplane.net/index.php/topic,24648.0.html",
-            "https://github.com/Pocket-Plane-Group/IronModder10_Kulyok"
+            "https://github.com/Pocket-Plane-Group/IronModder10_Kulyok",
+            "https://github.com/Plutonium-X/IronModder10_Kulyok"
         ],
         "categories": [
             "Quête"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Kulyok"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choisissez le deuxième lien github pour la version BG2EE/EET."
+        ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -60039,7 +60061,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2020-02",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "im10kulyok"
     },
@@ -60049,19 +60071,24 @@
         "description": "Au chapitre 2, rendez-vous dans le quartier du cimetière et dirigez-vous vers les coordonnées 2584, 1117 environ.",
         "urls": [
             "https://forums.pocketplane.net/index.php/topic,24648.0.html",
-            "https://github.com/Pocket-Plane-Group/IronModder10_Ding0"
+            "https://github.com/Pocket-Plane-Group/IronModder10_Ding0",
+            "https://github.com/Plutonium-X/IronModder10_Ding0"
         ],
         "categories": [
             "Quête"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "SimDing0"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choisissez le deuxième lien github pour la version BG2EE/EET."
+        ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -60069,7 +60096,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2020-02",
+        "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "d0im10"
     },
