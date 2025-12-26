@@ -78,6 +78,9 @@ class ModManager:
         source_list_pks = {mod["id"]: mod for mod in source_list}
         target_list_pks = {mod["id"]: mod for mod in target_list}
         for pk, data in target_list_pks.items():
+            if pk not in source_list_pks:
+                source_list_pks[pk] = dict()
+
             source_list_pks[pk] |= {
                 k: v
                 for k, v in data.items()
