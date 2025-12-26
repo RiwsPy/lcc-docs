@@ -8342,8 +8342,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Il existe un portage non officiel de ce mod vers les versions EE disponible [ici](https://github.com/eva2000as/KWolfNPC/), elle propose également la traduction chinoise."
+            ]
         }
     },
     {
@@ -9370,7 +9372,8 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Il doit être installé avant [[372]]."
+                "Il doit être installé avant [[372]].",
+                "Choisissez la version github qui est compatible EET."
             ]
         }
     },
@@ -18264,7 +18267,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Le but de ce mod est de rééquilibrer les kits et les classes de base à la manière de [[608]]. Ce mod est compatible avec Kit Revisions si ce dernier est installé en premier. Ce mod proposera également un certain nombre de kits supplémentaires (optionnels) à installer."
+            "source": "Le but de ce mod est de rééquilibrer les kits et les classes de base à la manière de [[608]]. Ce mod est compatible avec [[608]] si ce dernier est installé en premier. Ce mod proposera également un certain nombre de kits supplémentaires (optionnels) à installer."
         },
         "notes": [],
         "notes_meta": {
@@ -26250,6 +26253,136 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce module permet de donner toutes les capacités et inconvénients du kensaï à n'importe quelle classe. Vous devez utiliser un objet pour activer ces effets, que vous trouverez chez Talandir (BG), chez Ribald (BG2) ou chez Orrick le Gris (IWD)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1908,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod remplace les polices originales des jeux Infinity Engine par de nouvelles polices. Toutes les polices choisies proviennent des sites FontSquirrel et 1001 Fonts et leur licence autorise un usage commercial. 5 polices sont disponibles."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1909,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un projet de mod par épisode visant à prolonger la fin de Baldur's Gate: Shadows of Amn, commençant par une suite jouable, avec l'intention d'ajouter un interlude à part entière afin de mieux faire le lien entre Shadows of Amn et Throne of Bhaal, mettant en scène les elfes de Suldanessalar, certains visages familiers et un nouvel antagoniste.|`Épisode I - Le calme avant la tempête` : Irenicus est vaincu. La paix est revenue à Suldanessalar, et la vie semble reprendre son cours normal. À la demande de la grande prêtresse elfe, l'enfant de Bhaal et ses compagnons sont restés dans la cité elfique en tant que sauveurs et invités d'honneur, tandis que les citoyens se préparent pour le Festival de la Floraison, une cérémonie destinée à restaurer le moral des habitants.|`Épisode II - Festival de la Floraison` : en cours de réalisation."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1910,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1911,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de diamant qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous devez trouver et tuer le boss pour valider la victoire.|Ceci est un version Wip, ne proposant que 6 arènes sur les 12 prévues."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1912,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod vise à fournir un moyen dépasser la limite de 6 personnages dans le groupe en utilisant le statut familier, tout en conservant les quêtes, les interjections et les plaisanteries afin de profiter des PNJ / voyageurs en tant que membres du groupe."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1913,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute une longue histoire d'amour avec Mazzy, la charmante chevalier petite-personne.|Il comprend 20 conversations chronométrées ainsi que diverses conversations liées à des événements dans Shadows of Amn, 8 conversations dans ToB, un épilogue romantique avec de petites variations en fonction de vos choix personnels et des circonstances, et les événements habituels liés à la romance.|Pour activer la romance, si vous remplissez les conditions requises (alignement non mauvais), vous devez avoir une réputation de 15 ou plus."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1914,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Une petite modification permettant de changer la fin de l'extension Heart of Winter pour IWD:EE (lorsque vous jouez à partir de la campagne principale) afin que l'extension ne se termine pas immédiatement après avoir vaincu le boss final. Vous pourrez retourner à Lonelywood et terminer toute tâche inachevée, ainsi que jouer à Trials of the Luremaster si vous le souhaitez, et terminer l'extension quand vous le souhaitez en parlant à Hjollder."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1915,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un mod qui révise et ajuste les classes, dans la lignée du mod [[608]], désormais apparemment abandonné. Pour l'instant, seuls les paladins et les rôdeurs sont concernés."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1916,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Révisions (correctifs et ajustements) pour [[982]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1917,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Une réimplémentation complète de [[982]]."
         },
         "notes": [],
         "notes_meta": {

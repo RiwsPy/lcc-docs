@@ -20008,7 +20008,9 @@
             "inintrag"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il existe un portage non officiel de ce mod vers les versions EE disponible [ici](https://github.com/eva2000as/KWolfNPC/), elle propose également la traduction chinoise."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -22367,30 +22369,35 @@
         "description": "Ce mod ajoute une nouvelle traqueuse halfelin qui voyage sur la Côte des Épées, bien qu'il soit évident qu'elle n'est pas de la région. Elle aime se faire passer pour une personne inutile, timide ou innocente, même si ce n'est pas tout à fait le cas. Vous pourrez la recruter dans les mines de Nashkel.|FOR 15, DEX 17, CON 15, INT 12, SAG 14, CHA 15.",
         "urls": [
             "https://forums.beamdog.com/discussion/15867/",
-            "https://www.mediafire.com/file/319iqtunuedckt5/Margarita.rar/file"
+            "https://www.mediafire.com/file/319iqtunuedckt5/Margarita.rar/file",
+            "https://github.com/11jo/Margarita/"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
-            "BGEE"
+            "BG",
+            "BGT",
+            "BGEE",
+            "EET"
         ],
         "authors": [
             "Xavioria"
         ],
         "team": [],
         "notes": [
-            "Il doit être installé avant [[372]]."
+            "Il doit être installé avant [[372]].",
+            "Choisissez la version github qui est compatible EET."
         ],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
         "status": "active",
-        "last_update": "2013-03",
+        "last_update": "2025-12",
         "compatibilities": {},
-        "tp2": "margarita"
+        "tp2": "Margarita"
     },
     {
         "id": 679,
@@ -43313,7 +43320,8 @@
         "description": "Était-ce vraiment la fin des aventures de Yoshimo avec l'Enfant de Bhaal ? N'a-t-il tout simplement aucun moyen de se racheter ou d'expliquer ses actions au PJ ?|Ce mod fait de Yoshimo un personnage jouable dans Throne of Bhaal. Cependant, il n'est pas ce que vous attendez de lui... Alors préparez-vous pour d'autres aventures et discussions avec le tristement célèbre chasseur de primes, une âme tourmentée qui n'a laissé que des regrets. Écoutez-le, car c'est peut-être sa dernière chance de trouver la paix.|Yoshimo's Remorse est compatible avec [[1302]], mais si une telle relation a eu lieu dans SoA, il n'apparaîtra pas dans ToB, et le contenu du mod [[1302]] se produira à la place.",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/yoshimos-remorse",
-            "https://forums.beamdog.com/discussion/75983/"
+            "https://forums.beamdog.com/discussion/75983/",
+            "https://github.com/Gibberlings3/Yoshimos_Remorse/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -43335,16 +43343,17 @@
         "languages": [
             "en",
             "ru",
-            "pl"
+            "pl",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2023-03",
+        "last_update": "2025-12",
         "compatibilities": {
             "incompatible_with": [
                 1280
             ]
         },
-        "tp2": "YoshimosRemorse"
+        "tp2": "yoshimosremorse"
     },
     {
         "id": 1304,
@@ -43744,7 +43753,7 @@
     {
         "id": 1316,
         "name": "B_Kits",
-        "description": "Le but de ce mod est de rééquilibrer les kits et les classes de base à la manière de [[608]]. Ce mod est compatible avec Kit Revisions si ce dernier est installé en premier. Ce mod proposera également un certain nombre de kits supplémentaires (optionnels) à installer.",
+        "description": "Le but de ce mod est de rééquilibrer les kits et les classes de base à la manière de [[608]]. Ce mod est compatible avec [[608]] si ce dernier est installé en premier. Ce mod proposera également un certain nombre de kits supplémentaires (optionnels) à installer.",
         "urls": [
             "https://github.com/Grammarsalad/B_Kits"
         ],
@@ -49295,7 +49304,7 @@
         "description": "Ce mod ajoute M'Khiin Grubdoubler, le compagnon gobelin de Siege of Dragonspear, à BG2EE en tant que PNJ recrutable. Charname peut choisir de la connaître ou de la rencontrer à nouveau dans SOA. Elle peut être recrutée dans le district du Temple. Elle possède plusieurs banters, bon nombre d'interactions ainsi qu'une petite quête.",
         "urls": [
             "https://america.iegmc.com/bucketfulofsunshine/mkhiinbg2-main.zip",
-            "https://github.com/bucketfulofsunshine/mkhiinbg2"
+            "https://github.com/szaumoor/mkhiinbg2"
         ],
         "categories": [
             "PNJ recrutable"
@@ -49315,7 +49324,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2025-09",
+        "last_update": "2025-08",
         "compatibilities": {},
         "tp2": "mkhiinbg2"
     },
@@ -61942,5 +61951,311 @@
         "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "Derats_kensai"
+    },
+    {
+        "id": 1908,
+        "name": "The Artisan's Font Pack",
+        "description": "Ce mod remplace les polices originales des jeux Infinity Engine par de nouvelles polices. Toutes les polices choisies proviennent des sites FontSquirrel et 1001 Fonts et leur licence autorise un usage commercial. 5 polices sont disponibles.",
+        "urls": [
+            "https://github.com/ArtemiusI/Artisans-Font-Pack/"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2025-11",
+        "compatibilities": {},
+        "tp2": "ArtisansFontPack"
+    },
+    {
+        "id": 1909,
+        "name": "Shadows of Amn extended",
+        "description": "Un projet de mod par épisode visant à prolonger la fin de Baldur's Gate: Shadows of Amn, commençant par une suite jouable, avec l'intention d'ajouter un interlude à part entière afin de mieux faire le lien entre Shadows of Amn et Throne of Bhaal, mettant en scène les elfes de Suldanessalar, certains visages familiers et un nouvel antagoniste.|`Épisode I - Le calme avant la tempête` : Irenicus est vaincu. La paix est revenue à Suldanessalar, et la vie semble reprendre son cours normal. À la demande de la grande prêtresse elfe, l'enfant de Bhaal et ses compagnons sont restés dans la cité elfique en tant que sauveurs et invités d'honneur, tandis que les citoyens se préparent pour le Festival de la Floraison, une cérémonie destinée à restaurer le moral des habitants.|`Épisode II - Festival de la Floraison` : en cours de réalisation.",
+        "urls": [
+            "https://artisans-corner.com/shadows-of-amn-extended/",
+            "https://github.com/ArtemiusI/SoAExtended/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2025-12",
+        "compatibilities": {},
+        "tp2": "SoAExtended"
+    },
+    {
+        "id": 1910,
+        "name": "Desire",
+        "description": "",
+        "urls": [
+            "https://github.com/cmorganbg/Desire_NPC/"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "cmorgan"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "archived",
+        "last_update": "2018-12",
+        "compatibilities": {},
+        "tp2": "desire"
+    },
+    {
+        "id": 1911,
+        "name": "Défis insurmontables de Telim'Gar",
+        "description": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de diamant qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous devez trouver et tuer le boss pour valider la victoire.|Ceci est un version Wip, ne proposant que 6 arènes sur les 12 prévues.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34557",
+            "https://github.com/Deratiseur/Defis/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Deratiseur"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "wip",
+        "last_update": "2025-12",
+        "compatibilities": {},
+        "tp2": "Derats_Defis"
+    },
+    {
+        "id": 1912,
+        "name": "JOining Party",
+        "description": "Ce mod vise à fournir un moyen dépasser la limite de 6 personnages dans le groupe en utilisant le statut familier, tout en conservant les quêtes, les interjections et les plaisanteries afin de profiter des PNJ / voyageurs en tant que membres du groupe.",
+        "urls": [
+            "https://github.com/11jo/JOining_Party/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "BGT"
+        ],
+        "authors": [
+            "JohnBob"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2025-12",
+        "compatibilities": {},
+        "tp2": "JOining_Party_Select"
+    },
+    {
+        "id": 1913,
+        "name": "Mazzy Romance",
+        "description": "Ce mod ajoute une longue histoire d'amour avec Mazzy, la charmante chevalier petite-personne.|Il comprend 20 conversations chronométrées ainsi que diverses conversations liées à des événements dans Shadows of Amn, 8 conversations dans ToB, un épilogue romantique avec de petites variations en fonction de vos choix personnels et des circonstances, et les événements habituels liés à la romance.|Pour activer la romance, si vous remplissez les conditions requises (alignement non mauvais), vous devez avoir une réputation de 15 ou plus.",
+        "urls": [
+            "https://artisans-corner.com/mazzy-romance/",
+            "https://github.com/ArtemiusI/Mazzy-Romance-BG2EE/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2025-12",
+        "compatibilities": {},
+        "tp2": "Artisans_MazzyRom"
+    },
+    {
+        "id": 1914,
+        "name": "Heart of Winter Ending Tweak",
+        "description": "Une petite modification permettant de changer la fin de l'extension Heart of Winter pour IWD:EE (lorsque vous jouez à partir de la campagne principale) afin que l'extension ne se termine pas immédiatement après avoir vaincu le boss final. Vous pourrez retourner à Lonelywood et terminer toute tâche inachevée, ainsi que jouer à Trials of the Luremaster si vous le souhaitez, et terminer l'extension quand vous le souhaitez en parlant à Hjollder.",
+        "urls": [
+            "https://github.com/ArtemiusI/HoWMod/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "compatibilities": {},
+        "tp2": "HoWMod"
+    },
+    {
+        "id": 1915,
+        "name": "Class Revisions",
+        "description": "Un mod qui révise et ajuste les classes, dans la lignée du mod [[608]], désormais apparemment abandonné. Pour l'instant, seuls les paladins et les rôdeurs sont concernés.",
+        "urls": [
+            "https://github.com/lambda-dom/class_revisions/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "lambda_dom"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-12",
+        "compatibilities": {
+            "requires": [
+                982
+            ]
+        },
+        "tp2": "class_revisions"
+    },
+    {
+        "id": 1916,
+        "name": "Patches and Tweaks for Spell Revisions",
+        "description": "Révisions (correctifs et ajustements) pour [[982]].",
+        "urls": [
+            "https://github.com/lambda-dom/spell_rev_rev/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "lambda_dom"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "embed",
+        "last_update": "2023-05",
+        "compatibilities": {
+            "requires": [
+                982
+            ]
+        },
+        "tp2": "spell_rev_rev"
+    },
+    {
+        "id": 1917,
+        "name": "Spell Revisions",
+        "description": "Une réimplémentation complète de [[982]].",
+        "urls": [
+            "https://github.com/lambda-dom/spell_revisions/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "lambda_dom"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2025-10",
+        "compatibilities": {},
+        "tp2": "spell_revisions"
     }
 ]
