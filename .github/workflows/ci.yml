@@ -21,8 +21,11 @@ jobs:
         python-version: 3.11
         enable-cache: true
 
-    - name: Run tests
+    - name: Run check mod structure
       run: uv run main.py scripts/check_mods_json.py
+
+    - name: Run tests
+      run: uv run pytest tests/ -v
 
   build:
     needs: test
