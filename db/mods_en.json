@@ -27230,7 +27230,7 @@
         "description": "This module allows you to give all the abilities and disadvantages of the kensai to any class. You must use an item to activate these effects, which you can find at Talandir's (BG), Ribald's (BG2) or Orrick the Grey's (IWD).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce module permet de donner toutes les capacités et inconvénients du kensaï à n'importe quelle classe. Vous devez utiliser un objet pour activer ces effets, que vous trouverez chez Talandir (BG), chez Ribald (BG2) ou chez Orrick le Gris (IWD)."
+            "source": "Ce module permet de donner toutes les capacités et inconvénients du kensaï à n'importe quel npc, en plus de sa classe normale. Vous devez utiliser un objet pour activer ces effets, que vous trouverez chez Talandir (BG), chez Ribald (BG2) ou chez Orrick le Gris (IWD)."
         },
         "notes": [],
         "notes_meta": {
@@ -27357,7 +27357,7 @@
     },
     {
         "id": 1917,
-        "description": " A ground-up reimplementation of [[982]].",
+        "description": "A ground-up reimplementation of [[982]].",
         "description_meta": {
             "status": "done",
             "source": "Une réimplémentation complète de [[982]]."
@@ -27366,6 +27366,88 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1918,
+        "description": "This mod adds Gonzo to the Trademeet forge. Like his colleagues [[900]] and [[895]], he can improve certain items by adding other items.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute Gonzo dans la forge de Francmarché. Tous comme ses confrères [[900]] et [[895]] il peut améliorer certains objets par l'ajout d'autre objets."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1919,
+        "description": "The author of this mod noticed that the spell ‘Tenser's Transformation’ prevents the use of innate abilities, which is unfortunate for the Blade kit. He therefore created a modified version of the spell, which no longer prevents innate abilities. The spell scroll is available from Ribald.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "L'auteur de ce mod a remarqué que le sort \"Transformation de Tenser\" empêche d'utiliser les capacités innées, ce qui est regrettable pour le Maître-lame. Il a donc créé une version modifiée du sort, qui n’empêche plus les capacités innées. Le parchemin du sort est disponible chez Ribald."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1920,
+        "description": "This script, which you can edit yourself, allows you to change weapon sets in-game (for example, to switch from two weapons to a bow) by pressing the key you have configured. It requires the [Autokey](https://www.autohotkey.com/) programme to function.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce script à éditer vous même, permet en jeu de changer de set d'armes (par exemple pour passer de deux armes à un arc) en appuyant sur la touche que vous aurez configuré. Il nécessite le programme [Autokey](https://www.autohotkey.com/) pour fonctionner."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1921,
+        "description": "This mod updates the game's user interface to be more on par with todays DnD games, adjusting the size for 1080p and 1440p monitors.|Fully removing sidebar backgrounds, scaling portraits and aligning various buttons.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod met à jour de l'interface utilisateur du jeu afin de la rendre plus conforme aux jeux DnD actuels, ajustement de la taille pour les écrans 1080p et 1440p.|Il supprime complètement l'arrière-plan de la barre latérale, il remet à l'échelle les portraits et aligne les différents boutons."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1922,
+        "description": "[Reshade](https://reshade.me/) preset that makes the Infinity Engine games look a bit more vivid, with added bloom and color changes (stronger green tones, more contrast etc.) that makes outside areas and some spell effects (eg Fireshield) pop a bit more.",
+        "description_meta": {
+            "status": "done",
+            "source": "Préréglage [Reshade](https://reshade.me/) qui rend les jeux Infinity Engine un peu plus vivants, avec des effets éclatants et des changements de couleurs (tons verts plus prononcés, contraste accru, etc.) qui font ressortir davantage les zones extérieures et certains effets de sorts (par exemple, Bouclier de feu)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1923,
+        "description": "This mod replaces the portraits of all recruitable characters in BGEE, SOD, and BG2EE with ‘more fleshy’ portraits. Men have muscles and pecs (even Edwin), women have ample breasts, and are sometimes even naked.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod remplace les portraits de tous les personnages recrutables de BGEE, SOD et BG2EE par des portraits \"plus en chair\". Les hommes ont des muscles et des pectoraux (même Edwin), les femmes ont des poitrines opulentes, et sont parfois même dénudées."
+        },
+        "notes": [
+            "Warning: explicit content."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Attention, le contenu explicite."
+            ]
         }
     }
 ]

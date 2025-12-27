@@ -20462,7 +20462,8 @@
             "https://app.mediafire.com/folder/depaqus3ma8bt/BG2_Mes_créations"
         ],
         "categories": [
-            "PNJ One Day"
+            "PNJ One Day",
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -61920,7 +61921,7 @@
     {
         "id": 1907,
         "name": "Kensaïsateur",
-        "description": "Ce module permet de donner toutes les capacités et inconvénients du kensaï à n'importe quelle classe. Vous devez utiliser un objet pour activer ces effets, que vous trouverez chez Talandir (BG), chez Ribald (BG2) ou chez Orrick le Gris (IWD).",
+        "description": "Ce module permet de donner toutes les capacités et inconvénients du kensaï à n'importe quel npc, en plus de sa classe normale. Vous devez utiliser un objet pour activer ces effets, que vous trouverez chez Talandir (BG), chez Ribald (BG2) ou chez Orrick le Gris (IWD).",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?f=749&t=35162&p=527850",
             "https://github.com/Deratiseur/Kensai/"
@@ -62257,5 +62258,179 @@
         "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "spell_revisions"
+    },
+    {
+        "id": 1918,
+        "name": "Gonzo",
+        "description": "Ce mod ajoute Gonzo dans la forge de Francmarché. Tous comme ses confrères [[900]] et [[895]] il peut améliorer certains objets par l'ajout d'autre objets.",
+        "urls": [
+            "http://athkatla.cob-bg.pl/viewtopic.php?t=6005"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Kinski"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2013-06",
+        "compatibilities": {},
+        "tp2": "gonzo"
+    },
+    {
+        "id": 1919,
+        "name": "Tenser's Transformation - Blade Version",
+        "description": "L'auteur de ce mod a remarqué que le sort \"Transformation de Tenser\" empêche d'utiliser les capacités innées, ce qui est regrettable pour le Maître-lame. Il a donc créé une version modifiée du sort, qui n’empêche plus les capacités innées. Le parchemin du sort est disponible chez Ribald.",
+        "urls": [
+            "http://athkatla.cob-bg.pl/viewtopic.php?t=5794"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Jaquan"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2012-05",
+        "compatibilities": {},
+        "tp2": "Blade"
+    },
+    {
+        "id": 1920,
+        "name": "Weapon Sets Swapper",
+        "description": "Ce script à éditer vous même, permet en jeu de changer de set d'armes (par exemple pour passer de deux armes à un arc) en appuyant sur la touche que vous aurez configuré. Il nécessite le programme [Autokey](https://www.autohotkey.com/) pour fonctionner.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/18429/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Abel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2015-01",
+        "compatibilities": {},
+        "tp2": "n/a"
+    },
+    {
+        "id": 1921,
+        "name": "Sildur's modern UI",
+        "description": "Ce mod met à jour de l'interface utilisateur du jeu afin de la rendre plus conforme aux jeux DnD actuels, ajustement de la taille pour les écrans 1080p et 1440p.|Il supprime complètement l'arrière-plan de la barre latérale, il remet à l'échelle les portraits et aligne les différents boutons.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/32"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Sildur"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-05",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1922,
+        "name": "Brighter and More Colorful Reshade Preset",
+        "description": "Préréglage [Reshade](https://reshade.me/) qui rend les jeux Infinity Engine un peu plus vivants, avec des effets éclatants et des changements de couleurs (tons verts plus prononcés, contraste accru, etc.) qui font ressortir davantage les zones extérieures et certains effets de sorts (par exemple, Bouclier de feu).",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/118"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Dantard"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2025-08",
+        "compatibilities": {},
+        "tp2": "n/a"
+    },
+    {
+        "id": 1923,
+        "name": "Portrait Pack -- Unnecessary Lewd Reboot",
+        "description": "Ce mod remplace les portraits de tous les personnages recrutables de BGEE, SOD et BG2EE par des portraits \"plus en chair\". Les hommes ont des muscles et des pectoraux (même Edwin), les femmes ont des poitrines opulentes, et sont parfois même dénudées.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/91"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "persestesso"
+        ],
+        "team": [],
+        "notes": [
+            "Attention, le contenu explicite."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2024-04",
+        "compatibilities": {},
+        "tp2": "non-weidu"
     }
 ]
