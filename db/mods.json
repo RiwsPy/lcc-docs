@@ -5354,38 +5354,6 @@
         "tp2": "ClubOfPain"
     },
     {
-        "id": 159,
-        "name": "Infinity Engine Configuration Utility",
-        "description": "Il s'agit d'un utilitaire de configuration non officiel pour les jeux Infinity Engine - Enhanced Edition. Il permet de modifier facilement certaines propriétés modifiables via le fichier Baldur.lua.",
-        "urls": [
-            "https://www.gibberlings3.net/forums/topic/33825-infinity-engine-configuration-utility/",
-            "https://github.com/LionAG/IE-EE-Configuration"
-        ],
-        "categories": [
-            "Utilitaire"
-        ],
-        "games": [
-            "BGEE",
-            "BG2EE",
-            "IWDEE",
-            "PSTEE"
-        ],
-        "authors": [
-            "silver_eagle"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "auto",
-        "safe": 2,
-        "languages": [
-            "en"
-        ],
-        "status": "active",
-        "last_update": "2022-10",
-        "compatibilities": {},
-        "tp2": ""
-    },
-    {
         "id": 160,
         "name": "Bardic Appraisal",
         "description": "Ce petit mod ajoute une capacité aux bardes (y compris tous les profils) qui leur permet d'évaluer la valeur à volonté tout objet identifié en possession du groupe. Notez que les prix indiqués par la compétence ne refléteront probablement pas la valeur réelle à laquelle vous pouvez vendre un objet en raison de divers facteurs liés au moteur du jeu, comme la marge des marchands, les bonus ou malus de votre charisme et de votre réputation, le nombre de charges des objets...",
@@ -11723,37 +11691,6 @@
         "last_update": "2002-11",
         "compatibilities": {},
         "tp2": "BG1-ease-v2.1"
-    },
-    {
-        "id": 351,
-        "name": "Watcher's Keep Level 3 Maze Map",
-        "description": "C'est une carte du niveau 3 de la Tour de garde dans Baldur's Gate II: Throne of Bhaal qui vous aidera à vous repérer dans toutes les zones de ce niveau.",
-        "urls": [
-            "https://www.nexusmods.com/baldursgate/mods/44"
-        ],
-        "categories": [
-            "Utilitaire"
-        ],
-        "games": [
-            "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
-        ],
-        "authors": [
-            "ikonomov"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "auto",
-        "safe": 2,
-        "languages": [
-            "en"
-        ],
-        "status": "active",
-        "last_update": "2022-09",
-        "compatibilities": {},
-        "tp2": ""
     },
     {
         "id": 352,
@@ -37672,33 +37609,6 @@
         "tp2": "n/a"
     },
     {
-        "id": 1131,
-        "name": "Sildur's modern UI",
-        "description": "Mise à jour de l'interface utilisateur du jeu afin de la rendre plus conforme aux jeux DnD actuels, ajustement de la taille pour les écrans 1080p et 1440p.|Suppression complète des arrière-plans de la barre latérale, mise à l'échelle des portraits et alignement des différents boutons.",
-        "urls": [
-            "https://www.nexusmods.com/baldursgate/mods/32",
-            "https://www.mediafire.com/folder/yzqr4cr207fh7/BGEE_UI_Mods"
-        ],
-        "categories": [
-            "Interface"
-        ],
-        "games": [
-            "BGEE"
-        ],
-        "authors": [
-            "Sildur"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "n/a",
-        "safe": 1,
-        "languages": [],
-        "status": "active",
-        "last_update": "2002-05",
-        "compatibilities": {},
-        "tp2": "non-weidu"
-    },
-    {
         "id": 1130,
         "name": "Trovador REO",
         "description": "Volo n'est pas le seul à connaître des histoires qui valent la peine d'être racontées. De nombreux troubadours et bardes parcourent Féérune au péril de leur vie pour égayer les tavernes. Ce mod ajoute un troubadour très spécial, qui, pour quelques pièces d'or, vous racontera des histoires inédites, et même les origines de certains personnages, comme le mystérieux Riojano, ou Artemis Entreri. Vous pouvez le retrouver sur la Promenade de Waukyne. Il ajoute également une boutique avec des objets curieux.",
@@ -45526,34 +45436,6 @@
         "last_update": "2022-03",
         "compatibilities": {},
         "tp2": "Orelios"
-    },
-    {
-        "id": 1365,
-        "name": "Brighter and More Colorful Reshade Preset",
-        "description": "Préréglage de Reshade qui rend les jeux Infinity Engine un peu plus vivants, avec des effets éclatants et des changements de couleurs (tons verts plus prononcés, contraste accru, etc.) qui font ressortir davantage les zones extérieures et certains effets de sorts (par exemple, Bouclier de feu).",
-        "urls": [
-            "https://www.nexusmods.com/baldursgate2ee/mods/118"
-        ],
-        "categories": [
-            "Interface"
-        ],
-        "games": [
-            "BGEE",
-            "BG2EE",
-            "IWDEE"
-        ],
-        "authors": [
-            "Dantard"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "n/a",
-        "safe": 1,
-        "languages": [],
-        "status": "active",
-        "last_update": "2002-08",
-        "compatibilities": {},
-        "tp2": "non-weidu"
     },
     {
         "id": 1366,
@@ -56661,38 +56543,6 @@
         "tp2": "non-weidu"
     },
     {
-        "id": 1730,
-        "name": "Portrait Pack -- Unnecessary Lewd Reboot",
-        "description": "Ce mod remplace les portraits de tous les personnages recrutables de BGEE, SOD et BG2EE par des portraits \"plus en chair\". Les hommes ont des muscles et des pectoraux (même Edwin), les femmes ont des poitrines opulentes, et sont parfois même dénudées.|C'est un mode absolument non nécessaire et à réserver à des utilisateurs avertis.",
-        "urls": [
-            "https://www.nexusmods.com/baldursgate2ee/mods/91"
-        ],
-        "categories": [
-            "Portrait et son"
-        ],
-        "games": [
-            "BGEE",
-            "SoD",
-            "BG2EE",
-            "EET"
-        ],
-        "authors": [
-            "persestesso"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "auto",
-        "safe": 2,
-        "languages": [
-            "en",
-            "fr"
-        ],
-        "status": "wip",
-        "last_update": "2024-04",
-        "compatibilities": {},
-        "tp2": "non-weidu"
-    },
-    {
         "id": 1731,
         "name": "Druid Armaments",
         "description": "Ce mod ajoute de l'équipement magique mineur spécifiquement pensé pour les druides.",
@@ -62494,5 +62344,92 @@
         "last_update": "2015-01",
         "compatibilities": {},
         "tp2": ""
+    },
+    {
+        "id": 1921,
+        "name": "Sildur's modern UI",
+        "description": "Mise à jour de l'interface utilisateur du jeu afin de la rendre plus conforme aux jeux DnD actuels, ajustement de la taille pour les écrans 1080p et 1440p.|Suppression complète des arrière-plans de la barre latérale, mise à l'échelle des portraits et alignement des différents boutons.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/32",
+            "https://www.mediafire.com/folder/yzqr4cr207fh7/BGEE_UI_Mods"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Sildur"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2002-05",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1922,
+        "name": "Brighter and More Colorful Reshade Preset",
+        "description": "Préréglage de Reshade qui rend les jeux Infinity Engine un peu plus vivants, avec des effets éclatants et des changements de couleurs (tons verts plus prononcés, contraste accru, etc.) qui font ressortir davantage les zones extérieures et certains effets de sorts (par exemple, Bouclier de feu).",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/118"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Dantard"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2002-08",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1923,
+        "name": "Portrait Pack -- Unnecessary Lewd Reboot",
+        "description": "Ce mod remplace les portraits de tous les personnages recrutables de BGEE, SOD et BG2EE par des portraits \"plus en chair\". Les hommes ont des muscles et des pectoraux (même Edwin), les femmes ont des poitrines opulentes, et sont parfois même dénudées.|C'est un mode absolument non nécessaire et à réserver à des utilisateurs avertis.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/91"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "persestesso"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "wip",
+        "last_update": "2024-04",
+        "compatibilities": {},
+        "tp2": "non-weidu"
     }
 ]
