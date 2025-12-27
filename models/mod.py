@@ -61,7 +61,7 @@ class Mod:
     status: ModStatus
     last_update: YearMonthFormat
     tp2: str
-    compatibilities: dict[str, list[int] | str]
+    compatibilities: dict[Literal["requires", "incompatible_with"], list[int] | str]
     description_meta: dict = None
     notes_meta: dict = None
     urls_extra: list[HttpUrl] = None
