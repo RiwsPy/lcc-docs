@@ -62291,7 +62291,7 @@
     {
         "id": 1919,
         "name": "Tenser's Transformation - Blade Version",
-        "description": "L'auteur de ce mod à remarqué que le sort \"Transformation de Tenser\" empêche d'utiliser les capacités innées, ce qui est très dommageable pour le Maître-lame. Il a donc crée une version modifiée du sort, qui n’empêche plus les capacités innées. Le parchemin du sort est disponible chez Ribald.",
+        "description": "L'auteur de ce mod a remarqué que le sort \"Transformation de Tenser\" empêche d'utiliser les capacités innées, ce qui est regrettable pour le Maître-lame. Il a donc créé une version modifiée du sort, qui n’empêche plus les capacités innées. Le parchemin du sort est disponible chez Ribald.",
         "urls": [
             "http://athkatla.cob-bg.pl/viewtopic.php?t=5794"
         ],
@@ -62303,7 +62303,7 @@
             "BGT"
         ],
         "authors": [
-            "jaquan"
+            "Jaquan"
         ],
         "team": [],
         "notes": [],
@@ -62313,19 +62313,19 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2012-25",
+        "last_update": "2012-05",
         "compatibilities": {},
-        "tp2": "blade"
+        "tp2": "Blade"
     },
     {
         "id": 1920,
         "name": "Weapon Sets Swapper",
-        "description": "Ce script à éditer vous même selon les instructions de l'auteur permet en jeu de changer de set d'armes (par exemple pour passer de deux armes à un arc) en appuyant sur la touche que vous aurez configuré. Il nécessite le programme Autokey pour fonctionner.",
+        "description": "Ce script à éditer vous même, permet en jeu de changer de set d'armes (par exemple pour passer de deux armes à un arc) en appuyant sur la touche que vous aurez configuré. Il nécessite le programme [Autokey](https://www.autohotkey.com/) pour fonctionner.",
         "urls": [
-            "https://forums.beamdog.com/discussion/18429/weapon-sets-swapper"
+            "https://forums.beamdog.com/discussion/18429/"
         ],
         "categories": [
-            "Script et tactique"
+            "Utilitaire"
         ],
         "games": [
             "BGEE",
@@ -62338,20 +62338,19 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2015-01",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "n/a"
     },
     {
         "id": 1921,
         "name": "Sildur's modern UI",
-        "description": "Mise à jour de l'interface utilisateur du jeu afin de la rendre plus conforme aux jeux DnD actuels, ajustement de la taille pour les écrans 1080p et 1440p.|Suppression complète des arrière-plans de la barre latérale, mise à l'échelle des portraits et alignement des différents boutons.",
+        "description": "Ce mod met à jour de l'interface utilisateur du jeu afin de la rendre plus conforme aux jeux DnD actuels, ajustement de la taille pour les écrans 1080p et 1440p.|Suppression complète des arrière-plans de la barre latérale, mise à l'échelle des portraits et alignement des différents boutons.",
         "urls": [
-            "https://www.nexusmods.com/baldursgate/mods/32",
-            "https://www.mediafire.com/folder/yzqr4cr207fh7/BGEE_UI_Mods"
+            "https://www.nexusmods.com/baldursgate/mods/32"
         ],
         "categories": [
             "Interface"
@@ -62368,19 +62367,19 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2002-05",
+        "last_update": "2022-05",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
     {
         "id": 1922,
         "name": "Brighter and More Colorful Reshade Preset",
-        "description": "Préréglage de Reshade qui rend les jeux Infinity Engine un peu plus vivants, avec des effets éclatants et des changements de couleurs (tons verts plus prononcés, contraste accru, etc.) qui font ressortir davantage les zones extérieures et certains effets de sorts (par exemple, Bouclier de feu).",
+        "description": "Préréglage [Reshade](https://reshade.me/) qui rend les jeux Infinity Engine un peu plus vivants, avec des effets éclatants et des changements de couleurs (tons verts plus prononcés, contraste accru, etc.) qui font ressortir davantage les zones extérieures et certains effets de sorts (par exemple, Bouclier de feu).",
         "urls": [
             "https://www.nexusmods.com/baldursgate2ee/mods/118"
         ],
         "categories": [
-            "Interface"
+            "Cosmétique"
         ],
         "games": [
             "BGEE",
@@ -62396,14 +62395,14 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2002-08",
+        "last_update": "2025-08",
         "compatibilities": {},
-        "tp2": "non-weidu"
+        "tp2": "n/a"
     },
     {
         "id": 1923,
         "name": "Portrait Pack -- Unnecessary Lewd Reboot",
-        "description": "Ce mod remplace les portraits de tous les personnages recrutables de BGEE, SOD et BG2EE par des portraits \"plus en chair\". Les hommes ont des muscles et des pectoraux (même Edwin), les femmes ont des poitrines opulentes, et sont parfois même dénudées.|C'est un mode absolument non nécessaire et à réserver à des utilisateurs avertis.",
+        "description": "Ce mod remplace les portraits de tous les personnages recrutables de BGEE, SOD et BG2EE par des portraits \"plus en chair\". Les hommes ont des muscles et des pectoraux (même Edwin), les femmes ont des poitrines opulentes, et sont parfois même dénudées.",
         "urls": [
             "https://www.nexusmods.com/baldursgate2ee/mods/91"
         ],
@@ -62420,14 +62419,16 @@
             "persestesso"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Attention, le contenu explicite."
+        ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "fr"
         ],
-        "status": "wip",
+        "status": "active",
         "last_update": "2024-04",
         "compatibilities": {},
         "tp2": "non-weidu"
