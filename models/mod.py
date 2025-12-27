@@ -3,7 +3,7 @@ import enum
 import re
 from typing import Annotated, Literal
 
-from pydantic import ConfigDict, StringConstraints, field_validator
+from pydantic import ConfigDict, HttpUrl, StringConstraints, field_validator
 from pydantic.dataclasses import dataclass
 
 from i18n import _g, current_language
@@ -49,7 +49,7 @@ class Mod:
     id: int
     name: str
     categories: list[CategoryEnum]
-    urls: list[str]
+    urls: list[HttpUrl]
     notes: list[str]
     description: str
     team: list[str]
@@ -64,7 +64,7 @@ class Mod:
     compatibilities: dict[str, list[int] | str]
     description_meta: dict = None
     notes_meta: dict = None
-    urls_extra: list[str] = None
+    urls_extra: list[HttpUrl] = None
     notes_extra: list[str] = None
 
     last_update_date_format = "%Y-%m"
@@ -100,12 +100,15 @@ class Mod:
         # Pour éviter d'afficher des liens morts tout en les conservant
         if self.status == ModStatus.MISSING:
             return list()
-        urls = self.urls.copy()
+
+        urls = list()
         # troncate url to remove zip and rar files
-        for i, url in enumerate(urls):
+        for py_url in self.urls:
+            url = str(py_url)
             if self.url_is_direct_archive(url):
-                urls[i] = url.rsplit("/", 1)[0] + "/"
-        return [Url(url) for url in urls]
+                url = url.rsplit("/", 1)[0] + "/"
+            urls.append(Url(url))
+        return urls
 
     @property
     def icons(self) -> list[Icon]:
@@ -194,7 +197,8 @@ class Mod:
         auto_notes = list()
 
         # Don't download files directly
-        for url in self.urls:
+        for py_url in self.urls:
+            url = str(py_url)
             if self.url_is_direct_archive(url):
                 filename = url.rsplit("/", 1)[-1]
                 auto_notes.append(_g("Fichier `{filename}`.").format(filename=filename))
