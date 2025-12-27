@@ -187,7 +187,7 @@ class ModCleaner(CleanModMixin):
 
     def clean_last_update(self) -> str:
         try:
-            last_update = self.data["last_update"].strftime("%Y-%m")
+            last_update = self.data["last_update"].strftime(Mod.last_update_date_format)
         except Exception:
             last_update = ""
 

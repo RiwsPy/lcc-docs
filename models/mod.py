@@ -67,16 +67,22 @@ class Mod:
     urls_extra: list[str] = None
     notes_extra: list[str] = None
 
+    last_update_date_format = "%Y-%m"
+
     @field_validator("last_update")
     def check_last_update(cls, v):
         if not v:
             return v
-        current_month = datetime.now().strftime("%Y-%m")
-        if "1999-01" <= v <= current_month:
+
+        try:
+            datetime.strptime(v, cls.last_update_date_format)
+        except Exception as e:
+            raise e
+
+        current_date = datetime.now().strftime(cls.last_update_date_format)
+        if "1999-01" <= v <= current_date:
             return v
-        raise ValueError(
-            f"Date impossible, doit être comprise entre 1999-01 et {current_month}"
-        )
+        raise ValueError(f"Date not possible, must be between 1999-01 and {current_date}")
 
     @property
     def translation_state_auto(self) -> str:
