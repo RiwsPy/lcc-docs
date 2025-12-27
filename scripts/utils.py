@@ -30,10 +30,12 @@ class ModManager:
         try:
             with open(DB_PATH / filename, "r", encoding="utf-8") as f:
                 return json.load(f)
-        except FileNotFoundError:
+        except FileNotFoundError as e:
             logging.error(f"File not found {DB_PATH / filename}")
-        except JSONDecodeError:
+            raise e
+        except JSONDecodeError as e:
             logging.error(f"Error decoding {DB_PATH / filename}")
+            raise e
         return list()
 
     @classmethod
@@ -76,14 +78,12 @@ class ModManager:
     ) -> list[dict]:
         target_list = cls.load(language_target)
         source_list_pks = {mod["id"]: mod for mod in source_list}
-        target_list_pks = {mod["id"]: mod for mod in target_list}
-        for pk, data in target_list_pks.items():
-            if pk not in source_list_pks:
-                source_list_pks[pk] = dict()
+        for mod_dict in target_list:
+            pk = mod_dict["id"]
 
             source_list_pks[pk] |= {
                 k: v
-                for k, v in data.items()
+                for k, v in mod_dict.items()
                 if v and (exclude_fields is None or k not in exclude_fields)
             }
             if merge_urls_extra and "urls_extra" in source_list_pks[pk]:
