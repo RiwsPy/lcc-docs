@@ -27466,7 +27466,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce module permet de donner toutes les capacités et inconvénients du kensaï à n'importe quelle classe. Vous devez utiliser un objet pour activer ces effets, que vous trouverez chez Talandir (BG), chez Ribald (BG2) ou chez Orrick le Gris (IWD)."
+            "source": "Ce module permet de donner toutes les capacités et inconvénients du kensaï à n'importe quel npc, en plus de sa classe normale. Vous devez utiliser un objet pour activer ces effets, que vous trouverez chez Talandir (BG), chez Ribald (BG2) ou chez Orrick le Gris (IWD)."
         },
         "notes": [],
         "notes_meta": {
@@ -27602,6 +27602,86 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1918,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute Gonzo dans la forge de Francmarché. Tous comme ses confrères [[900]] et [[895]] il peut améliorer certains objets par l'ajout d'autre objets."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1919,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "L'auteur de ce mod a remarqué que le sort \"Transformation de Tenser\" empêche d'utiliser les capacités innées, ce qui est regrettable pour le Maître-lame. Il a donc créé une version modifiée du sort, qui n’empêche plus les capacités innées. Le parchemin du sort est disponible chez Ribald."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1920,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce script à éditer vous même, permet en jeu de changer de set d'armes (par exemple pour passer de deux armes à un arc) en appuyant sur la touche que vous aurez configuré. Il nécessite le programme [Autokey](https://www.autohotkey.com/) pour fonctionner."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1921,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod met à jour de l'interface utilisateur du jeu afin de la rendre plus conforme aux jeux DnD actuels, ajustement de la taille pour les écrans 1080p et 1440p.|Il supprime complètement l'arrière-plan de la barre latérale, il remet à l'échelle les portraits et aligne les différents boutons."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1922,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Préréglage [Reshade](https://reshade.me/) qui rend les jeux Infinity Engine un peu plus vivants, avec des effets éclatants et des changements de couleurs (tons verts plus prononcés, contraste accru, etc.) qui font ressortir davantage les zones extérieures et certains effets de sorts (par exemple, Bouclier de feu)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1923,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod remplace les portraits de tous les personnages recrutables de BGEE, SOD et BG2EE par des portraits \"plus en chair\". Les hommes ont des muscles et des pectoraux (même Edwin), les femmes ont des poitrines opulentes, et sont parfois même dénudées."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Attention, le contenu explicite."
+            ]
         }
     }
 ]
