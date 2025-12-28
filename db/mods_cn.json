@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "description": "此迷你模组修改了TAC0（命中等级）的进阶表，使其与A&D 3.5e和Pathfinder的规则相匹配。战士的表格保持不变，但盗贼和牧师的表格在前三级中每级提升1点，然后在下一级保持稳定，以此类推，直到在第21级达到5点的上限（N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...）。法师的表格现在每两级提升1点，直到在第21级达到5点的上限（N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...）。THAC0.2da文件扩展到了50级。",
+        "description": "此迷你模组修改了THAC0（命中等级）的进阶表，使其与A&D3.5e和Pathfinder的规则相匹配。战士的表格保持不变，但盗贼和牧师的表格在前三级中每级提升1点，然后在下一级保持稳定，以此类推，直到在第21级达到5点的上限（N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...）。法师的表格现在每两级提升1点，直到在第21级达到5点的上限（N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...）。THAC0.2da文件扩展到了50级。",
         "description_meta": {
             "status": "done",
             "source": "Ce mini mod modifie la table de progression des TAC0 pour correspondre à celles de A&D 3.5e et Pathfinder. Celle des guerriers reste inchangée, mais celles des voleurs et des prêtres avancent d'un point par niveau pendant 3 niveaux, puis restent stables le niveaux suivant, et ainsi de suite, jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). Celle des mages avance maintenant de 1 tous les deux niveaux jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). La table THAC0.2da s'étend jusqu'au niveau 50."
@@ -1233,9 +1233,9 @@
     },
     {
         "id": 83,
-        "description": "此模组允许你招募侏儒奥蕾莉亚·米内瓦·伊芙琳·格利姆闪。你可以在贝尔苟斯特的中心找到她。作为一名工匠（盗贼职业包），Aura 可以修改队伍在旅途中获得的一些魔法物品。|她内心善良且富有理想主义，在与陌生人互动时可能相当害羞和社交笨拙，但当话题超出她的专业领域时，她会变得热情洋溢和兴奋，能够连续数小时与他人交谈或（更有可能）对他们进行说教。Aura 通常很友好，至少会努力与所有旅伴建立联系，成功与否程度不一。她赞同创新、知识探索以及利用自己的才能帮助他人。因此，她更适合善良阵营的队伍，尽管她可以跟随任何至少为中等等级的PC。|任何种族的女性PC都可以与Aura调情。兼容的PC在友谊对话中会获得浪漫选项，但没有爱情线。|在龙矛围攻中，Aura 可以与任何非邪恶种族、至少拥有12点智力10点魅力的女性发展爱情关系。她通常很深情，并对友好、聪明且愿意倾听的伴侣做出友好回应。另一方面，如果PC没有表现出任何兴趣的迹象，她会迅速疏远，而粗暴的回答会立刻让她逃离。|力量 8，敏捷 16，体质 13，智力 19，智慧 14，魅力 15。",
+        "description": "这个模组允许你招募侏儒奥蕾莉亚·密涅瓦·艾芙琳·微光。在BG1中，你可以在贝尔苟斯特的中心区域找到她；在BG2中，你会在参与完姚恩家中的事件后，在渥金商场遇见她。|作为一名工匠（盗贼职业分支），奥拉能够改造队伍在旅途中获得的某些魔法物品。她本质上善良而富有理想主义，但与陌生人交往时可能显得相当害羞且不善社交。然而，一旦话题偏离她的专业领域，她很容易变得热情洋溢、兴奋不已，能够就这些话题对人谈论——或者更可能的是——滔滔不绝地说教数小时。奥拉通常很友善，至少会努力与所有旅伴建立联系，成效则不一而足。她赞同创新、追求知识以及运用自身才能帮助他人。因此，她最适合善良阵营的队伍，不过她也可以跟随任何至少中立阵营的主角。|任何种族的女性主角都可以与奥拉调情。一位合适的主角会在友谊对话中获得浪漫的对话选项，但不存在完整的恋爱剧情。|在SoD中，奥拉可以与任何种族、非邪恶阵营、智力至少12、魅力至少10的女性开始一段浪漫关系。她通常充满深情，会对友善、聪明且愿意倾听的伴侣报以友好的回应。另一方面，如果主角未表现出任何兴趣，她会迅速抽身；而粗暴的回应则会让她迅速逃离。|属性：力量8，敏捷16，体质13，智力19，智慧14，魅力15。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Dans BG1, vous la trouverez dans le centre de Bérégost, dans BG2 vous la trouverez dans la Promenade de Waukyne après avoir participé à un évènement dans la maison de Jan. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir.|FOR 8, DEX 16, CON 13, INT 19, SAG 14, CHA 15."
         },
         "notes": [],
@@ -4050,7 +4050,7 @@
     },
     {
         "id": 276,
-        "description": "厌倦了打那些一击就倒的菜鸟？你想要强大而聪明的敌人？那么就不要安装这个模组。相反，如果你想要和以前一样愚蠢，但至少能坚持更长时间的敌人，那么这个模组就是为你而设。|你可以选择3个选项来调整敌人的经验值、TAC0加值、生命值、AC和JS，以及他们的伤害抗性：困难、非常困难，以及“你真的想把木屑戳进眼睛里吗？”（作者自述，仅限受虐狂）。第四个选项允许你自定义这些设置。",
+        "description": "厌倦了打那些一击就倒的菜鸟？你想要强大而聪明的敌人？那么就不要安装这个模组。相反，如果你想要和以前一样愚蠢，但至少能坚持更长时间的敌人，那么这个模组就是为你而设。|你可以选择3个选项来调整敌人的经验值、THAC0加值、生命值、AC和JS，以及他们的伤害抗性：困难、非常困难，以及“你真的想把木屑戳进眼睛里吗？”（作者自述，仅限受虐狂）。第四个选项允许你自定义这些设置。",
         "description_meta": {
             "status": "done",
             "source": "Fatigué(e) de combattre des mauviettes qui meurent au premier coup ? Vous voulez des ennemis forts et intelligents ? Alors n'installez pas ce mod. Si en revanche vous voulez des ennemis aussi stupides qu'avant, mais qui durent au moins un peu plus longtemps, alors il est pour vous.|Vous pouvez choisir 3 options qui modifient leur XP, leurs bonus au TAC0, PV, CA et JS, ainsi que leurs résistances aux dégâts : Difficile, Très difficile et \"Vous voulez vraiment vous enfoncer des échardes dans les yeux ?\" (réservée aux masochistes, selon les propres mots de l'auteur). Une quatrième option permet de personnaliser ces réglages."
@@ -4314,7 +4314,7 @@
     },
     {
         "id": 294,
-        "description": "此模组将“反弹斗篷”的动画替换为更低调的[[1601]]动画，恢复了BG1中“瓦斯科纳”长剑的图形，并允许在ToB中，如果沙洛佛克落后于主角等级，他可以追上（等级会一个一个提升，以便选择他的高级技能）。",
+        "description": "此模组将“反弹斗篷”的动画替换为更低调的[[1601]]动画，恢复了BG1中“瓦斯康娜”长剑的图形，并允许在ToB中，如果沙洛佛克落后于主角等级，他可以追上（等级会一个一个提升，以便选择他的高级技能）。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod remplace l'animation de la Cape de renvoi par celle, plus discrète, de [[1601]], restaure le graphisme de BG1 pour l'épée longue Varscona, et permet à Sarevok de rattraper ses niveaux de retard éventuels sur le personnage principal dans ToB (les niveaux se passent un à un pour permettre de choisir ses compétences de haut niveau)."
@@ -4499,7 +4499,7 @@
     },
     {
         "id": 307,
-        "description": "以前是[[697]]，这个模组汇集了一系列小调整，既可以降低游戏难度，也可以让敌人变得更难缠。|- 一些组件可以增加或减少弹药、宝石、珠宝、药水和卷轴的堆叠数量。|- 一系列组件可以为敌人提供加成，提升他们的AC、TAC0和豁免检定（1到6点）。|- 一系列组件可以将敌人的生命值提升25%到300%。|- 一个组件禁止变形者佩戴头盔。",
+        "description": "以前是[[697]]，这个模组汇集了一系列小调整，既可以降低游戏难度，也可以让敌人变得更难缠。|- 一些组件可以增加或减少弹药、宝石、珠宝、药水和卷轴的堆叠数量。|- 一系列组件可以为敌人提供加成，提升他们的AC、THAC0和豁免检定（1到6点）。|- 一系列组件可以将敌人的生命值提升25%到300%。|- 一个组件禁止变形者佩戴头盔。",
         "description_meta": {
             "status": "done",
             "source": "Anciennement [[697]], ce mod réunit une petite collection d'ajustements permettant soit de faciliter le jeu, soit de rendre les ennemis plus coriaces.|- Des composants permettent d'augmenter ou de réduire l'empilage des munitions, des gemmes, des bijoux, des potions et des parchemins.|- Une série de composants permet de booster les ennemis en leur accordant un bonus à la CA, au TAC0 et aux jets de sauvegarde (de 1 à 6).|- Une série de composants permet d'augmenter de 25 à 300 % les points de vie des ennemis.|- Un composant permet d'interdire le port des casques aux métamorphes."
@@ -8778,9 +8778,11 @@
             "status": "done",
             "source": "Killing Wolf est un guerrier neutre strict qui rejoindra votre groupe si vous avez un certain niveau. Il a son propre magasin, mais vous ne pourrez plus y accéder dès qu'il intégrera votre groupe. Vous le trouverez à l'étage de l'auberge des Cinq Chopes, où il retournera si vous vous en séparez. La plupart des articles de sa boutique ne sont pas identifiés parce qu'ils proviennent du jeu Fallout. Si vous savez ce qu'ils sont, alors achetez-les, sinon, amusez-vous à découvrir ce qu'ils font !|FOR 18, DEX 18, CON 16, INT 13, SAG 10, CHA 10."
         },
-        "notes": [],
+        "notes": [
+			"存在该模组面向增强版（EE）的非官方移植版本，可在[此处](https://github.com/eva2000as/KWolfNPC/) 获取：，此版本亦提供了中文翻译。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il existe un portage non officiel de ce mod vers les versions EE disponible [ici](https://github.com/eva2000as/KWolfNPC/), elle propose également la traduction chinoise."
             ]
@@ -9835,10 +9837,11 @@
             "source": "Ce mod ajoute une nouvelle traqueuse halfelin qui voyage sur la Côte des Épées, bien qu'il soit évident qu'elle n'est pas de la région. Elle aime se faire passer pour une personne inutile, timide ou innocente, même si ce n'est pas tout à fait le cas. Vous pourrez la recruter dans les mines de Nashkel.|FOR 15, DEX 17, CON 15, INT 12, SAG 14, CHA 15."
         },
         "notes": [
-            "必须在 [[372]] 之前安装。"
+            "必须在 [[372]] 之前安装。",
+			"请选择兼容EET的GitHub版本。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Il doit être installé avant [[372]].",
                 "Choisissez la version github qui est compatible EET."
@@ -12229,7 +12232,7 @@
     },
     {
         "id": 841,
-        "description": "此模组提供了一系列调整，旨在将D&D第三版规则应用于《冰风谷》：种族奖励与惩罚、对游侠、吟游诗人和德鲁伊阵营的限制、调整角色属性对TAC0、伤害、AC、生命值的影响、修改等级进阶表……",
+        "description": "此模组提供了一系列调整，旨在将D&D第三版规则应用于《冰风谷》：种族奖励与惩罚、对游侠、吟游诗人和德鲁伊阵营的限制、调整角色属性对THAC0、伤害、AC、生命值的影响、修改等级进阶表……",
         "description_meta": {
             "status": "done",
             "source": "Ce mod propose une collection d'ajustements permettant d'établir les règles de jeu de D&D 3e édition dans IWD : bonus et pénalités raciales, restriction des alignements pour les rôdeurs, les bardes et les druides, modifications des effets des caractéristiques des personnages sur le TAC0, les dégâts, la CA, le nombre de PV, modification de la table de progression de niveau..."
@@ -13879,7 +13882,7 @@
     },
     {
         "id": 952,
-        "description": "此模组为在乌葛斯胡渣旅店出售的奥勒之杖添加了银和冷铁的属性，以及对狼人造成TAC0伤害加成的效果，提供了一件能够伤害卡鲁格的额外武器。",
+        "description": "此模组为在乌葛斯胡渣旅店出售的奥勒之杖添加了银和冷铁的属性，以及对狼人造成THAC0伤害加成的效果，提供了一件能够伤害卡鲁格的额外武器。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod ajoute les propriétés d'argent et de fer froid, et un bonus aux dégâts au TAC0 contre les lycanthropes, au Bâton d'Aule qui est vendu dans l'auberge de la Barbe d'Ulgoth, fournissant une arme supplémentaire capable de blesser Karoug."
@@ -14463,7 +14466,7 @@
     },
     {
         "id": 992,
-        "description": "此模组为游戏新增了四种新机制：|- 生物的重量会影响其在停止移动后再次移动的延迟。|- 停止3回合后，大多数生物开始失去注意力和警惕。他们的TAC0、下一次攻击的主动性会降低，对气息攻击的豁免检定和视觉范围会下降；所有这些都取决于他们的智慧和体质。|- 停止时拥有至少6点智能的生物会获得“慢跑”（Jog）能力。激活后，他们在接下来的三回合内会走得稍快一点。这段时间过后，“奔跑”（Courir）能力允许他们花费一回合做准备，以便在接下来的两回合内走得更快。这段时间过后，“冲刺”（Sprinter）能力将允许您在一回合内进一步提升速度。当然，在奔跑或冲刺结束时，会产生一定的疲劳。|- 每回合，一些敌人会以比正常更快的速度冲向队伍，更接近您，从而留给您更少的时间来击败他们。",
+        "description": "此模组为游戏新增了四种新机制：|- 生物的重量会影响其在停止移动后再次移动的延迟。|- 停止3回合后，大多数生物开始失去注意力和警惕。他们的THAC0、下一次攻击的主动性会降低，对气息攻击的豁免检定和视觉范围会下降；所有这些都取决于他们的智慧和体质。|- 停止时拥有至少6点智能的生物会获得“慢跑”（Jog）能力。激活后，他们在接下来的三回合内会走得稍快一点。这段时间过后，“奔跑”（Courir）能力允许他们花费一回合做准备，以便在接下来的两回合内走得更快。这段时间过后，“冲刺”（Sprinter）能力将允许您在一回合内进一步提升速度。当然，在奔跑或冲刺结束时，会产生一定的疲劳。|- 每回合，一些敌人会以比正常更快的速度冲向队伍，更接近您，从而留给您更少的时间来击败他们。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod ajoute quatre nouveaux mécanismes au jeu :|- Le poids de la créature influe sur le délai à partir duquel elle peut se déplacer une fois arrêtée.|- 3 rounds après s'être arrêtées, la plupart des créatures commencent à perdre leur concentration et leur vigilance. Leur TAC0, leur initiative pour la prochaine attaque diminuent, leur jet de sauvegarde contre le souffle et leur portée visuelle diminuent ; tout ceci en fonction de leur Sagesse et de leur Constitution.|- Les créatures à l'arrêt ayant au moins 6 points d'intelligence reçoivent la capacité \"Jog\". En l'activant, elles iront un peu plus vite pendant les trois prochains tours. Passé ce délai, la capacité \"Courir\" permet de passer un round à se préparer pour aller encore plus vite, mais seulement pendant deux round. Passé ce délai, la capacité \"Sprinter\" vous permettra de booster encore votre vitesse pendant un round. Bien entendu, à la fin d'une course ou d'un sprint, une certaine fatigue s'accumule.|- Une fois par tour, certains ennemis se précipiteront sur le groupe à une vitesse supérieure à la normale, se rapprochant plus rapidement et laissant moins de temps pour les abattre."
@@ -14536,7 +14539,7 @@
     },
     {
         "id": 997,
-        "description": "受博德之门2的旧模组[[697]]启发，此模组使敌人更具韧性：他们根据种族获得生命值、TAC0和AC的加成（例如，类人生物获得+3的TAC0和AC以及50%的生命值加成；而巨人则获得+3的TAC0、+1的AC和三倍的生命值）。",
+        "description": "受博德之门2的旧模组[[697]]启发，此模组使敌人更具韧性：他们根据种族获得生命值、THAC0和AC的加成（例如，类人生物获得+3的THAC0和AC以及50%的生命值加成；而巨人则获得+3的THAC0、+1的AC和三倍的生命值）。",
         "description_meta": {
             "status": "done",
             "source": "Inspiré par l'ancien mod [[697]] pour BG2, ce mod rend les ennemis plus coriaces : ils bénéficient de bonus aux PV, TAC0 et à la CA en fonction de leur race (par exemple, les humanoïdes obtiennent +3 en TAC0 et CA et un bonus de PV de 50 % ; tandis que les géants obtiennent +3 en TAC0, +1 en CA et des PV triplés)."
@@ -14695,7 +14698,7 @@
     },
     {
         "id": 1008,
-        "description": "博德之门1有两件强大的武器，它们都带有+2的附魔和元素伤害：长剑瓦斯科纳和战锤阿希迪娜。这意味着长剑和战锤是游戏中表现最好的两项武器技能，很难为选择其他武器技能辩护。|此模组的目的是在不影响平衡和难度的情况下，提供更广泛的武器选择。||为此，它允许玩家在贝尔苟斯特的“巨锤”锻造厂向泰罗姆·菲里乌姆订购一把武器，然后通过高篱堡的法师泰蓝提尔和巴尔之门的魔法集市图巴扎·德林来增强其伤害。这将使玩家有机会制造一把寒霜战戟，或一把忍者酸刃，等等。||还有一个额外且可选的组件，尽管强烈推荐，它允许删除或稍后在游戏中移动阿希迪娜和瓦斯科纳，以便添加另一件造成元素伤害的武器不会破坏游戏平衡。",
+        "description": "博德之门1有两件强大的武器，它们都带有+2的附魔和元素伤害：长剑瓦斯康娜和战锤阿希迪娜。这意味着长剑和战锤是游戏中表现最好的两项武器技能，很难为选择其他武器技能辩护。|此模组的目的是在不影响平衡和难度的情况下，提供更广泛的武器选择。||为此，它允许玩家在贝尔苟斯特的“巨锤”锻造厂向泰罗姆·菲里乌姆订购一把武器，然后通过高篱堡的法师泰蓝提尔和巴尔之门的魔法集市图巴扎·德林来增强其伤害。这将使玩家有机会制造一把寒霜战戟，或一把忍者酸刃，等等。||还有一个额外且可选的组件，尽管强烈推荐，它允许删除或稍后在游戏中移动阿希迪娜和瓦斯康娜，以便添加另一件造成元素伤害的武器不会破坏游戏平衡。",
         "description_meta": {
             "status": "done",
             "source": "Baldur's Gate I possède deux armes puissantes dotées d'un enchantements à +2 et de dégâts élémentaires : l'épée longue Varscona et le marteau de guerre Ashideena. Cela implique que les épées longues et les marteaux de guerre sont les deux compétences les plus performantes du jeu, et qu'il est difficile de défendre le choix d'une autre compétence d'arme.|Le but de ce mod est de permettre un plus grand choix d'armes sans pour autant affecter l'équilibre et la difficulté.||Pour y parvenir, il offre aux joueurs la possibilité de commander une arme à Taërom Fuiruim dans la forge de « Grondemarteau » à Bérégost, puis de l'améliorer en lui conférant des dégâts grâce à Thalantyr le mage de Haute-Haie et Toubazar Drin, au Bazar Magique de la Porte de Baldur. Cela donnera au joueur la possibilité de créer une une hallebarde de froid, ou un ninja-to acide, entre autre.||Il y a un composant supplémentaire et optionnel, bien qu'il soit fortement recommandé, permettant de supprimer ou de déplacer plus tard dans le jeu Ashideena et Varscona, afin que l'ajout d'une autre arme infligeant des dégâts élémentaires ne déséquilibre pas le jeu."
@@ -17160,7 +17163,7 @@
     },
     {
         "id": 1178,
-        "description": "这个模组添加了一个有点特别的邪恶新NPC：一个夺心魔！在强烈求知欲的驱使下，沃舒恩并没有真正的爱情线，也没有真正的友谊……但类似的关系依然有可能。在对话中，沃舒恩对地表生物的文化感到好奇。关系基于你的影响力、智力和种族。|他有他自己的心灵执法者宗派。沃舒恩是一种精神战士。他使用自己的精神能力来眩晕、削弱并迷惑敌人。他有自己专属的装备，无法被替换。这个模组还修改了幽暗地域中夺心魔隧道的常规任务区域。|力量 13，敏捷 18，体质 9，智力 19，智慧 15，魅力 13。",
+        "description": "这个模组添加了一个有点特别的邪恶新NPC：一个夺心魔！在强烈求知欲的驱使下，瓦尔枢恩并没有真正的爱情线，也没有真正的友谊……但类似的关系依然有可能。在对话中，瓦尔枢恩对地表生物的文化感到好奇。关系基于你的影响力、智力和种族。|他有他自己的心灵执法者宗派。瓦尔枢恩是一种精神战士。他使用自己的精神能力来眩晕、削弱并迷惑敌人。他有自己专属的装备，无法被替换。这个模组还修改了幽暗地域中夺心魔隧道的常规任务区域。|力量 13，敏捷 18，体质 9，智力 19，智慧 15，魅力 13。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod ajoute un nouveau PNJ mauvais un peu particulier : un illithid ! Animé par une grande soif de connaissances, Varshoon n'a pas vraiment de romance prévue, ni d'amitié à proprement parlé... mais quelque chose d'approchant demeure possible. Dans les dialogues, Varshoon se montre curieux de la culture des êtres de la surface. Les relations sont basées sur votre capacité d'influence, votre intelligence et votre race.|Il dispose de son propre kit de Psionic Enforcer. Varshoon est une sorte de guerrier mental. Qui utilise ses capacités mentales pour étourdir, affaiblir et rendre confus ses ennemis. Il dispose de son propre équipement qui ne peut pas être remplacé. Ce mod modifie également la zone de quête normale des tunnels illithids dans l'Ombreterre.|FOR 13, DEX 18, CON 9, INT 19, SAG 15, CHA 13."
@@ -17205,7 +17208,7 @@
     },
     {
         "id": 1181,
-        "description": "这个模组将拉克沙萨同伴维萨带到了博德之门2。这是由同一作者编写的模组[[1182]]的续作。然而，虽然这些模组是为了允许巴尔之子与维萨的伙伴关系得以延续而编写的，但也可以选择开启一段全新的关系，而不是继续博德之门1的内容。|维萨是一个邪恶阵营的游侠；并不总是很在意人类的律法。他很务实，遵循自己设定的规则以及他认为事物应该如何发展的理念。然而，他也对学习感兴趣。他并不粗鲁。他并不鲁莽，虽然他不是耐心的典范，但他明白某些问题需要不同类型的行动和态度。该模组包含爱情线（适用于任何性别的巴尔之子），根据你是否从博德之门1继续这段关系，可能会有所不同。|请注意，由于NPC的态度和语言，该模组的内容可能被认为是露骨的。该模组是为成年玩家编写的。",
+        "description": "这个模组将邪兽鬼同伴维尔萨带到了博德之门2。这是由同一作者编写的模组[[1182]]的续作。然而，虽然这些模组是为了允许巴尔之子与维尔萨的伙伴关系得以延续而编写的，但也可以选择开启一段全新的关系，而不是继续博德之门1的内容。|维尔萨是一个邪恶阵营的游侠；并不总是很在意人类的律法。他很务实，遵循自己设定的规则以及他认为事物应该如何发展的理念。然而，他也对学习感兴趣。他并不粗鲁。他并不鲁莽，虽然他不是耐心的典范，但他明白某些问题需要不同类型的行动和态度。该模组包含爱情线（适用于任何性别的巴尔之子），根据你是否从博德之门1继续这段关系，可能会有所不同。|请注意，由于NPC的态度和语言，该模组的内容可能被认为是露骨的。该模组是为成年玩家编写的。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod amène Verr’Sza, le compagnon rakshasa, dans Baldur's Gate 2. C'est une continuation du mod [[1182]], écrit par le même auteur. Cependant, si les mods ont été écrits pour permettre la poursuite du partenariat entre l'Enfant de Bhaal et Verr’Sza, il est possible de démarrer une toute nouvelle relation avec Verr’Sza, au lieu de continuer le contenu de BG.|Verr’Sza est un rôdeur maléfique ; pas toujours très préoccupé par la loi des hommes. Il est pragmatique, et suit les règles qu'il s'est lui-même fixées et son idée de la façon dont les choses doivent être faites. Pourtant, il s'intéresse aussi à l'apprentissage. Il n'est pas grossier. Il n'est pas imprudent, même s'il n'est pas un exemple de patience, il comprend que certaines questions nécessitent différents types d'actions et d'attitudes. Le mod inclut la romance (pour les enfants de Bhaal, quel que soit leur sexe), qui peut différer légèrement, selon que vous poursuivez ou non votre romance depuis BG1.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes."
@@ -17218,7 +17221,7 @@
     },
     {
         "id": 1182,
-        "description": "维萨是一只邪恶阵营的拉克沙萨猎人，可以在友善之臂旅店招募。该模组与龙矛围攻兼容，并拥有专属于此扩展的内容，以及与模组[[958]]相关的内容。|它包含一些任务，以及为男性和女性角色提供的爱情线（唯一条件是阵营不能是守序善良）。尽管技术上这是一条爱情线，但维萨并不是一个很浪漫的角色。更确切地说，是让他尊重你，并且不要试图以任何方式束缚他。他可能会以自己扭曲和粗暴的方式变得具有保护欲。|请注意，由于NPC的态度和语言，该模组的内容可能被认为是露骨的。该模组是为成年玩家编写的。",
+        "description": "维尔萨是一只邪恶阵营的邪兽鬼猎人，可以在友善之臂旅店招募。该模组与龙矛围攻兼容，并拥有专属于此扩展的内容，以及与模组[[958]]相关的内容。|它包含一些任务，以及为男性和女性角色提供的爱情线（唯一条件是阵营不能是守序善良）。尽管技术上这是一条爱情线，但维尔萨并不是一个很浪漫的角色。更确切地说，是让他尊重你，并且不要试图以任何方式束缚他。他可能会以自己扭曲和粗暴的方式变得具有保护欲。|请注意，由于NPC的态度和语言，该模组的内容可能被认为是露骨的。该模组是为成年玩家编写的。",
         "description_meta": {
             "status": "done",
             "source": "Verr’Sza est un chasseur rakshasa d'alignement mauvais que l'on peut recruter à l'auberge de Brasamical. Le mod est compatible avec Siege of Dragonspear et dispose de contenu propre à cette extension, ainsi qu'en rapport avec le mod [[958]].|Il comprend quelques quêtes, ainsi qu'une romance pour les personnages masculins et féminins (la seule condition est de ne pas être d'alignement loyal bon). Bien qu'il s'agisse techniquement d'une romance, Verr’Sza n'est pas un personnage très romantique. Il s'agit plutôt de le faire vous respecter et de ne pas essayer de le lier de quelque façon que ce soit. Il peut être protecteur à sa manière tordue et brutale.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes."
@@ -19132,9 +19135,9 @@
     },
     {
         "id": 1316,
-        "description": "这个模组的目的是以[[608]]的方式重新平衡宗派和基础职业。如果先安装了“宗派修订”，则此模组与之兼容。此模组还将提供一些额外的（可选）宗派供安装。",
+        "description": "该模组的目的是以类似于[[608]]的方式重新平衡基础职业和宗派。若先安装[[608]]，本模组将与其兼容。此外，本模组还将提供一系列可选附加宗派供安装。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Le but de ce mod est de rééquilibrer les kits et les classes de base à la manière de [[608]]. Ce mod est compatible avec [[608]] si ce dernier est installé en premier. Ce mod proposera également un certain nombre de kits supplémentaires (optionnels) à installer."
         },
         "notes": [],
@@ -25167,7 +25170,7 @@
     },
     {
         "id": 1741,
-        "description": "此模组可以为游戏中的所有敌人或仅Boss增加等级。还可以为他们提升TAC0、AC、豁免检定、抗性、生命值。所有参数均可配置。",
+        "description": "此模组可以为游戏中的所有敌人或仅Boss增加等级。还可以为他们提升THAC0、AC、豁免检定、抗性、生命值。所有参数均可配置。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod permet d'ajouter des niveaux à tous les ennemis du jeu ou seulement aux boss. Il permet aussi de leur donner plus de TAC0, CA, jets de sauvegarde, résistances, points de vie. Tous les paramètres sont configurables."
@@ -27450,9 +27453,9 @@
     },
     {
         "id": 1906,
-        "description": "",
+        "description": "一个能轻松在增强版2.6及更高版本上添加音效集的工具。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Un outil permettant d'ajouter facilement des ensembles de sons sur les versions enhanced 2.6 et plus."
         },
         "notes": [],
@@ -27463,9 +27466,9 @@
     },
     {
         "id": 1907,
-        "description": "",
+        "description": "该模组可以为任何NPC赋予剑圣的全部能力与缺点，同时保留其正常职业。你需要使用一个特定物品来激活这些效果，该物品可在以下地点获得：塔兰迪尔处（《博德之门》）、里巴尔德处（《博德之门2》）或灰烬奥瑞克处（《冰风谷》）。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce module permet de donner toutes les capacités et inconvénients du kensaï à n'importe quel npc, en plus de sa classe normale. Vous devez utiliser un objet pour activer ces effets, que vous trouverez chez Talandir (BG), chez Ribald (BG2) ou chez Orrick le Gris (IWD)."
         },
         "notes": [],
@@ -27476,9 +27479,9 @@
     },
     {
         "id": 1908,
-        "description": "",
+        "description": "这个模组将无限引擎系列游戏的原版字体替换为一套新字体。所有选用字体均来自FontSquirrel和1001 Fonts网站，其授权许可允许商业用途。共提供5款字体可供选择。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod remplace les polices originales des jeux Infinity Engine par de nouvelles polices. Toutes les polices choisies proviennent des sites FontSquirrel et 1001 Fonts et leur licence autorise un usage commercial. 5 polices sont disponibles."
         },
         "notes": [],
@@ -27489,9 +27492,9 @@
     },
     {
         "id": 1909,
-        "description": "",
+        "description": "这是一个分章节的模组项目，旨在延续《博德之门：安姆阴影》的结局，从一段可游玩的后续故事开始，并计划加入一个完整的间奏篇章，以更好地衔接《安姆阴影》与《巴尔王座》。故事将围绕索丹尼斯拉的精灵、一些熟悉的面孔和一位新的反派展开。|`第一章 - 暴风雨前的宁静`：艾瑞尼卡斯已被击败。和平重返索丹尼斯拉，生活似乎恢复了常态。应精灵高阶女祭司的请求，巴尔之子及其伙伴作为拯救者和尊贵客人留在了这座精灵城市，与此同时，市民们正在为“繁花节”做准备——这是一个旨在恢复居民士气的庆典。|`第二章 - 繁花节`：制作中。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Un projet de mod par épisode visant à prolonger la fin de Baldur's Gate: Shadows of Amn, commençant par une suite jouable, avec l'intention d'ajouter un interlude à part entière afin de mieux faire le lien entre Shadows of Amn et Throne of Bhaal, mettant en scène les elfes de Suldanessalar, certains visages familiers et un nouvel antagoniste.|`Épisode I - Le calme avant la tempête` : Irenicus est vaincu. La paix est revenue à Suldanessalar, et la vie semble reprendre son cours normal. À la demande de la grande prêtresse elfe, l'enfant de Bhaal et ses compagnons sont restés dans la cité elfique en tant que sauveurs et invités d'honneur, tandis que les citoyens se préparent pour le Festival de la Floraison, une cérémonie destinée à restaurer le moral des habitants.|`Épisode II - Festival de la Floraison` : en cours de réalisation."
         },
         "notes": [],
@@ -27515,9 +27518,9 @@
     },
     {
         "id": 1911,
-        "description": "",
+        "description": "在您选定的地点（阿斯卡特拉、观察者堡垒或安姆克萨兰），您将遇到一尊钻石魔像，它会向您提出挑战。每项挑战都是一个“竞技场”，您需要在其中找到并击杀首领以取得胜利。| 这是一个尚未完成的版本，目前仅包含计划中12个竞技场里的6个。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de diamant qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous devez trouver et tuer le boss pour valider la victoire.|Ceci est un version Wip, ne proposant que 6 arènes sur les 12 prévues."
         },
         "notes": [],
@@ -27528,9 +27531,9 @@
     },
     {
         "id": 1912,
-        "description": "",
+        "description": "该模组旨在提供一种方法，通过利用动物伙伴的状态来突破队伍6人的人数限制，同时保留相关的任务、插话对话和玩笑互动，以便让NPC/旅行者能够作为完整的队伍成员享受游戏体验。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod vise à fournir un moyen dépasser la limite de 6 personnages dans le groupe en utilisant le statut familier, tout en conservant les quêtes, les interjections et les plaisanteries afin de profiter des PNJ / voyageurs en tant que membres du groupe."
         },
         "notes": [],
@@ -27541,9 +27544,9 @@
     },
     {
         "id": 1913,
-        "description": "",
+        "description": "该模组新增了一段与迷人的半身人骑士——玛兹的完整恋爱剧情。|其中包含20段定时对话，以及与《安姆阴影》中各种事件相关的多样对话；在《巴尔王座》中有8段对话；一个根据您的个人选择与情境而有细微变化的浪漫结局，以及恋爱线相关的常规事件。|若要触发恋爱剧情，如果您满足所需条件（非邪恶阵营），则您的名誉必须达到15或更高。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute une longue histoire d'amour avec Mazzy, la charmante chevalier petite-personne.|Il comprend 20 conversations chronométrées ainsi que diverses conversations liées à des événements dans Shadows of Amn, 8 conversations dans ToB, un épilogue romantique avec de petites variations en fonction de vos choix personnels et des circonstances, et les événements habituels liés à la romance.|Pour activer la romance, si vous remplissez les conditions requises (alignement non mauvais), vous devez avoir une réputation de 15 ou plus."
         },
         "notes": [],
@@ -27554,9 +27557,9 @@
     },
     {
         "id": 1914,
-        "description": "",
+        "description": "这个小型模组可以改变《冰风谷增强版》中《冬之心》扩展包的结局流程（当您从主线战役开始游戏时），使扩展包不会在击败最终首领后立即结束。您可以返回孤寂森林，完成任何未完成的任务，并且如果您愿意，还可以体验《迷诱大师试炼》内容。当您想结束扩展包时，只需与霍德尔对话即可。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Une petite modification permettant de changer la fin de l'extension Heart of Winter pour IWD:EE (lorsque vous jouez à partir de la campagne principale) afin que l'extension ne se termine pas immédiatement après avoir vaincu le boss final. Vous pourrez retourner à Lonelywood et terminer toute tâche inachevée, ainsi que jouer à Trials of the Luremaster si vous le souhaitez, et terminer l'extension quand vous le souhaitez en parlant à Hjollder."
         },
         "notes": [],
@@ -27567,9 +27570,9 @@
     },
     {
         "id": 1915,
-        "description": "",
+        "description": "这是一个基于[[608]]号模组（该模组目前似乎已被弃用）进行修订和调整职业的模组。目前，仅涉及圣武士和游侠职业。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Un mod qui révise et ajuste les classes, dans la lignée du mod [[608]], désormais apparemment abandonné. Pour l'instant, seuls les paladins et les rôdeurs sont concernés."
         },
         "notes": [],
@@ -27580,9 +27583,9 @@
     },
     {
         "id": 1916,
-        "description": "",
+        "description": "对 [[982]] 的更新（修正与调整）。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Révisions (correctifs et ajustements) pour [[982]]."
         },
         "notes": [],
@@ -27593,9 +27596,9 @@
     },
     {
         "id": 1917,
-        "description": "",
+        "description": "对[[982]]的完全重实现。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Une réimplémentation complète de [[982]]."
         },
         "notes": [],
@@ -27606,9 +27609,9 @@
     },
     {
         "id": 1918,
-        "description": "",
+        "description": "该模组在商贸集会的熔炉区域添加了冈佐。与他的同行 [[900]] 和 [[895]] 一样，他也能通过添加其他物品来强化某些物品。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute Gonzo dans la forge de Francmarché. Tous comme ses confrères [[900]] et [[895]] il peut améliorer certains objets par l'ajout d'autre objets."
         },
         "notes": [],
@@ -27619,9 +27622,9 @@
     },
     {
         "id": 1919,
-        "description": "",
+        "description": "该模组的作者注意到，“谭森变形术”这个法术会禁止使用天生能力，这对舞剑士职业来说颇为遗憾。因此，他创建了一个修改版的法术，不再禁用天生能力。该法术卷轴可在商人瑞博德处购得。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "L'auteur de ce mod a remarqué que le sort \"Transformation de Tenser\" empêche d'utiliser les capacités innées, ce qui est regrettable pour le Maître-lame. Il a donc créé une version modifiée du sort, qui n’empêche plus les capacités innées. Le parchemin du sort est disponible chez Ribald."
         },
         "notes": [],
@@ -27632,9 +27635,9 @@
     },
     {
         "id": 1920,
-        "description": "",
+        "description": "这个可自行编辑的脚本，允许你在游戏中通过按下预设的快捷键切换武器套装（例如从双持武器切换为弓箭）。它需要配合 [Autokey](https://www.autohotkey.com/) 程序才能运行。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce script à éditer vous même, permet en jeu de changer de set d'armes (par exemple pour passer de deux armes à un arc) en appuyant sur la touche que vous aurez configuré. Il nécessite le programme [Autokey](https://www.autohotkey.com/) pour fonctionner."
         },
         "notes": [],
@@ -27645,9 +27648,9 @@
     },
     {
         "id": 1921,
-        "description": "",
+        "description": "该模组更新了游戏的用户界面，使其更贴近当代龙与地下城游戏的风格，并针对1080p与1440p屏幕调整了尺寸适配。它完全移除了侧边栏的背景，重新调整了角色头像的缩放比例，并对齐了各个按钮。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod met à jour de l'interface utilisateur du jeu afin de la rendre plus conforme aux jeux DnD actuels, ajustement de la taille pour les écrans 1080p et 1440p.|Il supprime complètement l'arrière-plan de la barre latérale, il remet à l'échelle les portraits et aligne les différents boutons."
         },
         "notes": [],
@@ -27658,9 +27661,9 @@
     },
     {
         "id": 1922,
-        "description": "",
+        "description": "这是一个为 [Reshade](https://reshade.me/) 制作的预设，旨在让无限引擎的游戏画面更具活力。它通过鲜明的特效与色彩调整（如更突出的绿色调、更高的对比度等），让户外场景和部分法术效果（例如，**火焰护盾**）更加绚丽夺目。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Préréglage [Reshade](https://reshade.me/) qui rend les jeux Infinity Engine un peu plus vivants, avec des effets éclatants et des changements de couleurs (tons verts plus prononcés, contraste accru, etc.) qui font ressortir davantage les zones extérieures et certains effets de sorts (par exemple, Bouclier de feu)."
         },
         "notes": [],
@@ -27671,14 +27674,14 @@
     },
     {
         "id": 1923,
-        "description": "",
+        "description": "该模组将《博德之门：增强版》、《龙矛围攻》及《博德之门2：增强版》中所有可招募角色的肖像替换为“更具肉感”的版本。男性角色拥有肌肉发达的体格与胸肌（连艾德温也不例外），女性角色则胸部丰满，有时甚至呈裸露状态。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod remplace les portraits de tous les personnages recrutables de BGEE, SOD et BG2EE par des portraits \"plus en chair\". Les hommes ont des muscles et des pectoraux (même Edwin), les femmes ont des poitrines opulentes, et sont parfois même dénudées."
         },
-        "notes": [],
+        "notes": ["注意：内容包含露骨描写。"],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Attention, le contenu explicite."
             ]
