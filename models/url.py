@@ -31,8 +31,11 @@ class HttpUrl(PydHttpUrl):
 
     @property
     def is_direct_archive(self) -> bool:
-        return (self.url.endswith((".rar", ".zip", ".7z", ".exe"))) and not self.url.startswith(
-            ("https://www.mediafire.com/", "https://sorcerers.net/")
+        return bool(
+            self.path
+            and self.host
+            and self.path.lower().endswith((".rar", ".zip", ".7z", ".exe"))
+            and not self.host.startswith(("www.mediafire.com", "sorcerers.net"))
         )
 
     @property
