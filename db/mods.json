@@ -62435,5 +62435,36 @@
         "last_update": "2024-04",
         "compatibilities": {},
         "tp2": "non-weidu"
+    },
+    {
+        "id": 1924,
+        "name": "The Forgotten Edge",
+        "description": "The Forgotten Edge restaure et développe l'épée courte volée de Perdué, la transformant en une arme utile sur les deux jeux. Elle commence comme une modeste lame dans BG1 et peut ensuite être reforgé par Cromwell dans BG2 pour devenir une arme mortelle infligeant des dégâts d'acide et d'ombre. Le mod est conçu pour s'intégrer naturellement au contenu existant, sans perturber l'équilibre ou le déroulement du récit.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/40922-the-forgotten-edge-v01-%E2%80%93-perdue%E2%80%99s-sword-expanded-bg1eebg2ee/",
+            "https://github.com/Secretum-Nexum/TheForgottenEdge/"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE"
+        ],
+        "authors": [
+            "Secretum Nexus"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {},
+        "tp2": "TheForgottenEdge"
     }
 ]

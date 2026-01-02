@@ -8779,8 +8779,8 @@
             "source": "Killing Wolf est un guerrier neutre strict qui rejoindra votre groupe si vous avez un certain niveau. Il a son propre magasin, mais vous ne pourrez plus y accéder dès qu'il intégrera votre groupe. Vous le trouverez à l'étage de l'auberge des Cinq Chopes, où il retournera si vous vous en séparez. La plupart des articles de sa boutique ne sont pas identifiés parce qu'ils proviennent du jeu Fallout. Si vous savez ce qu'ils sont, alors achetez-les, sinon, amusez-vous à découvrir ce qu'ils font !|FOR 18, DEX 18, CON 16, INT 13, SAG 10, CHA 10."
         },
         "notes": [
-			"存在该模组面向增强版（EE）的非官方移植版本，可在[此处](https://github.com/eva2000as/KWolfNPC/) 获取：，此版本亦提供了中文翻译。"
-		],
+            "存在该模组面向增强版（EE）的非官方移植版本，可在[此处](https://github.com/eva2000as/KWolfNPC/) 获取：，此版本亦提供了中文翻译。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -9838,7 +9838,7 @@
         },
         "notes": [
             "必须在 [[372]] 之前安装。",
-			"请选择兼容EET的GitHub版本。"
+            "请选择兼容EET的GitHub版本。"
         ],
         "notes_meta": {
             "status": "done",
@@ -27679,12 +27679,27 @@
             "status": "done",
             "source": "Ce mod remplace les portraits de tous les personnages recrutables de BGEE, SOD et BG2EE par des portraits \"plus en chair\". Les hommes ont des muscles et des pectoraux (même Edwin), les femmes ont des poitrines opulentes, et sont parfois même dénudées."
         },
-        "notes": ["注意：内容包含露骨描写。"],
+        "notes": [
+            "注意：内容包含露骨描写。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
                 "Attention, le contenu explicite."
             ]
+        }
+    },
+    {
+        "id": 1924,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "The Forgotten Edge restaure et développe l'épée courte volée de Perdué, la transformant en une arme utile sur les deux jeux. Elle commence comme une modeste lame dans BG1 et peut ensuite être reforgé par Cromwell dans BG2 pour devenir une arme mortelle infligeant des dégâts d'acide et d'ombre. Le mod est conçu pour s'intégrer naturellement au contenu existant, sans perturber l'équilibre ou le déroulement du récit."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]
