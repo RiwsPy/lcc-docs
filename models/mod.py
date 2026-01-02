@@ -3,11 +3,11 @@ import enum
 import re
 from typing import Annotated, Literal
 
-from pydantic import ConfigDict, HttpUrl, StringConstraints, field_validator
+from pydantic import ConfigDict, StringConstraints, field_validator
 from pydantic.dataclasses import dataclass
 
 from i18n import _g, current_language
-from models.url import Url
+from models.url import HttpUrl
 from settings import (
     CategoryEnum,
     GameEnum,
@@ -96,7 +96,7 @@ class Mod:
     def is_weidu(self) -> bool:
         return self.tp2 != "non-weidu"
 
-    def get_urls(self) -> list[Url]:
+    def get_urls(self) -> list[HttpUrl]:
         # Pour éviter d'afficher des liens morts tout en les conservant
         if self.status == ModStatus.MISSING:
             return list()
@@ -104,10 +104,11 @@ class Mod:
         urls = list()
         # troncate url to remove zip and rar files
         for py_url in self.urls:
-            url = str(py_url)
-            if self.url_is_direct_archive(url):
-                url = url.rsplit("/", 1)[0] + "/"
-            urls.append(Url(url))
+            if py_url.is_direct_archive:
+                url = str(py_url).rsplit("/", 1)[0] + "/"
+                urls.append(HttpUrl(url))
+            else:
+                urls.append(py_url)
         return urls
 
     @property
@@ -198,9 +199,8 @@ class Mod:
 
         # Don't download files directly
         for py_url in self.urls:
-            url = str(py_url)
-            if self.url_is_direct_archive(url):
-                filename = url.rsplit("/", 1)[-1]
+            if py_url.is_direct_archive:
+                filename = str(py_url).rsplit("/", 1)[-1]
                 auto_notes.append(_g("Fichier `{filename}`.").format(filename=filename))
 
         if self.is_outdated and self.safe <= 1:
@@ -272,13 +272,6 @@ class Mod:
             mod_name = mod_id_to_name.get(mod_id, mod_id)
 
         return f'<a href="#m{mod_id}">{mod_name}</a>'
-
-    @staticmethod
-    def url_is_direct_archive(url: str) -> bool:
-        url = url.lower()
-        return (url.endswith((".rar", ".zip", ".7z", ".exe"))) and not url.startswith(
-            ("https://www.mediafire.com/", "https://sorcerers.net/")
-        )
 
     def get_notes(self, mod_id_to_name: dict | None = None) -> list[str]:
         return [
