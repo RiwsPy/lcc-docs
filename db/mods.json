@@ -7533,7 +7533,7 @@
     {
         "id": 226,
         "name": "Check the Bodies",
-        "description": "Ce mod ajoute un nombre incalculable de quêtes (24 dont certaines assez longues) plus des quêtes de classe inédites. De nouvelles maps (15 + 160 modifiées), de nouveaux objets, de nouvelles recettes pour Cromwell, une nouvelle ville à explorer (Hlondeth), un nouveau personnage à recruter (Rynn, guerrière humaine).... Bref, c'est alléchant. Throne of Bhaal est requis. L'aventure débute à Château-Suif, et après quelques corvées, vous deviendrez plus puissant et poursuivrez le cours normal de BG2 tout en ayant de nombreuses quêtes et nombreuses rencontres à faire.|La nouvelle version englobe les modules complémentaires `Candlekeep Chores (tutoriel)` et `Candlekeep Chores Fast Forward`.",
+        "description": "Ce mod ajoute un nombre incalculable de quêtes (24 dont certaines assez longues) plus des quêtes de classe inédites. De nouvelles maps (15 + 160 modifiées), de nouveaux objets, de nouvelles recettes pour Cromwell, une nouvelle ville à explorer (Hlondeth), un nouveau personnage à recruter (Rynn, guerrière humaine).... Bref, c'est alléchant. L'aventure débute à Château-Suif, et après quelques corvées, vous deviendrez plus puissant et poursuivrez le cours normal de BG2 tout en ayant de nombreuses quêtes et nombreuses rencontres à faire.|La nouvelle version englobe les modules complémentaires `Candlekeep Chores (tutoriel)` et `Candlekeep Chores Fast Forward`.",
         "urls": [
             "https://www.spellholdstudios.net/ie/ctb/",
             "https://github.com/Spellhold-Studios/Check-the-Bodies"
@@ -7575,6 +7575,7 @@
                 1354
             ],
             "requires": [
+                "ToB",
                 1229
             ]
         },
@@ -8435,7 +8436,7 @@
     {
         "id": 254,
         "name": "Coondred NPC",
-        "description": "Ce mod ajoute un PNJ particulier : un raton laveur, druide totémique, qui a été élevé par un clan de druides demi-elfes. ToB est requis.",
+        "description": "Ce mod ajoute un PNJ particulier : un raton laveur, druide totémique, qui a été élevé par un clan de druides demi-elfes.",
         "urls": [
             "https://www.mediafire.com/download/1z8wa841ynoa6u3/Coondred1.3.rar."
         ],
@@ -8460,7 +8461,11 @@
         ],
         "status": "active",
         "last_update": "2012-03",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "Coondred"
     },
     {
@@ -9685,7 +9690,7 @@
     {
         "id": 291,
         "name": "Daulmakan's Item Pack",
-        "description": "Ce petit mod ajoute environ 45 objets inspirés des séries Icewind Dale et de Planescape: Torment, disséminés dans les magasins et sur le corps de vos ennemis. Il modifie également quelques objets existants (amélioration graphique pour les rendre plus distinguable...), ajoute un nouveau marchand dans votre antichambre, fait apparaître Deirdre et Joluv dans l'auberge d'Amkethran, permet à Cromwell et Cespenar de forger de nouveaux objets... ToB est requis.|Dans Baldur's Gate, il ajoute 13 objets, un sac de contenance dans la boutique de Winthrop; un anneau de l'Académie d'Ulcaster...|Installez-le de préférence après tous les mods qui ajoutent ou modifient des sorts.",
+        "description": "Ce petit mod ajoute environ 45 objets inspirés des séries Icewind Dale et de Planescape: Torment, disséminés dans les magasins et sur le corps de vos ennemis. Il modifie également quelques objets existants (amélioration graphique pour les rendre plus distinguable...), ajoute un nouveau marchand dans votre antichambre, fait apparaître Deirdre et Joluv dans l'auberge d'Amkethran, permet à Cromwell et Cespenar de forger de nouveaux objets...|Dans Baldur's Gate, il ajoute 13 objets, un sac de contenance dans la boutique de Winthrop; un anneau de l'Académie d'Ulcaster...|Installez-le de préférence après tous les mods qui ajoutent ou modifient des sorts.",
         "urls": [
             "https://www.shsforums.net/files/file/824-item-pack-v18/",
             "https://www.gibberlings3.net/forums/topic/37067-item-pack-v19/",
@@ -9717,7 +9722,11 @@
         ],
         "status": "active",
         "last_update": "2025-11",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "Item_Pack"
     },
     {
@@ -11127,7 +11136,7 @@
     {
         "id": 335,
         "name": "Druidic Sorcerer Kit",
-        "description": "Ce mod ajoute un nouveau profil de druide, le sorcier druidique. Maniant à la fois les capacités naturelles d'un druide et les pouvoirs mystérieux d'un sorcier, c'est l'une des classes les plus puissantes que vous puissiez jouer. ToB est requis.",
+        "description": "Ce mod ajoute un nouveau profil de druide, le sorcier druidique. Maniant à la fois les capacités naturelles d'un druide et les pouvoirs mystérieux d'un sorcier, c'est l'une des classes les plus puissantes que vous puissiez jouer.",
         "urls": [
             "https://www.shsforums.net/files/file/132-druidic-sorcerer-kit/"
         ],
@@ -11150,7 +11159,11 @@
         ],
         "status": "active",
         "last_update": "2007-04",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "DruidicSorcererKit"
     },
     {
@@ -12659,15 +12672,17 @@
             "Medivh"
         ],
         "team": [],
-        "notes": [
-            "ToB est requis."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "wip",
         "last_update": "2002-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "non-weidu"
     },
     {
@@ -15383,8 +15398,7 @@
         ],
         "team": [],
         "notes": [
-            "Notez que ce n'est pas à proprement parler un PNJ recrutable, mais plutôt un \"7ème membre\" qui vous suivra à la manière d'un familier.",
-            "ToB est requis."
+            "Notez que ce n'est pas à proprement parler un PNJ recrutable, mais plutôt un \"7ème membre\" qui vous suivra à la manière d'un familier."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -15397,7 +15411,11 @@
         ],
         "status": "active",
         "last_update": "2023-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "haiass"
     },
     {
@@ -19281,9 +19299,7 @@
             "nullset"
         ],
         "team": [],
-        "notes": [
-            "SoD est requis."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -19292,7 +19308,11 @@
         ],
         "status": "active",
         "last_update": "2023-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "SoD"
+            ]
+        },
         "tp2": "Jini"
     },
     {
@@ -28531,9 +28551,7 @@
             "ladydorotea"
         ],
         "team": [],
-        "notes": [
-            "ToB est requis."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -28546,6 +28564,7 @@
         "last_update": "2025-09",
         "compatibilities": {
             "requires": [
+                "ToB",
                 74
             ],
             "incompatible_with": [
@@ -31769,7 +31788,7 @@
     {
         "id": 959,
         "name": "Six's Kitpack",
-        "description": "Partant du constat que les classes et les profils du jeu sont moins puissantes que les jumelage ou multi-classages, ce mod s'efforce de rétablir l'équilibre en les améliorant un peu (spécialisations martiales comme 3 étoiles pour les paladins, capacités de haut niveau, utilisation des objets...). ToB est requis.|Des composants optionnels permettent de modifier le profil d'Archer et d'en installer 7 autres : Bowman et Shieldbearer (guerrier), Martyr et Mystic Marksman (paladin), Huntsman of Silvanus (druide), Spellshafter (barde) et Sniper (voleur). À l'origine, le mod avait pour ambition de proposer 22 nouveaux profils, mais il n'est plus développé depuis belle lurette...",
+        "description": "Partant du constat que les classes et les profils du jeu sont moins puissantes que les jumelage ou multi-classages, ce mod s'efforce de rétablir l'équilibre en les améliorant un peu (spécialisations martiales comme 3 étoiles pour les paladins, capacités de haut niveau, utilisation des objets...).|Des composants optionnels permettent de modifier le profil d'Archer et d'en installer 7 autres : Bowman et Shieldbearer (guerrier), Martyr et Mystic Marksman (paladin), Huntsman of Silvanus (druide), Spellshafter (barde) et Sniper (voleur). À l'origine, le mod avait pour ambition de proposer 22 nouveaux profils, mais il n'est plus développé depuis belle lurette...",
         "urls": [
             "https://www.pocketplane.net/sixs-kitpack/"
         ],
@@ -31794,7 +31813,11 @@
         ],
         "status": "active",
         "last_update": "2008-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "kitpack"
     },
     {
@@ -37000,7 +37023,11 @@
         ],
         "status": "active",
         "last_update": "2013-04",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "TobEx"
     },
     {
@@ -39028,7 +39055,7 @@
     {
         "id": 1175,
         "name": "Vampire Tales",
-        "description": "Les mods Miriam (PNJ vampire aux stats moins bourrines que celles de [[1299]], mais semblant disposer d'un caractère tout aussi lunatique et violent) et [[286]] (ajoutant un marchand avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2, initialement traduit par Panaka) sont désormais réunis dans ce mod qui améliore en outre la quête de l'Œil Aveugle, la rencontre avec les Ménestrels, et ajoute une nouvelle rencontre dans le donjon de Firkraag. ToB est requis.|Miriam : FOR 18/75, DEX 17, CON 11, INT 16, SAG 9, CHA 15.",
+        "description": "Les mods Miriam (PNJ vampire aux stats moins bourrines que celles de [[1299]], mais semblant disposer d'un caractère tout aussi lunatique et violent) et [[286]] (ajoutant un marchand avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2, initialement traduit par Panaka) sont désormais réunis dans ce mod qui améliore en outre la quête de l'Œil Aveugle, la rencontre avec les Ménestrels, et ajoute une nouvelle rencontre dans le donjon de Firkraag.|Miriam : FOR 18/75, DEX 17, CON 11, INT 16, SAG 9, CHA 15.",
         "urls": [
             "https://github.com/The-Gate-Project/VampireTales"
         ],
@@ -39058,7 +39085,11 @@
         ],
         "status": "active",
         "last_update": "2024-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "VampireTales"
     },
     {
@@ -48760,7 +48791,7 @@
         ],
         "team": [],
         "notes": [
-            "EET est requis. Seul le lien github permet de télécharger le mod."
+            "Seul le lien github permet de télécharger le mod."
         ],
         "translation_state": "auto",
         "safe": 1,
@@ -48769,7 +48800,11 @@
         ],
         "status": "wip",
         "last_update": "2021-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "EET"
+            ]
+        },
         "tp2": "Mercenaries"
     },
     {
@@ -49615,9 +49650,7 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [
-            "SoD est requis."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -49625,7 +49658,11 @@
         ],
         "status": "active",
         "last_update": "2025-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "SoD"
+            ]
+        },
         "tp2": "Kvel_BG1"
     },
     {
