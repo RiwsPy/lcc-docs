@@ -105,8 +105,8 @@ class Mod:
         # troncate url to remove zip and rar files
         for py_url in self.urls:
             if py_url.is_direct_archive:
-                url = str(py_url).rsplit("/", 1)[0] + "/"
-                urls.append(HttpUrl(url))
+                url, sep, _ = py_url.url.rpartition("/")
+                urls.append(HttpUrl(url + sep))
             else:
                 urls.append(py_url)
         return urls
@@ -200,7 +200,7 @@ class Mod:
         # Don't download files directly
         for py_url in self.urls:
             if py_url.is_direct_archive:
-                filename = str(py_url).rsplit("/", 1)[-1]
+                filename = py_url.url.rsplit("/", 1)[-1]
                 auto_notes.append(_g("Fichier `{filename}`.").format(filename=filename))
 
         if self.is_outdated and self.safe <= 1:
