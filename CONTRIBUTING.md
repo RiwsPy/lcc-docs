@@ -213,6 +213,18 @@ Quelques exemples :
 - Un pack de `Sort et objet` peut être vendu chez des `Forgeron et marchand`. Pas de solution miracle. La description présente-t-elle les objets ou le marchand ? Si la réponse n'est pas évidente, il n'est pas interdit de mettre les deux catégories.
 
 
-## update_date
-Cette date au format `YYYY-MM` contient la date de la dernière mise à jour du mod.\
+## last_update
+Cette date au format `YYYY-MM` (ou `%Y-%m`) contient la date de la dernière mise à jour du mod.\
 La date doit être comprise entre le 1er Janvier 1999 et la date d'aujourd'hui.
+
+
+## compatibilities
+
+Renseigne les dépendances fortes entre les mods.\
+Deux champs sont actuellement disponibles :
+1. `incompatible_with` : les mods dont l'incompatibilité est connue
+1. `requires` : les mods requis pour l'installation du mod concerné
+
+Les champs attendent une liste : `[]`.\
+Soit on renseigne l'`ID` (un entier) du mod, le nom du mod sera affiché avec un lien pour y accéder.\
+Soit on renseigne une chaîne de caractère, elle sera affichée telle quelle.

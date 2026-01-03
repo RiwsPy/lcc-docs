@@ -61,7 +61,7 @@ class Mod:
     status: ModStatus
     last_update: YearMonthFormat
     tp2: str
-    compatibilities: dict[Literal["requires", "incompatible_with"], list[int] | str]
+    compatibilities: dict[Literal["requires", "incompatible_with"], list[int | str]]
     description_meta: dict = None
     notes_meta: dict = None
     urls_extra: list[HttpUrl] = None
@@ -251,13 +251,13 @@ class Mod:
         if self.compatibilities and mod_id_to_name:
             if "requires" in self.compatibilities:
                 mods = ", ".join(
-                    self.get_internal_link(str(mod_id), mod_id_to_name)
+                    self.get_internal_link(mod_id, mod_id_to_name)
                     for mod_id in self.compatibilities["requires"]
                 )
                 auto_notes.append(_g("Nécessite : {mods}").format(mods=mods))
             if "incompatible_with" in self.compatibilities:
                 mods = ", ".join(
-                    self.get_internal_link(str(mod_id), mod_id_to_name)
+                    self.get_internal_link(mod_id, mod_id_to_name)
                     for mod_id in self.compatibilities["incompatible_with"]
                 )
                 auto_notes.append(_g("Incompatible avec : {mods}").format(mods=mods))
@@ -265,8 +265,10 @@ class Mod:
         return auto_notes
 
     @staticmethod
-    def get_internal_link(mod_id: str, mod_id_to_name: dict | None) -> str:
-        if mod_id_to_name is None:
+    def get_internal_link(mod_id: str | int, mod_id_to_name: dict | None) -> str:
+        if isinstance(mod_id, str):  # eg: ToB, no change
+            return mod_id
+        elif mod_id_to_name is None:
             mod_name = mod_id
         else:
             mod_name = mod_id_to_name.get(mod_id, mod_id)
