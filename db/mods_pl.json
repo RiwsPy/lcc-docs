@@ -24566,7 +24566,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce module place les deux marchands Deirdre et Joluv dans IWDEE Deirdre et dans la boutique de Gerth et Joluv est dans la taverne."
+            "source": "Ce module place les deux marchands Deirdre et Joluv dans IWDEE. Deirdre est dans la boutique de Gerth et Joluv est dans la taverne."
         },
         "notes": [],
         "notes_meta": {
@@ -25285,8 +25285,11 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Remplacé par [[1784]] du même auteur.",
+                "Ce mod a disparu de https://github.com/bucketfulofsunshine/the-pursuit-of-justice/"
+            ]
         }
     },
     {
@@ -26457,7 +26460,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Attention, le contenu explicite."
+                "Attention, le contenu est explicite."
             ]
         }
     },
@@ -26467,6 +26470,71 @@
         "description_meta": {
             "status": "todo",
             "source": "The Forgotten Edge restaure et développe l'épée courte volée de Perdué, la transformant en une arme utile sur les deux jeux. Elle commence comme une modeste lame dans BG1 et peut ensuite être reforgé par Cromwell dans BG2 pour devenir une arme mortelle infligeant des dégâts d'acide et d'ombre. Le mod est conçu pour s'intégrer naturellement au contenu existant, sans perturber l'équilibre ou le déroulement du récit."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1925,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Portraits générés par IA conçus pour s'harmoniser avec les portraits classiques des jeux de l'Infinity Engine."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1926,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute deux kits : l'Arcane archer Nécromant et le Guerrier-Assassin."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1927,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute Zira la marchande qui vend plusieurs objets issus de BG2 ainsi que 4 nouveaux objets.|Un voleur prêt à l'emploi avec ses propres capacités spéciales.|Quelques portraits de BG1 et BG2.|La possibilité d'atteindre le niveau 40."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1928,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Maniez le pouvoir divin grâce à deux nouveaux kits de sorcier inspirés du très populaire Divine Soul de la 5e édition. Le personnage éponyme peut choisir parmi les listes de sorts du sorcier et du clerc. Cela vous semble trop puissant ? Alors préparez-vous à être paralysé par l'analyse lorsque vous tenterez de faire de la place pour le pouvoir des dieux dans votre minuscule grimoire !"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1929,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Composants permettant l'utilisation d'épées pour les clercs et d'arbalètes légères pour les clercs et les mages."
         },
         "notes": [],
         "notes_meta": {

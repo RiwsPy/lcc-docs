@@ -5126,11 +5126,11 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "wip",
         "last_update": "2023-12",
         "compatibilities": {},
         "tp2": "bst"
@@ -10157,7 +10157,7 @@
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
         ],
-        "translation_state": "n/a",
+        "translation_state": "auto",
         "safe": 1,
         "languages": [
             "en"
@@ -44515,7 +44515,10 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Eleima",
+            "Kulyok"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
@@ -47342,7 +47345,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [
             "en"
@@ -48905,7 +48908,8 @@
         "description": "Ce mod propose de lever des restrictions du moteur jeu qui empêche les Paladins d'être multiclassé. Même l'utilisation d'éditeurs de sauvegardes entraînait un plantage du jeu.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38553-sci-dualadins/",
-            "https://github.com/DataForInfinity/Sword-Coast-Infinity"
+            "https://www.nexusmods.com/baldursgate/mods/75/",
+            "https://github.com/DataForInfinity/Sword-Coast-Infinity/"
         ],
         "categories": [
             "Patch non officiel"
@@ -48930,7 +48934,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-01",
         "compatibilities": {},
         "tp2": "SCI-Dualadins"
     },
@@ -58135,7 +58139,7 @@
     {
         "id": 1781,
         "name": "IWD Bonus merchants",
-        "description": "Ce module place les deux marchands Deirdre et Joluv dans IWDEE Deirdre et dans la boutique de Gerth et Joluv est dans la taverne.",
+        "description": "Ce module place les deux marchands Deirdre et Joluv dans IWDEE. Deirdre est dans la boutique de Gerth et Joluv est dans la taverne.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34958",
             "https://forums.beamdog.com/discussion/89556/",
@@ -59067,12 +59071,9 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 1,
-        "languages": [
-            "en",
-            "fr"
-        ],
+        "languages": [],
         "status": "active",
         "last_update": "2010-08",
         "compatibilities": {},
@@ -59705,9 +59706,7 @@
         "id": 1834,
         "name": "The Pursuit of Justice",
         "description": "Ce mod propose un autre cheminement aux personnages d'alignement loyal bon, loyal neutre, chaotique bon et loyal neutre (avec une réputation de 14 ou plus) pour accomplir la quête SOA de Dorn (Resurrection Gorge) sans qu'il fasse partie du groupe.|En fait, dans cette version alternative des événements, Dorn lui-même devient le méchant de l'histoire.",
-        "urls": [
-            "https://github.com/bucketfulofsunshine/the-pursuit-of-justice/"
-        ],
+        "urls": [],
         "categories": [
             "Quête"
         ],
@@ -59719,13 +59718,16 @@
             "bucketfulofsunshine"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Remplacé par [[1784]] du même auteur.",
+            "Ce mod a disparu de https://github.com/bucketfulofsunshine/the-pursuit-of-justice/"
+        ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
-        "status": "missing",
+        "status": "embed",
         "last_update": "2025-09",
         "compatibilities": {},
         "tp2": "TPoJ"
@@ -62460,7 +62462,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention, le contenu explicite."
+            "Attention, le contenu est explicite."
         ],
         "translation_state": "auto",
         "safe": 1,
@@ -62503,5 +62505,161 @@
         "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "TheForgottenEdge"
+    },
+    {
+        "id": 1925,
+        "name": "Portrait Pack 0",
+        "description": "Portraits générés par IA conçus pour s'harmoniser avec les portraits classiques des jeux de l'Infinity Engine.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/40923-portrait-pack-0/",
+            "https://github.com/Genovi/Portrait_Pack_0/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Genovi"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1926,
+        "name": "Discord multikit requests",
+        "description": "Ce mod ajoute deux kits : l'Arcane archer Nécromant et le Guerrier-Assassin.",
+        "urls": [
+            "https://github.com/GraionDilach/zg1kits/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Graion Dilach"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "archived",
+        "last_update": "2023-08",
+        "compatibilities": {},
+        "tp2": "zg1kits"
+    },
+    {
+        "id": 1927,
+        "name": "Newstore-Mod do IwD 1",
+        "description": "Ce mod ajoute Zira la marchande qui vend plusieurs objets issus de BG2 ainsi que 4 nouveaux objets.|Un voleur prêt à l'emploi avec ses propres capacités spéciales.|Quelques portraits de BG1 et BG2.|La possibilité d'atteindre le niveau 40.",
+        "urls": [
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=3327"
+        ],
+        "categories": [
+            "Forgeron et marchand",
+            "Personnalisation du groupe"
+        ],
+        "games": [
+            "IWD"
+        ],
+        "authors": [
+            "Yochloll"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "pl"
+        ],
+        "status": "missing",
+        "last_update": "2009-02",
+        "compatibilities": {},
+        "tp2": "NewStore"
+    },
+    {
+        "id": 1928,
+        "name": "Divine Soul",
+        "description": "Maniez le pouvoir divin grâce à deux nouveaux kits de sorcier inspirés du très populaire Divine Soul de la 5e édition. Le personnage éponyme peut choisir parmi les listes de sorts du sorcier et du clerc. Cela vous semble trop puissant ? Alors préparez-vous à être paralysé par l'analyse lorsque vous tenterez de faire de la place pour le pouvoir des dieux dans votre minuscule grimoire !",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/39487-sci-divine-soul/",
+            "https://www.nexusmods.com/baldursgate/mods/97/",
+            "https://github.com/DataForInfinity/Sword-Coast-Infinity/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "AvA"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "de"
+        ],
+        "status": "active",
+        "last_update": "2025-04",
+        "compatibilities": {},
+        "tp2": "SCI-Divine-Soul"
+    },
+    {
+        "id": 1929,
+        "name": "Blades & Bolts",
+        "description": "Composants permettant l'utilisation d'épées pour les clercs et d'arbalètes légères pour les clercs et les mages.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38991-sci-dual-release-portraits-proficiencies/",
+            "https://www.nexusmods.com/baldursgate/mods/91/",
+            "https://github.com/DataForInfinity/Sword-Coast-Infinity/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "AvA"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "de"
+        ],
+        "status": "active",
+        "last_update": "2025-04",
+        "compatibilities": {},
+        "tp2": "SCI-Blades+Bolts"
     }
 ]
