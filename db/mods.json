@@ -62661,5 +62661,43 @@
         "last_update": "2025-04",
         "compatibilities": {},
         "tp2": "SCI-Blades+Bolts"
+    },
+    {
+        "id": 1930,
+        "name": "Weapons Reforged",
+        "description": "Une refonte modulaire de l'utilisation et de la maîtrise des armes. Ce mod offre un accès universel aux armes en permettant la configuration des niveaux minimums de maîtrise, de les limiter à certaines classes, de supprimer des restrictions de style de combat et de conserver les restrictions d'alignement.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/40930-my-first-bg-mod-released-weapons-reforged-bgee-bg2ee-eet/",
+            "https://github.com/CelestialFury-BG/weapons-reforged/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Celestial Fury"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "it",
+            "de",
+            "fr",
+            "pt",
+            "pl",
+            "uk",
+            "es"
+        ],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {},
+        "tp2": "weapons_reforged"
     }
 ]
