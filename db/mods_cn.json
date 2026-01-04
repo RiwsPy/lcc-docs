@@ -456,14 +456,12 @@
             "source": "Une voleuse neutre mauvaise avec voix, quelques banters légers et un portrait original. Vous pouvez la trouver dans les Bas Quartiers.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16."
         },
         "notes": [
-            "请选择BG2EE/EET版本的github链接。",
-            "需求ToB。"
+            "请选择BG2EE/EET版本的github链接。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Choisissez le lien github pour la version BG2EE/EET.",
-                "Nécessite ToB."
+                "Choisissez le lien github pour la version BG2EE/EET."
             ]
         }
     },
@@ -1430,14 +1428,12 @@
             "source": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts)."
         },
         "notes": [
-            "存在一个非官方且兼容 EE 的版本：[[1790]]。",
-            "需要《巴尔王座》。"
+            "存在一个非官方且兼容 EE 的版本：[[1790]]。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Une version non officielle et compatible EE existe : [[1790]].",
-                "Nécessite ToB."
+                "Une version non officielle et compatible EE existe : [[1790]]."
             ]
         }
     },
@@ -1835,14 +1831,10 @@
             "status": "done",
             "source": "Ce mod de Kerozevok modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements."
         },
-        "notes": [
-            "需要《龙矛围攻》。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Nécessite Siege of Dragonspear."
-            ]
+            "source": []
         }
     },
     {
@@ -7625,8 +7617,8 @@
         "id": 524,
         "description": "由Weimer发起的这个项目允许您使用《冰风谷2》的引擎来玩《博德之门2》。实际上，这是将《博德之门2》改编为《冰风谷2》的风格，采用第三版规则、界面、法术等，这些都来自《冰风谷2》。它需要《冰风谷2》和《博德之门2 - 巴尔王座》。|已经提供了许多截图。在其设计师退出社区后，该版本的测试版已向公众开放。此模组很可能将一直停留在测试版状态。|您可以在[此链接](https://weidu.org/iwg2/beta.html)找到其安装说明。",
         "description_meta": {
-            "status": "done",
-            "source": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc. Il nécessite Icewind Dale II et Baldur's Gate II - Throne of Bhaal.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html)."
+            "status": "needs_review",
+            "source": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html)."
         },
         "notes": [],
         "notes_meta": {
@@ -8384,14 +8376,10 @@
             "status": "done",
             "source": "Ce mod ajoute deux profils de guerrier : Jedi et Sith."
         },
-        "notes": [
-            "需求巴尔王座。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Nécessite ToB."
-            ]
+            "source": []
         }
     },
     {
@@ -10588,14 +10576,12 @@
             "source": "Ce nouveau marchand que vous pourrez rencontrer dans le district du Gouvernement propose toutes sortes de contenants (étuis à parchemins, sacs de gemmes et bien d'autres), mais également des fléchettes +2 et autres dagues de jet enchantées."
         },
         "notes": [
-            "与[[1325]]搭配可实现EET兼容。",
-            "需要《巴尔王座》。"
+            "与[[1325]]搭配可实现EET兼容。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "La compatibilité EET est possible avec [[1325]].",
-                "Nécessite ToB."
+                "La compatibilité EET est possible avec [[1325]]."
             ]
         }
     },
@@ -11221,8 +11207,8 @@
         "id": 772,
         "description": "此模组用更高质量的44.1 kHz版本替换了BGT中自动替换游戏音乐的旧有复杂流程。它会影响游戏中的所有.acm音频文件。|您必须将两个包“1PP High-Quality Music for Tutu/ToSC”和“for SoA/ToB”解压到您的BGT目录中，但不要安装它们，然后安装此模组。|它用于修正区域音乐轨道的可选组件需要预先安装BGTMusic模组，特别是“Baldur's Gate完整音乐”组件。此模组必须在所有向游戏中添加.acm音频文件的模组之后安装。|锦上添花的是，一个新组件允许在BGT转换后恢复《博德之门2》的主菜单主题。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable du mod BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT."
+            "status": "needs_review",
+            "source": "Ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable de BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT."
         },
         "notes": [],
         "notes_meta": {
@@ -16345,8 +16331,8 @@
         "id": 1121,
         "description": "这是一个探索一座塔的任务（根据常见问题解答有新图形），它会吸引一些人将他们囚禁（有点像剑湾传奇的冰岛）。它需要巴尔王座，面向10-13级的角色，并配备相当强大的武器（至少需要一对+3武器），因为有一些相当难缠的怪物。要开始冒险，你只需要去见扭曲颅骨旅店（城门）的法师天，和他交谈。他有一个任务给你：找回一本书，它藏在一座名为“无归之塔”的废弃古塔里……他为此准备了一大笔酬金。你敢接受挑战吗？",
         "description_meta": {
-            "status": "done",
-            "source": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il nécessite ToB et s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins une paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?"
+            "status": "needs_review",
+            "source": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins une paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?"
         },
         "notes": [],
         "notes_meta": {

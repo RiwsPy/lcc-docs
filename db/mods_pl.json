@@ -420,8 +420,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Choisissez le lien github pour la version BG2EE/EET.",
-                "Nécessite ToB."
+                "Choisissez le lien github pour la version BG2EE/EET."
             ]
         }
     },
@@ -1347,8 +1346,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Une version non officielle et compatible EE existe : [[1790]].",
-                "Nécessite ToB."
+                "Une version non officielle et compatible EE existe : [[1790]]."
             ]
         }
     },
@@ -1741,10 +1739,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Nécessite Siege of Dragonspear."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -7242,7 +7238,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc. Il nécessite Icewind Dale II et Baldur's Gate II - Throne of Bhaal.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html)."
+            "source": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html)."
         },
         "notes": [],
         "notes_meta": {
@@ -7976,10 +7972,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Nécessite ToB."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -10077,8 +10071,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "La compatibilité EET est possible avec [[1325]].",
-                "Nécessite ToB."
+                "La compatibilité EET est possible avec [[1325]]."
             ]
         }
     },
@@ -10676,7 +10669,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable du mod BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT."
+            "source": "Ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable de BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT."
         },
         "notes": [],
         "notes_meta": {
@@ -15573,7 +15566,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il nécessite ToB et s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins une paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?"
+            "source": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins une paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?"
         },
         "notes": [],
         "notes_meta": {

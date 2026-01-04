@@ -448,14 +448,12 @@
             "source": "Une voleuse neutre mauvaise avec voix, quelques banters légers et un portrait original. Vous pouvez la trouver dans les Bas Quartiers.|FOR 10, DEX 15, CON 9, INT 14, SAG 12, CHA 16."
         },
         "notes": [
-            "Choose the github link for the BG2EE/EET version.",
-            "Requires ToB."
+            "Choose the github link for the BG2EE/EET version."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Choisissez le lien github pour la version BG2EE/EET.",
-                "Nécessite ToB."
+                "Choisissez le lien github pour la version BG2EE/EET."
             ]
         }
     },
@@ -1417,14 +1415,12 @@
             "source": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts)."
         },
         "notes": [
-            "An unofficial EE-compatible version is available: [[1790]].",
-            "Requires ToB."
+            "An unofficial EE-compatible version is available: [[1790]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Une version non officielle et compatible EE existe : [[1790]].",
-                "Nécessite ToB."
+                "Une version non officielle et compatible EE existe : [[1790]]."
             ]
         }
     },
@@ -1814,14 +1810,10 @@
             "status": "needs_review",
             "source": "Ce mod de Kerozevok modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements."
         },
-        "notes": [
-            "Requires Siege of Dragonspear."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Nécessite Siege of Dragonspear."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -7549,7 +7541,7 @@
         "description": "Initiated by Weimer, this project lets you play Baldur's Gate II using the Icewind Dale 2 engine. In fact, the idea was to adapt BG2 to Icewind Dale 2, with the 3rd edition rules, interface, spells, etc., from Icewind Dale II. Many screenshots are already available. The beta version has been opened to the public following the withdrawal of its designer from the community. Installation instructions can be found at [this link](https://weidu.org/iwg2/beta.html).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc. Il nécessite Icewind Dale II et Baldur's Gate II - Throne of Bhaal.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html)."
+            "source": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html)."
         },
         "notes": [],
         "notes_meta": {
@@ -8297,14 +8289,10 @@
             "status": "needs_review",
             "source": "Ce mod ajoute deux profils de guerrier : Jedi et Sith."
         },
-        "notes": [
-            "Requires ToB."
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Nécessite ToB."
-            ]
+            "source": []
         }
     },
     {
@@ -10498,14 +10486,12 @@
             "source": "Ce nouveau marchand que vous pourrez rencontrer dans le district du Gouvernement propose toutes sortes de contenants (étuis à parchemins, sacs de gemmes et bien d'autres), mais également des fléchettes +2 et autres dagues de jet enchantées."
         },
         "notes": [
-            "Compatibility with EET is possible with [[1325]].",
-            "Requires ToB."
+            "Compatibility with EET is possible with [[1325]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "La compatibilité EET est possible avec [[1325]].",
-                "Nécessite ToB."
+                "La compatibilité EET est possible avec [[1325]]."
             ]
         }
     },
@@ -11123,10 +11109,10 @@
     },
     {
         "id": 772,
-        "description": "This mod replaces the old, rather convoluted procedure for automatically replacing in-game music in BGT with the same, but better quality, 44.1 kHz music. It affects all .acm audio files in the game.|You need to extract the two 1PP High-Quality Music for Tutu/ToSC and for SoA/ToB packages into your BGT directory WITHOUT installing them, then install this mod.|Its optional component which corrects music tracks in areas requires prior installation of the BGTMusic mod, notably the `Integral Music of Baldur's Gate` component. This mod must be installed after all mods that add .acm audio files to the game.|Cherry on the cake, a new component restores BG2's main menu theme after the BGT transition.",
+        "description": "This mod replaces the old, rather convoluted procedure for automatically replacing in-game music in BGT with the same, but better quality, 44.1 kHz music. It affects all .acm audio files in the game.|You need to extract the two 1PP High-Quality Music for Tutu/ToSC and for SoA/ToB packages into your BGT directory WITHOUT installing them, then install this mod.|Its optional component which corrects music tracks in areas requires prior installation of BGTMusic, notably the `Integral Music of Baldur's Gate` component. This mod must be installed after all mods that add .acm audio files to the game.|Cherry on the cake, a new component restores BG2's main menu theme after the BGT transition.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable du mod BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT."
+            "source": "Ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable de BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT."
         },
         "notes": [],
         "notes_meta": {
@@ -16196,10 +16182,10 @@
     },
     {
         "id": 1121,
-        "description": "It's a quest to explore a tower (new graphics according to the FAQ) that attracts some to imprison them (a bit like TotSC's ice island). It requires ToB and is aimed at characters of level 10-13, equipped with fairly powerful weapons (you need at least a pair of +3 weapons), as there are some pretty hefty monsters. To start the adventure, all you have to do is go and see the mage Tian at the Crooked Crane Inn (at the City Gates), and talk to him. He has a mission for you: to recover a book hidden in an old abandoned tower, the Tower of No Return... He's willing to pay a hefty sum for it. Will you rise to the challenge?",
+        "description": "It's a quest to explore a tower (new graphics according to the FAQ) that attracts some to imprison them (a bit like TotSC's ice island). It is aimed at characters of level 10-13, equipped with fairly powerful weapons (you need at least a pair of +3 weapons), as there are some pretty hefty monsters. To start the adventure, all you have to do is go and see the mage Tian at the Crooked Crane Inn (at the City Gates), and talk to him. He has a mission for you: to recover a book hidden in an old abandoned tower, the Tower of No Return... He's willing to pay a hefty sum for it. Will you rise to the challenge?",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il nécessite ToB et s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins une paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?"
+            "source": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins une paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?"
         },
         "notes": [],
         "notes_meta": {

@@ -998,8 +998,7 @@
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien github pour la version BG2EE/EET.",
-            "Nécessite ToB."
+            "Choisissez le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -1010,7 +1009,11 @@
         ],
         "status": "active",
         "last_update": "2024-11",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "alassa"
     },
     {
@@ -3277,8 +3280,7 @@
         ],
         "team": [],
         "notes": [
-            "Une version non officielle et compatible EE existe : [[1790]].",
-            "Nécessite ToB."
+            "Une version non officielle et compatible EE existe : [[1790]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -3290,7 +3292,11 @@
         ],
         "status": "active",
         "last_update": "2009-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "AzenMOD"
     },
     {
@@ -4213,15 +4219,17 @@
             "Kerozevok"
         ],
         "team": [],
-        "notes": [
-            "Nécessite Siege of Dragonspear."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2016-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "SoD"
+            ]
+        },
         "tp2": "non-weidu"
     },
     {
@@ -17325,16 +17333,17 @@
             "IWD"
         ],
         "authors": [
-            "DavidW"
+            "DavidW",
+            "CamDawg"
         ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "wip",
         "last_update": "2013-08",
         "compatibilities": {
             "requires": [
@@ -17346,7 +17355,7 @@
     {
         "id": 524,
         "name": "Icewind Gate II",
-        "description": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc. Il nécessite Icewind Dale II et Baldur's Gate II - Throne of Bhaal.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html).",
+        "description": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html).",
         "urls": [
             "https://weidu.org/iwg2/index.html"
         ],
@@ -17368,7 +17377,12 @@
         ],
         "status": "wip",
         "last_update": "2012-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "IWD2",
+                "ToB"
+            ]
+        },
         "tp2": "non-weidu"
     },
     {
@@ -19199,9 +19213,7 @@
             "Wu Min"
         ],
         "team": [],
-        "notes": [
-            "Nécessite ToB."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -19210,7 +19222,11 @@
         ],
         "status": "active",
         "last_update": "2008-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "Jedi&Sith"
     },
     {
@@ -24081,8 +24097,7 @@
         ],
         "team": [],
         "notes": [
-            "La compatibilité EET est possible avec [[1325]].",
-            "Nécessite ToB."
+            "La compatibilité EET est possible avec [[1325]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -24095,7 +24110,11 @@
         ],
         "status": "active",
         "last_update": "2022-07",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "mystigan"
     },
     {
@@ -25521,7 +25540,7 @@
     {
         "id": 772,
         "name": "1pp: High-Quality Music for BGT",
-        "description": "Ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable du mod BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT.",
+        "description": "Ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable de BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT.",
         "urls": [
             "https://www.shsforums.net/topic/50032-1pp-high-quality-music-for-soatob-tututosc-iwd-pst/page-4#entry567024"
         ],
@@ -37343,7 +37362,7 @@
     {
         "id": 1121,
         "name": "Tower of Deception",
-        "description": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il nécessite ToB et s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins une paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?",
+        "description": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins une paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?",
         "urls": [
             "http://www.blackwyrmlair.net/~valiant/",
             "https://github.com/Black-Wyrm-Lair/TowerOfDeception"
@@ -37378,7 +37397,11 @@
         ],
         "status": "active",
         "last_update": "2025-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "tod"
     },
     {
