@@ -266,12 +266,12 @@ class Mod:
 
     @staticmethod
     def get_internal_link(mod_id: str | int, mod_id_to_name: dict | None) -> str:
-        if isinstance(mod_id, str):  # eg: ToB, no change
+        if isinstance(mod_id, str) and not mod_id.isnumeric():  # eg: ToB, no change
             return mod_id
         elif mod_id_to_name is None:
             mod_name = mod_id
         else:
-            mod_name = mod_id_to_name.get(mod_id, mod_id)
+            mod_name = mod_id_to_name.get(str(mod_id), mod_id)
 
         return f'<a href="#m{mod_id}">{mod_name}</a>'
 
