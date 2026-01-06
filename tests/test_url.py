@@ -50,4 +50,28 @@ class TestUrl:
 
         assert HttpUrl(url).is_external is expected_value
 
-    # TODO url.img
+    def test_image_domain(self, mocker):
+        mocker.patch.object(HttpUrl, "domain_to_image", {"toto.com": "image-toto.avif"})
+
+        url = "https://toto.com/"
+        expected_value = "image-toto.avif"
+
+        assert HttpUrl(url)._image_domain() == expected_value
+
+    def test_image_domain_not_found(self, mocker):
+        mocker.patch.object(HttpUrl, "domain_to_image", dict())
+
+        url = "https://toto.com/"
+        expected_value = ""
+
+        assert HttpUrl(url)._image_domain() == expected_value
+
+    def test_image_subdomain(self, mocker):
+        mocker.patch.object(HttpUrl, "domain_to_image", {"toto.com": "image-toto.avif"})
+
+        url = "https://sub.toto.com/"
+        expected_value = "image-toto.avif"
+
+        assert HttpUrl(url)._image_domain() == expected_value
+
+    # TODO url.image
