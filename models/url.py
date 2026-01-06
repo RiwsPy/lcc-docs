@@ -1,21 +1,14 @@
 from dataclasses import dataclass
-from functools import cached_property
-from os import path as os_path
+from pathlib import Path
 
 from pydantic import HttpUrl as PydHttpUrl
 
-from settings import (
-    FLAG_DIR,
-    IMG_ROOT,
-    SITE_DIR,
-    domain_to_image,
-    image_data,
-)
+from settings import FLAG_DIR, SITE_DIR, image_data
 
 
 @dataclass(slots=True, kw_only=True)
 class Image:
-    src: str
+    src: Path
     title: str = ""
     alt: str = ""
     width: int = 32
@@ -23,7 +16,36 @@ class Image:
 
 
 class HttpUrl(PydHttpUrl):
-    country_image_suffix = "-flag-32.png"
+    country_image_suffix: str = "-flag-32.png"
+
+    domain_to_image: dict[str, str] = {
+        "artisans-corner.com": "artisans-32.avif",
+        "baldursgateworld.fr": "logocc.png",
+        "anomaly-studios.fr": "logocc.png",
+        # "baldursgatemods.com": "teambg.png",
+        "downloads.chosenofmystra.net": "teambg.png",
+        "beamdog.com": "beamdog.png",
+        "blackwyrmlair.net": "bwl.gif",
+        "gibberlings3.net": "g3icon-32.avif",
+        "github.com": "github-32.png",
+        "github.io": "github-32.png",
+        # "havredest.eklablog.fr": "luren.avif",
+        "pocketplane.net": "ppg-32.jpg",
+        "mediafire.com": "mediafire.png",
+        "nexusmods.com": "nexus-32.png",
+        "reddit.com": "reddit_76.png",
+        "sasha-altherin.webs.com": "ab-logo-32.jpg",
+        "sentrizeal.com": "sentrizeal.ico",
+        "shsforums.net": "shs_reskit-32.avif",
+        "spellholdstudios.net": "shs_reskit-32.avif",
+        "bgforge.net": "bgforge.svg",
+        "sorcerers.net": "sorcerer-32.avif",
+        "sourceforge.net": "sf.png",
+        "weaselmods.net": "weasel-32.png",
+        "weidu.org": "weidu.ico",
+        "clandlan.net": "sp-flag-32.png",
+        "trow.cc": "trow-32.png",
+    }
 
     @property
     def url(self) -> str:
@@ -46,32 +68,9 @@ class HttpUrl(PydHttpUrl):
     def is_external(self) -> bool:
         return True
 
-    @cached_property
-    def img(self) -> Image | None:
-        def image_country(self) -> str:
-            country_img = f"{self.tld}{self.country_image_suffix}"
-            img = ""
-            # auto-select
-            if (IMG_ROOT / FLAG_DIR / country_img).exists():
-                img = country_img
-
-            return img
-
-        def image_special(self) -> str:
-            domain = self.host.removeprefix("www.") if self.host else ""
-            img = domain_to_image.get(domain, "")
-
-            # check sous-domaine
-            if not img and domain.count(".") >= 2:
-                domain = domain.partition(".")[-1]
-                img = domain_to_image.get(domain, "")
-
-            return img
-
-        def image_name(self) -> str:
-            return image_special(self) or image_country(self)
-
-        img = image_name(self)
+    @property
+    def image(self) -> Image | None:
+        img = self._image_domain() or self._image_country()
         if img:
             # cas spécial pour les drapeaux
             if img.endswith(self.country_image_suffix):
@@ -84,6 +83,25 @@ class HttpUrl(PydHttpUrl):
                 img_data = image_data.get(img, dict())
                 dir = SITE_DIR
 
-            img_dir = os_path.join("img", dir, img)
-            return Image(src=img_dir, **img_data)
+            return Image(src=dir / img, **img_data)
         return None
+
+    def _image_country(self) -> str:
+        country_img = f"{self.tld}{self.country_image_suffix}"
+        img = ""
+        # auto-select
+        if (FLAG_DIR / country_img).exists():
+            img = country_img
+
+        return img
+
+    def _image_domain(self) -> str:
+        domain = self.host.removeprefix("www.") if self.host else ""
+        img = self.domain_to_image.get(domain, "")
+
+        # check sous-domaine
+        if not img and domain.count(".") >= 2:
+            domain = domain.partition(".")[-1]
+            img = self.domain_to_image.get(domain, "")
+
+        return img

@@ -5,9 +5,9 @@ from pathlib import Path
 from i18n import _g
 from models.utils import slugify
 
-STATIC_ROOT: Path = Path(os.path.join("docs", "static"))
-IMG_ROOT: Path = STATIC_ROOT / "img"
 DB_PATH: Path = Path.cwd() / "db"
+FLAG_DIR: Path = Path("img") / "flags"
+SITE_DIR: Path = Path("img") / "sites"
 
 
 class TranslationStateEnum(enum.StrEnum):
@@ -138,38 +138,6 @@ class CategoryEnum(enum.StrEnum):
     def values(cls) -> list[str]:
         return [cat.value for cat in cls]
 
-
-FLAG_DIR = "flags"
-SITE_DIR = "sites"
-
-domain_to_image: dict[str, str] = {
-    "artisans-corner.com": "artisans-32.avif",
-    "baldursgateworld.fr": "logocc.png",
-    "anomaly-studios.fr": "logocc.png",
-    # "baldursgatemods.com": "teambg.png",
-    "downloads.chosenofmystra.net": "teambg.png",
-    "beamdog.com": "beamdog.png",
-    "blackwyrmlair.net": "bwl.gif",
-    "gibberlings3.net": "g3icon-32.avif",
-    "github.com": "github-32.png",
-    "github.io": "github-32.png",
-    # "havredest.eklablog.fr": "luren.avif",
-    "pocketplane.net": "ppg-32.jpg",
-    "mediafire.com": "mediafire.png",
-    "nexusmods.com": "nexus-32.png",
-    "reddit.com": "reddit_76.png",
-    "sasha-altherin.webs.com": "ab-logo-32.jpg",
-    "sentrizeal.com": "sentrizeal.ico",
-    "shsforums.net": "shs_reskit-32.avif",
-    "spellholdstudios.net": "shs_reskit-32.avif",
-    "bgforge.net": "bgforge.svg",
-    "sorcerers.net": "sorcerer-32.avif",
-    "sourceforge.net": "sf.png",
-    "weaselmods.net": "weasel-32.png",
-    "weidu.org": "weidu.ico",
-    "clandlan.net": "sp-flag-32.png",
-    "trow.cc": "trow-32.png",
-}
 
 image_data: dict[str, dict[str, str | int]] = {
     "artisans-32.avif": {"title": "The Artisan Corner", "width": 32, "height": 32},
