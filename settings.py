@@ -159,10 +159,10 @@ class DomainImageEnum(StrEnum):
     TROW = "trow-32.png"
     WEASEL = "weasel-32.png"
     WEIDU = "weidu.ico"
-    FLAG = "-flag-32.png"
+    COUNTRY_FLAG = "-flag-32.png"
 
 
-image_data: dict[DomainImageEnum, dict[str, str | int]] = {
+image_data: dict[DomainImageEnum | str, dict[str, str | int]] = {
     DomainImageEnum.ARTISAN: {"title": "The Artisan Corner", "width": 32, "height": 32},
     DomainImageEnum.BEAMDOG: {"title": "Beamdog", "width": 32, "height": 32},
     DomainImageEnum.BGFORGE: {"title": "BG Forge", "width": 32, "height": 32},
@@ -183,7 +183,7 @@ image_data: dict[DomainImageEnum, dict[str, str | int]] = {
     DomainImageEnum.TROW: {"title": "The Ring of Wonder", "width": 32, "height": 32},
     DomainImageEnum.WEASEL: {"title": "Weasel Mods", "width": 32, "height": 32},
     DomainImageEnum.WEIDU: {"title": "WeiDU", "width": 16, "height": 16},
-    DomainImageEnum.FLAG: {"title": "Mod %s", "width": 32, "height": 21},
+    DomainImageEnum.COUNTRY_FLAG: {"title": "Mod %s", "width": 32, "height": 21},
 }
 
 

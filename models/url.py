@@ -16,9 +16,7 @@ class Image:
 
 
 class HttpUrl(PydHttpUrl):
-    country_image_suffix: str = "-flag-32.png"
-
-    domain_to_image: dict[str, str] = {
+    domain_to_image: dict[str, DomainImageEnum] = {
         "artisans-corner.com": DomainImageEnum.ARTISAN,
         "baldursgateworld.fr": DomainImageEnum.CC,
         "anomaly-studios.fr": DomainImageEnum.CC,
@@ -68,23 +66,25 @@ class HttpUrl(PydHttpUrl):
     @property
     def image(self) -> Image | None:
         img = self._image_domain() or self._image_country()
-        if img:
-            # cas spécial pour les drapeaux
-            if img.endswith(self.country_image_suffix):
-                img_data = image_data[self.country_image_suffix].copy()
-                img_data["title"] = str(img_data["title"]) % img.removesuffix(
-                    self.country_image_suffix
-                )
-                dir = FLAG_DIR
-            else:
-                img_data = image_data.get(img, dict())
-                dir = SITE_DIR
+        if not img:
+            return None
 
-            return Image(src=dir / img, **img_data)
-        return None
+        # cas spécial pour les drapeaux
+        country_flag = DomainImageEnum.COUNTRY_FLAG
+        if img.endswith(country_flag):
+            flag_img_data = image_data[country_flag].copy()
+            flag_img_data["title"] = str(flag_img_data["title"]) % img.removesuffix(
+                country_flag
+            )
+            img_dir = FLAG_DIR
+        else:
+            flag_img_data = image_data.get(img, dict())
+            img_dir = SITE_DIR
+
+        return Image(src=img_dir / img, **flag_img_data)
 
     def _image_country(self) -> str:
-        country_img = f"{self.tld}{self.country_image_suffix}"
+        country_img = f"{self.tld}{DomainImageEnum.COUNTRY_FLAG}"
         img = ""
         # auto-select
         if (FLAG_DIR / country_img).exists():
