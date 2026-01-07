@@ -33,7 +33,6 @@ class HttpUrl(PydHttpUrl):
         "mediafire.com": DomainImageEnum.MEDIAFIRE,
         "nexusmods.com": DomainImageEnum.NEXUS,
         "reddit.com": DomainImageEnum.REDDIT,
-        "sasha-altherin.webs.com": DomainImageEnum.AB,
         "sentrizeal.com": DomainImageEnum.SENTRIZEAL,
         "shsforums.net": DomainImageEnum.SHS,
         "spellholdstudios.net": DomainImageEnum.SHS,
@@ -42,7 +41,6 @@ class HttpUrl(PydHttpUrl):
         "sourceforge.net": DomainImageEnum.SF,
         "weaselmods.net": DomainImageEnum.WEASEL,
         "weidu.org": DomainImageEnum.WEIDU,
-        "clandlan.net": "sp-flag-DomainImageEnum.png",
         "trow.cc": DomainImageEnum.TROW,
     }
 
