@@ -1,5 +1,4 @@
-import enum
-import os
+from enum import StrEnum
 from pathlib import Path
 
 from i18n import _g
@@ -10,7 +9,7 @@ FLAG_DIR: Path = Path("img") / "flags"
 SITE_DIR: Path = Path("img") / "sites"
 
 
-class TranslationStateEnum(enum.StrEnum):
+class TranslationStateEnum(StrEnum):
     TODO = "todo"
     NO = "no"
     WIP = "wip"
@@ -68,7 +67,7 @@ attrs_icon_data: dict[str, dict[tuple, dict[str, str]]] = {
 }
 
 
-class GameEnum(enum.StrEnum):
+class GameEnum(StrEnum):
     BG = "BG"
     TUTU = "Tutu"
     BG2 = "BG2"
@@ -112,7 +111,7 @@ class GameEnum(enum.StrEnum):
         return cls.BG_EE() + cls.IWD_EE() + (cls.PSTEE,)
 
 
-class CategoryEnum(enum.StrEnum):
+class CategoryEnum(StrEnum):
     FIX = _g("Patch non officiel")
     TOOL = _g("Utilitaire")
     CONVERSION = _g("Conversion")
@@ -139,30 +138,54 @@ class CategoryEnum(enum.StrEnum):
         return [cat.value for cat in cls]
 
 
-image_data: dict[str, dict[str, str | int]] = {
-    "artisans-32.avif": {"title": "The Artisan Corner", "width": 32, "height": 32},
-    "logocc.png": {"title": "La Courrone de Cuivre", "width": 32, "height": 32},
-    "teambg.png": {"title": "TeamBG", "width": 32, "height": 13},
-    "beamdog.png": {"title": "Beamdog", "width": 32, "height": 32},
-    "bwl.gif": {"title": "The Black Wyrm's Lair", "width": 32, "height": 29},
-    "g3icon-32.avif": {"title": "Gibberlings3", "width": 32, "height": 32},
-    "github-32.png": {"title": "GitHub", "width": 32, "height": 32},
-    # TODO: raccourcir cet icône
-    # "luren.avif": {"title": "Retour à Havredest", "width": 78},
-    "ppg-32.jpg": {"title": "Pocket Plane Group", "width": 32, "height": 32},
-    "mediafire.png": {"title": "Mediafire", "width": 32, "height": 32},
-    "nexus-32.png": {"title": "Nexus Mods", "width": 32, "height": 32},
-    "reddit_76.png": {"title": "Reddit", "width": 32, "height": 32},
-    "ab-logo-32.jpg": {"title": "AB aka Sasha al'Therin", "width": 32, "height": 24},
-    "sentrizeal.ico": {"title": "Sentrizeal", "width": 16, "height": 16},
-    "shs_reskit-32.avif": {"title": "Spellhold Studios", "width": 32, "height": 32},
-    "sorcerer-32.avif": {"title": "Sorcerer's Place", "width": 32, "height": 32},
-    "sf.png": {"title": "SourceForge", "width": 32, "height": 32},
-    "weasel-32.png": {"title": "Weasel Mods", "width": 32, "height": 32},
-    "weidu.ico": {"title": "WeiDU", "width": 16, "height": 16},
-    "bgforge.svg": {"title": "BG Forge", "width": 32, "height": 32},
-    "-flag-32.png": {"title": "Mod %s", "width": 32, "height": 21},
-    "trow-32.png": {"title": "The Ring of Wonder", "width": 32, "height": 32},
+class DomainImageEnum(StrEnum):
+    AB = "ab-logo-32.avif"
+    ARTISAN = "artisans-32.avif"
+    BEAMDOG = "beamdog.png"
+    BGFORGE = "bgforge.svg"
+    BWL = "bwl.gif"
+    CC = "logocc.png"
+    GH = "github-32.png"
+    GIBBER = "g3icon-32.avif"
+    HAVREDEST = "luren.avif"
+    MEDIAFIRE = "mediafire.png"
+    NEXUS = "nexus-32.png"
+    PPG = "ppg-32.jpg"
+    REDDIT = "reddit_76.png"
+    SENTRIZEAL = "sentrizeal.ico"
+    SHS = "shs_reskit-32.avif"
+    SORCERER = "sorcerer-32.avif"
+    SF = "sf.png"
+    TEAMBG = "teambg.png"
+    TROW = "trow-32.png"
+    WEASEL = "weasel-32.png"
+    WEIDU = "weidu.ico"
+    FLAG = "-flag-32.png"
+
+
+image_data: dict[DomainImageEnum, dict[str, str | int]] = {
+    DomainImageEnum.AB: {"title": "AB aka Sasha al'Therin", "width": 32, "height": 24},
+    DomainImageEnum.ARTISAN: {"title": "The Artisan Corner", "width": 32, "height": 32},
+    DomainImageEnum.BEAMDOG: {"title": "Beamdog", "width": 32, "height": 32},
+    DomainImageEnum.BGFORGE: {"title": "BG Forge", "width": 32, "height": 32},
+    DomainImageEnum.BWL: {"title": "The Black Wyrm's Lair", "width": 32, "height": 29},
+    DomainImageEnum.CC: {"title": "La Courrone de Cuivre", "width": 32, "height": 32},
+    DomainImageEnum.GIBBER: {"title": "Gibberlings3", "width": 32, "height": 32},
+    DomainImageEnum.GH: {"title": "GitHub", "width": 32, "height": 32},
+    # DomainImageEnum.HAVREDEST: {"title": "Retour à Havredest", "width": 78},
+    DomainImageEnum.MEDIAFIRE: {"title": "Mediafire", "width": 32, "height": 32},
+    DomainImageEnum.NEXUS: {"title": "Nexus Mods", "width": 32, "height": 32},
+    DomainImageEnum.PPG: {"title": "Pocket Plane Group", "width": 32, "height": 32},
+    DomainImageEnum.REDDIT: {"title": "Reddit", "width": 32, "height": 32},
+    DomainImageEnum.SENTRIZEAL: {"title": "Sentrizeal", "width": 16, "height": 16},
+    DomainImageEnum.SHS: {"title": "Spellhold Studios", "width": 32, "height": 32},
+    DomainImageEnum.SORCERER: {"title": "Sorcerer's Place", "width": 32, "height": 32},
+    DomainImageEnum.SF: {"title": "SourceForge", "width": 32, "height": 32},
+    DomainImageEnum.TEAMBG: {"title": "TeamBG", "width": 32, "height": 13},
+    DomainImageEnum.TROW: {"title": "The Ring of Wonder", "width": 32, "height": 32},
+    DomainImageEnum.WEASEL: {"title": "Weasel Mods", "width": 32, "height": 32},
+    DomainImageEnum.WEIDU: {"title": "WeiDU", "width": 16, "height": 16},
+    DomainImageEnum.FLAG: {"title": "Mod %s", "width": 32, "height": 21},
 }
 
 

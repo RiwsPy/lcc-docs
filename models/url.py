@@ -3,7 +3,7 @@ from pathlib import Path
 
 from pydantic import HttpUrl as PydHttpUrl
 
-from settings import FLAG_DIR, SITE_DIR, image_data
+from settings import FLAG_DIR, SITE_DIR, DomainImageEnum, image_data
 
 
 @dataclass(slots=True, kw_only=True)
@@ -19,32 +19,31 @@ class HttpUrl(PydHttpUrl):
     country_image_suffix: str = "-flag-32.png"
 
     domain_to_image: dict[str, str] = {
-        "artisans-corner.com": "artisans-32.avif",
-        "baldursgateworld.fr": "logocc.png",
-        "anomaly-studios.fr": "logocc.png",
-        # "baldursgatemods.com": "teambg.png",
-        "downloads.chosenofmystra.net": "teambg.png",
-        "beamdog.com": "beamdog.png",
-        "blackwyrmlair.net": "bwl.gif",
-        "gibberlings3.net": "g3icon-32.avif",
-        "github.com": "github-32.png",
-        "github.io": "github-32.png",
-        # "havredest.eklablog.fr": "luren.avif",
-        "pocketplane.net": "ppg-32.jpg",
-        "mediafire.com": "mediafire.png",
-        "nexusmods.com": "nexus-32.png",
-        "reddit.com": "reddit_76.png",
-        "sasha-altherin.webs.com": "ab-logo-32.jpg",
-        "sentrizeal.com": "sentrizeal.ico",
-        "shsforums.net": "shs_reskit-32.avif",
-        "spellholdstudios.net": "shs_reskit-32.avif",
-        "bgforge.net": "bgforge.svg",
-        "sorcerers.net": "sorcerer-32.avif",
-        "sourceforge.net": "sf.png",
-        "weaselmods.net": "weasel-32.png",
-        "weidu.org": "weidu.ico",
-        "clandlan.net": "sp-flag-32.png",
-        "trow.cc": "trow-32.png",
+        "artisans-corner.com": DomainImageEnum.ARTISAN,
+        "baldursgateworld.fr": DomainImageEnum.CC,
+        "anomaly-studios.fr": DomainImageEnum.CC,
+        "downloads.chosenofmystra.net": DomainImageEnum.TEAMBG,
+        "beamdog.com": DomainImageEnum.BEAMDOG,
+        "blackwyrmlair.net": DomainImageEnum.BWL,
+        "gibberlings3.net": DomainImageEnum.GIBBER,
+        "github.com": DomainImageEnum.GH,
+        "github.io": DomainImageEnum.GH,
+        # "havredest.eklablog.fr": DomainImageEnum.HAVREDEST,
+        "pocketplane.net": DomainImageEnum.PPG,
+        "mediafire.com": DomainImageEnum.MEDIAFIRE,
+        "nexusmods.com": DomainImageEnum.NEXUS,
+        "reddit.com": DomainImageEnum.REDDIT,
+        "sasha-altherin.webs.com": DomainImageEnum.AB,
+        "sentrizeal.com": DomainImageEnum.SENTRIZEAL,
+        "shsforums.net": DomainImageEnum.SHS,
+        "spellholdstudios.net": DomainImageEnum.SHS,
+        "bgforge.net": DomainImageEnum.BGFORGE,
+        "sorcerers.net": DomainImageEnum.SORCERER,
+        "sourceforge.net": DomainImageEnum.SF,
+        "weaselmods.net": DomainImageEnum.WEASEL,
+        "weidu.org": DomainImageEnum.WEIDU,
+        "clandlan.net": "sp-flag-DomainImageEnum.png",
+        "trow.cc": DomainImageEnum.TROW,
     }
 
     @property
