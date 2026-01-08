@@ -126,7 +126,7 @@ class Mod:
 
         return icons
 
-    def convert_txt(self, txt: str, mod_id_to_name: dict | None = None) -> str:
+    def convert_txt(self, txt: str, mod_id_to_name: dict[int, str] | None = None) -> str:
         return self._convert_quote(
             self._convert_pipe(self._convert_link(txt, mod_id_to_name=mod_id_to_name))
         )
@@ -140,11 +140,11 @@ class Mod:
 
         return quoted_txt
 
-    def _convert_link(self, txt: str, mod_id_to_name: dict | None = None) -> str:
+    def _convert_link(self, txt: str, mod_id_to_name: dict[int, str] | None = None) -> str:
         linked_txt = txt
         for link in link_regex.findall(txt):
             mod_id = link.strip("[] ")
-            url = self.get_internal_link(mod_id, mod_id_to_name)
+            url = self.get_internal_link(int(mod_id), mod_id_to_name)
             linked_txt = linked_txt.replace(link, url)
         for link in external_link_regex.findall(linked_txt):
             name, url = link
@@ -157,7 +157,7 @@ class Mod:
     def _convert_pipe(self, txt: str) -> str:
         return txt.replace("|", "<br/>")
 
-    def get_description(self, mod_id_to_name: dict | None = None) -> str:
+    def get_description(self, mod_id_to_name: dict[int, str] | None = None) -> str:
         return self.convert_txt(self.description, mod_id_to_name=mod_id_to_name)
 
     @property
@@ -194,7 +194,7 @@ class Mod:
             )
         )
 
-    def get_auto_notes(self, mod_id_to_name: dict | None = None) -> list[str]:
+    def get_auto_notes(self, mod_id_to_name: dict[int, str] | None = None) -> list[str]:
         auto_notes = list()
 
         # Don't download files directly
@@ -265,17 +265,17 @@ class Mod:
         return auto_notes
 
     @staticmethod
-    def get_internal_link(mod_id: str | int, mod_id_to_name: dict | None) -> str:
-        if isinstance(mod_id, str) and not mod_id.isnumeric():  # eg: ToB, no change
+    def get_internal_link(mod_id: str | int, mod_id_to_name: dict[int, str] | None) -> str:
+        if type(mod_id) is str:  # eg: ToB, no change
             return mod_id
-        elif mod_id_to_name is None:
-            mod_name = mod_id
+        elif mod_id_to_name is not None and type(mod_id) is int:
+            mod_name = mod_id_to_name.get(mod_id, mod_id)
         else:
-            mod_name = mod_id_to_name.get(str(mod_id), mod_id)
+            mod_name = mod_id
 
         return f'<a href="#m{mod_id}">{mod_name}</a>'
 
-    def get_notes(self, mod_id_to_name: dict | None = None) -> list[str]:
+    def get_notes(self, mod_id_to_name: dict[int, str] | None = None) -> list[str]:
         return [
             self.convert_txt(note, mod_id_to_name=mod_id_to_name)
             for note in self.notes + self.get_auto_notes(mod_id_to_name=mod_id_to_name)

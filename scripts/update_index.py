@@ -57,7 +57,7 @@ def main(**kwargs):
 
             mods.sort(key=lambda x: x.name.lower())
 
-            mod_id_to_name = {str(mod.id): mod.name for mod in mods}
+            mod_id_to_name = {mod.id: mod.name for mod in mods}
 
             categories_mod = {cat: list() for cat in CategoryEnum}
             for mod in mods:
