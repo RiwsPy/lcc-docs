@@ -6632,10 +6632,11 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+			"cn"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "Brislelick"
     },
@@ -14227,10 +14228,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+			"cn"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "Gahesh"
     },
@@ -39213,7 +39215,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "Varshoon"
     },
@@ -39307,7 +39309,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "VerrBG2"
     },
@@ -39340,7 +39342,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "verrsza"
     },
