@@ -85,11 +85,15 @@ class Mod:
         raise ValueError(f"Date not possible, must be between 1999-01 and {current_date}")
 
     @property
-    def translation_state_auto(self) -> str:
-        if self.translation_state == "auto":
+    def translation_state_auto(self) -> TranslationStateEnum:
+        if self.translation_state == TranslationStateEnum.AUTO:
             if not self.languages:
-                return "todo"
-            return "yes" if current_language() in self.languages else "no"
+                return TranslationStateEnum.TODO
+            return (
+                TranslationStateEnum.YES
+                if current_language() in self.languages
+                else TranslationStateEnum.NO
+            )
         return self.translation_state
 
     @property
