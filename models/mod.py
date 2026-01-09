@@ -243,7 +243,7 @@ class Mod:
         # check language
         if (
             self.languages
-            and self.translation_state_auto != "n/a"
+            and self.translation_state_auto != TranslationStateEnum.NA
             and current_language() not in self.languages
         ):
             country_flags = ""
