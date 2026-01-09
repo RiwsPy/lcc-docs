@@ -269,7 +269,9 @@ class Mod:
         return auto_notes
 
     @staticmethod
-    def get_internal_link(mod_id: str | int, mod_id_to_name: dict[int, str] | None) -> str:
+    def get_internal_link(
+        mod_id: str | int, mod_id_to_name: dict[int, str] | None = None
+    ) -> str:
         if type(mod_id) is str:  # eg: ToB, no change
             return mod_id
         elif mod_id_to_name is not None and type(mod_id) is int:
