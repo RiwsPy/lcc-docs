@@ -29,6 +29,11 @@ def create_mod_instance(**kwargs):
     return Mod(**(mod_kwargs | kwargs))
 
 
+@pytest.fixture
+def mod(**kwargs):
+    return create_mod_instance(**kwargs)
+
+
 class TestMod:
     def test_mod_base(self):
         create_mod_instance()
@@ -76,8 +81,7 @@ class TestMod:
 
         assert mod.is_weidu is expected_value
 
-    def test_mod_get_urls(self):
-        mod = create_mod_instance()
+    def test_mod_get_urls(self, mod):
         expected_value = mod.urls
 
         assert mod.get_urls() == expected_value
@@ -88,25 +92,74 @@ class TestMod:
 
         assert mod.get_urls() == expected_value
 
-    def test_mod__convert_quote_base(self):
-        mod = create_mod_instance()
+    def test_mod__convert_quote_base(self, mod):
         source_value = "Convert nothing."
 
         assert mod._convert_quote(source_value) == source_value
 
-    def test_mod__convert_quote_convert(self):
-        mod = create_mod_instance()
+    def test_mod__convert_quote_convert(self, mod):
         source_value = "Convert `quote`."
         expected_value = 'Convert <span class="quote">quote</span>.'
 
         assert mod._convert_quote(source_value) == expected_value
 
-    def test_mod__convert_pipe_convert(self):
-        mod = create_mod_instance()
+    def test_mod__convert_pipe_convert(self, mod):
         source_value = "Pipe|Pipe"
         expected_value = "Pipe<br/>Pipe"
 
         assert mod._convert_pipe(source_value) == expected_value
 
-    # TODO: convert link
+    def test_mod_internal_link(self):
+        mod = create_mod_instance(id=1, name="Toto")
+        source_value = "[[1]]"
+        expected_value = '<a href="#m1">Toto</a>'
+
+        assert mod._convert_link(source_value, mod_id_to_name={1: "Toto"}) == expected_value
+
+    def test_mod_internal_link_multiple(self):
+        mod = create_mod_instance(id=1, name="Toto")
+        source_value = "[[1]] some text [[1]]."
+        expected_value = '<a href="#m1">Toto</a> some text <a href="#m1">Toto</a>.'
+
+        assert mod._convert_link(source_value, mod_id_to_name={1: "Toto"}) == expected_value
+
+    def test_mod_internal_link_no_mod_id_to_name(self):
+        mod = create_mod_instance(id=1, name="Toto")
+        source_value = "[[1]]"
+        expected_value = '<a href="#m1">1</a>'
+
+        assert mod._convert_link(source_value, mod_id_to_name=dict()) == expected_value
+
+    def test_mod_internal_link_one_bracket(self):
+        mod = create_mod_instance(id=1, name="Toto")
+        source_value = "[[1]"
+        expected_value = "[[1]"
+
+        assert mod._convert_link(source_value) == expected_value
+
+    def test_mod_external_link(self):
+        mod = create_mod_instance(id=1, name="Toto")
+        source_value = "[Toto](toto.com)"
+        expected_value = '<a href="toto.com" target="_blank">Toto</a>'
+
+        assert mod._convert_link(source_value) == expected_value
+
+    def test_mod_get_internal_link(self, mod):
+        source_value = 1
+        expected_value = '<a href="#m1">Toto</a>'
+
+        assert mod.get_internal_link(source_value, mod_id_to_name={1: "Toto"}) == expected_value
+
+    def test_mod_get_internal_link_no_mod_id_to_name(self, mod):
+        source_value = 1
+        expected_value = '<a href="#m1">1</a>'
+
+        assert mod.get_internal_link(source_value, mod_id_to_name=dict()) == expected_value
+
+    def test_mod_get_internal_link_str(self, mod):
+        source_value = "ToB"
+        expected_value = "ToB"
+
+        assert mod.get_internal_link(source_value) == expected_value
+
     # TODO: others
