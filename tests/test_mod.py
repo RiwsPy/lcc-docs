@@ -116,6 +116,13 @@ class TestMod:
 
         assert mod._convert_link(source_value, mod_id_to_name={1: "Toto"}) == expected_value
 
+    def test_mod_internal_link_str_type(self):
+        mod = create_mod_instance(id=1, name="Toto")
+        source_value = "[[Toto]]"
+        expected_value = "[[Toto]]"
+
+        assert mod._convert_link(source_value) == expected_value
+
     def test_mod_internal_link_multiple(self):
         mod = create_mod_instance(id=1, name="Toto")
         source_value = "[[1]] some text [[1]]."

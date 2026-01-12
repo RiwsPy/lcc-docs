@@ -148,8 +148,14 @@ class Mod:
         linked_txt = txt
         for link in link_regex.findall(txt):
             mod_id = link.strip("[] ")
-            url = self.get_internal_link(int(mod_id), mod_id_to_name)
-            linked_txt = linked_txt.replace(link, url)
+            try:
+                mod_id = int(mod_id)
+            except ValueError:
+                # no change
+                pass
+            else:
+                url = self.get_internal_link(mod_id, mod_id_to_name)
+                linked_txt = linked_txt.replace(link, url)
         for link in external_link_regex.findall(linked_txt):
             name, url = link
             linked_txt = linked_txt.replace(
