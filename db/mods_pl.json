@@ -2243,8 +2243,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Certains modules requièrent [[348]]."
+            ]
         }
     },
     {
@@ -2665,10 +2667,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Bien que fonctionnel sous BG2 et BG2EE, il n'a aucun contenu."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {

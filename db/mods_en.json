@@ -2340,8 +2340,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Certains modules requièrent [[348]]."
+            ]
         }
     },
     {
@@ -2782,14 +2784,10 @@
             "status": "needs_review",
             "source": "Ce mod ajoute un PNJ recrutable pour toute la saga Baldur's Gate. Il est nativement compatible avec BG:EE, SoD, BGII, BGT, BG2:EE et EET. Pour l'instant, seul le contenu BG1 du mod est terminé.|C'est un mage chaotique bon que vous trouverez sur la Côte des Épées, recherchant de l'aide pour combattre un ogre afin de récupérer ses biens. Selon qu'il se trouve ou non dans le groupe lorsque Mélicamp est amené à Thalantyr, il aura une quête supplémentaire qui l'écartera du groupe pendant un certain temps. Brandock est très intéressé par les livres de magie. Chaque fois qu'il a le temps d'étudier les livres de magie que le groupe rencontre dans le jeu, cela augmente son score de connaissance. Il est amical et serviable, mais il faudra un peu de temps avant qu'il s'ouvre et dise au PC d'où il vient, pour des raisons qu'il expliquera volontiers lorsqu'il sera prêt à le faire.|Si votre groupe comprend déjà 6 membres, il pourra vous rejoindre comme \"7eme membre\" et vous suivra à la manière d'un familier.|FOR 15, DEX 13, CON 13, INT 18, SAG 12, CHA 13."
         },
-        "notes": [
-            "Although functional in BG2 and BG2EE, it has no content."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Bien que fonctionnel sous BG2 et BG2EE, il n'a aucun contenu."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {

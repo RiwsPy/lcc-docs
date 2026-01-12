@@ -828,7 +828,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "AjantisBG1"
     },
@@ -972,7 +972,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "AlabasterSands"
     },
@@ -2833,7 +2833,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Aura_BG1_2_EET"
     },
@@ -3014,7 +3014,11 @@
         ],
         "status": "wip",
         "last_update": "2025-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "tobaurora"
     },
     {
@@ -4352,7 +4356,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2021-06",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "BGEEClassicMovies"
     },
@@ -5422,14 +5426,16 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Certains modules requièrent [[348]]."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
             "en"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "BardicWonders"
     },
@@ -6426,9 +6432,7 @@
             "jastey"
         ],
         "team": [],
-        "notes": [
-            "Bien que fonctionnel sous BG2 et BG2EE, il n'a aucun contenu."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -6437,7 +6441,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "c#brandock"
     },
@@ -6633,7 +6637,7 @@
         "safe": 2,
         "languages": [
             "en",
-			"cn"
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-12",
@@ -6764,10 +6768,11 @@
         "translation_state": "n/a",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "es"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "AutoLoot"
     },
@@ -8640,7 +8645,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "correctfrbg2ee"
     },
@@ -9507,7 +9512,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "DarkHorizons"
     },
@@ -9626,7 +9631,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Tidings"
     },
@@ -11641,7 +11646,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {
             "incompatible_with": [
                 1410
@@ -13970,7 +13975,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Foundling"
     },
@@ -14229,7 +14234,7 @@
         "languages": [
             "en",
             "ru",
-			"cn"
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-12",
@@ -14345,6 +14350,7 @@
         "games": [
             "BGT",
             "BGEE",
+            "BG2EE",
             "EET"
         ],
         "authors": [
@@ -14363,7 +14369,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-02",
+        "last_update": "2025-12",
         "compatibilities": {
             "incompatible_with": [
                 432,
@@ -14582,7 +14588,7 @@
             "fr",
             "it",
             "pl",
-            "pt"
+            "br"
         ],
         "status": "active",
         "last_update": "2024-11",
@@ -16708,7 +16714,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "isnf"
     },
@@ -18119,7 +18125,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "InLoveUndeath"
     },
@@ -18150,7 +18156,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "Ina"
     },
@@ -18380,7 +18386,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "innershade"
     },
@@ -22070,7 +22076,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-12",
+        "last_update": "2025-12",
         "compatibilities": {
             "incompatible_with": [
                 521,
@@ -25703,7 +25709,7 @@
             "it"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "ooze"
     },
@@ -27501,7 +27507,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "PPE"
     },
@@ -27946,7 +27952,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Quayle"
     },
@@ -30919,7 +30925,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "SotSC"
     },
@@ -30979,7 +30985,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "shadowadept"
     },
@@ -31871,7 +31877,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-01",
         "compatibilities": {
             "incompatible_with": [
                 961
@@ -32018,7 +32024,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "SkitiaNPCs"
     },
@@ -32245,7 +32251,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-03",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Snowytoes"
     },
@@ -32558,7 +32564,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "southernedge"
     },
@@ -34085,10 +34091,11 @@
             "pl",
             "de",
             "it",
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2018-11",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "toa"
     },
@@ -34126,7 +34133,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "totdg"
     },
@@ -34227,7 +34234,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "TangledIsle"
     },
@@ -35131,7 +35138,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "BridgesBlock"
     },
@@ -35570,7 +35577,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "TGC1E"
     },
@@ -35739,7 +35746,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "WhinHill"
     },
@@ -35780,7 +35787,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "SirinesCall"
     },
@@ -36261,7 +36268,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "soa"
     },
@@ -36547,7 +36554,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "whitequeen"
     },
@@ -40517,7 +40524,7 @@
             "ru",
             "cn",
             "se",
-            "br"
+            "pt"
         ],
         "status": "active",
         "last_update": "2025-03",
@@ -40587,7 +40594,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "willowisp"
     },
@@ -42172,7 +42179,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2023-06",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "CluAreas"
     },
@@ -43298,7 +43305,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "WilsonChronicles"
     },
@@ -43707,7 +43714,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "BloodiedStingsOfBarovia"
     },
@@ -43743,7 +43750,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Loretakers"
     },
@@ -43968,7 +43975,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "Derats_Illo"
     },
@@ -44038,7 +44045,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "A7-WaresOfThePlanes"
     },
@@ -45149,7 +45156,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "zbpod"
     },
@@ -45334,7 +45341,8 @@
             "de",
             "cn",
             "ru",
-            "es"
+            "es",
+            "pt"
         ],
         "status": "active",
         "last_update": "2025-09",
@@ -45621,7 +45629,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -45690,7 +45698,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "lca"
     },
@@ -45826,7 +45834,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "JuniperAndTheStoneLeech"
     },
@@ -46485,7 +46493,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "ZSTweaks"
     },
@@ -46547,7 +46555,7 @@
             "en"
         ],
         "status": "archived",
-        "last_update": "2024-02",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "zgmagic"
     },
@@ -47063,7 +47071,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "mih_fr"
     },
@@ -47093,7 +47101,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2025-11",
         "compatibilities": {},
         "tp2": "mih_metamod"
     },
@@ -47321,7 +47329,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "ZS_ShadowdancerOverhaul"
     },
@@ -49329,7 +49337,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "ZS_CanIStabYou"
     },
@@ -49540,7 +49548,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "candlekeep_revisited"
     },
@@ -50339,7 +50347,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "bmpp"
     },
@@ -50440,10 +50448,11 @@
             "de",
             "it",
             "pl",
-            "cn"
+            "cn",
+            "pt"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "NWNForBG"
     },
@@ -53232,7 +53241,7 @@
             "pt"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "iwd2ee;iwd2ee_mod_compatibility_patch"
     },
@@ -57082,7 +57091,7 @@
             "pt"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "ThroneoftheMadGod"
     },
@@ -62196,7 +62205,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Artisans_MazzyRom"
     },
@@ -62254,7 +62263,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {
             "requires": [
                 982
