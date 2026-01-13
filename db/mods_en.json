@@ -8071,12 +8071,12 @@
             "source": "Ce mod rééquilibre les objets de différentes façons, et vous pouvez choisir de les installer ou non parmi une 20aine de composants. Attention, ce n'est pas noté dans le readme, mais le composant principal rend indisponible ou modifie l'emplacement de certains objets."
         },
         "notes": [
-            "Note: the GitHub version is more up-to-date than the G3 version."
+            "The subtledoctor version is more up-to-date than the G3 version."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Note : la version GitHub est plus à jour que celle de G3."
+                "La version de subtledoctor est plus à jour que celle de G3."
             ]
         }
     },
@@ -13667,12 +13667,16 @@
             "source": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ?|Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).|Forme humaine : FOR 16, DEX 12, CON 16, INT 15, SAG 10, CHA 15.|Forme draconique : FOR 20, DEX 12, CON 18, INT 15, SAG 10, CHA 15."
         },
         "notes": [
-            "Use the Beamdog link to download the version for EE games. The last link contains version 2.6 with Russian translation."
+            "Use the Beamdog link to download the version for EE games.",
+            "[This link](https://www.dropbox.com/s/mxavndwl5ptvshx/) contains the Russian translation.",
+            "[This link](https://github.com/MephistoSatanDevil/Sheena/) contains the Chinese translation (EE only)."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE. Le dernier lien contient la version 2.6 intégrant la traduction russe."
+                "Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE.",
+                "[Ce lien](https://www.dropbox.com/s/mxavndwl5ptvshx/) contient la traduction russe.",
+                "[Ce lien](https://github.com/MephistoSatanDevil/Sheena/) contient la traduction chinoise (EE uniquement)."
             ]
         }
     },
@@ -23009,12 +23013,14 @@
             "source": "Vous ne manquez jamais d'inclure Jan Jansen dans votre groupe. Vous vous délectez de ses répliques abracadabrantes, mais sa quête personnelle vous laisse sur votre faim. Vous avez envie de connaître la fin de l'histoire concernant l'ancienne compagne du voleur illusionniste le plus loufoque d'Athkatla, et de Vaelag, le mari violent de cette dernière ?|L'Extension de la quête de Jan propose une suite à cette quête originale sous la forme de deux très courtes missions agrémentées de dialogues typiques et de rencontres inopinées avec de nouveaux personnages secondaires. En trame de fond, le mod tente modestement de jeter un éclairage nouveau sur certaines des organisations les plus influentes de la cité.|Découvrez la fin de l'histoire sans avoir besoin de recommencer une partie. La difficulté du mod étant adaptée à des personnages de faible niveau, nous vous conseillons malgré tout d'en profiter sur une partie pas trop avancée.|Le mod comporte entre autres 2 nouvelles missions qui peuvent être faite dans l'ordre de votre choix et 2 nouvelles histoires de Jan."
         },
         "notes": [
-            "Another version is available (\"Jan's quest extension (Remix)\")."
+            "Another version is available ([[390]]).",
+            "A version without a .bat file is available via [this link](https://github.com/Plutonium-X/jans_unpacked/), making it possible to install it on mobile phones and tablets."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Une autre version est disponible ([[390]])."
+                "Une autre version est disponible ([[390]]).",
+                "Une version sans fichier .bat est disponible via [ce lien](https://github.com/Plutonium-X/jans_unpacked/), cela rend son installation possible sur mobile et tablette."
             ]
         }
     },
@@ -27505,6 +27511,187 @@
         "description_meta": {
             "status": "done",
             "source": "Une refonte modulaire de l'utilisation et de la maîtrise des armes. Ce mod offre un accès universel aux armes en permettant la configuration des niveaux minimums de maîtrise, de les limiter à certaines classes, de supprimer des restrictions de style de combat et de conserver les restrictions d'alignement."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1931,
+        "description": "Black Hearts is a quest mod for BG:EE that follows a storyline involving a character from Throne of Bhaal: Illasera, and a Red Wizard storyline involving a dangerous new ally who has joined Sarevok's cause. This mod repurposes fights from the Black Pits module, using those as a basis for various objectives given to players for the questline (with some modifications to them in many cases).",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Black Hearts est un mod de quête pour BG:EE qui suit une intrigue impliquant un personnage de Throne of Bhaal : Illasera, et une intrigue du Sorcier Rouge impliquant un nouvel allié dangereux qui a rejoint la cause de Sarevok. Ce mod reprend les combats du module Black Pits, en les utilisant comme base pour les différents objectifs donnés aux joueurs pour la quête (avec quelques variations dans de nombreux cas)."
+        },
+        "notes": [
+            "Included in [[1346]] by the same author."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Inclus dans [[1346]] du même auteur."
+            ]
+        }
+    },
+    {
+        "id": 1932,
+        "description": "Black Hearts is a quest mod for BG:EE. This patch modifies Illasera's dialogue in BG2.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Black Hearts est un mod de quête pour BG:EE, ce patch modifie le dialogue d'Illasera dans BG2."
+        },
+        "notes": [
+            "Included in [[1346]] by the same author."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Inclus dans [[1346]] du même auteur."
+            ]
+        }
+    },
+    {
+        "id": 1933,
+        "description": "This utility is a tool that allows you to find, for example, creatures with a weapon in their weapon slot but not equipped, or a creature with armor in a shield slot. The utility will search all creature files in the game and report errors in the DEBUG file.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Cet utilitaire est un outil qui permet de trouver, par exemple, les créatures ayant une arme dans leur emplacement d'arme mais ne l'étant pas équipées, ou une créature avec une armure dans un emplacement de bouclier. L'utilitaire recherchera tous les fichiers de créatures présents dans le jeu et signalera les erreurs dans le fichier DEBUG."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1934,
+        "description": "Translation aid tool for [[521]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Outil d'aide à la traduction pour [[521]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1935,
+        "description": "A small WeiDU mod that hides certain containers from players, making them detectable via find traps. A component proposes adding objects to it.",
+        "description_meta": {
+            "status": "done",
+            "source": "Un petit mod WeiDU qui cache certains conteneurs aux joueurs, les rendant détectables grâce à la détection de pièges. Un composant propose d'y ajouter des objets."
+        },
+        "notes": [
+            "Some files for BG2EE appear to be missing."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Certains fichiers pour BG2EE semblent manquer."
+            ]
+        }
+    },
+    {
+        "id": 1936,
+        "description": "A small tweak to make traps laid by Thieves' Set Snare ability resistable by immunity to normal weapons.|This modifies the effects on creatures, items, and spells that provide immunity to normal weapons to also provide immunity to the Thief snare ability.",
+        "description_meta": {
+            "status": "done",
+            "source": "Une petite modification pour rendre les pièges posés par la capacité « Pose de Piège » des voleurs résistants grâce à l'immunité aux armes normales. Cela modifie les effets sur les créatures, les objets et les sorts qui confèrent une immunité aux armes normales afin qu'ils confèrent également une immunité à la capacité « Pose de Piège » des voleurs."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1937,
+        "description": "This tool handles mass-manipulation of BAMs, a feature that other tools like [BAM Workshop](https://github.com/Sampsca/BAMWorkshop) and [[1865]] do not (currently) provide.",
+        "description_meta": {
+            "status": "done",
+            "source": "Cet outil permet la manipulation en masse des fichiers BAM, une fonctionnalité que d'autres outils tels que [BAM Workshop](https://github.com/Sampsca/BAMWorkshop) et [[1865]] ne proposent pas (pour l'instant)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1938,
+        "description": "The Far Realm is a plane of madness situated very far from the planes of the standard cosmology. This maddening realm has many alien and twisted inhabitants, some even as powerful as deities. Some shamans have a mythical connection that transcends the spirit world and allows them to extend their sight into the far corners of the cosmos. Of those that manage to retain their sanity a select few decide to embrace the maddening realm and harness its power for themselves.",
+        "description_meta": {
+            "status": "done",
+            "source": "Le Far Realm est un plan de folie situé très loin des plans de la cosmologie standard. Ce royaume démentiel compte de nombreux habitants étranges et tordus, certains aussi puissants que des divinités. Certains chamans ont un lien mythique qui transcende le monde des esprits et leur permet d'étendre leur vision aux confins du cosmos. Parmi ceux qui parviennent à conserver leur santé mentale, quelques-uns décident d'embrasser le royaume démentiel et d'exploiter son pouvoir à leur profit."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1939,
+        "description": "Stealth Walkers: companions of the shadows, these masters of concealment excel in the art of operating in the dark. Shaping events to their liking and striking only when the odds are most favourable: such is the true art of the stealth walker. Thanks to their cunning stratagems, extraordinary skills and mastery of deception and concealment, stealth walkers excel at theft, murder, espionage and assassination.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Les marcheurs furtifs : compagnons de l'ombre, ces maîtres de la dissimulation excellent dans l'art d'opérer dans l'ombre. Façonner les événements à leur guise et frapper uniquement lorsque les chances sont les plus favorables : tel est le véritable art du marcheur furtif. Grâce à leurs stratagèmes rusés, leurs compétences extraordinaires et leur maîtrise de la tromperie et de la dissimulation, les marcheurs furtifs excellent dans le vol, le meurtre, l'espionnage et l'assassinat."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1940,
+        "description": "Ideally it adds items to upgrade to or from.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Idéalement, il devrait permettre d'ajouter des objets à améliorer ou à partir desquels améliorer d'autres objets."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1941,
+        "description": "ItemDispatcher is a mod designed to enable flexible and customised item distribution. With this mod, you can specify targets, item types, and precise conditions for distribution, ensuring dynamic gameplay tailored to your needs.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "ItemDispatcher est un mod conçu pour permettre la distribution d'objets de manière flexible et personnalisée. Grâce à ce mod, vous pouvez spécifier des cibles, des types d'objets et des conditions précises pour la distribution, assurant un gameplay dynamique et adapté à vos besoins."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1942,
+        "description": "This mod restores the PC's class/kit if he has fallen as a Ranger or Paladin. The reputation of the party is simultaneously raised to 10 if it is lower than 10.|This is a cheat mod to revers and unwanted oversight. It is meant not to be installed until you want to correct a fallen ranger/paladin PC in your game.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod restaure la classe/le kit du personnage s'il est déchu en tant que rôdeur ou paladin. La réputation du groupe est simultanément augmentée à 10 si elle est inférieure à 10. Il s'agit d'un mod de triche destiné à corriger une erreur indésirable. Il n'est pas destiné à être installé avant que vous ne souhaitiez corriger un personnage rôdeur/paladin déchu dans votre jeu."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1943,
+        "description": "QDSpontaneous is a library that allows Mage and Bard kits to cast spells spontaneously, like Sorcerers in the Enhanced Infinity Engine.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "QDSpontaneous est une bibliothèque qui permet aux kits Mage et Barde de lancer des sorts spontanément, comme les Sorciers."
         },
         "notes": [],
         "notes_meta": {

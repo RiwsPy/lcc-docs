@@ -8158,9 +8158,9 @@
             "注意：GitHub 版本比 G3 的版本更新。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Note : la version GitHub est plus à jour que celle de G3."
+                "La version de subtledoctor est plus à jour que celle de G3."
             ]
         }
     },
@@ -13785,9 +13785,11 @@
             "请使用 Beamdog 的链接来下载 EE 版的游戏。最后一个链接包含集成了俄语翻译的 2.6 版本。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE. Le dernier lien contient la version 2.6 intégrant la traduction russe."
+                "Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE.",
+                "[Ce lien](https://www.dropbox.com/s/mxavndwl5ptvshx/) contient la traduction russe.",
+                "[Ce lien](https://github.com/MephistoSatanDevil/Sheena/) contient la traduction chinoise (EE uniquement)."
             ]
         }
     },
@@ -23240,9 +23242,10 @@
             "另有可用版本（[[390]]）。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Une autre version est disponible ([[390]])."
+                "Une autre version est disponible ([[390]]).",
+                "Une version sans fichier .bat est disponible via [ce lien](https://github.com/Plutonium-X/jans_unpacked/), cela rend son installation possible sur mobile et tablette."
             ]
         }
     },
@@ -27748,6 +27751,181 @@
         "description_meta": {
             "status": "done",
             "source": "Une refonte modulaire de l'utilisation et de la maîtrise des armes. Ce mod offre un accès universel aux armes en permettant la configuration des niveaux minimums de maîtrise, de les limiter à certaines classes, de supprimer des restrictions de style de combat et de conserver les restrictions d'alignement."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1931,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Black Hearts est un mod de quête pour BG:EE qui suit une intrigue impliquant un personnage de Throne of Bhaal : Illasera, et une intrigue du Sorcier Rouge impliquant un nouvel allié dangereux qui a rejoint la cause de Sarevok. Ce mod reprend les combats du module Black Pits, en les utilisant comme base pour les différents objectifs donnés aux joueurs pour la quête (avec quelques variations dans de nombreux cas)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Inclus dans [[1346]] du même auteur."
+            ]
+        }
+    },
+    {
+        "id": 1932,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Black Hearts est un mod de quête pour BG:EE, ce patch modifie le dialogue d'Illasera dans BG2."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Inclus dans [[1346]] du même auteur."
+            ]
+        }
+    },
+    {
+        "id": 1933,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Cet utilitaire est un outil qui permet de trouver, par exemple, les créatures ayant une arme dans leur emplacement d'arme mais ne l'étant pas équipées, ou une créature avec une armure dans un emplacement de bouclier. L'utilitaire recherchera tous les fichiers de créatures présents dans le jeu et signalera les erreurs dans le fichier DEBUG."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1934,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Outil d'aide à la traduction pour [[521]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1935,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un petit mod WeiDU qui cache certains conteneurs aux joueurs, les rendant détectables grâce à la détection de pièges. Un composant propose d'y ajouter des objets."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Certains fichiers pour BG2EE semblent manquer."
+            ]
+        }
+    },
+    {
+        "id": 1936,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Une petite modification pour rendre les pièges posés par la capacité « Pose de Piège » des voleurs résistants grâce à l'immunité aux armes normales. Cela modifie les effets sur les créatures, les objets et les sorts qui confèrent une immunité aux armes normales afin qu'ils confèrent également une immunité à la capacité « Pose de Piège » des voleurs."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1937,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Cet outil permet la manipulation en masse des fichiers BAM, une fonctionnalité que d'autres outils tels que [BAM Workshop](https://github.com/Sampsca/BAMWorkshop) et [[1865]] ne proposent pas (pour l'instant)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1938,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Le Far Realm est un plan de folie situé très loin des plans de la cosmologie standard. Ce royaume démentiel compte de nombreux habitants étranges et tordus, certains aussi puissants que des divinités. Certains chamans ont un lien mythique qui transcende le monde des esprits et leur permet d'étendre leur vision aux confins du cosmos. Parmi ceux qui parviennent à conserver leur santé mentale, quelques-uns décident d'embrasser le royaume démentiel et d'exploiter son pouvoir à leur profit."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1939,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Les marcheurs furtifs : compagnons de l'ombre, ces maîtres de la dissimulation excellent dans l'art d'opérer dans l'ombre. Façonner les événements à leur guise et frapper uniquement lorsque les chances sont les plus favorables : tel est le véritable art du marcheur furtif. Grâce à leurs stratagèmes rusés, leurs compétences extraordinaires et leur maîtrise de la tromperie et de la dissimulation, les marcheurs furtifs excellent dans le vol, le meurtre, l'espionnage et l'assassinat."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1940,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Idéalement, il devrait permettre d'ajouter des objets à améliorer ou à partir desquels améliorer d'autres objets."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1941,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "ItemDispatcher est un mod conçu pour permettre la distribution d'objets de manière flexible et personnalisée. Grâce à ce mod, vous pouvez spécifier des cibles, des types d'objets et des conditions précises pour la distribution, assurant un gameplay dynamique et adapté à vos besoins."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1942,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod restaure la classe/le kit du personnage s'il est déchu en tant que rôdeur ou paladin. La réputation du groupe est simultanément augmentée à 10 si elle est inférieure à 10. Il s'agit d'un mod de triche destiné à corriger une erreur indésirable. Il n'est pas destiné à être installé avant que vous ne souhaitiez corriger un personnage rôdeur/paladin déchu dans votre jeu."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1943,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "QDSpontaneous est une bibliothèque qui permet aux kits Mage et Barde de lancer des sorts spontanément, comme les Sorciers."
         },
         "notes": [],
         "notes_meta": {

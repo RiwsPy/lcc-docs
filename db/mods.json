@@ -16982,7 +16982,8 @@
         "name": "IWD-in-BG2 Fixpack/Tweaks",
         "description": "Il s'agit du supplément de correctifs et d'ajustements indispensable au mod [[523]].|Il contient par ailleurs 11 PNJ recrutables, créés à partir des jeux de sons et des portraits du jeu existant. Ce sont des PNJ de base, à peu près au niveau des PNJ de BG1. En d'autres termes, ils disposent d'un dialogue de recrutement et de pas grand-chose d'autre, pas d'interactions, de romances, de quêtes ou autres.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/949-iwd-in-bg2-fixpacktweaks/"
+            "https://www.gibberlings3.net/files/file/949-iwd-in-bg2-fixpacktweaks/",
+            "https://github.com/Gibberlings3/IWD-in-BG2_Fixpack/"
         ],
         "categories": [
             "Patch non officiel",
@@ -18688,7 +18689,8 @@
         "description": "Ce mod rééquilibre les objets de différentes façons, et vous pouvez choisir de les installer ou non parmi une 20aine de composants. Attention, ce n'est pas noté dans le readme, mais le composant principal rend indisponible ou modifie l'emplacement de certains objets.",
         "urls": [
             "https://www.gibberlings3.net/files/file/969-item-revisions/",
-            "https://github.com/subtledoctor/ItemRevisions"
+            "https://github.com/Gibberlings3/ItemRevisions/",
+            "https://github.com/subtledoctor/ItemRevisions/"
         ],
         "categories": [
             "Sort et objet"
@@ -18708,7 +18710,7 @@
         ],
         "team": [],
         "notes": [
-            "Note : la version GitHub est plus à jour que celle de G3."
+            "La version de subtledoctor est plus à jour que celle de G3."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -31407,8 +31409,7 @@
         "description": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ?|Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).|Forme humaine : FOR 16, DEX 12, CON 16, INT 15, SAG 10, CHA 15.|Forme draconique : FOR 20, DEX 12, CON 18, INT 15, SAG 10, CHA 15.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/download.php",
-            "https://forums.beamdog.com/discussion/60784/",
-            "https://www.dropbox.com/s/mxavndwl5ptvshx/"
+            "https://forums.beamdog.com/discussion/60784/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -31425,7 +31426,9 @@
         ],
         "team": [],
         "notes": [
-            "Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE. Le dernier lien contient la version 2.6 intégrant la traduction russe."
+            "Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE.",
+            "[Ce lien](https://www.dropbox.com/s/mxavndwl5ptvshx/) contient la traduction russe.",
+            "[Ce lien](https://github.com/MephistoSatanDevil/Sheena/) contient la traduction chinoise (EE uniquement)."
         ],
         "translation_state": "auto",
         "safe": 1,
@@ -31433,8 +31436,7 @@
             "en",
             "fr",
             "es",
-            "cz",
-            "ru"
+            "cz"
         ],
         "status": "active",
         "last_update": "2018-01",
@@ -52781,7 +52783,8 @@
         ],
         "team": [],
         "notes": [
-            "Une autre version est disponible ([[390]])."
+            "Une autre version est disponible ([[390]]).",
+            "Une version sans fichier .bat est disponible via [ce lien](https://github.com/Plutonium-X/jans_unpacked/), cela rend son installation possible sur mobile et tablette."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -62733,5 +62736,405 @@
         "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "weapons_reforged"
+    },
+    {
+        "id": 1931,
+        "name": "Black Hearts BG1",
+        "description": "Black Hearts est un mod de quête pour BG:EE qui suit une intrigue impliquant un personnage de Throne of Bhaal : Illasera, et une intrigue du Sorcier Rouge impliquant un nouvel allié dangereux qui a rejoint la cause de Sarevok. Ce mod reprend les combats du module Black Pits, en les utilisant comme base pour les différents objectifs donnés aux joueurs pour la quête (avec quelques variations dans de nombreux cas).",
+        "urls": [
+            "https://github.com/A-Wizard-Did-It/Black-Hearts-BG1/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "AWizardDidIt"
+        ],
+        "team": [],
+        "notes": [
+            "Inclus dans [[1346]] du même auteur."
+        ],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "embed",
+        "last_update": "2023-01",
+        "compatibilities": {},
+        "tp2": "Blackhearts_BG1"
+    },
+    {
+        "id": 1932,
+        "name": "Black Hearts BG2",
+        "description": "Black Hearts est un mod de quête pour BG:EE, ce patch modifie le dialogue d'Illasera dans BG2.",
+        "urls": [
+            "https://github.com/A-Wizard-Did-It/Black-Hearts-BG2/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "AWizardDidIt"
+        ],
+        "team": [],
+        "notes": [
+            "Inclus dans [[1346]] du même auteur."
+        ],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "embed",
+        "last_update": "2023-01",
+        "compatibilities": {},
+        "tp2": "Blackhearts_BG2 Patch"
+    },
+    {
+        "id": 1933,
+        "name": "BG2 creature inventory checker",
+        "description": "Cet utilitaire est un outil qui permet de trouver, par exemple, les créatures ayant une arme dans leur emplacement d'arme mais ne l'étant pas équipées, ou une créature avec une armure dans un emplacement de bouclier. L'utilitaire recherchera tous les fichiers de créatures présents dans le jeu et signalera les erreurs dans le fichier DEBUG.",
+        "urls": [
+            "https://github.com/Gibberlings3/BG2_Creature_Inventory_Checker/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "CamDawg"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2006-01",
+        "compatibilities": {},
+        "tp2": "BG2_Creature_Inventory_Checker"
+    },
+    {
+        "id": 1934,
+        "name": "IWDification translate",
+        "description": "Outil d'aide à la traduction pour [[521]].",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/29180-translate-iwdification-heres-90-of-it-done/",
+            "https://github.com/Gibberlings3/iwdification_translator/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "CamDawg"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2018-08",
+        "compatibilities": {},
+        "tp2": "iwdification_translate"
+    },
+    {
+        "id": 1935,
+        "name": "Hidden Containers",
+        "description": "Un petit mod WeiDU qui cache certains conteneurs aux joueurs, les rendant détectables grâce à la détection de pièges. Un composant propose d'y ajouter des objets.",
+        "urls": [
+            "https://github.com/ThorThunderfist/Hidden-Containers/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Thor Thunderfist"
+        ],
+        "team": [],
+        "notes": [
+            "Certains fichiers pour BG2EE semblent manquer."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2021-10",
+        "compatibilities": {},
+        "tp2": "hidden_containers"
+    },
+    {
+        "id": 1936,
+        "name": "Snares Check Weapon Immunity",
+        "description": "Une petite modification pour rendre les pièges posés par la capacité « Pose de Piège » des voleurs résistants grâce à l'immunité aux armes normales. Cela modifie les effets sur les créatures, les objets et les sorts qui confèrent une immunité aux armes normales afin qu'ils confèrent également une immunité à la capacité « Pose de Piège » des voleurs.",
+        "urls": [
+            "https://github.com/ThorThunderfist/Snares-Check-Weapon-Immunity/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "Thor Thunderfist"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2021-10",
+        "compatibilities": {},
+        "tp2": "snares_check_weapon_immunity"
+    },
+    {
+        "id": 1937,
+        "name": "BAM Batcher",
+        "description": "Cet outil permet la manipulation en masse des fichiers BAM, une fonctionnalité que d'autres outils tels que [BAM Workshop](https://github.com/Sampsca/BAMWorkshop) et [[1865]] ne proposent pas (pour l'instant).",
+        "urls": [
+            "https://www.shsforums.net/topic/42359-release-bam-batcher/",
+            "https://github.com/Sampsca/BAM-Batcher/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG",
+            "Tutu",
+            "BG2",
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Miloch"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2019-08",
+        "compatibilities": {},
+        "tp2": "bambatch"
+    },
+    {
+        "id": 1938,
+        "name": "Far Realm Seer Kit",
+        "description": "Le Far Realm est un plan de folie situé très loin des plans de la cosmologie standard. Ce royaume démentiel compte de nombreux habitants étranges et tordus, certains aussi puissants que des divinités. Certains chamans ont un lien mythique qui transcende le monde des esprits et leur permet d'étendre leur vision aux confins du cosmos. Parmi ceux qui parviennent à conserver leur santé mentale, quelques-uns décident d'embrasser le royaume démentiel et d'exploiter son pouvoir à leur profit.",
+        "urls": [
+            "https://github.com/thisisulb/FarRealmSeerKit/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Ulb"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "obsolete",
+        "last_update": "2018-12",
+        "compatibilities": {},
+        "tp2": "FarRealmSeer"
+    },
+    {
+        "id": 1939,
+        "name": "Marcheur furtif",
+        "description": "Les marcheurs furtifs : compagnons de l'ombre, ces maîtres de la dissimulation excellent dans l'art d'opérer dans l'ombre. Façonner les événements à leur guise et frapper uniquement lorsque les chances sont les plus favorables : tel est le véritable art du marcheur furtif. Grâce à leurs stratagèmes rusés, leurs compétences extraordinaires et leur maîtrise de la tromperie et de la dissimulation, les marcheurs furtifs excellent dans le vol, le meurtre, l'espionnage et l'assassinat.",
+        "urls": [
+            "https://github.com/robvoid/q06kit_stalker/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Qinsisuo06"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2025-01",
+        "compatibilities": {},
+        "tp2": "qin06dz"
+    },
+    {
+        "id": 1940,
+        "name": "Crevs Items related nonsense",
+        "description": "Idéalement, il devrait permettre d'ajouter des objets à améliorer ou à partir desquels améliorer d'autres objets.",
+        "urls": [
+            "https://github.com/CrevsDaak/c7-items/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGT",
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Crevs Daak"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2024-03",
+        "compatibilities": {},
+        "tp2": "c7-items"
+    },
+    {
+        "id": 1941,
+        "name": "ItemDispatcher",
+        "description": "ItemDispatcher est un mod conçu pour permettre la distribution d'objets de manière flexible et personnalisée. Grâce à ce mod, vous pouvez spécifier des cibles, des types d'objets et des conditions précises pour la distribution, assurant un gameplay dynamique et adapté à vos besoins.",
+        "urls": [
+            "https://github.com/Selphira/ItemDispatcher/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Selphira"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [
+            "fr"
+        ],
+        "status": "wip",
+        "last_update": "2025-04",
+        "compatibilities": {},
+        "tp2": "ItemDispatcher"
+    },
+    {
+        "id": 1942,
+        "name": "Regain Rangerhood / Paladinhood Cheatmod",
+        "description": "Ce mod restaure la classe/le kit du personnage s'il est déchu en tant que rôdeur ou paladin. La réputation du groupe est simultanément augmentée à 10 si elle est inférieure à 10. Il s'agit d'un mod de triche destiné à corriger une erreur indésirable. Il n'est pas destiné à être installé avant que vous ne souhaitiez corriger un personnage rôdeur/paladin déchu dans votre jeu.",
+        "urls": [
+            "https://github.com/Gitjas/Regaim_Rangerhood_Paladinhood_Cheatmod/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "jastey"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "de"
+        ],
+        "status": "active",
+        "last_update": "2025-02",
+        "compatibilities": {},
+        "tp2": "regainrangerhood"
+    },
+    {
+        "id": 1943,
+        "name": "QDSpontaneous",
+        "description": "QDSpontaneous est une bibliothèque qui permet aux kits Mage et Barde de lancer des sorts spontanément, comme les Sorciers.",
+        "urls": [
+            "https://github.com/aquadrizzt/QDSpontaneous/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "aquadrizzt"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2017-06",
+        "compatibilities": {},
+        "tp2": "Sorcery"
     }
 ]
