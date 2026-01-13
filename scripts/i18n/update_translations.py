@@ -21,7 +21,7 @@ def main(**kwargs):
         translated_mods_ids = {mod["id"] for mod in translated_mods}
 
         # Ajout des nouveaux mods
-        for mod_id in mods_id_to_data.keys() - translated_mods_ids:
+        for mod_id in sorted(mods_id_to_data.keys() - translated_mods_ids):
             if language == LANGUAGE_DEFAULT:
                 mod_data = {"id": mod_id}
             else:
