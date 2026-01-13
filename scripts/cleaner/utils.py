@@ -44,7 +44,7 @@ lang_pseudos = {
     "pt": ("pt_pt", "portuguese", "pt"),
     "ru": ("ru_ru", "d¢", "ru"),
     "se": ("sv_se", "sw", "se", "sv"),
-    "tr": ("tr_tr", "tu"),
+    "tr": ("tr_tr", "tu", "tr"),
 }
 
 lang_mapping = {
@@ -167,23 +167,28 @@ class ModCleaner(CleanModMixin):
         if not self.data.get("languages"):
             return list()
 
-        def clean_lang(lang: str) -> str:
-            lang = self.bracket_author_regex.sub("", lang)
-            lang = lang.lower().strip().strip("/")
-            lang = lang.rsplit("/", 1)[-1].strip()
-            cleaned_lang = lang_mapping.get(lang) or lang_mapping.get(lang[:2]) or ""
-            if lang not in ("", "tra") and not cleaned_lang:
-                print(f"{self.clean_name()}: Lang {lang} not found")
-                # cleaned_lang = lang[:2]
-            return cleaned_lang
-
         return sorted(
             set(
                 cleaned_lang
                 for lang in set(self.data["languages"])
-                if (cleaned_lang := clean_lang(lang))
+                if (cleaned_lang := self._clean_lang(lang))
             )
         )
+
+    def _clean_lang(self, lang: str) -> str:
+        lang = self.bracket_author_regex.sub("", lang)
+        langs = lang.strip("/").split("/")
+        lang = langs[-1]
+        if lang.endswith(".tra"):
+            lang = langs[-2]
+        lang = lang.strip().lower()
+        cleaned_lang = lang_mapping.get(lang, "")
+        if not cleaned_lang and lang != "tra":
+            cleaned_lang = lang_mapping.get(lang[:2], "")
+        if lang not in ("", "tra") and not cleaned_lang:
+            print(f"Lang {lang} not found")
+            # cleaned_lang = lang[:2]
+        return cleaned_lang
 
     def clean_last_update(self) -> str:
         try:
