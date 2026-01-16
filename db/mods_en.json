@@ -11729,10 +11729,10 @@
     },
     {
         "id": 815,
-        "description": "This mod is based on Qwinn's PS:T Unfinished Business (PST-UB) mod, version 4.12. Completely reworked, it is compatible with both PST:EE and the classic version of Planescape: Torment (PST). It restores the game's \"almost-but-not-completely-finished\" content (due to a lack of time on the part of the developers), completes and enhances it, allowing you to take advantage of these new features in your games.",
+        "description": "This mod is based on [[1946]]. Completely reworked, it is compatible with both PST:EE and his classic version. It restores the game's \"almost-but-not-quite-finished\" content (due to a lack of time on the part of the developers), completes and enhances it, allowing you to take advantage of these new features in your games.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod reprend le mod de Qwinn PS:T Unfinished Business (PST-UB), version 4.12. Complètement remanié, il est compatible aussi bien avec PST:EE qu'avec la version classique de Planescape: Torment (PST). Il restaure le contenu \"presque-mais-pas-complètement-terminé\" (par manque de temps des développeurs) du jeu, le complète et l'améliore, ce qui vous permet de profiter de ces nouveautés dans vos parties."
+            "source": "Ce mod reprend le mod [[1946]]. Complètement remanié, il est compatible aussi bien avec PST:EE qu'avec sa version classique. Il restaure le contenu \"presque-mais-pas-complètement-terminé\" (par manque de temps des développeurs) du jeu, le complète et l'améliore, ce qui vous permet de profiter de ces nouveautés dans vos parties."
         },
         "notes": [],
         "notes_meta": {
@@ -27697,6 +27697,36 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1944,
+        "description": "This mini mod adds a quiver of +4 arrows to the game. The item can be created via the console using the code `D8QUIV01`.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mini mod ajoute un carquois d'abondance de flèches +4 dans le jeu. L'objet peut être créé via la console sous le code `D8QUIV01`."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1945,
+        "description": "Planescape: Torment Unfinished Business takes the almost-but-not-quite-finished content that shipped with Black Isle's classic Planescape: Torment CRPG and polishes, bugfixes and finishes it so you can see and enjoy the new content in your game!",
+        "description_meta": {
+            "status": "done",
+            "source": "Planescape: Torment Unfinished Business reprend le contenu presque achevé qui accompagnait le jeu PST, le peaufine, corrige les bugs et le finalise afin que vous puissiez découvrir et profiter du nouveau contenu dans votre jeu !"
+        },
+        "notes": [
+            "Give preference to [[815]]."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Privilégiez [[815]]."
+            ]
         }
     }
 ]
