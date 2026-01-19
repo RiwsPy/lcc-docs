@@ -133,6 +133,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - IWDEE
  - PST
  - PSTEE
+ - GemRB
 
 `authors`: liste des personnes ayant participé à la création/maintenance du mod\
 `team` : liste des personnes ayant participé à la traduction du mod\

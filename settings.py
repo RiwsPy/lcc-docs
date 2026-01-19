@@ -81,6 +81,7 @@ class GameEnum(StrEnum):
     IWD2 = "IWD2"
     PST = "PST"
     PSTEE = "PSTEE"
+    GEMRB = "GemRB"
 
     @classmethod
     def pst(cls) -> list:
