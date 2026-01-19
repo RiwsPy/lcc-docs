@@ -2362,9 +2362,9 @@
             "status": "done",
             "source": "Ce mod ajoute 5 nouveaux profils de bardes disposant chacun d'un chant de guerre spécial (Abettor of Mask, Dancer, Deathsinger, Storm Drummer et Troubadour), ainsi qu'un nouveau marchand vendant des objets de barde."
         },
-        "notes": [],
+        "notes": ["某些模块需要 [[348]]。"],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Certains modules requièrent [[348]]."
             ]
@@ -3301,9 +3301,9 @@
             "Archenemy",
             "YouYe"
         ],
-        "description": "这个模组增加了无数的任务（其中一些相当长）以及全新的职业任务。新的地图（15张 + 160张被修改的）、新物品、为克伦威尔提供的新配方、一个可以探索的新城市（赫隆德）、一个可以招募的新角色（瑞恩，人类女战士）……总之，很吸引人。需要巴尔王座。冒险始于烛堡，在完成一些杂务后，你会变得更强大，并继续正常的博德之门Ⅱ进程，同时还要完成许多任务和遭遇。|新版本包含了补充模块《烛堡杂务（教程）》和《烛堡杂务快进》。",
+        "description": "此模组添加了海量任务（24个，其中一些流程颇长）以及前所未有的职业任务。新增地图（15张全新地图+160张修改地图）、新物品、给克伦威尔的锻造新配方、一座可供探索的新城镇（赫隆德斯）、一名可招募的新队友（莱恩，人类女战士）……总而言之，听起来很诱人。冒险始于烛堡，在完成一些杂务后，你会变得更强大，并继续《博德之门2》的主线进程，同时还能体验大量新增任务与遭遇。|新版本已包含附属模块《烛堡杂务（教学关）》及其《快进模式》。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute un nombre incalculable de quêtes (24 dont certaines assez longues) plus des quêtes de classe inédites. De nouvelles maps (15 + 160 modifiées), de nouveaux objets, de nouvelles recettes pour Cromwell, une nouvelle ville à explorer (Hlondeth), un nouveau personnage à recruter (Rynn, guerrière humaine).... Bref, c'est alléchant. L'aventure débute à Château-Suif, et après quelques corvées, vous deviendrez plus puissant et poursuivrez le cours normal de BG2 tout en ayant de nombreuses quêtes et nombreuses rencontres à faire.|La nouvelle version englobe les modules complémentaires `Candlekeep Chores (tutoriel)` et `Candlekeep Chores Fast Forward`."
         },
         "notes": [],
@@ -4257,9 +4257,9 @@
     },
     {
         "id": 291,
-        "description": "这个小模组添加了约45件受《冰风谷》和《异度风景：苦难》系列启发的物品，散布在商店和敌人的身上。它还修改了一些现有物品（改进图形使其更易于区分……），在你的前厅添加了一个新商人，让迪尔德丽和乔卢夫出现在阿姆凯瑟兰的旅店，允许克伦威尔和塞斯佩纳锻造新物品……需要ToB。||在博德之门中，它添加了13件物品，一个在温斯洛普商店里的储物袋；一个乌尔卡斯特学院的戒指……||建议在所有添加或修改法术的模组之后安装它。",
+        "description": "这个小模组添加了大约45件灵感来源于《冰风谷》和《异度风景：苦难》系列中的物品，它们散落在商店和敌人尸体上。它同时也修改了部分现有物品（通过图形改进使其更具辨识度...），在你的冒险者休息大厅中增加了一位新商人，让黛德丽和乔鲁夫出现在安克夏兰的旅店，并允许克伦威尔和塞斯潘纳锻造新的物品……|在《博德之门》中，它添加了13件物品，其中包括温斯罗普商店里的一个次元袋、巫尔卡司特学院的戒指等……|建议在安装所有添加或修改法术的模组之后，再安装此模组。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce petit mod ajoute environ 45 objets inspirés des séries Icewind Dale et de Planescape: Torment, disséminés dans les magasins et sur le corps de vos ennemis. Il modifie également quelques objets existants (amélioration graphique pour les rendre plus distinguable...), ajoute un nouveau marchand dans votre antichambre, fait apparaître Deirdre et Joluv dans l'auberge d'Amkethran, permet à Cromwell et Cespenar de forger de nouveaux objets...|Dans Baldur's Gate, il ajoute 13 objets, un sac de contenance dans la boutique de Winthrop; un anneau de l'Académie d'Ulcaster...|Installez-le de préférence après tous les mods qui ajoutent ou modifient des sorts."
         },
         "notes": [
@@ -7227,9 +7227,9 @@
     },
     {
         "id": 497,
-        "description": "这个修正和修改的集合是Smeagolheart的作品。它包含各种组件，可以显示城市位置、在各个商店购买更强大的弹药、在游戏中添加Joluv和Deirdre商人等。",
+        "description": "这个修正与修改合集包含多种组件，能够揭示城镇的位置、允许在各商店购买更强力的弹药、在游戏中加入商人乔鲁夫和戴德丽等等。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Cette collection de corrections et de modifications comporte divers composants permettant de révéler l'emplacement des villes, de pouvoir acheter des munitions plus puissantes dans divers magasins, d'ajouter les marchands Joluv et Deirdre dans le jeu, etc."
         },
         "notes": [],
@@ -7613,9 +7613,9 @@
     },
     {
         "id": 524,
-        "description": "由Weimer发起的这个项目允许您使用《冰风谷2》的引擎来玩《博德之门Ⅱ》。实际上，这是将《博德之门Ⅱ》改编为《冰风谷2》的风格，采用第三版规则、界面、法术等，这些都来自《冰风谷2》。它需要《冰风谷2》和《博德之门Ⅱ - 巴尔王座》。|已经提供了许多截图。在其设计师退出社区后，该版本的测试版已向公众开放。此模组很可能将一直停留在测试版状态。|您可以在[此链接](https://weidu.org/iwg2/beta.html)找到其安装说明。",
+        "description": "该计划由 Weimer 发起，旨在实现以《冰风谷2》的引擎运行《博德之门Ⅱ》。实质上，它是将《博德之门Ⅱ》进行改造，以适配《冰风谷2》的风格，采用其第三版规则、界面、法术等。目前已有大量截图可供查看。在其设计者退出社区后，该模组的测试版已向公众开放。此模组有很大可能将维持在测试版阶段。您可以在[此链接](https://weidu.org/iwg2/beta.html) 找到其安装说明。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html)."
         },
         "notes": [],
@@ -8155,10 +8155,10 @@
             "source": "Ce mod rééquilibre les objets de différentes façons, et vous pouvez choisir de les installer ou non parmi une 20aine de composants. Attention, ce n'est pas noté dans le readme, mais le composant principal rend indisponible ou modifie l'emplacement de certains objets."
         },
         "notes": [
-            "注意：GitHub 版本比 G3 的版本更新。"
+            "subtledoctor的版本比G3的（版本）更新。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "La version de subtledoctor est plus à jour que celle de G3."
             ]
@@ -8166,7 +8166,7 @@
     },
     {
         "id": 563,
-        "description": "这个模组为[[562]]提供了修复或修改。你可以在[这里](https://www.gibberlings3.net/forums/topic/28894-ir-revised-v13800-2022-january-11th/)找到列表。",
+        "description": "这个模组为[[562]]提供了修复或修改。你可以在[这里](https://www.gibberlings3.net/forums/topic/28894-ir-revised-v13800-2022-january-11th/) 找到列表。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod apporte des corrections ou des modifications à [[562]]. Vous en trouverez la liste [ici](https://www.gibberlings3.net/forums/topic/28894-ir-revised-v13800-2022-january-11th/)."
@@ -11203,9 +11203,9 @@
     },
     {
         "id": 772,
-        "description": "此模组用更高质量的44.1 kHz版本替换了BGT中自动替换游戏音乐的旧有复杂流程。它会影响游戏中的所有.acm音频文件。|您必须将两个包“1PP High-Quality Music for Tutu/ToSC”和“for SoA/ToB”解压到您的BGT目录中，但不要安装它们，然后安装此模组。|它用于修正区域音乐轨道的可选组件需要预先安装BGTMusic模组，特别是“Baldur's Gate完整音乐”组件。此模组必须在所有向游戏中添加.acm音频文件的模组之后安装。|锦上添花的是，一个新组件允许在BGT转换后恢复《博德之门Ⅱ》的主菜单主题。",
+        "description": "此模组替换了博德之门三部曲中原先较为繁琐的自动替换游戏音乐流程，改用相同但音质更优（44.1 kHz）的版本。它将影响游戏中所有的.acm音频文件。|您需要先将1PP High-Quality Music for Tutu/ToSC和for SoA/ToB两个压缩包解压到您的博德之门三部曲目录下（不要安装），然后安装此模组。|其用于修正特定区域音乐曲目的可选组件，要求预先安装BGTMusic模组，特别是其中的`博德之门完整版音乐`组件。本模组必须在所有向游戏中添加.acm音频文件的模组之后安装。|锦上添花的是，一个新的组件可以在博德之门三部曲转换后，恢复《博德之门2》的主菜单主题曲。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable de BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT."
         },
         "notes": [],
@@ -11824,9 +11824,9 @@
     },
     {
         "id": 815,
-        "description": "此模组基于Qwinn的PS:T Unfinished Business (PST-UB)模组，版本为4.12。经过全面重制，它既兼容PST:EE，也兼容经典的《异度风景：苦难》(PST)版本。它恢复了游戏中“几乎完成但未完全完成”（因开发者时间不足）的内容，并对其进行完善和改进，让您可以在游戏中体验到这些新内容。",
+        "description": "该模组基于 [[1945]] 模组进行重构。经过全面重制后，它同时兼容《异度风景：苦难》：增强版及其经典原版。该模组恢复了游戏中因开发时间不足而“近乎完成却未完全收尾”的内容，并对其进行了补充与优化，让你在游戏进程中能充分体验这些全新内容。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod reprend le mod [[1945]]. Complètement remanié, il est compatible aussi bien avec PST:EE qu'avec sa version classique. Il restaure le contenu \"presque-mais-pas-complètement-terminé\" (par manque de temps des développeurs) du jeu, le complète et l'améliore, ce qui vous permet de profiter de ces nouveautés dans vos parties."
         },
         "notes": [],
@@ -13782,10 +13782,12 @@
             "source": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ?|Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).|Forme humaine : FOR 16, DEX 12, CON 16, INT 15, SAG 10, CHA 15.|Forme draconique : FOR 20, DEX 12, CON 18, INT 15, SAG 10, CHA 15."
         },
         "notes": [
-            "请使用 Beamdog 的链接来下载 EE 版的游戏。最后一个链接包含集成了俄语翻译的 2.6 版本。"
+                "使用Beamdog链接下载适用于增强版游戏的版本。",
+                "[此链接](https://www.dropbox.com/s/mxavndwl5ptvshx/) 包含俄语翻译。",
+                "[此链接](https://github.com/MephistoSatanDevil/Sheena/) 包含中文翻译（仅限增强版）。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE.",
                 "[Ce lien](https://www.dropbox.com/s/mxavndwl5ptvshx/) contient la traduction russe.",
@@ -13949,9 +13951,9 @@
     },
     {
         "id": 959,
-        "description": "鉴于游戏中的职业和职业等级不如双职业或多职业强大，此模组通过略微加强它们（例如圣武士的三星军事专精、高级能力、物品使用等）来努力恢复平衡。需要巴尔王座。|可选组件允许修改弓箭手职业并安装另外7个：弓箭手和盾卫（战士）、殉道者和神秘射手（圣武士）、希尔瓦纳斯猎人（德鲁伊）、法术窃取者（吟游诗人）和狙击手（盗贼）。最初，该模组的计划是提供22个新职业，但它早已停止开发……",
+        "description": "基于游戏中原有的职业与专精不如兼职或多职业组合强势这一现状，本模组致力于通过小幅增强（例如为圣武士提供三星武器专精、解锁高级能力、改善物品使用等）来恢复游戏平衡。|可选组件允许修改射手专精，并额外安装七个新专精：弓手与持盾者（战士）、殉道者与神秘射手（圣武士）、西凡纳斯猎手（德鲁伊）、魔法塑造者（吟游诗人）以及狙击手（盗贼）。该模组最初曾计划推出22种全新专精，但其开发工作早已停止多时……",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Partant du constat que les classes et les profils du jeu sont moins puissantes que les jumelage ou multi-classages, ce mod s'efforce de rétablir l'équilibre en les améliorant un peu (spécialisations martiales comme 3 étoiles pour les paladins, capacités de haut niveau, utilisation des objets...).|Des composants optionnels permettent de modifier le profil d'Archer et d'en installer 7 autres : Bowman et Shieldbearer (guerrier), Martyr et Mystic Marksman (paladin), Huntsman of Silvanus (druide), Spellshafter (barde) et Sniper (voleur). À l'origine, le mod avait pour ambition de proposer 22 nouveaux profils, mais il n'est plus développé depuis belle lurette..."
         },
         "notes": [
@@ -16332,9 +16334,9 @@
     },
     {
         "id": 1121,
-        "description": "这是一个探索一座塔的任务（根据常见问题解答有新图形），它会吸引一些人将他们囚禁（有点像剑湾传奇的冰岛）。它需要巴尔王座，面向10-13级的角色，并配备相当强大的武器（至少需要一对+3武器），因为有一些相当难缠的怪物。要开始冒险，你只需要去见扭曲颅骨旅店（城门）的法师天，和他交谈。他有一个任务给你：找回一本书，它藏在一座名为“无归之塔”的废弃古塔里……他为此准备了一大笔酬金。你敢接受挑战吗？",
+        "description": "这是一个探索高塔的任务（根据FAQ说明，塔楼采用了全新图形），这座塔会吸引一些人并将他们困在其中（类似《剑湾传奇》中的冰岛）。它面向10-13级的角色，且需要装备相当强力的武器（至少需要拥有一对+3及以上武器），因为其中有一些相当难对付的怪物。要开启这段冒险，你只需前往扭曲骷髅旅店（位于城门区）寻找法师“天”，并与他交谈。他有一项任务交给你：找回一本藏在一座废弃古塔——无回之塔——中的书。他愿意为此支付巨额报酬。你，准备好接受挑战了吗？",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins une paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?"
         },
         "notes": [],
@@ -17095,9 +17097,9 @@
     },
     {
         "id": 1175,
-        "description": "Miriam（一个吸血鬼NPC，属性不如[[1299]]那么强力，但性格似乎同样反复无常和暴力）和[[286]]（添加了一个商人，出售许多来自冰风谷1和2的新物品，最初由Panaka翻译）这两个模组现在被整合到了这个模组中，此外还改进了“盲眼”任务、与游吟诗人的遭遇，并在费克雷格的地下城中添加了一次新的遭遇。需要巴尔王座。|Miriam：力量18/75，敏捷17，体质11，智力16，智慧9，魅力15。",
+        "description": "MOD“米丽亚姆”（一个吸血鬼NPC，属性设置比[[1299]]更均衡，但性格似乎同样反复无常且暴躁）和MOD“[[286]]”（新增一名商人，提供大量来自《冰风谷1》和《冰风谷2》的新物品，最初由Panaka翻译）现已整合于此MOD中。此外，本MOD还增强了“盲眼之眼”任务、与“吟游诗人”的遭遇，并在菲克拉格的地牢中增加了一次新的遭遇。|米丽亚姆：力量18/75，敏捷17，体质11，智力16，智慧9，魅力15。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Les mods Miriam (PNJ vampire aux stats moins bourrines que celles de [[1299]], mais semblant disposer d'un caractère tout aussi lunatique et violent) et [[286]] (ajoutant un marchand avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2, initialement traduit par Panaka) sont désormais réunis dans ce mod qui améliore en outre la quête de l'Œil Aveugle, la rencontre avec les Ménestrels, et ajoute une nouvelle rencontre dans le donjon de Firkraag.|Miriam : FOR 18/75, DEX 17, CON 11, INT 16, SAG 9, CHA 15."
         },
         "notes": [],
@@ -23239,10 +23241,11 @@
             "source": "Vous ne manquez jamais d'inclure Jan Jansen dans votre groupe. Vous vous délectez de ses répliques abracadabrantes, mais sa quête personnelle vous laisse sur votre faim. Vous avez envie de connaître la fin de l'histoire concernant l'ancienne compagne du voleur illusionniste le plus loufoque d'Athkatla, et de Vaelag, le mari violent de cette dernière ?|L'Extension de la quête de Jan propose une suite à cette quête originale sous la forme de deux très courtes missions agrémentées de dialogues typiques et de rencontres inopinées avec de nouveaux personnages secondaires. En trame de fond, le mod tente modestement de jeter un éclairage nouveau sur certaines des organisations les plus influentes de la cité.|Découvrez la fin de l'histoire sans avoir besoin de recommencer une partie. La difficulté du mod étant adaptée à des personnages de faible niveau, nous vous conseillons malgré tout d'en profiter sur une partie pas trop avancée.|Le mod comporte entre autres 2 nouvelles missions qui peuvent être faite dans l'ordre de votre choix et 2 nouvelles histoires de Jan."
         },
         "notes": [
-            "另有可用版本（[[390]]）。"
+            "另有可用版本（[[390]]）。",
+			"可通过[此链接](https://github.com/Plutonium-X/jans_unpacked/) 获取不带.bat文件的版本，这使其可在手机和平板设备上安装。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Une autre version est disponible ([[390]]).",
                 "Une version sans fichier .bat est disponible via [ce lien](https://github.com/Plutonium-X/jans_unpacked/), cela rend son installation possible sur mobile et tablette."
@@ -27760,14 +27763,14 @@
     },
     {
         "id": 1931,
-        "description": "",
+        "description": "《黑心》是一款为《博德之门：增强版》设计的任务模组，其剧情围绕《巴尔王座》中的角色——伊菈赛菈展开，并引入了一条涉及红袍巫师的新故事线：一位危险的新盟友加入了沙洛佛克的事业。该模组沿用了《黑坑》模块的战斗内容作为基础，将其转化为玩家在任务中需要完成的各种目标（多数情况下会进行一定程度的改动）。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Black Hearts est un mod de quête pour BG:EE qui suit une intrigue impliquant un personnage de Throne of Bhaal : Illasera, et une intrigue du Sorcier Rouge impliquant un nouvel allié dangereux qui a rejoint la cause de Sarevok. Ce mod reprend les combats du module Black Pits, en les utilisant comme base pour les différents objectifs donnés aux joueurs pour la quête (avec quelques variations dans de nombreux cas)."
         },
-        "notes": [],
+        "notes": ["收录于同一作者的[[1346]]中。"],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Inclus dans [[1346]] du même auteur."
             ]
@@ -27775,14 +27778,14 @@
     },
     {
         "id": 1932,
-        "description": "",
+        "description": "《黑心》是一款针对《博德之门：增强版》的任务模组，此补丁修改了《博德之门2》中伊菈赛菈的对话。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Black Hearts est un mod de quête pour BG:EE, ce patch modifie le dialogue d'Illasera dans BG2."
         },
-        "notes": [],
+        "notes": ["收录于同一作者的[[1346]]中。"],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Inclus dans [[1346]] du même auteur."
             ]
@@ -27790,9 +27793,9 @@
     },
     {
         "id": 1933,
-        "description": "",
+        "description": "该工具是一个实用程序，可用于查找例如在武器槽位中拥有武器但未装备的生物，或将盔甲放置在盾牌槽位中的生物。该程序将搜索游戏中所有存在的生物文件，并在DEBUG文件中报告错误。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Cet utilitaire est un outil qui permet de trouver, par exemple, les créatures ayant une arme dans leur emplacement d'arme mais ne l'étant pas équipées, ou une créature avec une armure dans un emplacement de bouclier. L'utilitaire recherchera tous les fichiers de créatures présents dans le jeu et signalera les erreurs dans le fichier DEBUG."
         },
         "notes": [],
@@ -27803,9 +27806,9 @@
     },
     {
         "id": 1934,
-        "description": "",
+        "description": "翻译辅助工具，用于 [[521]]。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Outil d'aide à la traduction pour [[521]]."
         },
         "notes": [],
@@ -27816,14 +27819,14 @@
     },
     {
         "id": 1935,
-        "description": "",
+        "description": "一个小的WeiDU模组，它能向玩家隐藏某些容器，使其仅能通过陷阱检测技能被发现。其中一个组件还允许向这些容器中添加物品。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Un petit mod WeiDU qui cache certains conteneurs aux joueurs, les rendant détectables grâce à la détection de pièges. Un composant propose d'y ajouter des objets."
         },
-        "notes": [],
+        "notes": ["某些用于BG2EE的文件似乎缺失了。"],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Certains fichiers pour BG2EE semblent manquer."
             ]
@@ -27831,9 +27834,9 @@
     },
     {
         "id": 1936,
-        "description": "",
+        "description": "对盗贼“设置陷阱”能力进行一项小调整，使其布设的陷阱能通过免疫普通武器的特性获得抵抗效果。此项调整将改变对生物、物品以及可赋予免疫普通武器效果的法术所产生的影响，使其同样能赋予对盗贼“设置陷阱”能力的免疫。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Une petite modification pour rendre les pièges posés par la capacité « Pose de Piège » des voleurs résistants grâce à l'immunité aux armes normales. Cela modifie les effets sur les créatures, les objets et les sorts qui confèrent une immunité aux armes normales afin qu'ils confèrent également une immunité à la capacité « Pose de Piège » des voleurs."
         },
         "notes": [],
@@ -27844,9 +27847,9 @@
     },
     {
         "id": 1937,
-        "description": "",
+        "description": "该工具支持批量操作BAM文件，这是诸如 [BAM Workshop](https://github.com/Sampsca/BAMWorkshop) 和 [[1865]] 等其他工具（目前）所不具备的功能。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Cet outil permet la manipulation en masse des fichiers BAM, une fonctionnalité que d'autres outils tels que [BAM Workshop](https://github.com/Sampsca/BAMWorkshop) et [[1865]] ne proposent pas (pour l'instant)."
         },
         "notes": [],
@@ -27857,9 +27860,9 @@
     },
     {
         "id": 1938,
-        "description": "",
+        "description": "狂野域是一个狂乱位面，位于距离标准位面体系极其遥远之处。这个癫狂的国度栖息着众多怪异扭曲的生灵，其中一些存在拥有堪比神祇的力量。某些萨满拥有超越灵界的神话联结，能使他们的视野延伸至宇宙的边缘。在那些成功保持心智健全的人之中，有一部分决定拥抱这个狂乱国度，并汲取它的力量为己所用。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Le Far Realm est un plan de folie situé très loin des plans de la cosmologie standard. Ce royaume démentiel compte de nombreux habitants étranges et tordus, certains aussi puissants que des divinités. Certains chamans ont un lien mythique qui transcende le monde des esprits et leur permet d'étendre leur vision aux confins du cosmos. Parmi ceux qui parviennent à conserver leur santé mentale, quelques-uns décident d'embrasser le royaume démentiel et d'exploiter son pouvoir à leur profit."
         },
         "notes": [],
@@ -27870,9 +27873,9 @@
     },
     {
         "id": 1939,
-        "description": "潜行者：与阴影为伴，精于逃离的盗贼们最擅长在幕后行动。按照他们的意愿改变事件，具备最大的优势才出击：这是盗贼们最拿手的。凭借老到的计谋，过人的本领，以及优秀的欺骗和隐藏能力，盗贼们在从事偷窃，谋杀，间谍和暗杀方面的工作时游刃有余。",
+        "description": "潜行者：影之同行者，这些隐匿大师精于暗中行事之术。随心所欲地塑造事态，仅在胜算最大时出手——此乃潜行者的真谛。凭借狡诈的谋略、非凡的技能以及对欺骗与隐匿的精通，潜行者在盗窃、谋杀、间谍与刺杀方面出类拔萃。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Les marcheurs furtifs : compagnons de l'ombre, ces maîtres de la dissimulation excellent dans l'art d'opérer dans l'ombre. Façonner les événements à leur guise et frapper uniquement lorsque les chances sont les plus favorables : tel est le véritable art du marcheur furtif. Grâce à leurs stratagèmes rusés, leurs compétences extraordinaires et leur maîtrise de la tromperie et de la dissimulation, les marcheurs furtifs excellent dans le vol, le meurtre, l'espionnage et l'assassinat."
         },
         "notes": [],
@@ -27883,9 +27886,9 @@
     },
     {
         "id": 1940,
-        "description": "",
+        "description": "理想情况下，它应当允许添加待升级的物品，或添加可作为升级基础材料的物品。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Idéalement, il devrait permettre d'ajouter des objets à améliorer ou à partir desquels améliorer d'autres objets."
         },
         "notes": [],
@@ -27896,9 +27899,9 @@
     },
     {
         "id": 1941,
-        "description": "",
+        "description": "ItemDispatcher 是一个旨在实现灵活、可自定义物品分配的模组。借助此模组，您可以指定精确的分配目标、物品类型及触发条件，从而确保游戏体验动态且符合您的需求。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "ItemDispatcher est un mod conçu pour permettre la distribution d'objets de manière flexible et personnalisée. Grâce à ce mod, vous pouvez spécifier des cibles, des types d'objets et des conditions précises pour la distribution, assurant un gameplay dynamique et adapté à vos besoins."
         },
         "notes": [],
@@ -27909,9 +27912,9 @@
     },
     {
         "id": 1942,
-        "description": "",
+        "description": "这个模组会在游侠或圣武士堕落时，恢复其职业/宗派。如果队伍声望低于10，则会同时将其提升至10。这是一个用于修正意外错误的作弊模组，不建议在您需要修复游戏中堕落的游侠/圣武士角色之前安装。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod restaure la classe/le kit du personnage s'il est déchu en tant que rôdeur ou paladin. La réputation du groupe est simultanément augmentée à 10 si elle est inférieure à 10. Il s'agit d'un mod de triche destiné à corriger une erreur indésirable. Il n'est pas destiné à être installé avant que vous ne souhaitiez corriger un personnage rôdeur/paladin déchu dans votre jeu."
         },
         "notes": [],
@@ -27922,9 +27925,9 @@
     },
     {
         "id": 1943,
-        "description": "",
+        "description": "QDSpontaneous 是一个允许法师宗派和吟游诗人宗派像术士一样自发施法的程序库。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "QDSpontaneous est une bibliothèque qui permet aux kits Mage et Barde de lancer des sorts spontanément, comme les Sorciers."
         },
         "notes": [],
@@ -27935,9 +27938,9 @@
     },
     {
         "id": 1944,
-        "description": "",
+        "description": "这个小型模组在游戏中添加了一个+4充裕箭袋。该物品可通过控制台使用代码D8QUIV01创建。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mini mod ajoute un carquois d'abondance de flèches +4 dans le jeu. L'objet peut être créé via la console sous le code `D8QUIV01`."
         },
         "notes": [],
@@ -27948,14 +27951,14 @@
     },
     {
         "id": 1945,
-        "description": "",
+        "description": "《异度风景：苦难》：未完成的事业模组恢复了原版游戏中几乎已完成但被删减的内容，经过精心打磨、错误修复并最终完成，让您可以在游戏中探索并享受这些新内容！",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Planescape: Torment Unfinished Business reprend le contenu presque achevé qui accompagnait le jeu PST, le peaufine, corrige les bugs et le finalise afin que vous puissiez découvrir et profiter du nouveau contenu dans votre jeu !"
         },
-        "notes": [],
+        "notes": ["优先选择 [[815]]。"],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Privilégiez [[815]]."
             ]
