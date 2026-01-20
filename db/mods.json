@@ -63208,5 +63208,37 @@
         "last_update": "2025-08",
         "compatibilities": {},
         "tp2": "pst-ub"
+    },
+    {
+        "id": 1946,
+        "name": "Sword dancer of Eilistraee",
+        "description": "This mods adds a new iwd2 cleric kit (or domain) dedicated to The Dark Maiden.",
+        "urls": [
+            "https://github.com/lynxlynxlynx/gemrb-mods/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "IWD2"
+        ],
+        "authors": [
+            "lynxlynxlynx"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-02",
+        "compatibilities": {
+            "requires": [
+                "GemRB"
+            ]
+        },
+        "tp2": "cleric-of-eilistraee"
     }
 ]
