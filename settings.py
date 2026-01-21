@@ -129,6 +129,7 @@ class CategoryEnum(StrEnum):
     TWEAK = _g("Gameplay")
     SCRIPT = _g("Script et tactique")
     PARTY_PERSONNALISATION = _g("Personnalisation du groupe")
+    GEMRB = _g("GemRB")
 
     @property
     def id(self) -> str:

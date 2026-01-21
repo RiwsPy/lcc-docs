@@ -118,6 +118,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - Gameplay
  - Script et tactique
  - Personnalisation du groupe
+ - GemRB
 
 `games` : liste des jeux sur lesquels le mod est fonctionnel. Valeurs possibles :
  - BG
