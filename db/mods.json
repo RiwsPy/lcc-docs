@@ -63212,9 +63212,9 @@
     {
         "id": 1946,
         "name": "Sword dancer of Eilistraee",
-        "description": "This mods adds a new iwd2 cleric kit (or domain) dedicated to The Dark Maiden.",
+        "description": "This mod adds a new iwd2 cleric kit (or domain) dedicated to The Dark Maiden.",
         "urls": [
-            "https://github.com/lynxlynxlynx/gemrb-mods/"
+            "https://github.com/lynxlynxlynx/gemrb-mods/tree/master/cleric-of-eilistraee/"
         ],
         "categories": [
             "Kit",
@@ -63241,5 +63241,155 @@
             ]
         },
         "tp2": "cleric-of-eilistraee"
+    },
+    {
+        "id": 1947,
+        "name": "10 player parties",
+        "description": "This mods enables playing games with up to 10 full-fledged party members.",
+        "urls": [
+            "https://github.com/lynxlynxlynx/gemrb-mods/tree/master/10pp/"
+        ],
+        "categories": [
+            "Personnalisation du groupe",
+            "GemRB"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "BGT",
+            "Tutu",
+            "IWD",
+            "IWD2",
+            "PST"
+        ],
+        "authors": [
+            "lynxlynxlynx"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-03",
+        "compatibilities": {
+            "requires": [
+                "GemRB",
+                "Perl"
+            ]
+        },
+        "tp2": "setup-10pp"
+    },
+    {
+        "id": 1948,
+        "name": "GemRB Tweaks",
+        "description": "This mod is a collection of small GemRB tweaks and a user-friendly way to make the gameplay richer, different or both.",
+        "urls": [
+            "https://github.com/lynxlynxlynx/gemrb-mods/tree/master/gemrb-tweaks/"
+        ],
+        "categories": [
+            "Gameplay",
+            "Interface",
+            "GemRB"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "BGT",
+            "Tutu",
+            "IWD",
+            "IWD2",
+            "PST"
+        ],
+        "authors": [
+            "lynxlynxlynx"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-08",
+        "compatibilities": {
+            "requires": [
+                "GemRB"
+            ]
+        },
+        "tp2": "gemrb-tweaks"
+    },
+    {
+        "id": 1949,
+        "name": "Sorcerer/Monk/Cleric",
+        "description": "This mods adds a new true multiclass choice, a sorcerer/monk/cleric. Currently dualclassing is not possible.",
+        "urls": [
+            "https://github.com/lynxlynxlynx/gemrb-mods/tree/master/sorcerer-monk-cleric/"
+        ],
+        "categories": [
+            "Kit",
+            "GemRB"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "Tutu"
+        ],
+        "authors": [
+            "lynxlynxlynx"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2021-05",
+        "compatibilities": {
+            "requires": [
+                "GemRB"
+            ]
+        },
+        "tp2": "setup-sorcerer-monk-cleric"
+    },
+    {
+        "id": 1950,
+        "name": "Sorcerer/Monk",
+        "description": "This mods adds a new true multiclass choice, a sorcerer/monk. Currently dualclassing is not possible.",
+        "urls": [
+            "https://github.com/lynxlynxlynx/gemrb-mods/tree/master/sorcerer-monk/"
+        ],
+        "categories": [
+            "Kit",
+            "GemRB"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "Tutu"
+        ],
+        "authors": [
+            "lynxlynxlynx"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2021-05",
+        "compatibilities": {
+            "requires": [
+                "GemRB"
+            ]
+        },
+        "tp2": "setup-sorcerer-monk"
     }
 ]
