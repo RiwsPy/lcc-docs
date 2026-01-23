@@ -45,6 +45,7 @@ lang_pseudos = {
     "ru": ("ru_ru", "d¢", "ru"),
     "se": ("sv_se", "sw", "se", "sv"),
     "tr": ("tr_tr", "tu", "tr"),
+    "ua": ("uk",),
 }
 
 lang_mapping = {
