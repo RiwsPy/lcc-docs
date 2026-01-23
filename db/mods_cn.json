@@ -2362,7 +2362,9 @@
             "status": "done",
             "source": "Ce mod ajoute 5 nouveaux profils de bardes disposant chacun d'un chant de guerre spécial (Abettor of Mask, Dancer, Deathsinger, Storm Drummer et Troubadour), ainsi qu'un nouveau marchand vendant des objets de barde."
         },
-        "notes": ["某些模块需要 [[348]]。"],
+        "notes": [
+            "某些模块需要 [[348]]。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -13782,9 +13784,9 @@
             "source": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ?|Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).|Forme humaine : FOR 16, DEX 12, CON 16, INT 15, SAG 10, CHA 15.|Forme draconique : FOR 20, DEX 12, CON 18, INT 15, SAG 10, CHA 15."
         },
         "notes": [
-                "使用Beamdog链接下载适用于增强版游戏的版本。",
-                "[此链接](https://www.dropbox.com/s/mxavndwl5ptvshx/) 包含俄语翻译。",
-                "[此链接](https://github.com/MephistoSatanDevil/Sheena/) 包含中文翻译（仅限增强版）。"
+            "使用Beamdog链接下载适用于增强版游戏的版本。",
+            "[此链接](https://www.dropbox.com/s/mxavndwl5ptvshx/) 包含俄语翻译。",
+            "[此链接](https://github.com/MephistoSatanDevil/Sheena/) 包含中文翻译（仅限增强版）。"
         ],
         "notes_meta": {
             "status": "done",
@@ -23242,7 +23244,7 @@
         },
         "notes": [
             "另有可用版本（[[390]]）。",
-			"可通过[此链接](https://github.com/Plutonium-X/jans_unpacked/) 获取不带.bat文件的版本，这使其可在手机和平板设备上安装。"
+            "可通过[此链接](https://github.com/Plutonium-X/jans_unpacked/) 获取不带.bat文件的版本，这使其可在手机和平板设备上安装。"
         ],
         "notes_meta": {
             "status": "done",
@@ -27768,7 +27770,9 @@
             "status": "done",
             "source": "Black Hearts est un mod de quête pour BG:EE qui suit une intrigue impliquant un personnage de Throne of Bhaal : Illasera, et une intrigue du Sorcier Rouge impliquant un nouvel allié dangereux qui a rejoint la cause de Sarevok. Ce mod reprend les combats du module Black Pits, en les utilisant comme base pour les différents objectifs donnés aux joueurs pour la quête (avec quelques variations dans de nombreux cas)."
         },
-        "notes": ["收录于同一作者的[[1346]]中。"],
+        "notes": [
+            "收录于同一作者的[[1346]]中。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -27783,7 +27787,9 @@
             "status": "done",
             "source": "Black Hearts est un mod de quête pour BG:EE, ce patch modifie le dialogue d'Illasera dans BG2."
         },
-        "notes": ["收录于同一作者的[[1346]]中。"],
+        "notes": [
+            "收录于同一作者的[[1346]]中。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -27824,7 +27830,9 @@
             "status": "done",
             "source": "Un petit mod WeiDU qui cache certains conteneurs aux joueurs, les rendant détectables grâce à la détection de pièges. Un composant propose d'y ajouter des objets."
         },
-        "notes": ["某些用于BG2EE的文件似乎缺失了。"],
+        "notes": [
+            "某些用于BG2EE的文件似乎缺失了。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -27956,12 +27964,79 @@
             "status": "done",
             "source": "Planescape: Torment Unfinished Business reprend le contenu presque achevé qui accompagnait le jeu PST, le peaufine, corrige les bugs et le finalise afin que vous puissiez découvrir et profiter du nouveau contenu dans votre jeu !"
         },
-        "notes": ["优先选择 [[815]]。"],
+        "notes": [
+            "优先选择 [[815]]。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
                 "Privilégiez [[815]]."
             ]
+        }
+    },
+    {
+        "id": 1946,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute un nouveau kit (ou domaine) de clerc iwd2 dédié à la Vierge Noire."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1947,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod permet de jouer à des jeux avec jusqu'à 10 membres à part entière dans votre groupe."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1948,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod est un ensemble de petites modifications apportées à GemRB et un moyen convivial d'enrichir le gameplay, de le rendre différent, ou les deux."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1949,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute un nouveau choix de multiclasse, le sorcier/moine/clerc. Actuellement, le jumelage n'est pas possible."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1950,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute un nouveau choix de multiclasse, le sorcier/moine. Actuellement, le jumelage n'est pas possible."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]

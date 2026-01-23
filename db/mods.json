@@ -63212,7 +63212,7 @@
     {
         "id": 1946,
         "name": "Sword dancer of Eilistraee",
-        "description": "This mod adds a new iwd2 cleric kit (or domain) dedicated to The Dark Maiden.",
+        "description": "Ce mod ajoute un nouveau kit (ou domaine) de clerc iwd2 dédié à la Vierge Noire.",
         "urls": [
             "https://github.com/lynxlynxlynx/gemrb-mods/tree/master/cleric-of-eilistraee/"
         ],
@@ -63245,7 +63245,7 @@
     {
         "id": 1947,
         "name": "10 player parties",
-        "description": "This mods enables playing games with up to 10 full-fledged party members.",
+        "description": "Ce mod permet de jouer à des jeux avec jusqu'à 10 membres à part entière dans votre groupe.",
         "urls": [
             "https://github.com/lynxlynxlynx/gemrb-mods/tree/master/10pp/"
         ],
@@ -63280,12 +63280,12 @@
                 "Perl"
             ]
         },
-        "tp2": "setup-10pp"
+        "tp2": "10pp"
     },
     {
         "id": 1948,
         "name": "GemRB Tweaks",
-        "description": "This mod is a collection of small GemRB tweaks and a user-friendly way to make the gameplay richer, different or both.",
+        "description": "Ce mod est un ensemble de petites modifications apportées à GemRB et un moyen convivial d'enrichir le gameplay, de le rendre différent, ou les deux.",
         "urls": [
             "https://github.com/lynxlynxlynx/gemrb-mods/tree/master/gemrb-tweaks/"
         ],
@@ -63325,7 +63325,7 @@
     {
         "id": 1949,
         "name": "Sorcerer/Monk/Cleric",
-        "description": "This mods adds a new true multiclass choice, a sorcerer/monk/cleric. Currently dualclassing is not possible.",
+        "description": "Ce mod ajoute un nouveau choix de multiclasse, le sorcier/moine/clerc. Actuellement, le jumelage n'est pas possible.",
         "urls": [
             "https://github.com/lynxlynxlynx/gemrb-mods/tree/master/sorcerer-monk-cleric/"
         ],
@@ -63355,12 +63355,12 @@
                 "GemRB"
             ]
         },
-        "tp2": "setup-sorcerer-monk-cleric"
+        "tp2": "sorcerer-monk-cleric"
     },
     {
         "id": 1950,
         "name": "Sorcerer/Monk",
-        "description": "This mods adds a new true multiclass choice, a sorcerer/monk. Currently dualclassing is not possible.",
+        "description": "Ce mod ajoute un nouveau choix de multiclasse, le sorcier/moine. Actuellement, le jumelage n'est pas possible.",
         "urls": [
             "https://github.com/lynxlynxlynx/gemrb-mods/tree/master/sorcerer-monk/"
         ],
@@ -63390,6 +63390,6 @@
                 "GemRB"
             ]
         },
-        "tp2": "setup-sorcerer-monk"
+        "tp2": "sorcerer-monk"
     }
 ]
