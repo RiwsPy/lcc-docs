@@ -2791,19 +2791,13 @@
         ],
         "description": "此模组既是博德之门Ⅰ的任务模组，也是整个传奇系列的NPC模组。它扩展了第一部中布雷奇的任务。如果你证明了他的清白并找回了他的真剑，就有可能在日后于那西凯的海姆神殿招募他。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod est à la fois un mod de quête pour BG et un mod NPC pour toute la saga. Il étend la quête de Brage dans le premier opus. Si l'on prouve son innocence et si l'on récupère sa véritable épée, il est possible de le recruter un jour plus tard dans le Temple de Heaum à Nashkel."
+            "status": "needs_review",
+            "source": "Ce mod est à la fois un mod de quête pour BG et un mod NPC pour toute la saga. Il étend la quête de Brage dans le premier opus. Si l'on prouve son innocence et si l'on récupère sa véritable épée, il est possible de le recruter un jour plus tard dans le Temple de Heaum à Nashkel.|FOR 18/23, DEX 11, CON 17, INT 12, SAG 8, CHA 13."
         },
-        "notes": [
-            "官方兼容 BG2 和 BG2EE，但目前只创建了 BG1 的内容。",
-            "必须在 [[147]] 之后安装。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Officiellement compatible avec BG2 et BG2EE, pour l'instant, seul le contenu pour BG1 a été créé.",
-                "Doit être installé après [[147]]."
-            ]
+            "source": []
         }
     },
     {
@@ -7738,14 +7732,10 @@
             "status": "done",
             "source": "Ce mod modifie le donjon de Spellhold pour le rendre plus amusant, plus difficile et stimulant pour les joueurs confirmés. Il comprend trois composants qui peuvent être installés ensemble ou séparément."
         },
-        "notes": [
-            "注意：存在一个博德之门Ⅱ：增强版和增强版三部曲的盗版版本，其作者毫不犹豫地窃取了此模组的资源并修改了内容。请勿下载或安装，否则后果自负，并且不要来抱怨！"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : il existe une version piratée pour BG2:EE et EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-            ]
+            "source": []
         }
     },
     {
@@ -13307,8 +13297,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Des portraits alternatifs sont proposés dans [[1957]]."
+            ]
         }
     },
     {
@@ -28045,6 +28037,87 @@
         "description_meta": {
             "status": "todo",
             "source": "Après avoir parcouru un long chemin depuis les terres nordiques de Féérune, Aelar s'est désormais installé à Athkatla, sur la Promenade de Waukyne ! Pendant la journée, vous le trouverez dans la zone Ouest, un étage au-dessus de la boutique de Maheer. La nuit venue, il se retire pour se reposer avant de revenir le lendemain pour vendre à nouveau ses marchandises !"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1952,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Le protagoniste et ses compagnons reçoivent une invitation pour une retraite relaxante sur une île située à environ une journée de voyage de la ville de Baldur's Gate. Ils ne se doutent pas que tous les invités sont liés d'une manière importante, et ils se rendent vite compte qu'ils sont tous piégés sur l'île, pris comme des mouches dans une toile d'araignée."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1953,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Une collection de composants conçus pour aider à étoffer la ville de Baldur's Gate et ajouter un peu de piquant aux parties complètes d'EET. Un objectif secondaire est de fournir une source intéressante de dépenses en or pour la fin du jeu.|Le composant principal ajoute un marchand offrant des modifications permanentes équilibrées à un prix élevé. Certains livres nécessitent d'accomplir de petites quêtes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1954,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Le mod ajoute une intrigue romantique pour Cernd, le druide impliqué dans la résolution des problèmes de Franc-Marché. Le mod comprend environ 25 conversations avec Cernd tout au long de Shadows of Amn et Throne of Bhaal, ainsi qu'une nouvelle petite quête, une romance et des banters, le tout afin de permettre au personnage principal de mieux connaître le métamorphe et de créer un lien avec lui."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1955,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute deux soundsets pour des personnages féminins :|- `Pious Knight` adaptée pour les personnages d'alignement Bon|- `Deadly Rogue` d'un ton un peu enjoué et cynique"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "La voix est celle de [Glyph](https://www.castingcall.club/dawnglyph).",
+                "La compatibilité IWD/IWD2/IWDEE n'est pas assurée."
+            ]
+        }
+    },
+    {
+        "id": 1956,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Le mod exhume une séquence de rêve inutilisée de Bhaal issue du jeu original et la transforme en mini-quête dans le chapitre 7 de BGEE ou EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1957,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Alternative Portraits for Sandrah NPC mod characters."
         },
         "notes": [],
         "notes_meta": {

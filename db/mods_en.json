@@ -2760,21 +2760,15 @@
     },
     {
         "id": 191,
-        "description": "This mod is both a quest mod for BG and an NPC mod for the whole saga. It extends Braga's quest from the first opus. By proving his innocence and recovering his real sword, he can be recruited a day later at the Temple of Heaum in Nashkel.",
+        "description": "This mod is both a quest mod for BG and an NPC mod for the whole saga. It extends Braga's quest from the first opus. By proving his innocence and recovering his real sword, he can be recruited a day later at the Temple of Heaum in Nashkel.|STR 18/23, DEX 11, CON 17, INT 12, WIS 8, CHA 13.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod est à la fois un mod de quête pour BG et un mod NPC pour toute la saga. Il étend la quête de Brage dans le premier opus. Si l'on prouve son innocence et si l'on récupère sa véritable épée, il est possible de le recruter un jour plus tard dans le Temple de Heaum à Nashkel."
+            "source": "Ce mod est à la fois un mod de quête pour BG et un mod NPC pour toute la saga. Il étend la quête de Brage dans le premier opus. Si l'on prouve son innocence et si l'on récupère sa véritable épée, il est possible de le recruter un jour plus tard dans le Temple de Heaum à Nashkel.|FOR 18/23, DEX 11, CON 17, INT 12, SAG 8, CHA 13."
         },
-        "notes": [
-            "Officially compatible with BG2EE, for the moment only content for BG1 has been created.",
-            "Must be installed after [[147]]."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Officiellement compatible avec BG2 et BG2EE, pour l'instant, seul le contenu pour BG1 a été créé.",
-                "Doit être installé après [[147]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -7656,14 +7650,10 @@
             "status": "needs_review",
             "source": "Ce mod modifie le donjon de Spellhold pour le rendre plus amusant, plus difficile et stimulant pour les joueurs confirmés. Il comprend trois composants qui peuvent être installés ensemble ou séparément."
         },
-        "notes": [
-            "Warning: a pirated version exists for BG2:EE and EET, whose author has stolen the mod's resources and modified its content. Don't download or install it at your own risk, and don't complain!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : il existe une version piratée pour BG2:EE et EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -13196,10 +13186,14 @@
             "status": "needs_review",
             "source": "Il s'agit d'un énorme projet conçu pour EET. Si vous aimez les Mary Sue, alors ce mod est pour vous, sinon passez votre chemin. Jeune guerrière-prêtresse de Mystra, originaire d'Eauprofonde, Sandrah est la fille d'un personnage célèbre des Royaumes, qui sort de l'ombre puissante de son père pour se faire un nom et aussi pour découvrir la partie cachée de son histoire familiale. L'intrigue se déroule tout au long de la découverte par le PC de qu'il/elle est. Mais ne vous y trompez pas, l'histoire de votre personnage passe au second plan, c'est celle de Sandrah qui compte ! La Saga comprend trois partie :- Sandrah NPC : PNJ recrutable et son lien à l'intrigue originale du jeu, de Château-Suif à ToB.|- Sandrah RtF (Return to Faerun) poursuit la saga de l'enfant de Bhaal et de Sandrah avec une nouvelle intrigue, d'anciens et de nouveaux compagnons, d'anciennes et de nouvelles zones, d'anciens et de nouveaux ennemis, etc.|- Sandrah ToT (Time of Troubles Revisited) est une option qui permet de continuer le jeu après RtF, tout en vous ramenant à l'époque précédant les autres événements. Vous devenez le témoin des événements qui ont conduit à votre naissance dans Baldur's Gate.|Et enfin, la cerise sur le gâteau ! Sandrah Saga nécessite une installation complète d'EET avec tous les \"gros mods\". Ou plus exactement, la version des mega mods dont les scenarios ont été modifiés par l'auteure pour les adapter à l'histoire de son héroïne. Bref, un mod mégalo à l'extrême..."
         },
-        "notes": [],
+        "notes": [
+            "Alternative portraits are proposed in [[1957]]."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Des portraits alternatifs sont proposés dans [[1957]]."
+            ]
         }
     },
     {
@@ -27800,6 +27794,90 @@
         "description_meta": {
             "status": "done",
             "source": "Après avoir parcouru un long chemin depuis les terres nordiques de Féérune, Aelar s'est désormais installé à Athkatla, sur la Promenade de Waukyne ! Pendant la journée, vous le trouverez dans la zone Ouest, un étage au-dessus de la boutique de Maheer. La nuit venue, il se retire pour se reposer avant de revenir le lendemain pour vendre à nouveau ses marchandises !"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1952,
+        "description": "Charname&Co get an invitation to a relaxing retreat on an island about a day’s journey from Baldur’s Gate city. Little do they know that all the guests are connected in an important way, and soon they realize that they are all trapped there on the island, caught like flies in a web.",
+        "description_meta": {
+            "status": "done",
+            "source": "Le protagoniste et ses compagnons reçoivent une invitation pour une retraite relaxante sur une île située à environ une journée de voyage de la ville de Baldur's Gate. Ils ne se doutent pas que tous les invités sont liés d'une manière importante, et ils se rendent vite compte qu'ils sont tous piégés sur l'île, pris comme des mouches dans une toile d'araignée."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1953,
+        "description": "A collection of mods designed to help flesh-out the city of Baldur's Gate and add some spice to full EET runs. A secondary goal is to provide a worthwhile gold-sink for later in the game.|The major component adds a merchant offering balanced permanent modifications at a high monetary price. Some books require completing minor fetch quests.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Une collection de composants conçus pour aider à étoffer la ville de Baldur's Gate et ajouter un peu de piquant aux parties complètes d'EET. Un objectif secondaire est de fournir une source intéressante de dépenses en or pour la fin du jeu.|Le composant principal ajoute un marchand offrant des modifications permanentes équilibrées à un prix élevé. Certains livres nécessitent d'accomplir de petites quêtes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1954,
+        "description": "The mod adds a romance path for Cernd, the druid involved in solving the Trademeet problems. Cernd Romance includes ~25 talks with Cernd throughout Shadows of Amn and Throne of Bhaal, as well as a new small quest, romantic events, and comments—all to allow the main character to know the shapeshifter better and to let them create a bond.",
+        "description_meta": {
+            "status": "done",
+            "source": "Le mod ajoute une intrigue romantique pour Cernd, le druide impliqué dans la résolution des problèmes de Franc-Marché. Le mod comprend environ 25 conversations avec Cernd tout au long de Shadows of Amn et Throne of Bhaal, ainsi qu'une nouvelle petite quête, une romance et des banters, le tout afin de permettre au personnage principal de mieux connaître le métamorphe et de créer un lien avec lui."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1955,
+        "description": "This mod adds two sound sets for female characters:|- `Pious Knight`, suitable for characters of good alignment|- `Deadly Rogue`, with a slightly playful and cynical tone",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute deux soundsets pour des personnages féminins :|- `Pious Knight` adaptée pour les personnages d'alignement Bon|- `Deadly Rogue` d'un ton un peu enjoué et cynique"
+        },
+        "notes": [
+            "The voice is that of [Glyph](https://www.castingcall.club/dawnglyph)",
+            "Compatibility with IWD/IWD2/IWDEE is not guaranteed."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "La voix est celle de [Glyph](https://www.castingcall.club/dawnglyph).",
+                "La compatibilité IWD/IWD2/IWDEE n'est pas assurée."
+            ]
+        }
+    },
+    {
+        "id": 1956,
+        "description": "The mod unearths an unused Bhaal dream sequence from the original game and turns it into a mini-quest in Chapter 7 of BGEE or EET.",
+        "description_meta": {
+            "status": "done",
+            "source": "Le mod exhume une séquence de rêve inutilisée de Bhaal issue du jeu original et la transforme en mini-quête dans le chapitre 7 de BGEE ou EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1957,
+        "description": "Alternative Portraits for Sandrah NPC mod characters.",
+        "description_meta": {
+            "status": "done",
+            "source": "Alternative Portraits for Sandrah NPC mod characters."
         },
         "notes": [],
         "notes_meta": {

@@ -289,6 +289,7 @@
         "description": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si 1PP est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personnages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur.",
         "urls": [
             "https://www.shsforums.net/topic/61629-acs-miscellaneous-tweaks/",
+            "https://forums.beamdog.com/discussion/82624/",
             "https://github.com/Spellhold-Studios/AC-Miscellaneous-Tweaks"
         ],
         "categories": [
@@ -6370,13 +6371,14 @@
     {
         "id": 191,
         "name": "Brage's Redemption - Brage NPC",
-        "description": "Ce mod est à la fois un mod de quête pour BG et un mod NPC pour toute la saga. Il étend la quête de Brage dans le premier opus. Si l'on prouve son innocence et si l'on récupère sa véritable épée, il est possible de le recruter un jour plus tard dans le Temple de Heaum à Nashkel.",
+        "description": "Ce mod est à la fois un mod de quête pour BG et un mod NPC pour toute la saga. Il étend la quête de Brage dans le premier opus. Si l'on prouve son innocence et si l'on récupère sa véritable épée, il est possible de le recruter un jour plus tard dans le Temple de Heaum à Nashkel.|FOR 18/23, DEX 11, CON 17, INT 12, SAG 8, CHA 13.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/brages-redemption.42/",
+            "https://forums.beamdog.com/discussion/77989/",
+            "https://www.gibberlings3.net/forums/topic/30967-brages-redemption-brage-npc-mod-for-bg1/",
             "https://github.com/Gitjas/Brages_Redemption"
         ],
         "categories": [
-            "Quête",
             "PNJ recrutable"
         ],
         "games": [
@@ -6391,10 +6393,7 @@
             "jastey"
         ],
         "team": [],
-        "notes": [
-            "Officiellement compatible avec BG2 et BG2EE, pour l'instant, seul le contenu pour BG1 a été créé.",
-            "Doit être installé après [[147]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -17670,9 +17669,7 @@
             "Rastor"
         ],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour BG2:EE et EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -30307,7 +30304,9 @@
             "Roxanne"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Des portraits alternatifs sont proposés dans [[1957]]."
+        ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -33171,7 +33170,7 @@
         "description": "Ce mod ajoute la possibilité de sélectionner une sous-race pour le personnage principal. Pour l'instant, il n'y en a que 9 : Aasimar, Tieffelin, Elfe noir, Elfe sauvage, Nain d'or (Nain des collines), Nain gris (Duergar), Costaud et Sagespectre (halfelins), et Gnome des profondeurs (Svirfneblin).|Il donne aussi des sous-races à Viconia (Elfe noir), Baeloth (Elfe noir), Haer'Dalis (Tieffelin) et Caelar (Aasimar).|C'est sans doute le seul qui fonctionne vraiment.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32267-subrace-mod/",
-            "https://github.com/tipun81/Subrace-mod/"
+            "https://github.com/dark0dave/Subrace-mod/"
         ],
         "categories": [
             "Gameplay"
@@ -33183,7 +33182,9 @@
             "IWDEE"
         ],
         "authors": [
-            "tipun"
+            "tipun",
+            "dark0dave",
+            "RoyalProtector"
         ],
         "team": [],
         "notes": [],
@@ -33195,7 +33196,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2022-04",
+        "last_update": "2026-01",
         "compatibilities": {
             "incompatible_with": [
                 1011
@@ -45443,7 +45444,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -60558,6 +60559,7 @@
         "name": "Infinity Engine Mod Installer",
         "description": "L'Infinity Engine Mod Installer est un outil conçu pour automatiser l'installation de mods pour les jeux Infinity Engine tels que Baldur's Gate, Icewind Dale et Planescape: Torment. Il utilise un fichier appelé `weidu.log` pour déterminer quels mods installer et comment les installer.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/37233-mod-installer/",
             "https://github.com/dark0dave/mod_installer"
         ],
         "categories": [
@@ -61774,6 +61776,7 @@
         "description": "Rebirth est un mod de conversion totale qui se déroule dans le royaume de Cormyr. Il introduit un scénario, des personnages, des zones et des défis entièrement nouveaux dans les Royaumes Oubliés.",
         "urls": [
             "https://www.bg2rebirthmod.com/bg2rebirthmod/",
+            "https://forums.beamdog.com/discussion/90488/",
             "https://www.gibberlings3.net/forums/topic/40754-announcing-baldurs-gate-2-rebirth-tc-mod-for-ee/"
         ],
         "categories": [
@@ -62006,6 +62009,7 @@
         "description": "Ce module permet de donner toutes les capacités et inconvénients du kensaï à n'importe quel npc, en plus de sa classe normale. Vous devez utiliser un objet pour activer ces effets, que vous trouverez chez Talandir (BG), chez Ribald (BG2) ou chez Orrick le Gris (IWD).",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?f=749&t=35162&p=527850",
+            "https://forums.beamdog.com/discussion/90469/",
             "https://github.com/Deratiseur/Kensai/"
         ],
         "categories": [
@@ -62552,6 +62556,7 @@
         "description": "Portraits générés par IA conçus pour s'harmoniser avec les portraits classiques des jeux de l'Infinity Engine.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/40923-portrait-pack-0/",
+            "https://forums.beamdog.com/discussion/90484/",
             "https://github.com/Genovi/Portrait_Pack_0/"
         ],
         "categories": [
@@ -63421,5 +63426,196 @@
         "last_update": "2025-05",
         "compatibilities": {},
         "tp2": "Aelar-Wares"
+    },
+    {
+        "id": 1952,
+        "name": "A Party To Die For",
+        "description": "Le protagoniste et ses compagnons reçoivent une invitation pour une retraite relaxante sur une île située à environ une journée de voyage de la ville de Baldur's Gate. Ils ne se doutent pas que tous les invités sont liés d'une manière importante, et ils se rendent vite compte qu'ils sont tous piégés sur l'île, pris comme des mouches dans une toile d'araignée.",
+        "urls": [
+            "https://github.com/Glittergear/PartyToDieFor/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGT",
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "Glittergear"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2025-06",
+        "compatibilities": {},
+        "tp2": "PartyToDieFor"
+    },
+    {
+        "id": 1953,
+        "name": "Standard Awesome Modpack",
+        "description": "Une collection de composants conçus pour aider à étoffer la ville de Baldur's Gate et ajouter un peu de piquant aux parties complètes d'EET. Un objectif secondaire est de fournir une source intéressante de dépenses en or pour la fin du jeu.|Le composant principal ajoute un marchand offrant des modifications permanentes équilibrées à un prix élevé. Certains livres nécessitent d'accomplir de petites quêtes.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/90404/",
+            "https://github.com/StandardAwesome/bgee-modpack/"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "Standard Awesome"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-11",
+        "compatibilities": {},
+        "tp2": "standard-awesome-modpack"
+    },
+    {
+        "id": 1954,
+        "name": "Cernd Romance",
+        "description": "Le mod ajoute une intrigue romantique pour Cernd, le druide impliqué dans la résolution des problèmes de Franc-Marché. Le mod comprend environ 25 conversations avec Cernd tout au long de Shadows of Amn et Throne of Bhaal, ainsi qu'une nouvelle petite quête, une romance et des banters, le tout afin de permettre au personnage principal de mieux connaître le métamorphe et de créer un lien avec lui.",
+        "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=77",
+            "https://forums.beamdog.com/discussion/90499/",
+            "https://downloads.weaselmods.net/download/cernd-romance/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {},
+        "tp2": "CerndRomance"
+    },
+    {
+        "id": 1955,
+        "name": "ZS_Soundsets",
+        "description": "Ce mod ajoute deux soundsets pour des personnages féminins :|- `Pious Knight` adaptée pour les personnages d'alignement Bon|- `Deadly Rogue` d'un ton un peu enjoué et cynique",
+        "urls": [
+            "https://github.com/szaumoor/ZS_Soundsets/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWD",
+            "IWD2",
+            "IWDEE"
+        ],
+        "authors": [
+            "RoyalProtector"
+        ],
+        "team": [],
+        "notes": [
+            "La voix est celle de [Glyph](https://www.castingcall.club/dawnglyph).",
+            "La compatibilité IWD/IWD2/IWDEE n'est pas assurée."
+        ],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {},
+        "tp2": "ZS_Soundsets"
+    },
+    {
+        "id": 1956,
+        "name": "Gorion's Dream",
+        "description": "Le mod exhume une séquence de rêve inutilisée de Bhaal issue du jeu original et la transforme en mini-quête dans le chapitre 7 de BGEE ou EET.",
+        "urls": [
+            "https://github.com/RoxanneSHS/Gorion-s-Dream/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "Roxanne",
+            "Within Amnesia"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2022-04",
+        "compatibilities": {},
+        "tp2": "GorionsDream"
+    },
+    {
+        "id": 1957,
+        "name": "Sandrah Alternative Portrait",
+        "description": "Alternative Portraits for Sandrah NPC mod characters.",
+        "urls": [
+            "https://github.com/RoxanneSHS/SandrahPortrait/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2021-12",
+        "compatibilities": {
+            "requires": [
+                913
+            ]
+        },
+        "tp2": "SandrahPort"
     }
 ]
