@@ -63391,5 +63391,35 @@
             ]
         },
         "tp2": "sorcerer-monk"
+    },
+    {
+        "id": 1951,
+        "name": "Aelar's Emporium of Magical Wares",
+        "description": "Après avoir parcouru un long chemin depuis les terres nordiques de Féérune, Aelar s'est désormais installé à Athkatla, sur la Promenade de Waukyne ! Pendant la journée, vous le trouverez dans la zone Ouest, un étage au-dessus de la boutique de Maheer. La nuit venue, il se retire pour se reposer avant de revenir le lendemain pour vendre à nouveau ses marchandises !",
+        "urls": [
+            "https://github.com/ShadowfireAngel/Aelar-Wares/"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "ShadowfireAngel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-05",
+        "compatibilities": {},
+        "tp2": "Aelar-Wares"
     }
 ]
