@@ -7,163 +7,167 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-18 22:58+0200\n"
-"PO-Revision-Date: 2025-10-19 19:40+0800\n"
+"POT-Creation-Date: 2026-01-24 08:45+0100\n"
+"PO-Revision-Date: 2026-01-24 08:50+0100\n"
 "Last-Translator: Riws <toto.streak289@passinbox.com>\n"
 "Language-Team: Language cn\n"
 "Language: cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.7\n"
+"X-Generator: Poedit 2.4.2\n"
 
-#: models/mod.py:194
+#: settings.py:32
+msgid "Mod de qualité"
+msgstr "高品质模组"
+
+#: settings.py:36
+msgid "Mod pouvant poser des problèmes"
+msgstr "可能存在问题的模组"
+
+#: settings.py:40
+msgid "Mod à éviter ou obsolète"
+msgstr "应避免使用或已过时的模组"
+
+#: settings.py:46
+msgid "Mod traduit"
+msgstr "已翻译模组"
+
+#: settings.py:50
+msgid "Mod partiellement traduit"
+msgstr "部分翻译模组"
+
+#: settings.py:54
+msgid "Mod non traduit"
+msgstr "未翻译模组"
+
+#: settings.py:60 i18n.py:119
+msgid "Mod Weidu"
+msgstr "WeiDU模组"
+
+#: settings.py:64
+msgid "Mod override, non désinstallable"
+msgstr "覆盖式模组，无法卸载"
+
+#: settings.py:115
+msgid "Patch non officiel"
+msgstr "非官方补丁"
+
+#: settings.py:116
+msgid "Utilitaire"
+msgstr "实用工具"
+
+#: settings.py:117
+msgid "Conversion"
+msgstr "转换类"
+
+#: settings.py:118
+msgid "Interface"
+msgstr "界面类"
+
+#: settings.py:119
+msgid "Cosmétique"
+msgstr "视觉美化类"
+
+#: settings.py:120
+msgid "Portrait et son"
+msgstr "头像与语音类"
+
+#: settings.py:121
+msgid "Quête"
+msgstr "任务类"
+
+#: settings.py:122
+msgid "PNJ recrutable"
+msgstr "可招募NPC"
+
+#: settings.py:123
+msgid "PNJ One Day"
+msgstr "一日NPC"
+
+#: settings.py:124
+msgid "PNJ (autre)"
+msgstr "NPC（其他）"
+
+#: settings.py:125
+msgid "Forgeron et marchand"
+msgstr "铁匠与商人类"
+
+#: settings.py:126
+msgid "Sort et objet"
+msgstr "法术与物品类"
+
+#: settings.py:127
+msgid "Kit"
+msgstr "宗派类"
+
+#: settings.py:128
+msgid "Gameplay"
+msgstr "游戏玩法类"
+
+#: settings.py:129
+msgid "Script et tactique"
+msgstr "脚本与战术类"
+
+#: settings.py:130
+msgid "Personnalisation du groupe"
+msgstr "团队定制类"
+
+#: settings.py:131
+msgid "GemRB"
+msgstr ""
+
+#: models/mod.py:214
 #, python-brace-format
 msgid "Fichier `{filename}`."
 msgstr "文件 `{filename}`。"
 
-#: models/mod.py:201
+#: models/mod.py:221
 #, python-brace-format
 msgid ""
 "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
 "fonctionner avec la dernière version du jeu."
 msgstr "⚠️ 请注意：此模组最后更新于{year}年，可能与游戏最新版本不兼容！"
 
-#: models/mod.py:208
+#: models/mod.py:228
 msgid ""
 "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
 "le à vos risques et périls."
 msgstr "⚠️ WeiDU 警告：本模组会覆盖游戏文件且无法卸载，请自行承担安装风险！"
 
-#: models/mod.py:214
+#: models/mod.py:234
 msgid ""
 "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
 "donner suite."
 msgstr "本模组已被原作者/维护者归档，且对方无意继续更新维护。"
 
-#: models/mod.py:218
+#: models/mod.py:238
 msgid "Ce mod est toujours en cours de réalisation."
 msgstr "本模组目前仍在持续开发中。"
 
-#: models/mod.py:223
+#: models/mod.py:243
 #, python-brace-format
 msgid "Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
 msgstr "该模组已从<a href='{url}' target='_blank'>{url}</a>下架。"
 
-#: models/mod.py:226
+#: models/mod.py:246
 msgid "Ce mod a disparu."
 msgstr "该模组已散佚。"
 
-#: models/mod.py:238
+#: models/mod.py:258
 #, python-brace-format
 msgid "Disponible en {language}."
 msgstr "提供{language}语言版本。"
 
-#: models/mod.py:247
+#: models/mod.py:267
 #, python-brace-format
 msgid "Nécessite : {mods}"
 msgstr "依赖：{mods}"
 
-#: models/mod.py:253
+#: models/mod.py:273
 #, python-brace-format
 msgid "Incompatible avec : {mods}"
 msgstr "不兼容模组：{mods}"
-
-#: settings.py:33
-msgid "Mod de qualité"
-msgstr "高品质模组"
-
-#: settings.py:37
-msgid "Mod pouvant poser des problèmes"
-msgstr "可能存在问题的模组"
-
-#: settings.py:41
-msgid "Mod à éviter ou obsolète"
-msgstr "应避免使用或已过时的模组"
-
-#: settings.py:47
-msgid "Mod traduit"
-msgstr "已翻译模组"
-
-#: settings.py:51
-msgid "Mod partiellement traduit"
-msgstr "部分翻译模组"
-
-#: settings.py:55
-msgid "Mod non traduit"
-msgstr "未翻译模组"
-
-#: settings.py:61 i18n.py:115
-msgid "Mod Weidu"
-msgstr "WeiDU模组"
-
-#: settings.py:65
-msgid "Mod override, non désinstallable"
-msgstr "覆盖式模组，无法卸载"
-
-#: settings.py:116
-msgid "Patch non officiel"
-msgstr "非官方补丁"
-
-#: settings.py:117
-msgid "Utilitaire"
-msgstr "实用工具"
-
-#: settings.py:118
-msgid "Conversion"
-msgstr "转换类"
-
-#: settings.py:119
-msgid "Interface"
-msgstr "界面类"
-
-#: settings.py:120
-msgid "Cosmétique"
-msgstr "视觉美化类"
-
-#: settings.py:121
-msgid "Portrait et son"
-msgstr "头像与语音类"
-
-#: settings.py:122
-msgid "Quête"
-msgstr "任务类"
-
-#: settings.py:123
-msgid "PNJ recrutable"
-msgstr "可招募NPC"
-
-#: settings.py:124
-msgid "PNJ One Day"
-msgstr "一日NPC"
-
-#: settings.py:125
-msgid "PNJ (autre)"
-msgstr "NPC（其他）"
-
-#: settings.py:126
-msgid "Forgeron et marchand"
-msgstr "铁匠与商人类"
-
-#: settings.py:127
-msgid "Sort et objet"
-msgstr "法术与物品类"
-
-#: settings.py:128
-msgid "Kit"
-msgstr "宗派类"
-
-#: settings.py:129
-msgid "Gameplay"
-msgstr "游戏玩法类"
-
-#: settings.py:130
-msgid "Script et tactique"
-msgstr "脚本与战术类"
-
-#: settings.py:131
-msgid "Personnalisation du groupe"
-msgstr "团队定制类"
 
 #: i18n.py:78
 msgid "Liste des mods pour IE - La Couronne de Cuivre"
@@ -253,7 +257,7 @@ msgstr "简介"
 msgid "Mods recensés : "
 msgstr "收录模组："
 
-#: i18n.py:101
+#: i18n.py:102
 msgid ""
 "Voici la liste de mods de la saga Baldur's Gate disponibles au "
 "téléchargement. Afin qu'elle soit la plus précise possible, n'hésitez pas à "
@@ -271,7 +275,7 @@ msgstr ""
 "坛</a>留言告知。同时欢迎您反馈任何问题、失效链接、最新兼容性确认，或单纯分享"
 "新模组发布动态。"
 
-#: i18n.py:104
+#: i18n.py:105
 msgid ""
 "Quiconque le souhaite peut apporter des modifications et des améliorations à "
 "cette liste sur ce <a href=\"https://github.com/RiwsPy/lcc-docs/\">dépôt "
@@ -283,7 +287,7 @@ msgstr ""
 "lcc-docs/\">GitHub repo</a>进行修改：您既可以创建新“issue”反馈错误信息、缺失/"
 "错误的链接或补充资料；也可以创建fork后提交“Pull Request”直接参与内容修订。"
 
-#: i18n.py:107
+#: i18n.py:108
 msgid ""
 "N'oubliez-pas de consulter le <a href=\"https://github.com/RiwsPy/lcc-docs/"
 "README.md\">readme</a> avant de contribuer ainsi que les <a href=\"https://"
@@ -293,29 +297,29 @@ msgstr ""
 "README.md\">说明文档</a>及<a href=\"https://github.com/RiwsPy/lcc-docs/"
 "CONTRIBUTING.md\">贡献指南</a>。"
 
-#: i18n.py:109
+#: i18n.py:111
 msgid "AVERTISSEMENTS"
 msgstr "敬告"
 
-#: i18n.py:111
+#: i18n.py:114
 msgid ""
 "Par sécurité, tous les liens qui proposent un téléchargement direct sont "
 "coupés en deux. La première partie est dans le lien et la seconde dans la "
 "description, sous la dénomination `Fichier xxx.yy`. Pour avoir un lien "
 "valide il peut être nécessaire de reconstituer les deux. Par exemple, pour "
 "le mod <a href=\"#m903\">Runic Bladesinger Elven Kit</a>, le lien `https://"
-"baldur.cob-bg.pl/download/bg2/kits/` est à regrouper avec "
-"`Runiczny_v2.0.zip`."
+"baldur.cob-bg.pl/download/bg2/kits/` est à regrouper avec `Runiczny_v2.0."
+"zip`."
 msgstr ""
 "出于安全考虑，所有提供直接下载的链接均被拆分为两部分：前半部分位于链接中，后"
 "半部分位于描述栏中（标注为文件xxx.yy）。要获取完整链接，您可能需要将两部分拼"
 "接。例如，对于模组<a href=\"#m903\">Runic Bladesinger Elven Kit</a>，需将链接"
 "https://baldur.cob-bg.pl/download/bg2/kits/与Runiczny_v2.0.zip组合使用。"
 
-#: i18n.py:113
+#: i18n.py:117
 msgid "Nom du mod"
 msgstr "模组名称"
 
-#: i18n.py:114
+#: i18n.py:118
 msgid "Légende :"
 msgstr "图例："

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-18 22:58+0200\n"
+"POT-Creation-Date: 2026-01-24 08:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,152 +17,156 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: models/mod.py:194
+#: settings.py:32
+msgid "Mod de qualité"
+msgstr ""
+
+#: settings.py:36
+msgid "Mod pouvant poser des problèmes"
+msgstr ""
+
+#: settings.py:40
+msgid "Mod à éviter ou obsolète"
+msgstr ""
+
+#: settings.py:46
+msgid "Mod traduit"
+msgstr ""
+
+#: settings.py:50
+msgid "Mod partiellement traduit"
+msgstr ""
+
+#: settings.py:54
+msgid "Mod non traduit"
+msgstr ""
+
+#: settings.py:60 i18n.py:119
+msgid "Mod Weidu"
+msgstr ""
+
+#: settings.py:64
+msgid "Mod override, non désinstallable"
+msgstr ""
+
+#: settings.py:115
+msgid "Patch non officiel"
+msgstr ""
+
+#: settings.py:116
+msgid "Utilitaire"
+msgstr ""
+
+#: settings.py:117
+msgid "Conversion"
+msgstr ""
+
+#: settings.py:118
+msgid "Interface"
+msgstr ""
+
+#: settings.py:119
+msgid "Cosmétique"
+msgstr ""
+
+#: settings.py:120
+msgid "Portrait et son"
+msgstr ""
+
+#: settings.py:121
+msgid "Quête"
+msgstr ""
+
+#: settings.py:122
+msgid "PNJ recrutable"
+msgstr ""
+
+#: settings.py:123
+msgid "PNJ One Day"
+msgstr ""
+
+#: settings.py:124
+msgid "PNJ (autre)"
+msgstr ""
+
+#: settings.py:125
+msgid "Forgeron et marchand"
+msgstr ""
+
+#: settings.py:126
+msgid "Sort et objet"
+msgstr ""
+
+#: settings.py:127
+msgid "Kit"
+msgstr ""
+
+#: settings.py:128
+msgid "Gameplay"
+msgstr ""
+
+#: settings.py:129
+msgid "Script et tactique"
+msgstr ""
+
+#: settings.py:130
+msgid "Personnalisation du groupe"
+msgstr ""
+
+#: settings.py:131
+msgid "GemRB"
+msgstr ""
+
+#: models/mod.py:214
 #, python-brace-format
 msgid "Fichier `{filename}`."
 msgstr ""
 
-#: models/mod.py:201
+#: models/mod.py:221
 #, python-brace-format
 msgid ""
 "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
 "fonctionner avec la dernière version du jeu."
 msgstr ""
 
-#: models/mod.py:208
+#: models/mod.py:228
 msgid ""
 "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
 "le à vos risques et périls."
 msgstr ""
 
-#: models/mod.py:214
+#: models/mod.py:234
 msgid ""
 "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
 "donner suite."
 msgstr ""
 
-#: models/mod.py:218
+#: models/mod.py:238
 msgid "Ce mod est toujours en cours de réalisation."
 msgstr ""
 
-#: models/mod.py:223
+#: models/mod.py:243
 #, python-brace-format
 msgid "Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
 msgstr ""
 
-#: models/mod.py:226
+#: models/mod.py:246
 msgid "Ce mod a disparu."
 msgstr ""
 
-#: models/mod.py:238
+#: models/mod.py:258
 #, python-brace-format
 msgid "Disponible en {language}."
 msgstr ""
 
-#: models/mod.py:247
+#: models/mod.py:267
 #, python-brace-format
 msgid "Nécessite : {mods}"
 msgstr ""
 
-#: models/mod.py:253
+#: models/mod.py:273
 #, python-brace-format
 msgid "Incompatible avec : {mods}"
-msgstr ""
-
-#: settings.py:33
-msgid "Mod de qualité"
-msgstr ""
-
-#: settings.py:37
-msgid "Mod pouvant poser des problèmes"
-msgstr ""
-
-#: settings.py:41
-msgid "Mod à éviter ou obsolète"
-msgstr ""
-
-#: settings.py:47
-msgid "Mod traduit"
-msgstr ""
-
-#: settings.py:51
-msgid "Mod partiellement traduit"
-msgstr ""
-
-#: settings.py:55
-msgid "Mod non traduit"
-msgstr ""
-
-#: settings.py:61 i18n.py:115
-msgid "Mod Weidu"
-msgstr ""
-
-#: settings.py:65
-msgid "Mod override, non désinstallable"
-msgstr ""
-
-#: settings.py:116
-msgid "Patch non officiel"
-msgstr ""
-
-#: settings.py:117
-msgid "Utilitaire"
-msgstr ""
-
-#: settings.py:118
-msgid "Conversion"
-msgstr ""
-
-#: settings.py:119
-msgid "Interface"
-msgstr ""
-
-#: settings.py:120
-msgid "Cosmétique"
-msgstr ""
-
-#: settings.py:121
-msgid "Portrait et son"
-msgstr ""
-
-#: settings.py:122
-msgid "Quête"
-msgstr ""
-
-#: settings.py:123
-msgid "PNJ recrutable"
-msgstr ""
-
-#: settings.py:124
-msgid "PNJ One Day"
-msgstr ""
-
-#: settings.py:125
-msgid "PNJ (autre)"
-msgstr ""
-
-#: settings.py:126
-msgid "Forgeron et marchand"
-msgstr ""
-
-#: settings.py:127
-msgid "Sort et objet"
-msgstr ""
-
-#: settings.py:128
-msgid "Kit"
-msgstr ""
-
-#: settings.py:129
-msgid "Gameplay"
-msgstr ""
-
-#: settings.py:130
-msgid "Script et tactique"
-msgstr ""
-
-#: settings.py:131
-msgid "Personnalisation du groupe"
 msgstr ""
 
 #: i18n.py:78
@@ -253,7 +257,7 @@ msgstr ""
 msgid "Mods recensés : "
 msgstr ""
 
-#: i18n.py:101
+#: i18n.py:102
 msgid ""
 "Voici la liste de mods de la saga Baldur's Gate disponibles au "
 "téléchargement. Afin qu'elle soit la plus précise possible, n'hésitez pas à "
@@ -266,7 +270,7 @@ msgid ""
 "nouveaux mods."
 msgstr ""
 
-#: i18n.py:104
+#: i18n.py:105
 msgid ""
 "Quiconque le souhaite peut apporter des modifications et des améliorations à "
 "cette liste sur ce <a href=\"https://github.com/RiwsPy/lcc-docs/\">dépôt "
@@ -275,18 +279,18 @@ msgid ""
 "soit de le \"forker\" et de proposer une \"Pull Request\"."
 msgstr ""
 
-#: i18n.py:107
+#: i18n.py:108
 msgid ""
 "N'oubliez-pas de consulter le <a href=\"https://github.com/RiwsPy/lcc-docs/"
 "README.md\">readme</a> avant de contribuer ainsi que les <a href=\"https://"
 "github.com/RiwsPy/lcc-docs/CONTRIBUTING.md\">guidelines</a>."
 msgstr ""
 
-#: i18n.py:109
+#: i18n.py:111
 msgid "AVERTISSEMENTS"
 msgstr ""
 
-#: i18n.py:111
+#: i18n.py:114
 msgid ""
 "Par sécurité, tous les liens qui proposent un téléchargement direct sont "
 "coupés en deux. La première partie est dans le lien et la seconde dans la "
@@ -297,10 +301,10 @@ msgid ""
 "zip`."
 msgstr ""
 
-#: i18n.py:113
+#: i18n.py:117
 msgid "Nom du mod"
 msgstr ""
 
-#: i18n.py:114
+#: i18n.py:118
 msgid "Légende :"
 msgstr ""
