@@ -33197,11 +33197,7 @@
         ],
         "status": "active",
         "last_update": "2026-01",
-        "compatibilities": {
-            "incompatible_with": [
-                1011
-            ]
-        },
+        "compatibilities": {},
         "tp2": "subrace"
     },
     {
@@ -43376,7 +43372,7 @@
         "languages": [
             "en",
             "ru",
-			"cn"
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-09",
@@ -63618,5 +63614,37 @@
             ]
         },
         "tp2": "SandrahPort"
+    },
+    {
+        "id": 1958,
+        "name": "Fouler Weather",
+        "description": "Modifie les types de brouillard et les conditions météorologiques pour diverses zones extérieures en fonction du biome prévu. Les forêts côtières connaissent davantage de tempêtes ou de brouillard, tandis que les forêts intérieures devraient recevoir davantage de pluie avec moins de risques de brouillard, etc. Les zones désertiques connaissent désormais des « tempêtes de sable » accompagnées d'un « brouillard » qui devrait correspondre à la couleur du sol, et plusieurs zones spéciales bénéficient également d'un brouillard approprié (comme le pont de Firewine, la cachette de Nyalee, etc.).",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38840-more-dismal-weather-wip/#ips_uid_7456_3"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Maur'Vir"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {
+            "requires": [
+                1327
+            ]
+        },
+        "tp2": "fouler_weather"
     }
 ]

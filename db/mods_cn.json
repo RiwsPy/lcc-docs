@@ -13295,7 +13295,9 @@
             "status": "done",
             "source": "Il s'agit d'un énorme projet conçu pour EET. Si vous aimez les Mary Sue, alors ce mod est pour vous, sinon passez votre chemin. Jeune guerrière-prêtresse de Mystra, originaire d'Eauprofonde, Sandrah est la fille d'un personnage célèbre des Royaumes, qui sort de l'ombre puissante de son père pour se faire un nom et aussi pour découvrir la partie cachée de son histoire familiale. L'intrigue se déroule tout au long de la découverte par le PC de qu'il/elle est. Mais ne vous y trompez pas, l'histoire de votre personnage passe au second plan, c'est celle de Sandrah qui compte ! La Saga comprend trois partie :- Sandrah NPC : PNJ recrutable et son lien à l'intrigue originale du jeu, de Château-Suif à ToB.|- Sandrah RtF (Return to Faerun) poursuit la saga de l'enfant de Bhaal et de Sandrah avec une nouvelle intrigue, d'anciens et de nouveaux compagnons, d'anciennes et de nouvelles zones, d'anciens et de nouveaux ennemis, etc.|- Sandrah ToT (Time of Troubles Revisited) est une option qui permet de continuer le jeu après RtF, tout en vous ramenant à l'époque précédant les autres événements. Vous devenez le témoin des événements qui ont conduit à votre naissance dans Baldur's Gate.|Et enfin, la cerise sur le gâteau ! Sandrah Saga nécessite une installation complète d'EET avec tous les \"gros mods\". Ou plus exactement, la version des mega mods dont les scenarios ont été modifiés par l'auteure pour les adapter à l'histoire de son héroïne. Bref, un mod mégalo à l'extrême..."
         },
-        "notes": ["额外的角色头像可在 [[1957]] 中找到。"],
+        "notes": [
+            "额外的角色头像可在 [[1957]] 中找到。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28091,9 +28093,9 @@
             "source": "Ce mod ajoute deux soundsets pour des personnages féminins :|- `Pious Knight` adaptée pour les personnages d'alignement Bon|- `Deadly Rogue` d'un ton un peu enjoué et cynique"
         },
         "notes": [
-		"语音由 [Glyph](https://www.castingcall.club/dawnglyph) 提供。",
-        "不保证与《冰风谷》/《冰风谷2》/《冰风谷增强版》的兼容性。"
-		],
+            "语音由 [Glyph](https://www.castingcall.club/dawnglyph) 提供。",
+            "不保证与《冰风谷》/《冰风谷2》/《冰风谷增强版》的兼容性。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28121,6 +28123,19 @@
         "description_meta": {
             "status": "done",
             "source": "Alternative Portraits for Sandrah NPC mod characters."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1958,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Modifie les types de brouillard et les conditions météorologiques pour diverses zones extérieures en fonction du biome prévu. Les forêts côtières connaissent davantage de tempêtes ou de brouillard, tandis que les forêts intérieures devraient recevoir davantage de pluie avec moins de risques de brouillard, etc. Les zones désertiques connaissent désormais des « tempêtes de sable » accompagnées d'un « brouillard » qui devrait correspondre à la couleur du sol, et plusieurs zones spéciales bénéficient également d'un brouillard approprié (comme le pont de Firewine, la cachette de Nyalee, etc.)."
         },
         "notes": [],
         "notes_meta": {

@@ -27884,5 +27884,18 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 1958,
+        "description": "Alters the fog types and weather patterns for various outdoor areas based on expected biome. Coastal forests should see more storms or fog, while inner forests should get more rain with a lower chance of fog, etc. Desert areas now have 'sand storms' with 'fog' that should match the ground color, and several special areas have appropriate fog as well (i.e. Firewine Bridge, Nyalee's Hideout, etc.)",
+        "description_meta": {
+            "status": "done",
+            "source": "Modifie les types de brouillard et les conditions météorologiques pour diverses zones extérieures en fonction du biome prévu. Les forêts côtières connaissent davantage de tempêtes ou de brouillard, tandis que les forêts intérieures devraient recevoir davantage de pluie avec moins de risques de brouillard, etc. Les zones désertiques connaissent désormais des « tempêtes de sable » accompagnées d'un « brouillard » qui devrait correspondre à la couleur du sol, et plusieurs zones spéciales bénéficient également d'un brouillard approprié (comme le pont de Firewine, la cachette de Nyalee, etc.)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]
