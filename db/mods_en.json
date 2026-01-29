@@ -27897,5 +27897,18 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 1959,
+        "description": "This mod allows Steam achievements from BG1EE, SoD, and BG2EE to unlock properly during an EET playthrough. Normally, EET is detected as BG2EE, preventing BG1/SoD achievements from unlocking.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod permet aux succès Steam de BG1EE, SoD et BG2EE de se débloquer correctement pendant une partie d'EET. Normalement, EET est détecté comme BG2EE, ce qui empêche les succès BG1/SoD de se débloquer."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

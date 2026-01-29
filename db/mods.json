@@ -63646,5 +63646,38 @@
             ]
         },
         "tp2": "fouler_weather"
+    },
+    {
+        "id": 1959,
+        "name": "Steam Achievements for EET",
+        "description": "Ce mod permet aux succès Steam de BG1EE, SoD et BG2EE de se débloquer correctement pendant une partie d'EET. Normalement, EET est détecté comme BG2EE, ce qui empêche les succès BG1/SoD de se débloquer.",
+        "urls": [
+            "https://github.com/Xarlith/EET_Achievements/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Xarlith"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2025-03",
+        "compatibilities": {
+            "requires": [
+                "EET"
+            ]
+        },
+        "tp2": "eet_achievements"
     }
 ]

@@ -28142,5 +28142,18 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 1959,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod permet aux succès Steam de BG1EE, SoD et BG2EE de se débloquer correctement pendant une partie d'EET. Normalement, EET est détecté comme BG2EE, ce qui empêche les succès BG1/SoD de se débloquer."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]
