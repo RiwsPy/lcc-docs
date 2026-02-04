@@ -63708,5 +63708,40 @@
         "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "IWEE_Reborn"
+    },
+    {
+        "id": 1961,
+        "name": "Hendak le barbare",
+        "description": "Ce mod vous permet d'enrôler Hendak, le gladiateur de la Couronne de Cuivre. Vous le trouvez comme d'habitude dans sa cellule. Il vous faut d'abord finir la quête qu'il vous donne dans le jeu pour pouvoir l'enrôler. Hendak est un barbare humain d'alignement chaotique bon. Il possède une quête propre en 3 actes pour SoA. Un quatrième acte est prévu pour ToB. Il possède de nombreux banters et une amitié assez courte sans contrainte de race, de sexe ou d'alignement.|FOR 18/48, DEX 16, CON 17, INT 10, SAG 6, CHA 12.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=28404",
+            "https://github.com/Plutonium-X/NPC_Hendak/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Totonin"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
+        "tp2": "Hendak"
     }
 ]
