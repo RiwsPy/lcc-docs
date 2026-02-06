@@ -27933,5 +27933,18 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 1962,
+        "description": "BWS-EE is a complete overhaul of [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup), which specialises in installing mods. In particular, it improves the interface and offers Linux compatibility. Like Big World Setup, it allows you to automatically download, extract and install mods, while managing conflicts, dependencies and installation orders. It thus offers an alternative to the [[1367]] tool. Its main features are: - It allows you to select the mods and components you want and fully automates the installation process. |- It supports mod presets.|- It automatically downloads most mods.|- It automatically extracts most mods.|- It manages the installation order.|- It alerts you to any conflicts in your selection and suggests solutions to avoid them.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "BWS-EE est une refonte complète du [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) spécialisé dans l'installation des mods. Il améliore notamment l'interface et propose une compatiblité Linux.|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative à l'outil [[1367]].|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]
