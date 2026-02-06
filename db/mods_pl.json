@@ -6828,6 +6828,9 @@
     },
     {
         "id": 495,
+        "team": [
+            "norQ"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -25278,11 +25281,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Remplacé par [[1784]] du même auteur.",
-                "Ce mod a disparu de https://github.com/bucketfulofsunshine/the-pursuit-of-justice/"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -26143,6 +26143,9 @@
     },
     {
         "id": 1900,
+        "team": [
+            "norQ"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",

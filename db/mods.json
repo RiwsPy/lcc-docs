@@ -2834,7 +2834,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Aura_BG1_2_EET"
     },
@@ -4986,7 +4986,7 @@
             "tr"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "bgqe"
     },
@@ -6403,7 +6403,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "c#brage"
     },
@@ -6639,7 +6639,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Brislelick"
     },
@@ -8677,7 +8677,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2025-12",
         "compatibilities": {},
         "tp2": "correctfrbg1ee"
     },
@@ -10655,10 +10655,11 @@
         "translation_state": "auto",
         "safe": 0,
         "languages": [
-            "en"
+            "en",
+            "ru"
         ],
         "status": "embed",
-        "last_update": "2023-05",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "DornFriendship"
     },
@@ -12289,7 +12290,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "c#endlessbg1"
     },
@@ -12892,7 +12893,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "expandedclasses"
     },
@@ -15873,7 +15874,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-03",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Helga"
     },
@@ -16450,10 +16451,11 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "pl"
         ],
         "status": "active",
-        "last_update": "2024-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "hommet"
     },
@@ -17459,7 +17461,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2026-01",
         "compatibilities": {
             "incompatible_with": [
                 528
@@ -28637,6 +28639,7 @@
         "description": "Ce mod a été conçu pour apporter diverses améliorations aux règles de BG2. Parmi les composants : un profil (Sword Angel) ; un rééquilibrage des métamorphes de façon plus raisonnable que celle de [[349]] ; le raffinement des armures avec la prise en compte du poids, l'échec sur les sorts profanes et les compétences de voleur ; et enfin des HLAs entièrement remodelées pour les rendre plus uniques à chaque classe et profil.",
         "urls": [
             "https://www.shsforums.net/topic/58623-refinements-hlas-modularized-and-on-bg2ee/",
+            "https://www.gibberlings3.net/forums/topic/27908-refinements-ee/",
             "https://github.com/Spellhold-Studios/Refinements/",
             "https://github.com/UnearthedArcana/refinements"
         ],
@@ -29553,7 +29556,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "sodrtd"
     },
@@ -34059,7 +34062,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2023-03",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "OurLady"
     },
@@ -36655,7 +36658,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2022-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "themed_tweaks"
     },
@@ -37638,7 +37641,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-01",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "A7-TotLM-BG2EE"
     },
@@ -37765,10 +37768,11 @@
             "fr",
             "de",
             "ru",
-            "es"
+            "es",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Tsujatha"
     },
@@ -40415,7 +40419,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "white"
     },
@@ -43375,7 +43379,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2026-01",
         "compatibilities": {
             "incompatible_with": [
                 1280
@@ -43491,7 +43495,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Autumns_Twilight"
     },
@@ -43716,7 +43720,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "BloodiedStingsOfBarovia"
     },
@@ -44227,7 +44231,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -45321,6 +45325,7 @@
         "name": "Call of the Lost Goddess",
         "description": "Ce mod ajoute une grosse quête d'une dizaine d'heures. Près de 50 nouvelles zones sont créées avec de nouveaux monstres. Cette quête est librement inspirée du module d'aventure de la seconde édition \"For Duty and Deity\" écrit par Dale Donovan.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/38129-released-mod-call-of-the-lost-goddess-a-quest-mod-for-bg2ee/",
             "https://forums.beamdog.com/discussion/88425/",
             "https://github.com/AciferBG/Call-of-the-Lost-Goddess"
         ],
@@ -45347,7 +45352,7 @@
             "pt"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Godcall"
     },
@@ -45935,10 +45940,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "es"
+            "es",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "kinfriendship"
     },
@@ -46099,7 +46105,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2025-09",
         "compatibilities": {},
         "tp2": "BG1NPCSoA"
     },
@@ -46162,7 +46168,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "lichdom"
     },
@@ -46495,7 +46501,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "ZSTweaks"
     },
@@ -47708,12 +47714,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
-        "status": "active",
-        "last_update": "2023-09",
+        "status": "missing",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "wl_SummonsFoW"
     },
@@ -49550,7 +49556,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "candlekeep_revisited"
     },
@@ -49696,7 +49702,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-02",
         "compatibilities": {
             "requires": [
                 "SoD"
@@ -52181,6 +52187,7 @@
         "description": "Le mod ajoute un nouveau bâtiment : la guilde des détectives dans les Bas-Quartier, qui peut devenir un bastion supplémentaire pour un joueur de n'importe quelle classe - s'il parvient à sauver la guilde de la faillite en deux semaines de jeu. Créée par le sorcier excentrique Adelard le Vagabond. La quête commencera après avoir rencontré un nouveau personnage inhabituel dans le bâtiment du Conseil des Six, dans le quartier du gouvernement.",
         "urls": [
             "https://arcanecoast.ru/forum/viewtopic.php?f=70&t=1653",
+            "https://www.gibberlings3.net/forums/topic/39164-quest-mod-detective-guild-of-athkatla/",
             "https://forums.beamdog.com/discussion/89121/",
             "https://github.com/Austin-BG/SearchGuild"
         ],
@@ -52981,7 +52988,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "OphysiaBG1"
     },
@@ -53240,11 +53247,10 @@
             "en",
             "it",
             "ru",
-            "fr",
-            "pt"
+            "fr"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "iwd2ee;iwd2ee_mod_compatibility_patch"
     },
@@ -57068,6 +57074,7 @@
         "name": "Throne of the Mad God",
         "description": "La litanie d'un barde vous met sur la piste d'un groupe d'aventuriers disparus. Saurez vous retrouver ce qu'il en reste dans cette vaste forteresse abandonnée ?",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/39354-mod-throne-of-the-mad-god-a-quest-mod-for-bg2ee/",
             "https://forums.beamdog.com/discussion/89267/",
             "https://github.com/AciferBG/Throne-of-the-Mad-God"
         ],
@@ -57819,7 +57826,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Derats_KriBinn"
     },
@@ -58268,6 +58275,7 @@
         "description": "La carte de Lunia offre un contraste rafraîchissant avec les nombreux lieux infernaux présents dans Baldur's Gate II. Malheureusement, seuls les groupes qui voyagent avec Dorn, généralement ceux d'alignement neutre ou mauvais, y ont accès.||Ce mod offre un chemin alternatif aux personnages d'alignement bon ou loyal neutre (avec une réputation de 14 ou plus) pour entrer à Lunia et aider les fidèles de Tyr à rendre justice.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/39862-lunia-for-good-parties-for-bg2ee-or-eet/",
+            "https://forums.beamdog.com/discussion/90535/",
             "https://github.com/bucketfulofsunshine/Lunia-For-Good-Parties/"
         ],
         "categories": [
@@ -58283,12 +58291,13 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
-        "status": "wip",
-        "last_update": "2025-09",
+        "status": "active",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "lfgp"
     },
@@ -58683,10 +58692,11 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "ArkanisSoD"
     },
@@ -59744,7 +59754,10 @@
         "id": 1834,
         "name": "The Pursuit of Justice",
         "description": "Ce mod propose un autre cheminement aux personnages d'alignement loyal bon, loyal neutre, chaotique bon et loyal neutre (avec une réputation de 14 ou plus) pour accomplir la quête SOA de Dorn (Resurrection Gorge) sans qu'il fasse partie du groupe.|En fait, dans cette version alternative des événements, Dorn lui-même devient le méchant de l'histoire.",
-        "urls": [],
+        "urls": [
+            "https://forums.beamdog.com/discussion/90535/",
+            "https://github.com/bucketfulofsunshine/the-pursuit-of-justice/"
+        ],
         "categories": [
             "Quête"
         ],
@@ -59756,17 +59769,14 @@
             "bucketfulofsunshine"
         ],
         "team": [],
-        "notes": [
-            "Remplacé par [[1784]] du même auteur.",
-            "Ce mod a disparu de https://github.com/bucketfulofsunshine/the-pursuit-of-justice/"
-        ],
-        "translation_state": "n/a",
-        "safe": 0,
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "embed",
-        "last_update": "2025-09",
+        "status": "wip",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "TPoJ"
     },
@@ -59784,7 +59794,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "RoyalProtector"
@@ -59797,7 +59808,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "ZS_Consumables"
     },
@@ -60073,7 +60084,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "DynaheirBG2EE"
     },
@@ -60581,7 +60592,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -61818,10 +61829,11 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "pl"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Vito"
     },
@@ -62533,7 +62545,7 @@
             "BG2EE"
         ],
         "authors": [
-            "Secretum Nexus"
+            "Secretum Nexum"
         ],
         "team": [],
         "notes": [],
@@ -62921,7 +62933,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2021-10",
+        "last_update": "2024-10",
         "compatibilities": {},
         "tp2": "snares_check_weapon_immunity"
     },
@@ -63077,7 +63089,7 @@
             "fr"
         ],
         "status": "wip",
-        "last_update": "2025-04",
+        "last_update": "2025-03",
         "compatibilities": {},
         "tp2": "ItemDispatcher"
     },
@@ -63207,7 +63219,7 @@
             "fr"
         ],
         "status": "embed",
-        "last_update": "2025-08",
+        "last_update": "2025-09",
         "compatibilities": {},
         "tp2": "pst-ub"
     },
@@ -63420,7 +63432,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-05",
+        "last_update": "2025-02",
         "compatibilities": {},
         "tp2": "Aelar-Wares"
     },
@@ -63520,6 +63532,7 @@
         "name": "ZS_Soundsets",
         "description": "Ce mod ajoute deux soundsets pour des personnages féminins :|- `Pious Knight` adaptée pour les personnages d'alignement Bon|- `Deadly Rogue` d'un ton un peu enjoué et cynique",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/40987-kaelyns-soundsets-zs_soundsets/",
             "https://github.com/szaumoor/ZS_Soundsets/"
         ],
         "categories": [
@@ -63605,7 +63618,9 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-12",
         "compatibilities": {
@@ -63670,7 +63685,9 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2025-03",
         "compatibilities": {
@@ -63678,7 +63695,7 @@
                 "EET"
             ]
         },
-        "tp2": "eet_achievements"
+        "tp2": "EET_achievements"
     },
     {
         "id": 1960,
@@ -63705,7 +63722,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "IWEE_Reborn"
     },
@@ -63736,7 +63753,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {
             "requires": [
                 "ToB"

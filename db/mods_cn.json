@@ -16500,7 +16500,10 @@
             "source": [
                 "Choisissez le lien github pour la version BG2EE/EET."
             ]
-        }
+        },
+        "team": [
+            "zj1985"
+        ]
     },
     {
         "id": 1134,
@@ -18912,7 +18915,10 @@
         "notes_meta": {
             "status": "done",
             "source": []
-        }
+        },
+        "team": [
+            "MephistoSatanDevil"
+        ]
     },
     {
         "id": 1303,
@@ -25946,6 +25952,9 @@
     },
     {
         "id": 1797,
+        "team": [
+            "Scarecrow"
+        ],
         "description": "阿尔卡尼斯，烛堡团队成员和矮人观察者，在官方DLC《龙矛围攻》中作为潜在同伴回归。他已晋升为圣武士。该角色拥有友好对话、插话、笑话，以及可能与非邪恶角色发展浪漫关系的剧情（性别和属性值不重要，但在友好过程中您必须至少两次向他示意或给出线索，以让他注意到您的兴趣）。您一离开博德之门，他就可以加入队伍。",
         "description_meta": {
             "status": "done",
@@ -26466,16 +26475,10 @@
             "status": "done",
             "source": "Ce mod propose un autre cheminement aux personnages d'alignement loyal bon, loyal neutre, chaotique bon et loyal neutre (avec une réputation de 14 ou plus) pour accomplir la quête SOA de Dorn (Resurrection Gorge) sans qu'il fasse partie du groupe.|En fait, dans cette version alternative des événements, Dorn lui-même devient le méchant de l'histoire."
         },
-        "notes": [
-            "由同一作者的 [[1784]] 替代。",
-            "该模组已从 https://github.com/bucketfulofsunshine/the-pursuit-of-justice/ 移除。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Remplacé par [[1784]] du même auteur.",
-                "Ce mod a disparu de https://github.com/bucketfulofsunshine/the-pursuit-of-justice/"
-            ]
+            "source": []
         }
     },
     {
