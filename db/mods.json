@@ -875,24 +875,20 @@
         "description": "Créé à l'origine pour Baldur's Gate 2 avec le mod [[1601]], ce mod a été réécrit pour ne pas nécessiter [[1062]]. Il ajoute du nouveau contenu : des quêtes (dont certaines très courtes), des monstres, des objets et de nouvelles zones.",
         "urls": [
             "https://www.shsforums.net/files/file/119-ajocs-minimod/",
-            "https://github.com/RoxanneSHS/AjocMod"
+            "https://github.com/Spellhold-Studios/AjocMod/"
         ],
         "categories": [
             "Quête"
         ],
         "games": [
             "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Ajoc"
         ],
         "team": [],
-        "notes": [
-            "Le second lien renvoie vers une version de Roxanne plus récente et plus complète. Uniquement compatible EE, cette version est également non officielle, son nom est devenu `Loron's Return`."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -900,11 +896,10 @@
             "es",
             "ru",
             "de",
-            "it",
-            "cn"
+            "it"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "AjocMod"
     },
@@ -3430,7 +3425,7 @@
             "de",
             "it",
             "ru",
-			"cn"
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-07",
@@ -15095,7 +15090,11 @@
         "languages": [],
         "status": "wip",
         "last_update": "2004-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "non-weidu"
     },
     {
@@ -27749,7 +27748,7 @@
             "fr",
             "de",
             "ru",
-			"cn"
+            "cn"
         ],
         "status": "active",
         "last_update": "2023-06",
@@ -33834,7 +33833,7 @@
         "languages": [
             "en",
             "es",
-			"cn"
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-10",
@@ -36255,7 +36254,7 @@
             "BGT",
             "BGEE",
             "SoD",
-			"EET"
+            "EET"
         ],
         "authors": [
             "Red Carnelian"
@@ -40450,7 +40449,9 @@
             "the bigg"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Une version améliorée est proposée pour BG uniquement dans le mod [[1964]]."
+        ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -40463,7 +40464,11 @@
         ],
         "status": "active",
         "last_update": "2021-07",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "Windows"
+            ]
+        },
         "tp2": "widescreen"
     },
     {
@@ -46107,7 +46112,7 @@
         "languages": [
             "en",
             "ru",
-			"cn"
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-09",
@@ -46904,6 +46909,7 @@
         "description": "L'Infinity Engine fonctionne de telle sorte que la vitesse du jeu est directement liée à la vitesse de rendu du moteur. Par conséquent, si vous essayez de doubler la vitesse par défaut à 60 images par seconde, vous accélérerez également le temps de jeu. Cela affecte le temps dont dispose le joueur pour accomplir les objectifs/quêtes chronométrés, ainsi que la durée des sorts, potions, etc. Ce projet est un mod de vitesse de jeu qui tente de résoudre ce problème. Une fois chargé, le jeu tourne à 60 FPS mais le temps n'est pas modifié !",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/33576-mod-beta-timer-mod/",
+            "https://forums.beamdog.com/discussion/82849/",
             "https://github.com/LionAG/IE-EE-GameSpeedMod"
         ],
         "categories": [
@@ -46918,7 +46924,6 @@
         ],
         "team": [],
         "notes": [
-            "Fonctionnel que sous Windows.",
             "Cela nécessite de lancer l'exe du jeu avec l'exécutable ainsi créé."
         ],
         "translation_state": "n/a",
@@ -46931,6 +46936,9 @@
         "compatibilities": {
             "incompatible_with": [
                 348
+            ],
+            "requires": [
+                "Windows"
             ]
         },
         "tp2": "n/a"
@@ -50424,7 +50432,7 @@
         "status": "active",
         "last_update": "2023-03",
         "compatibilities": {},
-        "tp2": "bubb_sprite_highlight_extender;bubb_revert_pathfinding;bubb_fix_bg2_tot_crash;bubb_enable_pst_console;bubb_disable_stoneskin_color;b3_identify"
+        "tp2": "bubb_sprite_highlight_extender;bubb_revert_pathfinding;bubb_fix_bg2_tot_crash;bubb_enable_pst_console;bubb_disable_stoneskin_color;b3_identify;B3-TotLM-OGMirrorImage"
     },
     {
         "id": 1526,
@@ -63802,5 +63810,415 @@
         "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "n/a"
+    },
+    {
+        "id": 1963,
+        "name": "Mirror Game Maps",
+        "description": "Cet outil vous permet d'inverser horizontalement n'importe quelle carte des jeux Infinity Engine. Il a été codé comme un mod WeiDU, afin de pouvoir être exécuté sur n'importe quelle plateforme prise en charge par WeiDU.",
+        "urls": [
+            "https://www.shsforums.net/files/file/1163-mirror-game-maps/",
+            "https://github.com/Argent77/Mirror-Game-Maps/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG",
+            "Tutu",
+            "BG2",
+            "IWD",
+            "IWD2",
+            "PST",
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE",
+            "PSTEE"
+        ],
+        "authors": [
+            "Argent77"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-02",
+        "compatibilities": {},
+        "tp2": "MirrorMaps"
+    },
+    {
+        "id": 1964,
+        "name": "Enhanced Widescreen",
+        "description": "Enhanced Widescreen vise à remplacer le mod original [[1216]] pour certains jeux Infinity Engine.",
+        "urls": [
+            "https://github.com/Bubb13/EnhancedWidescreen/"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BG"
+        ],
+        "authors": [
+            "Bubb"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-04",
+        "compatibilities": {
+            "requires": [
+                "Baldur's Gate v1.3.5521",
+                "Microsoft Visual C++ Redistributable"
+            ]
+        },
+        "tp2": "B3EnhancedWidescreen"
+    },
+    {
+        "id": 1965,
+        "name": "Candlelight for Dragonspear UI++",
+        "description": "Ce mod modifie la couleur de l'interface du mod [[324]]. La plupart des éléments importants sont recolorés. Les éléments plus petits de l'interface utilisateur restent inchangés. Le résultat devrait être assez cohérent, mais il ne s'agit pas d'une recoloration complète et elle restera incomplète.",
+        "urls": [
+            "https://github.com/cdxuu/candlelight-for-uipp/"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "cdx"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-09",
+        "compatibilities": {
+            "requires": [
+                324
+            ]
+        },
+        "tp2": "candlelight-for-uipp"
+    },
+    {
+        "id": 1966,
+        "name": "Swankified HUD",
+        "description": "L'auteur propose une interface utilisateur basée sur [[324]] plus élégante pour le gameplay. Il a essayé d'adopter une approche plus moderne, en mettant toute l'interface utilisateur au même endroit, pour en faciliter l'accès.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/59789/"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Dameon2"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": "active",
+        "last_update": "2016-06",
+        "compatibilities": {
+            "requires": [
+                324
+            ]
+        },
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1967,
+        "name": "Blood Rager fighter kit",
+        "description": "Au premier abord, les Blood Rager n'ont rien de particulier. Cependant, dès qu'ils portent leur premier coup fatal, quelque chose de primitif s'éveille en eux, quelque chose qui se délecte du sang versé et en redemande immédiatement. Dès lors, l'odeur du sang et le frisson de la mise à mort les plongent dans un état d'agressivité hyper concentrée, que ceux qui les voient à l'œuvre interprètent à tort comme une frénésie barbare.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/83946/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Allbrother"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-04",
+        "compatibilities": {},
+        "tp2": "wlbarb"
+    },
+    {
+        "id": 1968,
+        "name": "Improved Energy Blade appearance",
+        "description": "Ce mini-mod modifie l'apparence et le projectile des Lames d'Énergie.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/35882-energy-blade-appearance-minimod/"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Polytope"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-02",
+        "compatibilities": {},
+        "tp2": "polyblade"
+    },
+    {
+        "id": 1969,
+        "name": "Shield Bashing For Goodness",
+        "description": "Ce mod rend tous les boucliers plus puissants. En plus des bonus défensifs qu'ils confèrent, permettent désormais d'effectuer 1 attaque par round, comme si vous aviez une arme dans votre main secondaire. Ils bénéficient d'un bonus de force aux dégâts, mais pas au thac0. Ils ont également une chance d'étourdir l'ennemi si celui-ci échoue son jet de sauvegarde contre la mort. Chaque type de bouclier possède des statistiques différentes.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/81710/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Allbrother"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2021-03",
+        "compatibilities": {},
+        "tp2": "shieldbash"
+    },
+    {
+        "id": 1970,
+        "name": "Vicril",
+        "description": "Vicril est un personnage mystérieux, tri-classé G/M/V, il possède une arme spécifique (qu'il faut trouver), une mini-quête et quelques banters.",
+        "urls": [
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=7935",
+            "https://forums.beamdog.com/discussion/86502/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Ruffle_truffle"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2022-08",
+        "compatibilities": {},
+        "tp2": "Vicril"
+    },
+    {
+        "id": 1971,
+        "name": "Minx Soundsets",
+        "description": "Ceci est un pack vocal basé sur la voix de l'autrice. Elle s'est inspiré de quelques packs de voix qu'elle a trouvé en ligne, en particulier « Red », et d'une des voix féminines par défaut de Neverwinter Nights. Il est destiné à un personnage féminin, peut-être une mage, une sorcière, une archère, une voleuse, ou toute autre personne à qui vous pensez qu'il conviendrait.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/88591/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "SoD",
+            "IWDEE"
+        ],
+        "authors": [
+            "Layna"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-07",
+        "compatibilities": {},
+        "tp2": "Minx_soundsets"
+    },
+    {
+        "id": 1972,
+        "name": "Belm ring",
+        "description": "Vous rencontrez un djinn à Franc-Marché qui peut convertir chacune des trois armes rapides (Belm, Ninja-To violet, Kundane) en anneaux boostant le nombre d'attaque par round (la qualité des anneaux varie, les trois anneaux n'ont pas tous un bonus +1). L'objectif est de rendre l'utilisation des armes à deux mains plus intéressante et éviter d'avoir à utiliser une arme rapide dans la main secondaire pour obtenir des configurations optimales.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38583-belm-ring-mod-a-djinn-that-can-create-apr-rings-from-belmkundanesnt/"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "cdx"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-08",
+        "compatibilities": {},
+        "tp2": "uubelmring"
+    },
+    {
+        "id": 1973,
+        "name": "Oublek's Jobs",
+        "description": "Ce mod ajoute 12 nouvelles mini-quêtes répétables et semi-aléatoires de qualité variable, disponibles auprès d'Oublek à Nashkel. Cela faisait partie d'un mod plus important sur lequel l'auteur travaillait et qui a peu de chances d'être terminé.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgateenhancededition/mods/7/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "AlbiesEmporium"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-01",
+        "compatibilities": {},
+        "tp2": "wl_oublek"
+    },
+    {
+        "id": 1974,
+        "name": "Color Armors and Helmets",
+        "description": "Le marchand du carnaval de Nashkel vend 24 variantes de casques décoratifs, 6 variantes de cottes de mailles et 6 variantes d'armures complètes en couleurs.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/12/"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "spyrowawelski"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2021-03",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1975,
+        "name": "Books and Boots",
+        "description": "Ce mod ajoute de nouveaux objets (principalement des bijoux, des livres et des bottes), il fait progresser les personnages grâce à des livres, plutôt que miser seulement sur les niveaux supplémentaires et l'équipement|Fossé financier : les nouveaux livres coûtent cher, ce qui donne désormais aux joueurs une raison et un endroit où dépenser leurs richesses.|Bottes de vitesse : il y en a désormais suffisamment pour tout le groupe.|Amélioration de la fluidité des connaissances et de l'avancement du poids transporté : chaque nouveau point de sagesse, d'intelligence et de force fait la différence.|Certaines femmes possèdent désormais de nouveaux bijoux (comme Silke, par exemple). Cela peut rendre certains combats un tout petit peu plus difficiles.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/89/"
+        ],
+        "categories": [
+            "Sort et objet",
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Pufuc"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-10",
+        "compatibilities": {},
+        "tp2": "Books"
     }
 ]

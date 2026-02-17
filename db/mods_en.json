@@ -400,14 +400,10 @@
             "status": "needs_review",
             "source": "Créé à l'origine pour Baldur's Gate 2 avec le mod [[1601]], ce mod a été réécrit pour ne pas nécessiter [[1062]]. Il ajoute du nouveau contenu : des quêtes (dont certaines très courtes), des monstres, des objets et de nouvelles zones."
         },
-        "notes": [
-            "The second link is to a more recent and complete version of Roxanne. EE-compatible only, this version is also unofficial, its name having been changed to `Loron's Return`."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Le second lien renvoie vers une version de Roxanne plus récente et plus complète. Uniquement compatible EE, cette version est également non officielle, son nom est devenu `Loron's Return`."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -17525,8 +17521,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Une version améliorée est proposée pour BG uniquement dans le mod [[1964]]."
+            ]
         }
     },
     {
@@ -20284,13 +20282,11 @@
             "source": "L'Infinity Engine fonctionne de telle sorte que la vitesse du jeu est directement liée à la vitesse de rendu du moteur. Par conséquent, si vous essayez de doubler la vitesse par défaut à 60 images par seconde, vous accélérerez également le temps de jeu. Cela affecte le temps dont dispose le joueur pour accomplir les objectifs/quêtes chronométrés, ainsi que la durée des sorts, potions, etc. Ce projet est un mod de vitesse de jeu qui tente de résoudre ce problème. Une fois chargé, le jeu tourne à 60 FPS mais le temps n'est pas modifié !"
         },
         "notes": [
-            "Works only on Windows.",
             "This requires launching the game exe with the executable thus created."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Fonctionnel que sous Windows.",
                 "Cela nécessite de lancer l'exe du jeu avec l'exécutable ainsi créé."
             ]
         }
@@ -27940,6 +27936,175 @@
         "description_meta": {
             "status": "needs_review",
             "source": "BWS-EE est une refonte complète du [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) spécialisé dans l'installation des mods. Il améliore notamment l'interface et propose une compatiblité Linux.|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative à l'outil [[1367]].|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1963,
+        "description": "This tool allows you to horizontally mirror any given map from Infinity Engine games. It has been coded as a WeiDU mod, so that it can be executed on any platform supported by WeiDU.",
+        "description_meta": {
+            "status": "done",
+            "source": "Cet outil vous permet d'inverser horizontalement n'importe quelle carte des jeux Infinity Engine. Il a été codé comme un mod WeiDU, afin de pouvoir être exécuté sur n'importe quelle plateforme prise en charge par WeiDU."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1964,
+        "description": "Enhanced Widescreen aims to supersede the original [[1216]] Mod for select Infinity Engine games.",
+        "description_meta": {
+            "status": "done",
+            "source": "Enhanced Widescreen vise à remplacer le mod original [[1216]] pour certains jeux Infinity Engine."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1965,
+        "description": "This mod changes the color of [[324]] mod interface. Most big elements are recolored. Smaller UI elements remain unchanged. It should look consistent enough, but it is not a full recolor and will stay incomplete.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod modifie la couleur de l'interface du mod [[324]]. La plupart des éléments importants sont recolorés. Les éléments plus petits de l'interface utilisateur restent inchangés. Le résultat devrait être assez cohérent, mais il ne s'agit pas d'une recoloration complète et elle restera incomplète."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1966,
+        "description": "The author proposes a more elegant user interface based on [[324]] for the main gameplay. He has attempted to adopt a more modern approach, placing all the UI on the same level, easy access.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "L'auteur propose une interface utilisateur basée sur [[324]] plus élégante pour le gameplay. Il a essayé d'adopter une approche plus moderne, en mettant toute l'interface utilisateur au même endroit, pour en faciliter l'accès."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1967,
+        "description": "Until their first battle, there is nothing special about the Blood Rager. Upon first delivering a deathblow however, something primal awakens within - something that revels in the bloodshed and immediately craves more. Henceforth the smell of blood and thrill of the kill excites them into a state of hyper focused aggression, mistakenly assumed to be some barbaric frenzy by others seeing it in action.",
+        "description_meta": {
+            "status": "done",
+            "source": "Au premier abord, les Blood Rager n'ont rien de particulier. Cependant, dès qu'ils portent leur premier coup fatal, quelque chose de primitif s'éveille en eux, quelque chose qui se délecte du sang versé et en redemande immédiatement. Dès lors, l'odeur du sang et le frisson de la mise à mort les plongent dans un état d'agressivité hyper concentrée, que ceux qui les voient à l'œuvre interprètent à tort comme une frénésie barbare."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1968,
+        "description": "This mini-mod changes the appearance and projectile of Energy Blades.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mini-mod modifie l'apparence et le projectile des Lames d'Énergie."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1969,
+        "description": "This mod makes all shields bash. In addition to whatever defensive bonuses they provide, now also do 1 attack per round as if you had a weapon in your offhand. They get strength bonus to damage, but not to thac0. And they have a chance to stun if the enemy fails a save vs death. Each type of shield gets different stats.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod rend tous les boucliers plus puissants. En plus des bonus défensifs qu'ils confèrent, permettent désormais d'effectuer 1 attaque par round, comme si vous aviez une arme dans votre main secondaire. Ils bénéficient d'un bonus de force aux dégâts, mais pas au thac0. Ils ont également une chance d'étourdir l'ennemi si celui-ci échoue son jet de sauvegarde contre la mort. Chaque type de bouclier possède des statistiques différentes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1970,
+        "description": "Vicril is a mysterious character, multi-classed F/M/T. He has a specific weapon (which must be found), a mini-quest and some banter.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Vicril est un personnage mystérieux, tri-classé G/M/V, il possède une arme spécifique (qu'il faut trouver), une mini-quête et quelques banters."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1971,
+        "description": "This is a mod with a custom voice pack using the author's voice. She was inspired by a few of the voice packs she found online, particularly 'Red', and by one of the default Neverwinter Nights Female voices. It's intended for a female character, possibly a Mage, Sorceress, Archer, Rogue, or whoever else you think it suits.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ceci est un pack vocal basé sur la voix de l'autrice. Elle s'est inspiré de quelques packs de voix qu'elle a trouvé en ligne, en particulier « Red », et d'une des voix féminines par défaut de Neverwinter Nights. Il est destiné à un personnage féminin, peut-être une mage, une sorcière, une archère, une voleuse, ou toute autre personne à qui vous pensez qu'il conviendrait."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1972,
+        "description": "You meet a djinn at Trademeet that can convert each of the three speed weapons (Belm, Scarlet Ninja-To, Kundane) to +APR rings (ring vary in quality, not all three rings have full +1APR). The aim is to make use of two-handed weapons more interesting and to avoid having to use speed weapon in the off-hand for optimal builds.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Vous rencontrez un djinn à Franc-Marché qui peut convertir chacune des trois armes rapides (Belm, Ninja-To violet, Kundane) en anneaux boostant le nombre d'attaque par round (la qualité des anneaux varie, les trois anneaux n'ont pas tous un bonus +1). L'objectif est de rendre l'utilisation des armes à deux mains plus intéressante et éviter d'avoir à utiliser une arme rapide dans la main secondaire pour obtenir des configurations optimales."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1973,
+        "description": "This mod adds 12 new repeatable, semi-randomized mini-quests of varying quality available from Oublek in Nashkel. This was part of a larger mod the author was working on that's unlikely to get finished.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod ajoute 12 nouvelles mini-quêtes répétables et semi-aléatoires de qualité variable, disponibles auprès d'Oublek à Nashkel. Cela faisait partie d'un mod plus important sur lequel l'auteur travaillait et qui a peu de chances d'être terminé."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1974,
+        "description": "Nashkel carnival merchant sell 24 variants of decoorative helmets, 6 variants of Plate Mails and 6 variants of Full Plate Mails in colors.",
+        "description_meta": {
+            "status": "done",
+            "source": "Le marchand du carnaval de Nashkel vend 24 variantes de casques décoratifs, 6 variantes de cottes de mailles et 6 variantes d'armures complètes en couleurs."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1975,
+        "description": "This mod that adds new items (mostly jewerly, books and boots) it advances characters through books, rather than relying solely on additional levels and equipment|Money sink - new books cost a lot, so now player has a reason and a place to spend their riches|Boots of speed - now there is enough of them for whole party|Smoother lore and carry weight advancement - every new point of wisdom, intelligence and strength makes a difference|Some women now have new jewelry in their possession(like Silke for example). It may make a few fights a tiny little bit more difficult ",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute de nouveaux objets (principalement des bijoux, des livres et des bottes), il fait progresser les personnages grâce à des livres, plutôt que miser seulement sur les niveaux supplémentaires et l'équipement|Fossé financier : les nouveaux livres coûtent cher, ce qui donne désormais aux joueurs une raison et un endroit où dépenser leurs richesses.|Bottes de vitesse : il y en a désormais suffisamment pour tout le groupe.|Amélioration de la fluidité des connaissances et de l'avancement du poids transporté : chaque nouveau point de sagesse, d'intelligence et de force fait la différence.|Certaines femmes possèdent désormais de nouveaux bijoux (comme Silke, par exemple). Cela peut rendre certains combats un tout petit peu plus difficiles."
         },
         "notes": [],
         "notes_meta": {
