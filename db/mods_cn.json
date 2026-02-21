@@ -17683,9 +17683,11 @@
             "status": "done",
             "source": "Ce mod est une combinaison de patchs et de modifications d'interface graphique de jeu permettant de jouer à BG (avec son extension TotSC), BG2 (avec ou sans ToB), Icewind Dale (avec ses extensions HoW et TotLM) et Icewind Dale 2 et Planescape:Torment dans des résolutions autres que celles imposées (pour BG et PsT) ou celles proposées par les jeux (pour BG2, Icewind Dale avec son extension HoW et Icewind Dale 2).|Le terme de patch indique qu'il modifie l'exécutable du jeu pour forcer la résolution que vous choisissez lors de l'installation. La conséquence est que le mod n'est compatible qu'avec Windows (et Linux via l'émulation Windows). Désolé pour les utilisateurs de Mac."
         },
-        "notes": [],
+        "notes": [
+			"模组 [[1964]] 中为博德之门单独提供了一个优化版。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Une version améliorée est proposée pour BG uniquement dans le mod [[1964]]."
             ]
@@ -28196,9 +28198,9 @@
     },
     {
         "id": 1963,
-        "description": "",
+        "description": "该工具允许您水平翻转任何无限引擎游戏的地图。它被编写为一个WeiDU模组，以便能够在WeiDU支持的任何平台上运行。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Cet outil vous permet d'inverser horizontalement n'importe quelle carte des jeux Infinity Engine. Il a été codé comme un mod WeiDU, afin de pouvoir être exécuté sur n'importe quelle plateforme prise en charge par WeiDU."
         },
         "notes": [],
@@ -28209,9 +28211,9 @@
     },
     {
         "id": 1964,
-        "description": "",
+        "description": "Enhanced Widescreen 旨在取代针对部分无限引擎游戏的原始模组 [[1216]]。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Enhanced Widescreen vise à remplacer le mod original [[1216]] pour certains jeux Infinity Engine."
         },
         "notes": [],
@@ -28222,9 +28224,9 @@
     },
     {
         "id": 1965,
-        "description": "",
+        "description": "该模组修改了模组 [[324]] 的界面颜色。大部分重要元素已被重新着色。用户界面中较小的元素保持不变。最终效果应该会相当一致，但这并非一次完整的重新上色，并且会不完整。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod modifie la couleur de l'interface du mod [[324]]. La plupart des éléments importants sont recolorés. Les éléments plus petits de l'interface utilisateur restent inchangés. Le résultat devrait être assez cohérent, mais il ne s'agit pas d'une recoloration complète et elle restera incomplète."
         },
         "notes": [],
@@ -28235,9 +28237,9 @@
     },
     {
         "id": 1966,
-        "description": "",
+        "description": "作者提供了一个基于 [[324]] 的、更优雅的游戏界面。他试图采用更现代的方法，将所有用户界面置于同一位置，以便于访问。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "L'auteur propose une interface utilisateur basée sur [[324]] plus élégante pour le gameplay. Il a essayé d'adopter une approche plus moderne, en mettant toute l'interface utilisateur au même endroit, pour en faciliter l'accès."
         },
         "notes": [],
@@ -28248,9 +28250,9 @@
     },
     {
         "id": 1967,
-        "description": "",
+        "description": "乍一看，血怒者并无特别之处。然而，一旦他们打出第一次致命一击，某种原始的东西便会在他们体内苏醒，某种嗜血且立刻渴望更多鲜血的东西。从那一刻起，鲜血的气味和杀戮的快感使他们陷入一种高度集中的攻击性状态，目睹他们战斗的人会误以为这是野蛮人的狂乱。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Au premier abord, les Blood Rager n'ont rien de particulier. Cependant, dès qu'ils portent leur premier coup fatal, quelque chose de primitif s'éveille en eux, quelque chose qui se délecte du sang versé et en redemande immédiatement. Dès lors, l'odeur du sang et le frisson de la mise à mort les plongent dans un état d'agressivité hyper concentrée, que ceux qui les voient à l'œuvre interprètent à tort comme une frénésie barbare."
         },
         "notes": [],
@@ -28261,9 +28263,9 @@
     },
     {
         "id": 1968,
-        "description": "",
+        "description": "这个迷你模组修改了能量之刃的外观及其投射物。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mini-mod modifie l'apparence et le projectile des Lames d'Énergie."
         },
         "notes": [],
@@ -28274,9 +28276,9 @@
     },
     {
         "id": 1969,
-        "description": "",
+        "description": "该模组使所有盾牌变得更强大。除了它们提供的防御加成外，现在每轮还能进行一次攻击，就如同副手持有武器一般。它们获得基于力量的伤害加成，但没有零级命中值（thac0）加成。此外，它们还有几率在敌人未能通过死亡豁免检定时将其击晕。每种类型的盾牌都拥有不同的属性。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod rend tous les boucliers plus puissants. En plus des bonus défensifs qu'ils confèrent, permettent désormais d'effectuer 1 attaque par round, comme si vous aviez une arme dans votre main secondaire. Ils bénéficient d'un bonus de force aux dégâts, mais pas au thac0. Ils ont également une chance d'étourdir l'ennemi si celui-ci échoue son jet de sauvegarde contre la mort. Chaque type de bouclier possède des statistiques différentes."
         },
         "notes": [],
@@ -28287,9 +28289,9 @@
     },
     {
         "id": 1970,
-        "description": "",
+        "description": "维克里尔是一个神秘的角色，职业为战/法/盗三修。他拥有一件专属武器（需要找到），并附带一个迷你任务和一些闲聊互动。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Vicril est un personnage mystérieux, tri-classé G/M/V, il possède une arme spécifique (qu'il faut trouver), une mini-quête et quelques banters."
         },
         "notes": [],
@@ -28300,9 +28302,9 @@
     },
     {
         "id": 1971,
-        "description": "",
+        "description": "这是一个基于作者本人声音制作的语音包。她的灵感来源于她在网上找到的一些语音包，特别是“Red”，以及《无冬之夜》中的一个默认女性声音。此语音包适用于女性角色，可能是法师、术士、弓箭手、盗贼，或任何您认为合适的其他角色。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ceci est un pack vocal basé sur la voix de l'autrice. Elle s'est inspiré de quelques packs de voix qu'elle a trouvé en ligne, en particulier « Red », et d'une des voix féminines par défaut de Neverwinter Nights. Il est destiné à un personnage féminin, peut-être une mage, une sorcière, une archère, une voleuse, ou toute autre personne à qui vous pensez qu'il conviendrait."
         },
         "notes": [],
@@ -28313,9 +28315,9 @@
     },
     {
         "id": 1972,
-        "description": "",
+        "description": "你在商贸集会遇到一名巨灵，它可以将三把加速武器（贝姆、紫色忍者刀、昆丹）分别转化为提升每轮攻击次数的戒指（戒指品质各异，并非三枚戒指都提供 +1 加成）。其目的是让双手武器的使用更具吸引力，并避免为了获得最佳配置而不得不在副手使用快速武器。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Vous rencontrez un djinn à Franc-Marché qui peut convertir chacune des trois armes rapides (Belm, Ninja-To violet, Kundane) en anneaux boostant le nombre d'attaque par round (la qualité des anneaux varie, les trois anneaux n'ont pas tous un bonus +1). L'objectif est de rendre l'utilisation des armes à deux mains plus intéressante et éviter d'avoir à utiliser une arme rapide dans la main secondaire pour obtenir des configurations optimales."
         },
         "notes": [],
@@ -28326,9 +28328,9 @@
     },
     {
         "id": 1973,
-        "description": "",
+        "description": "该模组为那西凯的欧布贝克添加了12个新的、可重复且半随机的迷你任务，任务质量各异。这曾是作者正在制作的一个较大型模组的一部分，但该模组不太可能完成了。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute 12 nouvelles mini-quêtes répétables et semi-aléatoires de qualité variable, disponibles auprès d'Oublek à Nashkel. Cela faisait partie d'un mod plus important sur lequel l'auteur travaillait et qui a peu de chances d'être terminé."
         },
         "notes": [],
@@ -28339,9 +28341,9 @@
     },
     {
         "id": 1974,
-        "description": "",
+        "description": "纳什凯尔嘉年华的商人出售24种装饰性头盔变体、6种彩色锁子甲变体以及6种彩色全身板甲变体。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Le marchand du carnaval de Nashkel vend 24 variantes de casques décoratifs, 6 variantes de cottes de mailles et 6 variantes d'armures complètes en couleurs."
         },
         "notes": [],
@@ -28352,9 +28354,9 @@
     },
     {
         "id": 1975,
-        "description": "",
+        "description": "该模组添加了新物品（主要是珠宝、书籍和靴子），它通过书籍来提升角色能力，而非仅仅依赖额外升级和装备。|金币消耗途径：新书籍价格昂贵，这为玩家提供了消耗其财富的理由和去处。|加速靴：现在有足够多的加速靴可以装备给整个队伍。|知识与负重提升的流畅性：每一点新的智慧、智力和力量属性都会带来实质性的变化。|部分女性角色现在拥有了新的珠宝（例如希尔克）。这可能会使某些战斗的难度略微提升。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute de nouveaux objets (principalement des bijoux, des livres et des bottes), il fait progresser les personnages grâce à des livres, plutôt que miser seulement sur les niveaux supplémentaires et l'équipement|Fossé financier : les nouveaux livres coûtent cher, ce qui donne désormais aux joueurs une raison et un endroit où dépenser leurs richesses.|Bottes de vitesse : il y en a désormais suffisamment pour tout le groupe.|Amélioration de la fluidité des connaissances et de l'avancement du poids transporté : chaque nouveau point de sagesse, d'intelligence et de force fait la différence.|Certaines femmes possèdent désormais de nouveaux bijoux (comme Silke, par exemple). Cela peut rendre certains combats un tout petit peu plus difficiles."
         },
         "notes": [],
