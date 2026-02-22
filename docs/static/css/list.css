@@ -1,0 +1,702 @@
+:root {
+    --color-primary: Goldenrod;
+    --color-secondary: #96846e;
+    --color-background: #655949;
+    --color-secondary-contrast: #FFFFD6;
+    --color-hover: #FF6600;
+    --color-modder: #ADFF2F;
+    --color-translator: #E3AFF6;
+    --font-size-small: 12px;
+    --font-size-medium: 14px;
+    --font-size-large: 16px;
+    --background-primary: url(../img/fond_descr_forum.jpg);
+    --background-secondary: url(../img/fond_entete_forum.avif);
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    background: #000 url('../img/bg_lcc2.avif');
+    color: var(--color-secondary-contrast);
+    font-family: Verdana, Geneva, Lucida, "Lucida Grande", Arial, Helvetica, sans-serif;
+    padding-inline: 70px;
+}
+
+.desc span.quote {
+    background-color: var(--color-background);
+    padding: 4px;
+    border-radius: 3px;
+}
+
+#gotothetop {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    font-size: 20px;
+    border: 1px solid var(--color-primary);
+    border-radius: 10px;
+    padding: 10px;
+    z-index: 10;
+    text-decoration: none;
+    background-color: var(--color-background);
+}
+
+#gotothetop::before {
+    content: "↥";
+}
+
+/* ---------------- *
+ *  Base  *
+ * ---------------- */
+a:link,
+a:visited {
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+a:focus,
+a:hover {
+    color: var(--color-hover);
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 40px;
+    color: var(--color-primary);
+    width: 100%;
+}
+
+h2,
+.h2-style {
+    font-weight: bold;
+    text-align: left;
+    text-indent: 30px;
+    padding: 0;
+    margin-top: 20px;
+    border-block: dotted 2px var(--color-secondary);
+    font-size: 28px;
+}
+
+h2::first-letter,
+.h2-style::first-letter {
+    color: var(--color-primary);
+    background-color: transparent;
+}
+
+h1,
+h2,
+.h2-style,
+h3,
+h4,
+h5,
+h6 {
+    line-height: 170%;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+h5 {
+    font-size: var(--font-size-large);
+}
+
+h6 {
+    font-size: 14px;
+    font-style: italic;
+}
+
+hr {
+    margin-block: 20px;
+    height: 1px;
+    border: 0;
+    background-color: var(--color-primary);
+}
+
+.background {
+    background: url("../img/fond_entete_forum.avif") repeat-x;
+}
+
+label {
+    display: block;
+}
+
+#header {
+    font-family: Verdana, Tahoma, Arial, sans-serif;
+    background-image: linear-gradient(#666666, #040404);
+    border-inline: 1px solid var(--color-primary);
+    border-block: 5px solid var(--color-primary);
+    padding: 5px 60px 13px 60px;
+    border-radius: 3px 4px 3px 3px;
+    box-shadow: 8px 8px 15px black;
+    margin-bottom: 50px;
+}
+
+#header .nav-2 {
+    display: flex;
+    align-items: center;
+}
+
+#header h1 {
+    text-align: center;
+    text-shadow: 0.1rem 0.1rem 0.25rem black;
+}
+
+#header .language-picker {
+    text-align: center;
+    margin-block: 10px;
+    font-size: 20px;
+}
+
+.intro {
+    font-size: 110%;
+}
+
+#search .searchs {
+    display: grid;
+    grid-template-columns: 66% 33%;
+    gap: 1rem;
+    margin: 2rem;
+}
+
+#search .search_items,
+#search .search_game_items {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style-type: none;
+    gap: 4px;
+    font-size: var(--font-size-large);
+}
+
+#search .search_item input[type=radio]:not(:checked)+label>img {
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+
+#search .search_game_items:has(#game-all:checked) label>img {
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+}
+
+.filter-selector select {
+    background-color: var(--color-background);
+    border-radius: 10px;
+    color: var(--color-secondary-contrast);
+    padding: 6px 12px;
+}
+
+#search .search_game_items label {
+    cursor: pointer;
+}
+
+.search_game_items .search_item.game:has(#game-all) label,
+#search .search_items label {
+    padding: 6px 12px;
+    border: 1px solid var(--color-background);
+    color: var(--color-secondary-contrast);
+    cursor: pointer;
+    background-color: var(--color-background);
+    border-radius: 5px;
+    font-size: var(--font-size-small);
+    font-weight: bold;
+    line-height: 12px;
+    margin: 2px;
+}
+
+.search_game_items .search_item.game:has(#game-all) label:hover,
+#search .search_items label:hover {
+    border: 1px solid var(--color-primary);
+}
+
+.search_game_items .search_item.game:has(#game-all) input:checked~label,
+#search .search_items input:checked~label {
+    border: 1px solid var(--color-primary);
+    color: var(--color-primary);
+}
+
+#search fieldset {
+    border: 0;
+    border-bottom: 1px solid var(--color-secondary);
+    margin-bottom: 1em;
+}
+
+#search fieldset legend {
+    color: var(--color-secondary);
+    font-weight: bold;
+}
+
+.search_item input {
+    display: none;
+}
+
+#search_text {
+    background: var(--background-secondary);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    position: sticky;
+    top: 0;
+    height: 100%;
+    z-index: 10;
+    padding: 1rem 12rem;
+}
+
+#search_text input {
+    padding: 0.25em 0.5em;
+    margin: 8px 0;
+    background: var(--background-primary);
+    border-radius: 5px;
+    color: var(--color-secondary-contrast);
+    width: 60%;
+    height: 50px;
+    font-size: large;
+    border: 1px solid var(--color-secondary);
+    outline: none;
+}
+
+#search_text input:focus {
+    border-color: var(--color-primary);
+}
+
+section {
+    margin-bottom: 1rem;
+}
+
+#maindiv .content {
+    color: #deded9;
+    background: var(--color-background) url("../img/fond_descr_forum.avif");
+    border: 1px solid var(--color-secondary);
+    position: relative;
+    border-radius: 7px;
+    box-shadow: 8px 8px 15px black;
+    display: block;
+}
+
+#maindiv .content .text {
+    padding: 25px 5%;
+    font-size: var(--font-size-medium);
+    text-align: justify;
+}
+
+#maindiv .warning {
+    background-color: var(--color-background);
+    border: 1px solid var(--color-primary);
+    line-height: 160%;
+    padding: 1rem 2rem;
+    text-align: justify;
+}
+
+#maindiv .warning p.titre {
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    letter-spacing: .2rem;
+}
+
+#maindiv .tables {
+    display: grid;
+    grid-template-columns: 66% 34%;
+    gap: 1rem;
+}
+
+.legend {
+    font-size: var(--font-size-medium);
+    border: 1px solid var(--color-secondary);
+    padding-inline: 32px;
+}
+
+.legend .title {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.legend ul {
+    list-style-type: none;
+}
+
+.table {
+    background: var(--background-primary);
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--color-secondary);
+    border-radius: 7px;
+    box-shadow: 8px 8px 15px black;
+    padding-bottom: 1em;
+}
+
+.category_name {
+    background: var(--background-secondary);
+}
+
+details[open]>summary.category_name {
+    position: sticky;
+    top: 102px;
+    z-index: 5;
+}
+
+.table .category_container .category_name::after {
+    content: " (" attr(data-count) ")";
+}
+
+.table .row {
+    display: grid;
+    grid-template-columns: minmax(200px, 100%) minmax(20px, 60px) minmax(150px, 300px) minmax(90px, 150px) minmax(90px, 150px) minmax(40px, 140px);
+    line-height: 150%;
+    column-gap: 4px;
+    align-items: center;
+    border-bottom: 1px solid var(--color-secondary);
+    padding-block: 4px;
+}
+
+.table .row:not(.hidden):first-of-type {
+    border-top-width: 1px;
+}
+
+.table .row:first-child {
+    background-color: #303030;
+    font-weight: bold;
+    font-size: var(--font-size-large);
+    justify-items: center;
+}
+
+.table .row p {
+    text-align: justify;
+}
+
+.table .row .column {
+    align-self: start;
+}
+
+.table .row .title {
+    grid-row: 1;
+    padding-inline: 8px;
+    font-size: var(--font-size-small);
+    font-weight: bold;
+}
+
+.table .row.mod {
+    background: url("../img/fond_descr_forum.jpg");
+}
+
+.table .row.mod.hidden {
+    display: none;
+}
+
+.table .row .name {
+    font-size: var(--font-size-large);
+    text-align: unset;
+    margin-block: 2px;
+}
+
+.table .row .icons {
+    grid-row: 1;
+    display: flex;
+    gap: 3px;
+    padding: 2px;
+    min-height: 28px;
+    font-size: var(--font-size-medium);
+}
+
+.table .jeu {
+    grid-row: 1;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+    min-height: 28px;
+}
+
+.table .jeu p {
+    align-self: center;
+    background-color: var(--color-background);
+    border-radius: 5px;
+    font-size: 11px;
+    line-height: 12px;
+    padding: 3px;
+    margin: 0;
+    color: var(--color-secondary-contrast);
+}
+
+.table .team,
+.table .team .content {
+    grid-row: 1/span 2;
+    display: grid;
+    gap: 1px;
+    justify-items: center;
+    text-align: center;
+}
+
+.team summary {
+    font-size: var(--font-size-small);
+}
+
+.table .team p {
+    color: var(--color-modder);
+    text-align: unset;
+    margin: 0;
+    font-size: var(--font-size-small);
+    font-weight: bold;
+}
+
+.table .team.translator p,
+.desc .translator {
+    color: var(--color-translator);
+    font-weight: bold;
+}
+
+.table .row .desc {
+    display: none;
+    grid-column: 1/span 3;
+    padding-inline: 12px;
+    font-size: var(--font-size-small);
+    height: 100%;
+}
+
+details.title[open]~.desc {
+    display: grid;
+    padding: 1em 5em;
+}
+
+.table .row .url {
+    grid-row: 1;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 4px;
+    justify-items: center;
+    align-items: center;
+    font-size: var(--font-size-small);
+}
+
+.table .row .url a:has(img) {
+    background-color: var(--color-background);
+    border-radius: 20px;
+    line-height: 9px;
+    padding: 3px;
+    color: var(--color-primary);
+    font-weight: bold;
+}
+
+.table .row .url a:has(img):hover {
+    background-color: var(--color-hover);
+}
+
+.table .row .url img {
+    border-radius: 20px;
+}
+
+summary {
+    cursor: pointer;
+}
+
+summary:not(.no-summary-style) {
+    margin-bottom: 4px;
+}
+
+details summary:hover {
+    color: var(--color-hover);
+}
+
+details summary::marker {
+    content: '▸ ';
+    color: var(--color-primary);
+}
+
+details[open]>summary::marker {
+    content: '▾ ';
+    color: var(--color-primary);
+}
+
+@media screen and (max-width: 1400px) {
+    #header .nav-2 {
+        display: block;
+        text-align: center;
+    }
+
+    img.main {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    body {
+        padding-inline: 4px;
+    }
+
+    #header {
+        padding-inline: 30px;
+    }
+
+    #maindiv .tables {
+        grid-template-columns: 1fr;
+    }
+
+    #search {
+        padding-inline: 0;
+    }
+
+    #search .searchs {
+        grid-template-columns: none;
+    }
+
+    #search_text {
+        padding-inline: 2rem;
+    }
+
+    #search_text input {
+        width: 100%;
+    }
+
+    #search_text h3 {
+        display: none;
+    }
+
+    .row.mod {
+        padding-inline: 2px;
+    }
+
+    #gotothetop {
+        bottom: 10px;
+        right: 0;
+    }
+
+    .table .category_container .category {
+        padding: 0;
+    }
+
+    .table .row {
+        grid-template-columns: repeat(6, 1fr);
+        gap: 2px;
+    }
+
+    .table .row:first-child {
+        display: none;
+    }
+
+    .table .row:first-child:not(.hidden) {
+        border-top-width: 1px;
+    }
+
+    .table .row .title {
+        font-size: var(--font-size-large);
+        grid-column: 1/span 5;
+        padding-inline: 4px;
+    }
+
+    .table .row .icons {
+        grid-row-start: 1;
+        grid-column-start: 6;
+        justify-self: right;
+    }
+
+    .table .row .team {
+        grid-row-start: 2;
+        grid-column: 1/span 5;
+        justify-self: left;
+    }
+
+    .table .row .jeu {
+        grid-row-start: 2;
+        grid-column: 4/span 3;
+        justify-self: right;
+    }
+
+    .table .row .translator {
+        grid-row-start: 3;
+        grid-column: 1/span 5;
+        justify-self: left;
+    }
+
+    .table .row .url {
+        grid-row-start: 3;
+        grid-column: 4/span 3;
+        justify-self: right;
+    }
+
+    .table .row .desc {
+        grid-row-start: 4;
+        grid-column: 1/span 6;
+        padding-inline: 4px;
+    }
+
+    .table .jeu {
+        display: flex;
+        justify-content: end;
+    }
+
+    .table .team .content {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .table .team {
+        display: grid;
+        grid-auto-flow: column;
+        justify-self: center;
+    }
+
+    .table .team p {
+        padding-inline: 4px;
+    }
+
+    .table .jeu p {
+        width: fit-content;
+        padding-inline: 4px;
+    }
+
+    .table .row .url {
+        display: flex;
+    }
+
+    details.team summary {
+        display: none;
+    }
+
+    details.title[open]~.desc {
+        padding: 1em 2em;
+    }
+
+    .legend {
+        padding-inline: 16px;
+    }
+}
+
+/* ------------ *
+ *  Info-bulle  *
+ * ------------ */
+.icons [aria-label] {
+    /*les .infobulles deviennent référentes*/
+    position: relative;
+    cursor: help;
+    text-decoration: none;
+    color: var(--color-primary);
+}
+
+.icons [aria-label]:hover::after,
+.icons [aria-label]:focus::after {
+    /* on affiche aria-label */
+    content: attr(aria-label);
+    font-size: var(--font-size-small);
+    position: absolute;
+    top: -2.5rem;
+    /* on centre horizontalement */
+    transform: translateX(-50%);
+    z-index: 1;
+    /* on interdit le retour à la ligne */
+    white-space: nowrap;
+    padding: 6px 12px;
+    background-color: var(--color-background);
+    border: 1px solid var(--color-primary);
+    border-radius: 4px;
+}
+
+.icons [aria-label]:focus {
+    outline: none;
+}
