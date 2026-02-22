@@ -882,7 +882,9 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Ajoc"
@@ -10565,7 +10567,7 @@
         "description": "Ce mod ajoute une nouvelle quête assez difficile : Adressez-vous à la personne complètement folle dans le Marché de l'Aventurier. Il vous posera une demande et votre réponse ouvrira une série de combats assez compliqué. Seuls les survivants recevront la récompense.",
         "urls": [
             "https://www.shsforums.net/files/file/135-domains-of-dread/",
-            "https://github.com/11jo/Domains-of-Dread"
+            "https://github.com/The-Gate-Project/Domains-of-Dread/"
         ],
         "categories": [
             "Quête"
@@ -29318,7 +29320,7 @@
             "de",
             "es",
             "it",
-			"cn"
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-12",
@@ -36261,9 +36263,7 @@
             "Red Carnelian"
         ],
         "team": [],
-        "notes": [
-            "Il doit être installé avant [[372]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -52848,7 +52848,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -64221,5 +64221,34 @@
         "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "Books"
+    },
+    {
+        "id": 1976,
+        "name": "Interesting Items: A Balanced Item Pack Mod",
+        "description": "Ce mod introduit plusieurs dizaines de nouveaux objets dans le jeu, dotés d'une grande variété de propriétés inhabituelles. Leur niveau de puissance est variable mais la plupart restent comparables à ceux de Siege of Dragonspear.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/90557/"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "SoD"
+        ],
+        "authors": [
+            "semiticgod"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-02",
+        "compatibilities": {},
+        "tp2": "InterestingItems"
     }
 ]

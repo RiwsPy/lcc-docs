@@ -15705,12 +15705,10 @@
             "status": "needs_review",
             "source": "The Stone of Askavar `La pierre d'Askavar` est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir."
         },
-        "notes": [
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-            ]
+            "source": []
         }
     },
     {
@@ -28103,6 +28101,19 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute de nouveaux objets (principalement des bijoux, des livres et des bottes), il fait progresser les personnages grâce à des livres, plutôt que miser seulement sur les niveaux supplémentaires et l'équipement|Fossé financier : les nouveaux livres coûtent cher, ce qui donne désormais aux joueurs une raison et un endroit où dépenser leurs richesses.|Bottes de vitesse : il y en a désormais suffisamment pour tout le groupe.|Amélioration de la fluidité des connaissances et de l'avancement du poids transporté : chaque nouveau point de sagesse, d'intelligence et de force fait la différence.|Certaines femmes possèdent désormais de nouveaux bijoux (comme Silke, par exemple). Cela peut rendre certains combats un tout petit peu plus difficiles."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1976,
+        "description": "This mod introduces dozens of new items to the game with a wide variety of unusual properties. The power level varies from item to item, but most of them are on par with Siege of Dragonspear items.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod introduit plusieurs dizaines de nouveaux objets dans le jeu, dotés d'une grande variété de propriétés inhabituelles. Leur niveau de puissance est variable mais la plupart restent comparables à ceux de Siege of Dragonspear."
         },
         "notes": [],
         "notes_meta": {

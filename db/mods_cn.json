@@ -15855,12 +15855,10 @@
             "status": "done",
             "source": "The Stone of Askavar `La pierre d'Askavar` est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir."
         },
-        "notes": [
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-            ]
+            "source": []
         }
     },
     {
@@ -17682,8 +17680,8 @@
             "source": "Ce mod est une combinaison de patchs et de modifications d'interface graphique de jeu permettant de jouer à BG (avec son extension TotSC), BG2 (avec ou sans ToB), Icewind Dale (avec ses extensions HoW et TotLM) et Icewind Dale 2 et Planescape:Torment dans des résolutions autres que celles imposées (pour BG et PsT) ou celles proposées par les jeux (pour BG2, Icewind Dale avec son extension HoW et Icewind Dale 2).|Le terme de patch indique qu'il modifie l'exécutable du jeu pour forcer la résolution que vous choisissez lors de l'installation. La conséquence est que le mod n'est compatible qu'avec Windows (et Linux via l'émulation Windows). Désolé pour les utilisateurs de Mac."
         },
         "notes": [
-			"模组 [[1964]] 中为博德之门单独提供了一个优化版。"
-		],
+            "模组 [[1964]] 中为博德之门单独提供了一个优化版。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28356,6 +28354,19 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod ajoute de nouveaux objets (principalement des bijoux, des livres et des bottes), il fait progresser les personnages grâce à des livres, plutôt que miser seulement sur les niveaux supplémentaires et l'équipement|Fossé financier : les nouveaux livres coûtent cher, ce qui donne désormais aux joueurs une raison et un endroit où dépenser leurs richesses.|Bottes de vitesse : il y en a désormais suffisamment pour tout le groupe.|Amélioration de la fluidité des connaissances et de l'avancement du poids transporté : chaque nouveau point de sagesse, d'intelligence et de force fait la différence.|Certaines femmes possèdent désormais de nouveaux bijoux (comme Silke, par exemple). Cela peut rendre certains combats un tout petit peu plus difficiles."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1976,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod introduit plusieurs dizaines de nouveaux objets dans le jeu, dotés d'une grande variété de propriétés inhabituelles. Leur niveau de puissance est variable mais la plupart restent comparables à ceux de Siege of Dragonspear."
         },
         "notes": [],
         "notes_meta": {
