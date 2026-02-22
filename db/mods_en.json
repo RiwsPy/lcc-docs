@@ -28115,10 +28115,14 @@
             "status": "done",
             "source": "Ce mod introduit plusieurs dizaines de nouveaux objets dans le jeu, dotés d'une grande variété de propriétés inhabituelles. Leur niveau de puissance est variable mais la plupart restent comparables à ceux de Siege of Dragonspear."
         },
-        "notes": [],
+        "notes": [
+            "It overrides some NPC restricted items."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Il override les objets habituellement réservés à certains PNJ."
+            ]
         }
     }
 ]

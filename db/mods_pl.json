@@ -27153,8 +27153,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Il override les objets habituellement réservés à certains PNJ."
+            ]
         }
     }
 ]

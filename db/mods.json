@@ -64240,9 +64240,11 @@
             "semiticgod"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il override les objets habituellement réservés à certains PNJ."
+        ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
