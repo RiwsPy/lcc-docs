@@ -898,7 +898,8 @@
             "es",
             "ru",
             "de",
-            "it"
+            "it",
+            "cn"
         ],
         "status": "active",
         "last_update": "2026-02",
@@ -4165,7 +4166,7 @@
             "se"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "tnt"
     },
@@ -4355,7 +4356,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "BGEEClassicMovies"
     },
@@ -4552,7 +4553,7 @@
         "status": "active",
         "last_update": "2025-09",
         "compatibilities": {},
-        "tp2": "BGT-NPCSound"
+        "tp2": "bgt-npcsound"
     },
     {
         "id": 135,
@@ -5434,7 +5435,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "BardicWonders"
     },
@@ -5555,7 +5556,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "InnBB"
     },
@@ -10107,7 +10108,7 @@
         "status": "active",
         "last_update": "2025-08",
         "compatibilities": {},
-        "tp2": "Derats_dawap"
+        "tp2": "Derats_dawap;Derats_dawap_TOUT"
     },
     {
         "id": 303,
@@ -10592,10 +10593,11 @@
             "fr",
             "de",
             "it",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2024-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "DofD"
     },
@@ -12531,11 +12533,11 @@
     },
     {
         "id": 376,
-        "name": "Epic Endeavors",
+        "name": "Epic Endeavours",
         "description": "Cette conversion totale de Shadows of Amn respecte les règles d'AD&D 2 mais mélange les genres en multipliant les clins d'œil à des jeux ou à des films.|L'histoire se déroule dans un monde imaginaire n'ayant aucun rapport avec les Royaumes Oubliés. Vous êtes à la tête d'une petite unité de commandos devant accomplir une série de missions, certaines particulièrement originales, visant à empêcher un fou furieux de régner sur votre monde. Le jeu se déroule au fil des missions qu'on vous confie, avant de partir pour le grand combat final.|Le mod rajoute de nombreuses nouvelles créatures et de nouveaux objets, 60 cartes, 13 grandes quêtes, 20 heures environ de temps de jeu rajouté, et un combat final assez redoutable à ce qu'il parait, avec 200 créatures à combattre...",
         "urls": [
             "https://www.shsforums.net/files/file/45-epic-endeavors/",
-            "https://github.com/Spellhold-Studios/Epic-Endeavors/"
+            "https://github.com/Spellhold-Studios/Epic-Endeavours/"
         ],
         "categories": [
             "Conversion"
@@ -14364,7 +14366,8 @@
             "fr",
             "de",
             "en",
-            "cn"
+            "cn",
+            "ru"
         ],
         "status": "active",
         "last_update": "2025-12",
@@ -16079,7 +16082,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "HerThiMoney"
     },
@@ -16495,7 +16498,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Horace"
     },
@@ -16535,7 +16538,7 @@
         "urls": [
             "https://forums.beamdog.com/discussion/88763/",
             "https://www.mediafire.com/file/qch7kudksgkk5w3/houyi.zip/file",
-            "https://github.com/eva2000as/houyi-Arrow-Merchant/"
+            "https://github.com/trow/houyi-Arrow-Merchant/"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -20627,7 +20630,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Larsha"
     },
@@ -22440,10 +22443,11 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Margarita"
     },
@@ -24900,7 +24904,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "BlinkingDead"
     },
@@ -26814,7 +26818,8 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
         "last_update": "2023-01",
@@ -28604,7 +28609,7 @@
                 1297
             ]
         },
-        "tp2": "Redemption"
+        "tp2": "redemption"
     },
     {
         "id": 864,
@@ -29323,7 +29328,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "RevisedBattles"
     },
@@ -30995,7 +31000,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "shadowadept"
     },
@@ -31887,7 +31892,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {
             "incompatible_with": [
                 961
@@ -32261,7 +32266,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Snowytoes"
     },
@@ -33739,8 +33744,7 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en",
-            "fr"
+            "en"
         ],
         "status": "active",
         "last_update": "2025-10",
@@ -34067,7 +34071,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "OurLady"
     },
@@ -34671,7 +34675,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Skineater"
     },
@@ -36276,7 +36280,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "soa"
     },
@@ -37029,7 +37033,7 @@
         "description": "Throne of Bhaal Extender est un outil de type patch qui corrige des bugs du moteur de jeu de BG2, et permet de corriger ou de remplacer certains mécanismes du jeu. Son utilisation est réservée aux plus aguerris, rompus aux arcanes des méga-installs et pointilleux lecteurs de Readme.",
         "urls": [
             "https://www.shsforums.net/files/file/871-bg2tob-throne-of-bhaal-extender/",
-            "https://github.com/Spellhold-Studios/TobEx/",
+            "https://github.com/Ascension64/TobEx/",
             "https://github.com/BGforgeNet/TobEx"
         ],
         "categories": [
@@ -37776,7 +37780,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Tsujatha"
     },
@@ -42876,7 +42880,8 @@
             "fr",
             "de",
             "ru",
-            "es"
+            "es",
+            "cn"
         ],
         "status": "active",
         "last_update": "2020-01",
@@ -42923,7 +42928,8 @@
         "languages": [
             "en",
             "fr",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
         "last_update": "2020-05",
@@ -43158,7 +43164,8 @@
             "en",
             "de",
             "it",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-06",
@@ -43763,7 +43770,8 @@
             "de",
             "cn",
             "ru",
-            "es"
+            "es",
+            "pl"
         ],
         "status": "active",
         "last_update": "2026-01",
@@ -44061,7 +44069,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "A7-WaresOfThePlanes"
     },
@@ -44241,7 +44249,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -45715,7 +45723,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "lca"
     },
@@ -46116,7 +46124,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "BG1NPCSoA"
     },
@@ -46176,7 +46184,8 @@
         "safe": 2,
         "languages": [
             "en",
-            "cn"
+            "cn",
+            "pt"
         ],
         "status": "active",
         "last_update": "2026-02",
@@ -47093,7 +47102,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "mih_fr"
     },
@@ -49359,7 +49368,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "ZS_CanIStabYou"
     },
@@ -50369,7 +50378,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "bmpp"
     },
@@ -50680,7 +50689,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "XPexchange"
     },
@@ -51136,7 +51145,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "LegacyofBhaalFix"
     },
@@ -52609,7 +52618,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "DetailedDescription"
     },
@@ -58055,7 +58064,8 @@
         "translation_state": "auto",
         "safe": 1,
         "languages": [
-            "en"
+            "en",
+            "de"
         ],
         "status": "wip",
         "last_update": "2025-07",
@@ -58122,10 +58132,11 @@
         "safe": 2,
         "languages": [
             "fr",
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Derats_levelling"
     },
@@ -58525,7 +58536,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Minor_Kit_Improvement"
     },
@@ -58558,10 +58569,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "cn"
+            "cn",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "mms"
     },
@@ -58770,7 +58782,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "FaldornSoD"
     },
@@ -58981,7 +58993,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-02",
         "compatibilities": {
             "incompatible_with": [
                 1286
@@ -59819,10 +59831,11 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "ZS_Consumables"
     },
@@ -59950,7 +59963,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "jarnip"
     },
@@ -60270,7 +60283,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "PocketWardrobe"
     },
@@ -60821,7 +60834,7 @@
         "description": "En tant que druide de lignée draconique, vous gagnez des bonus d'attributs, des sorts supplémentaires et le pouvoir d'invoquer des dragons à mesure que vous gagnez des niveaux. Vous pouvez même devenir un sorcier dragon multiclassé.",
         "urls": [
             "https://trow.cc/board/showtopic=16223",
-            "https://github.com/eva2000as/Dragondruid/"
+            "https://github.com/trow/Dragondruid/"
         ],
         "categories": [
             "Kit"
@@ -60853,7 +60866,7 @@
         "description": "Un kit de voleur qui excelle dans la collecte d'essence provenant de diverses créatures et dans sa transformation en poison. Doté de compétences spéciales uniques et de capacités avancées. Devenez un maître du poison et un collecteur d'essence !",
         "urls": [
             "https://forums.beamdog.com/discussion/88763/",
-            "https://github.com/eva2000as/Lethal-Blade/"
+            "https://github.com/trow/Lethal-Blade/"
         ],
         "categories": [
             "Kit"
@@ -61757,7 +61770,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "bg-random-loot"
     },
@@ -62916,7 +62929,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2021-10",
+        "last_update": "2021-09",
         "compatibilities": {},
         "tp2": "hidden_containers"
     },
@@ -63608,7 +63621,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2022-04",
+        "last_update": "2022-11",
         "compatibilities": {},
         "tp2": "GorionsDream"
     },
@@ -63636,7 +63649,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2021-12",
+        "last_update": "2019-09",
         "compatibilities": {
             "requires": [
                 913
@@ -63777,12 +63790,12 @@
     },
     {
         "id": 1962,
-        "name": "Big World Setup EE",
-        "description": "BWS-EE est une refonte complète du [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) spécialisé dans l'installation des mods. Il améliore notamment l'interface et propose une compatiblité Linux.|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative à l'outil [[1367]].|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter.",
+        "name": "Big World Setup Next Generation",
+        "description": "BWS-NG est une refonte complète du [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) spécialisé dans l'installation des mods. Il améliore notamment l'interface et propose une compatiblité Linux.|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative à l'outil [[1367]].|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=35160",
-            "https://www.gibberlings3.net/forums/topic/41012-bws-ee-big-world-setup-enhanced-edition/",
-            "https://github.com/Selphira/BigWorldSetup-Enhanced-Edition/"
+            "https://www.gibberlings3.net/forums/topic/41012-bws-ng-big-world-setup-next-generation/",
+            "https://github.com/Selphira/BigWorldSetup-Next-Generation/"
         ],
         "categories": [
             "Utilitaire"
@@ -64010,7 +64023,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-02",
+        "last_update": "2022-08",
         "compatibilities": {},
         "tp2": "polyblade"
     },

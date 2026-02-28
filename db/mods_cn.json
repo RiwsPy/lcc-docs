@@ -4602,6 +4602,9 @@
     },
     {
         "id": 316,
+        "team": [
+            "Lzw104522773"
+        ],
         "description": "这个模组添加了一个相当困难的新任务：去冒险者广场找那个完全疯掉的人。他会向你提出一个要求，你的回答将开启一系列相当复杂的战斗。只有幸存者才能获得奖励。",
         "description_meta": {
             "status": "done",
@@ -11752,6 +11755,10 @@
     },
     {
         "id": 811,
+        "team": [
+            "anca_qin",
+            "Lzw104522773"
+        ],
         "description": "此模组延长了与领域相关的职业任务，从而增加了玩法师的乐趣。一个大型额外任务、几个小型任务和一个充满学徒的领域。另外还有39个新法术。|也请毫不犹豫地安装补充小型模组[[812]]（也称为PlanarSphere Return），它将允许您直接传送到领域面（并返回您所在的位置），就像“前厅”能力一样。",
         "description_meta": {
             "status": "done",
@@ -20099,6 +20106,9 @@
     },
     {
         "id": 1383,
+        "team": [
+            "MephistoSatanDevil"
+        ],
         "description": "这款大型模组在阿斯卡特拉城新增了「水园」区域，汇聚全城名流显贵。他们在此谈天说地、休憩小酌。数千条对话文本会随每次交谈动态更新，并配有昼夜交替的实时演算系统。|该模组同时允许其他制作者为博德之门Ⅰ的NPC创建扩展组件，这些角色不仅拥有全新台词，更可触发全新任务线乃至同伴间的恋爱剧情，还暗藏诸多意外之喜。",
         "description_meta": {
             "status": "done",
@@ -26477,6 +26487,9 @@
     },
     {
         "id": 1835,
+        "team": [
+            "eva2000as"
+        ],
         "description": "此模组为游戏提供了各种消耗品，从而提升了游戏性并为玩家提供了新的策略。其中许多物品借鉴或灵感来自其他游戏和媒体，如博德之门3、无冬之夜和巫师。该模组将物品分发到常规商店中，同时也手动放置在某些NPC身上，并随机自动放置在某些敌人的战利品中。",
         "description_meta": {
             "status": "done",
@@ -28181,10 +28194,10 @@
     },
     {
         "id": 1962,
-        "description": "BWS-EE 是对 [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) 的全面重制，专门用于模组安装。它特别改进了界面，并提供了 Linux 兼容性。|与后者一样，它允许您自动下载、解压并安装模组，同时管理冲突、依赖关系和安装顺序。因此，它作为工具 [[1367]] 的替代方案而提供。|<u>其主要功能：</u>|- 允许您选择所需的模组和组件，并完全自动化安装过程。|- 支持模组预设。|- 自动下载大多数模组。|- 自动解压大多数模组。|- 负责管理安装顺序。|- 向您指出所选内容可能存在的冲突，并提供避免冲突的解决方案。",
+        "description": "BWS-NG 是对 [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) 的全面重制，专门用于模组安装。它特别改进了界面，并提供了 Linux 兼容性。|与后者一样，它允许您自动下载、解压并安装模组，同时管理冲突、依赖关系和安装顺序。因此，它作为工具 [[1367]] 的替代方案而提供。|<u>其主要功能：</u>|- 允许您选择所需的模组和组件，并完全自动化安装过程。|- 支持模组预设。|- 自动下载大多数模组。|- 自动解压大多数模组。|- 负责管理安装顺序。|- 向您指出所选内容可能存在的冲突，并提供避免冲突的解决方案。",
         "description_meta": {
             "status": "done",
-            "source": "BWS-EE est une refonte complète du [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) spécialisé dans l'installation des mods. Il améliore notamment l'interface et propose une compatiblité Linux.|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative à l'outil [[1367]].|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter."
+            "source": "BWS-NG est une refonte complète du [Big World Setup](https://github.com/BigWorldSetup/BigWorldSetup) spécialisé dans l'installation des mods. Il améliore notamment l'interface et propose une compatiblité Linux.|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative à l'outil [[1367]].|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter."
         },
         "notes": [],
         "notes_meta": {
