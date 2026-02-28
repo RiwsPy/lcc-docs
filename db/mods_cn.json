@@ -28376,14 +28376,14 @@
     },
     {
         "id": 1976,
-        "description": "",
+        "description": "这个模组在游戏中引入了数十种新物品，它们拥有各种独特的特性。这些物品的强度各异，但大多数与《龙矛围攻》中的物品相当。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod introduit plusieurs dizaines de nouveaux objets dans le jeu, dotés d'une grande variété de propriétés inhabituelles. Leur niveau de puissance est variable mais la plupart restent comparables à ceux de Siege of Dragonspear."
         },
-        "notes": [],
+        "notes": ["这个模组会覆盖那些通常为某些NPC保留的专属物品。"],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il override les objets habituellement réservés à certains PNJ."
             ]
