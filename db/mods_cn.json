@@ -12174,6 +12174,9 @@
     },
     {
         "id": 839,
+        "team": [
+            "eva2000as"
+        ],
         "description": "该模组新增一个混乱邪恶牧师宗派，可施放混乱术、类火球术与类连环闪电术。|该宗派角色从10级起获得毒素免疫，16级起免疫麻痹与等级吸取效果。|同时配备专属高等级技能。",
         "description_meta": {
             "status": "done",
@@ -28384,7 +28387,9 @@
             "status": "done",
             "source": "Ce mod introduit plusieurs dizaines de nouveaux objets dans le jeu, dotés d'une grande variété de propriétés inhabituelles. Leur niveau de puissance est variable mais la plupart restent comparables à ceux de Siege of Dragonspear."
         },
-        "notes": ["这个模组会覆盖那些通常为某些NPC保留的专属物品。"],
+        "notes": [
+            "这个模组会覆盖那些通常为某些NPC保留的专属物品。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
