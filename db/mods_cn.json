@@ -20712,9 +20712,10 @@
             "为了获得更合理的结果，应在所有添加物品的模组之后安装。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "À installer après tous les mods ajoutant des objets pour des résultats plus pertinents."
+                "À installer après tous les mods ajoutant des objets pour des résultats plus pertinents.",
+                "Un composant de [[1141]] propose la même chose."
             ]
         }
     },
@@ -21031,8 +21032,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Inclus dans [[1588]] du même auteur."
+            ]
         }
     },
     {
@@ -23406,8 +23409,8 @@
         "id": 1613,
         "description": "在这个小模组中，武器的 vorpal 效果会在一定百分比的攻击触发（具体数值因武器而异），但仅对生命值低于50%的目标生效。与一个没有此能力但伤害相当的生物相比，当你与持有 vorpal 武器的敌人近战时，你的安全余裕降低了。但如果你的豁免死亡失败，或者像以前一样可能被一击毙命，它并不会成为战术障碍。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mini-mod, l'effet vorpal des armes se déclenchera sur un % de coups variant selon l'arme, mais n'affectant que ceux qui sont à 50% de points de vie ou moins. Cela réduit la marge de sécurité dont vous disposez lorsque vous menez une mêlée avec un ennemi armé de vorpal, par rapport à une créature aux dégâts comparables sans cette capacité, mais cela n'en fait pas un obstacle tactique en cas d'échec de votre jet de sauvegarde contre la mort ou si vous risquez d'être touché en un coup comme c'était le cas auparavant."
+            "status": "needs_review",
+            "source": "Avec ce mini-mod, l'effet vorpal des armes se déclenchera sur un % de coups variant selon l'arme, mais n'affectant que ceux qui sont à 50% de points de vie ou moins. Cela réduit la marge de sécurité dont vous disposez lorsque vous menez une mêlée avec un ennemi armé de vorpal, par rapport à une créature aux dégâts comparables sans cette capacité, mais cela n'en fait pas un obstacle tactique en cas d'échec de votre jet de sauvegarde contre la mort ou si vous risquez d'être touché en un coup comme c'était le cas auparavant."
         },
         "notes": [],
         "notes_meta": {
@@ -25743,8 +25746,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Un composant de [[497]] propose la même chose."
+            ]
         }
     },
     {
@@ -26396,8 +26401,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Un composant de [[93]] propose la même chose."
+            ]
         }
     },
     {

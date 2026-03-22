@@ -6013,7 +6013,7 @@
     },
     {
         "id": 180,
-        "name": "Black Rose Part I: Market Prices",
+        "name": "The Black Rose Part I: Market Prices",
         "description": "Ce mod ajoute une quête initiée par le magicien Menelaun, dans l'Antre des Sept Vaux, sur la Promenade de Waukyne.",
         "urls": [
             "http://baldur.cob-bg.pl/bg2-mody?pg=3",
@@ -25330,7 +25330,9 @@
         "id": 765,
         "name": "Octavian's Drizzt",
         "description": "Ce mod vous permet de recruter Drizzt Do‘Urden lorsque vous quittez l'Ombreterre et partez à la recherche du Rhynn Lanthorn.|FOR 17, DEX 20, CON 17, INT 15, SAG 14, CHA 15.",
-        "urls": [],
+        "urls": [
+            "https://www.mediafire.com/file/q1ean3eds2ht71h/octavians_drizzt_v2beta3.zip/file"
+        ],
         "categories": [
             "PNJ recrutable"
         ],
@@ -25338,16 +25340,25 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "octavian"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
-        "languages": [],
-        "status": "missing",
-        "last_update": "2005-09",
-        "compatibilities": {},
-        "tp2": ""
+        "safe": 2,
+        "languages": [
+            "en",
+            "de"
+        ],
+        "status": "active",
+        "last_update": "2010-04",
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
+        "tp2": "DKDrizzt"
     },
     {
         "id": 766,
@@ -40206,7 +40217,9 @@
             "Quête"
         ],
         "games": [
-            "BGT"
+            "BGT",
+            "Tutu",
+            "BGEE"
         ],
         "authors": [
             "Wedge"
@@ -40218,7 +40231,7 @@
         "languages": [
             "de"
         ],
-        "status": "active",
+        "status": "wip",
         "last_update": "2014-11",
         "compatibilities": {},
         "tp2": "WBGTAP"
@@ -47324,7 +47337,8 @@
         ],
         "team": [],
         "notes": [
-            "À installer après tous les mods ajoutant des objets pour des résultats plus pertinents."
+            "À installer après tous les mods ajoutant des objets pour des résultats plus pertinents.",
+            "Un composant de [[1141]] propose la même chose."
         ],
         "translation_state": "n/a",
         "safe": 2,
@@ -48013,14 +48027,16 @@
             "Shohy"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Inclus dans [[1588]] du même auteur."
+        ],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en",
             "cn"
         ],
-        "status": "missing",
+        "status": "embed",
         "last_update": "2024-11",
         "compatibilities": {},
         "tp2": "Shohy's_Weapon_Style_Rebalance"
@@ -53149,7 +53165,7 @@
     {
         "id": 1613,
         "name": "Rebalancing Vorpal effects",
-        "description": "Ce mini-mod, l'effet vorpal des armes se déclenchera sur un % de coups variant selon l'arme, mais n'affectant que ceux qui sont à 50% de points de vie ou moins. Cela réduit la marge de sécurité dont vous disposez lorsque vous menez une mêlée avec un ennemi armé de vorpal, par rapport à une créature aux dégâts comparables sans cette capacité, mais cela n'en fait pas un obstacle tactique en cas d'échec de votre jet de sauvegarde contre la mort ou si vous risquez d'être touché en un coup comme c'était le cas auparavant.",
+        "description": "Avec ce mini-mod, l'effet vorpal des armes se déclenchera sur un % de coups variant selon l'arme, mais n'affectant que ceux qui sont à 50% de points de vie ou moins. Cela réduit la marge de sécurité dont vous disposez lorsque vous menez une mêlée avec un ennemi armé de vorpal, par rapport à une créature aux dégâts comparables sans cette capacité, mais cela n'en fait pas un obstacle tactique en cas d'échec de votre jet de sauvegarde contre la mort ou si vous risquez d'être touché en un coup comme c'était le cas auparavant.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/31688-rebalancing-vorpal-effects/#comment-284531",
             "https://github.com/mleduque/polytope_rebalanced_vorpal"
@@ -58230,7 +58246,9 @@
             "Deratiseur"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Un composant de [[497]] propose la même chose."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -59599,7 +59617,9 @@
             "Sasha al'Therin"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Un composant de [[93]] propose la même chose."
+        ],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],

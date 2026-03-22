@@ -10994,6 +10994,9 @@
     },
     {
         "id": 765,
+        "team": [
+            "Caillean"
+        ],
         "description": "This mod allows you to recruit Drizzt Do'Urden when you leave Underdark in search of Rhynn Lanthorn.|STR 17, DEX 20, CON 17, INT 15, WIS 14, CHA 15.",
         "description_meta": {
             "status": "needs_review",
@@ -20464,12 +20467,14 @@
             "source": "Ce mod met à 0 la Connaissance nécessaire pour identifier tous les objets, ce qui évite au joueur d'avoir à les identifier manuellement."
         },
         "notes": [
-            "To be installed after all mods adding items for more relevant results."
+            "To be installed after all mods adding items for more relevant results.",
+            "A component of [[1141]] does the same thing."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "À installer après tous les mods ajoutant des objets pour des résultats plus pertinents."
+                "À installer après tous les mods ajoutant des objets pour des résultats plus pertinents.",
+                "Un composant de [[1141]] propose la même chose."
             ]
         }
     },
@@ -20782,10 +20787,14 @@
             "status": "needs_review",
             "source": "Après avoir étudié de nombreux combats armés réels, l'auteur a cherché à rééquilibrer les styles d'armes à deux mains, d'épée et de bouclier, d'arme unique et d'arme à deux mains, afin que tous les styles d'armes soient utiles. L'Intelligence/Sagesse/Charisme apporte également des modificateurs supplémentaires. Tous les ajustements ne prennent effet qu'en combat. Vous pouvez cliquer sur le bouton de changement de mode sur la barre de compétences du protagoniste pour activer ou non le mécanisme. Le bouton est obtenu lors du premier combat."
         },
-        "notes": [],
+        "notes": [
+            "Included in [[1588]] by the same author."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Inclus dans [[1588]] du même auteur."
+            ]
         }
     },
     {
@@ -23153,7 +23162,7 @@
         "description": "With this mini-mod, the vorpal effect of weapons will be triggered on a % of hits varying according to the weapon, but only affecting those at 50% hit points or less. This reduces the margin of safety you have when meleeing with a vorpal-armed enemy, compared to a creature of comparable damage without this ability, but does not make it a tactical impediment if your saving throw against death fails or if you risk being hit in one shot as was previously the case.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mini-mod, l'effet vorpal des armes se déclenchera sur un % de coups variant selon l'arme, mais n'affectant que ceux qui sont à 50% de points de vie ou moins. Cela réduit la marge de sécurité dont vous disposez lorsque vous menez une mêlée avec un ennemi armé de vorpal, par rapport à une créature aux dégâts comparables sans cette capacité, mais cela n'en fait pas un obstacle tactique en cas d'échec de votre jet de sauvegarde contre la mort ou si vous risquez d'être touché en un coup comme c'était le cas auparavant."
+            "source": "Avec ce mini-mod, l'effet vorpal des armes se déclenchera sur un % de coups variant selon l'arme, mais n'affectant que ceux qui sont à 50% de points de vie ou moins. Cela réduit la marge de sécurité dont vous disposez lorsque vous menez une mêlée avec un ennemi armé de vorpal, par rapport à une créature aux dégâts comparables sans cette capacité, mais cela n'en fait pas un obstacle tactique en cas d'échec de votre jet de sauvegarde contre la mort ou si vous risquez d'être touché en un coup comme c'était le cas auparavant."
         },
         "notes": [],
         "notes_meta": {
@@ -25479,10 +25488,14 @@
             "status": "done",
             "source": "Ce module place les deux marchands Deirdre et Joluv dans IWDEE. Deirdre est dans la boutique de Gerth et Joluv est dans la taverne."
         },
-        "notes": [],
+        "notes": [
+            "A component of [[497]] does the same thing."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Un composant de [[497]] propose la même chose."
+            ]
         }
     },
     {
@@ -26131,10 +26144,14 @@
             "status": "needs_review",
             "source": "Ce mod modifie le script du groupe de façon à pouvoir simuler un repos de 8 heures au groupe si aucun ennemi n'est visible. Il permet notamment de dormir dans des zones où le sommeil est à priori impossible et sans risque de se faire attaquer."
         },
-        "notes": [],
+        "notes": [
+            "A component of [[93]] does the same thing."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Un composant de [[93]] propose la même chose."
+            ]
         }
     },
     {
