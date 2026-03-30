@@ -42734,8 +42734,10 @@
         "name": "Imoen Romance",
         "description": "Ce mod permet d'avoir une relation beaucoup plus privilégiée avec sa petite sœur. Il peut s'agir aussi bien d'amitié que de romance, quel que soit le sexe du PJ. Les dialogues sont particulièrement nombreux, et le mod comprend un grand nombre de nouvelles musiques. Il exige ToB.",
         "urls": [
-            "http://www.blindmonkey.org/imoen/",
-            "https://forums.beamdog.com/discussion/36101/"
+            "https://www.israelbarbuzano.net/imoen/",
+            "https://forums.beamdog.com/discussion/36101/",
+            "https://forums.beamdog.com/discussion/90600/",
+            "https://github.com/Mirrabbo/Imoen-Romance-Mod/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -42761,10 +42763,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "ImoenRomance"
     },
