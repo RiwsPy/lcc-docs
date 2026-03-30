@@ -1259,6 +1259,9 @@
     },
     {
         "id": 85,
+        "team": [
+            "anca_qin"
+        ],
         "description": "奥伦是一位年轻的女性人类战士，中立善良阵营，来自贝尔苟斯特。她在铜冠旅店内部，但如果玩家的阵营是邪恶的，她就不会出现，如果被逐出队伍，她就会永远消失。Auren 与娜里亚有一段同性恋情，如果你在队伍中带着她，并且她有一个个人任务。她开始游戏时拥有双武器、长剑和短剑的技能。带有自定义语音和音乐的模组。|力量 16，敏捷 15，体质 16，智力 13，智慧 12，魅力 15。",
         "description_meta": {
             "status": "done",
@@ -12171,6 +12174,9 @@
     },
     {
         "id": 839,
+        "team": [
+            "eva2000as"
+        ],
         "description": "该模组新增一个混乱邪恶牧师宗派，可施放混乱术、类火球术与类连环闪电术。|该宗派角色从10级起获得毒素免疫，16级起免疫麻痹与等级吸取效果。|同时配备专属高等级技能。",
         "description_meta": {
             "status": "done",
@@ -18644,6 +18650,9 @@
     },
     {
         "id": 1284,
+        "team": [
+            "zrw19880124"
+        ],
         "description": "这个模组让你能和她妹妹建立更亲密的关系。这可以是友谊，也可以是爱情，无论玩家角色的性别如何。对话内容特别丰富，模组还包含大量新音乐。它需要《巴尔王座》。",
         "description_meta": {
             "status": "done",
@@ -20706,9 +20715,10 @@
             "为了获得更合理的结果，应在所有添加物品的模组之后安装。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "À installer après tous les mods ajoutant des objets pour des résultats plus pertinents."
+                "À installer après tous les mods ajoutant des objets pour des résultats plus pertinents.",
+                "Un composant de [[1141]] propose la même chose."
             ]
         }
     },
@@ -21025,8 +21035,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Inclus dans [[1588]] du même auteur."
+            ]
         }
     },
     {
@@ -23400,8 +23412,8 @@
         "id": 1613,
         "description": "在这个小模组中，武器的 vorpal 效果会在一定百分比的攻击触发（具体数值因武器而异），但仅对生命值低于50%的目标生效。与一个没有此能力但伤害相当的生物相比，当你与持有 vorpal 武器的敌人近战时，你的安全余裕降低了。但如果你的豁免死亡失败，或者像以前一样可能被一击毙命，它并不会成为战术障碍。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mini-mod, l'effet vorpal des armes se déclenchera sur un % de coups variant selon l'arme, mais n'affectant que ceux qui sont à 50% de points de vie ou moins. Cela réduit la marge de sécurité dont vous disposez lorsque vous menez une mêlée avec un ennemi armé de vorpal, par rapport à une créature aux dégâts comparables sans cette capacité, mais cela n'en fait pas un obstacle tactique en cas d'échec de votre jet de sauvegarde contre la mort ou si vous risquez d'être touché en un coup comme c'était le cas auparavant."
+            "status": "needs_review",
+            "source": "Avec ce mini-mod, l'effet vorpal des armes se déclenchera sur un % de coups variant selon l'arme, mais n'affectant que ceux qui sont à 50% de points de vie ou moins. Cela réduit la marge de sécurité dont vous disposez lorsque vous menez une mêlée avec un ennemi armé de vorpal, par rapport à une créature aux dégâts comparables sans cette capacité, mais cela n'en fait pas un obstacle tactique en cas d'échec de votre jet de sauvegarde contre la mort ou si vous risquez d'être touché en un coup comme c'était le cas auparavant."
         },
         "notes": [],
         "notes_meta": {
@@ -25737,8 +25749,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Un composant de [[497]] propose la même chose."
+            ]
         }
     },
     {
@@ -26390,8 +26404,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Un composant de [[93]] propose la même chose."
+            ]
         }
     },
     {
@@ -28381,7 +28397,9 @@
             "status": "done",
             "source": "Ce mod introduit plusieurs dizaines de nouveaux objets dans le jeu, dotés d'une grande variété de propriétés inhabituelles. Leur niveau de puissance est variable mais la plupart restent comparables à ceux de Siege of Dragonspear."
         },
-        "notes": ["这个模组会覆盖那些通常为某些NPC保留的专属物品。"],
+        "notes": [
+            "这个模组会覆盖那些通常为某些NPC保留的专属物品。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [

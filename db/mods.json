@@ -2357,7 +2357,7 @@
         "urls": [
             "https://artisans-corner.com/house-rules/",
             "https://www.shsforums.net/files/file/1232-artemius-house-tweaks-for-ee/",
-            "https://github.com/ArtemiusI/House-Rule-Tweaks"
+            "https://github.com/TheArtisanBG/House-Rule-Tweaks/"
         ],
         "categories": [
             "Gameplay"
@@ -2810,7 +2810,7 @@
         "urls": [
             "https://artisans-corner.com/aura-npc/",
             "https://forums.beamdog.com/discussion/65891/",
-            "https://github.com/ArtemiusI/Aura_BG1_BG2_EET/"
+            "https://github.com/TheArtisanBG/Aura_BG1_BG2_EET/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -2832,7 +2832,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "Aura_BG1_2_EET"
     },
@@ -2906,10 +2906,11 @@
             "fr",
             "de",
             "ru",
-            "es"
+            "es",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2021-09",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "aurenaseph"
     },
@@ -5411,7 +5412,7 @@
             "https://artisans-corner.com/bardic-wonders/",
             "https://www.shsforums.net/files/file/1235-bardic-wonders-for-bgee-bg2ee-and-iwdee/",
             "https://forums.beamdog.com/discussion/62913/",
-            "https://github.com/ArtemiusI/Bardic-Wonders/"
+            "https://github.com/TheArtisanBG/Bardic-Wonders/"
         ],
         "categories": [
             "Kit",
@@ -5435,7 +5436,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "BardicWonders"
     },
@@ -6012,7 +6013,7 @@
     },
     {
         "id": 180,
-        "name": "Black Rose Part I: Market Prices",
+        "name": "The Black Rose Part I: Market Prices",
         "description": "Ce mod ajoute une quête initiée par le magicien Menelaun, dans l'Antre des Sept Vaux, sur la Promenade de Waukyne.",
         "urls": [
             "http://baldur.cob-bg.pl/bg2-mody?pg=3",
@@ -9626,10 +9627,11 @@
             "fr",
             "pl",
             "cn",
-            "ru"
+            "ru",
+            "es"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "Tidings"
     },
@@ -10862,7 +10864,7 @@
         "description": "Ce mod vous permet de recruter le prêtre de Tyr Drake Caulfield, d'alignement neutre bon. Vous le trouverez dans l'auberge du Magicien ardent dans BG1 et aux Trois vieux tonneaux dans SoD. Il a une quête de compagnon dans BG1 et initie une quête dans SoD sans avoir besoin de le recruter. L'achèvement de sa quête dans BG1 est obligatoire pour l'achèvement de la voie d'amitié.|Drake est grossier, sarcastique et ne mâche jamais ses mots. Exceptionnellement pragmatique et cynique pour un serviteur de la justice, il suit néanmoins les idéaux de la foi tyrienne, bien que souvent de manière... peu orthodoxe. Il préfère vivre la vie telle qu'elle est plutôt que telle qu'elle devrait être, et s'adonne abondamment à la boisson et aux insinuations. Cela le met en porte-à-faux avec ses pairs, et sa personnalité directe provoque souvent la même chose avec ses compagnons de voyage. Malgré tous ses défauts apparents, Drake est honnête, fiable et souvent plus intelligent que son comportement ne le suggère. Il a un sens aigu de la moralité et choisit de voir le monde autrement qu'en noir et blanc. Il est fortement dévoué à sa famille par-dessus tout, y compris à l'Ordre.|Drake peut se lier d'amitié avec n'importe quel PC d'alignement non-maléfique, et peut être flirté au cours de ses diverses conversations par un PC de n'importe quel sexe et de n'importe quelle race. Bien qu'il puisse répondre amicalement, il n'y a pas de voie romantique dans BG1. Dans Siege of Dragonspear, un PC non maléfique avec un Charisme de 16 ou plus peut flirter avec lui pendant son dialogue d'amitié, ce qui peut amorcer une branche romantique.",
         "urls": [
             "https://forums.beamdog.com/discussion/62339/",
-            "https://github.com/ArtemiusI/Drake"
+            "https://github.com/TheArtisanBG/Drake/"
         ],
         "categories": [
             "PNJ recrutable",
@@ -11646,7 +11648,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-03",
         "compatibilities": {
             "incompatible_with": [
                 1410
@@ -12893,7 +12895,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "expandedclasses"
     },
@@ -19632,7 +19634,7 @@
         "urls": [
             "https://artisans-corner.com/karihi/",
             "https://forums.beamdog.com/discussion/79340/",
-            "https://github.com/ArtemiusI/KarihiNPC"
+            "https://github.com/TheArtisanBG/KarihiNPC/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -21524,10 +21526,11 @@
             "en",
             "ru",
             "pl",
-            "cn"
+            "cn",
+            "es"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "cdlore"
     },
@@ -22833,7 +22836,7 @@
         "urls": [
             "https://artisans-corner.com/minerva/",
             "https://forums.beamdog.com/discussion/79339/",
-            "https://github.com/ArtemiusI/MinervaNPC"
+            "https://github.com/TheArtisanBG/MinervaNPC/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -25327,7 +25330,9 @@
         "id": 765,
         "name": "Octavian's Drizzt",
         "description": "Ce mod vous permet de recruter Drizzt Do‘Urden lorsque vous quittez l'Ombreterre et partez à la recherche du Rhynn Lanthorn.|FOR 17, DEX 20, CON 17, INT 15, SAG 14, CHA 15.",
-        "urls": [],
+        "urls": [
+            "https://www.mediafire.com/file/q1ean3eds2ht71h/octavians_drizzt_v2beta3.zip/file"
+        ],
         "categories": [
             "PNJ recrutable"
         ],
@@ -25335,16 +25340,25 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "octavian"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
-        "languages": [],
-        "status": "missing",
-        "last_update": "2005-09",
-        "compatibilities": {},
-        "tp2": ""
+        "safe": 2,
+        "languages": [
+            "en",
+            "de"
+        ],
+        "status": "active",
+        "last_update": "2010-04",
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
+        "tp2": "DKDrizzt"
     },
     {
         "id": 766,
@@ -26087,7 +26101,7 @@
         "urls": [
             "https://artisans-corner.com/paina-npc-for-bg2ee/",
             "https://forums.beamdog.com/discussion/43113/",
-            "https://github.com/ArtemiusI/Pai-Na-NPC-mod-for-BG2-EE"
+            "https://github.com/TheArtisanBG/Pai-Na-NPC-mod-for-BG2-EE/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -27791,10 +27805,11 @@
         "safe": 2,
         "languages": [
             "fr",
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "P!Bhaal"
     },
@@ -30978,7 +30993,7 @@
         "description": "Ce mod ajoute une nouvelle école de magie : la toile de l'ombre, créée par Shar. Vous pourrez jouer un Adapte de l'ombre avec plus de 100 sorts spéciaux. N'oubliez pas que si la magie de l'ombre est plus puissante que la magie ordinaire, elle est aussi dangereuse, car elle draine la force vitale de l'utilisateur.|Le composant principal installe les profils d'Adepte de l'ombre (mage), Disciple de l'ombre (ensorceleur) et Chanteur de la nuit (barde), ainsi que les sorts de l'école de magie et des familiers exclusifs.|Il dispose aussi de plusieurs composants optionnels :|- Installer le profil de Moine de l'ombre (physiquement plus faible qu'un moine ordinaire, il peut poignarder dans le dos, drainer des points de vie avec des attaques de mêlée et lancer une sélection limitée de sorts de la toile de l'ombre).|- BG:EE : ajoute plusieurs rencontres contre des Adeptes de l'ombre ainsi qu'un nouveau magasin vendant des objets utilisables par les adeptes de l'ombre.|- BG2:EE : modifie le Seigneur de l'ombre qui dispose d'une nouvelle capacité destinée aux adeptes de l'ombre avides de pouvoir et de sorts de la toile de l'ombre pour rendre la rencontre plus difficile.",
         "urls": [
             "https://artisans-corner.com/shadow-magic/",
-            "https://github.com/ArtemiusI/Shadow-Magic"
+            "https://github.com/TheArtisanBG/Shadow-Magic/"
         ],
         "categories": [
             "Gameplay",
@@ -31771,7 +31786,7 @@
         "urls": [
             "https://artisans-corner.com/sirene-npc-for-bg2ee/",
             "https://forums.beamdog.com/discussion/62163",
-            "https://github.com/ArtemiusI/Sirene-NPC-for-BG2-EE"
+            "https://github.com/TheArtisanBG/Sirene-NPC-for-BG2-EE/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -31802,7 +31817,7 @@
         "urls": [
             "https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/",
             "https://forums.beamdog.com/discussion/42721/",
-            "https://github.com/ArtemiusI/Sirene-BG1"
+            "https://github.com/TheArtisanBG/Sirene-BG1/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -31892,7 +31907,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {
             "incompatible_with": [
                 961
@@ -32476,10 +32491,11 @@
             "de",
             "it",
             "ru",
-            "es"
+            "es",
+            "pl"
         ],
         "status": "active",
-        "last_update": "2022-09",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "spstuff"
     },
@@ -34843,7 +34859,7 @@
         "urls": [
             "https://artisans-corner.com/the-artisans-kitpack/",
             "https://forums.beamdog.com/discussion/75663/",
-            "https://github.com/ArtemiusI/The-Artisan-s-Kitpack"
+            "https://github.com/TheArtisanBG/The-Artisan-s-Kitpack/"
         ],
         "categories": [
             "Kit"
@@ -39875,7 +39891,7 @@
         "urls": [
             "https://www.shsforums.net/files/file/1233-warlock-mod-for-bgee-bg2ee-and-iwdee/",
             "https://forums.beamdog.com/discussion/69177/",
-            "https://github.com/ArtemiusI/Warlock"
+            "https://github.com/TheArtisanBG/Warlock/"
         ],
         "categories": [
             "Kit"
@@ -40201,7 +40217,9 @@
             "Quête"
         ],
         "games": [
-            "BGT"
+            "BGT",
+            "Tutu",
+            "BGEE"
         ],
         "authors": [
             "Wedge"
@@ -40213,7 +40231,7 @@
         "languages": [
             "de"
         ],
-        "status": "active",
+        "status": "wip",
         "last_update": "2014-11",
         "compatibilities": {},
         "tp2": "WBGTAP"
@@ -40546,7 +40564,7 @@
             "pt"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "wildmage"
     },
@@ -42716,8 +42734,10 @@
         "name": "Imoen Romance",
         "description": "Ce mod permet d'avoir une relation beaucoup plus privilégiée avec sa petite sœur. Il peut s'agir aussi bien d'amitié que de romance, quel que soit le sexe du PJ. Les dialogues sont particulièrement nombreux, et le mod comprend un grand nombre de nouvelles musiques. Il exige ToB.",
         "urls": [
-            "http://www.blindmonkey.org/imoen/",
-            "https://forums.beamdog.com/discussion/36101/"
+            "https://www.israelbarbuzano.net/imoen/",
+            "https://forums.beamdog.com/discussion/36101/",
+            "https://forums.beamdog.com/discussion/90600/",
+            "https://github.com/Mirrabbo/Imoen-Romance-Mod/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -42743,10 +42763,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "ImoenRomance"
     },
@@ -43437,7 +43458,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-03",
         "compatibilities": {
             "incompatible_with": [
                 1280
@@ -43774,7 +43795,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Loretakers"
     },
@@ -44197,7 +44218,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "DlcMerger"
     },
@@ -44249,7 +44270,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -45180,7 +45201,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "zbpod"
     },
@@ -45826,7 +45847,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "infinity_ui"
     },
@@ -46521,7 +46542,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "ZSTweaks"
     },
@@ -47102,7 +47123,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "mih_fr"
     },
@@ -47132,7 +47153,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-11",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "mih_metamod"
     },
@@ -47319,7 +47340,8 @@
         ],
         "team": [],
         "notes": [
-            "À installer après tous les mods ajoutant des objets pour des résultats plus pertinents."
+            "À installer après tous les mods ajoutant des objets pour des résultats plus pertinents.",
+            "Un composant de [[1141]] propose la même chose."
         ],
         "translation_state": "n/a",
         "safe": 2,
@@ -48008,14 +48030,16 @@
             "Shohy"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Inclus dans [[1588]] du même auteur."
+        ],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en",
             "cn"
         ],
-        "status": "missing",
+        "status": "embed",
         "last_update": "2024-11",
         "compatibilities": {},
         "tp2": "Shohy's_Weapon_Style_Rebalance"
@@ -49368,7 +49392,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "ZS_CanIStabYou"
     },
@@ -49556,7 +49580,7 @@
         "name": "Candlekeep Revisited",
         "description": "Ce mod ajoute du contenu au prologue souvent considéré comme fastidieux du premier Baldur's Gate, en ajoutant de « nouveaux » PNJ, des dialogues plus longs avec Gorion et vos connaissances d'enfance, l'option permettant à Imoen de vous rejoindre dans votre dernière errance autour de Château-Suif, ainsi que beaucoup, beaucoup de scènes supplémentaires, y compris une séquence de départ basée sur la classe de votre personnage principal avec divers bonus de départ.",
         "urls": [
-            "https://github.com/ArtemiusI/Candlekeep-Revisited"
+            "https://github.com/TheArtisanBG/Candlekeep-Revisited/"
         ],
         "categories": [
             "Quête"
@@ -49579,7 +49603,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "candlekeep_revisited"
     },
@@ -49704,7 +49728,7 @@
         "description": "Ce mod ajoute un personnage recrutable : K’Velarin. Un drow Guerrier/Mage/Voleur d'alignement loyal mauvais. Bien que vous puissiez le rencontrer plusieurs fois dans le jeu, il n'est recrutable qu'à partir du chapitre 5. Contrairement à ce que son alignement laisse penser, il faut une réputation de 15 minimum ou un Charisme de 18 pour pouvoir l'intégrer dans le groupe.|FOR 18/78, DEX 15, CON 17, INT 17, SAG 13, CHA 8.",
         "urls": [
             "https://artisans-corner.com/kvel/",
-            "https://github.com/ArtemiusI/Kvel-BG1/"
+            "https://github.com/TheArtisanBG/Kvel-BG1/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -50328,7 +50352,7 @@
         "description": "Ce mod ajoute une nouvelle façon de voyager à travers la Côte de l'Épée, en ajoutant des Maîtres de Caravane que vous pouvez engager pour vous amener à certains endroits sur la carte avec seulement la moitié du temps de voyage et sans risque de rencontres aléatoires. Vous arriverez sur place bien reposé, avec vos sorts et vos capacités restaurés, ce qui vous permettra d'économiser des heures, voire des jours de jeu. Cependant, ce genre de service n'est pas gratuit, car vous devez payer 10 or par heure de voyage pour chaque membre du groupe. Les frais de déplacement ne sont pas donnés, après tout.",
         "urls": [
             "https://artisans-corner.com/caravans-of-faerun/",
-            "https://github.com/ArtemiusI/Caravans-of-Faerun"
+            "https://github.com/TheArtisanBG/Caravans-of-Faerun/"
         ],
         "categories": [
             "Gameplay"
@@ -50574,7 +50598,7 @@
         "name": "The Artisan's Corner: Shaman Tweaks",
         "description": "Ce mod cherche à rendre cohérente la classe du Shaman en calquant sa progression en expérience sur celle du Clerc plutôt que sur celle de l'Ensorceleur. Il ajuste également sa vitesse d'apprentissage de sorts et le nombre d'incantations quotidiennes à un rythme plus cohérent.",
         "urls": [
-            "https://github.com/ArtemiusI/Artisans-Shaman-Tweaks/"
+            "https://github.com/TheArtisanBG/Artisans-Shaman-Tweaks/"
         ],
         "categories": [
             "Gameplay"
@@ -52065,7 +52089,7 @@
         "description": "Ce mod propose Nirik Bannerstone, un druide nain neutre strict.|FOR 12, DEX 16, CON 16, INT 14, SAG 16, CHA 15",
         "urls": [
             "https://artisans-corner.com/iwdee-npcs/",
-            "https://github.com/ArtemiusI/IWD-Nirik-NPC/"
+            "https://github.com/TheArtisanBG/IWD-Nirik-NPC/"
         ],
         "categories": [
             "PNJ One Day"
@@ -52094,7 +52118,7 @@
         "description": "Ce mod propose Guldruk, un demi-orc Kensaï loyal bon.|FOR 19, DEX 12, CON 16, INT 16, SAG 17, CHA 12",
         "urls": [
             "https://artisans-corner.com/iwdee-npcs/",
-            "https://github.com/ArtemiusI/IWD-Guldruk-NPC"
+            "https://github.com/TheArtisanBG/IWD-Guldruk-NPC/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -52123,7 +52147,7 @@
         "description": "Ce mod propose Athanasios, un halfling chaotique bon prêtre de Tempus. Il possède son propre set de voix.|FOR 17, DEX 17, CON 16, INT 12, SAG 16, CHA 9",
         "urls": [
             "https://artisans-corner.com/iwdee-npcs/",
-            "https://github.com/ArtemiusI/IWD-Athanasios-NPC"
+            "https://github.com/TheArtisanBG/IWD-Athanasios-NPC/"
         ],
         "categories": [
             "PNJ One Day"
@@ -52151,7 +52175,7 @@
         "name": "Frostforged",
         "description": "Ce mod propose un pack d'objets et un rebalancement des objets pour IWDEE.",
         "urls": [
-            "https://github.com/ArtemiusI/IWDEE-Frostforged"
+            "https://github.com/TheArtisanBG/IWDEE-Frostforged/"
         ],
         "categories": [
             "Sort et objet"
@@ -53144,7 +53168,7 @@
     {
         "id": 1613,
         "name": "Rebalancing Vorpal effects",
-        "description": "Ce mini-mod, l'effet vorpal des armes se déclenchera sur un % de coups variant selon l'arme, mais n'affectant que ceux qui sont à 50% de points de vie ou moins. Cela réduit la marge de sécurité dont vous disposez lorsque vous menez une mêlée avec un ennemi armé de vorpal, par rapport à une créature aux dégâts comparables sans cette capacité, mais cela n'en fait pas un obstacle tactique en cas d'échec de votre jet de sauvegarde contre la mort ou si vous risquez d'être touché en un coup comme c'était le cas auparavant.",
+        "description": "Avec ce mini-mod, l'effet vorpal des armes se déclenchera sur un % de coups variant selon l'arme, mais n'affectant que ceux qui sont à 50% de points de vie ou moins. Cela réduit la marge de sécurité dont vous disposez lorsque vous menez une mêlée avec un ennemi armé de vorpal, par rapport à une créature aux dégâts comparables sans cette capacité, mais cela n'en fait pas un obstacle tactique en cas d'échec de votre jet de sauvegarde contre la mort ou si vous risquez d'être touché en un coup comme c'était le cas auparavant.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/31688-rebalancing-vorpal-effects/#comment-284531",
             "https://github.com/mleduque/polytope_rebalanced_vorpal"
@@ -58225,7 +58249,9 @@
             "Deratiseur"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Un composant de [[497]] propose la même chose."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -58993,7 +59019,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {
             "incompatible_with": [
                 1286
@@ -59594,7 +59620,9 @@
             "Sasha al'Therin"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Un composant de [[93]] propose la même chose."
+        ],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
@@ -59742,7 +59770,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "dw_iwdspells"
     },
@@ -59799,10 +59827,11 @@
         "translation_state": "auto",
         "safe": 1,
         "languages": [
-            "en"
+            "en",
+            "es"
         ],
         "status": "wip",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "TPoJ"
     },
@@ -59963,7 +59992,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "jarnip"
     },
@@ -60263,7 +60292,7 @@
         "name": "The Amazing Pocket Wardrobe Mod",
         "description": "The Amazing Pocket Wardrobe est un mod qui vous permet de personnaliser librement l'apparence de votre personnage parmi tous les sprites jouables, vous permettant de modifier à votre guise votre sexe visible, votre race, votre classe, votre niveau d'armure et la visibilité de votre casque.",
         "urls": [
-            "https://github.com/ArtemiusI/Pocket-Wardrobe"
+            "https://github.com/TheArtisanBG/Pocket-Wardrobe/"
         ],
         "categories": [
             "Cosmétique"
@@ -60619,7 +60648,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -61770,7 +61799,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "bg-random-loot"
     },
@@ -62080,7 +62109,7 @@
         "name": "The Artisan's Font Pack",
         "description": "Ce mod remplace les polices originales des jeux Infinity Engine par de nouvelles polices. Toutes les polices choisies proviennent des sites FontSquirrel et 1001 Fonts et leur licence autorise un usage commercial. 5 polices sont disponibles.",
         "urls": [
-            "https://github.com/ArtemiusI/Artisans-Font-Pack/"
+            "https://github.com/TheArtisanBG/Artisans-Font-Pack/"
         ],
         "categories": [
             "Cosmétique"
@@ -62110,7 +62139,7 @@
         "description": "Un projet de mod par épisode visant à prolonger la fin de Baldur's Gate: Shadows of Amn, commençant par une suite jouable, avec l'intention d'ajouter un interlude à part entière afin de mieux faire le lien entre Shadows of Amn et Throne of Bhaal, mettant en scène les elfes de Suldanessalar, certains visages familiers et un nouvel antagoniste.|`Épisode I - Le calme avant la tempête` : Irenicus est vaincu. La paix est revenue à Suldanessalar, et la vie semble reprendre son cours normal. À la demande de la grande prêtresse elfe, l'enfant de Bhaal et ses compagnons sont restés dans la cité elfique en tant que sauveurs et invités d'honneur, tandis que les citoyens se préparent pour le Festival de la Floraison, une cérémonie destinée à restaurer le moral des habitants.|`Épisode II - Festival de la Floraison` : en cours de réalisation.",
         "urls": [
             "https://artisans-corner.com/shadows-of-amn-extended/",
-            "https://github.com/ArtemiusI/SoAExtended/"
+            "https://github.com/TheArtisanBG/SoAExtended/"
         ],
         "categories": [
             "Quête"
@@ -62231,7 +62260,7 @@
         "description": "Ce mod ajoute une longue histoire d'amour avec Mazzy, la charmante chevalier petite-personne.|Il comprend 20 conversations chronométrées ainsi que diverses conversations liées à des événements dans Shadows of Amn, 8 conversations dans ToB, un épilogue romantique avec de petites variations en fonction de vos choix personnels et des circonstances, et les événements habituels liés à la romance.|Pour activer la romance, si vous remplissez les conditions requises (alignement non mauvais), vous devez avoir une réputation de 15 ou plus.",
         "urls": [
             "https://artisans-corner.com/mazzy-romance/",
-            "https://github.com/ArtemiusI/Mazzy-Romance-BG2EE/"
+            "https://github.com/TheArtisanBG/Mazzy-Romance-BG2EE/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -62260,7 +62289,7 @@
         "name": "Heart of Winter Ending Tweak",
         "description": "Une petite modification permettant de changer la fin de l'extension Heart of Winter pour IWD:EE (lorsque vous jouez à partir de la campagne principale) afin que l'extension ne se termine pas immédiatement après avoir vaincu le boss final. Vous pourrez retourner à Lonelywood et terminer toute tâche inachevée, ainsi que jouer à Trials of the Luremaster si vous le souhaitez, et terminer l'extension quand vous le souhaitez en parlant à Hjollder.",
         "urls": [
-            "https://github.com/ArtemiusI/HoWMod/"
+            "https://github.com/TheArtisanBG/HoWMod/"
         ],
         "categories": [
             "Gameplay"
@@ -63780,7 +63809,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {
             "requires": [
                 "ToB"
