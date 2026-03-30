@@ -8,7 +8,7 @@ class Tp2Cleaner(ModCleaner):
 
         languages = set()
         for lang_name, lang_dir_name in zip(
-            self.data["languages"][::2], self.data["languages"][1::2], strict=True
+            self.data["languages"][::2], self.data["languages"][1::2]
         ):
             cleaned_lang = self._clean_lang(lang_dir_name)
             if not cleaned_lang:
