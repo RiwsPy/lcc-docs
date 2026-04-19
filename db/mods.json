@@ -286,7 +286,7 @@
     {
         "id": 10,
         "name": "AC's Miscellaneous Tweaks",
-        "description": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si 1PP est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personnages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur.",
+        "description": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si [[770]] est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personnages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur.",
         "urls": [
             "https://www.shsforums.net/topic/61629-acs-miscellaneous-tweaks/",
             "https://forums.beamdog.com/discussion/82624/",
@@ -30543,22 +30543,27 @@
     {
         "id": 920,
         "name": "Sarevok's True Power",
-        "description": "Ce mini mod dote Sarevok de capacités particulières, à la gloire d'un fameux jeu.",
+        "description": "Ce mini mod dote Sarevok de deux capacités particulières (Tiger Shot et Tiger Uppercut), à la gloire du jeu Street Fighter.",
         "urls": [
-            "https://www.shsforums.net/topic/38864-sarevoks-true-power/"
+            "https://www.shsforums.net/topic/38864-sarevoks-true-power/",
+            "https://github.com/Plutonium-X/GAMEPLAY_Sarevok/"
         ],
         "categories": [
             "PNJ (autre)"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "vilkacis"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choisissez le lien github pour la version BG2EE/EET."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -30567,8 +30572,12 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2010-05",
-        "compatibilities": {},
+        "last_update": "2026-04",
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "TIGER"
     },
     {
@@ -64294,5 +64303,70 @@
         "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "InterestingItems"
+    },
+    {
+        "id": 1977,
+        "name": "Zutroy's Item Pack",
+        "description": "Ce mod ajoute deux nouveaux marchands proposant des objets magiques uniques. Le marchand n°1 se trouve dans les Pics Brumeux, la zone accessible lors de la quête de Rasaad. Le marchand n°2 se trouve à Gullykin.",
+        "urls": [
+            "https://github.com/Zut9/Zutroy-Item-Pack/"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BGEE",
+            "SoD"
+        ],
+        "authors": [
+            "Zutroy"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-02",
+        "compatibilities": {},
+        "tp2": "z9ip0"
+    },
+    {
+        "id": 1978,
+        "name": "Chevaucheuse de Licorne et Chevalier de Diamant",
+        "description": "Ce mod ajoute deux nouveaux kits de paladin très travaillés issus du mod [[682]]. Lisez le readme pour en savoir plus.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=28908",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=29176",
+            "https://www.mediafire.com/file/usub2lw4gw2k0v3/Diamant_Chevalier_de_diamant_%2526_Chevaucheuse_de_Licorne.zip/file"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Freddy_Gwendo"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2016-01",
+        "compatibilities": {
+            "requires": [
+                "ToB",
+                770,
+                1111
+            ]
+        },
+        "tp2": "Diamant_Eternel"
     }
 ]

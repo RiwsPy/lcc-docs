@@ -136,10 +136,10 @@
     },
     {
         "id": 10,
-        "description": "This mod is the result of adjustments and modifications made by Andrea C. to her BGT installation. Over time, it has been enriched with numerous components and is now compatible with all Baldurs Gate games, original and EE. It includes many components that restore BG1 icons for items in that opus, restore original icons for all bonus merchant items in SoA if 1PP is installed, restore original portraits for new recruitable NPCs in EE games, correct dragon breaths, offer the use of character sound sets in classic games... In short, take a good look at the mod presentation available via the download link, and you're sure to find what you're looking for.",
+        "description": "This mod is the result of adjustments and modifications made by Andrea C. to her BGT installation. Over time, it has been enriched with numerous components and is now compatible with all Baldurs Gate games, original and EE. It includes many components that restore BG1 icons for items in that opus, restore original icons for all bonus merchant items in SoA if [[770]] is installed, restore original portraits for new recruitable NPCs in EE games, correct dragon breaths, offer the use of character sound sets in classic games... In short, take a good look at the mod presentation available via the download link, and you're sure to find what you're looking for.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si 1PP est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personnages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur."
+            "source": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si [[770]] est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personnages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur."
         },
         "notes": [
             "Please note: many components restore English text."
@@ -13279,15 +13279,19 @@
     },
     {
         "id": 920,
-        "description": "This mini-mod endows Sarevok with special abilities, to the glory of a famous game.",
+        "description": "This mini-mod gives Sarevok two special moves (Tiger Shot and Tiger Uppercut), in homage to the game Street Fighter.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mini mod dote Sarevok de capacités particulières, à la gloire d'un fameux jeu."
+            "source": "Ce mini mod dote Sarevok de deux capacités particulières (Tiger Shot et Tiger Uppercut), à la gloire du jeu Street Fighter."
         },
-        "notes": [],
+        "notes": [
+            "Choose the github link for the BG2EE/EET version."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Choisissez le lien github pour la version BG2EE/EET."
+            ]
         }
     },
     {
@@ -28140,6 +28144,32 @@
             "source": [
                 "Il override les objets habituellement réservés à certains PNJ."
             ]
+        }
+    },
+    {
+        "id": 1977,
+        "description": "This mod adds two new merchants with unique magical items. Merchant 1 is in the Cloud Peaks, the area accessible during Rasaad quest. Merchant 2 is in the Gullykin.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod ajoute deux nouveaux marchands proposant des objets magiques uniques. Le marchand n°1 se trouve dans les Pics Brumeux, la zone accessible lors de la quête de Rasaad. Le marchand n°2 se trouve à Gullykin."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1978,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute deux nouveaux kits de paladin très travaillés issus du mod [[682]]. Lisez le readme pour en savoir plus."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]

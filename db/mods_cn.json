@@ -140,8 +140,8 @@
         "id": 10,
         "description": "此模组是Andrea C.在其BGT（博德之门三部曲）安装过程中进行调整和修改的产物。随着时间的推移，它增加了许多组件，现在与所有博德之门游戏（原版和EE）兼容。它包含许多组件，这些组件恢复了BG1中本作物品的图标，如果在SoA中安装了1PP，则恢复了所有商人奖励物品的原始图标，恢复了EE游戏中可招募新NPC的原始肖像，修正了龙息，提议在经典游戏中使用EE角色音效……总之，请仔细阅读可通过下载链接访问的模组介绍，你一定会找到你想要的东西。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si 1PP est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personnages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur."
+            "status": "needs_review",
+            "source": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si [[770]] est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personnages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur."
         },
         "notes": [
             "注意：许多组件会恢复英文文本。"
@@ -13400,13 +13400,15 @@
         "id": 920,
         "description": "这个迷你模组为沙洛佛克赋予了特殊能力，以致敬一款著名的游戏。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mini mod dote Sarevok de capacités particulières, à la gloire d'un fameux jeu."
+            "status": "needs_review",
+            "source": "Ce mini mod dote Sarevok de deux capacités particulières (Tiger Shot et Tiger Uppercut), à la gloire du jeu Street Fighter."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Choisissez le lien github pour la version BG2EE/EET."
+            ]
         }
     },
     {
@@ -28412,6 +28414,32 @@
             "source": [
                 "Il override les objets habituellement réservés à certains PNJ."
             ]
+        }
+    },
+    {
+        "id": 1977,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute deux nouveaux marchands proposant des objets magiques uniques. Le marchand n°1 se trouve dans les Pics Brumeux, la zone accessible lors de la quête de Rasaad. Le marchand n°2 se trouve à Gullykin."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1978,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute deux nouveaux kits de paladin très travaillés issus du mod [[682]]. Lisez le readme pour en savoir plus."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]
