@@ -20714,7 +20714,7 @@
             "source": "Ce mod met à 0 la Connaissance nécessaire pour identifier tous les objets, ce qui évite au joueur d'avoir à les identifier manuellement."
         },
         "notes": [
-			"在所有添加物品的模组之后安装，以获得更相关的结果。",
+            "在所有添加物品的模组之后安装，以获得更相关的结果。",
             "[[1141]]的一个组件提供了同样的功能。"
         ],
         "notes_meta": {
@@ -21037,8 +21037,8 @@
             "source": "Après avoir étudié de nombreux combats armés réels, l'auteur a cherché à rééquilibrer les styles d'armes à deux mains, d'épée et de bouclier, d'arme unique et d'arme à deux mains, afin que tous les styles d'armes soient utiles. L'Intelligence/Sagesse/Charisme apporte également des modificateurs supplémentaires. Tous les ajustements ne prennent effet qu'en combat. Vous pouvez cliquer sur le bouton de changement de mode sur la barre de compétences du protagoniste pour activer ou non le mécanisme. Le bouton est obtenu lors du premier combat."
         },
         "notes": [
-			"包含在同一个作者的[[1588]]中。"
-		],
+            "包含在同一个作者的[[1588]]中。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -25753,8 +25753,8 @@
             "source": "Ce module place les deux marchands Deirdre et Joluv dans IWDEE. Deirdre est dans la boutique de Gerth et Joluv est dans la taverne."
         },
         "notes": [
-			"[[497]]的一个组件提供了同样的功能。"
-		],
+            "[[497]]的一个组件提供了同样的功能。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -26410,8 +26410,8 @@
             "source": "Ce mod modifie le script du groupe de façon à pouvoir simuler un repos de 8 heures au groupe si aucun ennemi n'est visible. Il permet notamment de dormir dans des zones où le sommeil est à priori impossible et sans risque de se faire attaquer."
         },
         "notes": [
-			"[[93]]的一个组件提供了同样的功能。"
-		],
+            "[[93]]的一个组件提供了同样的功能。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28435,6 +28435,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod ajoute deux nouveaux kits de paladin très travaillés issus du mod [[682]]. Lisez le readme pour en savoir plus."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1979,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute de nombreux banters à Rasaad."
         },
         "notes": [],
         "notes_meta": {

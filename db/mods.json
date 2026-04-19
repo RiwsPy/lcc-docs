@@ -64368,5 +64368,34 @@
             ]
         },
         "tp2": "Diamant_Eternel"
+    },
+    {
+        "id": 1979,
+        "name": "Rasaad Expansion for Baldur's Gate: Enhanced Edition",
+        "description": "Ce mod ajoute de nombreux banters à Rasaad.",
+        "urls": [
+            "https://github.com/TheArtisanBG/Rasaad-Expansion-BG1/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-02",
+        "compatibilities": {},
+        "tp2": "Artisans_Rasaad_BG1"
     }
 ]
