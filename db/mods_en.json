@@ -110,7 +110,7 @@
     },
     {
         "id": 8,
-        "description": "This mod adds 34 new profiles:|- fighters: Breachgnome, Mercenary, Myrmidon and Tunnelrat.|- rangers: Giant Killer.|- paladins: Knight of the Mystic Fire, Walker of the Forest and Holy Warrior of Suffering.|- monks: Brothers and sisters of the Pure Flame, Child of the Passive Voice, Disciple of the Changeless Face, Disciple of the Phoenix, Disciple of the Salamander, Disciple of the White Rod, Disciple of the Yielding Way, Monk of the Old Order, Monk of the Order of the Long Death, Monk of the Shimmering Wind, Monk of the Shining Hand, Monk of the Weeping Friars, Zealot of the Written Word.|- thiefs: Pest Controller, Scout, Tumbler, Vermin Slayer.|- clerics: Earthwalker of Grumbar, Iceguardian of Ulutiu, Icepriest of Auril, Leaftender, Priest of Luthic, Shaman of Gruumsh, Treetender.|- druids: Hivemaster.",
+        "description": "This mod adds 34 new kits:|- fighters: Breachgnome, Mercenary, Myrmidon and Tunnelrat.|- rangers: Giant Killer.|- paladins: Knight of the Mystic Fire, Walker of the Forest and Holy Warrior of Suffering.|- monks: Brothers and sisters of the Pure Flame, Child of the Passive Voice, Disciple of the Changeless Face, Disciple of the Phoenix, Disciple of the Salamander, Disciple of the White Rod, Disciple of the Yielding Way, Monk of the Old Order, Monk of the Order of the Long Death, Monk of the Shimmering Wind, Monk of the Shining Hand, Monk of the Weeping Friars, Zealot of the Written Word.|- thiefs: Pest Controller, Scout, Tumbler, Vermin Slayer.|- clerics: Earthwalker of Grumbar, Iceguardian of Ulutiu, Icepriest of Auril, Leaftender, Priest of Luthic, Shaman of Gruumsh, Treetender.|- druids: Hivemaster.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute 34 nouveaux profils :|- guerriers : Gnome de choc, Mercenaire, Myrmidon et Rat de tunnel.|- rôdeurs : Tueur de géant.|- paladins : Chevalier du feu mystique, Serviteur de la forêt et Guerrier sanctifié de la souffrance.|- moines : Frères et sœurs de la Flamme pure, Enfant de la Voix passive, Disciple du Visage immuable, Disciple du Phénix, Disciple de la Salamandre, Disciple du Bâton Blanc, Disciple de la Voie du souplesse, Moine de l'Ordre ancien, Moine de l'Ordre de la longue mort, Moine du Vent Scintillant, Moine de la Main étincelante, Moine des Frères pleureurs, Zélateur des Grands écrits.|- voleurs : Petit rat, Dératiseur, Éclaireur, Voltigeur, Tueur de vermines.|- clercs : Marcheterre de Grumbar, Gardien des glaces d'Ulutiu, Prêtre des glaces d'Aurile, Soigne-feuilles, Prêtre de Luthic, Chaman de Gruumsh, Soigne-bois.|- druides : Essaimeur."
@@ -136,10 +136,10 @@
     },
     {
         "id": 10,
-        "description": "This mod is the result of adjustments and modifications made by Andrea C. to her BGT installation. Over time, it has been enriched with numerous components and is now compatible with all Baldurs Gate games, original and EE. It includes many components that restore BG1 icons for items in that opus, restore original icons for all bonus merchant items in SoA if 1PP is installed, restore original portraits for new recruitable NPCs in EE games, correct dragon breaths, offer the use of character sound sets in classic games... In short, take a good look at the mod presentation available via the download link, and you're sure to find what you're looking for.",
+        "description": "This mod is the result of adjustments and modifications made by Andrea C. to her BGT installation. Over time, it has been enriched with numerous components and is now compatible with all Baldurs Gate games, original and EE. It includes many components that restore BG1 icons for items in that opus, restore original icons for all bonus merchant items in SoA if [[770]] is installed, restore original portraits for new recruitable NPCs in EE games, correct dragon breaths, offer the use of character sound sets in classic games... In short, take a good look at the mod presentation available via the download link, and you're sure to find what you're looking for.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si 1PP est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personnages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur."
+            "source": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si [[770]] est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personnages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur."
         },
         "notes": [
             "Please note: many components restore English text."
@@ -829,7 +829,7 @@
     },
     {
         "id": 56,
-        "description": "This mod is part of a series of eight profiles created on the old IE customization & add-ons site: Apprentice, [[61]], [[271]], [[322]], [[362]], [[380]], [[428]] and [[1154]].|This one installs a swords expert profile.",
+        "description": "This mod is part of a series of eight kits created on the old IE customization & add-ons site: Apprentice, [[61]], [[271]], [[322]], [[362]], [[380]], [[428]] and [[1154]].|This one installs a swords expert profile.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : Apprentice, [[61]], [[271]], [[322]], [[362]], [[380]], [[428]] et [[1154]].|Celui-ci installe un profil d'expert en épées."
@@ -898,7 +898,7 @@
     },
     {
         "id": 61,
-        "description": "This mod is part of a series of eight profiles created on the old IE customization & add-ons site: [[56]], Arcane Fist, [[271]], [[322]], [[362]], [[380]], [[428]] and [[1154]].|The Arcane Fists are an ancient order of wizards in Faerun, and are seldom ever seen. They are not quite the masters of unarmed combat nor are they the masters of the arcane arts, but they become a fearsome foe with the combination of both. They are taught at an early age the skills required for unarmed combat and also learn to wield mystical powers. They are typically loners, only assembling in groups with their own kind, or in times of great danger they will group up with 'outsiders'. There are three sects of The Arcane Fist: The Order of Light, Bakur's Brotherhood, and Death's Law.",
+        "description": "This mod is part of a series of eight kits created on the old IE customization & add-ons site: [[56]], Arcane Fist, [[271]], [[322]], [[362]], [[380]], [[428]] and [[1154]].|The Arcane Fists are an ancient order of wizards in Faerun, and are seldom ever seen. They are not quite the masters of unarmed combat nor are they the masters of the arcane arts, but they become a fearsome foe with the combination of both. They are taught at an early age the skills required for unarmed combat and also learn to wield mystical powers. They are typically loners, only assembling in groups with their own kind, or in times of great danger they will group up with 'outsiders'. There are three sects of The Arcane Fist: The Order of Light, Bakur's Brotherhood, and Death's Law.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], Arcane Fist, [[271]], [[322]], [[362]], [[380]], [[428]] et [[1154]].|Les Poings arcaniques sont un ancien ordre de sorciers de Faerûn, que l'on aperçoit rarement. Ils ne sont pas vraiment les maîtres du combat à mains nues, ni ceux des arts arcaniques, mais ils deviennent des adversaires redoutables lorsqu'ils combinent les deux. Dès leur plus jeune âge, ils apprennent les techniques nécessaires au combat à mains nues et acquièrent des pouvoirs mystiques. Ce sont généralement des solitaires qui ne se regroupent qu'avec leurs semblables, sauf en cas de grand danger où ils s'allient à des « étrangers ». Il existe trois sectes au sein des Poings arcaniques : l'Ordre de la Lumière, la Confrérie de Bakur et la Loi de la Mort."
@@ -1109,7 +1109,7 @@
     },
     {
         "id": 76,
-        "description": "This mod brings together some of the ideas from the projects of a mod finally abandoned, \"Embers of Empires\". It introduces the following changes to the game:|- All character classes can use any type of weapon (e.g. a priest can use a sword, but only a paladin can use Carsomyr).|- Stone/Iron Skin duration reduced.|- 7 new profiles: 6 priest profiles (from gods other than Faerûn: Priest of Cathoun, Priest of Lahan-Riyashal, Priest of Oron, Priest of Thieron, Priest of Uulix and Priest of Yathar) and one fighter kit (Tunnel Fighter).|- New armors (scales, stripes, war harness) available from a merchant on the Waukeen's Promenade, and weapons (bolas, katars and javelins).|- Assign new martial specializations to Anomen (longsword, spear, crossbow), Keldorn (spear replaces crossbow) and Viconia (crossbow, flail, one-handed weapon style, scimitar and shortsword).",
+        "description": "This mod brings together some of the ideas from the projects of a mod finally abandoned, \"Embers of Empires\". It introduces the following changes to the game:|- All character classes can use any type of weapon (e.g. a priest can use a sword, but only a paladin can use Carsomyr).|- Stone/Iron Skin duration reduced.|- 7 new kits: 6 priest kits (from gods other than Faerûn: Priest of Cathoun, Priest of Lahan-Riyashal, Priest of Oron, Priest of Thieron, Priest of Uulix and Priest of Yathar) and one fighter kit (Tunnel Fighter).|- New armors (scales, stripes, war harness) available from a merchant on the Waukeen's Promenade, and weapons (bolas, katars and javelins).|- Assign new martial specializations to Anomen (longsword, spear, crossbow), Keldorn (spear replaces crossbow) and Viconia (crossbow, flail, one-handed weapon style, scimitar and shortsword).",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod réunit quelques unes des idées des projets d'un mod finalement abandonné, \"Embers of Empires\". Il introduit les changements suivants dans le jeu :|- Possibilité pour toutes les classes de personnages d'utiliser n'importe quel type d'arme (ainsi, un prêtre pourra utiliser une épée, mais seul un paladin pourra utiliser Carsomyr).|- Diminution de la durée de Peaux de pierre/fer.|- Augmentation de la RM des Tueurs de magiciens (8 % + 4 / niveau).|- 7 nouveaux profils : 6 de de prêtre (de dieux provenant d'un autre univers que Féérune : Prêtre de Cathoun, Prêtre de Lahan-Riyashal, Prêtre d'Oron, Prêtre de Thieron, Prêtre d'Uulix et Prêtre de Yathar) et un de guerrier (Combattant des tunnels).|- De nouvelles armures (écailles, à bandes, harnois de guerre) disponibles chez un marchand sur la Promenade de Waukyne, et armes (bolas, katars et javelots).|- Possibilité pour les humains de jouer un multi-classé.|- Nouvelles restrictions de Force et de Dextérité pour utiliser les armes.|- Attribuer de nouvelles spécialisations martiales à Anomen (épée longue, lance, arbalète), Keldorn (lance remplace arbalète) et Viconia (arbalète, fléau, style Arme à une main, cimeterre et épée courte)."
@@ -1392,7 +1392,7 @@
     },
     {
         "id": 95,
-        "description": "Ayden is primarily an NPC mod, but comes with a set of additional components:|- Warlock profile for the Thief class, based on the Warlock class from D&D Third Edition. |- Ayden NPC: a recruitable NPC with her own dialogs, banter and quests.|- Shadow Walk: an ability to reduce movement speed.|- Ayden's shelter: a pocket plan where the party can rest and store items.|- Item creation: a simple system for creating items, in the form of dialog with the NPC.|- Wands for thieves: enables the use of wands for all thief profiles.|- Thief skills: all thief profiles can use maces and spears.",
+        "description": "Ayden is primarily an NPC mod, but comes with a set of additional components:|- Warlock profile for the Thief class, based on the Warlock class from D&D Third Edition. |- Ayden NPC: a recruitable NPC with her own dialogs, banter and quests.|- Shadow Walk: an ability to reduce movement speed.|- Ayden's shelter: a pocket plan where the party can rest and store items.|- Item creation: a simple system for creating items, in the form of dialog with the NPC.|- Wands for thieves: enables the use of wands for all thief kits.|- Thief skills: all thief kits can use maces and spears.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ayden est avant tout un mod PNJ, mais il est livré avec un ensemble de composants supplémentaires :|- Profil de Warlock pour la classe des voleurs, basée sur la classe Warlock de la troisième édition de D&D. |- Ayden NPC : un PNJ recrutable avec ses propres dialogues, badinages et quêtes.|- Marche dans l'ombre : une capacité permettant de réduire la vitesse de déplacement.|- L'abri d'Ayden : un plan de poche où le groupe peut se reposer et stocker des objets.|- Création d'objets : un système simple de création d'objets, sous forme de dialogue avec le PNJ.|- Baguettes pour les voleurs : permet l'utilisation des baguettes pour tous les profils de voleur.|- Compétences des voleurs : tous les profils de voleurs peuvent utiliser des masses et des lances."
@@ -1745,7 +1745,7 @@
     },
     {
         "id": 120,
-        "description": "This mod adds 2 new profiles (the Faithful Thief and the Burning Man, a fighter kit), a new store (accessible via a scroll found on the Waukeen's Promenade), modifies several rules (race characteristics, weapons usable by all...), improves the Irenicus Dungeon, adds a few new encounters and a mini-quest at the end of SoA.",
+        "description": "This mod adds 2 new kits (the Faithful Thief and the Burning Man, a fighter kit), a new store (accessible via a scroll found on the Waukeen's Promenade), modifies several rules (race characteristics, weapons usable by all...), improves the Irenicus Dungeon, adds a few new encounters and a mini-quest at the end of SoA.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute 2 nouveaux profils (le Voleur fidèle et l'Homme brûlant, un profil de guerrier), un nouveau magasin (accessible à l'aide d'un parchemin que l'on trouve sur la Promenade de Waukyne), modifie plusieurs règles (caractéristiques des races, armes utilisables par tous...), améliore le Donjon d'Irenicus, ajoute quelques nouvelles rencontres et une mini-quête à la fin de SoA."
@@ -1876,7 +1876,7 @@
     },
     {
         "id": 129,
-        "description": "This mod adds 21 new profiles and modifies some others.",
+        "description": "This mod adds 21 new kits and modifies some others.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute 21 nouveaux profils et en modifie certains."
@@ -2236,7 +2236,7 @@
             "source": "Baldurdash-WeiDU est une version remasterisée du Baldurdash classique (de Kevin Dorner). Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[746]] et [[1118]].|Dans les autres cas, préférez le [[117]]."
         },
         "notes": [
-            "You should install version 1.76 only if you intend to use [[746]] and/or [[1118]]. In this case, download the mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) which includes the latest versions of [[153]], [[1118]] and [[1281]], as well as Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune and other fixes (improved monk class, new NPC profiles, new items...)."
+            "You should install version 1.76 only if you intend to use [[746]] and/or [[1118]]. In this case, download the mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) which includes the latest versions of [[153]], [[1118]] and [[1281]], as well as Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune and other fixes (improved monk class, new NPC kits, new items...)."
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -2316,7 +2316,7 @@
     },
     {
         "id": 160,
-        "description": "This little mod adds an ability to bards (including all profiles) that allows them to assess the value at will of any identified item in the group's possession. Note that the prices indicated by the skill will probably not reflect the real value at which you can sell an item due to various factors linked to the game engine, such as merchants' margins, the bonuses or maluses of your charisma and reputation, the number of charges of items...",
+        "description": "This little mod adds an ability to bards (including all kits) that allows them to assess the value at will of any identified item in the group's possession. Note that the prices indicated by the skill will probably not reflect the real value at which you can sell an item due to various factors linked to the game engine, such as merchants' margins, the bonuses or maluses of your charisma and reputation, the number of charges of items...",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce petit mod ajoute une capacité aux bardes (y compris tous les profils) qui leur permet d'évaluer la valeur à volonté tout objet identifié en possession du groupe. Notez que les prix indiqués par la compétence ne refléteront probablement pas la valeur réelle à laquelle vous pouvez vendre un objet en raison de divers facteurs liés au moteur du jeu, comme la marge des marchands, les bonus ou malus de votre charisme et de votre réputation, le nombre de charges des objets..."
@@ -2329,7 +2329,7 @@
     },
     {
         "id": 161,
-        "description": "This mod adds 5 new bard profiles, each with a special war chant (Abettor of Mask, Dancer, Deathsinger, Storm Drummer and Troubadour), as well as a new merchant selling bard items.",
+        "description": "This mod adds 5 new bard kits, each with a special war chant (Abettor of Mask, Dancer, Deathsinger, Storm Drummer and Troubadour), as well as a new merchant selling bard items.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute 5 nouveaux profils de bardes disposant chacun d'un chant de guerre spécial (Abettor of Mask, Dancer, Deathsinger, Storm Drummer et Troubadour), ainsi qu'un nouveau marchand vendant des objets de barde."
@@ -3423,7 +3423,7 @@
     },
     {
         "id": 238,
-        "description": "This mod assigns profiles to the game's recruitable NPCs.",
+        "description": "This mod assigns kits to the game's recruitable NPCs.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod attribue des profils aux PNJ recrutables du jeu."
@@ -3629,7 +3629,7 @@
     },
     {
         "id": 252,
-        "description": "The new recruitable characters introduced in BG:EE and BG2:EE are not to everyone's taste. This mod offers several options for adapting them to your liking. You can make their first appearance in the game less intrusive, allowing you to control whether and when you accept to make first contact. Alternatively, you can permanently disable all NPCs in the game, or just some of them. In this case, you can also decide to make their personal items or those obtained in their quest usable by anyone. These can be found either in stores or on corpses. Additional components allow you to enhance their portraits and customize their classes and/or profiles, as you see fit.",
+        "description": "The new recruitable characters introduced in BG:EE and BG2:EE are not to everyone's taste. This mod offers several options for adapting them to your liking. You can make their first appearance in the game less intrusive, allowing you to control whether and when you accept to make first contact. Alternatively, you can permanently disable all NPCs in the game, or just some of them. In this case, you can also decide to make their personal items or those obtained in their quest usable by anyone. These can be found either in stores or on corpses. Additional components allow you to enhance their portraits and customize their classes and/or kits, as you see fit.",
         "description_meta": {
             "status": "needs_review",
             "source": "Les nouveaux personnages recrutables apparus dans BG:EE et BG2:EE ne sont pas au goût de tout le monde. Ce mod propose plusieurs options pour les adapter à votre convenance. Vous pouvez rendre leur première apparition dans le jeu moins intrusive, en vous permettant de contrôler si vous acceptez d'établir un premier contact, et quand. Sinon, vous pouvez aussi désactiver définitivement tous les PNJ du jeu, ou seulement certains. Dans ce cas, vous pouvez aussi décider de rendre utilisables par quiconque leurs objets personnels ou ceux obtenus dans leur quête. Vous les trouverez soit dans des boutiques, soit sur des cadavres. Des composants supplémentaires vous permettent d'améliorer leurs portraits et de personnaliser leurs classes et/ou leurs profils, selon vos envies."
@@ -3904,7 +3904,7 @@
     },
     {
         "id": 271,
-        "description": "This mod is part of a series of eight profiles created on the old IE customisation & add-ons site: [[56]], [[61]], Crusader, [[322]], [[362]], [[380]], [[428]] and [[1154]].|This one installs a paladin profile.",
+        "description": "This mod is part of a series of eight kits created on the old IE customisation & add-ons site: [[56]], [[61]], Crusader, [[322]], [[362]], [[380]], [[428]] and [[1154]].|This one installs a paladin profile.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], [[61]], Crusader, [[322]], [[362]], [[380]], [[428]] et [[1154]].|Celui-ci installe un profil de paladin."
@@ -3921,7 +3921,7 @@
     },
     {
         "id": 272,
-        "description": "This mod adds three new profiles|`Champion of Torm`: +3 bonus to saving throws, +3 to damage and thac0 for 5 rounds, one additional Laying on Hands per day every 4 levels. Cannot use ranged weapons.|`Energist`: 5 special skills, CA +2 every 10 levels. Cannot use ranged weapons or wear armor.|`Adventurer`: 20 bonus to Picking and Trap Detection. Knowledge +30. Also adds three new items to the game.",
+        "description": "This mod adds three new kits|`Champion of Torm`: +3 bonus to saving throws, +3 to damage and thac0 for 5 rounds, one additional Laying on Hands per day every 4 levels. Cannot use ranged weapons.|`Energist`: 5 special skills, CA +2 every 10 levels. Cannot use ranged weapons or wear armor.|`Adventurer`: 20 bonus to Picking and Trap Detection. Knowledge +30. Also adds three new items to the game.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute trois nouveaux profils|`Champion of Torm` : bonus aux jets de sauvegarde +3, +3 aux dégâts et au tac0 pendant 5 rounds, une Imposition des mains supplémentaire par jour tous les 4 niveaux. Ne peut utiliser des armes à distance.|`Energist` : Possède 5 compétences spéciales, CA +2 tous les 10 niveaux. Ne peut utiliser des armes à distance ou porter une armure.|`Adventurer` : bonus de 20 au Crochetage et à la Détection de pièges. Connaissance +30. Pas de bonus multiplicateur d'attaque sournoise.|Ajoute aussi trois nouveaux objets dans le jeu."
@@ -4285,7 +4285,7 @@
     },
     {
         "id": 297,
-        "description": "The purpose of this mod is to import all of Faerûn's deities into EE games, assigning each of them a profile as close as possible to their P&P version. It uses a system of 25 spheres and currently offers 53 profiles. Optional components allow you to assign them to recruitable NPCs from the game and mods.",
+        "description": "The purpose of this mod is to import all of Faerûn's deities into EE games, assigning each of them a profile as close as possible to their P&P version. It uses a system of 25 spheres and currently offers 53 kits. Optional components allow you to assign them to recruitable NPCs from the game and mods.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod a pour vocation d'importer dans les jeux EE l'ensemble des divinités de Féérune et de leur assigner à chacune un profil aussi proche que possible de leur version P&P. Il utilise un système de 25 sphères et propose pour l'instant 53 profils. Des composants optionnels permettent de les assigner à des PNJ recrutables du jeu et de mods."
@@ -4421,7 +4421,7 @@
     },
     {
         "id": 306,
-        "description": "This mod features five Diablo2-inspired profiles converted for BG2, BGT and EE games. It includes the Amazon, Assassin, Barbarian, Necromancer and Paladin. You'll need to download each kit from the download page.",
+        "description": "This mod features five Diablo2-inspired kits converted for BG2, BGT and EE games. It includes the Amazon, Assassin, Barbarian, Necromancer and Paladin. You'll need to download each kit from the download page.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod regroupe cinq profils inspirés de Diablo2 et convertis pour BG2, BGT et les jeux EE. Il comprend l'Amazone, l'Assassin, le Barbare, le Nécromancien et le Paladin. Vous devrez télécharger chaque kit dans la page de téléchargement."
@@ -4525,7 +4525,7 @@
     },
     {
         "id": 314,
-        "description": "Originally called \"Cleric Remix\", this mod aims to rebalance and change certain aspects of the classes using divine magic (clerics, paladins, druids and lurkers) in BG (through BGT, BG1Tutu and BG:EE) and in BG2.|Firstly, it completely overhauls the spell system for priests, druids, lurkers and paladins. The list of spells to which clerics have access has been modified thanks to a more detailed system of divine spheres of influence; from now on, priests will have access to the spells of spheres related to the attributions of their divinity. Clerics of Lathander, for example, will have access to spells focusing on healing and fire, while those of Talos will have privileged access to spells of destruction. The same applies to Druids, Rangers and Paladins, who now have access to a more appropriate selection of spells for their class. A host of new divine spells have also been added, including wounding spells (as opposed to healing spells), detection of good and several spells straight out of Icewind Dale. Forget divine spellcasters who all look the same and whose spells reflect nothing of their personality, and add a slightly more tactical dimension to priests and druids!|Secondly, it adds 22 new profiles, mainly for lurkers and clerics, to give you a wider choice, such as Selune's Silver Star cleric profile, Shar's Cloak of Night, Red Rider's Divine Strategist, Tempus' War Chaplain, Ilmater's Noble Martyr, Kossuth's Adept of Flames, Iyachtu Xvim's Tyrant, Oghma's Guardian of Knowledge, Sunie's Heartguard, Corellon's Fairy Protector, Cyric's Master of Conflict; the druid profile of Master of Vases, and the ranger profiles of Sylvan Archer, Wild Ranger, Woods Runner, Avenger and Wild Runner.|Finally, it allows Viconia and Branwen to be assigned a class profile corresponding to their divinity: Priestess of Shar for the former, and of Tempus for the latter.",
+        "description": "Originally called \"Cleric Remix\", this mod aims to rebalance and change certain aspects of the classes using divine magic (clerics, paladins, druids and lurkers) in BG (through BGT, BG1Tutu and BG:EE) and in BG2.|Firstly, it completely overhauls the spell system for priests, druids, lurkers and paladins. The list of spells to which clerics have access has been modified thanks to a more detailed system of divine spheres of influence; from now on, priests will have access to the spells of spheres related to the attributions of their divinity. Clerics of Lathander, for example, will have access to spells focusing on healing and fire, while those of Talos will have privileged access to spells of destruction. The same applies to Druids, Rangers and Paladins, who now have access to a more appropriate selection of spells for their class. A host of new divine spells have also been added, including wounding spells (as opposed to healing spells), detection of good and several spells straight out of Icewind Dale. Forget divine spellcasters who all look the same and whose spells reflect nothing of their personality, and add a slightly more tactical dimension to priests and druids!|Secondly, it adds 22 new kits, mainly for lurkers and clerics, to give you a wider choice, such as Selune's Silver Star cleric profile, Shar's Cloak of Night, Red Rider's Divine Strategist, Tempus' War Chaplain, Ilmater's Noble Martyr, Kossuth's Adept of Flames, Iyachtu Xvim's Tyrant, Oghma's Guardian of Knowledge, Sunie's Heartguard, Corellon's Fairy Protector, Cyric's Master of Conflict; the druid profile of Master of Vases, and the ranger kits of Sylvan Archer, Wild Ranger, Woods Runner, Avenger and Wild Runner.|Finally, it allows Viconia and Branwen to be assigned a class profile corresponding to their divinity: Priestess of Shar for the former, and of Tempus for the latter.",
         "description_meta": {
             "status": "needs_review",
             "source": "Appelé à l'origine \"Cleric Remix\", ce mod a pour but de rééquilibrer et de changer certains aspects des classes utilisant la magie divine (clercs, paladins, druides et rôdeurs) dans BG (au travers de BGT, BG1Tutu et BG:EE) et dans BG2.|Tout d'abord, il revoit entièrement le système de sorts des prêtres, druides, rôdeurs et paladins. Il modifie donc la liste des sorts auxquels les clercs ont accès grâce à un système de sphères d'influence divines plus fouillé ; désormais, les prêtres auront accès aux sorts des sphères se rapportant aux attributions de leur divinité. Ainsi, les clercs de Lathandre auront des sorts plutôt centrés sur la guérison et le feu, tandis que ceux de Talos auront un accès privilégié aux sortilèges de destruction. Il en va de même pour les druides, les rôdeurs et les paladins, qui ont maintenant accès à une sélection de sorts plus appropriée pour leur classe. Dans cette logique, une lardée de nouveaux sorts divins ont été ajoutés, tels que les sorts de blessure (contraires aux sorts de guérison), la détection du bien ou encore plusieurs sortilèges tout droits issus d'Icewind Dale. Oubliés, les lanceurs de sorts divins qui se ressemblent tous et dont les sorts ne reflètent en rien leur personnalité, et ajoutez une dimension un peu plus tactique aux prêtres et aux druides !|Deuxièmement, il ajoute 22 nouveaux profils, principalement de rôdeurs et de clercs, afin d'avoir un choix plus large, comme les profils de clerc Étoile d'argent de Séluné, Manteau de la nuit de Shar, Stratège divin de la Cavalière Rouge, d'Aumonier de guerre de Tempus, Noble martyr d'Ilmater, Adepte des flammes de Kossuth, Tyran d'Iyachtu Xvim, Gardien du savoir d'Oghma, Garde du cœur de Sunie, Protecteur Féérique de Corellon, Maitre des conflits de Cyric ; le profil de druide de Maitre des vases, et les profils de rôdeur d'Archer sylvain, Rôdeur sauvage, de Coureur des bois, Vengeur et Coureur sauvage.|Enfin, il permet d'attribuer à Viconia et Branwen un profil de classe correspondant à leur divinité : prêtresse de Shar pour la première, et de Tempus pour la seconde."
@@ -4641,7 +4641,7 @@
     },
     {
         "id": 322,
-        "description": "This mod is part of a series of eight profiles created on the old IE customization & add-ons site: [[56]], [[61]], [[271]], Dragon Dancer, [[362]], [[380]], [[428]] and [[1154]].|This one installs a fighter kit.",
+        "description": "This mod is part of a series of eight kits created on the old IE customization & add-ons site: [[56]], [[61]], [[271]], Dragon Dancer, [[362]], [[380]], [[428]] and [[1154]].|This one installs a fighter kit.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], [[61]], [[271]], Dragon Dancer, [[362]], [[380]], [[428]] et [[1154]].|Celui-ci installe un profil de guerrier."
@@ -5195,7 +5195,7 @@
     },
     {
         "id": 361,
-        "description": "Inspired by the Complete Elf Manual, the Elves of Eternal Encounter and other AD&D2 manuals, this mod adds 15 profiles to the EE games: Abyssal Warrior (fighter), Bladesinger (fighter/mage or bard), Collector (fighter/mage/thief), Eldritch Knight (fighter/mage), Elven Minstrel (mage/thief), Herbalist (cleric), Huntsman (fighter/thief), Infiltrator (fighter/mage/thief), Priest of Mystra (cleric/mage), Priestess of Lolth (cleric), Spellfilcher (mage/thief), Undead Hunter (paladin), War Wizard (fighter/mage), Wilderness Runner (ranger) and Windrider (fighter).|An optional component allows several Ionic Stones to be worn at the same time.",
+        "description": "Inspired by the Complete Elf Manual, the Elves of Eternal Encounter and other AD&D2 manuals, this mod adds 15 kits to the EE games: Abyssal Warrior (fighter), Bladesinger (fighter/mage or bard), Collector (fighter/mage/thief), Eldritch Knight (fighter/mage), Elven Minstrel (mage/thief), Herbalist (cleric), Huntsman (fighter/thief), Infiltrator (fighter/mage/thief), Priest of Mystra (cleric/mage), Priestess of Lolth (cleric), Spellfilcher (mage/thief), Undead Hunter (paladin), War Wizard (fighter/mage), Wilderness Runner (ranger) and Windrider (fighter).|An optional component allows several Ionic Stones to be worn at the same time.",
         "description_meta": {
             "status": "needs_review",
             "source": "Inspiré par le Manuel complet des elfes, les elfes d'Éternelle rencontre et d'autres manuels de AD&D2, ce mod ajoute 15 profils dans les jeux EE : Abyssal Warrior (guerrier), Bladesinger (guerrier/mage ou barde), Collector (guerrier/mage/voleur), Eldritch Knight (guerrier/mage), Elven Minstrel (mage/voleur), Herbalist (clerc), Huntsman (guerrier/voleur), Infiltrator (guerrier/mage/voleur), Priest of Mystra (clerc/mage), Priestess of Lolth (clerc), Spellfilcher (mage/voleur), Undead Hunter (paladin), War Wizard (guerrier/mage), Wilderness Runner (rôdeur) et Windrider (guerrier).|Un composant optionnel permet de porter plusieurs pierres ioniques en même temps."
@@ -5212,7 +5212,7 @@
     },
     {
         "id": 362,
-        "description": "This mod is part of a series of eight profiles created on the old IE customization & add-ons site: [[56]], [[61]], [[271]], [[322]], Elementalist Kit, [[380]], [[428]] and [[1154]].|This one installs a druid profile protected against elemental energies and specialized in summoning elementals.",
+        "description": "This mod is part of a series of eight kits created on the old IE customization & add-ons site: [[56]], [[61]], [[271]], [[322]], Elementalist Kit, [[380]], [[428]] and [[1154]].|This one installs a druid profile protected against elemental energies and specialized in summoning elementals.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], [[61]], [[271]], [[322]], Elementalist Kit, [[380]], [[428]] et [[1154]].|Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires."
@@ -5330,7 +5330,7 @@
     },
     {
         "id": 370,
-        "description": "The content of this mod was originally intended to be part of a larger project, but was never completed. It brings several changes to the game, intended to make it more attractive. It contains several components:|- on the Waukeen's Promenade, the traveling merchant Alyoud sells 7 powerful magic items.|- addition and modification of character interactions.|- addition of tomes and manuals in empty or uninteresting containers.|- Irenicus dungeon: it is now possible to negotiate with the genie to obtain Balduran's cloak.|- addition of new portraits for your character.|- restoration of missing item descriptions (Plate Mail +3: 'The Practical Defense', Sling +3: 'Arla's Dragonbane').|- Item set bonuses: a character equipped with all Wormsor-forged draconic items or Balduran equipment receives additional bonuses. 5 new enemy races added: gnoll, skeleton, wiverne, yuan-ti and zombie.|- 10 new profiles have been added, including some from the AD&D3 prestige classes: fighter (Knight, Duelist, Gladiator, Legionnaire), ranger (Globe-trotter), paladin (Crusader, Lich Terror, Dragon Slayer), thief (Silent Slayer) and cleric (Priestess of Aurile).|- various minor changes to the Dungeon of Irenicus.",
+        "description": "The content of this mod was originally intended to be part of a larger project, but was never completed. It brings several changes to the game, intended to make it more attractive. It contains several components:|- on the Waukeen's Promenade, the traveling merchant Alyoud sells 7 powerful magic items.|- addition and modification of character interactions.|- addition of tomes and manuals in empty or uninteresting containers.|- Irenicus dungeon: it is now possible to negotiate with the genie to obtain Balduran's cloak.|- addition of new portraits for your character.|- restoration of missing item descriptions (Plate Mail +3: 'The Practical Defense', Sling +3: 'Arla's Dragonbane').|- Item set bonuses: a character equipped with all Wormsor-forged draconic items or Balduran equipment receives additional bonuses. 5 new enemy races added: gnoll, skeleton, wiverne, yuan-ti and zombie.|- 10 new kits have been added, including some from the AD&D3 prestige classes: fighter (Knight, Duelist, Gladiator, Legionnaire), ranger (Globe-trotter), paladin (Crusader, Lich Terror, Dragon Slayer), thief (Silent Slayer) and cleric (Priestess of Aurile).|- various minor changes to the Dungeon of Irenicus.",
         "description_meta": {
             "status": "needs_review",
             "source": "À l'origine, le contenu de ce mod devait faire partie d'un projet plus important, mais qui n'a jamais été terminé. Il apporte plusieurs modifications au jeu, sensées le rendre plus attrayant. Il contient plusieurs composants :|- sur la Promenade de Waukyne, le marchand ambulant Alyoud vend 7 objets magiques puissants.|- ajout et modification d'interactions entre personnages.|- ajout de tomes et de manuels dans des contenants vides ou sans intérêt.|- Donjon d'Irenicus : il est possible de négocier avec le génie pour obtenir la cape de Baldurien.|- ajout de nouveaux portraits pour votre personnage.|- restauration de descriptions d'objets manquantes (Plate Mail +3 : 'The Practical Defense', Sling +3 : 'Arla's Dragonbane').|- bonus aux sets d'objets : un personnage équipé de tous les objets draconiques forgés par Wormsor ou de l'équipement de Baldurien reçoit des bonus supplémentaires.|- ajout de 5 nouvelles races ennemies : gnoll, squelette, wiverne, yuan-ti et zombie.|- ajout de 10 profils dont certains proviennent des classes de prestige de AD&D3 : guerrier (Chevalier, Duelliste, Gladiateur, Légionnaire), rôdeur (Globe-trotter), paladin (Croisé, Terreur des liches, Tueur de dragon), voleur (Tueur silencieux) et clerc (Prêtresse d'Aurile).|- diverses modifications mineures dans le Donjon d'Irenicus."
@@ -5480,7 +5480,7 @@
     },
     {
         "id": 380,
-        "description": "This mod is part of a series of eight profiles created on the old IE customization & add-ons site: [[56]], [[61]], [[271]], [[322]], [[362]], Ethereal Blademaster, [[428]] and [[1154]].|This one installs a lurker profile. ToB is required.",
+        "description": "This mod is part of a series of eight kits created on the old IE customization & add-ons site: [[56]], [[61]], [[271]], [[322]], [[362]], Ethereal Blademaster, [[428]] and [[1154]].|This one installs a lurker profile. ToB is required.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], [[61]], [[271]], [[322]], [[362]], Ethereal Blademaster, [[428]] et [[1154]].|Celui-ci installe un profil de rôdeur."
@@ -5566,7 +5566,7 @@
     },
     {
         "id": 386,
-        "description": "This is a compilation of the profiles created by semiticgoddess:|- Fighters: [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins: [[1162]], Kensai, Revolutionary.|- Monks: Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages: [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage, Demon Summoner.|- Sorcerers: [[862]].|- Clerics: Cleric/Druid, Seer, Healer.|- Druids: Seer, Healer.|- Thieves: [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage: Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief: Druid/Thief.|- Fighter/Mage/Thief: Fighter/Cleric/Druid/Mage/Thief|- Ranger: Wildhaunt|- Bard: Folkherder.",
+        "description": "This is a kit compilation created by semiticgoddess:|- Fighters: [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins: [[1162]], Kensai, Revolutionary.|- Monks: Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages: [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage, Demon Summoner.|- Sorcerers: [[862]].|- Clerics: Cleric/Druid, Seer, Healer.|- Druids: Seer, Healer.|- Thieves: [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage: Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief: Druid/Thief.|- Fighter/Mage/Thief: Fighter/Cleric/Druid/Mage/Thief|- Ranger: Wildhaunt|- Bard: Folkherder.",
         "description_meta": {
             "status": "needs_review",
             "source": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins : [[1162]], Kensai, Revolutionary.|- Moines : Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage, Demon Summoner.|- Sorciers : [[862]].|- Clercs : Cleric/Druid, Seer, Healer.|- Druides : Seer, Healer.|- Voleurs : [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief, Hedge Wizard.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief|- Rôdeur : Wildhaunt|- Barde : Folkherder."
@@ -5644,7 +5644,7 @@
     },
     {
         "id": 392,
-        "description": "This mod adds six new divine profiles to the game: Priest of Baervan, Priest of Baravar, Priest of Clangeddin, Priest of Aerdrie, Priest of Arvoreen and Priest of Gruumsh.",
+        "description": "This mod adds six new divine kits to the game: Priest of Baervan, Priest of Baravar, Priest of Clangeddin, Priest of Aerdrie, Priest of Arvoreen and Priest of Gruumsh.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute six nouveaux profils divins dans le jeu : Priest of Baervan, Priest of Baravar, Priest of Clangeddin, Priest of Aerdrie, Priest of Arvoreen et Priest of Gruumsh."
@@ -5657,7 +5657,7 @@
     },
     {
         "id": 393,
-        "description": "This mod adds ten new profiles to the game: Forest Warden (a druid-oriented fighter), Halfling Marshal (a paladin-like fighter), Defender and Invader (druids), Cataphract and Artillier (lurkers), Novice, Trickster, Agent and Seeker (thieves).",
+        "description": "This mod adds ten new kits to the game: Forest Warden (a druid-oriented fighter), Halfling Marshal (a paladin-like fighter), Defender and Invader (druids), Cataphract and Artillier (lurkers), Novice, Trickster, Agent and Seeker (thieves).",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute dix nouveaux profils dans le jeu : Forest Warden (un guerrier orienté druide), Halfling Marshal (un guerrier au parfum paladinesque), Defender et Invader (druides), Cataphract et Artillier (rôdeurs), Novice, Trickster, Agent et Seeker (voleurs)."
@@ -5696,7 +5696,7 @@
     },
     {
         "id": 396,
-        "description": "Heir to the abandoned Faiths of Faerûn project, this mod adds dozens of priest, druid, lurker and paladin profiles, new class combinations, new spells, an optional divine sphere system to differentiate access to spells for different profiles and deities, and optional profile-specific armor and weapon restrictions.",
+        "description": "Heir to the abandoned Faiths of Faerûn project, this mod adds dozens of priest, druid, lurker and paladin kits, new class combinations, new spells, an optional divine sphere system to differentiate access to spells for different kits and deities, and optional profile-specific armor and weapon restrictions.",
         "description_meta": {
             "status": "needs_review",
             "source": "Héritier du projet abandonné Faiths of Faerûn, ce mod ajoute plusieurs dizaines de profils de prêtres, druides, rôdeurs et paladins, de nouvelles combinaisons de classes, de nouveaux sorts, un système de sphères divines en option pour différencier l'accès aux sorts des différents profils et divinités, et des restrictions optionnelles d'armures et d'armes spécifiques aux profils."
@@ -6092,7 +6092,7 @@
             "Beware: its writing leaves much to be desired and it is incompatible with a number of mods."
         ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Faites attention : son écriture laisse à désirer et il est incompatible avec bon nombre de mods."
             ]
@@ -6152,7 +6152,7 @@
     },
     {
         "id": 428,
-        "description": "This mod is part of a series of eight profiles created on the old IE customization & add-ons site: [[56]], [[61]], [[271]], [[322]], [[362]], [[380]], Gambler and [[1154]].|This one installs a profile for anyone who thinks they're in luck.",
+        "description": "This mod is part of a series of eight kits created on the old IE customization & add-ons site: [[56]], [[61]], [[271]], [[322]], [[362]], [[380]], Gambler and [[1154]].|This one installs a profile for anyone who thinks they're in luck.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], [[61]], [[271]], [[322]], [[362]], [[380]], Gambler et [[1154]].|Celui-ci installe un profil pour tous ceux qui pensent avoir de la chance."
@@ -6569,7 +6569,7 @@
     },
     {
         "id": 457,
-        "description": "This mod adds the Mime (bard) profile, modifies the Wizard Slayer and Beast Trainer profiles, and adds a few spells.",
+        "description": "This mod adds the Mime (bard) profile, modifies the Wizard Slayer and Beast Trainer kits, and adds a few spells.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute le profil de Mime (barde), modifie les profils de Tueur de magiciens et de Belluaire, ainsi que quelques sorts."
@@ -6926,7 +6926,7 @@
     },
     {
         "id": 482,
-        "description": "This mod adds:|- 6 new profiles: Demon Slayer, Mistaken Knight, Priest of Sunie, Priest of Kelevmor, Priest of Gargauth and Silencer.|- 6 new non-recruitable NPCs to talk to.|- new portraits, mainly for NPCs.|- 2 new stores (one in the graveyard) and the merchant Lisz.|- around 20 new items (some to be bought in stores, others to be found).|- several original characters will have their own portraits.",
+        "description": "This mod adds:|- 6 new kits: Demon Slayer, Mistaken Knight, Priest of Sunie, Priest of Kelevmor, Priest of Gargauth and Silencer.|- 6 new non-recruitable NPCs to talk to.|- new portraits, mainly for NPCs.|- 2 new stores (one in the graveyard) and the merchant Lisz.|- around 20 new items (some to be bought in stores, others to be found).|- several original characters will have their own portraits.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute :|- 6 nouveaux profils : Tueur de démons, Chevalier erroné, Prêtre de Sunie, Prêtre de Kelevmor, Prêtre de Gargauth et Silencieux.|- 6 nouveaux PNJ non recrutables avec lesquels parler.|- de nouveaux portraits, principalement pour les PNJ.|- 2 nouveaux magasins (l'un d'eux dans le cimetière) et le marchand Lisz.|- environ 20 nouveaux objets (certains à acheter dans les magasins, d'autres à trouver).|- plusieurs personnages originaux auront leurs propres portraits."
@@ -6978,7 +6978,7 @@
     },
     {
         "id": 486,
-        "description": "This mod adds 7 profiles that you can obtain by multi-classing at level 12: Archmage (mage), Eldritch Phantom (thief), Prelate (cleric), Shadow Blade (thief), Spell Steel (mage), Sylvan Justiciar (ranger) and Sylvan Warden (druid).|The experience required to complete them is considerable, but their benefits are commensurate. They also require certain prerequisite skills. In addition to the advantages and disadvantages of each, their most important feature is the ability to increase your inactive class as you level up.|Other than the NPC, 12 Bioware NPCs will benefit from these mysterious kits: Aerie the Archmage, Anomen the Prelate, Imoen the Eldritch, PhantomJaheira the Sylvan Warden, Jan the Eldritch Phantom, Korgan the Shadow Blade, Mazzy the Prelate, Minsc the Sylvan Justiciar, Sarevok the Spell Steel, Valygar the Sylvan Justiciar, Viconia the Prelate, Yoshimo the Shadow Blade.",
+        "description": "This mod adds 7 kits that you can obtain by multi-classing at level 12: Archmage (mage), Eldritch Phantom (thief), Prelate (cleric), Shadow Blade (thief), Spell Steel (mage), Sylvan Justiciar (ranger) and Sylvan Warden (druid).|The experience required to complete them is considerable, but their benefits are commensurate. They also require certain prerequisite skills. In addition to the advantages and disadvantages of each, their most important feature is the ability to increase your inactive class as you level up.|Other than the NPC, 12 Bioware NPCs will benefit from these mysterious kits: Aerie the Archmage, Anomen the Prelate, Imoen the Eldritch, PhantomJaheira the Sylvan Warden, Jan the Eldritch Phantom, Korgan the Shadow Blade, Mazzy the Prelate, Minsc the Sylvan Justiciar, Sarevok the Spell Steel, Valygar the Sylvan Justiciar, Viconia the Prelate, Yoshimo the Shadow Blade.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute 7 profils que vous pourrez obtenir en vous multi-classant au niveau 12 : Archmage (mage), Eldritch Phantom (voleur), Prelate (clerc), Shadow Blade (voleur), Spell Steel (mage), Sylvan Justiciar (rôdeur) et Sylvan Warden (druide).|L'expérience nécessaire pour les finaliser est considérable, mais leurs avantages sont à la mesure de la chose. Ils requièrent également des compétences pré-requises. Outre les avantages et inconvénients de chacun, leur plus importante caractéristique réside dans la capacité d'augmenter votre classe inactive lorsque vous montez de niveau.|Outre le PJ, 12 PNJ de Bioware pourront bénéficier de ces mystérieux kits : Aerie the Archmage, Anomen the Prelate, Imoen the Eldritch, PhantomJaheira the Sylvan Warden, Jan the Eldritch Phantom, Korgan the Shadow Blade, Mazzy the Prelate, Minsc the Sylvan Justiciar, Sarevok the Spell Steel, Valygar the Sylvan Justiciar, Viconia the Prelate, Yoshimo the Shadow Blade."
@@ -7210,7 +7210,7 @@
     },
     {
         "id": 502,
-        "description": "This mod lets you select 11 new profiles, all specialized in fighting the undead: Undead Predator (ranger), Holy Redeemer (priest), Slayer of the Dead (mage), Revised Undead Hunter (paladin - Warning: overwrites game profile), Deceiver of Death (thief), Grave Protector (fighter), Mourning Bearer (bard), Keeper of the Circle (druid), Pallid Mask (monk), Fateful Witch (shaman) and Imprisoned Soul (sorcerer).",
+        "description": "This mod lets you select 11 new kits, all specialized in fighting the undead: Undead Predator (ranger), Holy Redeemer (priest), Slayer of the Dead (mage), Revised Undead Hunter (paladin - Warning: overwrites game profile), Deceiver of Death (thief), Grave Protector (fighter), Mourning Bearer (bard), Keeper of the Circle (druid), Pallid Mask (monk), Fateful Witch (shaman) and Imprisoned Soul (sorcerer).",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod vous permet de sélectionner 11 nouveaux profils, tous spécialisés dans la lutte contre les morts-vivants : Prédateur des morts-vivants (rôdeur), Saint rédempteur (prêtre), Tueur de morts (mage), Chasseur de morts-vivants révisé (paladin - Attention : écrase le profil du jeu), Trompe la mort (roublard), Protecteur de sépultures (guerrier), Porteur de deuil (barde), Garant du Cercle (druide), Masque Blême (moine), Sorcière funeste (shaman) et Âme emprisonnée (ensorceleur)."
@@ -7608,7 +7608,7 @@
     },
     {
         "id": 530,
-        "description": "Contrary to what its name might suggest, this is essentially a mod that drastically increases the difficulty of the base game. It also features new quests, new profiles (including the [[84]] and the [[1261]]), a randomizer, a new recruitable character ([[1553]]), and the ability to forge many items that are big-budget, but necessary to defeat equally big-budget enemies.",
+        "description": "Contrary to what its name might suggest, this is essentially a mod that drastically increases the difficulty of the base game. It also features new quests, new kits (including the [[84]] and the [[1261]]), a randomizer, a new recruitable character ([[1553]]), and the ability to forge many items that are big-budget, but necessary to defeat equally big-budget enemies.",
         "description_meta": {
             "status": "needs_review",
             "source": "Contrairement à ce que son nom pourrait laisser penser, ce mod est essentiellement un mod augmentant de manière drastique la difficulté du jeu de base. Il comporte également de nouvelles quêtes, de nouveaux profils (dont le [[84]] et le [[1261]]), un randomisateur, un nouveau personnage recrutable ([[1553]]), et propose également la possibilité de forger de nombreux objets gros-bills, certes, mais nécessaires pour vaincre les ennemis tout aussi gros-bills."
@@ -7628,7 +7628,7 @@
         "team": [
             "Kania Blade"
         ],
-        "description": "The original Archer profile doesn't match the level progression very well. While it appears very powerful at the very start of the game, it becomes much less useful later on, compared with other ranger profiles. This mod strives to rebalance it so that low-level archers do not outperform other classes, while allowing high-level archers to stand comparison with other ranger profiles. Additional components add archer-inspired profiles for fighters, paladins and thieves, or add a set of powerful bows and ammunition to the game.",
+        "description": "The original Archer profile doesn't match the level progression very well. While it appears very powerful at the very start of the game, it becomes much less useful later on, compared with other ranger kits. This mod strives to rebalance it so that low-level archers do not outperform other classes, while allowing high-level archers to stand comparison with other ranger kits. Additional components add archer-inspired kits for fighters, paladins and thieves, or add a set of powerful bows and ammunition to the game.",
         "description_meta": {
             "status": "needs_review",
             "source": "Le profil Archer d'origine ne s'accorde pas très bien à la progression de niveaux. S'il apparaît très puissant au tout début du jeu, il devient plus tard beaucoup moins utile, comparativement aux autres profils de rôdeur.|Ce mod s'efforce de le rééquilibrer afin que les archers de bas niveau ne surpassent pas les autres classes, tout en permettant aux archers de haut niveau de soutenir la comparaison avec les autres profils de rôdeur. Il ajuste la puissance globale de l'archer et le dote de quelques compétences et aptitudes utiles.|Des composants supplémentaires ajoutent des profils inspirés de l'archer pour les guerriers, les paladins et les voleurs, ou ajoutent dans le jeu un ensemble d'arcs et de munitions puissants."
@@ -7889,7 +7889,7 @@
     },
     {
         "id": 550,
-        "description": "This mod installation features 8 new profiles: Mystic Pyromancer (Bard), Silver Mirror (Fighter), White Raven (Thief), Aquarius (Druid), Straw Dog (Bard), Witch's Reject (Paladin), Apprentice of the Wind (Ranger) and Priest of 8 Million Gods.",
+        "description": "This mod installation features 8 new kits: Mystic Pyromancer (Bard), Silver Mirror (Fighter), White Raven (Thief), Aquarius (Druid), Straw Dog (Bard), Witch's Reject (Paladin), Apprentice of the Wind (Ranger) and Priest of 8 Million Gods.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod installe 8 nouveaux profils : Pyromane mystique (barde), Miroir d'argent (guerrier), Corbeau blanc (voleur), Aquarius (druide), Chien de paille (barde), Rejeton de sorcière (paladin), Apprenti du vent (rôdeur) et Prêtre de 8 millions de dieux."
@@ -7971,7 +7971,7 @@
         "id": 556,
         "description": "Isaac is a thief lawful evil who values honor, and though his methods are ruthless and sometimes cruel to achieve his ends, he values the systems of order and only wishes to expunge what he believes corrupts Faerun, the meddling of devils, demons, and their spawn. In balance, so must the spawn of any outsider be removed. This puts him against people like Haer'dalis, Sirene, and Emily. However, his loyalty to the PC encourages him to respect who they bring along, though displease him too much, and he may leave of his own choice. Isaac has his own kit, but he can also use the [[1048]] Invisible Blade Kit if installed.|STR 17, DEX 18, CON 10, INT 17, WIS 10, CHA 12.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Isaac est un voleur loyal mauvais qui accorde une grande importance à l'honneur. Bien que ses méthodes soient impitoyables et parfois cruelles pour atteindre ses fins, il apprécie les systèmes d'ordre et souhaite uniquement éliminer ce qu'il considère comme corrompant Faerûn, à savoir l'ingérence des diables, des démons et de leur progéniture. Dans un souci d'équilibre, la progéniture de tout étranger doit également être éliminée. Cela le met en opposition avec des personnes telles que Haer'dalis, Sirene et Emily. Cependant, sa loyauté envers le PC l'encourage à respecter ceux qu'ils amènent avec eux, même s'ils le déplaisent trop, et il peut partir de son propre chef. Isaac dispose de son propre kit, mais il peut également utiliser le kit Lame invisible du [[1048]] s'il est installé.|FOR 17, DEX 18, CON 10, INT 17, SAG 10, CHA 12."
         },
         "notes": [],
@@ -8238,7 +8238,7 @@
     },
     {
         "id": 575,
-        "description": "Formerly `Jarl's BGT TweakPack`, this mod offers a collection of tweaks for BGT, BG:EE and EET. It lets you give Bioware NPCs their BG2 portraits and sound sets in the BG part, change the color of their avatars, modify their stats, profiles or classes (BGT only), alignments and martial skills (BGT). In BGT, components can be used to give new equipment to certain NPCs, and to add new weapons to the game. Finally, you can make certain adjustments to the game, such as being able to enter the Nashkel cemetery, having to find a special skull for the Mélicamp quest...",
+        "description": "Formerly `Jarl's BGT TweakPack`, this mod offers a collection of tweaks for BGT, BG:EE and EET. It lets you give Bioware NPCs their BG2 portraits and sound sets in the BG part, change the color of their avatars, modify their stats, kits or classes (BGT only), alignments and martial skills (BGT). In BGT, components can be used to give new equipment to certain NPCs, and to add new weapons to the game. Finally, you can make certain adjustments to the game, such as being able to enter the Nashkel cemetery, having to find a special skull for the Mélicamp quest...",
         "description_meta": {
             "status": "needs_review",
             "source": "Anciennement `Jarl's BGT TweakPack`, ce mod propose une collection d'ajustements pour BGT, BG:EE et EET. Il permet de donner aux PNJ de Bioware leurs portraits et jeux de son de BG2 dans la partie BG, modifier la couleur de leurs avatars, modifier leurs statistiques, leurs profils ou classes (BGT uniquement), leurs alignements, leurs compétences martiales (BGT). Dans BGT, des composants permettent de donner de nouveaux équipements à certains PNJ, d'ajouter de nouvelles armes dans le jeu.|Enfin, vous pourrez effectuer certains ajustements au jeu comme pouvoir pénétrer dans le cimetière de Nashkel, devoir trouver un crâne spécial pour la quête de Mélicamp..."
@@ -8787,13 +8787,13 @@
     },
     {
         "id": 613,
-        "description": "Originally a mod for BG, this mod has since been rewritten for BG2 and BGT. It greatly modifies the rules of the game to bring them as close as possible to those of AD&D, particularly with regard to the character, his equipment and the magic system:|- modification of classes and races.|- reorganization of the priest magic system.|- New divine and profane spells. Over 100 new profiles from official AD&D sources. Modification of weapon power according to opponent size and addition of 6 new weapon types. Modification of the armor system and addition of a new armor type.",
+        "description": "Originally a mod for BG, this mod has since been rewritten for BG2 and BGT. It greatly modifies the rules of the game to bring them as close as possible to those of AD&D, particularly with regard to the character, his equipment and the magic system:|- modification of classes and races.|- reorganization of the priest magic system.|- New divine and profane spells. Over 100 new kits from official AD&D sources. Modification of weapon power according to opponent size and addition of 6 new weapon types. Modification of the armor system and addition of a new armor type.",
         "description_meta": {
             "status": "needs_review",
             "source": "À l'origine un mod pour BG, ce mod a depuis été récrit pour BG2 et BGT. Il modifie grandement les règles du jeu pour les rapprocher au plus près de celles d'AD&D, notamment en ce qui concerne le personnage, son équipement et le système de magie :|- modification des classes et des races.|- réorganisation du système de magie des prêtres.|- nouveaux sorts divins et profanes.|- plus de 100 nouveaux profils issus des sources officielles d'AD&D. |- modification de la puissance des armes, en fonction de la taille de l'adversaire et ajout de 6 nouveaux types d'armes.|- modification du système d'armure et ajout d'un nouveau type d'armure."
         },
         "notes": [
-            "By its very nature, this mod is virtually incompatible with any other mod adding or modifying profiles, divine spells, weapons or armor from the original game."
+            "By its very nature, this mod is virtually incompatible with any other mod adding or modifying kits, divine spells, weapons or armor from the original game."
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -9015,7 +9015,7 @@
     },
     {
         "id": 628,
-        "description": "This mod adds five new profiles from the Forbidden Chapters (D&D 3rd Edition): Disciple of Dispater (fighter), Disciple of Mammon (thief), Disciple of Mephistopheles (fighter), Disciple of Beelzebub (thief) and Disciple of Asmodeus (priest).",
+        "description": "This mod adds five new kits from the Forbidden Chapters (D&D 3rd Edition): Disciple of Dispater (fighter), Disciple of Mammon (thief), Disciple of Mephistopheles (fighter), Disciple of Beelzebub (thief) and Disciple of Asmodeus (priest).",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute cinq nouveaux profils tirés des chapitres interdits (D&D 3e édition) : Disciple de Dispater (guerrier), Disciple de Mammon (voleur), Disciple de Méphistophélès (guerrier), Disciple de Belzébuth (voleur) et Disciple d'Asmodée (prêtre)."
@@ -9153,7 +9153,7 @@
     },
     {
         "id": 638,
-        "description": "So-called because all NPCs will be at level 1, with a surplus of experience points, when you meet them. When they join your party, you can then level them up and choose their skills, abilities and choice of weapons, up to the same level as if they'd joined your party without this mod installed. You can even choose classes and profiles for them that are different from those they use in the game. The monk Cernd, the kensai Jaheira and Valygar the flame preacher are just a few examples. Indeed, profiles from other mods will be available even for NPCs! Optional components also modify certain NPC characteristics and weapons usable by classes. This is the best - and simplest - mod for allowing clerics and/or mages to use all weapons: a mage with a bow is cool 🙂 .",
+        "description": "So-called because all NPCs will be at level 1, with a surplus of experience points, when you meet them. When they join your party, you can then level them up and choose their skills, abilities and choice of weapons, up to the same level as if they'd joined your party without this mod installed. You can even choose classes and kits for them that are different from those they use in the game. The monk Cernd, the kensai Jaheira and Valygar the flame preacher are just a few examples. Indeed, kits from other mods will be available even for NPCs! Optional components also modify certain NPC characteristics and weapons usable by classes. This is the best - and simplest - mod for allowing clerics and/or mages to use all weapons: a mage with a bow is cool 🙂 .",
         "description_meta": {
             "status": "needs_review",
             "source": "Surnommé ainsi car tous les PNJ seront au niveau 1, avec un excédent de points d'expérience, lorsque vous les rencontrerez. Lorsqu'ils rejoignent votre groupe, vous pouvez alors les faire monter de niveaux et choisir leurs compétences, leurs capacités, leur choix d'armes et ce, jusqu'au même niveau que s'ils avaient rejoint votre groupe sans ce mod installé. Vous pourrez même leur choisir des classes et des profils différents de ceux qu'ils utilisent dans le jeu. Le moine Cernd, la kensaï Jaheira, Valygar le prêcheur des flammes ne sont que des exemples. En effet, les profils provenant d'autres mods seront disponibles même pour les PNJ !|Des composants optionnels modifient aussi certaines caractéristiques des PNJ et les armes utilisables par les classes. C'est le meilleur mod - le plus simple - pour autoriser les clercs et/ou mages à utiliser toutes les armes : un mage avec un arc, c'est cool. 🙂"
@@ -9752,7 +9752,7 @@
     },
     {
         "id": 681,
-        "description": "This ambitious mod installation features 30 mega-mod profiles, most of which are used only once by an NPC. They can now be used by any character of any race. You can view the list of profiles on the download page.",
+        "description": "This ambitious mod installation features 30 mega-mod kits, most of which are used only once by an NPC. They can now be used by any character of any race. You can view the list of kits on the download page.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ambitieux installe 30 profils de mega-mods utilisés pour la plupart seulement une fois par un PNJ. Ils sont désormais utilisables par tous et par toutes les races de personnage. Vous pouvez les installer séparément.|Vous pouvez consulter la liste de ces profils sur la page de téléchargement."
@@ -10029,7 +10029,7 @@
     },
     {
         "id": 699,
-        "description": "This mod is not a profile mod per se. It was mainly created because [[1601]] was filling all available profile slots while players wanted to use profiles from other mods to play it. The Mod Kit Remover removes all mod profiles from the character creation screen, with options to remove module profiles only or Bioware and module profiles. All profiles will remain installed for use by previously created NPCs and PCs. All changes made by other mods to Bioware profiles will remain intact, and profiles from other WeiDU mods can be installed and selected during character creation. In short, you can install lots of profiles while keeping the default ones selectable and intact.",
+        "description": "This mod is not a profile mod per se. It was mainly created because [[1601]] was filling all available profile slots while players wanted to use kits from other mods to play it. The Mod Kit Remover removes all mod kits from the character creation screen, with options to remove module kits only or Bioware and module kits. All kits will remain installed for use by previously created NPCs and PCs. All changes made by other mods to Bioware kits will remain intact, and kits from other WeiDU mods can be installed and selected during character creation. In short, you can install lots of kits while keeping the default ones selectable and intact.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod n'est pas un mod de profil à proprement parler. Il a été principalement créé parce que [[1601]] remplissait tous les emplacements de profil disponibles alors que les joueurs souhaitaient utiliser des profils d'autres mods pour y jouer. Le Mod Kit Remover supprime tous les profils de mod de l'écran de création de personnage.|Des options permettent de supprimer uniquement les profils de modules ou Bioware et les profils de modules. Tous les profils resteront installés pour être utilisés par les PNJ et les PC créés précédemment. Toutes les modifications apportées par d'autres mods aux profils de Bioware resteront intactes, et les profils d'autres mods WeiDU peuvent être installés et sélectionnés lors de la création du personnage. Bref, vous pouvez installer plein de profils tout en gardant sélectionnables et intacts les profils par défaut."
@@ -10059,7 +10059,7 @@
     },
     {
         "id": 701,
-        "description": "Inspired by the [[1021]] mod, this \"potpourri\" of AD&D rule fixes offers a whole range of modifications and improvements for BG2 and ToB: new scripts, more difficult encounters, two new profiles (Forest Guardian for Druid Elves and Protector Dwarf), tougher bosses and quests...",
+        "description": "Inspired by the [[1021]] mod, this \"potpourri\" of AD&D rule fixes offers a whole range of modifications and improvements for BG2 and ToB: new scripts, more difficult encounters, two new kits (Forest Guardian for Druid Elves and Protector Dwarf), tougher bosses and quests...",
         "description_meta": {
             "status": "needs_review",
             "source": "Inspiré du mod [[1021]], ce \"Pot-pourri\" de corrections de règles AD&D propose toute une série de modifications et améliorations pour BG2 et ToB : nouveaux scripts, rencontres plus difficiles, deux nouveaux profils (Gardien de la Forêt pour les elfes druides et Nain protecteur), boss et quêtes plus coriaces..."
@@ -10155,7 +10155,7 @@
     },
     {
         "id": 707,
-        "description": "This mod rebalances monk progression to ensure their viability at both low and high levels. It revises the three existing monks to balance them at all levels of play. It also adds four new monk profiles, inspired by various monastic orders across the realms.",
+        "description": "This mod rebalances monk progression to ensure their viability at both low and high levels. It revises the three existing monks to balance them at all levels of play. It also adds four new monk kits, inspired by various monastic orders across the realms.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod rééquilibre la progression des moines afin d'assurer leur viabilité à la fois aux niveaux bas et élevés. Il révise les trois moines existants pour les équilibrer à tous les niveaux de jeu. Il ajoute également quatre nouveaux profils de moine, inspirés de divers ordres monastiques à travers les royaumes."
@@ -10290,7 +10290,7 @@
     },
     {
         "id": 716,
-        "description": "This is a compilation of existing profiles and profile modifications, based largely on priest classes (lurkers, druids). It includes [[1607]], which modifies druid profiles and adds a new one, the Sombrelian. The Arcanic Archer and Hellion Fighter profiles are also included in this mod, along with changes for fallen paladins and clerics, druids and a quest for the fortified tower of Kalah for evil characters. This list is not exhaustive, as this mod also includes adjustments to the old [[1142]] mod, so be sure to read the readme to familiarize yourself with all its components.",
+        "description": "This is a compilation of existing kits and profile modifications, based largely on priest classes (lurkers, druids). It includes [[1607]], which modifies druid kits and adds a new one, the Sombrelian. The Arcanic Archer and Hellion Fighter kits are also included in this mod, along with changes for fallen paladins and clerics, druids and a quest for the fortified tower of Kalah for evil characters. This list is not exhaustive, as this mod also includes adjustments to the old [[1142]] mod, so be sure to read the readme to familiarize yourself with all its components.",
         "description_meta": {
             "status": "needs_review",
             "source": "Il s'agit d'une compilation de profils et de modifications de profils existants, basée largement sur les classes de prêtres (rôdeurs, druides). Il intègre [[1607]] qui modifie les profils de druides et en ajoute un également, le Sombrelien. Les profils Archer arcanique et guerrier Hellion sont également contenus dans ce mod.|Enfin, des changements pour les paladins et clercs déchus, les druides et une quête concernant la tour fortifiée de Kalah pour les personnages mauvais. Cette liste n'est pas exhaustive, car ce mod inclue également les ajustements de l'ancien mod [[1142]].|Lisez bien le readme pour vous familiariser avec tous ses composants."
@@ -10378,7 +10378,7 @@
     },
     {
         "id": 722,
-        "description": "Ever wanted to play an Anti-Paladin/Necromancer/Assassin? A Kensai/Transmutator/Bounty Hunter? A Berserker/Priest of Talos? Or perhaps even a Barbarian/Entropist/Adventurer? Well, now it's possible, and you can play a multi-class character with multiple kits.|Inherited from FlameWing's Multikit mod (SHS link), this mod creates as many multi-kits as you like from the kits you select during installation. Once in the game, activate Party AI and apply the multi-kit to your character by pressing the \"K\" key.|It should be installed after all mods that add new profiles or modify their abilities. This ensures that all the profiles you've installed can be used to create multi-kits, as well as ensuring that their abilities match.|The icing on the cake is that the multikits.tp2 file created during installation can be used by modders to add multi-kits to their mods.",
+        "description": "Ever wanted to play an Anti-Paladin/Necromancer/Assassin? A Kensai/Transmutator/Bounty Hunter? A Berserker/Priest of Talos? Or perhaps even a Barbarian/Entropist/Adventurer? Well, now it's possible, and you can play a multi-class character with multiple kits.|Inherited from FlameWing's Multikit mod (SHS link), this mod creates as many multi-kits as you like from the kits you select during installation. Once in the game, activate Party AI and apply the multi-kit to your character by pressing the \"K\" key.|It should be installed after all mods that add new kits or modify their abilities. This ensures that all the kits you've installed can be used to create multi-kits, as well as ensuring that their abilities match.|The icing on the cake is that the multikits.tp2 file created during installation can be used by modders to add multi-kits to their mods.",
         "description_meta": {
             "status": "needs_review",
             "source": "Vous avez toujours voulu jouer un Anti-Paladin/Nécromancien/Assassin ? Un Kensai/Transmutateur/Chasseur de primes ? Un Berserker/Prêtre de Talos ? Ou peut-être même un Barbare/Entropiste/Aventurier ? Eh bien, c'est maintenant possible, et vous pouvez jouer un personnage multi-classé avec plusieurs kits.|Héritier du mod Multikit de FlameWing (lien SHS), ce mod crée autant de multi-kits que vous le souhaitez à partir des kits que vous sélectionnez pendant l'installation. Une fois dans le jeu, activez l'IA de groupe et appliquez le multi-kit à votre personnage en appuyant sur la touche \"K\".|Il doit être installé après tous les mods qui ajoutent de nouveaux profils ou qui modifient leurs capacités. Vous vous assurez ainsi que tous les profils que vous avez installés peuvent être utilisés pour créer des multikits, ainsi que pour s'assurer que leurs capacités correspondent.|Cerise sur le gâteau, le fichier multikits.tp2 créé pendant l'installation peut être utilisé par les moddeurs pour ajouter des multi-kits dans leurs mods."
@@ -10524,7 +10524,7 @@
     },
     {
         "id": 732,
-        "description": "This is intended to be a successor to the fantastic [[638]] mod, which was never updated for EE games as its author is no longer active. It offers class and profile choices for all recruitable characters. For each, the choice is limited to what the author felt was relevant, but it also includes profiles from the mods [[314]], [[976]], or [[922]] (by the same author), provided they are installed first. It's not as complete and flexible as L1NPCs, but it does have one major advantage: you can change the profiles of each NPC thanks to an innate special ability you can use in-game. This ability is for one-time use only, so choose wisely! It triggers a dialog that gives you the option of adopting any kit for that class... This includes any mod installation you may have done. Make Minsc a fighter in the WeiDU installation, then use this ability to make him a Barbarian! (Barbarian is in fact, technically, a fighter kit).",
+        "description": "This is intended to be a successor to the fantastic [[638]] mod, which was never updated for EE games as its author is no longer active. It offers class and profile choices for all recruitable characters. For each, the choice is limited to what the author felt was relevant, but it also includes kits from the mods [[314]], [[976]], or [[922]] (by the same author), provided they are installed first. It's not as complete and flexible as L1NPCs, but it does have one major advantage: you can change the kits of each NPC thanks to an innate special ability you can use in-game. This ability is for one-time use only, so choose wisely! It triggers a dialog that gives you the option of adopting any kit for that class... This includes any mod installation you may have done. Make Minsc a fighter in the WeiDU installation, then use this ability to make him a Barbarian! (Barbarian is in fact, technically, a fighter kit).",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod se veut le successeur du fantastique mod [[638]] qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[314]], [[976]], ou encore [[922]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que L1NPCs, mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier)."
@@ -10550,7 +10550,7 @@
     },
     {
         "id": 734,
-        "description": "This mod allows you to modify the profiles of your NPCs, so that they are closer to their thoughts. For example, Anomen becomes a Priest of Helm when he successfully completes the Order of the Radiant Heart, and a Berserker if he fails, Imoen and Nalia become adventurers (thief profile) or mages, Edwin a Red Wizard, Korgan an Enraged (fighter kit), Sarevok a Sower of Death, Mazzy a Paladin of Arvoreen, Minsc has his kit name changed to Rashmenian Ranger, and so on.",
+        "description": "This mod allows you to modify the kits of your NPCs, so that they are closer to their thoughts. For example, Anomen becomes a Priest of Helm when he successfully completes the Order of the Radiant Heart, and a Berserker if he fails, Imoen and Nalia become adventurers (thief profile) or mages, Edwin a Red Wizard, Korgan an Enraged (fighter kit), Sarevok a Sower of Death, Mazzy a Paladin of Arvoreen, Minsc has his kit name changed to Rashmenian Ranger, and so on.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod permet de modifier les profils de vos PNJ, afin qu'ils soient plus proches de leurs pensées. Entre autres, Anomen devient prêtre de Heaume lorsqu'il réussit son adoubement à l'Ordre du Cœur Radieux et devient un Berserker s'il le rate, Imoen et Nalia deviennent des aventurières (profil de voleur) ou des mages, Edwin un Sorcier rouge, Korgan un Enragé (profil de guerrier), Sarevok un Semeur de mort, Mazzy un Paladin d'Arvoreen, Minsc voit le nom de son kit modifié en rôdeur de Rashéménie, etc."
@@ -10593,7 +10593,7 @@
     },
     {
         "id": 737,
-        "description": "This mod corrects and improves some of the game's items, but also weakens a few. One component limits the number of unique magic items that can be found easily (they are replaced by items of the same magic level, with a few exceptions). Finally, other components add several profiles.",
+        "description": "This mod corrects and improves some of the game's items, but also weakens a few. One component limits the number of unique magic items that can be found easily (they are replaced by items of the same magic level, with a few exceptions). Finally, other components add several kits.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod corrige et améliore certains objets du jeu, en affaiblit aussi quelques uns. Un composant limite le nombre d'objets magiques uniques que l'on peut trouver facilement (ils sont remplacés par des objets de même niveau de magie, à quelques exceptions près). Enfin, d'autres composants ajoutent plusieurs profils."
@@ -10729,7 +10729,7 @@
             "source": "NEJ intègre le jeu Icewind Dale sous une forme étendue et améliorée dans Baldur's Gate. Ce mod est un jeu à part entière sans aucun lien avec l'intrigue principale de BG2. En empruntant le portail situé immédiatement au nord de la zone de départ dans le donjon d'Irenicus, celui à côté de la cage de Jaheira, le groupe voyagera dans le temps et l'espace jusqu'à la ville d'Easthaven, il y a environ 100 ans, et rencontrera les héros d'Icewind Dale. Votre tâche est d'influencer le conflit entre les deux écoles de magie différentes, et ainsi de changer l'histoire future.|Jouer à NEJ est différent de jouer à BG : le personnage principal n'est pas votre protagoniste, mais Hrothgar. Ainsi, si vous voulez jouer à l'ensemble du mod, vous devez le suivre. Comme dans IWD original, l'intrigue est prédéterminée. Il n'y a pas de liberté de marche comme dans BG. Vous n'obtenez la quête suivante que si vous avez résolu la précédente. Si vous avez manqué quelque chose, vous ne pouvez pas revenir en arrière. Le seul moyen est de recharger. Bref, NEJ n'accepte qu'une seule procédure de solution et vous êtes obligé(e) de jouer ce mod d'une manière prédéterminée, ce qui ne correspond pas vraiment à l'esprit habituel des mods de BG, et vous ne pouvez pas partir avant de l'avoir terminé."
         },
         "notes": [
-            "This mod requires prior installation of the [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) mod, which includes the latest versions of [[153]], [[1118]] and [[1281]], as well as Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune and other fixes (improved monk class, new NPC profiles, new items...)."
+            "This mod requires prior installation of the [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) mod, which includes the latest versions of [[153]], [[1118]] and [[1281]], as well as Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune and other fixes (improved monk class, new NPC kits, new items...)."
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -11386,13 +11386,13 @@
     },
     {
         "id": 792,
-        "description": "Stemming from the eponymous Czech mega mod project, this mod adds no fewer than 18 profiles (3 in each of the fighter, paladin, ranger, thief, bard and druid classes), generally taken from the paper versions and retouched by the designer.",
+        "description": "Stemming from the eponymous Czech mega mod project, this mod adds no fewer than 18 kits (3 in each of the fighter, paladin, ranger, thief, bard and druid classes), generally taken from the paper versions and retouched by the designer.",
         "description_meta": {
             "status": "needs_review",
             "source": "Issu du projet de mega mod tchèque éponyme, ce mod ajoute pas moins de 18 profils (3 dans chaque classe de guerrier, paladin, rôdeur, voleur, barde et druide), provenant généralement des versions papier et retouchés par le concepteur."
         },
         "notes": [
-            "Warning: as it stands, it removes access to the original profiles during character creation.|Click on the second link to download the file."
+            "Warning: as it stands, it removes access to the original kits during character creation.|Click on the second link to download the file."
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -12002,7 +12002,7 @@
     },
     {
         "id": 835,
-        "description": "This mod adds a host of profiles (17 in all!) for all the classes in the game (which have them, of course):|- 3 fighter profiles: Legendary Dreadnought, Black Knight and Ssaulabi.|- 2 paladin profiles: Divine Champion and Mystic Fire.|- 2 ranger profiles: Duelist and Tempest 2 druid profiles: Elementalist and Shadow Druid 2 thief profiles: Swindler and Shadow Master 4 bard profiles: Disciple of the Red, Blue, Green and White Dragons",
+        "description": "This mod adds a host of kits (17 in total!) for all the classes in the game (which have them, of course):|- 3 fighter kits: Legendary Dreadnought, Black Knight and Ssaulabi.|- 2 paladin kits: Divine Champion and Mystic Fire.|- 2 ranger kits: Duelist and Tempest 2 druid kits: Elementalist and Shadow Druid 2 thief kits: Swindler and Shadow Master 4 bard kits: Disciple of the Red, Blue, Green and White Dragons",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute une foultitude de profils (17 en tout !) pour toutes les classes du jeu (qui en possèdent, évidemment) :|- 3 profils de guerrier : le Cuirassé légendaire, le Chevalier noir et le Ssaulabi.|- 2 profils de paladin : le Champion divin et le Feu mystique.|- 2 profils de rôdeur : le Duelliste et le Tempête.|- 2 profils de druide : l'Élémentaliste et le Druide de l'ombre.|- 2 profils de voleur : l'Escroc et le Maître des ombres.|- 4 profils de barde : le Disciple des dragons rouge, bleu, vert et blanc."
@@ -12227,7 +12227,7 @@
     },
     {
         "id": 849,
-        "description": "This mod modifies some existing profiles and adds others:|- Fighter: Arcanic Archer (as skilled with his bow as he is with magic, and with formidable abilities to dispel all illusions), Hellion (worshipping the Prince of the Underworld, he can summon powerful demonic creatures during combat) and Soldier.|- Spellsword (fighter/entropist).",
+        "description": "This mod modifies some existing kits and adds others:|- Fighter: Arcanic Archer (as skilled with his bow as he is with magic, and with formidable abilities to dispel all illusions), Hellion (worshipping the Prince of the Underworld, he can summon powerful demonic creatures during combat) and Soldier.|- Spellsword (fighter/entropist).",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod modifie certains profils existants et en ajoute d'autres :|- guerrier : Archer arcanique (aussi doué avec son arc qu'avec la magie et possédant des qualités redoutables pour dissiper toutes les illusions), Hellion (adorant le Prince des Enfers, il peut invoquer de puissantes créatures démoniaques durant le combat) et Soldat.|- Ice Knight (rôdeur).|- Spell Weaver (sorcier entropiste).|- Wild Jester et Buffoon (bardes ou voleurs, au choix).|- Spellsword (guerrier/entropiste)."
@@ -12408,7 +12408,7 @@
     },
     {
         "id": 862,
-        "description": "This mod adds two new profiles, for both mage and sorcerer. Spells cast by Red Soul inflict 50% more damage at the cost of half the duration, while those cast by Green Soul last 50% longer, but inflict 50% less damage.",
+        "description": "This mod adds two new kits, for both mage and sorcerer. Spells cast by Red Soul inflict 50% more damage at the cost of half the duration, while those cast by Green Soul last 50% longer, but inflict 50% less damage.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute deux nouveaux profils, à la fois pour mage et pour ensorceleur. Les sorts lancés par le Red Soul infligent 50 % de dégâts supplémentaires au pris d'une durée diminuée de moitié, alors que ceux du Green Soul durent 50 % plus longtemps, mais infligent 50 % de dégâts en moins."
@@ -12899,7 +12899,7 @@
     },
     {
         "id": 894,
-        "description": "This mod modifies the gameplay for Baldur's Gate 2: Throne of Bhaal and strives to bring the roublard classes (bards and thieves) and their respective profiles closer to their AD&D P&P counterparts. It comprises several components, all of which can be installed separately and are completely independent of each other.|RR updates the two-weapon combat skills of thieves and bards, revises/improves their profiles, revises their high-level abilities, restores the appropriate racial adjustments for thief abilities, as well as the PnP spell progression table specific to bards.|It also makes the confrontation with the Shadow Thieves guild in chapter 3 much more difficult, and adds additional items for thieves and bards (in the Thieves guild), as well as an encounter with Cyric worshippers in chapter 6.",
+        "description": "This mod modifies the gameplay for Baldur's Gate 2: Throne of Bhaal and strives to bring the roublard classes (bards and thieves) and their respective kits closer to their AD&D P&P counterparts. It comprises several components, all of which can be installed separately and are completely independent of each other.|RR updates the two-weapon combat skills of thieves and bards, revises/improves their kits, revises their high-level abilities, restores the appropriate racial adjustments for thief abilities, as well as the PnP spell progression table specific to bards.|It also makes the confrontation with the Shadow Thieves guild in chapter 3 much more difficult, and adds additional items for thieves and bards (in the Thieves guild), as well as an encounter with Cyric worshippers in chapter 6.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod modifie le gameplay pour Baldur's Gate 2: Throne of Bhaal et s'efforce de rapprocher les classes de roublard (bardes et voleurs) et leurs profils respectifs de leurs homologues P&P d'AD&D. Il comprend plusieurs composants qui peuvent tous être installés séparément et sont complètement indépendants les uns des autres.|RR met à jour les compétences de combat à deux armes des voleurs et des bardes, révise/améliore leurs profils, révise leurs capacités de haut niveau, restaure les ajustements raciaux appropriés pour les capacités de voleur, ainsi que la table de progression des sorts PnP propre aux bardes.|Il empêche les effets des potions de voleur de se cumuler avec la possibilité de les remplacer par des potions de la version papier.|Il rend également beaucoup plus difficile l'affrontement avec la guilde des Voleurs de l'Ombre dans le chapitre 3.|Il ajoute enfin des objets supplémentaires pour les voleurs et les bardes (dans la guilde des voleurs) ainsi qu'une rencontre avec des fidèles de Cyric dans le chapitre 6."
@@ -13279,15 +13279,19 @@
     },
     {
         "id": 920,
-        "description": "This mini-mod endows Sarevok with special abilities, to the glory of a famous game.",
+        "description": "This mini-mod gives Sarevok two special moves (Tiger Shot and Tiger Uppercut), in homage to the game Street Fighter.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mini mod dote Sarevok de capacités particulières, à la gloire d'un fameux jeu."
+            "source": "Ce mini mod dote Sarevok de deux capacités particulières (Tiger Shot et Tiger Uppercut), à la gloire du jeu Street Fighter."
         },
-        "notes": [],
+        "notes": [
+            "Choose the github link for the BG2EE/EET version."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Choisissez le lien github pour la version BG2EE/EET."
+            ]
         }
     },
     {
@@ -13460,7 +13464,7 @@
     },
     {
         "id": 933,
-        "description": "This mod adds a new magic school: the Shadow Web, created by Shar. You'll be able to play a Shadow Adapte with over 100 special spells. Remember that while shadow magic is more powerful than ordinary magic, it's also dangerous, draining the user's life force.|The main component installs the Shadow Adept (mage), Shadow Disciple (spellcaster) and Night Singer (bard) profiles, as well as magic school spells and exclusive pets.|He also has several optional components:|- Install Shadow Monk profile (physically weaker than an ordinary monk, he can stab in the back, drain hit points with melee attacks and cast a limited selection of Shadow Web spells).|- BG:EE: adds several encounters against Shadow Adepts and a new store selling items usable by Shadow Adepts. BG2:EE: modifies the Shadow Lord, who has a new ability for Shadow Adepts hungry for power and Shadow Web spells to make the encounter more difficult.",
+        "description": "This mod adds a new magic school: the Shadow Web, created by Shar. You'll be able to play a Shadow Adapte with over 100 special spells. Remember that while shadow magic is more powerful than ordinary magic, it's also dangerous, draining the user's life force.|The main component installs the Shadow Adept (mage), Shadow Disciple (spellcaster) and Night Singer (bard) kits, as well as magic school spells and exclusive pets.|He also has several optional components:|- Install Shadow Monk profile (physically weaker than an ordinary monk, he can stab in the back, drain hit points with melee attacks and cast a limited selection of Shadow Web spells).|- BG:EE: adds several encounters against Shadow Adepts and a new store selling items usable by Shadow Adepts. BG2:EE: modifies the Shadow Lord, who has a new ability for Shadow Adepts hungry for power and Shadow Web spells to make the encounter more difficult.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute une nouvelle école de magie : la toile de l'ombre, créée par Shar. Vous pourrez jouer un Adapte de l'ombre avec plus de 100 sorts spéciaux. N'oubliez pas que si la magie de l'ombre est plus puissante que la magie ordinaire, elle est aussi dangereuse, car elle draine la force vitale de l'utilisateur.|Le composant principal installe les profils d'Adepte de l'ombre (mage), Disciple de l'ombre (ensorceleur) et Chanteur de la nuit (barde), ainsi que les sorts de l'école de magie et des familiers exclusifs.|Il dispose aussi de plusieurs composants optionnels :|- Installer le profil de Moine de l'ombre (physiquement plus faible qu'un moine ordinaire, il peut poignarder dans le dos, drainer des points de vie avec des attaques de mêlée et lancer une sélection limitée de sorts de la toile de l'ombre).|- BG:EE : ajoute plusieurs rencontres contre des Adeptes de l'ombre ainsi qu'un nouveau magasin vendant des objets utilisables par les adeptes de l'ombre.|- BG2:EE : modifie le Seigneur de l'ombre qui dispose d'une nouvelle capacité destinée aux adeptes de l'ombre avides de pouvoir et de sorts de la toile de l'ombre pour rendre la rencontre plus difficile."
@@ -13829,7 +13833,7 @@
     },
     {
         "id": 959,
-        "description": "Based on the observation that in-game classes and profiles are less powerful than matchmaking or multi-classing, this mod strives to redress the balance by improving them a little (martial specializations like 3 stars for paladins, high-level abilities, use of items...).|Optional components allow you to modify Archer's profile and install 7 others: Bowman and Shieldbearer (fighter), Martyr and Mystic Marksman (paladin), Huntsman of Silvanus (druid), Spellshafter (bard) and Sniper (thief). The mod was originally intended to offer 22 new profiles, but has long since been discontinued...",
+        "description": "Based on the observation that in-game classes and kits are less powerful than matchmaking or multi-classing, this mod strives to redress the balance by improving them a little (martial specializations like 3 stars for paladins, high-level abilities, use of items...).|Optional components allow you to modify Archer's profile and install 7 others: Bowman and Shieldbearer (fighter), Martyr and Mystic Marksman (paladin), Huntsman of Silvanus (druid), Spellshafter (bard) and Sniper (thief). The mod was originally intended to offer 22 new kits, but has long since been discontinued...",
         "description_meta": {
             "status": "needs_review",
             "source": "Partant du constat que les classes et les profils du jeu sont moins puissantes que les jumelage ou multi-classages, ce mod s'efforce de rétablir l'équilibre en les améliorant un peu (spécialisations martiales comme 3 étoiles pour les paladins, capacités de haut niveau, utilisation des objets...).|Des composants optionnels permettent de modifier le profil d'Archer et d'en installer 7 autres : Bowman et Shieldbearer (guerrier), Martyr et Mystic Marksman (paladin), Huntsman of Silvanus (druide), Spellshafter (barde) et Sniper (voleur). À l'origine, le mod avait pour ambition de proposer 22 nouveaux profils, mais il n'est plus développé depuis belle lurette..."
@@ -14078,7 +14082,7 @@
     },
     {
         "id": 976,
-        "description": "Do you like bards and rogues? If so, you'll be delighted with this little mod, which adds several new profiles to your now classic Blademaster and Assassin: Acrobat, Dirgesinger, Chorister and Gypsy (bards); Adventurer, Burglar, Shadow Dancer, Lamesprit and Sharpshooter (thieves); and an inquisitive and ever-welcoming old gypsy, Raoul, who will suggest new items for your favorite characters. The designer's creation of the items is strongly geared to their use by bards and thieves, but there's nothing to stop you equipping other characters with them, unless they're unusable by the class you're playing, of course.",
+        "description": "Do you like bards and rogues? If so, you'll be delighted with this little mod, which adds several new kits to your now classic Blademaster and Assassin: Acrobat, Dirgesinger, Chorister and Gypsy (bards); Adventurer, Burglar, Shadow Dancer, Lamesprit and Sharpshooter (thieves); and an inquisitive and ever-welcoming old gypsy, Raoul, who will suggest new items for your favorite characters. The designer's creation of the items is strongly geared to their use by bards and thieves, but there's nothing to stop you equipping other characters with them, unless they're unusable by the class you're playing, of course.",
         "description_meta": {
             "status": "needs_review",
             "source": "Aimez-vous les bardes et les roublards ? Si c'est le cas, vous serez comblés par ce petit mod qui ajoute plusieurs profils venant s'ajouter à vos désormais classique maître-lames et assassins : Acrobate, Chanteur funèbre, Choriste et Gitan (bardes) ; Aventurier, Cambrioleur, Danseur de l'ombre, Lamesprit et Tireur d'élite (voleurs).|Rencontrez aussi un vieux gitan, Raoul, un rien curieux et toujours accueillant, qui vous proposera de nouveaux objets pour vos personnages favoris. La création des objets par le concepteur est fortement orientée pour qu'ils soient utilisés par des bardes ou des voleurs, mais rien ne vous empêche d'équiper d'autres personnages avec, sauf s'ils sont inutilisables par la classe jouée, bien sûr."
@@ -14091,13 +14095,13 @@
     },
     {
         "id": 977,
-        "description": "This mod adds six new kits created by Drizzt1180 ([[1016]], `Blade Master`, [[1646]], `Wushi Ninja`, `Archer of Sylvanus`, [[61]]), as well as new items ([[266]]) from existing stores. All these items come from item packs and profiles published on the Sorcerer's Place site, converted to WeiDU format for easy installation.",
+        "description": "This mod adds six new kits created by Drizzt1180 ([[1016]], `Blade Master`, [[1646]], `Wushi Ninja`, `Archer of Sylvanus`, [[61]]), as well as new items ([[266]]) from existing stores. All these items come from item packs and kits published on the Sorcerer's Place site, converted to WeiDU format for easy installation.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute six nouveaux kits créés par Drizzt1180 ([[1016]], `Blade Master`, [[1646]], `Wushi Ninja`, `Archer of Sylvanus`, [[61]]), ainsi que de nouveaux objets ([[266]]) dans des magasins déjà existants. Tous ces éléments proviennent de packs d'objets et de profils publiés sur le site Sorcerer's Place convertis au format WeiDU pour faciliter leur installation."
         },
         "notes": [
-            "Warning: the `Archer of Sylvanus` kit seems to have [many problems](https://www.baldursgateworld.fr/viewtopic.php?t=17083) with classes and other profiles."
+            "Warning: the `Archer of Sylvanus` kit seems to have [many problems](https://www.baldursgateworld.fr/viewtopic.php?t=17083) with classes and other kits."
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -14287,7 +14291,7 @@
     },
     {
         "id": 990,
-        "description": "This mod allows clerics and druids to benefit from D&D 3e's spontaneous casting ability for healing, wounding and summoning spells. It works with BG:EE, BG2:EE, IWD:EE and EET. It should be compatible with other mods that add cleric and druid spells and profiles, provided it is installed after them.|Technically, it implements three innate abilities which, when activated, transform all the caster's memorized divine spells into healing, damaging or summoning spells of their respective levels. Good clerics receive spontaneous healing, bad clerics spontaneous wounding, and neutral clerics both. Druids receive spontaneous invocations. This lasts for 6 hours or until the chosen divine spell is cast, at which point all spells are retransformed.",
+        "description": "This mod allows clerics and druids to benefit from D&D 3e's spontaneous casting ability for healing, wounding and summoning spells. It works with BG:EE, BG2:EE, IWD:EE and EET. It should be compatible with other mods that add cleric and druid spells and kits, provided it is installed after them.|Technically, it implements three innate abilities which, when activated, transform all the caster's memorized divine spells into healing, damaging or summoning spells of their respective levels. Good clerics receive spontaneous healing, bad clerics spontaneous wounding, and neutral clerics both. Druids receive spontaneous invocations. This lasts for 6 hours or until the chosen divine spell is cast, at which point all spells are retransformed.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod permet aux clercs et druides de bénéficier de la capacité d'incantation spontanée de D&D 3e pour les sorts de soins, de blessures et de convocation. Il fonctionne avec BG:EE, BG2:EE, IWD:EE et EET. Il devrait être compatible avec d'autres mods qui ajoutent des sorts et des profils de clercs et druides à condition d'être installé après eux.|Techniquement, il implante trois capacités innées qui, une fois activées, transforment tous les sorts divins mémorisés du lanceur en sorts de soins, de dégâts ou d'invocation de leurs niveaux respectifs. Les clercs bons reçoivent des soins spontanés, les clercs mauvais des blessures spontanées, et les clercs neutres les deux. Les druides reçoivent des invocations spontanées. Cela dure 6 heures ou jusqu'à ce que le sort divin choisi soit lancé, puis tous les sorts sont retransformés."
@@ -14722,7 +14726,7 @@
     },
     {
         "id": 1021,
-        "description": "This mod is based on combat and strategy, and practically nothing else. It compiles old mods for improving certain fights (such as the [[968]] mod, the Ritual mod, and others) and adds its own, making the game very difficult and tactical. Note that you can install each component separately. It also adds two profiles (Archer for fighters and Anti-paladin). Please note that this mod is ideal for rebalancing the game, but adds very few quests - the aim is to increase the difficulty level, nothing else... it would take too long to list all the components of this mod... See the readme for more details.",
+        "description": "This mod is based on combat and strategy, and practically nothing else. It compiles old mods for improving certain fights (such as the [[968]] mod, the Ritual mod, and others) and adds its own, making the game very difficult and tactical. Note that you can install each component separately. It also adds two kits (Archer for fighters and Anti-paladin). Please note that this mod is ideal for rebalancing the game, but adds very few quests - the aim is to increase the difficulty level, nothing else... it would take too long to list all the components of this mod... See the readme for more details.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod est basé sur les combats et la stratégie, et pratiquement rien d'autre. Il compile d'anciens mods d'amélioration de certains combats (comme le mod [[968]], le mod Ritual, et d'autres) et ajoute les siens propres, et rend le jeu très difficile et tactique. À noter que vous pouvez installer chaque composant séparément. Il ajoute également deux profils (Archer pour les guerriers et Anti-paladin). Attention, ce mod est idéal pour rééquilibrer le jeu, mais ne rajoute que très peu de quêtes, le but est d'augmenter le niveau de difficulté, rien d'autre... il serait trop long de citer tous les composants de ce mod... Consultez le readme pour plus de précisions."
@@ -15133,7 +15137,7 @@
     },
     {
         "id": 1048,
-        "description": "This mod adds several profiles to the game and modifies some of them:|- Fighters: [[60]], Barbarian, The Art of Slaughter (Berserker), Art of the Sword Saint (Kensaï), Vanguard (for Khalid).|- Rangers: Dark Hunter, [[1132]] (for Minsc).|- Paladins: Divine Champion (Keldorn, Ajantis, Sirene), [[727]], Way of the Anti-Paladin (Black Knight) Druids: Elementalist, Hivemaster.|- Thieves: [[1204]] (assassin), Magekiller, Rogue Archer (Imoen), Trickster (Imoen).|- Sorcerers: Dragon Disciple, [[794]], Enlightened Fist.|- Shaman: [[1197]].|-Clerk: Sacred Fist.",
+        "description": "This mod adds several kits to the game and modifies some of them:|- Fighters: [[60]], Barbarian, The Art of Slaughter (Berserker), Art of the Sword Saint (Kensaï), Vanguard (for Khalid).|- Rangers: Dark Hunter, [[1132]] (for Minsc).|- Paladins: Divine Champion (Keldorn, Ajantis, Sirene), [[727]], Way of the Anti-Paladin (Black Knight) Druids: Elementalist, Hivemaster.|- Thieves: [[1204]] (assassin), Magekiller, Rogue Archer (Imoen), Trickster (Imoen).|- Sorcerers: Dragon Disciple, [[794]], Enlightened Fist.|- Shaman: [[1197]].|-Clerk: Sacred Fist.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute plusieurs profils dans le jeu et en modifie certains :|- Guerriers : [[60]], Barbare, The Art of Slaughter (Berserker), Art of the Sword Saint (Kensaï), Vanguard (pour Khalid).|- Rôdeurs : Dark Hunter, [[1132]] (pour Minsc).|- Paladins : Divine Champion (Keldorn, Ajantis, Sirene), [[727]], Way of the Anti-Paladin (Chevalier noir).|- Druides : Elementalist, Hivemaster.|- Voleurs : [[1204]] (assassin), Magekiller, Rogue Archer (Imoen), Trickster (Imoen).|- Ensorceleurs : Dragon Disciple ([[908]]), [[794]], Enlightened Fist.|- Shaman : [[1197]].|-Clerc : Sacred Fist ([[908]]."
@@ -15880,7 +15884,7 @@
     },
     {
         "id": 1101,
-        "description": "This mod enables bards and bard profiles (including those of mods) to use lock-picking, trap-finding and pickpocketing abilities. The aim of the game is to dispense with the need for a thief in the group. From level 1 to level 5, the bard will receive 10 skill points in lock-picking, 10 points in trap-finding/ disarming and 5 points in pickpocketing. From level 6 to level 20, he will receive 5 skill points in each of these abilities.",
+        "description": "This mod enables bards and bard kits (including those of mods) to use lock-picking, trap-finding and pickpocketing abilities. The aim of the game is to dispense with the need for a thief in the group. From level 1 to level 5, the bard will receive 10 skill points in lock-picking, 10 points in trap-finding/ disarming and 5 points in pickpocketing. From level 6 to level 20, he will receive 5 skill points in each of these abilities.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod permet aux bardes et aux profils de barde (y compris ceux des mods) d'utiliser les capacités de crochetage de serrures, de trouver/désamorcer les pièges et de pickpocket. Le but du jeu étant de pouvoir se passer de voleur dans le groupe. Du niveau 1 au niveau 5, le barde recevra 10 points de compétence en crochetage de serrures, 10 points en détection/désarmorçage des pièges et 5 points en vol à la tire. Du niveau 6 au niveau 20, il recevra 5 points de compétence dans chacune de ces capacités."
@@ -16064,7 +16068,7 @@
     },
     {
         "id": 1114,
-        "description": "This mod introduces a set of changes for mages/sorcerers/bards, as well as rules, spells and kits for them. It offers a host of components that can be grouped into three categories: spell modifications, profile additions or modifications, and gameplay modifications.|- Sorcerer profiles: Amorphous Disciple, Favored Soul, Magus, Revenant Disciple, Sylvan Disciple.|- Multi-classed sorcerer profiles: Arcanist, Mana Sorcerer.",
+        "description": "This mod introduces a set of changes for mages/sorcerers/bards, as well as rules, spells and kits for them. It offers a host of components that can be grouped into three categories: spell modifications, profile additions or modifications, and gameplay modifications.|- Sorcerer kits: Amorphous Disciple, Favored Soul, Magus, Revenant Disciple, Sylvan Disciple.|- Multi-classed sorcerer kits: Arcanist, Mana Sorcerer.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod introduit un ensemble de modifications pour les mages/sorciers/bardes, ainsi que des règles, sorts et kits les concernant. Il propose une foultitude de composants que l'on peut ranger dans trois catégories : modifications de sorts, ajout ou modification de profils, modification du gameplay.|- Profils d'ensorceleurs : Amorphous Disciple, Favored Soul, Magus, Revenant Disciple, Sylvan Disciple.|- Profils d'ensorceleurs multi-classés : Arcanist, Mana Sorcerer."
@@ -16639,7 +16643,7 @@
     },
     {
         "id": 1154,
-        "description": "This mod is part of a series of eight profiles created on the old IE customization & add-ons site: [[56]], [[61]], [[271]], [[322]], [[362]], [[380]], [[428]] and Undead Warrior.|This one installs a fighter kit.",
+        "description": "This mod is part of a series of eight kits created on the old IE customization & add-ons site: [[56]], [[61]], [[271]], [[322]], [[362]], [[380]], [[428]] and Undead Warrior.|This one installs a fighter kit.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], [[61]], [[271]], [[322]], [[362]], [[380]], [[428]] et Undead Warrior.|Celui-ci installe un profil de guerrier."
@@ -16678,7 +16682,7 @@
     },
     {
         "id": 1157,
-        "description": "The purpose of this mod is to compensate for the absence of certain quests planned by Bioware but never carried out, such as the kidnapping of Bouh. It also adds two profiles (Justice and Blood) kits and a few portraits.",
+        "description": "The purpose of this mod is to compensate for the absence of certain quests planned by Bioware but never carried out, such as the kidnapping of Bouh. It also adds two kits (Justice and Blood) kits and a few portraits.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod a pour but de pallier l'absence de certaines quêtes prévues par Bioware et qui n'ont jamais été réalisées, comme l'enlèvement de Bouh. Il ajoute également deux profils (Justicier et Sanguinaire) kits et quelques portraits."
@@ -17302,7 +17306,7 @@
     },
     {
         "id": 1201,
-        "description": "This mod adds seven new profiles, most of them taken from the prestige classes of D&D Third Edition:|- Paladins: Hospitaller Knight, Templar Knight and Religious Knight.|- Fighters: Outstanding Archer (Sniper) and Horde Breaker.|- Rangers: Wild Pathfinder and Forest Guardian.",
+        "description": "This mod adds seven new kits, most of them taken from the prestige classes of D&D Third Edition:|- Paladins: Hospitaller Knight, Templar Knight and Religious Knight.|- Fighters: Outstanding Archer (Sniper) and Horde Breaker.|- Rangers: Wild Pathfinder and Forest Guardian.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute sept nouveaux profils, la plupart tirés des classes de prestige de la troisième édition de D&D :|- paladins : Chevalier hospitalier, Chevalier templier et Chevalier religieux.|- guerriers : Archer hors pair (tireur d'élite) et Briseur de hordes.|- rôdeurs : Éclaireur sauvage et Gardien de la forêt."
@@ -17588,7 +17592,7 @@
     },
     {
         "id": 1221,
-        "description": "This mod strives to add a psionic system inspired by AD&D2 rules and four profiles that can use it: a psionic thief (Psionicist), a psionic warrior (Soublade), a psionic fighter (Psypher) and a psionic mage (Cerebremancer).|However, as the game engine wasn't designed for it, this mod is still experimental, even though it's being actively maintained. But it should enable you to play a character with new types of abilities. So don't hesitate to give it a try!",
+        "description": "This mod strives to add a psionic system inspired by AD&D2 rules and four kits that can use it: a psionic thief (Psionicist), a psionic warrior (Soublade), a psionic fighter (Psypher) and a psionic mage (Cerebremancer).|However, as the game engine wasn't designed for it, this mod is still experimental, even though it's being actively maintained. But it should enable you to play a character with new types of abilities. So don't hesitate to give it a try!",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod s'efforce d'ajouter un système psionique inspiré des règles de AD&D2 et quatre profiles qui peuvent l'utiliser : un voleur psion (Psionicist), un guerrier psion (Soublade), un rôdeur psion (Psypher) et un mage psion (Cerebremancer).|Cependant, comme le moteur du jeu n'a pas été conçu pour, ce mod est toujours expérimental, même s'il est activement maintenu. Mais il devrait vous permettre de jouer un personnage doté de nouveaux types de capacités. Alors n'hésitez pas à l'essayer !"
@@ -17601,7 +17605,7 @@
     },
     {
         "id": 1222,
-        "description": "This mod adds five witch profiles: Viper witcher, Cat witcher, Bear witcher, Manticore Witcher, Griffin witcher. It is constantly evolving, and now offers three additional wizard profiles (Dearg Ruadhri, Sorceress of the Lodge and Aen Saevherne). Eventually, it will include a specific quest.",
+        "description": "This mod adds five witch kits: Viper witcher, Cat witcher, Bear witcher, Manticore Witcher, Griffin witcher. It is constantly evolving, and now offers three additional wizard kits (Dearg Ruadhri, Sorceress of the Lodge and Aen Saevherne). Eventually, it will include a specific quest.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute cinq profils de witchers : Viper witcher, Cat witcher, Bear witcher, Manticore Witcher, Griffin witcher. Il est en constante évolution et propose désormais trois profils supplémentaires de mage (Dearg Ruadhri, Sorceress of the Lodge et Aen Saevherne). À terme, il comprendra une quête spécifique."
@@ -18913,7 +18917,7 @@
             "Withdrawn at the author's request"
         ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Retiré à la demande de l'auteur"
             ]
@@ -25586,7 +25590,7 @@
         "id": 1788,
         "description": "Krondor is a surly but good-natured Dwarf who's fun to have around. He has an animal companion (Wolfie, a Worg) who factors into several of his dialogues. He encourages the PC to take the Good path in any quest, acting much like Keldorn or Mazzy. He has a heavy accent & is a bit gruff, but very likeable. Unfortunately, you never get to find out about his history, such as how'd he meet Wolfie, where they're from, why'd they come to the Umar Hills.|STR 18/00, DEX 16, CON 15, INT 13, WIS 18, CHA 10.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Krondor est un nain bourru mais bon enfant, avec qui il est agréable de passer du temps. C'est un prêtre de Heaum loyal bon. Il a un compagnon animal (Wolfie, un worg) qui intervient dans plusieurs de ses dialogues. Il encourage le personnage joueur à suivre la voie du bien dans toutes les quêtes, un peu comme Keldorn ou Mazzy. Il a un fort accent et est un peu bourru, mais très sympathique. Vous pouvez le retrouver dans les Collines d'Umar.|FOR 18/00, DEX 16, CON 15, INT 13, SAG 18, CHA 10."
         },
         "notes": [],
@@ -25629,7 +25633,7 @@
         "id": 1792,
         "description": "Here's an anachronic merchant mod that sells some modern firearms (e.g., assault rifles, sniper rifles), military supplies (e.g., bulletproof vests, tactical grenades), and advanced gear. Players with sufficient combat strength can challenge the merchant for rare rewards.|You can find him to the Second floor of Sorcerous Sundries in Baldur's Gate. In SoA, he's at the TradeMeet. In ToB, he's at the Oasis.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Voici un mod marchand anachronique qui vend des armes et objets militaires (fusils d'assaut, fusils de précision...), du matériel militaire (par exemple, des gilets pare-balles, des grenades tactiques) et des équipements de pointe. Les joueurs disposant d'une force de combat suffisante peuvent défier le marchand pour obtenir des récompenses rares.|Vous le trouverez au second étage du Bazar Magique dans BG1. À Franc-Marché dans SoA puis à l'Oasis dans ToB."
         },
         "notes": [
@@ -26748,7 +26752,7 @@
         "id": 1873,
         "description": "This mod is designed to work with tipun's [[1528]] mods. It allows you to play the mod more freely by letting you choose to influence the difficulty or experience gain during new campaigns, allowing you to start earlier in the game.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ce mod est conçu pour fonctionner avec les mods [[1528]] de tipun. Il permet de jouer au mod de façon plus libre en laissant le choix d'influencer la difficulté ou le gain d'expérience lors des nouvelles campagnes et ainsi pouvoir la commencer plus tôt dans le jeu."
         },
         "notes": [
@@ -28140,6 +28144,45 @@
             "source": [
                 "Il override les objets habituellement réservés à certains PNJ."
             ]
+        }
+    },
+    {
+        "id": 1977,
+        "description": "This mod adds two new merchants with unique magical items. Merchant 1 is in the Cloud Peaks, the area accessible during Rasaad quest. Merchant 2 is in the Gullykin.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod ajoute deux nouveaux marchands proposant des objets magiques uniques. Le marchand n°1 se trouve dans les Pics Brumeux, la zone accessible lors de la quête de Rasaad. Le marchand n°2 se trouve à Gullykin."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1978,
+        "description": "This mod adds two new paladin kits from mod [[682]]. Read the readme for more information.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute deux nouveaux kits de paladin très travaillés issus du mod [[682]]. Lisez le readme pour en savoir plus."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1979,
+        "description": "This mod adds lots of banter to Rasaad.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute de nombreux banters à Rasaad."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]
