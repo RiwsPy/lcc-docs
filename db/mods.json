@@ -4936,7 +4936,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-03",
         "compatibilities": {
             "incompatible_with": [
                 123,
@@ -5436,7 +5436,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "BardicWonders"
     },
@@ -9942,7 +9942,7 @@
                 982
             ]
         },
-        "tp2": "DeitiesOfFaerun"
+        "tp2": "DeitiesOffaerun"
     },
     {
         "id": 298,
@@ -10108,7 +10108,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "Derats_dawap;Derats_dawap_TOUT"
     },
@@ -11648,7 +11648,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-04",
         "compatibilities": {
             "incompatible_with": [
                 1410
@@ -14202,7 +14202,8 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "pl"
         ],
         "status": "active",
         "last_update": "2022-11",
@@ -16722,7 +16723,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "isnf"
     },
@@ -18822,7 +18823,7 @@
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
-        "status": "active",
+        "status": "missing",
         "last_update": "2003-04",
         "compatibilities": {},
         "tp2": "ItmValueTweaks"
@@ -20536,7 +20537,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "Derats_Ogre"
     },
@@ -29093,13 +29094,19 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "es",
+            "br",
+            "de"
         ],
         "status": "active",
         "last_update": "2021-09",
         "compatibilities": {
             "incompatible_with": [
                 1057
+            ],
+            "requires": [
+                "ToB"
             ]
         },
         "tp2": "dw_lanthorn"
@@ -31815,7 +31822,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "Sirene_BG2"
     },
@@ -32504,7 +32511,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "spstuff"
     },
@@ -33230,7 +33237,8 @@
         "languages": [
             "en",
             "fr",
-            "ru"
+            "ru",
+            "br"
         ],
         "status": "active",
         "last_update": "2026-01",
@@ -33865,7 +33873,8 @@
         "languages": [
             "en",
             "es",
-            "cn"
+            "cn",
+            "pl"
         ],
         "status": "active",
         "last_update": "2025-10",
@@ -34732,7 +34741,8 @@
             "fr",
             "de",
             "ru",
-            "cn"
+            "cn",
+            "pl"
         ],
         "status": "active",
         "last_update": "2024-12",
@@ -35098,7 +35108,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "tb#tweaks"
     },
@@ -36526,9 +36536,10 @@
     {
         "id": 1095,
         "name": "Vault",
-        "description": "À l'origine, ce mod était surtout centré sur des nouveaux objets répartis un peu partout dans le jeu (monstres, magasins). Avec le temps il s'est agrémenté de plusieurs quêtes accessibles à des groupes de différents niveaux, afin d'accommoder les objets du mod à l'univers BG. Les quêtes restent ardues, tant dans leur résolution que dans les combats qui les peuplent. L'auteur annonce environ deux heures de jeu pour les quatre quêtes, mais vous passerez peut-être plus de temps à vous triturer les méninges pour les résoudre.|`Retour à Nashkel` commence lorsque le duc Eltan téléporte le groupe à Château-Suif. Elle vous conduit à retourner dans les mines de Nashkel investies de pièges, d'araignées et d'elfes noirs.|`Le Vestibule` : rendez-vous dans le petit bâtiment attenant au temple de Lathandre et parlez (plusieurs fois) aux prêtres qui s'y trouvent. La quête est constituée de deux combats particulièrement ardus (niveau 8-9 minimum), il faut renvoyer dans les abysses le démon Lestraubimat qui n'apparaîtra que si c'est la première fois que vous pénétrez sur un certain lieu (vous pouvez toutefois visiter la carte sous réserve de ne pas explorer la zone où le démon doit apparaître).|`Les Ogres de Gullykin, le village halfelin` : une invasion et de gros combats...|`Le Caveau`, ou quête cachée : lisez attentivement les descriptifs des objets trouvés, et rassemblez l'idole de Kozah et l'armure du chevalier maudit du labyrinthe avant de les présenter au fantôme d'Ulcaster, qui vous donne l'épée de la Revanche du vampire en échange. Recherchez une personne qui pourrait vous aider à vous narrer l'histoire de cette épée.|Combiné à [[1011]], ce mod peut rapidement relever de l'impossible, notamment lors de la quête `Retour à Nashkel` dans laquelle vous combattrez des hordes d'araignées.|Le lien concerne la version BGT et BG:EE. La [version BG1-Tutu](http://www.angelfire.com/rpg2/azenmod/#Vault) ne possède pas de traduction française.",
+        "description": "À l'origine, ce mod était surtout centré sur des nouveaux objets répartis un peu partout dans le jeu (monstres, magasins). Avec le temps il s'est agrémenté de plusieurs quêtes accessibles à des groupes de différents niveaux, afin d'accommoder les objets du mod à l'univers BG. Les quêtes restent ardues, tant dans leur résolution que dans les combats qui les peuplent. L'auteur annonce environ deux heures de jeu pour les quatre quêtes, mais vous passerez peut-être plus de temps à vous triturer les méninges pour les résoudre.|`Retour à Nashkel` commence lorsque le duc Eltan téléporte le groupe à Château-Suif. Elle vous conduit à retourner dans les mines de Nashkel investies de pièges, d'araignées et d'elfes noirs.|`Le Vestibule` : rendez-vous dans le petit bâtiment attenant au temple de Lathandre et parlez (plusieurs fois) aux prêtres qui s'y trouvent. La quête est constituée de deux combats particulièrement ardus (niveau 8-9 minimum), il faut renvoyer dans les abysses le démon Lestraubimat qui n'apparaîtra que si c'est la première fois que vous pénétrez sur un certain lieu (vous pouvez toutefois visiter la carte sous réserve de ne pas explorer la zone où le démon doit apparaître).|`Les Ogres de Gullykin, le village halfelin` : une invasion et de gros combats...|`Le Caveau`, ou quête cachée : lisez attentivement les descriptifs des objets trouvés, et rassemblez l'idole de Kozah et l'armure du chevalier maudit du labyrinthe avant de les présenter au fantôme d'Ulcaster, qui vous donne l'épée de la Revanche du vampire en échange. Recherchez une personne qui pourrait vous aider à vous narrer l'histoire de cette épée.|Combiné à [[1011]], ce mod peut rapidement relever de l'impossible, notamment lors de la quête `Retour à Nashkel` dans laquelle vous combattrez des hordes d'araignées.",
         "urls": [
-            "https://www.shsforums.net/topic/55129-the-vault-for-bgt-v72-released/"
+            "https://www.shsforums.net/topic/55129-the-vault-for-bgt-v72-released/",
+            "https://github.com/Spellhold-Studios/Vault/"
         ],
         "categories": [
             "Quête"
@@ -36536,7 +36547,9 @@
         "games": [
             "BG",
             "Tutu",
-            "BGT"
+            "BGT",
+            "BGEE",
+            "EET"
         ],
         "authors": [
             "Josh Clue",
@@ -36555,7 +36568,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2012-08",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "Vault"
     },
@@ -44099,7 +44112,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "A7-WaresOfThePlanes"
     },
@@ -44279,7 +44292,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2026-03",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -44358,7 +44371,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "itemupgrade"
     },
@@ -45007,7 +45020,8 @@
         "languages": [
             "en",
             "cn",
-            "ru"
+            "ru",
+            "pl"
         ],
         "status": "active",
         "last_update": "2025-08",
@@ -45204,13 +45218,13 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "cn"
         ],
-        "status": "active",
-        "last_update": "2026-03",
+        "status": "wip",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "zbpod"
     },
@@ -45621,7 +45635,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2023-06",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -45684,7 +45698,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -46551,7 +46565,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "ZSTweaks"
     },
@@ -47132,7 +47146,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "mih_fr"
     },
@@ -48899,7 +48913,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2021-01",
+        "last_update": "2026-03",
         "compatibilities": {
             "requires": [
                 "EET"
@@ -49369,7 +49383,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "golden_horse"
     },
@@ -49612,7 +49626,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "candlekeep_revisited"
     },
@@ -49758,7 +49772,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {
             "requires": [
                 "SoD"
@@ -49861,7 +49875,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "BookOfTorment"
     },
@@ -50381,7 +50395,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "ArtisansCaravans"
     },
@@ -50411,7 +50425,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "bmpp"
     },
@@ -52026,7 +52040,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "A7-TextureConvert"
     },
@@ -52337,7 +52351,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "baldurianbarhop"
     },
@@ -52404,7 +52418,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Shohy's_Custom_Platform"
     },
@@ -52465,7 +52479,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "Tactics-Kits"
     },
@@ -52619,7 +52633,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-06",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "BardSong_BGEE_IWD"
     },
@@ -52651,7 +52665,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "DetailedDescription"
     },
@@ -52736,7 +52750,7 @@
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "2006-04",
         "compatibilities": {},
         "tp2": "Disc255"
@@ -53306,7 +53320,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "iwd2ee;iwd2ee_mod_compatibility_patch"
     },
@@ -57154,10 +57168,11 @@
             "cn",
             "es",
             "ru",
-            "pt"
+            "pt",
+            "pl"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "ThroneoftheMadGod"
     },
@@ -57770,11 +57785,11 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
-        "status": "wip",
+        "status": "active",
         "last_update": "2025-10",
         "compatibilities": {},
         "tp2": "ArszyksWonderfulDecay"
@@ -57879,10 +57894,11 @@
         "languages": [
             "fr",
             "en",
-            "cn"
+            "cn",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "Derats_KriBinn"
     },
@@ -58354,10 +58370,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "cn"
+            "cn",
+            "es"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "lfgp"
     },
@@ -59028,7 +59045,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-04",
         "compatibilities": {
             "incompatible_with": [
                 1286
@@ -59840,7 +59857,7 @@
             "es"
         ],
         "status": "wip",
-        "last_update": "2026-03",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "TPoJ"
     },
@@ -60001,7 +60018,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "jarnip"
     },
@@ -62228,7 +62245,7 @@
             "fr"
         ],
         "status": "wip",
-        "last_update": "2025-12",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "Derats_Defis"
     },
@@ -62289,7 +62306,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2026-01",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "Artisans_MazzyRom"
     },
