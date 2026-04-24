@@ -823,7 +823,7 @@
     },
     {
         "id": 55,
-        "description": "这个模组为 PJ 在 SoD 结尾时失宠并必须离开城市提供了一个新的原因。",
+        "description": "这个模组为主角在SoD结尾时失宠并必须离开城市提供了一个新的原因。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod introduit une nouvelle raison pour laquelle le PJ tombe en disgrace à la fin de SoD et doit quitter la ville."
@@ -13403,9 +13403,11 @@
             "status": "needs_review",
             "source": "Ce mini mod dote Sarevok de deux capacités particulières (Tiger Shot et Tiger Uppercut), à la gloire du jeu Street Fighter."
         },
-        "notes": [],
+        "notes": [
+			"选择适用于 BG2EE/EET 版本的 GitHub 链接。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Choisissez le lien github pour la version BG2EE/EET."
             ]
@@ -28418,9 +28420,9 @@
     },
     {
         "id": 1977,
-        "description": "",
+        "description": "这个模组增加了两名新商人，出售独特的魔法物品。一号商人位于云雾山，这是拉萨德任务期间可以进入的区域。二号商人位于溪谷镇。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute deux nouveaux marchands proposant des objets magiques uniques. Le marchand n°1 se trouve dans les Pics Brumeux, la zone accessible lors de la quête de Rasaad. Le marchand n°2 se trouve à Gullykin."
         },
         "notes": [],
@@ -28431,9 +28433,9 @@
     },
     {
         "id": 1978,
-        "description": "",
+        "description": "这个模组添加了两个制作精良的圣武士宗派，它们来自[[682]]模组。详情请阅读自述文件。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute deux nouveaux kits de paladin très travaillés issus du mod [[682]]. Lisez le readme pour en savoir plus."
         },
         "notes": [],
@@ -28444,9 +28446,9 @@
     },
     {
         "id": 1979,
-        "description": "",
+        "description": "这个模组为拉萨德增加了许多闲聊。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute de nombreux banters à Rasaad."
         },
         "notes": [],
