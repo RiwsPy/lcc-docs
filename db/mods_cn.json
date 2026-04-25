@@ -8656,9 +8656,9 @@
             "此模组已被整合到PPG的[[845]]中，因此已过时。此外，托管它的网站已不再可用。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Ce mod est obsolète depuis qu'il a été intégré dans le [[845]] de PPG. De plus le site l'hébergeant n'est plus disponible."
+                "Ce mod est obsolète depuis qu'il a été intégré dans [[845]]."
             ]
         }
     },
@@ -12272,18 +12272,16 @@
         ],
         "description": "SimDing0的这个模组添加了大量的支线任务，同时也修改了某些怪物的AI，并为他们增加了一些能力（例如，木乃伊现在可以对你们施放一种令人眩晕的气息……呃）。在现有的任务中，你也将有其他选择的机会，比如背叛艾德温，甚至背叛雷诺尔·血头……一切风险自负。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod de SimDing0 ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls."
+            "status": "needs_review",
+            "source": "Ce mod ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls."
         },
         "notes": [
-            "注意：组件“德莱亚橡果新命运”在任务未解决前，会阻止你进入费尔克拉格的地下城。",
-            "最新版本已包含旧模组 [[597]]。"
+            "注意：组件“德莱亚橡果新命运”在任务未解决前，会阻止你进入费尔克拉格的地下城。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Attention : le composant `Nouveau destin pour les glands des Dryades` empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue.",
-                "Les dernières versions incluent l'ancien mod [[597]]."
+                "Attention : le composant `Nouveau destin pour les glands des Dryades` empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue."
             ]
         }
     },
@@ -13404,8 +13402,8 @@
             "source": "Ce mini mod dote Sarevok de deux capacités particulières (Tiger Shot et Tiger Uppercut), à la gloire du jeu Street Fighter."
         },
         "notes": [
-			"选择适用于 BG2EE/EET 版本的 GitHub 链接。"
-		],
+            "选择适用于 BG2EE/EET 版本的 GitHub 链接。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [

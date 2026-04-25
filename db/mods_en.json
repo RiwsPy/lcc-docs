@@ -8558,12 +8558,12 @@
             "source": "Ce petit mod restaure les capacités innées des elfes noirs prévues par AD&D, mais seulement dans l'Ombreterre : Globe d'obscurité, Globe d'obscurité amélioré, Lueurs dansantes et Feu féerique."
         },
         "notes": [
-            "This mod is obsolete now that it has been integrated into PPG's [[845]]. In addition, the site hosting it is no longer available."
+            "This mod is obsolete now that it has been integrated into [[845]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Ce mod est obsolète depuis qu'il a été intégré dans le [[845]] de PPG. De plus le site l'hébergeant n'est plus disponible."
+                "Ce mod est obsolète depuis qu'il a été intégré dans [[845]]."
             ]
         }
     },
@@ -12161,20 +12161,18 @@
     },
     {
         "id": 845,
-        "description": "This SimDing0 mod not only adds a multitude of small quests, but also modifies the AI of certain monsters, adding certain abilities (for example, mummies can now cast a kind of stun blast on you... gnark). You'll also be able to make other choices in existing quests, such as betraying Edwin, or even Renal Bloodscalp himself... at your peril.",
+        "description": "This mod not only adds a multitude of small quests, but also modifies the AI of certain monsters, adding certain abilities (for example, mummies can now cast a kind of stun blast on you... gnark). You'll also be able to make other choices in existing quests, such as betraying Edwin, or even Renal Bloodscalp himself... at your peril.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod de SimDing0 ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls."
+            "source": "Ce mod ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls."
         },
         "notes": [
-            "Warning: the component `New Fate for Dryad Acorns` prevents access to the Firkraag dungeon until the quest has been resolved.",
-            "The latest versions include the old mod [[597]]."
+            "Warning: the component `New Fate for Dryad Acorns` prevents access to the Firkraag dungeon until the quest has been resolved."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : le composant `Nouveau destin pour les glands des Dryades` empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue.",
-                "Les dernières versions incluent l'ancien mod [[597]]."
+                "Attention : le composant `Nouveau destin pour les glands des Dryades` empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue."
             ]
         }
     },

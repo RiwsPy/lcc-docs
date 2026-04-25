@@ -19844,7 +19844,7 @@
     },
     {
         "id": 597,
-        "name": "Kensai Ryu's Restored Drow Innates Abilities",
+        "name": "Kensai Ryu's Restored Drow Innate Abilities",
         "description": "Ce petit mod restaure les capacités innées des elfes noirs prévues par AD&D, mais seulement dans l'Ombreterre : Globe d'obscurité, Globe d'obscurité amélioré, Lueurs dansantes et Feu féerique.",
         "urls": [],
         "categories": [
@@ -19859,7 +19859,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est obsolète depuis qu'il a été intégré dans le [[845]] de PPG. De plus le site l'hébergeant n'est plus disponible."
+            "Ce mod est obsolète depuis qu'il a été intégré dans [[845]]."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -27986,7 +27986,7 @@
     {
         "id": 845,
         "name": "Ding0's Quest Pack",
-        "description": "Ce mod de SimDing0 ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls.",
+        "description": "Ce mod ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls.",
         "urls": [
             "https://www.pocketplane.net/quest-pack/",
             "https://github.com/Pocket-Plane-Group/QuestPack/"
@@ -28007,8 +28007,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : le composant `Nouveau destin pour les glands des Dryades` empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue.",
-            "Les dernières versions incluent l'ancien mod [[597]]."
+            "Attention : le composant `Nouveau destin pour les glands des Dryades` empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -28022,9 +28021,9 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-04",
         "compatibilities": {},
-        "tp2": "d0questpack;questpack"
+        "tp2": "d0questpack"
     },
     {
         "id": 846,
@@ -62223,6 +62222,7 @@
         "description": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de diamant qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous devez trouver et tuer le boss pour valider la victoire.|Ceci est un version Wip, ne proposant que 6 arènes sur les 12 prévues.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34557",
+            "https://forums.beamdog.com/discussion/90555/",
             "https://github.com/Deratiseur/Defis/"
         ],
         "categories": [
