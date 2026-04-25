@@ -1,0 +1,62 @@
+[project]
+name = "Lcc-Mod-List"
+version = "3.9.0"
+description = "Liste des mods de l'infinity engine"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "cryptography>46.0.4",
+    "curl-cffi>=0.14.0",
+    "iteration-utilities>=0.13.0",
+    "jinja2>=3.1.6",
+    "minify-html>=0.18.1",
+    "pydantic>=2.11.5",
+    "pygithub>=2.8.1",
+    "pytest>=9.0.2",
+    "pytest-mock>=3.15.1",
+]
+
+[tool.pyright]
+ignore = [".venv/"]
+venv = "./.venv"
+venvPath = "."
+pythonVersion = "3.11"
+# typeCheckingMode = "basic"
+reportMissingTypeStubs = false
+reportMissingImports = false
+reportIncompatibleMethodOverride = false
+
+[tool.ruff]
+exclude = [".venv/"]
+line-length = 96
+include = ["**/pyproject.toml", "*.py"]
+extend-exclude = ["__pycache__", ".venv"]
+target-version = "py311"
+
+[tool.ruff.lint]
+# https://docs.astral.sh/ruff/rules
+select = ["F", "I", "E", "B"]
+ignore = ["E501"]
+
+[tool.ruff.lint.isort]
+length-sort = false
+force-single-line = false
+force-sort-within-sections = true
+known-first-party = ["models", "scripts", "tests"]
+section-order = [
+    "future",
+    "standard-library",
+    "third-party",
+    "first-party",
+    "local-folder",
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+line-ending = "auto"
+
+[tool.mypy]
+disable_error_code = ["import-untyped", "import-not-found"]
