@@ -35390,21 +35390,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru",
-            "cn",
-            "it",
-            "pl"
+            "fr"
         ],
         "status": "active",
-        "last_update": "2024-09",
-        "compatibilities": {
-            "requires": [
-                372
-            ],
-            "incompatible_with": [
-                1166
-            ]
-        },
+        "last_update": "2026-05",
+        "compatibilities": {},
         "tp2": "cowledmenace"
     },
     {
@@ -38931,7 +38921,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "cz"
