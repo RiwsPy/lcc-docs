@@ -9290,7 +9290,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Héritier du \"Vampirmod für Magier\" du même auteur, ce mod donne au joueur la possibilité de devenir un vampire au cours de la quête principale de Shadows of Amn. Pour ce faire, le joueur doit rejoindre la guilde de Bodhi. Le choix d'être transformé en vampire est volontaire et définitif. Une fois le joueur transformé, il n'y a plus de retour en arrière."
+            "source": "Héritier du \"Vampirmod für Magier\" du même auteur, ce mod donne au joueur la possibilité de devenir un vampire au cours de la quête principale de Shadows of Amn. Pour ce faire, le joueur doit rejoindre la guilde de Bodhi. Le choix d'être transformé en vampire est volontaire et définitif. La transformation confère au personnage les capacités d'un vampire. Ces capacités évoluent en parallèle du niveau du personnage."
         },
         "notes": [],
         "notes_meta": {
@@ -19012,7 +19012,8 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Nécessite [[1326]] pour fonctionner sur SoD."
+                "Nécessite [[1326]] pour fonctionner sur SoD.",
+                "Une alternative compatible avec Linux est disponible dans [[1990]]."
             ]
         }
     },
@@ -27365,6 +27366,36 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1989,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ceci est un mod qui écrase les dialogues et certains sons. À vos risques et périls."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Il écrase le dialog.tlk, en anglais."
+            ]
+        }
+    },
+    {
+        "id": 1990,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "BGPartner affiche des superpositions sur les créatures sélectionnées par l'utilisateur, détaillant leurs caractéristiques et leurs effets actifs."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Ce mod est une alternative à [[1369]]. Il est compatible avec Windows et Linux."
+            ]
         }
     }
 ]

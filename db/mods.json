@@ -22274,9 +22274,9 @@
     {
         "id": 673,
         "name": "Mal des Vampirismus",
-        "description": "Héritier du \"Vampirmod für Magier\" du même auteur, ce mod donne au joueur la possibilité de devenir un vampire au cours de la quête principale de Shadows of Amn. Pour ce faire, le joueur doit rejoindre la guilde de Bodhi. Le choix d'être transformé en vampire est volontaire et définitif. Une fois le joueur transformé, il n'y a plus de retour en arrière.",
+        "description": "Héritier du \"Vampirmod für Magier\" du même auteur, ce mod donne au joueur la possibilité de devenir un vampire au cours de la quête principale de Shadows of Amn. Pour ce faire, le joueur doit rejoindre la guilde de Bodhi. Le choix d'être transformé en vampire est volontaire et définitif. La transformation confère au personnage les capacités d'un vampire. Ces capacités évoluent en parallèle du niveau du personnage.",
         "urls": [
-            "http://www.baldursgate-refugium.de/mods/mal-des-vampirismus/",
+            "https://www.baldurs-gate.de/index.php?threads/mal-des-vampirismus.42221/",
             "https://drive.google.com/drive/folders/118zqAQJu6atTvaPF_pc_SzPiVLHmBWQ_"
         ],
         "categories": [
@@ -45725,14 +45725,19 @@
         ],
         "team": [],
         "notes": [
-            "Nécessite [[1326]] pour fonctionner sur SoD."
+            "Nécessite [[1326]] pour fonctionner sur SoD.",
+            "Une alternative compatible avec Linux est disponible dans [[1990]]."
         ],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2026-04",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "Windows"
+            ]
+        },
         "tp2": "n/a"
     },
     {
@@ -64750,5 +64755,64 @@
         "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "PrettySpells"
+    },
+    {
+        "id": 1989,
+        "name": "Baldur's Great",
+        "description": "Ceci est un mod qui écrase les dialogues et certains sons. À vos risques et périls.",
+        "urls": [
+            "https://www.shsforums.net/files/file/1078-bg2ee-baldurs-great/"
+        ],
+        "categories": [],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Kval"
+        ],
+        "team": [],
+        "notes": [
+            "Il écrase le dialog.tlk, en anglais."
+        ],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2013-12",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 1990,
+        "name": "BGPartner",
+        "description": "BGPartner affiche des superpositions sur les créatures sélectionnées par l'utilisateur, détaillant leurs caractéristiques et leurs effets actifs.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/89270/",
+            "https://github.com/gatperdut/bg-partner"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "gatperdut"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod est une alternative à [[1369]]. Il est compatible avec Windows et Linux."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-03",
+        "compatibilities": {},
+        "tp2": "n/a"
     }
 ]

@@ -9636,10 +9636,10 @@
     },
     {
         "id": 673,
-        "description": "Heir to the \"Vampirmod für Magier\" by the same author, this mod gives the player the chance to become a vampire during Shadows of Amn's main quest. To do so, the player must join Bodhi's guild. The choice to become a vampire is voluntary and definitive. Once transformed, there is no turning back.",
+        "description": "Heir to the \"Vampirmod für Magier\" by the same author, this mod gives the player the chance to become a vampire during Shadows of Amn's main quest. To do so, the player must join Bodhi's guild. The choice to become a vampire is voluntary and definitive. The transformation grants the character the abilities of a vampire. These abilities evolve in line with the character’s level.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Héritier du \"Vampirmod für Magier\" du même auteur, ce mod donne au joueur la possibilité de devenir un vampire au cours de la quête principale de Shadows of Amn. Pour ce faire, le joueur doit rejoindre la guilde de Bodhi. Le choix d'être transformé en vampire est volontaire et définitif. Une fois le joueur transformé, il n'y a plus de retour en arrière."
+            "source": "Héritier du \"Vampirmod für Magier\" du même auteur, ce mod donne au joueur la possibilité de devenir un vampire au cours de la quête principale de Shadows of Amn. Pour ce faire, le joueur doit rejoindre la guilde de Bodhi. Le choix d'être transformé en vampire est volontaire et définitif. La transformation confère au personnage les capacités d'un vampire. Ces capacités évoluent en parallèle du niveau du personnage."
         },
         "notes": [],
         "notes_meta": {
@@ -19670,12 +19670,14 @@
             "source": "Un programme externe montrant les ennemis les plus proches ainsi que leurs résistances, leurs buffs et les durées restantes. Les vidéos seront plus explicites qu'un long texte."
         },
         "notes": [
-            "Requires [[1326]] to run on SoD."
+            "Requires [[1326]] to run on SoD.",
+            "A Linux-compatible alternative is available in [[1990]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Nécessite [[1326]] pour fonctionner sur SoD."
+                "Nécessite [[1326]] pour fonctionner sur SoD.",
+                "Une alternative compatible avec Linux est disponible dans [[1990]]."
             ]
         }
     },
@@ -28306,6 +28308,40 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1989,
+        "description": "This is a mod that overrides dialogue and certain sounds. Use at your own risk.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ceci est un mod qui écrase les dialogues et certains sons. À vos risques et périls."
+        },
+        "notes": [
+            "It overwrites the dialog.tlk file, in English."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Il écrase le dialog.tlk, en anglais."
+            ]
+        }
+    },
+    {
+        "id": 1990,
+        "description": "BGPartner produces overlays on user-selected creatures detailing their stats and active effects.",
+        "description_meta": {
+            "status": "done",
+            "source": "BGPartner affiche des superpositions sur les créatures sélectionnées par l'utilisateur, détaillant leurs caractéristiques et leurs effets actifs."
+        },
+        "notes": [
+            "This mod is an alternative to [[1369]]. It is compatible with Windows and Linux."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Ce mod est une alternative à [[1369]]. Il est compatible avec Windows et Linux."
+            ]
         }
     }
 ]
