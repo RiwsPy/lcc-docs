@@ -890,7 +890,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod regroupe 3 petits mods créés par Icendoan :|- [#!Stoneskin](https://www.shsforums.net/files/file/725-elemental-damage-only-stoneskin/) (Elemental Damage Only) : applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles.|- #!Lightening : un composant délire qui installe une baguette se comportant comme un sac de contenance... ET oui, les fautes d'orthographe, ça craint...|- #!Brage ([[190]]) : ajoute Brage comme PNJ recrutable dans BG. Il est complètement silencieux, mais a une petite quête. Ce mod a été créé en 40 minutes pour fêter le 10e anniversaire de BG1."
+            "source": "Ce mod regroupe 3 petits mods créés par Icendoan :|- [[1980]] qui donne une peau de pierre permanente aux personnages, impactant radicalement les combats.|- #!Lightening : un composant délire qui installe une baguette se comportant comme un sac de contenance... ET oui, les fautes d'orthographe, ça craint...|- #!Brage ([[190]]) : ajoute Brage comme PNJ recrutable dans BG. Il est complètement silencieux, mais a une petite quête. Ce mod a été créé en 40 minutes pour fêter le 10e anniversaire de BG1."
         },
         "notes": [],
         "notes_meta": {
@@ -2636,7 +2636,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Il est intégré dans le mod [[64]]."
+                "Inclus dans [[64]] du même auteur."
             ]
         }
     },
@@ -6825,7 +6825,8 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Utilisez le lien pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
+                "Utilisez le lien pour la version BG2/BGT et le lien github pour la version BG2EE/EET.",
+                "Ne fonctionne que pour les personnages recrutables officiels présents dans la version originelle de BG2."
             ]
         }
     },
@@ -12155,6 +12156,10 @@
     },
     {
         "id": 878,
+        "team": [
+            "Alvarez",
+            "Children of Bhaal"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -13017,7 +13022,8 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Il doit être installé avant [[372]]."
+                "Il doit être installé avant [[372]].",
+                "Choisissez la version github qui est compatible EET."
             ]
         }
     },
@@ -13263,7 +13269,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr qu'il est possible de rencontrer au quartier général du Cœur Radieux. Elle ne s'entend pas avec Dorn et Hexxat, et ne suivra pas un personnage d'alignement mauvais. Le mod propose des dialogues d'amitié et de romance (c'est au joueur de montrer de l'intérêt) et offre une continuité avec BG:EE si on avait déjà recruté le personnage. Il comporte du contenu en rapport certains PNJ d'autres mods ainsi qu'avec les mods Colours of Infinity."
+            "source": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr qu'il est possible de rencontrer au quartier général du Cœur Radieux. Elle ne s'entend pas avec Dorn et Hexxat, et ne suivra pas un personnage d'alignement mauvais. Le mod propose des dialogues d'amitié et de romance (c'est au joueur de montrer de l'intérêt) et offre une continuité avec BG:EE si on avait déjà recruté le personnage. Il comporte du contenu en rapport certains PNJ d'autres mods ainsi qu'avec les mods Colours of Infinity.|FOR 16, DEX 17, CON 16, INT 12, SAG 14, CHA 17."
         },
         "notes": [],
         "notes_meta": {
@@ -13276,7 +13282,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr (mais le joueur peut choisir un autre kit de paladin) qu'il est possible de rencontrer au temple de Lathandre à Bérégost. Le mod est compatible avec Siege of Dragonspear et permet de recruter le personnage pour la campagne. Il comporte du contenu en rapport avec les mods [[1215]] et [[1182]] de Lava.|FOR 15, DEX 17, CON 15, INT 10, SAG 13, CHA 17."
+            "source": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr (mais le joueur peut choisir un autre kit de paladin) qu'il est possible de rencontrer au temple de Lathandre à Bérégost. Le mod est compatible avec Siege of Dragonspear et permet de recruter le personnage pour la campagne. Il comporte du contenu en rapport avec les mods [[1215]] et [[1182]] de Lava.|FOR 15, DEX 17, CON 16, INT 12, SAG 13, CHA 17."
         },
         "notes": [],
         "notes_meta": {
@@ -14166,7 +14172,8 @@
             "status": "todo",
             "source": [
                 "Pour BG2:EE seulement, utilisez l'adaptation du lien Beamdog, œuvre d'un nouvel auteur, Musigny, qui traite au fur et à mesure l'ensemble des composants du mod d'origine.",
-                "Les kits traduits en français et compatibles EET sont disponibles dans [[1590]]."
+                "Les kits traduits en français et compatibles EET sont disponibles dans [[1590]].",
+                "La plupart des composants sont incompatibles avec [[1011]]."
             ]
         }
     },
@@ -14555,10 +14562,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "L'auteur semble peu enclin à faire traduire ce mod."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -14736,6 +14741,11 @@
     },
     {
         "id": 1061,
+        "team": [
+            "my_summertime",
+            "SoM Membress",
+            "part of CoB Clan"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -15615,8 +15625,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Attention : Comme il patche toutes les zones, il est recommandé de l'installer à la fin.",
-                "Choisissez le lien github pour la version française."
+                "Attention : Comme il patche toutes les zones, il est recommandé de l'installer à la fin."
             ]
         }
     },
@@ -27230,6 +27239,127 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod ajoute de nombreux banters à Rasaad."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1980,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Inclus dans [[64]] du même auteur."
+            ]
+        }
+    },
+    {
+        "id": 1981,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Une nouvelle police d'écriture pour les dialogues et le texte flottant notamment, des screens sont disponibles [ici](https://www.shsforums.net/topic/56710-bigger-fonts-for-baldurs-gate/). Disponible en 16, 18 et 20px."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1982,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un mod simple de maison de change, ou plutôt de banque. Au sud-ouest de Baldur's Gate (BG1115), dans une maison, se trouve un changeur qui vous propose de convertir vos pièces d'or en billets de caisse, moyennant des frais de transaction. Vous trouverez ensuite une autre succursale dans une pièce du centre commercial d'Ascatra. Il peut échanger les billets de banque contre des pièces d'or et vous proposer des options d'investissement limitées."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1983,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod est un ensemble d'améliorations apportées aux classes de base du jeu. L'objectif est de renforcer, dans une certaine mesure, les classes intégrées au jeu mais relativement peu puissantes, mais surtout d'en enrichir le contenu et d'en accroître la jouabilité afin de diversifier le gameplay. Actuellement, le mod modifie le Bouffon, le Tueur de Magiciens et le Belluaire."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1984,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Les poètes celtiques ont renoncé à la compétence de vol à la tire, si courante chez les bardes. Ils ne peuvent lancer qu'un nombre limité de sorts, mais leur musique et leurs chants sont empreints de magie : ils peuvent inspirer leurs compagnons, envoûter leur public ou contrer les sorts lancés par la voix."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1985,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod rééquilibre les quatres styles de combat (à une main, deux mains, avec bouclier, deux armes) des personnages."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1986,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose d'ajouter deux kits très complets issus de l'univers de Star Wars : le Jedi et le Sith."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Ces kits sont puissants, il est conseillé de les coupler avec des mods augmentant la difficulté."
+            ]
+        }
+    },
+    {
+        "id": 1987,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute de nouveaux kits pour les classes de Guerrier, de Paladin, de Shaman et de Voleur."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1988,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose des animations uniques des sorts. Pour les sorts protégeant contre les armes, ainsi que plusieurs sorts offensifs notamment aux effets qui infligent du poison."
         },
         "notes": [],
         "notes_meta": {

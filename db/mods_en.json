@@ -941,10 +941,10 @@
     },
     {
         "id": 64,
-        "description": "This mod brings together 3 small mods created by Icendoan:|- [#!Stoneskin](https://www.shsforums.net/files/file/725-elemental-damage-only-stoneskin/) (Elemental Damage Only): applies a permanent stone skin to every character in the game, making gameplay rather strange and... interesting since it renders most weapons and a large number of spells useless.|- #!Lightening: a crazy component that installs a wand behaving like a bag of holding... And yes, spelling mistakes suck...|- #!Brage ([[190]]): adds Brage as a recruitable NPC in BG. He's completely silent, but has a small quest. This mod was created in 40 minutes to celebrate BG1's 10th anniversary.",
+        "description": "This mod brings together 3 small mods created by Icendoan:|- [[1980]] which gives characters permanent stoneskin, radically changing the nature of combat.|- #!Lightening: a crazy component that installs a wand behaving like a bag of holding... And yes, spelling mistakes suck...|- #!Brage ([[190]]): adds Brage as a recruitable NPC in BG. He's completely silent, but has a small quest. This mod was created in 40 minutes to celebrate BG1's 10th anniversary.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod regroupe 3 petits mods créés par Icendoan :|- [#!Stoneskin](https://www.shsforums.net/files/file/725-elemental-damage-only-stoneskin/) (Elemental Damage Only) : applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles.|- #!Lightening : un composant délire qui installe une baguette se comportant comme un sac de contenance... ET oui, les fautes d'orthographe, ça craint...|- #!Brage ([[190]]) : ajoute Brage comme PNJ recrutable dans BG. Il est complètement silencieux, mais a une petite quête. Ce mod a été créé en 40 minutes pour fêter le 10e anniversaire de BG1."
+            "source": "Ce mod regroupe 3 petits mods créés par Icendoan :|- [[1980]] qui donne une peau de pierre permanente aux personnages, impactant radicalement les combats.|- #!Lightening : un composant délire qui installe une baguette se comportant comme un sac de contenance... ET oui, les fautes d'orthographe, ça craint...|- #!Brage ([[190]]) : ajoute Brage comme PNJ recrutable dans BG. Il est complètement silencieux, mais a une petite quête. Ce mod a été créé en 40 minutes pour fêter le 10e anniversaire de BG1."
         },
         "notes": [],
         "notes_meta": {
@@ -2745,12 +2745,12 @@
             "source": "L'auteur de ce mod se vante de l'avoir écrit en 3h47m pour fêter l'anniversaire de BG...|Vous pouvez recruter Brage et accomplir une petite quête."
         },
         "notes": [
-            "It is integrated into the [[64]] mod."
+            "Included in [[64]] by the same author."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Il est intégré dans le mod [[64]]."
+                "Inclus dans [[64]] du même auteur."
             ]
         }
     },
@@ -7104,12 +7104,14 @@
             "source": "Ce mod permet de renvoyer vos compagnons chez eux ou de les faire revenir dans l'Antichambre de Throne of Bhaal, et d'avoir accès à l'épilogue de tous vos compagnons, même ceux qui ne font plus partie de votre groupe... Il permet aussi de les renvoyer sur le continent à partir de l'île de Brynnlaw, juste avant ou après l'étape de Spellhold. Un magasin est inclus (à Brynnlaw)."
         },
         "notes": [
-            "Use the link for the BG2/BGT version and the github link for the BG2EE/EET version."
+            "Use the link for the BG2/BGT version and the github link for the BG2EE/EET version.",
+            "This only works for official recruitable NPCs featured in the original version of BG2."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Utilisez le lien pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
+                "Utilisez le lien pour la version BG2/BGT et le lien github pour la version BG2EE/EET.",
+                "Ne fonctionne que pour les personnages recrutables officiels présents dans la version originelle de BG2."
             ]
         }
     },
@@ -13546,12 +13548,14 @@
             "source": "À ne pas confondre avec [[938]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ."
         },
         "notes": [
-            "It must be installed before [[372]]."
+            "It must be installed before [[372]].",
+            "Select the GitHub version that is EET-compatible."
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Il doit être installé avant [[372]]."
+                "Il doit être installé avant [[372]].",
+                "Choisissez la version github qui est compatible EET."
             ]
         }
     },
@@ -13805,10 +13809,10 @@
     },
     {
         "id": 957,
-        "description": "Sirene is a tiefeline paladin from Illmater with her own Martyr's kit, who can be found in the Radiant Heart headquarters. She doesn't get along with Dorn and Hexxat, and won't follow a character of poor alignment. The mod features friendship and romance dialogs (it's up to the player to show interest) and offers continuity with BG:EE if you've already recruited the character. It includes content related to certain NPCs in other mods, as well as to the Colours of Infinity mods.",
+        "description": "Sirene is a tiefeline paladin from Illmater with her own Martyr's kit, who can be found in the Radiant Heart headquarters. She doesn't get along with Dorn and Hexxat, and won't follow a character of poor alignment. The mod features friendship and romance dialogs (it's up to the player to show interest) and offers continuity with BG:EE if you've already recruited the character. It includes content related to certain NPCs in other mods, as well as to the Colours of Infinity mods.|STR 16, DEX 17, CON 16, INT 12, WIS 14, CHA 17.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr qu'il est possible de rencontrer au quartier général du Cœur Radieux. Elle ne s'entend pas avec Dorn et Hexxat, et ne suivra pas un personnage d'alignement mauvais. Le mod propose des dialogues d'amitié et de romance (c'est au joueur de montrer de l'intérêt) et offre une continuité avec BG:EE si on avait déjà recruté le personnage. Il comporte du contenu en rapport certains PNJ d'autres mods ainsi qu'avec les mods Colours of Infinity."
+            "source": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr qu'il est possible de rencontrer au quartier général du Cœur Radieux. Elle ne s'entend pas avec Dorn et Hexxat, et ne suivra pas un personnage d'alignement mauvais. Le mod propose des dialogues d'amitié et de romance (c'est au joueur de montrer de l'intérêt) et offre une continuité avec BG:EE si on avait déjà recruté le personnage. Il comporte du contenu en rapport certains PNJ d'autres mods ainsi qu'avec les mods Colours of Infinity.|FOR 16, DEX 17, CON 16, INT 12, SAG 14, CHA 17."
         },
         "notes": [],
         "notes_meta": {
@@ -13818,10 +13822,10 @@
     },
     {
         "id": 958,
-        "description": "Sirene is a tiefeline paladin from Illmater with her own Martyr kit (but the player can choose another paladin kit) who can be met at the Temple of Lathander in Beregost. The mod is compatible with Siege of Dragonspear and enables the character to be recruited for the campaign. It includes content related to the [[1215]] and [[1182]] mods by Lava.|STR 15, DEX 17, CON 15, INT 10, WIS 13, CHA 17.",
+        "description": "Sirene is a tiefeline paladin from Illmater with her own Martyr kit (but the player can choose another paladin kit) who can be met at the Temple of Lathander in Beregost. The mod is compatible with Siege of Dragonspear and enables the character to be recruited for the campaign. It includes content related to the [[1215]] and [[1182]] mods by Lava.|STR 15, DEX 17, CON 16, INT 12, WIS 13, CHA 17.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr (mais le joueur peut choisir un autre kit de paladin) qu'il est possible de rencontrer au temple de Lathandre à Bérégost. Le mod est compatible avec Siege of Dragonspear et permet de recruter le personnage pour la campagne. Il comporte du contenu en rapport avec les mods [[1215]] et [[1182]] de Lava.|FOR 15, DEX 17, CON 15, INT 10, SAG 13, CHA 17."
+            "source": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr (mais le joueur peut choisir un autre kit de paladin) qu'il est possible de rencontrer au temple de Lathandre à Bérégost. Le mod est compatible avec Siege of Dragonspear et permet de recruter le personnage pour la campagne. Il comporte du contenu en rapport avec les mods [[1215]] et [[1182]] de Lava.|FOR 15, DEX 17, CON 16, INT 12, SAG 13, CHA 17."
         },
         "notes": [],
         "notes_meta": {
@@ -14731,13 +14735,15 @@
         },
         "notes": [
             "For BG2:EE only, use the adaptation of the Beamdog link, the work of a new author, Musigny, who treats all the components of the original mod as you go along.",
-            "EET-compatible kits translated into French are available in [[1590]]."
+            "EET-compatible kits translated into French are available in [[1590]].",
+            "Most components are incompatible with [[1011]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
                 "Pour BG2:EE seulement, utilisez l'adaptation du lien Beamdog, œuvre d'un nouvel auteur, Musigny, qui traite au fur et à mesure l'ensemble des composants du mod d'origine.",
-                "Les kits traduits en français et compatibles EET sont disponibles dans [[1590]]."
+                "Les kits traduits en français et compatibles EET sont disponibles dans [[1590]].",
+                "La plupart des composants sont incompatibles avec [[1011]]."
             ]
         }
     },
@@ -15140,14 +15146,10 @@
             "status": "needs_review",
             "source": "Ce mod ajoute plusieurs profils dans le jeu et en modifie certains :|- Guerriers : [[60]], Barbare, The Art of Slaughter (Berserker), Art of the Sword Saint (Kensaï), Vanguard (pour Khalid).|- Rôdeurs : Dark Hunter, [[1132]] (pour Minsc).|- Paladins : Divine Champion (Keldorn, Ajantis, Sirene), [[727]], Way of the Anti-Paladin (Chevalier noir).|- Druides : Elementalist, Hivemaster.|- Voleurs : [[1204]] (assassin), Magekiller, Rogue Archer (Imoen), Trickster (Imoen).|- Ensorceleurs : Dragon Disciple ([[908]]), [[794]], Enlightened Fist.|- Shaman : [[1197]].|-Clerc : Sacred Fist ([[908]]."
         },
-        "notes": [
-            "The author seems reluctant to translate this mod."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "L'auteur semble peu enclin à faire traduire ce mod."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16207,14 +16209,12 @@
             "source": "Ce mod permet à vos personnages ayant la capacité de détection des pièges de les révéler automatiquement dès que ceux-ci sont dans leur champ de vision. Il n'y a plus ce délai très pénible qui fait qu'on marche toujours sur les pièges, même avec un voleur en mode détection de pièges dans l'équipe. Par ailleurs, un autre composant permet de récupérer un piège quand on l'a désarmé, à condition d'être capable de le poser."
         },
         "notes": [
-            "Please note: As it patches all areas, we recommend installing it at the end.",
-            "Choose the github link for the French version."
+            "Please note: As it patches all areas, we recommend installing it at the end."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : Comme il patche toutes les zones, il est recommandé de l'installer à la fin.",
-                "Choisissez le lien github pour la version française."
+                "Attention : Comme il patche toutes les zones, il est recommandé de l'installer à la fin."
             ]
         }
     },
@@ -28176,6 +28176,131 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute de nombreux banters à Rasaad."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1980,
+        "description": "Applies a permanent stoneskin to every character in the game, making the gameplay rather strange and... interesting, as it renders most weapons and a large number of spells useless.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles."
+        },
+        "notes": [
+            "Included in [[64]] by the same author."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Inclus dans [[64]] du même auteur."
+            ]
+        }
+    },
+    {
+        "id": 1981,
+        "description": "A new font for dialogue and floating text in particular; screenshots are available [here](https://www.shsforums.net/topic/56710-bigger-fonts-for-baldurs-gate/). Available in 16, 18 and 20px.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Une nouvelle police d'écriture pour les dialogues et le texte flottant notamment, des screens sont disponibles [ici](https://www.shsforums.net/topic/56710-bigger-fonts-for-baldurs-gate/). Disponible en 16, 18 et 20px."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1982,
+        "description": "A simple currency exchange mod, or rather a bank. To the south-west of Baldur's Gate (BG1115), in a house, there is a money changer who offers to convert your gold coins into banknotes, subject to a transaction fee. You will then find another branch in a room in the Ascatra shopping centre. He can exchange banknotes for gold coins and offer you limited investment options.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Un mod simple de maison de change, ou plutôt de banque. Au sud-ouest de Baldur's Gate (BG1115), dans une maison, se trouve un changeur qui vous propose de convertir vos pièces d'or en billets de caisse, moyennant des frais de transaction. Vous trouverez ensuite une autre succursale dans une pièce du centre commercial d'Ascatra. Il peut échanger les billets de banque contre des pièces d'or et vous proposer des options d'investissement limitées."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1983,
+        "description": "This mod is a collection of improvements to the game's base classes. The aim is to bolster, to a certain extent, the classes included in the game that are relatively weak, but above all to enrich their content and enhance their playability in order to diversify the gameplay. Currently, the mod modifies the Jester, the Wizard Slayer and the Beastmaster.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod est un ensemble d'améliorations apportées aux classes de base du jeu. L'objectif est de renforcer, dans une certaine mesure, les classes intégrées au jeu mais relativement peu puissantes, mais surtout d'en enrichir le contenu et d'en accroître la jouabilité afin de diversifier le gameplay. Actuellement, le mod modifie le Bouffon, le Tueur de Magiciens et le Belluaire."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1984,
+        "description": "Celtic bard have abandoned the skill of pickpocketing, so common amongst bards. They can cast only a limited number of spells, but their music and songs are imbued with magic: they can inspire their companions, enchant their audience, or counter spells cast by voice.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Les poètes celtiques ont renoncé à la compétence de vol à la tire, si courante chez les bardes. Ils ne peuvent lancer qu'un nombre limité de sorts, mais leur musique et leurs chants sont empreints de magie : ils peuvent inspirer leurs compagnons, envoûter leur public ou contrer les sorts lancés par la voix."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1985,
+        "description": "This mod rebalances the four combat styles (one-handed, two-handed, shielded, dual-wield) of the characters.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod rééquilibre les quatres styles de combat (à une main, deux mains, avec bouclier, deux armes) des personnages."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1986,
+        "description": "This mod adds two comprehensive kits from the Star Wars universe: the Jedi and the Sith.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose d'ajouter deux kits très complets issus de l'univers de Star Wars : le Jedi et le Sith."
+        },
+        "notes": [
+            "These kits are powerful, so it is advisable to pair them with mods that increase the difficulty."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Ces kits sont puissants, il est conseillé de les coupler avec des mods augmentant la difficulté."
+            ]
+        }
+    },
+    {
+        "id": 1987,
+        "description": "This mod adds new kits for the Warrior, Paladin, Shaman and Thief classes.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute de nouveaux kits pour les classes de Guerrier, de Paladin, de Shaman et de Voleur."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1988,
+        "description": "This mod features unique spell animations. These include spells that provide protection against weapons, as well as several offensive spells, particularly those that inflict poison.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose des animations uniques des sorts. Pour les sorts protégeant contre les armes, ainsi que plusieurs sorts offensifs notamment aux effets qui infligent du poison."
         },
         "notes": [],
         "notes_meta": {

@@ -2129,7 +2129,7 @@
     {
         "id": 64,
         "name": "Archive of Icendoan",
-        "description": "Ce mod regroupe 3 petits mods créés par Icendoan :|- [#!Stoneskin](https://www.shsforums.net/files/file/725-elemental-damage-only-stoneskin/) (Elemental Damage Only) : applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles.|- #!Lightening : un composant délire qui installe une baguette se comportant comme un sac de contenance... ET oui, les fautes d'orthographe, ça craint...|- #!Brage ([[190]]) : ajoute Brage comme PNJ recrutable dans BG. Il est complètement silencieux, mais a une petite quête. Ce mod a été créé en 40 minutes pour fêter le 10e anniversaire de BG1.",
+        "description": "Ce mod regroupe 3 petits mods créés par Icendoan :|- [[1980]] qui donne une peau de pierre permanente aux personnages, impactant radicalement les combats.|- #!Lightening : un composant délire qui installe une baguette se comportant comme un sac de contenance... ET oui, les fautes d'orthographe, ça craint...|- #!Brage ([[190]]) : ajoute Brage comme PNJ recrutable dans BG. Il est complètement silencieux, mais a une petite quête. Ce mod a été créé en 40 minutes pour fêter le 10e anniversaire de BG1.",
         "urls": [
             "https://www.shsforums.net/files/file/726-archive-of-icendoan/"
         ],
@@ -2356,6 +2356,7 @@
         "description": "Cette collection de corrections et de modifications est l'œuvre d'ArtemiusI. Elle comporte divers composants offrant une plus grande variété de races ennemis, de possibilité de métamorphose pour les druides, de bonus de race, de constitution, et bien d'autres choses comme la possibilité pour les moines d'utiliser des bâtons, etc.",
         "urls": [
             "https://artisans-corner.com/house-rules/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/housetweaks",
             "https://www.shsforums.net/files/file/1232-artemius-house-tweaks-for-ee/",
             "https://github.com/TheArtisanBG/House-Rule-Tweaks/"
         ],
@@ -2809,6 +2810,7 @@
         "description": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Dans BG1, vous la trouverez dans le centre de Bérégost, dans BG2 vous la trouverez dans la Promenade de Waukyne après avoir participé à un évènement dans la maison de Jan. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir.|FOR 8, DEX 16, CON 13, INT 19, SAG 14, CHA 15.",
         "urls": [
             "https://artisans-corner.com/aura-npc/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/aura-npc",
             "https://forums.beamdog.com/discussion/65891/",
             "https://github.com/TheArtisanBG/Aura_BG1_BG2_EET/"
         ],
@@ -5410,6 +5412,7 @@
         "description": "Ce mod ajoute 5 nouveaux profils de bardes disposant chacun d'un chant de guerre spécial (Abettor of Mask, Dancer, Deathsinger, Storm Drummer et Troubadour), ainsi qu'un nouveau marchand vendant des objets de barde.",
         "urls": [
             "https://artisans-corner.com/bardic-wonders/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/bardic-wonders",
             "https://www.shsforums.net/files/file/1235-bardic-wonders-for-bgee-bg2ee-and-iwdee/",
             "https://forums.beamdog.com/discussion/62913/",
             "https://github.com/TheArtisanBG/Bardic-Wonders/"
@@ -6356,7 +6359,7 @@
         ],
         "team": [],
         "notes": [
-            "Il est intégré dans le mod [[64]]."
+            "Inclus dans [[64]] du même auteur."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -10481,7 +10484,11 @@
         ],
         "status": "active",
         "last_update": "2013-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                353
+            ]
+        },
         "tp2": "DivineIntervention"
     },
     {
@@ -10863,6 +10870,8 @@
         "name": "Drake NPC for BG:EE",
         "description": "Ce mod vous permet de recruter le prêtre de Tyr Drake Caulfield, d'alignement neutre bon. Vous le trouverez dans l'auberge du Magicien ardent dans BG1 et aux Trois vieux tonneaux dans SoD. Il a une quête de compagnon dans BG1 et initie une quête dans SoD sans avoir besoin de le recruter. L'achèvement de sa quête dans BG1 est obligatoire pour l'achèvement de la voie d'amitié.|Drake est grossier, sarcastique et ne mâche jamais ses mots. Exceptionnellement pragmatique et cynique pour un serviteur de la justice, il suit néanmoins les idéaux de la foi tyrienne, bien que souvent de manière... peu orthodoxe. Il préfère vivre la vie telle qu'elle est plutôt que telle qu'elle devrait être, et s'adonne abondamment à la boisson et aux insinuations. Cela le met en porte-à-faux avec ses pairs, et sa personnalité directe provoque souvent la même chose avec ses compagnons de voyage. Malgré tous ses défauts apparents, Drake est honnête, fiable et souvent plus intelligent que son comportement ne le suggère. Il a un sens aigu de la moralité et choisit de voir le monde autrement qu'en noir et blanc. Il est fortement dévoué à sa famille par-dessus tout, y compris à l'Ordre.|Drake peut se lier d'amitié avec n'importe quel PC d'alignement non-maléfique, et peut être flirté au cours de ses diverses conversations par un PC de n'importe quel sexe et de n'importe quelle race. Bien qu'il puisse répondre amicalement, il n'y a pas de voie romantique dans BG1. Dans Siege of Dragonspear, un PC non maléfique avec un Charisme de 16 ou plus peut flirter avec lui pendant son dialogue d'amitié, ce qui peut amorcer une branche romantique.",
         "urls": [
+            "https://artisans-corner.com/drake-npc-for-bgee/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/drake-bg1",
             "https://forums.beamdog.com/discussion/62339/",
             "https://github.com/TheArtisanBG/Drake/"
         ],
@@ -16423,7 +16432,8 @@
         ],
         "team": [],
         "notes": [
-            "Utilisez le lien pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
+            "Utilisez le lien pour la version BG2/BGT et le lien github pour la version BG2EE/EET.",
+            "Ne fonctionne que pour les personnages recrutables officiels présents dans la version originelle de BG2."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -18579,7 +18589,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-01",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "Ishlilkamod"
     },
@@ -19634,6 +19644,7 @@
         "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Karihi, une génasi du feu pyromancienne chaotique neutre, originaire de la terre éloignée du Gélointain (Frozenfar). C'est une noble déchu au passé plutôt désagréable. Comme il sied à son héritage de genasi du feu, elle est fougueuse, autoritaire, colérique et prompte à s'offenser, ainsi que sûre d'elle et arrogante, mais ses compétences en tant que pyromancienne et érudite sont indéniablement impressionnantes. Et elle ferait un puissant mage... à condition que l'on puisse tolérer son arrogance et ses plaintes sans fin à l'égard du froid et des longues randonnées à travers l'Épine dorsale du Monde. Vous la trouverez à Havredest, devant l'auberge des congères... grelottante et se plaignant du vent d'hiver.|Karihi a une série de dialogues d'amitié tout au long du jeu, et un PC masculin humain, elfe ou demi-elfe avec au moins de 9 de Charisme peut commencer une romance avec elle. Par ailleurs, un PC mage pourra apprendre quelques sorts de pyromancie.|FOR 10, DEX 18, CON 16, INT 19, SAG 13, CHA 13",
         "urls": [
             "https://artisans-corner.com/karihi/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/iwdnpcs",
             "https://forums.beamdog.com/discussion/79340/",
             "https://github.com/TheArtisanBG/KarihiNPC/"
         ],
@@ -22836,6 +22847,7 @@
         "description": "Pour ceux qui ont aimé voyager avec Aura de [[83]] (ainsi que pour ceux qui attendent la suite de BG2), voici une autre compagne dans la même veine pour IWD:EE : Minerva Gwyndoline Glimmershine, une gnome guerrière neutre bonne. Minerva Glimmershine est la grand-mère paternelle d'Aura et une aventurière à l'esprit libre. Sûre d'elle, audacieuse et pleine d'entrain, elle sautera sur l'occasion de rejoindre le groupe à Havredest, et sera une compagne précieuse grâce à ses talents d'artificière, son expertise du lancer de couteau et son optimisme sans limite. Le mod comprend une voie d'amitié et une romance.|FOR 12, DEX 17, CON 15, INT 19, SAG 10, CHA 16.",
         "urls": [
             "https://artisans-corner.com/minerva/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/iwdnpcs",
             "https://forums.beamdog.com/discussion/79339/",
             "https://github.com/TheArtisanBG/MinervaNPC/"
         ],
@@ -23075,7 +23087,9 @@
             "IWD2",
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Nikolaj"
+        ],
         "team": [],
         "notes": [
             "Cependant, comme ce mod est très ancien, préférez-lui d'autres plus récents et plus performants comme le [[307]], sa version révisée et compatible avec les jeux EE, ou [[1141]]."
@@ -24735,7 +24749,8 @@
             "BGT"
         ],
         "authors": [
-            "Vlad"
+            "Vlad",
+            "Larrienne"
         ],
         "team": [],
         "notes": [
@@ -24748,7 +24763,17 @@
         ],
         "status": "active",
         "last_update": "2015-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "Vlad's Compilation",
+                "ToB"
+            ],
+            "incompatible_with": [
+                226,
+                936,
+                1062
+            ]
+        },
         "tp2": "NeJ3v71"
     },
     {
@@ -26101,6 +26126,7 @@
         "description": "Ce mod fait de Pai'Na, la druidesse semi-drow neutre stricte du district du cimetière, un PNJ recrutable avec des banters et des interjections. Elle est dotée du kit Hivemaster du mod [[1048]].|FOR 10, DEX 18, CON 15, INT 14, SAG 16, CHA 15",
         "urls": [
             "https://artisans-corner.com/paina-npc-for-bg2ee/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/paina-bg2",
             "https://forums.beamdog.com/discussion/43113/",
             "https://github.com/TheArtisanBG/Pai-Na-NPC-mod-for-BG2-EE/"
         ],
@@ -29129,13 +29155,22 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "es",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "kr",
+            "pl",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "2012-01",
+        "last_update": "2013-03",
         "compatibilities": {},
-        "tp2": "n/a"
+        "tp2": "txtmusic"
     },
     {
         "id": 879,
@@ -31008,6 +31043,7 @@
         "description": "Ce mod ajoute une nouvelle école de magie : la toile de l'ombre, créée par Shar. Vous pourrez jouer un Adapte de l'ombre avec plus de 100 sorts spéciaux. N'oubliez pas que si la magie de l'ombre est plus puissante que la magie ordinaire, elle est aussi dangereuse, car elle draine la force vitale de l'utilisateur.|Le composant principal installe les profils d'Adepte de l'ombre (mage), Disciple de l'ombre (ensorceleur) et Chanteur de la nuit (barde), ainsi que les sorts de l'école de magie et des familiers exclusifs.|Il dispose aussi de plusieurs composants optionnels :|- Installer le profil de Moine de l'ombre (physiquement plus faible qu'un moine ordinaire, il peut poignarder dans le dos, drainer des points de vie avec des attaques de mêlée et lancer une sélection limitée de sorts de la toile de l'ombre).|- BG:EE : ajoute plusieurs rencontres contre des Adeptes de l'ombre ainsi qu'un nouveau magasin vendant des objets utilisables par les adeptes de l'ombre.|- BG2:EE : modifie le Seigneur de l'ombre qui dispose d'une nouvelle capacité destinée aux adeptes de l'ombre avides de pouvoir et de sorts de la toile de l'ombre pour rendre la rencontre plus difficile.",
         "urls": [
             "https://artisans-corner.com/shadow-magic/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/shadowmagic",
             "https://github.com/TheArtisanBG/Shadow-Magic/"
         ],
         "categories": [
@@ -31190,33 +31226,35 @@
     },
     {
         "id": 939,
-        "name": "Shar-Teel NPC for SoD",
+        "name": "Sharteel NPC for SoD",
         "description": "À ne pas confondre avec [[938]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ.",
         "urls": [
             "https://www.shsforums.net/files/file/1164-sharteel-npc-mod-for-sod/",
             "https://forums.beamdog.com/discussion/62941/",
-            "https://github.com/yellow-hat-elminster/Sharteel-NPC-SoD"
+            "https://github.com/11jo/Sharteel-NPC-SoD"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
-            "SoD"
+            "SoD",
+            "EET"
         ],
         "authors": [
             "elminster"
         ],
         "team": [],
         "notes": [
-            "Il doit être installé avant [[372]]."
+            "Il doit être installé avant [[372]].",
+            "Choisissez la version github qui est compatible EET."
         ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "archived",
-        "last_update": "2020-10",
+        "status": "wip",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "k9SharteelNPC"
     },
@@ -31797,9 +31835,10 @@
     {
         "id": 957,
         "name": "Sirene NPC for BG2:EE",
-        "description": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr qu'il est possible de rencontrer au quartier général du Cœur Radieux. Elle ne s'entend pas avec Dorn et Hexxat, et ne suivra pas un personnage d'alignement mauvais. Le mod propose des dialogues d'amitié et de romance (c'est au joueur de montrer de l'intérêt) et offre une continuité avec BG:EE si on avait déjà recruté le personnage. Il comporte du contenu en rapport certains PNJ d'autres mods ainsi qu'avec les mods Colours of Infinity.",
+        "description": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr qu'il est possible de rencontrer au quartier général du Cœur Radieux. Elle ne s'entend pas avec Dorn et Hexxat, et ne suivra pas un personnage d'alignement mauvais. Le mod propose des dialogues d'amitié et de romance (c'est au joueur de montrer de l'intérêt) et offre une continuité avec BG:EE si on avait déjà recruté le personnage. Il comporte du contenu en rapport certains PNJ d'autres mods ainsi qu'avec les mods Colours of Infinity.|FOR 16, DEX 17, CON 16, INT 12, SAG 14, CHA 17.",
         "urls": [
             "https://artisans-corner.com/sirene-npc-for-bg2ee/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/sirene-bg2",
             "https://forums.beamdog.com/discussion/62163",
             "https://github.com/TheArtisanBG/Sirene-NPC-for-BG2-EE/"
         ],
@@ -31828,9 +31867,10 @@
     {
         "id": 958,
         "name": "Sirene NPC for BG:EE",
-        "description": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr (mais le joueur peut choisir un autre kit de paladin) qu'il est possible de rencontrer au temple de Lathandre à Bérégost. Le mod est compatible avec Siege of Dragonspear et permet de recruter le personnage pour la campagne. Il comporte du contenu en rapport avec les mods [[1215]] et [[1182]] de Lava.|FOR 15, DEX 17, CON 15, INT 10, SAG 13, CHA 17.",
+        "description": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr (mais le joueur peut choisir un autre kit de paladin) qu'il est possible de rencontrer au temple de Lathandre à Bérégost. Le mod est compatible avec Siege of Dragonspear et permet de recruter le personnage pour la campagne. Il comporte du contenu en rapport avec les mods [[1215]] et [[1182]] de Lava.|FOR 15, DEX 17, CON 16, INT 12, SAG 13, CHA 17.",
         "urls": [
             "https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/sirene-bg1",
             "https://forums.beamdog.com/discussion/42721/",
             "https://github.com/TheArtisanBG/Sirene-BG1/"
         ],
@@ -32205,7 +32245,11 @@
         ],
         "status": "active",
         "last_update": "2025-02",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "SlightlyImprovedIlyich"
     },
     {
@@ -33961,7 +34005,8 @@
         "team": [],
         "notes": [
             "Pour BG2:EE seulement, utilisez l'adaptation du lien Beamdog, œuvre d'un nouvel auteur, Musigny, qui traite au fur et à mesure l'ensemble des composants du mod d'origine.",
-            "Les kits traduits en français et compatibles EET sont disponibles dans [[1590]]."
+            "Les kits traduits en français et compatibles EET sont disponibles dans [[1590]].",
+            "La plupart des composants sont incompatibles avec [[1011]]."
         ],
         "translation_state": "auto",
         "safe": 1,
@@ -34876,6 +34921,7 @@
         "description": "Ce mod ajoute plusieurs profils dans le jeu et en modifie certains :|- Guerriers : [[60]], Barbare, The Art of Slaughter (Berserker), Art of the Sword Saint (Kensaï), Vanguard (pour Khalid).|- Rôdeurs : Dark Hunter, [[1132]] (pour Minsc).|- Paladins : Divine Champion (Keldorn, Ajantis, Sirene), [[727]], Way of the Anti-Paladin (Chevalier noir).|- Druides : Elementalist, Hivemaster.|- Voleurs : [[1204]] (assassin), Magekiller, Rogue Archer (Imoen), Trickster (Imoen).|- Ensorceleurs : Dragon Disciple ([[908]]), [[794]], Enlightened Fist.|- Shaman : [[1197]].|-Clerc : Sacred Fist ([[908]].",
         "urls": [
             "https://artisans-corner.com/the-artisans-kitpack/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/kitpack",
             "https://forums.beamdog.com/discussion/75663/",
             "https://github.com/TheArtisanBG/The-Artisan-s-Kitpack/"
         ],
@@ -34893,9 +34939,7 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [
-            "L'auteur semble peu enclin à faire traduire ce mod."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -35348,7 +35392,8 @@
             "en",
             "ru",
             "cn",
-            "it"
+            "it",
+            "pl"
         ],
         "status": "active",
         "last_update": "2024-09",
@@ -37500,8 +37545,7 @@
         "name": "Trap Overhaul",
         "description": "Ce mod permet à vos personnages ayant la capacité de détection des pièges de les révéler automatiquement dès que ceux-ci sont dans leur champ de vision. Il n'y a plus ce délai très pénible qui fait qu'on marche toujours sur les pièges, même avec un voleur en mode détection de pièges dans l'équipe. Par ailleurs, un autre composant permet de récupérer un piège quand on l'a désarmé, à condition d'être capable de le poser.",
         "urls": [
-            "https://forums.beamdog.com/discussion/71763/",
-            "https://github.com/Plutonium-X/MISC_Traps"
+            "https://forums.beamdog.com/discussion/71763/"
         ],
         "categories": [
             "Gameplay"
@@ -37517,17 +37561,15 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Comme il patche toutes les zones, il est recommandé de l'installer à la fin.",
-            "Choisissez le lien github pour la version française."
+            "Attention : Comme il patche toutes les zones, il est recommandé de l'installer à la fin."
         ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en",
-            "fr"
+            "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2024-09",
         "compatibilities": {},
         "tp2": "Trap_Overhaul"
     },
@@ -39910,6 +39952,8 @@
         "name": "Warlock Kit",
         "description": "Ce mod ajoute un profil de barde qui fonctionne comme un véritable Warlock. C'était pour l'auteur la seule manière de créer une classe supplémentaire.",
         "urls": [
+            "https://artisans-corner.com/warlock/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/warlock",
             "https://www.shsforums.net/files/file/1233-warlock-mod-for-bgee-bg2ee-and-iwdee/",
             "https://forums.beamdog.com/discussion/69177/",
             "https://github.com/TheArtisanBG/Warlock/"
@@ -47645,6 +47689,7 @@
         "name": "Convenience Script Mod",
         "description": "Ce mod ajoute un script qui fournit des fonctionnalités d'attaque de base ainsi que des touches de raccourcis pour activer certaines fonctions confort. Les fonctions confort ne peuvent être activées qu'en dehors des combats. Par exemple la touche `B` permet d'incanter instantanément pendant 1 round, notamment pour simplifier les préparations.|Plus de détails dans le README.",
         "urls": [
+            "https://www.shsforums.net/files/file/1131-convenience-script/",
             "https://forums.beamdog.com/discussion/40051/",
             "https://github.com/pcurrivan/ConvenienceScript"
         ],
@@ -49602,6 +49647,8 @@
         "name": "Candlekeep Revisited",
         "description": "Ce mod ajoute du contenu au prologue souvent considéré comme fastidieux du premier Baldur's Gate, en ajoutant de « nouveaux » PNJ, des dialogues plus longs avec Gorion et vos connaissances d'enfance, l'option permettant à Imoen de vous rejoindre dans votre dernière errance autour de Château-Suif, ainsi que beaucoup, beaucoup de scènes supplémentaires, y compris une séquence de départ basée sur la classe de votre personnage principal avec divers bonus de départ.",
         "urls": [
+            "https://artisans-corner.com/candlekeep-revisited-2/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/candlere",
             "https://github.com/TheArtisanBG/Candlekeep-Revisited/"
         ],
         "categories": [
@@ -49750,6 +49797,7 @@
         "description": "Ce mod ajoute un personnage recrutable : K’Velarin. Un drow Guerrier/Mage/Voleur d'alignement loyal mauvais. Bien que vous puissiez le rencontrer plusieurs fois dans le jeu, il n'est recrutable qu'à partir du chapitre 5. Contrairement à ce que son alignement laisse penser, il faut une réputation de 15 minimum ou un Charisme de 18 pour pouvoir l'intégrer dans le groupe.|FOR 18/78, DEX 15, CON 17, INT 17, SAG 13, CHA 8.",
         "urls": [
             "https://artisans-corner.com/kvel/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/kvel-bg1",
             "https://github.com/TheArtisanBG/Kvel-BG1/"
         ],
         "categories": [
@@ -50374,6 +50422,7 @@
         "description": "Ce mod ajoute une nouvelle façon de voyager à travers la Côte de l'Épée, en ajoutant des Maîtres de Caravane que vous pouvez engager pour vous amener à certains endroits sur la carte avec seulement la moitié du temps de voyage et sans risque de rencontres aléatoires. Vous arriverez sur place bien reposé, avec vos sorts et vos capacités restaurés, ce qui vous permettra d'économiser des heures, voire des jours de jeu. Cependant, ce genre de service n'est pas gratuit, car vous devez payer 10 or par heure de voyage pour chaque membre du groupe. Les frais de déplacement ne sont pas donnés, après tout.",
         "urls": [
             "https://artisans-corner.com/caravans-of-faerun/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/minimods",
             "https://github.com/TheArtisanBG/Caravans-of-Faerun/"
         ],
         "categories": [
@@ -50620,6 +50669,7 @@
         "name": "The Artisan's Corner: Shaman Tweaks",
         "description": "Ce mod cherche à rendre cohérente la classe du Shaman en calquant sa progression en expérience sur celle du Clerc plutôt que sur celle de l'Ensorceleur. Il ajuste également sa vitesse d'apprentissage de sorts et le nombre d'incantations quotidiennes à un rythme plus cohérent.",
         "urls": [
+            "https://theartisanbg.github.io/The-Artisans-Corner/minimods",
             "https://github.com/TheArtisanBG/Artisans-Shaman-Tweaks/"
         ],
         "categories": [
@@ -52111,6 +52161,7 @@
         "description": "Ce mod propose Nirik Bannerstone, un druide nain neutre strict.|FOR 12, DEX 16, CON 16, INT 14, SAG 16, CHA 15",
         "urls": [
             "https://artisans-corner.com/iwdee-npcs/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/iwdnpcs",
             "https://github.com/TheArtisanBG/IWD-Nirik-NPC/"
         ],
         "categories": [
@@ -52140,6 +52191,7 @@
         "description": "Ce mod propose Guldruk, un demi-orc Kensaï loyal bon.|FOR 19, DEX 12, CON 16, INT 16, SAG 17, CHA 12",
         "urls": [
             "https://artisans-corner.com/iwdee-npcs/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/iwdnpcs",
             "https://github.com/TheArtisanBG/IWD-Guldruk-NPC/"
         ],
         "categories": [
@@ -52169,6 +52221,7 @@
         "description": "Ce mod propose Athanasios, un halfling chaotique bon prêtre de Tempus. Il possède son propre set de voix.|FOR 17, DEX 17, CON 16, INT 12, SAG 16, CHA 9",
         "urls": [
             "https://artisans-corner.com/iwdee-npcs/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/iwdnpcs",
             "https://github.com/TheArtisanBG/IWD-Athanasios-NPC/"
         ],
         "categories": [
@@ -52197,6 +52250,7 @@
         "name": "Frostforged",
         "description": "Ce mod propose un pack d'objets et un rebalancement des objets pour IWDEE.",
         "urls": [
+            "https://theartisanbg.github.io/The-Artisans-Corner/frostforged",
             "https://github.com/TheArtisanBG/IWDEE-Frostforged/"
         ],
         "categories": [
@@ -52468,14 +52522,22 @@
             "IWDEE"
         ],
         "authors": [
-            "Wes Weimer"
+            "Wes Weimer",
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "fr"
+            "fr",
+            "en",
+            "cn",
+            "de",
+            "it",
+            "pl",
+            "ru",
+            "es"
         ],
         "status": "active",
         "last_update": "2026-04",
@@ -59850,12 +59912,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en",
             "es"
         ],
-        "status": "wip",
+        "status": "active",
         "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "TPoJ"
@@ -60317,6 +60379,7 @@
         "name": "The Amazing Pocket Wardrobe Mod",
         "description": "The Amazing Pocket Wardrobe est un mod qui vous permet de personnaliser librement l'apparence de votre personnage parmi tous les sprites jouables, vous permettant de modifier à votre guise votre sexe visible, votre race, votre classe, votre niveau d'armure et la visibilité de votre casque.",
         "urls": [
+            "https://theartisanbg.github.io/The-Artisans-Corner/minimods",
             "https://github.com/TheArtisanBG/Pocket-Wardrobe/"
         ],
         "categories": [
@@ -62137,7 +62200,7 @@
             "https://github.com/TheArtisanBG/Artisans-Font-Pack/"
         ],
         "categories": [
-            "Cosmétique"
+            "Interface"
         ],
         "games": [
             "BGEE",
@@ -62164,6 +62227,7 @@
         "description": "Un projet de mod par épisode visant à prolonger la fin de Baldur's Gate: Shadows of Amn, commençant par une suite jouable, avec l'intention d'ajouter un interlude à part entière afin de mieux faire le lien entre Shadows of Amn et Throne of Bhaal, mettant en scène les elfes de Suldanessalar, certains visages familiers et un nouvel antagoniste.|`Épisode I - Le calme avant la tempête` : Irenicus est vaincu. La paix est revenue à Suldanessalar, et la vie semble reprendre son cours normal. À la demande de la grande prêtresse elfe, l'enfant de Bhaal et ses compagnons sont restés dans la cité elfique en tant que sauveurs et invités d'honneur, tandis que les citoyens se préparent pour le Festival de la Floraison, une cérémonie destinée à restaurer le moral des habitants.|`Épisode II - Festival de la Floraison` : en cours de réalisation.",
         "urls": [
             "https://artisans-corner.com/shadows-of-amn-extended/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/soaextended",
             "https://github.com/TheArtisanBG/SoAExtended/"
         ],
         "categories": [
@@ -62286,6 +62350,7 @@
         "description": "Ce mod ajoute une longue histoire d'amour avec Mazzy, la charmante chevalier petite-personne.|Il comprend 20 conversations chronométrées ainsi que diverses conversations liées à des événements dans Shadows of Amn, 8 conversations dans ToB, un épilogue romantique avec de petites variations en fonction de vos choix personnels et des circonstances, et les événements habituels liés à la romance.|Pour activer la romance, si vous remplissez les conditions requises (alignement non mauvais), vous devez avoir une réputation de 15 ou plus.",
         "urls": [
             "https://artisans-corner.com/mazzy-romance/",
+            "https://theartisanbg.github.io/The-Artisans-Corner/mazzyrom-bg2",
             "https://github.com/TheArtisanBG/Mazzy-Romance-BG2EE/"
         ],
         "categories": [
@@ -62315,6 +62380,7 @@
         "name": "Heart of Winter Ending Tweak",
         "description": "Une petite modification permettant de changer la fin de l'extension Heart of Winter pour IWD:EE (lorsque vous jouez à partir de la campagne principale) afin que l'extension ne se termine pas immédiatement après avoir vaincu le boss final. Vous pourrez retourner à Lonelywood et terminer toute tâche inachevée, ainsi que jouer à Trials of the Luremaster si vous le souhaitez, et terminer l'extension quand vous le souhaitez en parlant à Hjollder.",
         "urls": [
+            "https://theartisanbg.github.io/The-Artisans-Corner/minimods",
             "https://github.com/TheArtisanBG/HoWMod/"
         ],
         "categories": [
@@ -64391,6 +64457,7 @@
         "name": "Rasaad Expansion for Baldur's Gate: Enhanced Edition",
         "description": "Ce mod ajoute de nombreux banters à Rasaad.",
         "urls": [
+            "https://theartisanbg.github.io/The-Artisans-Corner/rasaad-bg1.html",
             "https://github.com/TheArtisanBG/Rasaad-Expansion-BG1/"
         ],
         "categories": [
@@ -64414,5 +64481,284 @@
         "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "Artisans_Rasaad_BG1"
+    },
+    {
+        "id": 1980,
+        "name": "Stoneskin",
+        "description": "Applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles.",
+        "urls": [
+            "https://www.shsforums.net/files/file/725-elemental-damage-only-stoneskin/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Icendoan"
+        ],
+        "team": [],
+        "notes": [
+            "Inclus dans [[64]] du même auteur."
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "embed",
+        "last_update": "2009-02",
+        "compatibilities": {},
+        "tp2": "#!stoneskin"
+    },
+    {
+        "id": 1981,
+        "name": "Delfosse Fonts",
+        "description": "Une nouvelle police d'écriture pour les dialogues et le texte flottant notamment, des screens sont disponibles [ici](https://www.shsforums.net/topic/56710-bigger-fonts-for-baldurs-gate/). Disponible en 16, 18 et 20px.",
+        "urls": [
+            "https://www.shsforums.net/files/file/1087-delfosse-fontszip/"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BG",
+            "BG2"
+        ],
+        "authors": [
+            "Delfosse",
+            "Luc J. Bourhis"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2014-06",
+        "compatibilities": {},
+        "tp2": "Delfosse-Fonts"
+    },
+    {
+        "id": 1982,
+        "name": "Bank Mod",
+        "description": "Un mod simple de maison de change, ou plutôt de banque. Au sud-ouest de Baldur's Gate (BG1115), dans une maison, se trouve un changeur qui vous propose de convertir vos pièces d'or en billets de caisse, moyennant des frais de transaction. Vous trouverez ensuite une autre succursale dans une pièce du centre commercial d'Ascatra. Il peut échanger les billets de banque contre des pièces d'or et vous proposer des options d'investissement limitées.",
+        "urls": [
+            "https://trow.cc/board/showtopic=11707",
+            "https://github.com/trow/BankMod"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BGT",
+            "EET"
+        ],
+        "authors": [
+            "archenemy"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2026-02",
+        "compatibilities": {},
+        "tp2": "BankMod"
+    },
+    {
+        "id": 1983,
+        "name": "Improved Kits",
+        "description": "Ce mod est un ensemble d'améliorations apportées aux classes de base du jeu. L'objectif est de renforcer, dans une certaine mesure, les classes intégrées au jeu mais relativement peu puissantes, mais surtout d'en enrichir le contenu et d'en accroître la jouabilité afin de diversifier le gameplay. Actuellement, le mod modifie le Bouffon, le Tueur de Magiciens et le Belluaire.",
+        "urls": [
+            "https://github.com/trow/Improved_Kits"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "c4_angel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {},
+        "tp2": "c4ImprovedKits"
+    },
+    {
+        "id": 1984,
+        "name": "Celtic Bard",
+        "description": "Les poètes celtiques ont renoncé à la compétence de vol à la tire, si courante chez les bardes. Ils ne peuvent lancer qu'un nombre limité de sorts, mais leur musique et leurs chants sont empreints de magie : ils peuvent inspirer leurs compagnons, envoûter leur public ou contrer les sorts lancés par la voix.",
+        "urls": [
+            "https://github.com/trow/Celtic_Bard"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "c4_angel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {},
+        "tp2": "c4CelticBard"
+    },
+    {
+        "id": 1985,
+        "name": "Weapon Style Rebalance",
+        "description": "Ce mod rééquilibre les quatres styles de combat (à une main, deux mains, avec bouclier, deux armes) des personnages.",
+        "urls": [
+            "https://github.com/trow/Weapon_Style_Rebalance"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "SoD",
+            "IWDEE"
+        ],
+        "authors": [
+            "c4_angel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn",
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {},
+        "tp2": "c4WSREE"
+    },
+    {
+        "id": 1986,
+        "name": "Eternal Force",
+        "description": "Ce mod propose d'ajouter deux kits très complets issus de l'univers de Star Wars : le Jedi et le Sith.",
+        "urls": [
+            "https://github.com/trow/EternalForce"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "c4_angel"
+        ],
+        "team": [],
+        "notes": [
+            "Ces kits sont puissants, il est conseillé de les coupler avec des mods augmentant la difficulté."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {},
+        "tp2": "c4EternalForce"
+    },
+    {
+        "id": 1987,
+        "name": "Kits Rework",
+        "description": "Ce mod ajoute de nouveaux kits pour les classes de Guerrier, de Paladin, de Shaman et de Voleur.",
+        "urls": [
+            "https://github.com/trow/Qin06Kits_Rework"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "SoD"
+        ],
+        "authors": [
+            "c4_angel",
+            "Qinsisuo06"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {},
+        "tp2": "c4Q06KitPack"
+    },
+    {
+        "id": 1988,
+        "name": "Pretty Spells",
+        "description": "Ce mod propose des animations uniques des sorts. Pour les sorts protégeant contre les armes, ainsi que plusieurs sorts offensifs notamment aux effets qui infligent du poison.",
+        "urls": [
+            "https://github.com/trow/PrettySpells"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "SoD"
+        ],
+        "authors": [
+            "c4_angel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn",
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-01",
+        "compatibilities": {},
+        "tp2": "PrettySpells"
     }
 ]
