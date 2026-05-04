@@ -64926,35 +64926,6 @@
     },
     {
         "id": 1993,
-        "name": "Leshy Kit",
-        "description": "Ce kit de rôdeur possède la capacité de se métamorphoser en loup. La transformation pogresse de niveau en niveau. À haut niveau il peut se transformer en loup-garou et même plus.",
-        "urls": [
-            "https://athkatla.cob-bg.pl/viewtopic.php?t=6608&postdays=0&postorder=asc&start=30"
-        ],
-        "categories": [
-            "Kit"
-        ],
-        "games": [
-            "BGEE",
-            "BG2EE"
-        ],
-        "authors": [
-            "Ruffle_truffle"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "auto",
-        "safe": 2,
-        "languages": [
-            "pl"
-        ],
-        "status": "active",
-        "last_update": "2017-12",
-        "compatibilities": {},
-        "tp2": "Leszy"
-    },
-    {
-        "id": 1993,
         "name": "Milkliwy asceta",
         "description": "Ascète silencieux. Ce kit de moine possède le don de rendre silencieux ses adversaires.",
         "urls": [
@@ -65010,5 +64981,34 @@
         "last_update": "2017-12",
         "compatibilities": {},
         "tp2": "Politheist"
+    },
+    {
+        "id": 1995,
+        "name": "Leshy Kit",
+        "description": "Ce kit de rôdeur possède la capacité de se métamorphoser en loup. La transformation pogresse de niveau en niveau. À haut niveau il peut se transformer en loup-garou et même plus.",
+        "urls": [
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=6608&postdays=0&postorder=asc&start=30"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Ruffle_truffle"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2017-12",
+        "compatibilities": {},
+        "tp2": "Leszy"
     }
 ]

@@ -8718,7 +8718,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Vous rencontrerez le guerrier Bons, amateur de bière, au deuxième niveau du donjon d'Irenicus. Il a son propre kit. Lorsqu'il est ivre, il a des capacités spéciales - et parfois des problèmes avec l'alcool.Vous trouverez de l'alcool à acheter dans certaines échoppes.|FOR 17, DEX 18, CON 17, INT 13, SAG 11, CHA 11."
+            "source": "Vous rencontrerez le guerrier Bons, amateur de bière, au deuxième niveau du donjon d'Irenicus. Il a son propre kit. Lorsqu'il est ivre, il a des capacités spéciales - et parfois des problèmes avec l'alcool. Vous trouverez de l'alcool à acheter dans certaines échoppes.|FOR 17, DEX 18, CON 17, INT 13, SAG 11, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -20524,7 +20524,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "La version cob n'est plus à jour mais possède la version polonaise."
+                "La version cob n'est plus à jour mais possède la traduction polonaise."
             ]
         }
     },
@@ -23066,7 +23066,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Ce mod converti le texte des objets modifiés en polonais. Il nécessite [[761]] en version 2.01."
+                "Ce mod converti le texte des objets modifiés en polonais."
             ]
         }
     },
@@ -27443,6 +27443,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Les polythéistes ne sont pas des clercs qui croient en de nombreux dieux, mais qui en vénèrent deux ou (au maximum et le plus souvent) trois. La tradition récente du « polythéisme » trouve son origine dans la trinité – l’alliance entre Helm, Tyr et Torm."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1995,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce kit de rôdeur possède la capacité de se métamorphoser en loup. La transformation pogresse de niveau en niveau. À haut niveau il peut se transformer en loup-garou et même plus."
         },
         "notes": [],
         "notes_meta": {

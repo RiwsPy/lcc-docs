@@ -23910,7 +23910,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Ce mod converti le texte des objets modifiés en polonais. Il nécessite [[761]] en version 2.01."
+                "Ce mod converti le texte des objets modifiés en polonais."
             ]
         }
     },
@@ -28390,6 +28390,19 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Les polythéistes ne sont pas des clercs qui croient en de nombreux dieux, mais qui en vénèrent deux ou (au maximum et le plus souvent) trois. La tradition récente du « polythéisme » trouve son origine dans la trinité – l’alliance entre Helm, Tyr et Torm."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1995,
+        "description": "This ranger kit has the ability to transform into a wolf. The transformation progresses as the character levels up. At high levels, the character can transform into a werewolf and even more.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce kit de rôdeur possède la capacité de se métamorphoser en loup. La transformation pogresse de niveau en niveau. À haut niveau il peut se transformer en loup-garou et même plus."
         },
         "notes": [],
         "notes_meta": {
