@@ -1923,9 +1923,9 @@
             "注意：只有GitHub版本也兼容EET。此外，这是最新的更新。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Si vous envisagez d'installer ce mod, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]], ni le mod [[133]], puisque tous modifient la même chose.",
+                "Si vous envisagez d'installer ce mod, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]] puisqu'ils modifient la même chose.",
                 "Attention : seule la version de GitHub est aussi compatible EET. En plus, c'est la dernière mise à jour."
             ]
         }
@@ -1969,10 +1969,10 @@
             "注意：只有GitHub版本也兼容EET。此外，这是最新的更新。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
                 "Attention : Certains joueurs ont signalé que la combinaison de ce mod et de [[1011]] (monstres plus intelligents) pourrait s'avérer un redoutable défi !",
-                "Si vous envisagez d'installer BGSpawn, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]], ni le [[130]], puisque tous modifient la même chose.",
+                "Si vous envisagez d'installer BGSpawn, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]] puisqu'ils modifient la même chose.",
                 "Attention : seule la version de GitHub est aussi compatible EET. En plus, c'est la dernière mise à jour."
             ]
         }
@@ -2011,8 +2011,8 @@
         "id": 136,
         "description": "这个模组为队友角色提供了十几个新脚本。它可以安装在博德之门Ⅱ、博德之门三部曲、博德之门：增强版和博德之门Ⅱ：增强版上。它特别包含了为黑暗卫士和影舞者宗派定制的脚本。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod propose plus d'une douzaine de nouveaux scripts pour les personnages de l'équipe. Il peut être installé indifféremment sur BGII, BGT, BG:EE et BG2:EE. Il comprend notamment des scripts adaptés aux kits de Chevalier noir et de Maître des ombres."
+            "status": "needs_review",
+            "source": "Ce mod propose plus d'une douzaine de nouveaux scripts pour les personnages de l'équipe. Il comprend notamment des scripts adaptés aux kits de Chevalier noir et de Maître des ombres."
         },
         "notes": [],
         "notes_meta": {
@@ -2037,8 +2037,8 @@
         "id": 138,
         "description": "此模组旨在让《博德之门》中的敌人变得更强（它修改了超过130个生物）。它需要《剑湾传奇》和模组[[287]]。|其下载链接已丢失。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod avait pour vocation de rendre les adversaires beaucoup plus forts dans Baldur's Gate (il modifiait plus de 130 créatures). Il nécessitait TotSC et le mod [[287]].|Son lien de téléchargement a disparu."
+            "status": "needs_review",
+            "source": "Ce mod avait pour vocation de rendre les adversaires beaucoup plus forts dans Baldur's Gate (il modifiait plus de 130 créatures)."
         },
         "notes": [],
         "notes_meta": {
@@ -2063,13 +2063,15 @@
         "id": 140,
         "description": "这两个下载链接已丢失的小型模组是为BG1Tutu设计的。第一个提供了潜行攻击脚本，第二个则让寇涛鱼人能从《怪物手册》预设的武器列表中随机选择近战武器。",
         "description_meta": {
-            "status": "done",
-            "source": "Ces deux mini mods dont le lien de téléchargement a été perdu ont été conçus pour BG1Tutu. Le premier fournissait un script d'attaque sournoise et le second dotait les kobolds d'armes de mêlée choisies aléatoirement dans la liste d'armes prévues par le Manuel des monstres."
+            "status": "needs_review",
+            "source": "Ce mod contient deux mini mods. Le premier fournissait un script d'attaque sournoise pour Tutu et le second dotait les kobolds d'armes de mêlée choisies aléatoirement dans la liste d'armes prévues par le Manuel des monstres dans BG2."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Backstab Script est visible [ici](https://www.shsforums.net/topic/44345-backstab-script/)."
+            ]
         }
     },
     {
@@ -3358,8 +3360,8 @@
         "id": 230,
         "description": "|这是一个为博德之门II（无论是否包含巴尔王座扩展）、博德之门：增强版、博德之门Ⅱ：增强版，以及Tutu、博德之门三部曲和增强版三部曲转换版设计的AI脚本集合。它包含七个脚本：eArcher（e游侠）、eFighter（e战士）、eMage（e法师）、eMulti（e多面手）、ePriest（e牧师）、ePureF（e纯战士）和eThief（e盗贼），分别适用于特定的角色职业。请参阅 [readme](https://gibberlings3.github.io/Documentation/readmes/readme-eseries.html) 了解更多详情。",
         "description_meta": {
-            "status": "done",
-            "source": "|Il s'agit d'une collection de scripts d'IA pour Baldur's Gate II avec ou sans l'extension ToB, BG:EE, BG2:EE, et les conversions Tutu, BGT, et EET. Elle comprend sept scripts : eArcher, eFighter, eMage, eMulti, ePriest, ePureF et eThief, adaptés à des classes de personnages spécifiques.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-eseries.html) pour plus détails."
+            "status": "needs_review",
+            "source": "Il s'agit d'une collection de scripts d'IA. Elle comprend sept scripts : eArcher, eFighter, eMage, eMulti, ePriest, ePureF et eThief, adaptés à des classes de personnages spécifiques.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-eseries.html) pour plus détails."
         },
         "notes": [],
         "notes_meta": {
@@ -7382,8 +7384,8 @@
         "id": 508,
         "description": "此模组允许你在创建队伍时导入5名角色，他们会在游戏中交谈和互动，就像《博德之门Ⅱ》中的角色一样！它需要《冬之心》资料片。这些角色是：内拉（战士），科林（游侠），特里（战士/盗贼），霍尔维尔（圣武士）和塞文（吟游诗人）。你也可以为他们分配替代职业：内拉（战士/牧师或战士/德鲁伊），科林（牧师/游侠），特里（盗贼，法师/盗贼或战士/法师/盗贼）和塞文（法师或战士/法师）。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod permet d'importer 5 personnages dans son groupe à la création, qui se parleront et interviendront pendant le jeu, comme les personnages de Baldur's Gate 2 ! Il nécessite l'extension Heart of Winter. Il s'agit de Nella (guerrière), Korin (rôdeur), Teri (guerrier/voleur), Holvir (paladin) et Severn (barde). Vous pouvez aussi leur assigner des classes alternatives : Nella (guerrière/clerc ou guerrière/druidesse), Korin (clerc/rôdeur), Teri (voleur, mage/voleur ou guerrier/mage/voleur) et Severn (mage ou guerrier/mage)."
+            "status": "needs_review",
+            "source": "Ce mod permet d'importer 5 personnages dans son groupe à la création, qui se parleront et interviendront pendant le jeu, comme les personnages de Baldur's Gate 2 ! Il s'agit de Nella (guerrière), Korin (rôdeur), Teri (guerrier/voleur), Holvir (paladin) et Severn (barde). Vous pouvez aussi leur assigner des classes alternatives : Nella (guerrière/clerc ou guerrière/druidesse), Korin (clerc/rôdeur), Teri (voleur, mage/voleur ou guerrier/mage/voleur) et Severn (mage ou guerrier/mage)."
         },
         "notes": [
             "对于增强版，[[1568]] 模组提供了可选的替代肖像。"
@@ -14252,10 +14254,9 @@
             "与 ToB 不兼容。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Attention : Modifiez l'extension du fichier téléchargé en .exe pour pouvoir l'installer. Bien que WeiDU, ce mod override de nombreux fichiers.",
-                "Incompatible avec ToB."
+                "Attention : Modifiez l'extension du fichier téléchargé en .exe pour pouvoir l'installer. Bien que WeiDU, ce mod override de nombreux fichiers."
             ]
         }
     },
@@ -16440,8 +16441,8 @@
         "id": 1128,
         "description": "这个模组允许你在博德之门Ⅱ：增强版（2.0或更高版本）、龙矛围攻和EET ([[372]])中游玩冰风谷的扩展包“大师的试炼”。要开始任务，与霍巴特·皮耶维尔交谈，你可以在乌马尔山丘旅店（安姆阴影）、阿姆肯瑟兰（巴尔王座）或联盟营地的东南部找到他。在冒险过程中，你将有机会探索一座鬼魂出没的城堡，测试你的勇气，在艰难的战斗中证明自己，并解除一个古老的诅咒。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod permet de jouer l'extension de Icewind Dale « Les Épreuves du Maître des Leurres » dans BG2:EE (version 2.0 ou supérieure), Siege of Dragonspear et EET ([[372]]). Pour initier la quête, parlez au petit-homme Hobart Piévelu, que vous trouverez soit dans l'auberge des Collines d'Umar (SoA), d'Amkethran (ToB) ou au sud est du Camp de la Coalition (SoD). Au cours de l'aventure, vous aurez l'opportunité d'explorer un château hanté, de tester votre courage et de faire vos preuves dans des combats difficiles et de lever une ancienne malédiction."
+            "status": "needs_review",
+            "source": "Ce mod permet de jouer l'extension de Icewind Dale « Les Épreuves du Maître des Leurres » dans BG2:EE (version 2.0 ou supérieure), Siege of Dragonspear et [[372]]. Pour initier la quête, parlez au petit-homme Hobart Piévelu, que vous trouverez soit dans l'auberge des Collines d'Umar (SoA), d'Amkethran (ToB) ou au sud est du Camp de la Coalition (SoD). Au cours de l'aventure, vous aurez l'opportunité d'explorer un château hanté, de tester votre courage et de faire vos preuves dans des combats difficiles et de lever une ancienne malédiction."
         },
         "notes": [],
         "notes_meta": {
@@ -23811,8 +23812,8 @@
         "id": 1642,
         "description": "您是否一直梦想让爱蒙成为她一直以来本该成为的刺客？是否想让卡立德实现他作为剑湾海岸口齿不清的恐怖野蛮人的命运？这就是您的机会。EasyTutu NPC宗派选择扩展包允许您为博德之门中大多数可加入的NPC选择宗派（您不必为每个NPC都选择一个宗派——系统会为您询问每一个）。此插件旨在直接替换Tutu常规安装过程中自带的宗派选择功能。",
         "description_meta": {
-            "status": "done",
-            "source": "Vous rêvez depuis longtemps de faire d'Imoen l'assassin qu'elle a toujours été censée être ?  Voulu que Khalid accomplisse son destin en tant que terrifiant barbare bègue de la Côte des épées ?  Voici votre chance.  L'extension EasyTutu NPC Kit Selection vous permet de sélectionner des kits pour la plupart des PNJ joignables dans Baldur's Gate (vous n'êtes PAS obligé de choisir un kit pour chaque PNJ - on vous demandera de le faire pour chacun d'entre eux).  Cet add-on est destiné à remplacer directement la fonction de sélection de kit qui fait partie du processus d'installation conventionnel de Tutu."
+            "status": "needs_review",
+            "source": "Vous rêvez depuis longtemps de faire d'Imoen l'assassin qu'elle a toujours été censée être ? Voulu que Khalid accomplisse son destin en tant que terrifiant barbare bègue de la Côte des épées ? Voici votre chance.|Ce mod vous permet de sélectionner des kits pour la plupart des PNJ joignables dans Baldur's Gate (vous n'êtes PAS obligé de choisir un kit pour chaque PNJ - on vous demandera de le faire pour chacun d'entre eux). Cet add-on est destiné à remplacer directement la fonction de sélection de kit qui fait partie du processus d'installation conventionnel de Tutu."
         },
         "notes": [],
         "notes_meta": {

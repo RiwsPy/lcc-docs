@@ -1895,13 +1895,13 @@
             "source": "Basé sur le composant `Créer des ennemis aléatoires en fonction du niveau (style Tutu)` du mod [[135]], ce mod modifie le système par défaut de l'apparition aléatoire des créatures dans les zones de la Côté des Épées en en faisant évoluer la difficulté en fonction du niveau moyen du groupe. Chaque point d'apparition engendrera des groupes de 1 à 6 créatures, selon le niveau du groupe et la force des créatures. L'utilisateur peut sélectionner l'intervalle de temps entre les apparitions (de 4 heures à 1000 jours) ainsi que la probabilité qu'un déclenchement d'un point de rencontre aléatoire entraîne le peuplement de ce point."
         },
         "notes": [
-            "If you plan to install this mod, do not install the [[135]] component `Change random enemy creation`, nor the [[133]] mod, as they all change the same thing.",
+            "If you plan to install this mod, do not install the [[135]] component `Change random enemy creation`, as they all change the same thing.",
             "Please note: only the GitHub version is also EET-compatible. What's more, it's the latest update."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Si vous envisagez d'installer ce mod, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]], ni le mod [[133]], puisque tous modifient la même chose.",
+                "Si vous envisagez d'installer ce mod, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]] puisqu'ils modifient la même chose.",
                 "Attention : seule la version de GitHub est aussi compatible EET. En plus, c'est la dernière mise à jour."
             ]
         }
@@ -1941,14 +1941,14 @@
         },
         "notes": [
             "Warning: Some players have reported that the combination of this mod and [[1011]] (more intelligent monsters) could prove a formidable challenge!",
-            "If you're planning to install BGSpawn, don't install the [[135]] component `Modify random enemy creation`, nor the [[130]], as they all modify the same thing.",
+            "If you're planning to install BGSpawn, don't install the [[135]] component `Modify random enemy creation` as they all modify the same thing.",
             "Please note: only the GitHub version is also EET-compatible. What's more, it's the latest update."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
                 "Attention : Certains joueurs ont signalé que la combinaison de ce mod et de [[1011]] (monstres plus intelligents) pourrait s'avérer un redoutable défi !",
-                "Si vous envisagez d'installer BGSpawn, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]], ni le [[130]], puisque tous modifient la même chose.",
+                "Si vous envisagez d'installer BGSpawn, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]] puisqu'ils modifient la même chose.",
                 "Attention : seule la version de GitHub est aussi compatible EET. En plus, c'est la dernière mise à jour."
             ]
         }
@@ -1985,10 +1985,10 @@
     },
     {
         "id": 136,
-        "description": "This mod offers over a dozen new scripts for team characters. It can be installed on BGII, BGT, BG:EE and BG2:EE. It includes scripts for the Dark Knight and Shadow Master kits.",
+        "description": "This mod offers over a dozen new scripts for party characters. It includes scripts for the Black Guard and Shadow Dancer kits.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod propose plus d'une douzaine de nouveaux scripts pour les personnages de l'équipe. Il peut être installé indifféremment sur BGII, BGT, BG:EE et BG2:EE. Il comprend notamment des scripts adaptés aux kits de Chevalier noir et de Maître des ombres."
+            "source": "Ce mod propose plus d'une douzaine de nouveaux scripts pour les personnages de l'équipe. Il comprend notamment des scripts adaptés aux kits de Chevalier noir et de Maître des ombres."
         },
         "notes": [],
         "notes_meta": {
@@ -2011,10 +2011,10 @@
     },
     {
         "id": 138,
-        "description": "This mod was designed to make opponents much stronger in Baldur's Gate (it modified over 130 creatures). It required TotSC and the [[287]] mod, whose download link has disappeared.",
+        "description": "This mod was designed to make opponents much stronger in Baldur's Gate (it modified over 130 creatures).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod avait pour vocation de rendre les adversaires beaucoup plus forts dans Baldur's Gate (il modifiait plus de 130 créatures). Il nécessitait TotSC et le mod [[287]].|Son lien de téléchargement a disparu."
+            "source": "Ce mod avait pour vocation de rendre les adversaires beaucoup plus forts dans Baldur's Gate (il modifiait plus de 130 créatures)."
         },
         "notes": [],
         "notes_meta": {
@@ -2037,15 +2037,19 @@
     },
     {
         "id": 140,
-        "description": "These two mini-mods, whose download link has been lost, were designed for BG1Tutu. The first provided a sneak attack script and the second equipped kobolds with melee weapons randomly selected from the list of weapons provided by the Monster Manual.",
+        "description": "This mod contains two mini-mods. The first provided a backstab script for Tutu, and the second equipped kobolds with melee weapons chosen at random from the list of weapons specified in the Monster Manual in BG2.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ces deux mini mods dont le lien de téléchargement a été perdu ont été conçus pour BG1Tutu. Le premier fournissait un script d'attaque sournoise et le second dotait les kobolds d'armes de mêlée choisies aléatoirement dans la liste d'armes prévues par le Manuel des monstres."
+            "source": "Ce mod contient deux mini mods. Le premier fournissait un script d'attaque sournoise pour Tutu et le second dotait les kobolds d'armes de mêlée choisies aléatoirement dans la liste d'armes prévues par le Manuel des monstres dans BG2."
         },
-        "notes": [],
+        "notes": [
+            "Backstab Script is visible [here](https://www.shsforums.net/topic/44345-backstab-script/)."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Backstab Script est visible [ici](https://www.shsforums.net/topic/44345-backstab-script/)."
+            ]
         }
     },
     {
@@ -2063,7 +2067,7 @@
     },
     {
         "id": 142,
-        "description": "This mini mod adds a few containers to the game, which can be purchased in different stores: the Imp leather bag, the modrone storage crystal and the pocket singularity. An optional component enables the game's containers to store over 32,000 items.",
+        "description": "This mini mod adds a number of containers to the game which can be purchased from various shops: the Imp leather bag, the Modron storage crystal and the Pocket singularity. One of the containers may also trigger a small quest.|An optional component enables the game's containers to store over 32,000 items.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mini mod ajoute quelques conteneurs au jeu, qui peuvent être achetés dans différents magasins : le sac en cuir de diablotin, le cristal de stockage modrone et la singularité de poche. L'un d'eux pourrait même déclencher une petite quête.|Un composant optionnel permet aux contenants du jeu de stocker plus de 32 000 objets."
@@ -3315,10 +3319,10 @@
     },
     {
         "id": 230,
-        "description": "|This is a collection of AI scripts for Baldur's Gate II with or without the ToB extension, BG:EE, BG2:EE, and the Tutu, BGT, and EET conversions. It includes seven scripts: eArcher, eFighter, eMage, eMulti, ePriest, ePureF and eThief, tailored to specific character classes.|Please see [readme](https://gibberlings3.github.io/Documentation/readmes/readme-eseries.html) for details.",
+        "description": "This is a collection of AI scripts. It includes seven scripts: eArcher, eFighter, eMage, eMulti, ePriest, ePureF and eThief, tailored to specific character classes.|Please see [readme](https://gibberlings3.github.io/Documentation/readmes/readme-eseries.html) for details.",
         "description_meta": {
             "status": "needs_review",
-            "source": "|Il s'agit d'une collection de scripts d'IA pour Baldur's Gate II avec ou sans l'extension ToB, BG:EE, BG2:EE, et les conversions Tutu, BGT, et EET. Elle comprend sept scripts : eArcher, eFighter, eMage, eMulti, ePriest, ePureF et eThief, adaptés à des classes de personnages spécifiques.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-eseries.html) pour plus détails."
+            "source": "Il s'agit d'une collection de scripts d'IA. Elle comprend sept scripts : eArcher, eFighter, eMage, eMulti, ePriest, ePureF et eThief, adaptés à des classes de personnages spécifiques.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-eseries.html) pour plus détails."
         },
         "notes": [],
         "notes_meta": {
@@ -7298,10 +7302,10 @@
     },
     {
         "id": 508,
-        "description": "This mod lets you import 5 characters into your party at creation, who will talk to each other and intervene during the game, just like the characters in Baldur's Gate 2! It requires the Heart of Winter expansion pack. They are Nella (fighter), Korin (ranger), Teri (fighter/thief), Holvir (paladin) and Severn (bard). You can also assign alternative classes: Nella (fighter/cleric or fighter/druid), Korin (cleric/ranger), Teri (thief, mage/thief or fighter/mage/thief) and Severn (mage or fighter/mage).",
+        "description": "This mod lets you import 5 characters into your party at creation, who will talk to each other and intervene during the game, just like the characters in Baldur's Gate 2! They are Nella (fighter), Korin (ranger), Teri (fighter/thief), Holvir (paladin) and Severn (bard). You can also assign alternative classes: Nella (fighter/cleric or fighter/druid), Korin (cleric/ranger), Teri (thief, mage/thief or fighter/mage/thief) and Severn (mage or fighter/mage).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet d'importer 5 personnages dans son groupe à la création, qui se parleront et interviendront pendant le jeu, comme les personnages de Baldur's Gate 2 ! Il nécessite l'extension Heart of Winter. Il s'agit de Nella (guerrière), Korin (rôdeur), Teri (guerrier/voleur), Holvir (paladin) et Severn (barde). Vous pouvez aussi leur assigner des classes alternatives : Nella (guerrière/clerc ou guerrière/druidesse), Korin (clerc/rôdeur), Teri (voleur, mage/voleur ou guerrier/mage/voleur) et Severn (mage ou guerrier/mage)."
+            "source": "Ce mod permet d'importer 5 personnages dans son groupe à la création, qui se parleront et interviendront pendant le jeu, comme les personnages de Baldur's Gate 2 ! Il s'agit de Nella (guerrière), Korin (rôdeur), Teri (guerrier/voleur), Holvir (paladin) et Severn (barde). Vous pouvez aussi leur assigner des classes alternatives : Nella (guerrière/clerc ou guerrière/druidesse), Korin (clerc/rôdeur), Teri (voleur, mage/voleur ou guerrier/mage/voleur) et Severn (mage ou guerrier/mage)."
         },
         "notes": [
             "For the EE version, alternative portraits are offered by the [[1568]]."
@@ -14120,13 +14124,12 @@
             "source": "Ce vieux mod ajoute de nombreux objets dans le magasin de Joluv."
         },
         "notes": [
-            "Warning: Change the extension of the downloaded file to .exe to be able to install it."
+            "Warning: Change the extension of the downloaded file to .exe to be able to install it. Although WeiDU, this mod overrides many files."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : Modifiez l'extension du fichier téléchargé en .exe pour pouvoir l'installer. Bien que WeiDU, ce mod override de nombreux fichiers.",
-                "Incompatible avec ToB."
+                "Attention : Modifiez l'extension du fichier téléchargé en .exe pour pouvoir l'installer. Bien que WeiDU, ce mod override de nombreux fichiers."
             ]
         }
     },
@@ -16276,10 +16279,10 @@
     },
     {
         "id": 1128,
-        "description": "This mod makes the Icewind Dale expansion « Trial of the Luremaster » available to BG2:EE (2.0 or higher), Siege of Dragonspear and EET ([[372]]). The quest starts by talking to the halfling Hobart Stubbletoes, who can be found either in the Umar Hills Inn (SoA), Amkethran Inn (ToB) or in the southeastern area of the Coalition Camp (SoD). In the course of the adventure you have the opportunity to explore a haunted castle, test your mettle in challenging combat and lift an ancient curse.",
+        "description": "This mod makes the Icewind Dale expansion « Trial of the Luremaster » available to BG2:EE (2.0 or higher), Siege of Dragonspear and [[372]]. The quest starts by talking to the halfling Hobart Stubbletoes, who can be found either in the Umar Hills Inn (SoA), Amkethran Inn (ToB) or in the southeastern area of the Coalition Camp (SoD). In the course of the adventure you have the opportunity to explore a haunted castle, test your mettle in challenging combat and lift an ancient curse.",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod permet de jouer l'extension de Icewind Dale « Les Épreuves du Maître des Leurres » dans BG2:EE (version 2.0 ou supérieure), Siege of Dragonspear et EET ([[372]]). Pour initier la quête, parlez au petit-homme Hobart Piévelu, que vous trouverez soit dans l'auberge des Collines d'Umar (SoA), d'Amkethran (ToB) ou au sud est du Camp de la Coalition (SoD). Au cours de l'aventure, vous aurez l'opportunité d'explorer un château hanté, de tester votre courage et de faire vos preuves dans des combats difficiles et de lever une ancienne malédiction."
+            "status": "needs_review",
+            "source": "Ce mod permet de jouer l'extension de Icewind Dale « Les Épreuves du Maître des Leurres » dans BG2:EE (version 2.0 ou supérieure), Siege of Dragonspear et [[372]]. Pour initier la quête, parlez au petit-homme Hobart Piévelu, que vous trouverez soit dans l'auberge des Collines d'Umar (SoA), d'Amkethran (ToB) ou au sud est du Camp de la Coalition (SoD). Au cours de l'aventure, vous aurez l'opportunité d'explorer un château hanté, de tester votre courage et de faire vos preuves dans des combats difficiles et de lever une ancienne malédiction."
         },
         "notes": [],
         "notes_meta": {
@@ -23552,10 +23555,10 @@
     },
     {
         "id": 1642,
-        "description": "Long dreamed of turning Imoen into the assassin she was always meant to be?  Wanted Khalid to fulfill his destiny as the terrifying stammering barbarian of the Sword Coast?  Here's your chance.  The EasyTutu NPC Kit Selection add-on lets you select kits for most of the NPCs reachable in Baldur's Gate (you do NOT have to choose a kit for every NPC - you'll be asked to do so for all of them).  This add-on is intended to directly replace the kit selection function that is part of Tutu's conventional installation process.",
+        "description": "Long dreamed of turning Imoen into the assassin she was always meant to be? Wanted Khalid to fulfill his destiny as the terrifying stammering barbarian of the Sword Coast? Here's your chance.|This mod lets you select kits for most of the NPCs reachable in Baldur's Gate (you do NOT have to choose a kit for every NPC - you'll be asked to do so for all of them). This add-on is intended to directly replace the kit selection function that is part of Tutu's conventional installation process.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Vous rêvez depuis longtemps de faire d'Imoen l'assassin qu'elle a toujours été censée être ?  Voulu que Khalid accomplisse son destin en tant que terrifiant barbare bègue de la Côte des épées ?  Voici votre chance.  L'extension EasyTutu NPC Kit Selection vous permet de sélectionner des kits pour la plupart des PNJ joignables dans Baldur's Gate (vous n'êtes PAS obligé de choisir un kit pour chaque PNJ - on vous demandera de le faire pour chacun d'entre eux).  Cet add-on est destiné à remplacer directement la fonction de sélection de kit qui fait partie du processus d'installation conventionnel de Tutu."
+            "source": "Vous rêvez depuis longtemps de faire d'Imoen l'assassin qu'elle a toujours été censée être ? Voulu que Khalid accomplisse son destin en tant que terrifiant barbare bègue de la Côte des épées ? Voici votre chance.|Ce mod vous permet de sélectionner des kits pour la plupart des PNJ joignables dans Baldur's Gate (vous n'êtes PAS obligé de choisir un kit pour chaque PNJ - on vous demandera de le faire pour chacun d'entre eux). Cet add-on est destiné à remplacer directement la fonction de sélection de kit qui fait partie du processus d'installation conventionnel de Tutu."
         },
         "notes": [],
         "notes_meta": {
