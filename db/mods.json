@@ -1809,7 +1809,7 @@
     {
         "id": 54,
         "name": "Anomaly Tweak Pack",
-        "description": "Ce petit mod propose une quinzaine de modifications de jeu à BG1, BG2, BG:EE, BG2:EE, BGT ou Tutu, dont des améliorations graphiques, des raccourcis pour certains dialogues, des ajouts de sorts et un nouveau script joueur générique.",
+        "description": "Ce petit mod propose une quinzaine de modifications de jeu, dont des améliorations graphiques, des raccourcis pour certains dialogues, des ajouts de sorts et un nouveau script joueur générique.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=24228",
             "https://www.anomaly-studios.fr/mods/"
@@ -1863,17 +1863,15 @@
             "jastey"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod est en alpha et n'inclut pas encore de contenu pour BGII. La partie SoD est terminée. Dans une version ultérieure, il sera possible de terminer une quête donnée par les ducs de la Porte de Baldur afin d'obtenir notre rédemption - et aider la Côte des Épées à se débarrasser de la menace constante des Neuf Enfers."
-        ],
+        "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "fr",
             "es"
         ],
-        "status": "active",
+        "status": "wip",
         "last_update": "2023-09",
         "compatibilities": {},
         "tp2": "c#anotherfinehell"
@@ -2387,7 +2385,7 @@
     {
         "id": 72,
         "name": "Ascalon's Breagar",
-        "description": "Ce mod ajoute Breagar du clan Bardormar en tant que PNJ recrutable dans Baldur's Gate I et II. D'alignement loyal bon, il dispose de son propre profil de forgeron nain. Le mod contient des dialogues, des créatures, des objets et des quêtes.|Pour BGT et EET, Breagar fonctionne comme un personnage continu tout au long de la trilogie. Il existe trois épilogues différents dans ToB selon les choix du joueur.|Pour BG:EE, Tutu, BGII et BG2:EE, seul le contenu correspondant au jeu sera installé.",
+        "description": "Ce mod ajoute Breagar du clan Bardormar en tant que PNJ recrutable. D'alignement loyal bon, il dispose de son propre kit de forgeron nain. Le mod contient des dialogues, des créatures, des objets et des quêtes.|Pour BGT et EET, Breagar fonctionne comme un personnage continu tout au long de la trilogie. Il existe trois épilogues différents dans ToB selon les choix du joueur.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/ascalons-breagar.3/",
             "https://github.com/Gitjas/Ascalons_Breagar/"
@@ -2427,7 +2425,7 @@
     {
         "id": 73,
         "name": "Ascalon's Questpack",
-        "description": "Aussi appelé \"Les Serpents d'Abbathor 1ere partie et d'autres histoires\", ce mod regroupe plusieurs idées d'Ascalon pour ajouter des quêtes ou histoires secondaires qui se déroulent parallèlement à l'histoire de l'enfant de Bhaal dans BG et BGII : 10 quêtes de tailles différentes. Certaines sont humoristiques, d'autres sont un peu plus tragiques. Certaines sont des énigmes, d'autres sont liées au combat. Certaines exigent des compétences diplomatiques, d'autres ne peuvent être résolues que par certaines races ou classes.",
+        "description": "Aussi appelé \"Les Serpents d'Abbathor 1ere partie et d'autres histoires\", ce mod regroupe plusieurs quêtes ou histoires secondaires qui se déroulent parallèlement à l'histoire de l'enfant de Bhaal. Certaines sont humoristiques, d'autres sont un peu plus tragiques. Certaines sont des énigmes, d'autres sont liées au combat. Certaines exigent des compétences diplomatiques, d'autres ne peuvent être résolues que par certaines races ou classes.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/ascalons-questpack.4/",
             "https://forums.beamdog.com/discussion/69160/",
@@ -2528,7 +2526,7 @@
     {
         "id": 75,
         "name": "Ashar NPC",
-        "description": "Ce mod ajoute un nouveau PNJ recrutable, la barbare demi-orque Ashar qui se trouve près de l'entrée de la Couronne de Cuivre, juste après la mort du propriétaire de la taverne, Lehtinan. Ayant subi l'esclavage, Ashar est une femme agressive, simple, mais aussi un peu confuse. N'hésitez pas à lui dire ce que vous voulez, lors de vos entretiens, il n'y a pas de réponses \"correctes\" ou \"incorrectes\". Cependant, n'oubliez pas que vos paroles et vos actes peuvent avoir un grand impact sur son caractère. Le mod propose environ 20 dialogues avec le personnage principal, une petite romance, ainsi que de nombreuses interactions, commentaires et plaisanteries avec tous les PNJ de BGII.",
+        "description": "Ce mod ajoute un nouveau PNJ recrutable, la barbare demi-orque Ashar qui se trouve près de l'entrée de la Couronne de Cuivre, juste après la mort du propriétaire de la taverne, Lehtinan. Ayant subi l'esclavage, Ashar est une femme agressive, simple, mais aussi un peu confuse. N'hésitez pas à lui dire ce que vous voulez, lors de vos entretiens, il n'y a pas de réponses \"correctes\" ou \"incorrectes\". Cependant, n'oubliez pas que vos paroles et vos actes peuvent avoir un grand impact sur son caractère. Le mod propose environ 20 dialogues avec le personnage principal, une petite romance, ainsi que de nombreuses interactions, commentaires et plaisanteries avec tous les PNJ officiels.",
         "urls": [
             "https://www.shsforums.net/files/file/1203-ashar-npc/",
             "https://forums.beamdog.com/discussion/68262/",
@@ -4538,7 +4536,7 @@
     {
         "id": 134,
         "name": "Baldurs Gate Trilogie NPC Sound",
-        "description": "Le niveau sonore des doublages des personnages diffère entre Baldur's Gate et Baldur's Gate II. Du coup, il est difficile de trouver un réglage qui permettent de bien entendre ceux issus de BGII sans se faire éclater les tympans par ceux recopiés depuis BG. Ce mod passe au crible tous les sons importés de Baldur's Gate et ajuste leur niveau sonore à celui de Baldur's Gate II.|Conçu à l'origine sur la base du niveau sonore du doublage en allemand, il devrait aussi convenir pour le français.",
+        "description": "Le niveau sonore des doublages des personnages diffère entre Baldur's Gate et Baldur's Gate II. Du coup, il est difficile de trouver un réglage qui permettent de bien entendre ceux issus de BG2 sans se faire éclater les tympans par ceux recopiés depuis BG. Ce mod passe au crible tous les sons importés de Baldur's Gate et ajuste leur niveau sonore à celui de Baldur's Gate II.|Conçu à l'origine sur la base du niveau sonore du doublage en allemand, il devrait aussi convenir pour le français.",
         "urls": [
             "https://www.shsforums.net/files/file/561-bgt-npcsound-weidu-v3/",
             "https://github.com/Spellhold-Studios/BGT-NPCSound/"
@@ -6426,7 +6424,7 @@
     {
         "id": 192,
         "name": "Brandock the Mage",
-        "description": "Ce mod ajoute un PNJ recrutable pour toute la saga Baldur's Gate. Il est nativement compatible avec BG:EE, SoD, BGII, BGT, BG2:EE et EET. Pour l'instant, seul le contenu BG1 du mod est terminé.|C'est un mage chaotique bon que vous trouverez sur la Côte des Épées, recherchant de l'aide pour combattre un ogre afin de récupérer ses biens. Selon qu'il se trouve ou non dans le groupe lorsque Mélicamp est amené à Thalantyr, il aura une quête supplémentaire qui l'écartera du groupe pendant un certain temps. Brandock est très intéressé par les livres de magie. Chaque fois qu'il a le temps d'étudier les livres de magie que le groupe rencontre dans le jeu, cela augmente son score de connaissance. Il est amical et serviable, mais il faudra un peu de temps avant qu'il s'ouvre et dise au PC d'où il vient, pour des raisons qu'il expliquera volontiers lorsqu'il sera prêt à le faire.|Si votre groupe comprend déjà 6 membres, il pourra vous rejoindre comme \"7eme membre\" et vous suivra à la manière d'un familier.|FOR 15, DEX 13, CON 13, INT 18, SAG 12, CHA 13.",
+        "description": "Ce mod ajoute un PNJ recrutable pour toute la saga Baldur's Gate. Pour l'instant, seul le contenu BG1 et SoD du mod est terminé.|C'est un mage chaotique bon que vous trouverez sur la Côte des Épées, recherchant de l'aide pour combattre un ogre afin de récupérer ses biens. Selon qu'il se trouve ou non dans le groupe lorsque Mélicamp est amené à Thalantyr, il aura une quête supplémentaire qui l'écartera du groupe pendant un certain temps. Brandock est très intéressé par les livres de magie. Chaque fois qu'il a le temps d'étudier les livres de magie que le groupe rencontre dans le jeu, cela augmente son score de connaissance. Il est amical et serviable, mais il faudra un peu de temps avant qu'il s'ouvre et dise au PC d'où il vient, pour des raisons qu'il expliquera volontiers lorsqu'il sera prêt à le faire.|Si votre groupe comprend déjà 6 membres, il pourra vous rejoindre comme \"7eme membre\" et vous suivra à la manière d'un familier.|FOR 15, DEX 13, CON 13, INT 18, SAG 12, CHA 13.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/brandock-der-magier.48/",
             "https://www.gibberlings3.net/forums/topic/34687-brandock-the-mage-npc-mod-kerzenburgforum/",
@@ -10626,7 +10624,7 @@
     {
         "id": 317,
         "name": "Don't wake up!",
-        "description": "Ce mod restaurait la modification du patch 1.3 de BG2:EE qui interrompait les effets de sommeil lorsqu'une endormie subissait des dégâts.",
+        "description": "Ce mod restaure la modification du patch 1.3 de BG2:EE qui interrompt les effets de sommeil lorsqu'une endormie subit des dégâts.",
         "urls": [
             "https://forums.beamdog.com/discussion/39228/"
         ],
@@ -11560,7 +11558,7 @@
     {
         "id": 346,
         "name": "Baldur's Gate: Enhanced Edition Trilogy Tweaks",
-        "description": "Ce mod propose une collection d'ajustements pour les jeux IE. Bien que conçus à l'origine pour EET, certains de ces composants sont universels et peuvent fonctionner avec BG1, BG2, IWD, IWD2, Tutu, BGT, CA, IWD-in-BG2, BG:EE, BG2:EE et IWD:EE.|Il permet entre autres d'harmoniser l'apparence des PNJ recrutables pendant la trilogie ou de modifier la limitation d'XP. Lisez bien le [readme](http://htmlpreview.github.io/?https://github.com/K4thos/EET_Tweaks/blob/master/EET_Tweaks/readme-EET_Tweaks.html) pour plus de détails.",
+        "description": "Ce mod propose une collection d'ajustements pour les jeux IE. Bien que conçus à l'origine pour EET, certains de ces composants sont universels et peuvent fonctionner avec les autres jeux.|Il permet entre autres d'harmoniser l'apparence des PNJ recrutables pendant la trilogie ou de modifier la limitation d'XP. Lisez bien le [readme](http://htmlpreview.github.io/?https://github.com/K4thos/EET_Tweaks/blob/master/EET_Tweaks/readme-EET_Tweaks.html) pour plus de détails.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27754-eet-tweaks-overview",
             "https://github.com/K4thos/EET_Tweaks"
@@ -12415,7 +12413,7 @@
     {
         "id": 372,
         "name": "Enhanced Edition Trilogy",
-        "description": "L'équivalent de BGT pour les jeux EE. Il requiert BG:EE Siege of Dragonspear et BG2:EE.",
+        "description": "L'équivalent de BGT pour les jeux EE. Il permet de jouer à la suite les volets BGEE, SoD et BG2EE.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27756-download-links/",
             "https://github.com/Gibberlings3/EET"
@@ -12449,13 +12447,19 @@
         ],
         "status": "active",
         "last_update": "2025-04",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "BGEE",
+                "SoD",
+                "BG2EE"
+            ]
+        },
         "tp2": "EET;EET_end;EET_gui"
     },
     {
         "id": 373,
         "name": "Enhanced Edition Cosmetic Enhancements",
-        "description": "Ce mod apporte des ajustements cosmétiques aux objets de BG:EE, SoD, BG2:EE et IWD:EE : nouvelles icônes d'inventaire et de description, nouvelles descriptions, modification de leur apparence, de leurs couleurs et de leur scintillement, nouveaux projectiles et nouveaux effets visuels quand les armes touchent leur cible.",
+        "description": "Ce mod apporte des ajustements cosmétiques aux objets : nouvelles icônes d'inventaire et de description, nouvelles descriptions, modification de leur apparence, de leurs couleurs et de leur scintillement, nouveaux projectiles et nouveaux effets visuels quand les armes touchent leur cible.",
         "urls": [
             "https://forums.beamdog.com/discussion/80271/",
             "https://github.com/DaerosTrollkiller/EE_Cosmetic_Item_Enhancement/"
@@ -12489,7 +12493,7 @@
     {
         "id": 374,
         "name": "Enhanced Powergaming Scripts",
-        "description": "Ce mod est une collection de scripts d'IA de joueur conçus pour être utilisés dans BG:EE, BG2:EE, EET et IWD:EE. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche `B`, un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[521]], [[1011]], [[287]], [[976]], [[1114]], [[396]], ainsi que les modifications effectuées par [[983]] et [[563]].",
+        "description": "Ce mod est une collection de scripts d'IA de joueur. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche `B`, un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[521]], [[1011]], [[287]], [[976]], [[1114]], [[396]], ainsi que les modifications effectuées par [[983]] et [[563]].",
         "urls": [],
         "categories": [
             "Script et tactique"
@@ -12665,7 +12669,7 @@
     {
         "id": 379,
         "name": "Eternal Imoen",
-        "description": "Dans BG2:EE, l'Imoen avec lequel vous commencez à jouer dans le donjon d'Irenicus n'est pas l'Imoen que vous retrouvez dans Spellhold. C'est très ennuyeux. Ce mod transporte l'Imoen du début dans Spellhold avec une mise à niveau de ses XP lors de la réintégration.",
+        "description": "Dans BG2, l'Imoen avec lequel vous commencez à jouer dans le donjon d'Irenicus n'est pas l'Imoen que vous retrouvez dans Spellhold. C'est très ennuyeux. Ce mod transporte l'Imoen du début dans Spellhold avec une mise à niveau de ses XP lors de la réintégration.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=387"
         ],
@@ -13305,7 +13309,7 @@
     {
         "id": 398,
         "name": "Faldorn BG2EE",
-        "description": "Ce mod vous permet de recruter Faldorn, la druidesse de l'ombre de BG:EE, dans BG2:EE. Cependant, vous devez vous rappeler qu'elle est sauvage et qu'elle ne sera pas aussi paisible que la plupart des druides. Au contraire, elle est l'étincelle sauvage qui peut déclencher un grand feu.|Faldorn peut rejoindre votre groupe après son intrigue originale dans SoA. Une fois que vous aurez terminé les quêtes de Franc-Marché et que vous serez devenu le héros de la ville, attendez un jour ou deux, et un druide vous approchera et vous demandera de retourner au bosquet, car quelque chose d'étrange s'est produit.|Ce mod ajoute trois petites quêtes liées à Faldorn dans SoA et une autre dans ToB. Elle peut être romancée par des hommes et des femmes de n'importe quel alignement chaotique ayant une force de 13 ou plus et une constitution de 11 ou plus. Cependant, gardez à l'esprit qu'elle n'est pas exactement un personnage chaleureux et gentil, et cela se reflète dans tous ses dialogues.|Pour la rendre encore plus utile, son profil comprend une capacité spéciale qui lui permet de se transformer en centipède. Sous cette forme, elle peut utiliser des capacités de voleur, mais ne peut pas lancer de sorts et devient assez faible en combat.",
+        "description": "Ce mod vous permet de recruter Faldorn, la druidesse de l'ombre de BG. Cependant, vous devez vous rappeler qu'elle est sauvage et qu'elle ne sera pas aussi paisible que la plupart des druides. Au contraire, elle est l'étincelle sauvage qui peut déclencher un grand feu.|Faldorn peut rejoindre votre groupe après son intrigue originale dans SoA. Une fois que vous aurez terminé les quêtes de Franc-Marché et que vous serez devenu le héros de la ville, attendez un jour ou deux, et un druide vous approchera et vous demandera de retourner au bosquet, car quelque chose d'étrange s'est produit.|Ce mod ajoute trois petites quêtes liées à Faldorn dans SoA et une autre dans ToB. Elle peut être romancée par des hommes et des femmes de n'importe quel alignement chaotique ayant une force de 13 ou plus et une constitution de 11 ou plus. Cependant, gardez à l'esprit qu'elle n'est pas exactement un personnage chaleureux et gentil, et cela se reflète dans tous ses dialogues.|Pour la rendre encore plus utile, son profil comprend une capacité spéciale qui lui permet de se transformer en centipède. Sous cette forme, elle peut utiliser des capacités de voleur, mais ne peut pas lancer de sorts et devient assez faible en combat.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=59",
             "https://forums.beamdog.com/discussion/83139/",
@@ -16330,7 +16334,7 @@
     {
         "id": 491,
         "name": "High Resolution Portraits",
-        "description": "Ce mod remplace les portraits des PNJ de BG:EE et BG2:EE par des portraits de plus haute résolution.",
+        "description": "Ce mod remplace les portraits des PNJ par des portraits de plus haute résolution.",
         "urls": [
             "https://www.shsforums.net/files/file/1126-bgee-bgsod-and-bg2ee-high-resolution-portraits/"
         ],
@@ -17464,7 +17468,7 @@
     {
         "id": 526,
         "name": "Imoen 4 Ever",
-        "description": "Ce mod vise à faire d'Imoen une compagne stable tout au long de la saga BG. Le contenu de l'histoire lié à elle étant pris en compte, Imoen sera temporairement absente du groupe pour refléter les événements du jeu original les plus cruciaux. Ce mod la fait rejoindre la partie après de tels incidents, de sorte qu'elle peut être considérée comme une véritable compagne de voyage dans SoD et BG2.|Dans BG2, il fait revenir Imoen dans les chapitres 2 et 3, juste après le premier dialogue avec Gaelan. Le joueur peut alors explorer et accomplir toutes les quêtes sans aucune contrainte de temps ou dilemme moral concernant une amie à secourir. Le contenu original du jeu reprend son cours après l'arrivée à Brynnlaw : Imoen est kidnappée et Yoshimo peut être recruté dans la taverne.|Une fois installé, ce mod doit être installé avant tous les mods PNJ ou autres mods qui ajoutent des dialogues aux chapitres 2 et 3 de BGII.|Comme il est destiné à BG2:EE et SoD et qu'il est compatible avec tous les jeux BGII (BGII, BGT, BG2:EE, EET), ce mod proposera d'installer ses divers composants en fonction du jeu.",
+        "description": "Ce mod vise à faire d'Imoen une compagne stable tout au long de la saga BG. Le contenu de l'histoire lié à elle étant pris en compte, Imoen sera temporairement absente du groupe pour refléter les événements du jeu original les plus cruciaux. Ce mod la fait rejoindre la partie après de tels incidents, de sorte qu'elle peut être considérée comme une véritable compagne de voyage dans SoD et BG2.|Dans BG2, il fait revenir Imoen dans les chapitres 2 et 3, juste après le premier dialogue avec Gaelan. Le joueur peut alors explorer et accomplir toutes les quêtes sans aucune contrainte de temps ou dilemme moral concernant une amie à secourir. Le contenu original du jeu reprend son cours après l'arrivée à Brynnlaw : Imoen est kidnappée et Yoshimo peut être recruté dans la taverne.|Une fois installé, ce mod doit être installé avant tous les mods PNJ ou autres mods qui ajoutent des dialogues aux chapitres 2 et 3 de BG2.",
         "urls": [
             "https://www.gibberlings3.net/mods/other/imoen4ever",
             "https://forums.beamdog.com/discussion/76098/",
@@ -17507,7 +17511,7 @@
     {
         "id": 527,
         "name": "Imoen Can Die",
-        "description": "Ce mod permet à ceux qui n'aiment pas Imoen de ne pas la sauver dans Spellhold, mais de choisir l'option selon laquelle elle ne survivra pas aux expériences d'Irenicus et mourra immédiatement après avoir été sauvée. Cela sera commenté par les membres du groupe (ceux les PNJ de BG2:EE) (les lignes sont prescrites pour tout le monde sauf les PNJ-EE).",
+        "description": "Ce mod permet à ceux qui n'aiment pas Imoen de ne pas la sauver dans Spellhold, mais de choisir l'option selon laquelle elle ne survivra pas aux expériences d'Irenicus et mourra immédiatement après avoir été sauvée. Cela sera commenté par les membres du groupe (ceux de la version originale uniquement).",
         "urls": [
             "https://github.com/subtledoctor/Imoen-Can-Die"
         ],
@@ -19342,7 +19346,7 @@
     {
         "id": 580,
         "name": "Jini NPC Romance",
-        "description": "Il s'agit d'une préquelle d'un autre mod du même auteur, [[890]] pour BG2:EE, qui plante le décor de ce qui suivra dans BG2:EE.|Jini est une djinn emprisonnée dans la lampe qui vous donne la jeune Rjali si vous êtes de sexe masculin et non-mauvais. Elle vous fournit les services habituels d'un djinn de lampe et, si vous êtes gentil avec elle, une romance peut naître. Elle peut fournir de l'équipement aux membres de votre groupe, mais ne le fera que si vous le lui demandez gentiment. Elle ne se joindra jamais à votre groupe, mais elle et sa lampe vous accompagneront sur votre chemin. Elle a soif de liberté, et vous avez la possibilité de la lui accorder.|Le mod ajoute également Fay, un feu follet qui vous suivra comme une sorte de familier. Fay vous fera la cour du mieux qu'elle pourra, étant si petite. Ni elle ni Jini n'ont de problème avec cet arrangement.|FOR 15, DEX 17, CON 17, INT 11, SAG 18, CHA 12.",
+        "description": "Il s'agit d'une préquelle d'un autre mod du même auteur, [[890]], qui plante le décor de ce qui suivra dans BG2:EE.|Jini est une djinn emprisonnée dans la lampe qui vous donne la jeune Rjali si vous êtes de sexe masculin et non-mauvais. Elle vous fournit les services habituels d'un djinn de lampe et, si vous êtes gentil avec elle, une romance peut naître. Elle peut fournir de l'équipement aux membres de votre groupe, mais ne le fera que si vous le lui demandez gentiment. Elle ne se joindra jamais à votre groupe, mais elle et sa lampe vous accompagneront sur votre chemin. Elle a soif de liberté, et vous avez la possibilité de la lui accorder.|Le mod ajoute également Fay, un feu follet qui vous suivra comme une sorte de familier. Fay vous fera la cour du mieux qu'elle pourra, étant si petite. Ni elle ni Jini n'ont de problème avec cet arrangement.|FOR 15, DEX 17, CON 17, INT 11, SAG 18, CHA 12.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32227-bwl-jini-romance-mod-update/",
             "https://github.com/Black-Wyrm-Lair/Jini-Romance"
@@ -20452,9 +20456,7 @@
             "Konalan"
         ],
         "team": [],
-        "notes": [
-            "Certains ont réussi à l'installer sur BG2:EE, mais il n'a pas été codé pour. Alors, si vous le tentez sur un jeu EE, c'est à vos risques et périls !"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -21566,7 +21568,7 @@
     {
         "id": 650,
         "name": "Lore friendly portrait pack",
-        "description": "Il s'agit d'un pack 20 portraits pour vos personnages de BG:EE et BG2:EE.",
+        "description": "Il s'agit d'un pack 20 portraits pour vos personnages.",
         "urls": [
             "https://www.nexusmods.com/baldursgate2ee/mods/15"
         ],
@@ -22021,7 +22023,7 @@
     {
         "id": 665,
         "name": "Made in Heaven: Encounters & Quests",
-        "description": "Ce mod permet de rendre un peu plus épicées les rencontres dans BG:EE et BG2:EE, et devrait être compatible avec BG2 original, BGT et EET. Il modifie diverses rencontres et quêtes, et en ajoute même de nouvelles, accorde de nouvelles capacités P&P à certains monstres (dragons, golems, liches, lycanthropes, vampires, morts-vivants incorporels...). Il en profite pour modifier certaines quêtes, voire les étendre. Il fait partie de la série \"Made in Heaven\" (avec les objets, les sorts et les tweaks).",
+        "description": "Ce mod permet de rendre les rencontres un peu plus épicées. Il modifie diverses rencontres et quêtes, et en ajoute même de nouvelles, accorde de nouvelles capacités P&P à certains monstres (dragons, golems, liches, lycanthropes, vampires, morts-vivants incorporels...). Il en profite pour modifier certaines quêtes, voire les étendre. Il fait partie de la série \"Made in Heaven\" (avec les objets, les sorts et les tweaks).",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/29992-my-new-made-in-heaven-mods/",
             "https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests/"
@@ -22126,7 +22128,7 @@
     {
         "id": 668,
         "name": "Made in Heaven: Tweaks",
-        "description": "Ce mod propose une collection de petites modifications destinées à BG:EE et BG2:EE qui devraient être compatibles avec BG2 original, BGT et EET. Il vous permet d'appliquer des dommages alternatifs aux grandes créatures (plus grands ou plus petits selon les armes), de limiter le nombre de charges des baguettes (6) et des sceptres (12), appliquer aux aux jets de sauvegarde des sorts des malus selon le niveau, modifier les tables dépendant de la Force, de la Dextérité et de la Constitution pour que les bonus accordés commencent à partir de 12. Ce mod fait partie de la série \"Made in Heaven\" (avec les objets, les sorts et les quêtes).",
+        "description": "Ce mod propose une collection de petites modifications. Il vous permet d'appliquer des dommages alternatifs aux grandes créatures (plus grands ou plus petits selon les armes), de limiter le nombre de charges des baguettes (6) et des sceptres (12), appliquer aux aux jets de sauvegarde des sorts des malus selon le niveau, modifier les tables dépendant de la Force, de la Dextérité et de la Constitution pour que les bonus accordés commencent à partir de 12. Ce mod fait partie de la série \"Made in Heaven\" (avec les objets, les sorts et les quêtes).",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/29992-my-new-made-in-heaven-mods/",
             "https://github.com/AngelGryph/MadeInHeaven_Tweaks"
@@ -22926,7 +22928,7 @@
     {
         "id": 692,
         "name": "Minor NPC Portraits for BG2EE",
-        "description": "À l'instar des mods [[444]] et [[25]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans BG2:EE.",
+        "description": "À l'instar des mods [[444]] et [[25]], ce mod donne un portrait à chaque NPC concerné par un dialogue.",
         "urls": [
             "https://github.com/smeagolheart/MinorNPCPortraitsforBGEE2"
         ],
@@ -23240,7 +23242,7 @@
     {
         "id": 702,
         "name": "Mod semi-officiel de traduction partielle de BG2:EE",
-        "description": "Comme son nom l'indique, ce mod propose une traduction partielle de BG2:EE. Pour l'instant, il comprend :|- les textes de SoA et ToB corrigés par le patch précédent.|- la quête de Rasaad dans SoA : dialogues, lieux, personnages (des noms de créatures peuvent ne pas être traduits).|- les sous-titres des voix pour le personnage principal et pour Rasaad.|- les objets ajoutés par BG2:EE.|- les sorts ajoutés par BG2:EE.|- les textes ajoutés par le patch 2.5, notamment le kit de prêtre de Tempus.",
+        "description": "Comme son nom l'indique, ce mod propose une traduction partielle de BG2:EE. Il comprend :|- les textes de SoA et ToB corrigés par le patch précédent.|- la quête de Rasaad dans SoA : dialogues, lieux, personnages (des noms de créatures peuvent ne pas être traduits).|- les sous-titres des voix pour le personnage principal et pour Rasaad.|- les objets ajoutés par BG2:EE.|- les sorts ajoutés par BG2:EE.|- les textes ajoutés par le patch 2.5, notamment le kit de prêtre de Tempus.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=31540",
             "https://github.com/Isaya/bg2eetrans"
@@ -23269,8 +23271,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est prévu pour fonctionner avec BG2:EE v2.3.67.3 et v2.5.16.6.",
-            "Depuis la sortie du mod [[259]], ce mod a été rendu obsolète pour les jeux dotés du patch 2.6 ou ultérieur."
+            "Ce mod a été inclus dans [[259]]."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -23279,7 +23280,11 @@
         ],
         "status": "embed",
         "last_update": "2018-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                "version >= 2.6"
+            ]
+        },
         "tp2": "bg2eetrans"
     },
     {
@@ -23948,7 +23953,7 @@
     {
         "id": 723,
         "name": "Multiplayer Tweaks",
-        "description": "Ce mod corrige quelques problèmes dans des sessions multi-joueurs. Lors d'un combat, jusqu'à 5 adversaires peuvent suivre un membre du groupe qui emprunte une porte (s'applique uniquement aux zones intérieures dont les entrées sont utilisables par les PNJ). Le jeu se met en pause lorsque les PNJ deviennent hostiles pendant le dialogue.|Ce mod a été testé avec EET, mais devrait être compatible avec BG, BG2, BGT, BG:EE, BG2:EE, PST, PST:EE et IWD.",
+        "description": "Ce mod corrige quelques problèmes dans des sessions multi-joueurs. Lors d'un combat, jusqu'à 5 adversaires peuvent suivre un membre du groupe qui emprunte une porte (s'applique uniquement aux zones intérieures dont les entrées sont utilisables par les PNJ). Le jeu se met en pause lorsque les PNJ deviennent hostiles pendant le dialogue.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32809-multiplayer-tweaks-fixes-for-multiplayer-sessions/",
             "https://github.com/lzenner/mptweaks"
@@ -26124,8 +26129,7 @@
         ],
         "team": [],
         "notes": [
-            "Ne vous trompez pas de version sous peine d'avoir un mélange de voix dans le jeu !",
-            "Depuis la sortie du mod [[259]], ce mod a été rendu obsolète pour les jeux dotés du patch 2.6 ou ultérieur."
+            "Ce mod a été inclus dans [[259]]."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -26134,7 +26138,11 @@
         ],
         "status": "embed",
         "last_update": "2018-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                "version >= 2.6"
+            ]
+        },
         "tp2": "non-weidu"
     },
     {
@@ -28496,7 +28504,7 @@
     {
         "id": 859,
         "name": "Recolored character's toolbar buttons for BG:EE and BG2:EE",
-        "description": "Ce mod, initialement destiné à BG2:EE, mais aussi compatible avec BG:EE, vise à mettre davantage en évidence les boutons à bascule (tels que celui de l'IA) lorsqu'ils sont sélectionnés.",
+        "description": "Ce mod vise à mettre davantage en évidence les boutons à bascule (tels que celui de l'IA) lorsqu'ils sont sélectionnés.",
         "urls": [
             "https://www.shsforums.net/files/file/1079-recolored-toolbar-buttons-for-bgee-bg2ee/",
             "https://github.com/Argent77/A7-recoloredbuttons"
@@ -32987,7 +32995,7 @@
     {
         "id": 990,
         "name": "Spontaneous Casting For Clerics and Druids",
-        "description": "Ce mod permet aux clercs et druides de bénéficier de la capacité d'incantation spontanée de D&D 3e pour les sorts de soins, de blessures et de convocation. Il fonctionne avec BG:EE, BG2:EE, IWD:EE et EET. Il devrait être compatible avec d'autres mods qui ajoutent des sorts et des profils de clercs et druides à condition d'être installé après eux.|Techniquement, il implante trois capacités innées qui, une fois activées, transforment tous les sorts divins mémorisés du lanceur en sorts de soins, de dégâts ou d'invocation de leurs niveaux respectifs. Les clercs bons reçoivent des soins spontanés, les clercs mauvais des blessures spontanées, et les clercs neutres les deux. Les druides reçoivent des invocations spontanées. Cela dure 6 heures ou jusqu'à ce que le sort divin choisi soit lancé, puis tous les sorts sont retransformés.",
+        "description": "Ce mod permet aux clercs et druides de bénéficier de la capacité d'incantation spontanée de D&D 3e pour les sorts de soins, de blessures et de convocation. Il devrait être compatible avec d'autres mods qui ajoutent des sorts et des profils de clercs et druides à condition d'être installé après eux.|Techniquement, il implante trois capacités innées qui, une fois activées, transforment tous les sorts divins mémorisés du lanceur en sorts de soins, de dégâts ou d'invocation de leurs niveaux respectifs. Les clercs bons reçoivent des soins spontanés, les clercs mauvais des blessures spontanées, et les clercs neutres les deux. Les druides reçoivent des invocations spontanées. Cela dure 6 heures ou jusqu'à ce que le sort divin choisi soit lancé, puis tous les sorts sont retransformés.",
         "urls": [
             "https://forums.beamdog.com/discussion/29604/",
             "https://github.com/Renegade0/SpontaneousCasting"
@@ -33482,7 +33490,7 @@
     {
         "id": 1005,
         "name": "Super Ultimate Portrait Pack",
-        "description": "Successeur du [[1148]], il s'agit d'un pack de 541 portraits pour BG:EE et BG2:EE.",
+        "description": "Successeur du [[1148]], il s'agit d'un pack de 541 portraits.",
         "urls": [
             "https://www.moddb.com/games/baldurs-gate-enhanced-edition/addons/super-ultimate-portrait-pack-zip"
         ],
@@ -35178,7 +35186,7 @@
     {
         "id": 1055,
         "name": "The Boareskyr Bridge Scene",
-        "description": "Comme la lettre de Gorion et les rêves du PJ dans BG, la transformation en écorcheur dans SoA, et les épreuves dans ToB, la scène du pont de Boarskyr dans SoD est une étape importante dans le parcours du PJ vers sa destinée. Ce mod s'efforce donc de lui donner plus de profondeur et une meilleur intégration dans l'histoire avec des réactions des PNJ et autres personnages du jeu. Il y aura des mises en garde avant d'aller sur le pont, et les PNJ réagiront au déroulement des événements, selon les composants installés. La scène originale sera également étendue avec des textes descriptifs et la possibilité pour le joueur de choisir comment gérer la déflagration d'énergie divine ainsi que les changements de statistiques qui en résultent.|Il comprend quatre composants optionnels, mais qui se complètent les uns les autres :|- 1. La scène du pont de Boarskyr est mentionnée par les PNJ : Ce composant ajoute des réactions aux personnages du jeu avant et après votre passage sur le pont de Boarskyr. La cinématique du pont reste inchangée.|- 2. Ajouter un texte décrivant la cinématique originale du pont de Boarskyr : Ce composant ajoute des textes descriptifs supplémentaires à la cinématique du pont, basés sur le même style que BGII (l'Arbre de vie, transformation en écorcheur).|- 3. Le déroulement des événements du pont de Boarskyr offre plusieurs choix : Ce composant permet au PJ de choisir comment réagir à la vague d'énergie libérée sur le pont. Il y a trois possibilités : 1) le PJ absorbe toute la douleur pour protéger les autres ; 2) Le PJ détourne l'énergie vers la rivière (les personnes proches de lui seront légèrement touchées et recevront quelques dégâts) ; 3) le PJ canalise l'énergie et la projette autour de lui (tous les membres du groupe reçoivent des dégâts et la plupart des soldats du Poing enflammé qui se trouvent sur le pont meurent).|- 4. Modifier les caractéristiques du PJ en fonction de ses choix : 1) lorsque le PJ absorbe la douleur, sa sagesse augmente de 1 de façon permanente : 2) 2. lorsque le PJ dirige l'énergie vers la rivière, sa dextérité augmente de 1 de façon permanente ; 3) si le PJ dirige l'énergie vers ses alliés, sa constitution augmente de 1 de façon permanente.",
+        "description": "Comme la lettre de Gorion et les rêves du PJ dans BG, la transformation en écorcheur dans SoA, et les épreuves dans ToB, la scène du pont de Boarskyr dans SoD est une étape importante dans le parcours du PJ vers sa destinée. Ce mod s'efforce donc de lui donner plus de profondeur et une meilleur intégration dans l'histoire avec des réactions des PNJ et autres personnages du jeu. Il y aura des mises en garde avant d'aller sur le pont, et les PNJ réagiront au déroulement des événements, selon les composants installés. La scène originale sera également étendue avec des textes descriptifs et la possibilité pour le joueur de choisir comment gérer la déflagration d'énergie divine ainsi que les changements de statistiques qui en résultent.|Il comprend quatre composants optionnels, mais qui se complètent les uns les autres :|- 1. La scène du pont de Boarskyr est mentionnée par les PNJ : Ce composant ajoute des réactions aux personnages du jeu avant et après votre passage sur le pont de Boarskyr. La cinématique du pont reste inchangée.|- 2. Ajouter un texte décrivant la cinématique originale du pont de Boarskyr : Ce composant ajoute des textes descriptifs supplémentaires à la cinématique du pont, basés sur le même style que BG2 (l'Arbre de vie, transformation en écorcheur).|- 3. Le déroulement des événements du pont de Boarskyr offre plusieurs choix : Ce composant permet au PJ de choisir comment réagir à la vague d'énergie libérée sur le pont. Il y a trois possibilités : 1) le PJ absorbe toute la douleur pour protéger les autres ; 2) Le PJ détourne l'énergie vers la rivière (les personnes proches de lui seront légèrement touchées et recevront quelques dégâts) ; 3) le PJ canalise l'énergie et la projette autour de lui (tous les membres du groupe reçoivent des dégâts et la plupart des soldats du Poing enflammé qui se trouvent sur le pont meurent).|- 4. Modifier les caractéristiques du PJ en fonction de ses choix : 1) lorsque le PJ absorbe la douleur, sa sagesse augmente de 1 de façon permanente : 2) 2. lorsque le PJ dirige l'énergie vers la rivière, sa dextérité augmente de 1 de façon permanente ; 3) si le PJ dirige l'énergie vers ses alliés, sa constitution augmente de 1 de façon permanente.",
         "urls": [
             "https://www.gibberlings3.net/mods/quests/tbbs",
             "https://github.com/Gibberlings3/The_Boareskyr_Bridge_Scene"
@@ -36060,7 +36068,7 @@
     {
         "id": 1080,
         "name": "The Picture Standard",
-        "description": "Ce mod installe plus de 500 portraits en haute résolution pour les PNJ recrutables ou non de BG:EE et BG2:EE, dont certains pour des personnages de mods comme [[25]], [[894]], [[1096]], [[1027]], [[552]]... Parce que certains portraits ne sont pas fidèles à l'histoire, une collection de portraits alternatifs peut les remplacer.",
+        "description": "Ce mod installe plus de 500 portraits en haute résolution pour les PNJ recrutables ou non, dont certains pour des personnages de mods comme [[25]], [[894]], [[1096]], [[1027]], [[552]]... Parce que certains portraits ne sont pas fidèles à l'histoire, une collection de portraits alternatifs peut les remplacer.",
         "urls": [
             "https://www.shsforums.net/topic/57927-mod-the-picture-standard-for-bgee-1-2/",
             "https://www.nexusmods.com/baldursgate2ee/mods/9"
@@ -37524,7 +37532,7 @@
     {
         "id": 1122,
         "name": "Transitions",
-        "description": "Ce mod adoucit les transitions entre les campagnes dans EET. Il permet de rester dans le \"monde\" de BG1 après la défaite de Sarevok et dans le \"monde\" BG2 après la défaite d'Irenicus. La progression vers les zones SoD ou BGII du jeu est accomplie en utilisant un objet fourni par le duc Belt après avoir terminé ou sauté les quêtes de nettoyage. La progression vers ToB est accomplie en utilisant l'amulette de la Seldarine donnée par la reine Ellesime.|Dans EET, vous avez la possibilité d'avoir votre propre logement personnel qui contient un coffre qui vous suit jusqu'à ToB : après avoir vaincu Sarevok, vous pourrez vous installer dans le Palais Ducal (nécessite SoD) grâce au duc Belt ; si vous avez sauvé le duc Eltan dans EET, il vous remettra les clés d'une maison.|Un certain nombre de nouvelles quêtes de nettoyage seront disponibles en fonction des disciples de Sarevok que vous aurez précédemment éliminés. Les quêtes de BG et de TotSC peuvent être terminées après la mort de Sarevok ; ce qui vous permet de contrôler l'ordre des événements.|Vous pourrez également choisir d'équiper Sarevok de son équipement (dont son épée) ou de le laisser dans son inventaire.|Enfin, après avoir vaincu Sarevok, vous recevrez une nouvelle capacité d'Enfant de Bhaal, différente selon votre alignement.",
+        "description": "Ce mod adoucit les transitions entre les campagnes dans EET. Il permet de rester dans le \"monde\" de BG1 après la défaite de Sarevok et dans le \"monde\" BG2 après la défaite d'Irenicus. La progression vers les zones SoD ou BG2 du jeu est accomplie en utilisant un objet fourni par le duc Belt après avoir terminé ou sauté les quêtes de nettoyage. La progression vers ToB est accomplie en utilisant l'amulette de la Seldarine donnée par la reine Ellesime.|Dans EET, vous avez la possibilité d'avoir votre propre logement personnel qui contient un coffre qui vous suit jusqu'à ToB : après avoir vaincu Sarevok, vous pourrez vous installer dans le Palais Ducal (nécessite SoD) grâce au duc Belt ; si vous avez sauvé le duc Eltan dans EET, il vous remettra les clés d'une maison.|Un certain nombre de nouvelles quêtes de nettoyage seront disponibles en fonction des disciples de Sarevok que vous aurez précédemment éliminés. Les quêtes de BG et de TotSC peuvent être terminées après la mort de Sarevok ; ce qui vous permet de contrôler l'ordre des événements.|Vous pourrez également choisir d'équiper Sarevok de son équipement (dont son épée) ou de le laisser dans son inventaire.|Enfin, après avoir vaincu Sarevok, vous recevrez une nouvelle capacité d'Enfant de Bhaal, différente selon votre alignement.",
         "urls": [
             "https://www.gibberlings3.net/files/file/1021-transitions/",
             "https://www.gibberlings3.net/forums/topic/31868-transitions-mod-for-bg1-sod-bg2-and-eet",
@@ -37648,7 +37656,7 @@
     {
         "id": 1126,
         "name": "Tresset's Choice Tweaks",
-        "description": "Il s'agit d'une collection d'ajustements pour les jeux BG:EE et BG2:EE dont vous trouverez la liste dans le lien indiqué.",
+        "description": "Il s'agit d'une collection d'ajustements dont vous trouverez la liste dans le lien indiqué.",
         "urls": [
             "https://forums.beamdog.com/discussion/61898/"
         ],
@@ -37678,7 +37686,7 @@
     {
         "id": 1127,
         "name": "Tresset's Permanent Shapeshift Weapons",
-        "description": "Ce mod avait pour objectif d'éviter que les armes naturelles du druide métamorphe ne disparaissent après 16 heures.",
+        "description": "Ce mod a pour objectif d'éviter que les armes naturelles du druide métamorphe ne disparaissent après 16 heures.",
         "urls": [
             "https://forums.beamdog.com/discussion/33403/",
             "https://forums.beamdog.com/discussion/33404/"
@@ -37688,14 +37696,16 @@
         ],
         "games": [
             "BGEE",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Tresset"
         ],
         "team": [],
         "notes": [
-            "utilisez le premier lien pour la version BGEE et le second lien pour la version BG2EE. Pour EET, utilisez la version BG2EE.|Ce mod est obsolète, le mod [[1141]] propose un composant similaire qui fonctionne sur toutes les versions du jeu."
+            "Utilisez le premier lien pour la version BGEE et le second lien pour la version BG2EE. Pour EET, utilisez la version BG2EE.",
+            "Le mod [[1141]] propose un composant similaire qui fonctionne sur toutes les versions du jeu."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -37708,7 +37718,7 @@
     {
         "id": 1128,
         "name": "Trials of the Luremaster for Baldur's Gate",
-        "description": "Ce mod permet de jouer l'extension de Icewind Dale « Les Épreuves du Maître des Leurres » dans BG2:EE (version 2.0 ou supérieure), Siege of Dragonspear et [[372]]. Pour initier la quête, parlez au petit-homme Hobart Piévelu, que vous trouverez soit dans l'auberge des Collines d'Umar (SoA), d'Amkethran (ToB) ou au sud est du Camp de la Coalition (SoD). Au cours de l'aventure, vous aurez l'opportunité d'explorer un château hanté, de tester votre courage et de faire vos preuves dans des combats difficiles et de lever une ancienne malédiction.",
+        "description": "Ce mod permet de jouer l'extension de Icewind Dale « Les Épreuves du Maître des Leurres » dans BG2:EE, Siege of Dragonspear et [[372]]. Pour initier la quête, parlez au petit-homme Hobart Piévelu, que vous trouverez soit dans l'auberge des Collines d'Umar (SoA), d'Amkethran (ToB) ou au sud est du Camp de la Coalition (SoD). Au cours de l'aventure, vous aurez l'opportunité d'explorer un château hanté, de tester votre courage et de faire vos preuves dans des combats difficiles et de lever une ancienne malédiction.",
         "urls": [
             "https://www.shsforums.net/files/file/1251-trials-of-the-luremaster-for-baldurs-gate/",
             "https://forums.beamdog.com/discussion/73701/",
@@ -37743,7 +37753,11 @@
         ],
         "status": "active",
         "last_update": "2026-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "v2.0+"
+            ]
+        },
         "tp2": "A7-TotLM-BG2EE"
     },
     {
@@ -39726,7 +39740,7 @@
     {
         "id": 1191,
         "name": "W_GUI",
-        "description": "Ce mod propose une nouvelle interface pour BG2:ToB qui remodèle complètement la quasi-totalité des écrans du jeu. Il est compatible avec [[1216]], Tutu, BGT et [[1191]] pour lesquels il comporte des écrans de début spécifiques.",
+        "description": "Ce mod propose une nouvelle interface qui remodèle complètement la quasi-totalité des écrans du jeu. Il est compatible avec [[1216]] et [[1191]] pour lesquels il comporte des écrans de début spécifiques.",
         "urls": [
             "https://www.shsforums.net/files/file/990-w-gui/",
             "https://github.com/Spellhold-Studios/W_GUI/"
@@ -39862,7 +39876,7 @@
     {
         "id": 1195,
         "name": "Wand Case",
-        "description": "Ce mod ajoute un étui à baguettes dans un magasin spécifique à chaque jeu : chez Thalantyr dans BG:EE, tutu, BGT et EET ; chez Ribald et dans la taverne de Saradush (uniquement pour ToB) dans BG2, BG2:EE, BGT et EET.",
+        "description": "Ce mod ajoute un étui à baguettes dans un magasin spécifique à chaque jeu : chez Thalantyr, chez Ribald et dans la taverne de Saradush.",
         "urls": [
             "https://forums.beamdog.com/discussion/22472/"
         ],
@@ -43239,7 +43253,7 @@
     {
         "id": 1296,
         "name": "Solaufein's Rescue - jastey's Solaufein NPC mod for BGII",
-        "description": "Écrit par jastev, ce mod est une alternative au célèbre [[1294]] de Weimer, et est compatible avec les jeux BG2 d'origine (avec ToB), BGT, BG2:EE et EET.|Avant de pouvoir le recruter, vous devez libérer Solaufein des chambres des driders. Cette quête peut être jouée indépendamment du fait qu'il doive ensuite rejoindre le groupe ou non. (Ce n'est pas le mod Solaufein NPC de Weimer.).|Solaufein peut également vous suivre en tant que « 7e membre du groupe » si votre groupe se compose déjà de 6 personnes. Pour plus de détails à ce sujet, veuillez vous lire le fichier readme.",
+        "description": "Ce mod est une alternative au célèbre [[1294]].|Avant de pouvoir recruter Solaufein, vous devez le libérer des chambres des driders. Cette quête peut être jouée indépendamment du fait qu'il doive ensuite rejoindre le groupe ou non.|Solaufein peut également vous suivre en tant que « 7e membre du groupe » si votre groupe se compose déjà de 6 personnes. Pour plus de détails à ce sujet, veuillez lire le fichier readme.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/jasteys-solaufein-npc-mod-for-bgii-solaufeins-rescue.13/",
             "https://github.com/Gitjas/Solaufeins_Rescue_NPC/"
@@ -49578,7 +49592,7 @@
     {
         "id": 1494,
         "name": "Therrin NPC",
-        "description": "Therrin est un rôdeur elfe d'alignement neutre mauvais, exilé de Suldanessalar. On peut le trouver à l'auberge aux portes de la ville d'Athkatla. Sa race ennemie est le rakshasa. Il n'a pas de voix et n'a de contenu que pour SoA, bien qu'il soit testé sur une installation SoA+ToB entièrement patchée de BGII. Il possède le minimum de dialogue et une amulette.|FOR 18/75, DEX 17, CON 17, INT 13, SAG 14, CHA 10.",
+        "description": "Therrin est un rôdeur elfe d'alignement neutre mauvais, exilé de Suldanessalar. On peut le trouver à l'auberge aux portes de la ville d'Athkatla. Sa race ennemie est le rakshasa. Il n'a pas de voix et n'a de contenu que pour SoA, bien qu'il soit testé sur une installation SoA+ToB entièrement patchée de BG2. Il possède le minimum de dialogue et une amulette.|FOR 18/75, DEX 17, CON 17, INT 13, SAG 14, CHA 10.",
         "urls": [
             "https://america.iegmc.com/shard/"
         ],
