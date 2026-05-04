@@ -8718,7 +8718,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Vous rencontrerez le guerrier Bons, amateur de bière, au deuxième niveau du donjon d'Irenicus. Lorsqu'il est ivre, il a des capacités spéciales - et parfois des problèmes avec l'alcool."
+            "source": "Vous rencontrerez le guerrier Bons, amateur de bière, au deuxième niveau du donjon d'Irenicus. Il a son propre kit. Lorsqu'il est ivre, il a des capacités spéciales - et parfois des problèmes avec l'alcool.Vous trouverez de l'alcool à acheter dans certaines échoppes.|FOR 17, DEX 18, CON 17, INT 13, SAG 11, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -13319,12 +13319,14 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Il s'agit du tout premier mod du prolifique Lava, Skie BG2, totalement réécrit et traduit en anglais. Vous souvenez-vous de Skie, la fille riche et gâtée d'Entar Écudargent ? Cette voleuse humaine neutre est désormais disponible en tant que PNJ recrutable dans BG2.|Le mod propose de nouvelles interactions et conversations avec Charname, son jeu de sons original de la première partie de la saga, ainsi que des portraits alternatifs en option. Skie peut commencer une romance avec le personnage principal - il doit s'agir d'un elfe, d'un humain, d'un demi-elfe ou d'un tieffelin. De nouveaux objets ont été ajoutés, des anciens modifiés, tous les scripts ont été réécrits et un troisième épilogue a été ajouté. La recherche d'objets a été facilitée et est désormais liée à une petite quête romantique."
+            "source": "Vous souvenez-vous de Skie, la fille riche et gâtée d'Entar Écudargent ? Cette voleuse humaine neutre est désormais disponible en tant que PNJ recrutable dans BG2.|Le mod propose de nouvelles interactions et conversations avec Charname, son jeu de sons original de la première partie de la saga, ainsi que des portraits alternatifs en option. Skie peut commencer une romance avec le personnage principal - il doit s'agir d'un elfe, d'un humain, d'un demi-elfe ou d'un tieffelin. De nouveaux objets ont été ajoutés, des anciens modifiés, tous les scripts ont été réécrits et un troisième épilogue a été ajouté. La recherche d'objets a été facilitée et est désormais liée à une petite quête romantique.|FOR 11, DEX 18, CON 15, INT 15, SAG 8, CHA 13."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Plusieurs releases ont eu lieu depuis la 0.5.1, la dernière en date (v3) date de 2015, elle est disponible en anglais et compatible EE, mais celle-ci reste introuvable."
+            ]
         }
     },
     {
@@ -20520,8 +20522,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "La version cob n'est plus à jour mais possède la version polonaise."
+            ]
         }
     },
     {
@@ -23062,7 +23066,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Ce mod converti le texte des objets modifiés en polonais."
+                "Ce mod converti le texte des objets modifiés en polonais. Il nécessite [[761]] en version 2.01."
             ]
         }
     },
@@ -27392,6 +27396,58 @@
             "source": [
                 "Ce mod est une alternative à [[1369]]. Il est compatible avec Windows et Linux."
             ]
+        }
+    },
+    {
+        "id": 1991,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose des correctifs de texte pour la version polonaise."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1992,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Les derviches sont les membres d'une confrérie mystique de guerriers sacrés. Grâce à l'ascèse dans laquelle ils vivent, ils acquièrent des pouvoirs supplémentaires. Leur style de combat repose sur des pirouettes offensives et presque toujours sur le maniement de deux armes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1993,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ascète silencieux. Ce kit de moine possède le don de rendre silencieux ses adversaires."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1994,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Les polythéistes ne sont pas des clercs qui croient en de nombreux dieux, mais qui en vénèrent deux ou (au maximum et le plus souvent) trois. La tradition récente du « polythéisme » trouve son origine dans la trinité – l’alliance entre Helm, Tyr et Torm."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]

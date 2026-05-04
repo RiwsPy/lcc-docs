@@ -9060,10 +9060,10 @@
     },
     {
         "id": 631,
-        "description": "You'll meet the beer-loving fighter Bons on the second level of the Irenicus dungeon. When drunk, he has special abilities - and sometimes problems with alcohol.",
+        "description": "You'll meet the beer-loving fighter Bons on the second level of the Irenicus dungeon. He has his own kit. When drunk, he has special abilities - and sometimes problems with alcohol. You can buy alcohol at some shops.|STR 17, DEX 18, CON 17, INT 13, WIS 11, CHA 11.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Vous rencontrerez le guerrier Bons, amateur de bière, au deuxième niveau du donjon d'Irenicus. Lorsqu'il est ivre, il a des capacités spéciales - et parfois des problèmes avec l'alcool."
+            "source": "Vous rencontrerez le guerrier Bons, amateur de bière, au deuxième niveau du donjon d'Irenicus. Il a son propre kit. Lorsqu'il est ivre, il a des capacités spéciales - et parfois des problèmes avec l'alcool. Vous trouverez de l'alcool à acheter dans certaines échoppes.|FOR 17, DEX 18, CON 17, INT 13, SAG 11, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -13857,15 +13857,19 @@
     },
     {
         "id": 961,
-        "description": "This is the very first mod by the prolific Lava, Skie BG2, completely rewritten and translated into English. Remember Skie, the rich and spoiled daughter of Entar Silvershield? This neutral human thief is now available as a recruitable NPC in BG2.|The mod features new interactions and conversations with Charname, her original set of sounds from the first part of the saga, as well as optional alternative portraits. Skie can start a romance with the main character - it must be an elf, human, half-elf or tieffelin. New items have been added, old ones modified, all scripts rewritten and a third epilogue added. Searching for items has been made easier and is now linked to a small romantic quest.",
+        "description": "Remember Skie, the rich and spoiled daughter of Entar Silvershield? This neutral human thief is now available as a recruitable NPC in BG2.|The mod features new interactions and conversations with Charname, her original set of sounds from the first part of the saga, as well as optional alternative portraits. Skie can start a romance with the main character - it must be an elf, human, half-elf or tieffelin. New items have been added, old ones modified, all scripts rewritten and a third epilogue added. Searching for items has been made easier and is now linked to a small romantic quest.|STR 11, DEX 18, CON 15, INT 15, WIS 8, CHA 13.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit du tout premier mod du prolifique Lava, Skie BG2, totalement réécrit et traduit en anglais. Vous souvenez-vous de Skie, la fille riche et gâtée d'Entar Écudargent ? Cette voleuse humaine neutre est désormais disponible en tant que PNJ recrutable dans BG2.|Le mod propose de nouvelles interactions et conversations avec Charname, son jeu de sons original de la première partie de la saga, ainsi que des portraits alternatifs en option. Skie peut commencer une romance avec le personnage principal - il doit s'agir d'un elfe, d'un humain, d'un demi-elfe ou d'un tieffelin. De nouveaux objets ont été ajoutés, des anciens modifiés, tous les scripts ont été réécrits et un troisième épilogue a été ajouté. La recherche d'objets a été facilitée et est désormais liée à une petite quête romantique."
+            "source": "Vous souvenez-vous de Skie, la fille riche et gâtée d'Entar Écudargent ? Cette voleuse humaine neutre est désormais disponible en tant que PNJ recrutable dans BG2.|Le mod propose de nouvelles interactions et conversations avec Charname, son jeu de sons original de la première partie de la saga, ainsi que des portraits alternatifs en option. Skie peut commencer une romance avec le personnage principal - il doit s'agir d'un elfe, d'un humain, d'un demi-elfe ou d'un tieffelin. De nouveaux objets ont été ajoutés, des anciens modifiés, tous les scripts ont été réécrits et un troisième épilogue a été ajouté. La recherche d'objets a été facilitée et est désormais liée à une petite quête romantique.|FOR 11, DEX 18, CON 15, INT 15, SAG 8, CHA 13."
         },
-        "notes": [],
+        "notes": [
+            "Several releases have been issued since version 0.5.1; the most recent one (v3) dates from 2015, is available in English and is EE-compatible, but it remains unavailable."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Plusieurs releases ont eu lieu depuis la 0.5.1, la dernière en date (v3) date de 2015, elle est disponible en anglais et compatible EE, mais celle-ci reste introuvable."
+            ]
         }
     },
     {
@@ -21258,10 +21262,14 @@
             "status": "needs_review",
             "source": "Ce mod introduit un nouveau kit pour le voleur. Il est légèrement inspiré du jeu Arcanum : Of Steamworks and Magick Obscura. Les inventeurs sont des voleurs qui se sont consacrés à l'étude des sciences et de l'artisanat. Avec l'expérience, ils peuvent créer et développer des inventions de plus en plus complexes, que l'on peut qualifier de synthétiques et d'avant-gardistes compte tenu des réalités du royaume. Souvent inspirés par les doctrines de Gond, ils peuvent créer de véritables chefs-d'œuvre techniques à partir de tout ce qu'ils rencontrent au cours de leurs voyages. Seuls les gnomes peuvent devenir des inventeurs."
         },
-        "notes": [],
+        "notes": [
+            "The cob version is outdated but it does include Polish translation."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "La version cob n'est plus à jour mais possède la traduction polonaise."
+            ]
         }
     },
     {
@@ -23902,7 +23910,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Ce mod converti le texte des objets modifiés en polonais."
+                "Ce mod converti le texte des objets modifiés en polonais. Il nécessite [[761]] en version 2.01."
             ]
         }
     },
@@ -28335,6 +28343,58 @@
             "source": [
                 "Ce mod est une alternative à [[1369]]. Il est compatible avec Windows et Linux."
             ]
+        }
+    },
+    {
+        "id": 1991,
+        "description": "This mod provides text fixes for the Polish version.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose des correctifs de texte pour la version polonaise."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1992,
+        "description": "Dervishes are members of a mystical brotherhood of holy warriors. Through the ascetic lifestyle they lead, they acquire additional powers. Their fighting style is based on offensive manoeuvres and almost always involves the use of two weapons.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Les derviches sont les membres d'une confrérie mystique de guerriers sacrés. Grâce à l'ascèse dans laquelle ils vivent, ils acquièrent des pouvoirs supplémentaires. Leur style de combat repose sur des pirouettes offensives et presque toujours sur le maniement de deux armes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1993,
+        "description": "Silent Ascetic. This monk kit has the ability to silence his opponents.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ascète silencieux. Ce kit de moine possède le don de rendre silencieux ses adversaires."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1994,
+        "description": "Polytheists are not clerics who believe in many gods, but who worship two or (at most, and most commonly) three. The recent tradition of ‘polytheism’ has its origins in the trinity – the alliance between Helm, Tyr and Torm.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Les polythéistes ne sont pas des clercs qui croient en de nombreux dieux, mais qui en vénèrent deux ou (au maximum et le plus souvent) trois. La tradition récente du « polythéisme » trouve son origine dans la trinité – l’alliance entre Helm, Tyr et Torm."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]
