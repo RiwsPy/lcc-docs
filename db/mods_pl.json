@@ -5111,6 +5111,9 @@
     },
     {
         "id": 370,
+        "team": [
+            "Damian Staniszewski"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -17862,7 +17865,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants..."
+            "source": "Il s'agit d'une collection de mods de PNJ qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants..."
         },
         "notes": [],
         "notes_meta": {
@@ -20022,8 +20025,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Ce mod a été inclus dans [[1782]]."
+            ]
         }
     },
     {
@@ -24614,7 +24619,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod ajoute de nombreux tweaks faits maison. Il ajoute également deux kits : le Grey Guard Paladin et le Chancer Bard. Consultez le [readme](https://www.nexusmods.com/baldursgate2ee/articles/8) pour plus d'informations."
+            "source": "Ce mod ajoute de nombreux tweaks faits maison. Il ajoute également trois kits : le Grey Guard Paladin, le Knife Master Thief et le Chancer Bard. Consultez le [readme](https://www.nexusmods.com/baldursgate2ee/articles/9) pour plus d'informations."
         },
         "notes": [],
         "notes_meta": {
@@ -27482,6 +27487,21 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1998,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute des dialogues aléatoires à certains endroits du jeu qui où ils paraissent manquer."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Actuellement, il rajoute un dialogue introspectif avec Imoen dans ToB après avoir affronté le spectre de Gorion."
+            ]
         }
     }
 ]

@@ -4445,7 +4445,7 @@
     },
     {
         "id": 308,
-        "description": "The main aim of this mod is to add teleportation capabilities to players, enabling them to travel to all official BG2 and ToB maps. It also adds many other spells to the game. Please note: it must be installed in conjunction with the [SpellFix Visual Effects] mod (https://www.shsforums.net/files/file/1271-spellfix-visual-effects/).",
+        "description": "The main aim of this mod is to add teleportation capabilities to players, enabling them to travel to all official BG2 and ToB maps. It also adds many other spells to the game. Please note: it must be installed in conjunction with the [SpellFix Visual Effects](https://www.shsforums.net/files/file/1271-spellfix-visual-effects/) mod.",
         "description_meta": {
             "status": "needs_review",
             "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doir être installé conjointement avec le mod [SpellFix Visual Effects](https://www.shsforums.net/files/file/1271-spellfix-visual-effects/)."
@@ -5328,6 +5328,10 @@
     },
     {
         "id": 370,
+        "team": [
+            "MajorTomSawyer",
+            "Rabain"
+        ],
         "description": "The content of this mod was originally intended to be part of a larger project, but was never completed. It brings several changes to the game, intended to make it more attractive. It contains several components:|- on the Waukeen's Promenade, the traveling merchant Alyoud sells 7 powerful magic items.|- addition and modification of character interactions.|- addition of tomes and manuals in empty or uninteresting containers.|- Irenicus dungeon: it is now possible to negotiate with the genie to obtain Balduran's cloak.|- addition of new portraits for your character.|- restoration of missing item descriptions (Plate Mail +3: 'The Practical Defense', Sling +3: 'Arla's Dragonbane').|- Item set bonuses: a character equipped with all Wormsor-forged draconic items or Balduran equipment receives additional bonuses. 5 new enemy races added: gnoll, skeleton, wiverne, yuan-ti and zombie.|- 10 new kits have been added, including some from the AD&D3 prestige classes: fighter (Knight, Duelist, Gladiator, Legionnaire), ranger (Globe-trotter), paladin (Crusader, Lich Terror, Dragon Slayer), thief (Silent Slayer) and cleric (Priestess of Aurile).|- various minor changes to the Dungeon of Irenicus.",
         "description_meta": {
             "status": "needs_review",
@@ -18494,10 +18498,10 @@
     },
     {
         "id": 1286,
-        "description": "This is a collection of NPC mods created by BCaesar and Ratatoskr that can be installed independently of each other:| - All Things Mazzy: friendship path, romance, interactions with NPCs...| - Keepable Clara NPC: rescue Clara from Hexxat and recruit her.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - And many other small components...",
+        "description": "This is a collection of NPC mods that can be installed independently of each other:| - All Things Mazzy: friendship path, romance, interactions with NPCs...| - Keepable Clara NPC: rescue Clara from Hexxat and recruit her.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - And many other small components...",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants..."
+            "source": "Il s'agit d'une collection de mods de PNJ qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants..."
         },
         "notes": [
             "It exists a lite version without content for adults: [[1806]]."
@@ -20743,10 +20747,14 @@
             "status": "needs_review",
             "source": "Ce mod permet de recharger les baguettes à tout moment soit avec de l'or (moins cher que la vente/achat) soit avec de l'xp. Pour ce faire, faites un clic droit sur la baguette dans l'inventaire et cliquez sur le bouton « Recharge Wand ». Une boîte de dialogue s'ouvrira avec le coût affiché et vous pourrez confirmer."
         },
-        "notes": [],
+        "notes": [
+            "This mod was included in [[1782]]."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Ce mod a été inclus dans [[1782]]."
+            ]
         }
     },
     {
@@ -25497,10 +25505,10 @@
     },
     {
         "id": 1782,
-        "description": "This mod adds many tweaks. It also adds two kits: the Grey Guard Paladin and the Chancer Bard. See the [readme](https://www.nexusmods.com/baldursgate2ee/articles/8) for more information.",
+        "description": "This mod adds many tweaks. It also adds three kits: the Grey Guard Paladin, the Knife Master Thief and the Chancer Bard. See the [readme](https://www.nexusmods.com/baldursgate2ee/articles/9) for more information.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute de nombreux tweaks faits maison. Il ajoute également deux kits : le Grey Guard Paladin et le Chancer Bard. Consultez le [readme](https://www.nexusmods.com/baldursgate2ee/articles/8) pour plus d'informations."
+            "source": "Ce mod ajoute de nombreux tweaks faits maison. Il ajoute également trois kits : le Grey Guard Paladin, le Knife Master Thief et le Chancer Bard. Consultez le [readme](https://www.nexusmods.com/baldursgate2ee/articles/9) pour plus d'informations."
         },
         "notes": [],
         "notes_meta": {
@@ -28426,6 +28434,23 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1998,
+        "description": "This mod adds random dialogues to certain parts of the game where it seems to be missing.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute des dialogues aléatoires à certains endroits du jeu qui où ils paraissent manquer."
+        },
+        "notes": [
+            "Currently, it adds an introspective dialogue with Imoen in ToB after after dealing with Gorion's Spectre."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Actuellement, il rajoute un dialogue introspectif avec Imoen dans ToB après avoir affronté le spectre de Gorion."
+            ]
         }
     }
 ]

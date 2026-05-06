@@ -18672,8 +18672,8 @@
         "id": 1286,
         "description": "这是一个由BCaesar和Ratatoskr创建的NPC模组集合，这些模组可以独立安装：| - 玛兹的一切：友谊路线、爱情路线、与其他NPC的互动...| - 可招募的克拉拉NPC：从赫克塞特手中救下克拉拉并招募她。| - 黑暗面的阿诺门。| - 明斯克| - 涅拉的爱情线。| - 会飞的艾黎。| - 多恩| - 海尔达利的爱情线| - 贾希拉| - 威尔逊的爱情线| - 为了邪恶！| - 为了善良！| - 以及许多其他小组件...",
         "description_meta": {
-            "status": "done",
-            "source": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants..."
+            "status": "needs_review",
+            "source": "Il s'agit d'une collection de mods de PNJ qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants..."
         },
         "notes": [
             "有一个更精简且不含成人内容的版本：[[1806]]。"
@@ -20985,8 +20985,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Ce mod a été inclus dans [[1782]]."
+            ]
         }
     },
     {
@@ -25750,8 +25752,8 @@
         "id": 1782,
         "description": "此模组添加了许多自制的小改动。它还增加了两个宗派：灰色卫士圣武士和投机吟游诗人。更多信息请参阅 [readme](https://www.nexusmods.com/baldursgate2ee/articles/8)。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute de nombreux tweaks faits maison. Il ajoute également deux kits : le Grey Guard Paladin et le Chancer Bard. Consultez le [readme](https://www.nexusmods.com/baldursgate2ee/articles/8) pour plus d'informations."
+            "status": "needs_review",
+            "source": "Ce mod ajoute de nombreux tweaks faits maison. Il ajoute également trois kits : le Grey Guard Paladin, le Knife Master Thief et le Chancer Bard. Consultez le [readme](https://www.nexusmods.com/baldursgate2ee/articles/9) pour plus d'informations."
         },
         "notes": [],
         "notes_meta": {
@@ -28679,6 +28681,21 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 1998,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute des dialogues aléatoires à certains endroits du jeu qui où ils paraissent manquer."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Actuellement, il rajoute un dialogue introspectif avec Imoen dans ToB après avoir affronté le spectre de Gorion."
+            ]
         }
     }
 ]

@@ -4685,7 +4685,7 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "missing",
@@ -12384,7 +12384,9 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "pl"
+            "pl",
+            "en",
+            "de"
         ],
         "status": "active",
         "last_update": "2009-06",
@@ -15130,7 +15132,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "2004-10",
         "compatibilities": {
@@ -21636,7 +21640,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "2011-05",
         "compatibilities": {},
@@ -32854,7 +32860,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "missing",
         "last_update": "2017-08",
         "compatibilities": {},
@@ -37026,7 +37034,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "missing",
         "last_update": "2013-02",
         "compatibilities": {},
@@ -41545,7 +41555,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-07",
         "compatibilities": {},
@@ -42921,7 +42933,7 @@
     {
         "id": 1286,
         "name": "All Things Mazzy",
-        "description": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants...",
+        "description": "Il s'agit d'une collection de mods de PNJ qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants...",
         "urls": [
             "https://forums.beamdog.com/discussion/71473/",
             "https://github.com/Ratatoskr589/All-Things-Mazzy"
@@ -46933,7 +46945,7 @@
         "translation_state": "auto",
         "safe": 1,
         "languages": [],
-        "status": "missing",
+        "status": "wip",
         "last_update": "2013-08",
         "compatibilities": {},
         "tp2": ""
@@ -48063,11 +48075,13 @@
             "Allbrother"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod a été inclus dans [[1782]]."
+        ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2023-10",
         "compatibilities": {},
         "tp2": "wl_RechargeWands"
@@ -49270,7 +49284,7 @@
             "Il existe un lien [Github](https://github.com/Boooof) mais celui-ci ne propose que trois soundsets. Le lien vers Drive propose l'intégrale des huit soundsets créés.",
             "Nécessite une version du jeu 2.6+"
         ],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
@@ -50962,7 +50976,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "pl"
+        ],
         "status": "missing",
         "last_update": "2013-09",
         "compatibilities": {},
@@ -58429,7 +58445,7 @@
     {
         "id": 1782,
         "name": "WL House Rules",
-        "description": "Ce mod ajoute de nombreux tweaks faits maison. Il ajoute également deux kits : le Grey Guard Paladin et le Chancer Bard. Consultez le [readme](https://www.nexusmods.com/baldursgate2ee/articles/8) pour plus d'informations.",
+        "description": "Ce mod ajoute de nombreux tweaks faits maison. Il ajoute également trois kits : le Grey Guard Paladin, le Knife Master Thief et le Chancer Bard. Consultez le [readme](https://www.nexusmods.com/baldursgate2ee/articles/9) pour plus d'informations.",
         "urls": [
             "https://www.nexusmods.com/baldursgate2ee/mods/110/"
         ],
@@ -58437,7 +58453,8 @@
             "Gameplay"
         ],
         "games": [
-            "BGEE"
+            "BGEE",
+            "BG2EE"
         ],
         "authors": [
             "AlbiesEmporium"
@@ -58521,6 +58538,7 @@
         "name": "Edwina Dialogue Tweaks",
         "description": "Ce mod modifie quatre des options de dialogue de CHARNAME avec Edwina afin de les rendre un peu plus respectueuses.",
         "urls": [
+            "https://america.iegmc.com/bucketfulofsunshine/Edwina-Dialogue-Tweaks.zip",
             "https://github.com/bucketfulofsunshine/Edwina-Dialogue-Tweaks/"
         ],
         "categories": [
@@ -58535,11 +58553,11 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "archived",
         "last_update": "2025-07",
         "compatibilities": {},
         "tp2": "edwinatweaks"
@@ -65085,7 +65103,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "hidden",
@@ -65096,5 +65114,35 @@
             ]
         },
         "tp2": "sandrahitem"
+    },
+    {
+        "id": 1998,
+        "name": "Reflection",
+        "description": "Ce mod ajoute des dialogues aléatoires à certains endroits du jeu qui où ils paraissent manquer.",
+        "urls": [
+            "https://github.com/bucketfulofsunshine/Reflection"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "bucketfulofsunshine"
+        ],
+        "team": [],
+        "notes": [
+            "Actuellement, il rajoute un dialogue introspectif avec Imoen dans ToB après avoir affronté le spectre de Gorion."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2026-03",
+        "compatibilities": {},
+        "tp2": "reflection"
     }
 ]
