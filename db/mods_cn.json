@@ -1662,8 +1662,8 @@
         "id": 113,
         "description": "3个男女语音包（英文），源自博德之门Ⅰ，并已重命名以在博德之门：增强版中工作。",
         "description_meta": {
-            "status": "done",
-            "source": "3 packs de voix (en anglais) pour homme et femmes, tirés de BG1 et renommés pour fonctionner dans BG:EE."
+            "status": "needs_review",
+            "source": "3 packs de voix (en anglais) pour homme et femmes, tirés de BG1."
         },
         "notes": [],
         "notes_meta": {
@@ -1705,8 +1705,8 @@
         "id": 116,
         "description": "被称为BG2CPM。",
         "description_meta": {
-            "status": "done",
-            "source": "Connu sous le nom de BG2CPM."
+            "status": "needs_review",
+            "source": "Ce mod fourni un portrait à de nombreux personnages."
         },
         "notes": [
             "请转而查看 [[444]]，它是该模组的续作。"
@@ -1823,8 +1823,8 @@
         "id": 124,
         "description": "这个由Kerozevok制作的模组修改了游戏界面，使其具有博德之门Ⅱ：增强版的风格，并带来了一些其他改动。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod de Kerozevok modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements."
+            "status": "needs_review",
+            "source": "Ce mod modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements."
         },
         "notes": [],
         "notes_meta": {
@@ -3008,17 +3008,13 @@
         "id": 206,
         "description": "此模组在博德之门：增强版中添加了两个邪恶的NPC：|- Caina是卢斯坎的雇佣兵。你可以在贝尔苟斯特北部的一座宅邸找到她，她正在为Gerard Travenhurst工作以偿还债务。她拥有一个强盗的角色档案。只有在她完成自己的任务后才会加入你的队伍。她与BioWare的NPC有很多互动和一些俏皮话。如果你和她一起旅行，她会送给艾德温、萨尔和撒恩礼物。|- Zarra是来自Sschindylryn城（靠近科米尔）的卓尔精灵。她是一名猎杀地精的弓箭手，拥有一个名为Auflaque的动物伙伴。她显然迷路了，需要你的帮助来找回一件属于她的物品。你会在那西凯附近（在Dorn的第一个任务区域）遇到她。她与BioWare的NPC有很多互动和一些俏皮话，还有一个个人任务。她非常紧张和脆弱，请善待她，否则她会离开。|此模组包含3个新的地牢（10个新区域）、新的敌人和超过20件新物品。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute deux PNJ mauvais dans BG:EE :|- Caina est une mercenaire de Luskan. Vous pouvez la trouver à Bérégost dans un manoir au nord où elle travaille pour Gerard Travenhurst afin d'éponger ses dettes. Elle dispose d'un profil de brigand. Elle ne vous rejoindra qu'après avoir accompli sa quête. Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware. Si vous voyagez avec elle, elle donnera des cadeaux à Edwin, Xzar et Xan.|- Zarra est une drow de la ville de Sschindylryn (près de Cormyr). C'est une archère chasseuse de gobelins qui possède un animal compagnon, Auflaque. Elle est visiblement perdue et a besoin de votre aide pour retrouver un objet qui lui appartient. Vous la rencontrerez près de Nashkel (dans la première zone de quête de Dorn). Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware et une quête personnelle. Elle est très nerveuse et vulnérable, traitez-la bien ou elle partira.|Ce mod comprend 3 nouveaux donjons (10 nouvelles zones), de nouveaux ennemis et plus de 20 nouveaux objets."
+            "status": "needs_review",
+            "source": "Ce mod ajoute deux PNJ mauvais :|- Caina est une mercenaire de Luskan. Vous pouvez la trouver à Bérégost dans un manoir au nord où elle travaille pour Gerard Travenhurst afin d'éponger ses dettes. Elle dispose d'un kit de brigand. Elle ne vous rejoindra qu'après avoir accompli sa quête. Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware. Si vous voyagez avec elle, elle donnera des cadeaux à Edwin, Xzar et Xan.|- Zarra est une drow de la ville de Sschindylryn (près de Cormyr). C'est une archère chasseuse de gobelins qui possède un animal compagnon, Auflaque. Elle est visiblement perdue et a besoin de votre aide pour retrouver un objet qui lui appartient. Vous la rencontrerez près de Nashkel (dans la première zone de quête de Dorn). Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware et une quête personnelle. Elle est très nerveuse et vulnérable, traitez-la bien ou elle partira.|Ce mod comprend 3 nouveaux donjons (10 nouvelles zones), de nouveaux ennemis et plus de 20 nouveaux objets."
         },
-        "notes": [
-            "注意：此模组的质量有待提高，其安装过程也相当特殊。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : la qualité de ce mod laisse à désirer et sa procédure d'installation est pour le moins spéciale."
-            ]
+            "source": []
         }
     },
     {
@@ -3266,8 +3262,8 @@
         "id": 224,
         "description": "这个模组允许你在单人或多人游戏中选择多恩、赫克塞特、涅拉和拉萨德作为预创建角色。总之，没什么大用。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod permet de sélectionner Dorn, Hexxat, Neera et Rasaad comme personnages pré-créés dans une partie single ou multi joueurs. Bref, pas grand intérêt."
+            "status": "needs_review",
+            "source": "Ce mod permet de sélectionner Dorn, Hexxat, Neera et Rasaad comme personnages pré-créés dans une partie single ou multi joueurs."
         },
         "notes": [],
         "notes_meta": {
@@ -3408,17 +3404,13 @@
         "id": 234,
         "description": "|uScript或“通用”脚本是为博德之门Ⅱ 安姆阴影 & 巴尔王座的玩家设计的通用战斗AI脚本。它可以被任何角色职业使用。请参阅 [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) 了解更多详情。",
         "description_meta": {
-            "status": "done",
-            "source": "uScript ou \"Universal\" Script est un script de combat généraliste d'IA pour joueur de BG2 SoA & ToB. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) pour plus détails."
+            "status": "needs_review",
+            "source": "uScript ou \"Universal\" Script est un script de combat généraliste d'IA pour joueur. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) pour plus détails."
         },
-        "notes": [
-            "注意：此模组已多年未维护，并被整个模组制作和玩家社区视为过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : ce mod n'est plus maintenu depuis des années et est considéré comme obsolète par l'ensemble de la communauté de moddeurs et de joueurs."
-            ]
+            "source": []
         }
     },
     {
@@ -3604,13 +3596,16 @@
         "id": 247,
         "description": "此模组允许所有体质值超过15的角色获得额外生命值。|此模组会覆盖 HPCLASS.2da 和 HPCONBON.2da 文件，并且无法卸载。此外，由于 [[1279]] 的一个组件也做了同样的事情，请优先使用后者。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires.|Ce mod écrase les fichiers HPCLASS.2da et HPCONBON.2da, et ne peut pas être désinstallé. De plus, comme un composant de [[1279]] fait la même chose, privilégiez ce dernier."
+            "status": "needs_review",
+            "source": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires."
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Ce mod écrase les fichiers HPCLASS.2da et HPCONBON.2da.",
+                "Un composant de [[1279]] fait la même chose, privilégiez ce dernier."
+            ]
         }
     },
     {
@@ -3847,8 +3842,8 @@
         "id": 264,
         "description": "这个迷你模组在扭曲骷髅旅店（城门）中添加了商人克雷格。他出售5个容量无限的卷轴匣和两个宝石袋，还有一个药瓶和弹药带。|不幸的是，随着TeamBG网站的关闭，下载链接似乎已经消失了……",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mini mod ajoute le marchand Craig dans l'auberge du Crâne tordu (portes de la ville). Il vend 5 étuis à parchemins et deux sacs à gemmes, tous à contenance illimitée, ainsi qu'une boîte à potion et une ceinture de munitions.|Malheureusement, le lien de téléchargement semble avoir disparu avec le site TeamBG..."
+            "status": "needs_review",
+            "source": "Ce mini mod ajoute le marchand Craig dans l'auberge du Crâne tordu (portes de la ville). Il vend 5 étuis à parchemins et deux sacs à gemmes, tous à contenance illimitée, ainsi qu'une boîte à potion et une ceinture de munitions."
         },
         "notes": [],
         "notes_meta": {
@@ -4880,16 +4875,16 @@
         "id": 336,
         "description": "被称为“达德利维尔”，这个修复补丁旨在修正所有已被发现但未被Baldurdash（由Kevin Dorner制作）解决的游戏错误。它包含超过700个修复和补丁（大部分是次要的），其中一些修改旨在提供更接近桌面规则的游戏体验。补丁需在“Dudleyfix BG1 Fixes”部分下的“Completed Fixpack”中获取。这些补丁并非严格意义上的翻译，但大多数不需要翻译（它们不添加或修改任何文本）。",
         "description_meta": {
-            "status": "done",
-            "source": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\". Ces patchs ne sont pas à proprement parler traduits, mais la plupart n'ont pas besoin de traduction (ils n'ajoutent et ne modifient aucun texte)."
+            "status": "needs_review",
+            "source": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\"."
         },
         "notes": [
             "仅适用于原始博德之门游戏，不适用于Tutu或BGT。千万不要安装FixPack #2，否则您的游戏将变成英文！"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "À n'utiliser que pour un jeu BG original, sans Tutu ni BGT. Ne prenez surtout pas le FixPack #2 sous peine de passer votre jeu en Anglais !"
+                "Le FixPack #2 fera passer votre jeu en Anglais !"
             ]
         }
     },
@@ -5824,9 +5819,9 @@
             "不幸的是，它需要使用 IEES 或 IE Editor Pro 这两款老旧的模组制作工具来安装（你可以在 GrondeMarteau 锻造厂的论坛中找到它们的下载链接）。请像躲避瘟疫一样避开它。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Malheureusement, il s'installe avec IEES ou IE Editor Pro, de vieux outils de modding (vous trouverez leur liens de téléchargement dans le forum de la Forge de GrondeMarteau). Évitez-le comme la peste."
+                "Il s'installe avec IEES ou IE Editor Pro."
             ]
         }
     },
@@ -5936,9 +5931,9 @@
             "该模组需要使用 IEES 或 IE Editor Pro 来安装（你可以在 GrondeMarteau 锻造厂的论坛中找到这些工具的链接）。请像躲避瘟疫一样避开它。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Le mod s'installe avec IEES ou IE Editor Pro (vous trouverez les liens pour ces outils dans le forum de la Forge de GrondeMarteau). Évitez-le comme la peste."
+                "Le mod s'installe avec IEES ou IE Editor Pro."
             ]
         }
     },
@@ -7612,8 +7607,8 @@
         "id": 524,
         "description": "该计划由 Weimer 发起，旨在实现以《冰风谷2》的引擎运行《博德之门Ⅱ》。实质上，它是将《博德之门Ⅱ》进行改造，以适配《冰风谷2》的风格，采用其第三版规则、界面、法术等。目前已有大量截图可供查看。在其设计者退出社区后，该模组的测试版已向公众开放。此模组有很大可能将维持在测试版阶段。您可以在[此链接](https://weidu.org/iwg2/beta.html) 找到其安装说明。",
         "description_meta": {
-            "status": "done",
-            "source": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html)."
+            "status": "needs_review",
+            "source": "Ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html)."
         },
         "notes": [],
         "notes_meta": {
@@ -8582,14 +8577,10 @@
             "status": "done",
             "source": "Ce mod permet à tous les personnages importés de conserver leur équipement, y compris les armes et l'armure de Drizzt."
         },
-        "notes": [
-            "注意：此模组在博德之门三部曲中被报告存在问题..."
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : ce mod a été signalé comme posant des problèmes dans BGT..."
-            ]
+            "source": []
         }
     },
     {
@@ -9372,8 +9363,8 @@
         "id": 647,
         "description": "这是为《冰风谷》准备的一个预创建角色。德拉科·弗拉维乌斯爵士是一位14级守序中立人类战士，拥有精良的魔法装备。他的属性为：175点生命值，AC -11，力量21，敏捷19，体质18，智力10，智慧14和魅力11。",
         "description_meta": {
-            "status": "done",
-            "source": "Il s'agit d'un personnage pré-tiré pour IWD. Lord Draco Vlasavius est un guerrier humain loyal neutre de niveau 14 avec un équipement magique de qualité. Ses caractéristiques : 175 PV, CA -11, FOR 21, DEX 19, CON 18, INT 10, WIS 14 et CHA 11."
+            "status": "needs_review",
+            "source": "Il s'agit d'un personnage pré-tiré. Lord Draco Vlasavius est un guerrier humain loyal neutre de niveau 14 avec un équipement magique de qualité. Ses caractéristiques : 175 PV, CA -11, FOR 21, DEX 19, CON 18, INT 10, SAG 14 et CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -11385,8 +11376,8 @@
         "id": 785,
         "description": "此模组使所有提供高级隐身（PnP）的法术和能力生效：角色在攻击后不会重新显形。它还修改了“闪光尘”法术，使其能揭示豁免失败的隐形生物。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod rend tous les sorts et capacités qui donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il révèle les créatures invisibles qui ratent leu jet de sauvegarde."
+            "status": "needs_review",
+            "source": "Ce mod rend tous les sorts et capacités qui donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il révèle les créatures invisibles qui ratent leur jet de sauvegarde."
         },
         "notes": [],
         "notes_meta": {
@@ -11941,8 +11932,8 @@
         "id": 824,
         "description": "这个小模组修改了职业前置要求、半兽人种族、法术和魅力值调整的进阶表，使其符合桌面版规则。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce petit mod modifie  les pré-requis de profils, la race de semi-orque, les tables de progression des sorts et de modification de scores de Charisme pour les rendre conformes aux règles papier."
+            "status": "needs_review",
+            "source": "Ce petit mod modifie les pré-requis de profils, la race de semi-orque, les tables de progression des sorts et de modification de scores de Charisme pour les rendre conformes aux règles papier."
         },
         "notes": [],
         "notes_meta": {
@@ -12145,9 +12136,9 @@
             "此模组的作者对其进行了“全面改造”，并将其拆分为两个新的模组，可在此处下载 [https://forums.beamdog.com/discussion/42503/]。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Ce mod a subit un \"Overhaul\" de la part de son auteur et a été divisé en deux nouveaux mods  qui sont téléchargeables [ici](https://forums.beamdog.com/discussion/42503/)."
+                "Ce mod a subit un \"Overhaul\" de la part de son auteur et a été divisé en deux nouveaux mods qui sont téléchargeables [ici](https://forums.beamdog.com/discussion/42503/)."
             ]
         }
     },
@@ -12360,10 +12351,10 @@
     },
     {
         "id": 851,
-        "description": "这个模组提供了[[881]]转换模组中的30种职业。一些例子？来吧，开始了：亚马逊、角斗士、武士（战士）、反圣武士、救世主和黑暗卫士（圣武士）；时间守护者和元素使（游侠）；忍者 and 宝藏猎人（盗贼）；说书人、杂耍师和傀儡大师（吟游诗人）、阴影德鲁伊，等等。",
+        "description": "这个模组提供了[[881]]转换模组中的33种职业。一些例子？来吧，开始了：亚马逊、角斗士、武士（战士）、反圣武士、救世主和黑暗卫士（圣武士）；时间守护者和元素使（游侠）；忍者 and 宝藏猎人（盗贼）；说书人、杂耍师和傀儡大师（吟游诗人）、阴影德鲁伊，等等。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod rend disponibles 30 profils du module de conversion [[881]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres."
+            "source": "Ce mod rend disponibles 33 profils du module de conversion [[881]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres."
         },
         "notes": [
             "对于增强版，请使用 [github 链接](https://github.com/Plutonium-X/KIT_RTT/) 。"
@@ -14263,9 +14254,9 @@
             "注意：此模组为 tbg 格式，需要使用一个老旧的模组安装工具才能安装。请避免使用！"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Attention : Ce mod est au format tbg et nécessite un vieil outil de modding pour s'installer. Évitez-le !"
+                "Ce mod est au format tbg et nécessite IEEP pour s'installer."
             ]
         }
     },
@@ -16245,9 +16236,9 @@
             "注意：由于它已包含在模组 [[847]]（“作弊法术书”组件）中，建议安装前一个模组，此外该模组也已翻译。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Attention : Comme il est inclus dans le mod [[847]] (composant `Grimoire de triche`), autant installer le mod précédent qui, en plus, est traduit."
+                "Inclus dans le mod [[847]] (composant `Grimoire de triche`)."
             ]
         }
     },
@@ -23665,8 +23656,8 @@
         "id": 1632,
         "description": "使所有蛇不再蜿蜒前进，而是径直向前。这有什么用呢？",
         "description_meta": {
-            "status": "done",
-            "source": "Fait que tous les serpents, au lieu d'onduler, avancent tout droit. À quoi est-ce-que ça peut bien servir ?"
+            "status": "needs_review",
+            "source": "Fait que tous les serpents, au lieu d'onduler, avancent tout droit."
         },
         "notes": [
             "覆盖 MSNKG1.BAM、MSNKG11.BAM 和 MSNKG12.BAM 这三个文件。"
@@ -24360,16 +24351,12 @@
         "description": "此模组为游戏中的所有NPC添加了配音、新的音乐和新物品。它修改了许多规则，并修订了怪物使用的物品、法术和战术。它还增加了许多史诗般的战斗。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod ajoute des voix pour tous les npcs du jeu, de nouvelles musiques et de nouveaux objets. Il modifie de nombreuses règles et révise les objets, les sorts et les tactiques utilisées par les monstres. Il rajoute aussi de nombreux combat épicés."
+            "source": "Ce mod ajoute des voix pour tous les npcs du jeu, de nouvelles musiques et de nouveaux objets. Il modifie de nombreuses règles et révise les objets, les sorts et les tactiques utilisées par les monstres. Il rajoute aussi de nombreux combats épicés."
         },
-        "notes": [
-            "这是一个override模组，它会修改游戏中的大部分文件，且仅兼容游戏的1.4版本。它不适用于2.6+版本，并且与其他所有模组都不兼容。此外，其安装方法也很复杂。总之……请避开它。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il s'agit d'un mod override qui modifie la majorité les fichiers du jeu et qui n'est compatible qu'avec la version 1.4 du jeu. Il ne fonctionne pas avec la version 2.6+ et est incompatible avec tous les autres mods. De plus sa méthode d'installation est compliquée. Bref... évitez-le."
-            ]
+            "source": []
         }
     },
     {
@@ -25004,7 +24991,7 @@
         "description": "这个模组让巴拉德的任务不那么无聊：猫再也无法逃跑，当它们看到队伍成员时，它们会坐下并索要食物。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod rend la quête de Barad moins ennuyeuse : les chat ne peuvent plus s'échapper et quand ils voient un personnage du groupe ils s'assoient et demandent à manger."
+            "source": "Ce mod rend la quête de Barad moins ennuyeuse : les chats ne peuvent plus s'échapper et quand ils voient un personnage du groupe ils s'assoient et demandent à manger."
         },
         "notes": [],
         "notes_meta": {
@@ -25017,7 +25004,7 @@
         "description": "提供了两个英文语音包：Baeloth（兼容博德之门Ⅱ）和Sand，来自《无冬之夜2》的角色。",
         "description_meta": {
             "status": "done",
-            "source": "Deux packs de voix en anglais sont proposés : Baeloth (compatible BG2) et Sand, personnage du jeu Nevewinter Night 2"
+            "source": "Deux packs de voix en anglais sont proposés : Baeloth (compatible BG2) et Sand, personnage du jeu Neverwinter Nights 2."
         },
         "notes": [],
         "notes_meta": {
@@ -25059,7 +25046,7 @@
         "id": 1733,
         "description": "将此文件复制到override文件夹中，可以为游戏中的五个商人提供无限量的各种药水和/或投射物。",
         "description_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": "Ce fichier à copier dans l'override donne un stock illimité de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu."
         },
         "notes": [],
@@ -25151,7 +25138,7 @@
         "description": "为您的角色提供三套语音包（英文）：分别来自亚多士、史姬和尼姆布尔。",
         "description_meta": {
             "status": "done",
-            "source": "Trois set de sons (en anglais) pour votre personnage : ceux de Eldoth, Silke et Nimbul."
+            "source": "Trois sets de son (en anglais) pour votre personnage : ceux de Eldoth, Silke et Nimbul."
         },
         "notes": [
             "请务必选择与您游戏版本对应的文件：博德之门增强版或增强版三部曲。此外，在博德之门增强版上还需要进行一项操作，请阅读模组的介绍。"
@@ -28661,6 +28648,32 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce kit de rôdeur possède la capacité de se métamorphoser en loup. La transformation pogresse de niveau en niveau. À haut niveau il peut se transformer en loup-garou et même plus."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1996,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute une quête dans les collines d'Umar. Une nouvelle secte a fait son apparition et il faut s'y infiltrer."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1997,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce patch est nécessaire pour éviter que les objets personnels de Sandrah ne soient trop puissants au début de la partie BG1."
         },
         "notes": [],
         "notes_meta": {

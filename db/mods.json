@@ -658,7 +658,8 @@
         "name": "Aerie Portrait Pack",
         "description": "Contrairement à ce que son nom suggère, ce mod install toute une série de portraits utilisables par vos personnages, ainsi que des portraits alternatifs pour la plupart des PNJ recrutables de BG et de BG2.",
         "urls": [
-            "https://www.shsforums.net/topic/46830-aerie-portait-pack/"
+            "https://www.shsforums.net/topic/46830-aerie-portait-pack/",
+            "http://america.iegmc.net/russian/AeriePortraitPack.rar"
         ],
         "categories": [
             "Portrait et son"
@@ -675,12 +676,12 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
-        "status": "missing",
-        "last_update": "2011-01",
+        "status": "active",
+        "last_update": "2010-10",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "a_portraits"
     },
     {
         "id": 22,
@@ -3847,7 +3848,7 @@
     {
         "id": 113,
         "name": "BG1 Voices for BG2",
-        "description": "3 packs de voix (en anglais) pour homme et femmes, tirés de BG1 et renommés pour fonctionner dans BG:EE.",
+        "description": "3 packs de voix (en anglais) pour homme et femmes, tirés de BG1.",
         "urls": [
             "https://www.nexusmods.com/baldursgate2ee/mods/16"
         ],
@@ -3931,8 +3932,10 @@
     {
         "id": 116,
         "name": "BG2 Character Portrait Mod",
-        "description": "Connu sous le nom de BG2CPM.",
-        "urls": [],
+        "description": "Ce mod fourni un portrait à de nombreux personnages.",
+        "urls": [
+            "http://www.borderkingdoms.net/index.php?board=16.0"
+        ],
         "categories": [
             "Portrait et son"
         ],
@@ -3950,9 +3953,9 @@
         "safe": 1,
         "languages": [],
         "status": "missing",
-        "last_update": "",
+        "last_update": "2008-01",
         "compatibilities": {},
-        "tp2": "non-weidu"
+        "tp2": "BG2CPM"
     },
     {
         "id": 117,
@@ -4210,7 +4213,7 @@
     {
         "id": 124,
         "name": "BG2EE GUI To BGEE",
-        "description": "Ce mod de Kerozevok modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements.",
+        "description": "Ce mod modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements.",
         "urls": [
             "https://forums.beamdog.com/discussion/55094/"
         ],
@@ -4322,7 +4325,7 @@
             "Il existe une version directement intégrée dans [[347]]."
         ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "embed",
         "last_update": "2019-03",
@@ -4485,7 +4488,7 @@
         "status": "active",
         "last_update": "2012-12",
         "compatibilities": {},
-        "tp2": "non-weidu"
+        "tp2": "gui"
     },
     {
         "id": 133,
@@ -6348,7 +6351,7 @@
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2016-04",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -6900,7 +6903,7 @@
     {
         "id": 206,
         "name": "Caina Fighter/Brigand NPC and Zarra Ranger/Archer NPC",
-        "description": "Ce mod ajoute deux PNJ mauvais dans BG:EE :|- Caina est une mercenaire de Luskan. Vous pouvez la trouver à Bérégost dans un manoir au nord où elle travaille pour Gerard Travenhurst afin d'éponger ses dettes. Elle dispose d'un profil de brigand. Elle ne vous rejoindra qu'après avoir accompli sa quête. Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware. Si vous voyagez avec elle, elle donnera des cadeaux à Edwin, Xzar et Xan.|- Zarra est une drow de la ville de Sschindylryn (près de Cormyr). C'est une archère chasseuse de gobelins qui possède un animal compagnon, Auflaque. Elle est visiblement perdue et a besoin de votre aide pour retrouver un objet qui lui appartient. Vous la rencontrerez près de Nashkel (dans la première zone de quête de Dorn). Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware et une quête personnelle. Elle est très nerveuse et vulnérable, traitez-la bien ou elle partira.|Ce mod comprend 3 nouveaux donjons (10 nouvelles zones), de nouveaux ennemis et plus de 20 nouveaux objets.",
+        "description": "Ce mod ajoute deux PNJ mauvais :|- Caina est une mercenaire de Luskan. Vous pouvez la trouver à Bérégost dans un manoir au nord où elle travaille pour Gerard Travenhurst afin d'éponger ses dettes. Elle dispose d'un kit de brigand. Elle ne vous rejoindra qu'après avoir accompli sa quête. Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware. Si vous voyagez avec elle, elle donnera des cadeaux à Edwin, Xzar et Xan.|- Zarra est une drow de la ville de Sschindylryn (près de Cormyr). C'est une archère chasseuse de gobelins qui possède un animal compagnon, Auflaque. Elle est visiblement perdue et a besoin de votre aide pour retrouver un objet qui lui appartient. Vous la rencontrerez près de Nashkel (dans la première zone de quête de Dorn). Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware et une quête personnelle. Elle est très nerveuse et vulnérable, traitez-la bien ou elle partira.|Ce mod comprend 3 nouveaux donjons (10 nouvelles zones), de nouveaux ennemis et plus de 20 nouveaux objets.",
         "urls": [
             "https://forums.beamdog.com/discussion/34279/"
         ],
@@ -6914,9 +6917,7 @@
             "DarkDogg"
         ],
         "team": [],
-        "notes": [
-            "Attention : la qualité de ce mod laisse à désirer et sa procédure d'installation est pour le moins spéciale."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -7498,7 +7499,7 @@
     {
         "id": 224,
         "name": "Chars as starters pack",
-        "description": "Ce mod permet de sélectionner Dorn, Hexxat, Neera et Rasaad comme personnages pré-créés dans une partie single ou multi joueurs. Bref, pas grand intérêt.",
+        "description": "Ce mod permet de sélectionner Dorn, Hexxat, Neera et Rasaad comme personnages pré-créés dans une partie single ou multi joueurs.",
         "urls": [
             "https://www.nexusmods.com/baldursgate2ee/mods/18"
         ],
@@ -7847,7 +7848,7 @@
     {
         "id": 234,
         "name": "Cirerrek's AI Scripts: uScript",
-        "description": "uScript ou \"Universal\" Script est un script de combat généraliste d'IA pour joueur de BG2 SoA & ToB. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) pour plus détails.",
+        "description": "uScript ou \"Universal\" Script est un script de combat généraliste d'IA pour joueur. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) pour plus détails.",
         "urls": [
             "https://www.gibberlings3.net/files/file/894-cirerreks-ai-scripts-uscript/"
         ],
@@ -7862,9 +7863,7 @@
             "Cirerrek"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod n'est plus maintenu depuis des années et est considéré comme obsolète par l'ensemble de la communauté de moddeurs et de joueurs."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -8020,7 +8019,7 @@
             "https://forums.beamdog.com/discussion/40055/"
         ],
         "categories": [
-            "Sort et objet"
+            "Cosmétique"
         ],
         "games": [
             "BG2",
@@ -8036,7 +8035,7 @@
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2015-03",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -8240,7 +8239,7 @@
     {
         "id": 247,
         "name": "Constitution bonuses for everyone above 16",
-        "description": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires.|Ce mod écrase les fichiers HPCLASS.2da et HPCONBON.2da, et ne peut pas être désinstallé. De plus, comme un composant de [[1279]] fait la même chose, privilégiez ce dernier.",
+        "description": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires.",
         "urls": [
             "https://forums.beamdog.com/discussion/47856/"
         ],
@@ -8257,7 +8256,10 @@
             "Gotural"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod écrase les fichiers HPCLASS.2da et HPCONBON.2da.",
+            "Un composant de [[1279]] fait la même chose, privilégiez ce dernier."
+        ],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -8808,7 +8810,7 @@
     {
         "id": 264,
         "name": "Craig's Bottomless Containers",
-        "description": "Ce mini mod ajoute le marchand Craig dans l'auberge du Crâne tordu (portes de la ville). Il vend 5 étuis à parchemins et deux sacs à gemmes, tous à contenance illimitée, ainsi qu'une boîte à potion et une ceinture de munitions.|Malheureusement, le lien de téléchargement semble avoir disparu avec le site TeamBG...",
+        "description": "Ce mini mod ajoute le marchand Craig dans l'auberge du Crâne tordu (portes de la ville). Il vend 5 étuis à parchemins et deux sacs à gemmes, tous à contenance illimitée, ainsi qu'une boîte à potion et une ceinture de munitions.",
         "urls": [
             "http://www.ironworksforum.com/forum/showthread.php?t=16039"
         ],
@@ -9189,9 +9191,9 @@
             "en"
         ],
         "status": "missing",
-        "last_update": "",
+        "last_update": "2015-03",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "id": 276,
@@ -10327,11 +10329,13 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-10",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "Dimension_Gate"
     },
     {
         "id": 309,
@@ -10947,10 +10951,10 @@
     },
     {
         "id": 327,
-        "name": "Drizzt & Friends Tweak",
+        "name": "Drizzt and Friends Tweak",
         "description": "Ce mod redonne à Drizzt et ses amis leurs caractéristiques originales de AD&D. De plus, il remplace certaines de leurs armes trop puissantes et en renomme d'autres pour que Malchor Harpell ne les récupère plus.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=190"
+            "https://www.baldursgatemods.com/forums/index.php?topic=8093.0"
         ],
         "categories": [
             "Script et tactique"
@@ -10958,23 +10962,25 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "CoM_Solaufein"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "missing",
-        "last_update": "",
+        "last_update": "2013-11",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
     {
         "id": 328,
-        "name": "Drizzt AD&D Stats",
+        "name": "Drizzt Rework",
         "description": "Ce mod redonne à Drizzt ses caractéristiques originales de AD&D. Pour ceux qui ne supportent pas son statut de \"demi-dieu\" in-tuable.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=183"
+            "https://www.baldursgatemods.com/forums/index.php?topic=7809.0"
         ],
         "categories": [
             "Script et tactique"
@@ -10982,14 +10988,16 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "CoM_Solaufein"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "missing",
-        "last_update": "",
+        "last_update": "2012-12",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
@@ -11206,7 +11214,7 @@
     {
         "id": 336,
         "name": "DudleyFix for BG1",
-        "description": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\". Ces patchs ne sont pas à proprement parler traduits, mais la plupart n'ont pas besoin de traduction (ils n'ajoutent et ne modifient aucun texte).",
+        "description": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\".",
         "urls": [
             "http://www.forgottenwars.com/dudleyfix/fixpacks.htm"
         ],
@@ -11221,10 +11229,10 @@
         ],
         "team": [],
         "notes": [
-            "À n'utiliser que pour un jeu BG original, sans Tutu ni BGT. Ne prenez surtout pas le FixPack #2 sous peine de passer votre jeu en Anglais !"
+            "Le FixPack #2 fera passer votre jeu en Anglais !"
         ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2006-07",
@@ -12097,7 +12105,7 @@
             "L'utilisation de KitEditor est requise."
         ],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -12524,7 +12532,7 @@
             "es"
         ],
         "status": "hidden",
-        "last_update": "2025-07",
+        "last_update": "2026-03",
         "compatibilities": {
             "incompatible_with": [
                 768
@@ -13387,7 +13395,7 @@
         ],
         "team": [],
         "notes": [
-            "Malheureusement, il s'installe avec IEES ou IE Editor Pro, de vieux outils de modding (vous trouverez leur liens de téléchargement dans le forum de la Forge de GrondeMarteau). Évitez-le comme la peste."
+            "Il s'installe avec IEES ou IE Editor Pro."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -13639,7 +13647,7 @@
         ],
         "team": [],
         "notes": [
-            "Le mod s'installe avec IEES ou IE Editor Pro (vous trouverez les liens pour ces outils dans le forum de la Forge de GrondeMarteau). Évitez-le comme la peste."
+            "Le mod s'installe avec IEES ou IE Editor Pro."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -13964,7 +13972,7 @@
             "cn"
         ],
         "status": "hidden",
-        "last_update": "2025-07",
+        "last_update": "2026-03",
         "compatibilities": {
             "incompatible_with": [
                 562
@@ -14291,7 +14299,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2001-12",
@@ -15643,7 +15651,7 @@
     },
     {
         "id": 469,
-        "name": "Harden Coonors Tutu-AddOn",
+        "name": "Harden Coonors BG1Tutu-Add-On",
         "description": "",
         "urls": [
             "http://www.rosenranken.de/index.php?board=36;action=display;threadid=4719"
@@ -15659,7 +15667,9 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "de"
+        ],
         "status": "hidden",
         "last_update": "",
         "compatibilities": {},
@@ -17406,7 +17416,7 @@
     {
         "id": 524,
         "name": "Icewind Gate II",
-        "description": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html).",
+        "description": "Ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html).",
         "urls": [
             "https://weidu.org/iwg2/index.html"
         ],
@@ -19739,9 +19749,7 @@
             "Kevin Dorner"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod a été signalé comme posant des problèmes dans BGT..."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -21055,14 +21063,16 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Team BG"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "missing",
-        "last_update": "2015-10",
+        "last_update": "2012-12",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
@@ -21079,14 +21089,18 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Team BG"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
-        "languages": [],
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
         "status": "missing",
-        "last_update": "2015-10",
+        "last_update": "2014-01",
         "compatibilities": {},
         "tp2": "BGeeSA"
     },
@@ -21478,7 +21492,7 @@
     {
         "id": 647,
         "name": "Lord Draco Vlasavius",
-        "description": "Il s'agit d'un personnage pré-tiré pour IWD. Lord Draco Vlasavius est un guerrier humain loyal neutre de niveau 14 avec un équipement magique de qualité. Ses caractéristiques : 175 PV, CA -11, FOR 21, DEX 19, CON 18, INT 10, WIS 14 et CHA 11.",
+        "description": "Il s'agit d'un personnage pré-tiré. Lord Draco Vlasavius est un guerrier humain loyal neutre de niveau 14 avec un équipement magique de qualité. Ses caractéristiques : 175 PV, CA -11, FOR 21, DEX 19, CON 18, INT 10, SAG 14 et CHA 11.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=IWD&f=IWD/draco.zip"
         ],
@@ -21492,7 +21506,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2000-08",
@@ -21593,7 +21607,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2017-06",
@@ -22549,7 +22563,7 @@
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2003-04",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -23720,7 +23734,7 @@
             "cn"
         ],
         "status": "hidden",
-        "last_update": "2024-12",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "morpheus562-s-kitpack"
     },
@@ -25145,7 +25159,7 @@
             "Attention : Il s'agit d'un mod override qui nécessite de bien lire le readme."
         ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2003-01",
@@ -25238,7 +25252,7 @@
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2003-07",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -25669,7 +25683,7 @@
         "status": "active",
         "last_update": "2011-07",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "1pp_hq_music_IWD"
     },
     {
         "id": 774,
@@ -25695,7 +25709,7 @@
         "status": "active",
         "last_update": "2012-08",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "1pp_hq_music_PST"
     },
     {
         "id": 775,
@@ -25721,7 +25735,7 @@
         "status": "active",
         "last_update": "2012-08",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "1pp_hq_music_II"
     },
     {
         "id": 776,
@@ -25747,7 +25761,7 @@
         "status": "active",
         "last_update": "2012-08",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "1pp_hq_music_TOSC"
     },
     {
         "id": 777,
@@ -26016,12 +26030,12 @@
     {
         "id": 785,
         "name": "PnP Improved invisibility",
-        "description": "Ce mod rend tous les sorts et capacités qui donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il révèle les créatures invisibles qui ratent leu jet de sauvegarde.",
+        "description": "Ce mod rend tous les sorts et capacités qui donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il révèle les créatures invisibles qui ratent leur jet de sauvegarde.",
         "urls": [
             "https://forums.beamdog.com/discussion/39063/"
         ],
         "categories": [
-            "Sort et objet"
+            "Gameplay"
         ],
         "games": [
             "BGEE",
@@ -26254,7 +26268,7 @@
     },
     {
         "id": 792,
-        "name": "Paladins of Faerun Kitpack",
+        "name": "Paladins of Faerûn Kitpack",
         "description": "Issu du projet de mega mod tchèque éponyme, ce mod ajoute pas moins de 18 profils (3 dans chaque classe de guerrier, paladin, rôdeur, voleur, barde et druide), provenant généralement des versions papier et retouchés par le concepteur.",
         "urls": [
             "https://baldur.cob-bg.pl/node/902",
@@ -26566,7 +26580,7 @@
         "status": "active",
         "last_update": "2019-03",
         "compatibilities": {},
-        "tp2": "non-weidu"
+        "tp2": "PathfinderHitDice"
     },
     {
         "id": 802,
@@ -27322,7 +27336,7 @@
     {
         "id": 824,
         "name": "PnP Kit Requirements, Half-Orcs, Spells and Charisma",
-        "description": "Ce petit mod modifie  les pré-requis de profils, la race de semi-orque, les tables de progression des sorts et de modification de scores de Charisme pour les rendre conformes aux règles papier.",
+        "description": "Ce petit mod modifie les pré-requis de profils, la race de semi-orque, les tables de progression des sorts et de modification de scores de Charisme pour les rendre conformes aux règles papier.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Fels_PnP.rar"
         ],
@@ -27782,7 +27796,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod a subit un \"Overhaul\" de la part de son auteur et a été divisé en deux nouveaux mods  qui sont téléchargeables [ici](https://forums.beamdog.com/discussion/42503/)."
+            "Ce mod a subit un \"Overhaul\" de la part de son auteur et a été divisé en deux nouveaux mods qui sont téléchargeables [ici](https://forums.beamdog.com/discussion/42503/)."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -28250,8 +28264,8 @@
     },
     {
         "id": 851,
-        "name": "RTT Kitpack",
-        "description": "Ce mod rend disponibles 30 profils du module de conversion [[881]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
+        "name": "Return to Trademeet Kitpack",
+        "description": "Ce mod rend disponibles 33 profils du module de conversion [[881]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
         "urls": [
             "https://www.shsforums.net/files/file/51-return-to-trademeet-kit-pack/",
             "https://github.com/Spellhold-Studios/RTT-Kit-Pack/"
@@ -28335,7 +28349,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2016-06",
@@ -31665,7 +31679,7 @@
         "name": "Sigil's Birthday Mod",
         "description": "Plutôt amusant, ce mod ajoute dans votre inventaire une nouvelle amulette qui vous permet de convoquer une des 12 célèbres personnalités du forum de Sigil. Chacune d'entre elle vous donnera un buff efficace si vous êtes hors combat ou lancera un puissant sort offensif si vous êtes en combat.",
         "urls": [
-            "https://files.sigil.cz/mods/birthdaymod.rar",
+            "https://www.sigil.cz/download-modifikace/sigilsky-narozeninovy-mod/",
             "https://github.com/Plutonium-X/MISC_Sigil"
         ],
         "categories": [
@@ -31679,7 +31693,7 @@
             "IWDEE"
         ],
         "authors": [
-            "Sigil"
+            "Sigil Team"
         ],
         "team": [],
         "notes": [
@@ -32069,7 +32083,7 @@
             "cn"
         ],
         "status": "hidden",
-        "last_update": "2025-04",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "skills-and-abilities"
     },
@@ -32304,7 +32318,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2002-12",
@@ -32645,16 +32659,20 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Ce mod est au format tbg et nécessite un vieil outil de modding pour s'installer. Évitez-le !"
+            "Ce mod est au format tbg et nécessite IEEP pour s'installer."
         ],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "fr"
         ],
         "status": "active",
         "last_update": "2008-06",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "IEEP"
+            ]
+        },
         "tp2": "non-weidu"
     },
     {
@@ -32863,7 +32881,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -34088,7 +34106,7 @@
             "es"
         ],
         "status": "hidden",
-        "last_update": "2025-08",
+        "last_update": "2026-04",
         "compatibilities": {
             "incompatible_with": [
                 665,
@@ -34383,7 +34401,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2005-07",
@@ -36426,7 +36444,7 @@
     },
     {
         "id": 1090,
-        "name": "The Tortured Soul Quest",
+        "name": "Tortured Soul Quest",
         "description": "À ne pas confondre avec le méga mod [[1118]], ce mod ajoute une petite quête, à la fin de laquelle vous obtenez un objet inédit qui vous permet d'invoquer Baenwuld le Tueur de magicien à volonté. Celui-ci peut-être libéré de son esclavage pour rejoindre votre groupe. Pour la démarrer, utilisez la baguette 'droppée' par un nouvel adversaire dans l'une des cryptes du cimetière d'Athkatla.|FOR 19, DEX 17, CON 19, INT 12, SAG 15, CHA 17.",
         "urls": [
             "https://www.shsforums.net/files/file/149-the-tortured-soul-quest/",
@@ -37301,7 +37319,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Comme il est inclus dans le mod [[847]] (composant `Grimoire de triche`), autant installer le mod précédent qui, en plus, est traduit."
+            "Inclus dans le mod [[847]] (composant `Grimoire de triche`)."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -38108,7 +38126,7 @@
         "status": "embed",
         "last_update": "2005-01",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "tutu_tweaks"
     },
     {
         "id": 1141,
@@ -38561,7 +38579,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2001-12",
@@ -43929,7 +43947,7 @@
             "es"
         ],
         "status": "hidden",
-        "last_update": "2025-06",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "crucible"
     },
@@ -51339,7 +51357,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -52064,7 +52082,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2007-10",
@@ -53543,10 +53561,11 @@
     },
     {
         "id": 1621,
-        "name": "White Agnus' Draw Fix für PS:T unter Win8",
+        "name": "PST-Drawfix",
         "description": "Ce mod corrige le problème de lenteur de Planescape: Torment sous Windows 8 et empêche également le curseur de la souris de tourner en rond grâce à une autre correction.",
         "urls": [
-            "https://baldurs-gate.de/index.php?threads/ps-t-ruckelt-unter-windows-8.42551/"
+            "https://www.shsforums.net/topic/48732-ddraw-fix-for-slowdownsstuttering/",
+            "http://bitpatch.com/ie_ddrawfix.html"
         ],
         "categories": [
             "Patch non officiel"
@@ -53555,19 +53574,17 @@
             "PST"
         ],
         "authors": [
-            "White Agnus"
+            "aqrit"
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 1,
-        "languages": [
-            "de"
-        ],
-        "status": "missing",
-        "last_update": "2012-12",
+        "languages": [],
+        "status": "active",
+        "last_update": "2011-11",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "pst-drawfix"
     },
     {
         "id": 1622,
@@ -53592,7 +53609,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2003-01",
@@ -53616,7 +53633,9 @@
             "SoD",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Stoplight Red"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -53871,7 +53890,7 @@
     {
         "id": 1632,
         "name": "Straight snakes",
-        "description": "Fait que tous les serpents, au lieu d'onduler, avancent tout droit. À quoi est-ce-que ça peut bien servir ?",
+        "description": "Fait que tous les serpents, au lieu d'onduler, avancent tout droit.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/35417-straight-snakes/"
         ],
@@ -53975,7 +53994,7 @@
             "http://forums.blackwyrmlair.net/index.php?showtopic=5305"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ (autre)"
         ],
         "games": [
             "BG2",
@@ -53988,13 +54007,19 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
         "status": "missing",
         "last_update": "2016-03",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB",
+                153,
+                1118
+            ]
+        },
         "tp2": ""
     },
     {
@@ -55161,7 +55186,7 @@
             "EET"
         ],
         "authors": [
-            "drake127"
+            "Vlasák"
         ],
         "team": [],
         "notes": [
@@ -55358,7 +55383,7 @@
     {
         "id": 1680,
         "name": "Sarevok57's Mega Icewind Dale Mod",
-        "description": "Ce mod ajoute des voix pour tous les npcs du jeu, de nouvelles musiques et de nouveaux objets. Il modifie de nombreuses règles et révise les objets, les sorts et les tactiques utilisées par les monstres. Il rajoute aussi de nombreux combat épicés.",
+        "description": "Ce mod ajoute des voix pour tous les npcs du jeu, de nouvelles musiques et de nouveaux objets. Il modifie de nombreuses règles et révise les objets, les sorts et les tactiques utilisées par les monstres. Il rajoute aussi de nombreux combats épicés.",
         "urls": [
             "https://forums.beamdog.com/discussion/63639"
         ],
@@ -55372,9 +55397,7 @@
             "Sarevok57"
         ],
         "team": [],
-        "notes": [
-            "Il s'agit d'un mod override qui modifie la majorité les fichiers du jeu et qui n'est compatible qu'avec la version 1.4 du jeu. Il ne fonctionne pas avec la version 2.6+ et est incompatible avec tous les autres mods. De plus sa méthode d'installation est compliquée. Bref... évitez-le."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -55382,7 +55405,11 @@
         ],
         "status": "active",
         "last_update": "2017-09",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "IWDEE v1.4"
+            ]
+        },
         "tp2": "non-weidu"
     },
     {
@@ -56059,7 +56086,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2016-04",
@@ -56295,9 +56322,9 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "missing",
         "last_update": "2019-09",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -56579,8 +56606,7 @@
             "https://forums.beamdog.com/discussion/51535"
         ],
         "categories": [
-            "Sort et objet",
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BGEE",
@@ -56594,7 +56620,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2016-04",
@@ -56707,7 +56733,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2017-04",
@@ -56738,7 +56764,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -56750,7 +56776,7 @@
     {
         "id": 1728,
         "name": "A mod for a far less annoying Barad quest",
-        "description": "Ce mod rend la quête de Barad moins ennuyeuse : les chat ne peuvent plus s'échapper et quand ils voient un personnage du groupe ils s'assoient et demandent à manger.",
+        "description": "Ce mod rend la quête de Barad moins ennuyeuse : les chats ne peuvent plus s'échapper et quand ils voient un personnage du groupe ils s'assoient et demandent à manger.",
         "urls": [
             "https://forums.beamdog.com/discussion/74020"
         ],
@@ -56777,7 +56803,7 @@
     {
         "id": 1729,
         "name": "Baeloth and Sand soundsets for BGII:EE",
-        "description": "Deux packs de voix en anglais sont proposés : Baeloth (compatible BG2) et Sand, personnage du jeu Nevewinter Night 2",
+        "description": "Deux packs de voix en anglais sont proposés : Baeloth (compatible BG2) et Sand, personnage du jeu Neverwinter Nights 2.",
         "urls": [
             "https://forums.beamdog.com/discussion/64809"
         ],
@@ -56870,7 +56896,7 @@
         "name": "Store revisions",
         "description": "Ce fichier à copier dans l'override donne un stock illimité de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu.",
         "urls": [
-            "https://www.dropbox.com/scl/fi/wlcfgfps1jzbuafq37fdr/store_revisions.tpa?rlkey=j7qovdw73p5rz3ry044pw0d44&e=1&dl=0"
+            "https://forums.beamdog.com/discussion/74255#Comment_1062831"
         ],
         "categories": [
             "Gameplay"
@@ -56884,11 +56910,15 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "hidden",
         "last_update": "2019-04",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                562
+            ]
+        },
         "tp2": "non-weidu"
     },
     {
@@ -57067,7 +57097,7 @@
     {
         "id": 1740,
         "name": "BG1 Enemy NPC Soundsets",
-        "description": "Trois set de sons (en anglais) pour votre personnage : ceux de Eldoth, Silke et Nimbul.",
+        "description": "Trois sets de son (en anglais) pour votre personnage : ceux de Eldoth, Silke et Nimbul.",
         "urls": [
             "https://forums.beamdog.com/discussion/81810",
             "https://github.com/wrexkh/BG1-Enemy-NPC-Soundsets"
@@ -57333,7 +57363,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -57364,7 +57394,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -59027,7 +59057,7 @@
             "Il existe une version directement intégrée dans [[347]]."
         ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "embed",
         "last_update": "2016-05",
@@ -60297,7 +60327,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2025-09",
@@ -62105,7 +62135,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "fr"
         ],
@@ -65010,5 +65040,61 @@
         "last_update": "2017-12",
         "compatibilities": {},
         "tp2": "Leszy"
+    },
+    {
+        "id": 1996,
+        "name": "Facing the Shade Lord again",
+        "description": "Ce mod ajoute une quête dans les collines d'Umar. Une nouvelle secte a fait son apparition et il faut s'y infiltrer.",
+        "urls": [
+            "http://forums.blackwyrmlair.net/index.php?showtopic=1900"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "igi"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2006-04",
+        "compatibilities": {},
+        "tp2": "Contest"
+    },
+    {
+        "id": 1997,
+        "name": "Sandrah Item Restauration",
+        "description": "Ce patch est nécessaire pour éviter que les objets personnels de Sandrah ne soient trop puissants au début de la partie BG1.",
+        "urls": [],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [],
+        "status": "hidden",
+        "last_update": "2018-04",
+        "compatibilities": {
+            "requires": [
+                913
+            ]
+        },
+        "tp2": "sandrahitem"
     }
 ]

@@ -1642,10 +1642,10 @@
     },
     {
         "id": 113,
-        "description": "3 voice packs (in English) for men and women, taken from BG1 and renamed to work in BG:EE.",
+        "description": "3 voice packs (in English) for men and women, taken from BG1.",
         "description_meta": {
             "status": "needs_review",
-            "source": "3 packs de voix (en anglais) pour homme et femmes, tirés de BG1 et renommés pour fonctionner dans BG:EE."
+            "source": "3 packs de voix (en anglais) pour homme et femmes, tirés de BG1."
         },
         "notes": [],
         "notes_meta": {
@@ -1685,10 +1685,10 @@
     },
     {
         "id": 116,
-        "description": "Known as BG2CPM.",
+        "description": "This mod provides portraits for many characters.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Connu sous le nom de BG2CPM."
+            "source": "Ce mod fourni un portrait à de nombreux personnages."
         },
         "notes": [
             "Check out [[444]] instead, which is its sequel."
@@ -1797,10 +1797,10 @@
     },
     {
         "id": 124,
-        "description": "This mod by Kerozevok modifies the game interface to give it the look and feel of BG2:EE, and also makes a number of changes.",
+        "description": "This mod modifies the game interface to give it the look and feel of BG2:EE, and also makes a number of changes.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod de Kerozevok modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements."
+            "source": "Ce mod modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements."
         },
         "notes": [],
         "notes_meta": {
@@ -2970,16 +2970,12 @@
         "description": "This mod adds two evil NPCs to BG:EE:|- Caina is a Luskan mercenary. You can find her in Beregost, in a manor to the north where she works for Gerard Travenhurst to pay off his debts. She has the profile of a brigand. She'll only join you once she's completed her quest. She has a lot of interaction and some banter with Bioware's NPCs. If you travel with her, she'll give gifts to Edwin, Xzar and Xan.|- Zarra is a drow from the town of Sschindylryn (near Cormyr). She is a goblin-hunting archer with a pet, Auflaque. She's obviously lost and needs your help to find an item that belongs to her. You'll meet her near Nashkel (in Dorn's first quest area). She has a lot of interaction and some banter with Bioware NPCs and a personal quest. This mod includes 3 new dungeons (10 new areas), new enemies and over 20 new items.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute deux PNJ mauvais dans BG:EE :|- Caina est une mercenaire de Luskan. Vous pouvez la trouver à Bérégost dans un manoir au nord où elle travaille pour Gerard Travenhurst afin d'éponger ses dettes. Elle dispose d'un profil de brigand. Elle ne vous rejoindra qu'après avoir accompli sa quête. Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware. Si vous voyagez avec elle, elle donnera des cadeaux à Edwin, Xzar et Xan.|- Zarra est une drow de la ville de Sschindylryn (près de Cormyr). C'est une archère chasseuse de gobelins qui possède un animal compagnon, Auflaque. Elle est visiblement perdue et a besoin de votre aide pour retrouver un objet qui lui appartient. Vous la rencontrerez près de Nashkel (dans la première zone de quête de Dorn). Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware et une quête personnelle. Elle est très nerveuse et vulnérable, traitez-la bien ou elle partira.|Ce mod comprend 3 nouveaux donjons (10 nouvelles zones), de nouveaux ennemis et plus de 20 nouveaux objets."
+            "source": "Ce mod ajoute deux PNJ mauvais :|- Caina est une mercenaire de Luskan. Vous pouvez la trouver à Bérégost dans un manoir au nord où elle travaille pour Gerard Travenhurst afin d'éponger ses dettes. Elle dispose d'un kit de brigand. Elle ne vous rejoindra qu'après avoir accompli sa quête. Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware. Si vous voyagez avec elle, elle donnera des cadeaux à Edwin, Xzar et Xan.|- Zarra est une drow de la ville de Sschindylryn (près de Cormyr). C'est une archère chasseuse de gobelins qui possède un animal compagnon, Auflaque. Elle est visiblement perdue et a besoin de votre aide pour retrouver un objet qui lui appartient. Vous la rencontrerez près de Nashkel (dans la première zone de quête de Dorn). Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware et une quête personnelle. Elle est très nerveuse et vulnérable, traitez-la bien ou elle partira.|Ce mod comprend 3 nouveaux donjons (10 nouvelles zones), de nouveaux ennemis et plus de 20 nouveaux objets."
         },
-        "notes": [
-            "Please note: the quality of this mod leaves a lot to be desired, and the installation procedure is rather special, to say the least."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : la qualité de ce mod laisse à désirer et sa procédure d'installation est pour le moins spéciale."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -3229,10 +3225,10 @@
     },
     {
         "id": 224,
-        "description": "This mod allows you to select Dorn, Hexxat, Neera and Rasaad as pre-created characters in a single or multi-player game. In short, not very interesting.",
+        "description": "This mod allows you to select Dorn, Hexxat, Neera and Rasaad as pre-created characters in a single or multi-player game.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet de sélectionner Dorn, Hexxat, Neera et Rasaad comme personnages pré-créés dans une partie single ou multi joueurs. Bref, pas grand intérêt."
+            "source": "Ce mod permet de sélectionner Dorn, Hexxat, Neera et Rasaad comme personnages pré-créés dans une partie single ou multi joueurs."
         },
         "notes": [],
         "notes_meta": {
@@ -3367,19 +3363,15 @@
     },
     {
         "id": 234,
-        "description": "uScript or \"Universal\" Script is an AI fight script for BG2 SoA & ToB players. Please see [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) for more details.",
+        "description": "uScript or \"Universal\" Script is a general-purpose AI combat script for players. It can be used by any character class. Please see [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) for more details.",
         "description_meta": {
             "status": "needs_review",
-            "source": "uScript ou \"Universal\" Script est un script de combat généraliste d'IA pour joueur de BG2 SoA & ToB. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) pour plus détails."
+            "source": "uScript ou \"Universal\" Script est un script de combat généraliste d'IA pour joueur. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) pour plus détails."
         },
-        "notes": [
-            "Warning: this mod has not been maintained for years and is considered obsolete by the modding and gaming community."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : ce mod n'est plus maintenu depuis des années et est considéré comme obsolète par l'ensemble de la communauté de moddeurs et de joueurs."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -3560,15 +3552,21 @@
     },
     {
         "id": 247,
-        "description": "This mod allows all characters with more than 15 Constitution to benefit from additional health points.|This mod overwrites the HPCLASS.2da and HPCONBON.2da files, and cannot be uninstalled. In addition, as a component of [[1279]] does the same thing, you should use the latter.",
+        "description": "This mod allows all characters with more than 15 Constitution to benefit from additional health points.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires.|Ce mod écrase les fichiers HPCLASS.2da et HPCONBON.2da, et ne peut pas être désinstallé. De plus, comme un composant de [[1279]] fait la même chose, privilégiez ce dernier."
+            "source": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires."
         },
-        "notes": [],
+        "notes": [
+            "This mod overwrites the HPCLASS.2da and HPCONBON.2da files.",
+            "A component of [[1279]] does the same thing, you should use the latter."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Ce mod écrase les fichiers HPCLASS.2da et HPCONBON.2da.",
+                "Un composant de [[1279]] fait la même chose, privilégiez ce dernier."
+            ]
         }
     },
     {
@@ -3800,7 +3798,7 @@
         "description": "This mini-mod adds the Craig merchant to the Crooked Crane Inn (city gates). It sells 5 scroll cases and two gem bags, all with unlimited capacity, as well as a potion box and an ammo belt.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mini mod ajoute le marchand Craig dans l'auberge du Crâne tordu (portes de la ville). Il vend 5 étuis à parchemins et deux sacs à gemmes, tous à contenance illimitée, ainsi qu'une boîte à potion et une ceinture de munitions.|Malheureusement, le lien de téléchargement semble avoir disparu avec le site TeamBG..."
+            "source": "Ce mini mod ajoute le marchand Craig dans l'auberge du Crâne tordu (portes de la ville). Il vend 5 étuis à parchemins et deux sacs à gemmes, tous à contenance illimitée, ainsi qu'une boîte à potion et une ceinture de munitions."
         },
         "notes": [],
         "notes_meta": {
@@ -4827,18 +4825,18 @@
     },
     {
         "id": 336,
-        "description": "Dubbed Dudleyville, this fixpack is designed to correct all the bugs in the game identified and unresolved by Baldurdash (by Kevin Dorner). It contains over 700 fixes and patches (most of them minor), some of them designed to provide a game experience closer to that of the paper rules.|The patches can be found in the \"Dudleyfix BG1 Fixes\" section, then in \"Completed Fixpack\". These patches are not actually translated, but most don't need translating (they don't add or modify any text).",
+        "description": "Dubbed Dudleyville, this fixpack is designed to correct all the bugs in the game identified and unresolved by Baldurdash (by Kevin Dorner). It contains over 700 fixes and patches (most of them minor), some of them designed to provide a game experience closer to that of the paper rules.|The patches can be found in the \"Dudleyfix BG1 Fixes\" section, then in \"Completed Fixpack\".",
         "description_meta": {
             "status": "needs_review",
-            "source": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\". Ces patchs ne sont pas à proprement parler traduits, mais la plupart n'ont pas besoin de traduction (ils n'ajoutent et ne modifient aucun texte)."
+            "source": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\"."
         },
         "notes": [
-            "Use only for an original BG game, without Tutu or BGT. Don't take FixPack #2, otherwise your game will be in English!"
+            "FixPack #2 will switch your game to English!"
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "À n'utiliser que pour un jeu BG original, sans Tutu ni BGT. Ne prenez surtout pas le FixPack #2 sous peine de passer votre jeu en Anglais !"
+                "Le FixPack #2 fera passer votre jeu en Anglais !"
             ]
         }
     },
@@ -5244,7 +5242,7 @@
     },
     {
         "id": 364,
-        "description": "This mod adds a new NPC, Elvanshalee, a chaotic good drow, priestess of Eilistraee, whom you'll find in the government district. She uses a sword that only priestesses of Eilistraee can wield.",
+        "description": "This mod adds a new NPC, Elvanshalee, a chaotic good cleric of the goddess Elistraee in the government quarter. As a special weapon she owns a sword that, however, only from Elistraee priests can be used.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute un nouveau PNJ, Elvanshalee, une drow chaotique bonne, prêtresse d'Elistraée, que vous trouverez dans le quartier du gouvernement. Elle utilise une épée que seules les prêtresses d'Elistraée peuvent manier."
@@ -5762,12 +5760,12 @@
             "source": "Version allégée du mod [[408]], ce mod est destiné à ceux qui veulent jouer à Baldur's Gate sans souffrir de la faible vitesse de déplacement des personnages en modifiant la vitesse de déplacement des personnages équipés de bottes. Il reprend aussi une partie des capacités de l'original (notamment les portraits, le niveau de recrutement des PNJ, les limites de stockage...)."
         },
         "notes": [
-            "Unfortunately, it installs with IEES or IE Editor Pro, old modding tools (you'll find their download links in the GrondeMarteau Forge forum). Avoid it like the plague."
+            "It installs with IEES or IE Editor Pro."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Malheureusement, il s'installe avec IEES ou IE Editor Pro, de vieux outils de modding (vous trouverez leur liens de téléchargement dans le forum de la Forge de GrondeMarteau). Évitez-le comme la peste."
+                "Il s'installe avec IEES ou IE Editor Pro."
             ]
         }
     },
@@ -5874,12 +5872,12 @@
             "source": "Ce mod modifie plusieurs éléments du jeu : les personnages sont tous recrutés à leur niveau le plus faible (pas d'adaptation au niveau du personnage principal), les tomes de caractéristiques sont remplacés par des objets spécifiques à chaque classe, les bijoux offrent tous des bonus (CA, résistance...), les bottes ajoutent des bonus de vitesse de déplacement. Il ajoute aussi des portraits de personnage repris de BG2, de nouveaux objets répartis un peu partout (notamment sur des adversaires ou dans des magasins). Il améliore certains adversaires pour corser les combats. Il modifie les animations de quelques sorts.|Enfin le mod augmente la capacité de stockage des munitions, augmente la limite d'expérience, permet de gagner le maximum de points de vie au changement de niveau. Il intègre également le patch Baldurdash."
         },
         "notes": [
-            "The mod can be installed with IEES or IE Editor Pro (links to these tools can be found in the GrondeMarteau Forge forum). Avoid it like the plague."
+            "The mod can be installed with IEES or IE Editor Pro."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Le mod s'installe avec IEES ou IE Editor Pro (vous trouverez les liens pour ces outils dans le forum de la Forge de GrondeMarteau). Évitez-le comme la peste."
+                "Le mod s'installe avec IEES ou IE Editor Pro."
             ]
         }
     },
@@ -7528,10 +7526,10 @@
     },
     {
         "id": 524,
-        "description": "Initiated by Weimer, this project lets you play Baldur's Gate II using the Icewind Dale 2 engine. In fact, the idea was to adapt BG2 to Icewind Dale 2, with the 3rd edition rules, interface, spells, etc., from Icewind Dale II. Many screenshots are already available. The beta version has been opened to the public following the withdrawal of its designer from the community. Installation instructions can be found at [this link](https://weidu.org/iwg2/beta.html).",
+        "description": "Initiated by Weimer, this project lets you play Baldur's Gate II using the Icewind Dale 2 engine. In fact, the idea was to adapt BG2 to Icewind Dale 2, with the 3rd edition rules, interface, spells, etc., from Icewind Dale II. Many screenshots are already available. The beta version has been opened to the public following the withdrawal of its designer from the community.|Installation instructions can be found at [this link](https://weidu.org/iwg2/beta.html).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html)."
+            "source": "Ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html)."
         },
         "notes": [],
         "notes_meta": {
@@ -8490,14 +8488,10 @@
             "status": "needs_review",
             "source": "Ce mod permet à tous les personnages importés de conserver leur équipement, y compris les armes et l'armure de Drizzt."
         },
-        "notes": [
-            "Warning: this mod has been reported to cause problems in BGT..."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : ce mod a été signalé comme posant des problèmes dans BGT..."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -9280,10 +9274,10 @@
     },
     {
         "id": 647,
-        "description": "This is a pre-pulled character for IWD. Lord Draco Vlasavius is a lawful neutral level 14 human fighter with high-quality magical equipment. His stats: 175 HP, CA -11, STR 21, DEX 19, CON 18, INT 10, WIS 14 and CHA 11.",
+        "description": "This is a pre-pulled character. Lord Draco Vlasavius is a lawful neutral level 14 human fighter with high-quality magical equipment. His stats: 175 HP, CA -11, STR 21, DEX 19, CON 18, INT 10, WIS 14 and CHA 11.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'un personnage pré-tiré pour IWD. Lord Draco Vlasavius est un guerrier humain loyal neutre de niveau 14 avec un équipement magique de qualité. Ses caractéristiques : 175 PV, CA -11, FOR 21, DEX 19, CON 18, INT 10, WIS 14 et CHA 11."
+            "source": "Il s'agit d'un personnage pré-tiré. Lord Draco Vlasavius est un guerrier humain loyal neutre de niveau 14 avec un équipement magique de qualité. Ses caractéristiques : 175 PV, CA -11, FOR 21, DEX 19, CON 18, INT 10, SAG 14 et CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -11284,7 +11278,7 @@
         "description": "This mod renders all spells and abilities that give enhanced invisibility PnP: the character does not become visible again after attacking. It also modifies the Sparkling Dust spell so that it reveals invisible creatures who fail their saving throw.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod rend tous les sorts et capacités qui donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il révèle les créatures invisibles qui ratent leu jet de sauvegarde."
+            "source": "Ce mod rend tous les sorts et capacités qui donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il révèle les créatures invisibles qui ratent leur jet de sauvegarde."
         },
         "notes": [],
         "notes_meta": {
@@ -11833,10 +11827,10 @@
     },
     {
         "id": 824,
-        "description": "This small mod modifies the profile prerequisites, half-orc race, spell progression and Charisma score modification tables to bring them into line with the paper rules.",
+        "description": "This small mod modifies the kit prerequisites, half-orc race, spell progression and Charisma score modification tables to bring them into line with the paper rules.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce petit mod modifie  les pré-requis de profils, la race de semi-orque, les tables de progression des sorts et de modification de scores de Charisme pour les rendre conformes aux règles papier."
+            "source": "Ce petit mod modifie les pré-requis de profils, la race de semi-orque, les tables de progression des sorts et de modification de scores de Charisme pour les rendre conformes aux règles papier."
         },
         "notes": [],
         "notes_meta": {
@@ -12041,7 +12035,7 @@
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Ce mod a subit un \"Overhaul\" de la part de son auteur et a été divisé en deux nouveaux mods  qui sont téléchargeables [ici](https://forums.beamdog.com/discussion/42503/)."
+                "Ce mod a subit un \"Overhaul\" de la part de son auteur et a été divisé en deux nouveaux mods qui sont téléchargeables [ici](https://forums.beamdog.com/discussion/42503/)."
             ]
         }
     },
@@ -12249,10 +12243,10 @@
     },
     {
         "id": 851,
-        "description": "This mod makes 30 kits of the [[881]] conversion module available. A few examples? Here we go: Amazon, Gladiator, Samurai (fighters), Anti-paladin, Messiah and Black Knight (paladins); Time Keeper and Elementalist (rangers); Ninja and Treasure Hunter (thieves); Minstrel, Juggler and Golem Trainer (bards), Dark Druid, and many more.",
+        "description": "This mod makes 33 kits of the [[881]] conversion module available. A few examples? Here we go: Amazon, Gladiator, Samurai (fighters), Anti-paladin, Messiah and Black Knight (paladins); Time Keeper and Elementalist (rangers); Ninja and Treasure Hunter (thieves); Minstrel, Juggler and Golem Trainer (bards), Dark Druid, and many more.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod rend disponibles 30 profils du module de conversion [[881]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres."
+            "source": "Ce mod rend disponibles 33 profils du module de conversion [[881]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres."
         },
         "notes": [
             "Use [this link](https://github.com/Plutonium-X/KIT_RTT/) for the EE version."
@@ -14133,12 +14127,12 @@
             "source": "Ce mod ajoute le nouveau sort \"Puissance des Arcanes\" qui permet à un magicien de se rappeler un sort de niveau 9 déjà lancé."
         },
         "notes": [
-            "Warning: This mod is in tbg format and requires an old modding tool to install. Avoid it!"
+            "This mod is in tbg format and requires IEEP to install."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : Ce mod est au format tbg et nécessite un vieil outil de modding pour s'installer. Évitez-le !"
+                "Ce mod est au format tbg et nécessite IEEP pour s'installer."
             ]
         }
     },
@@ -16082,12 +16076,12 @@
             "source": "Il s'agit d'un livre avec lequel vous pouvez dialoguer pour modifier vos caractéristiques, alignement, classe, argent, expérience, points de vie... Il peut aussi vous donner de nombreux objets utiles, dont certains n'étaient pas inclus dans le jeu, ainsi que tous les parchemins de sorts de niveau 5 à 9. Bien, évidemment, c'est de la triche !"
         },
         "notes": [
-            "Warning: As it's included in the [[847]] mod (the `Cheatbook` component), you might as well install the previous mod, which is also translated."
+            "Included in mod [[847]] (component `Cheatbook`)."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : Comme il est inclus dans le mod [[847]] (composant `Grimoire de triche`), autant installer le mod précédent qui, en plus, est traduit."
+                "Inclus dans le mod [[847]] (composant `Grimoire de triche`)."
             ]
         }
     },
@@ -23413,14 +23407,16 @@
     },
     {
         "id": 1632,
-        "description": "Makes all snakes move straight ahead instead of waving. What's the point?",
+        "description": "Makes all snakes move straight ahead instead of waving.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Fait que tous les serpents, au lieu d'onduler, avancent tout droit. À quoi est-ce-que ça peut bien servir ?"
+            "source": "Fait que tous les serpents, au lieu d'onduler, avancent tout droit."
         },
-        "notes": [],
+        "notes": [
+            "Overwrite the files MSNKG1.BAM, MSNKG11.BAM and MSNKG12.BAM."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Écrase les fichiers MSNKG1.BAM, MSNKG11.BAM et MSNKG12.BAM."
             ]
@@ -24108,16 +24104,12 @@
         "description": "This mod adds voices for all npcs in the game, new music and new items. It modifies numerous rules and revises the items, spells and tactics used by monsters. It also adds a number of spicy new battles.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute des voix pour tous les npcs du jeu, de nouvelles musiques et de nouveaux objets. Il modifie de nombreuses règles et révise les objets, les sorts et les tactiques utilisées par les monstres. Il rajoute aussi de nombreux combat épicés."
+            "source": "Ce mod ajoute des voix pour tous les npcs du jeu, de nouvelles musiques et de nouveaux objets. Il modifie de nombreuses règles et révise les objets, les sorts et les tactiques utilisées par les monstres. Il rajoute aussi de nombreux combats épicés."
         },
-        "notes": [
-            "This is an override mod that modifies the majority of the game's files and is only compatible with version 1.4 of the game. It does not work with version 2.6+ and is incompatible with all other mods. What's more, its installation method is complicated. In short... avoid it."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Il s'agit d'un mod override qui modifie la majorité les fichiers du jeu et qui n'est compatible qu'avec la version 1.4 du jeu. Il ne fonctionne pas avec la version 2.6+ et est incompatible avec tous les autres mods. De plus sa méthode d'installation est compliquée. Bref... évitez-le."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -24752,7 +24744,7 @@
         "description": "This mod makes Barad's quest less boring: cats can no longer escape, and when they see a character in the party they sit down and ask for food.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod rend la quête de Barad moins ennuyeuse : les chat ne peuvent plus s'échapper et quand ils voient un personnage du groupe ils s'assoient et demandent à manger."
+            "source": "Ce mod rend la quête de Barad moins ennuyeuse : les chats ne peuvent plus s'échapper et quand ils voient un personnage du groupe ils s'assoient et demandent à manger."
         },
         "notes": [],
         "notes_meta": {
@@ -24762,10 +24754,10 @@
     },
     {
         "id": 1729,
-        "description": "Two voice packs in English are proposed: Baeloth (compatible BG2) and Sand, character of the game Nevewinter Night 2",
+        "description": "Two voice packs in English are proposed: Baeloth (compatible BG2) and Sand, character of the game Neverwinter Nights 2.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Deux packs de voix en anglais sont proposés : Baeloth (compatible BG2) et Sand, personnage du jeu Nevewinter Night 2"
+            "source": "Deux packs de voix en anglais sont proposés : Baeloth (compatible BG2) et Sand, personnage du jeu Neverwinter Nights 2."
         },
         "notes": [],
         "notes_meta": {
@@ -24805,7 +24797,7 @@
     },
     {
         "id": 1733,
-        "description": "This file, to be copied into the override, gives an unlimited supply of potions and/or projectiles of all kinds to five in-game merchants.",
+        "description": "Ce fichier à copier dans l'override donne un stock illimité de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce fichier à copier dans l'override donne un stock illimité de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu."
@@ -24899,7 +24891,7 @@
         "description": "Three sound sets for your character: Eldoth, Silke and Nimbul.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Trois set de sons (en anglais) pour votre personnage : ceux de Eldoth, Silke et Nimbul."
+            "source": "Trois sets de son (en anglais) pour votre personnage : ceux de Eldoth, Silke et Nimbul."
         },
         "notes": [
             "Make sure you use the correct files for your game: BGEE or EET. In addition, there's a special procedure for BGEE: read the mod presentation."
@@ -28403,6 +28395,32 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce kit de rôdeur possède la capacité de se métamorphoser en loup. La transformation pogresse de niveau en niveau. À haut niveau il peut se transformer en loup-garou et même plus."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1996,
+        "description": "This mod adds a quest to the Umar hills. A village must be saved from the attacks of the shades.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod ajoute une quête dans les collines d'Umar. Une nouvelle secte a fait son apparition et il faut s'y infiltrer."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 1997,
+        "description": "This patch is necessary to prevent that Sandrah's personal items are overpowered at the start of the BG1 part.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce patch est nécessaire pour éviter que les objets personnels de Sandrah ne soient trop puissants au début de la partie BG1."
         },
         "notes": [],
         "notes_meta": {
