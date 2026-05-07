@@ -28452,5 +28452,99 @@
                 "Actuellement, il rajoute un dialogue introspectif avec Imoen dans ToB après avoir affronté le spectre de Gorion."
             ]
         }
+    },
+    {
+        "id": 1999,
+        "description": "This mod adds quest-related items in the Umar Hills.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute des objets liés à la quête dans les collines d'Umar."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2000,
+        "description": "This mod brings a few summoning trinkets. Included are original creature animations featuring three new dwarves, a skeleton and a space marine.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod ajoute quelques objets d'invocation. Il comprend des animations de créatures originales mettant en scène trois nouveaux nains, un squelette et un marine."
+        },
+        "notes": [
+            "This mod contains items in .tbg format"
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Ce mod contient des objets au format .tbg"
+            ]
+        }
+    },
+    {
+        "id": 2001,
+        "description": "Have someone's party unexplicatedly change in chickens. Good April Fools prank.",
+        "description_meta": {
+            "status": "done",
+            "source": "Fait en sorte qu'un personnage du groupe se transforme, sans raison apparente, en poulet. Une bonne blague du 1er avril."
+        },
+        "notes": [
+            "Overwrite Balbur.bcs"
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Écrase Baldur.bcs"
+            ]
+        }
+    },
+    {
+        "id": 2002,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2003,
+        "description": "A new way to deal with each of the abyssal tests in chapter 7! For each of the tests there's now a neutral path to take, resulting in a different reward as well. Sometimes the neutral path is closer to the original evil way, sometimes to the good one, and sometimes it is completely different to either of them.",
+        "description_meta": {
+            "status": "done",
+            "source": "Une nouvelle façon d'aborder chacune des épreuves des Enfers du chapitre 7 ! Pour chacune d'entre elles, il existe désormais une voie neutre à suivre, qui donne lieu à une récompense différente. Parfois, cette voie neutre se rapproche davantage de la voie mauvaise d'origine, parfois de la voie bonne, et parfois encore, elle est complètement différente des deux."
+        },
+        "notes": [
+            "Included in [[845]]."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Ce mod a été inclus dans [[845]]."
+            ]
+        }
+    },
+    {
+        "id": 2004,
+        "description": "This mod offers two powerful rings designed for clerics and druids.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose deux puissants anneaux utilisables par les clercs et les druides."
+        },
+        "notes": [
+            "They must be created with the console: `RGBB01` and `RGBB02`."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Ils sont à créer à la console : `RGBB01` et `RGBB02`."
+            ]
+        }
     }
 ]

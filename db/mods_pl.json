@@ -27503,5 +27503,91 @@
                 "Actuellement, il rajoute un dialogue introspectif avec Imoen dans ToB après avoir affronté le spectre de Gorion."
             ]
         }
+    },
+    {
+        "id": 1999,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute des objets liés à la quête dans les collines d'Umar."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2000,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute quelques objets d'invocation. Il comprend des animations de créatures originales mettant en scène trois nouveaux nains, un squelette et un marine."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Ce mod contient des objets au format .tbg"
+            ]
+        }
+    },
+    {
+        "id": 2001,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Fait en sorte qu'un personnage du groupe se transforme, sans raison apparente, en poulet. Une bonne blague du 1er avril."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Écrase Baldur.bcs"
+            ]
+        }
+    },
+    {
+        "id": 2002,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2003,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Une nouvelle façon d'aborder chacune des épreuves des Enfers du chapitre 7 ! Pour chacune d'entre elles, il existe désormais une voie neutre à suivre, qui donne lieu à une récompense différente. Parfois, cette voie neutre se rapproche davantage de la voie mauvaise d'origine, parfois de la voie bonne, et parfois encore, elle est complètement différente des deux."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Ce mod a été inclus dans [[845]]."
+            ]
+        }
+    },
+    {
+        "id": 2004,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose deux puissants anneaux utilisables par les clercs et les druides."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Ils sont à créer à la console : `RGBB01` et `RGBB02`."
+            ]
+        }
     }
 ]

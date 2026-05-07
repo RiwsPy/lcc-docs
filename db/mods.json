@@ -9951,7 +9951,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-10",
+        "last_update": "2026-05",
         "compatibilities": {
             "incompatible_with": [
                 314,
@@ -17415,7 +17415,7 @@
                 512
             ]
         },
-        "tp2": "iwd_in_BG2"
+        "tp2": "iwd_in_bg2"
     },
     {
         "id": 524,
@@ -24276,7 +24276,8 @@
             "BG2"
         ],
         "authors": [
-            "SConrad"
+            "SConrad",
+            "khayman"
         ],
         "team": [],
         "notes": [],
@@ -24845,9 +24846,9 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2006-03",
+        "last_update": "2002-12",
         "compatibilities": {},
-        "tp2": "non-weidu"
+        "tp2": "IWD2-parties"
     },
     {
         "id": 748,
@@ -42983,6 +42984,7 @@
             "BGT"
         ],
         "authors": [
+            "Jon",
             "the bigg"
         ],
         "team": [],
@@ -65064,7 +65066,8 @@
         "name": "Facing the Shade Lord again",
         "description": "Ce mod ajoute une quête dans les collines d'Umar. Une nouvelle secte a fait son apparition et il faut s'y infiltrer.",
         "urls": [
-            "http://forums.blackwyrmlair.net/index.php?showtopic=1900"
+            "http://forums.blackwyrmlair.net/index.php?showtopic=1900",
+            "https://www.shsforums.net/topic/45601-missing-mods/page-2#entry492860"
         ],
         "categories": [
             "Quête"
@@ -65144,5 +65147,180 @@
         "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "reflection"
+    },
+    {
+        "id": 1999,
+        "name": "Facing the Shade Lord again",
+        "description": "Ce mod ajoute des objets liés à la quête dans les collines d'Umar.",
+        "urls": [
+            "http://forums.blackwyrmlair.net/index.php?showtopic=1900",
+            "https://www.shsforums.net/topic/45601-missing-mods/page-2#entry492860"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "K'aeloree"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2006-06",
+        "compatibilities": {},
+        "tp2": "BWL Contest"
+    },
+    {
+        "id": 2000,
+        "name": "Slart's Fodder Pack",
+        "description": "Ce mod ajoute quelques objets d'invocation. Il comprend des animations de créatures originales mettant en scène trois nouveaux nains, un squelette et un marine.",
+        "urls": [
+            "https://ire.mainecoon.net/customs/featured_mods.html"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [
+            "Ce mod contient des objets au format .tbg"
+        ],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "missing",
+        "last_update": "2004-03",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2001,
+        "name": "Chicken Change",
+        "description": "Fait en sorte qu'un personnage du groupe se transforme, sans raison apparente, en poulet. Une bonne blague du 1er avril.",
+        "urls": [
+            "https://ire.mainecoon.net/customs/featured_mods.html"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [
+            "Écrase Baldur.bcs"
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": "missing",
+        "last_update": "2003-03",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2002,
+        "name": "Mike NPC",
+        "description": "",
+        "urls": [
+            "http://www2.snugcove.com:8081/leutian"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Lieutan"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "missing",
+        "last_update": "2004-01",
+        "compatibilities": {},
+        "tp2": "Mike"
+    },
+    {
+        "id": 2003,
+        "name": "Revised Hell Trials",
+        "description": "Une nouvelle façon d'aborder chacune des épreuves des Enfers du chapitre 7 ! Pour chacune d'entre elles, il existe désormais une voie neutre à suivre, qui donne lieu à une récompense différente. Parfois, cette voie neutre se rapproche davantage de la voie mauvaise d'origine, parfois de la voie bonne, et parfois encore, elle est complètement différente des deux.",
+        "urls": [
+            "http://adahn.gmxhome.de/download.html"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "adahn"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod a été inclus dans [[845]]."
+        ],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en",
+            "de",
+            "es",
+            "pl"
+        ],
+        "status": "embed",
+        "last_update": "2004-03",
+        "compatibilities": {},
+        "tp2": "Hell"
+    },
+    {
+        "id": 2004,
+        "name": "Priest Rings for Kenshiro",
+        "description": "Ce mod propose deux puissants anneaux utilisables par les clercs et les druides.",
+        "urls": [
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/PrRings.zip"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG",
+            "BG2"
+        ],
+        "authors": [
+            "Baronius"
+        ],
+        "team": [],
+        "notes": [
+            "Ils sont à créer à la console : `RGBB01` et `RGBB02`."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2004-08",
+        "compatibilities": {},
+        "tp2": "prrings"
     }
 ]
