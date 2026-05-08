@@ -65322,5 +65322,36 @@
         "last_update": "2004-08",
         "compatibilities": {},
         "tp2": "prrings"
+    },
+    {
+        "id": 2005,
+        "name": "Dialogue Choice Additions",
+        "description": "Ce mod est un mod fidèle à la version originale de Baldur's Gate qui offre aux personnages des joueurs davantage de possibilités de réponse dans diverses conversations tout au long du jeu. De nouvelles répliques sont ajoutées à certains dialogues où le jeu original ne proposait pas de réponses plausibles.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41248-dialogue-choice-additions/",
+            "https://github.com/virginviolet/DialogueChoiceAdditions"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "VioletSister"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-05",
+        "compatibilities": {},
+        "tp2": "DialogueChoiceAdditions"
     }
 ]
