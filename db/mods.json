@@ -2957,37 +2957,30 @@
         "name": "Auror Kit for the Ranger Class",
         "description": "Ce mod ajoute une archère unique avec une habilité exceptionnelle de contrôle de la glace et de l'hiver.",
         "urls": [
-            "https://www.shsforums.net/files/file/687-auror-kit-for-the-ranger-class/",
-            "https://github.com/Plutonium-X/KIT_Aurore/"
+            "https://www.shsforums.net/files/file/687-auror-kit-for-the-ranger-class/"
         ],
         "categories": [
             "Kit"
         ],
         "games": [
-            "BGEE",
             "BG2",
             "BGT",
-            "BG2EE",
-            "EET",
-            "IWDEE"
+            "BG2EE"
         ],
         "authors": [
             "Aeviannce"
         ],
         "team": [],
-        "notes": [
-            "Choisissez le lien github pour la version EE."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en",
-            "fr"
+            "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2017-08",
         "compatibilities": {},
-        "tp2": "AurorKit"
+        "tp2": "A4Auror"
     },
     {
         "id": 88,
@@ -6131,7 +6124,7 @@
     {
         "id": 183,
         "name": "Blonde Imoen",
-        "description": "Ce mod remplace les portraits d'Imoen par une version blonde. Un composant permet de les installer comme portraits de joueur dans n'importe quel jeu Infinity Engine (sauf PsT et PsT:EE).",
+        "description": "Ce mod remplace les portraits d'Imoen par une version blonde. Un composant permet de les installer comme portraits de joueur.",
         "urls": [
             "https://www.gibberlings3.net/files/file/699-blonde-imoen/",
             "https://github.com/Gibberlings3/BlondeImoen"
@@ -65353,5 +65346,99 @@
         "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "DialogueChoiceAdditions"
+    },
+    {
+        "id": 2006,
+        "name": "Mana Caster: Bunny Edition",
+        "description": "Ce mod instaure un système de mana pour les clercs et les mages (exceptés les sorciers). Si le personnage ne dispose pas d'assez de mana, le lancement du sort devient impossible.",
+        "urls": [
+            "https://www.shsforums.net/topic/60663-mod-mana-caster-bunny-edition-for-bg2ee/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Gamemacik"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2020-01",
+        "compatibilities": {},
+        "tp2": "Mana_Caster"
+    },
+    {
+        "id": 2007,
+        "name": "Auror Kit for the Ranger Class",
+        "description": "Ce mod est une version plus puissante et antérieure à [[87]].",
+        "urls": [
+            "https://github.com/Plutonium-X/KIT_Aurore"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Aeviannce"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2024-10",
+        "compatibilities": {},
+        "tp2": "AurorKit"
+    },
+    {
+        "id": 2008,
+        "name": "Gorion's Last Stand",
+        "description": "Ce mod vise à améliorer la séquence de mort de Gorion dans le prologue de Baldur's Gate.",
+        "urls": [
+            "https://github.com/MephistoSatanDevil/GorionLastStand"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "MephistoSatanDevil"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "fr",
+            "ru",
+            "cn",
+            "de"
+        ],
+        "status": "active",
+        "last_update": "2026-04",
+        "compatibilities": {},
+        "tp2": "GorionLastStand"
     }
 ]

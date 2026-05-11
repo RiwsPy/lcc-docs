@@ -1293,14 +1293,10 @@
             "status": "done",
             "source": "Ce mod ajoute une archère unique avec une habilité exceptionnelle de contrôle de la glace et de l'hiver."
         },
-        "notes": [
-            "请选择 github 链接以获取 EE 版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Choisissez le lien github pour la version EE."
-            ]
+            "source": []
         }
     },
     {
@@ -2669,8 +2665,8 @@
         "id": 183,
         "description": "此模组将爱蒙的肖像替换为金发版本。一个组件允许您在任何无限引擎游戏中（PsT和PsT:EE除外）将其安装为玩家肖像。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod remplace les portraits d'Imoen par une version blonde. Un composant permet de les installer comme portraits de joueur dans n'importe quel jeu Infinity Engine (sauf PsT et PsT:EE)."
+            "status": "needs_review",
+            "source": "Ce mod remplace les portraits d'Imoen par une version blonde. Un composant permet de les installer comme portraits de joueur."
         },
         "notes": [],
         "notes_meta": {
@@ -28790,6 +28786,45 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod est un mod fidèle à la version originale de Baldur's Gate qui offre aux personnages des joueurs davantage de possibilités de réponse dans diverses conversations tout au long du jeu. De nouvelles répliques sont ajoutées à certains dialogues où le jeu original ne proposait pas de réponses plausibles."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2006,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod instaure un système de mana pour les clercs et les mages (exceptés les sorciers). Si le personnage ne dispose pas d'assez de mana, le lancement du sort devient impossible."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2007,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod est une version plus puissante et antérieure à [[87]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2008,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod vise à améliorer la séquence de mort de Gorion dans le prologue de Baldur's Gate."
         },
         "notes": [],
         "notes_meta": {

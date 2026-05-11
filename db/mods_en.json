@@ -1277,14 +1277,10 @@
             "status": "needs_review",
             "source": "Ce mod ajoute une archère unique avec une habilité exceptionnelle de contrôle de la glace et de l'hiver."
         },
-        "notes": [
-            "Choose the github link for the EE version."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Choisissez le lien github pour la version EE."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -2637,10 +2633,10 @@
     },
     {
         "id": 183,
-        "description": "This mod replaces Imoen's portraits with a blond version. A component allows them to be installed as player portraits in any Infinity Engine game (except PsT and PsT:EE).",
+        "description": "This mod replaces Imoen's portraits with a blond version. A component allows them to be installed as player portraits.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod remplace les portraits d'Imoen par une version blonde. Un composant permet de les installer comme portraits de joueur dans n'importe quel jeu Infinity Engine (sauf PsT et PsT:EE)."
+            "source": "Ce mod remplace les portraits d'Imoen par une version blonde. Un composant permet de les installer comme portraits de joueur."
         },
         "notes": [],
         "notes_meta": {
@@ -28553,6 +28549,45 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod est un mod fidèle à la version originale de Baldur's Gate qui offre aux personnages des joueurs davantage de possibilités de réponse dans diverses conversations tout au long du jeu. De nouvelles répliques sont ajoutées à certains dialogues où le jeu original ne proposait pas de réponses plausibles."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2006,
+        "description": "This mod adds a mana system for Clerics and Wizards (except Sorcerers). If the character does not have enough mana, the spell cannot be cast.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod instaure un système de mana pour les clercs et les mages (exceptés les sorciers). Si le personnage ne dispose pas d'assez de mana, le lancement du sort devient impossible."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2007,
+        "description": "This mod is a more powerful version that predates [[87]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod est une version plus puissante et antérieure à [[87]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2008,
+        "description": "This mod aims to improve the death sequence of Gorion in the prologue of Baldur's Gate.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod vise à améliorer la séquence de mort de Gorion dans le prologue de Baldur's Gate."
         },
         "notes": [],
         "notes_meta": {
