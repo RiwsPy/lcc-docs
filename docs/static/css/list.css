@@ -137,7 +137,6 @@ label {
     padding: 5px 60px 13px 60px;
     border-radius: 3px 4px 3px 3px;
     box-shadow: 8px 8px 15px black;
-    margin-bottom: 50px;
 }
 
 #header .nav-2 {
@@ -150,22 +149,30 @@ label {
     text-shadow: 0.1rem 0.1rem 0.25rem black;
 }
 
-#header .breadcrumb {
+.breadcrumb {
+    display: flex;
+    gap: 10px;
+    margin-block: 32px;
     font-size: 18px;
 }
 
-#header .language-picker {
-    display: flex;
-    align-items: center;
-    margin-block: 10px;
-    font-size: 20px;
+.breadcrumb a::after {
+    content: " /";
 }
 
-#header .language-picker a {
+.language-picker {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.language-picker a {
+    font-size: 20px;
     padding: 10px;
 }
 
-#header .language-picker a::before {
+.language-picker a::before {
     content: "•  ";
 }
 
@@ -290,7 +297,8 @@ section {
     margin-bottom: 1rem;
 }
 
-#maindiv .content {
+#maindiv .content,
+#homediv .content {
     color: #deded9;
     background: var(--color-background) url("../img/fond_descr_forum.avif");
     border: 1px solid var(--color-secondary);
@@ -300,7 +308,8 @@ section {
     display: block;
 }
 
-#maindiv .content .text {
+#maindiv .content .text,
+#homediv .content .text {
     padding: 25px 5%;
     font-size: var(--font-size-medium);
     text-align: justify;
@@ -321,10 +330,27 @@ section {
     letter-spacing: .2rem;
 }
 
-#maindiv .tables {
+#maindiv .tables,
+#homediv .tables {
     display: grid;
     grid-template-columns: 66% 34%;
     gap: 1rem;
+}
+
+#homediv .stats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    margin-block: 16px;
+}
+
+#homediv .stats div {
+    display: grid;
+    border: 1px solid var(--color-primary);
+    padding: 8px 16px;
+    justify-items: center;
 }
 
 .legend {
@@ -356,7 +382,7 @@ section {
     background: var(--background-secondary);
 }
 
-details[open]>summary.category_name {
+#maindiv details[open]>summary.category_name {
     position: sticky;
     top: 102px;
     z-index: 5;

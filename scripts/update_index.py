@@ -50,11 +50,12 @@ def main(**kwargs):
 
     languages = get_languages() & language_flags.keys()
     used_language_flags = {k: v for k, v in language_flags.items() if k in languages}
-    default_mods = ModManager.get_default_mods()
+    authors = set()
+    team = set()
 
     for language in languages:
         with LANGUAGE_CONFIG.switch_language(language):
-            mods = ModManager.get_mod_list(language, default_mods=default_mods)
+            mods = ModManager.get_mod_list(language)
 
             mods.sort(key=lambda x: x.name.lower())
 
@@ -65,6 +66,8 @@ def main(**kwargs):
                 if mod.status != ModStatus.HIDDEN:
                     for category in mod.categories:
                         categories_mod[category].append(mod)
+                    authors |= set(mod.authors)
+                    team |= set(mod.team)
 
             page_html = build_html_page(
                 static=f"..{os_sep}static{os_sep}",
@@ -77,11 +80,53 @@ def main(**kwargs):
             create_page_language(page_html, language)
 
     # on crée la page par defaut (home)
-    mods = default_mods
-    page_html = build_html_page(
-        static=f"static{os_sep}", is_home_page=True, mod_length=len(mods)
-    )
-    create_page_language(page_html, "")
+    with LANGUAGE_CONFIG.switch_language("en"):
+        tp2_nb = 0
+        mods = ModManager.get_mod_list("en")
+        mod_id_to_name = {mod.id: mod.name for mod in mods}
+
+        for mod in mods:
+            if mod.status != ModStatus.HIDDEN:
+                authors |= set(mod.authors)
+                team |= set(mod.team)
+                if mod.tp2 not in ("n/a", "non-weidu", ""):
+                    tp2_nb += 1
+
+        last_added_mods = ModManager.get_last_added_mods(mods)
+        last_updated_mods = ModManager.get_last_updated_mods(mods)
+        without_author_mods = ModManager.get_without_author_mods(mods)
+        without_tp2_mods = ModManager.get_without_tp2_mods(mods)
+        missing_mods = ModManager.get_missing_mods(mods)
+
+        page_html = build_html_page(
+            static=f"static{os_sep}",
+            is_home_page=True,
+            mod_length=len(mods),
+            authors_nb=len(authors),
+            team_nb=len(team),
+            mod_id_to_name=mod_id_to_name,
+            tp2_nb=tp2_nb,
+            categories={
+                HomeCategory(id=1, value="Last Added Mods"): last_added_mods,
+                HomeCategory(id=2, value="Last Updated Mods"): last_updated_mods,
+                HomeCategory(id=3, value="Unknown Authors Mods"): sorted(
+                    without_author_mods, key=lambda x: x.name
+                ),
+                HomeCategory(id=4, value="Unknown Tp2 Mods"): sorted(
+                    without_tp2_mods, key=lambda x: x.name
+                ),
+                HomeCategory(id=5, value="Missing Mods"): sorted(
+                    missing_mods, key=lambda x: x.name
+                ),
+            },
+        )
+        create_page_language(page_html, "")
+
+
+class HomeCategory:
+    def __init__(self, id, value) -> None:
+        self.id = id
+        self.value = value
 
 
 def create_page_language(page_html: str, language: str) -> None:

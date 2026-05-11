@@ -99,7 +99,6 @@ TEMPLATE_TRANSLATIONS = {
     "introduction": _g("Introduction"),
     "version": _g("Version"),
     "mod_nb": _g("Mods recensés"),
-    "go_to_list": _g("Accéder à la liste"),
     "intros": [
         _g("Voici la liste de mods de la saga Baldur's Gate disponibles au téléchargement."),
         _g(
