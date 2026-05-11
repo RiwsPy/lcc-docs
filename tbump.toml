@@ -27,7 +27,7 @@ src = "pyproject.toml"
 search = 'version = "{current_version}"'
 
 [[file]]
-src = "docs/templates/base.html"
+src = "docs/templates/header.html"
 search = '<p id="version"><strong>{current_version}'
 
 [[before_commit]]
