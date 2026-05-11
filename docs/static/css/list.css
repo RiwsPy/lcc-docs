@@ -150,10 +150,29 @@ label {
     text-shadow: 0.1rem 0.1rem 0.25rem black;
 }
 
+#header .breadcrumb {
+    font-size: 18px;
+}
+
 #header .language-picker {
-    text-align: center;
+    display: flex;
+    align-items: center;
     margin-block: 10px;
     font-size: 20px;
+}
+
+#header .language-picker a {
+    padding: 10px;
+}
+
+#header .language-picker a::before {
+    content: "•  ";
+}
+
+#header .credits div {
+    display: grid;
+    column-gap: 20px;
+    grid-template-columns: 150px 1fr;
 }
 
 .intro {
