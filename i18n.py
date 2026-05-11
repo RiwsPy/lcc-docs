@@ -103,7 +103,7 @@ TEMPLATE_TRANSLATIONS = {
             'Afin qu\'elle soit la plus précise possible, n\'hésitez pas à remonter sur le dépôt <a href="https://github.com/RiwsPy/lcc-docs/issues">tout problème</a>, signaler des <a href="https://github.com/RiwsPy/lcc-docs/discussions/65">mods non repertoriés</a>, ou encore une <a href="https://github.com/RiwsPy/lcc-docs/discussions/66">erreur</a>.'
         ),
         _g(
-            'N\'oubliez pas de consulter le <a href="https://github.com/RiwsPy/lcc-docs/README.md">readme</a> avant de contribuer ainsi que les <a href="https://github.com/RiwsPy/lcc-docs/CONTRIBUTING.md">guidelines</a>.'
+            'N\'oubliez pas de consulter le <a href="https://github.com/RiwsPy/lcc-docs/blob/main/README.md">readme</a> avant de contribuer ainsi que les <a href="https://github.com/RiwsPy/lcc-docs/blob/main/CONTRIBUTING.md">guidelines</a>.'
         ),
     ],
     "wargning_title": _g("AVERTISSEMENTS"),
