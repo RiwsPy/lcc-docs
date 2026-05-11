@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-11 10:38+0200\n"
+"POT-Creation-Date: 2026-05-11 16:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,7 +41,7 @@ msgstr ""
 msgid "Mod non traduit"
 msgstr ""
 
-#: settings.py:60 i18n.py:117
+#: settings.py:60 i18n.py:119
 msgid "Mod Weidu"
 msgstr ""
 
@@ -178,92 +178,100 @@ msgid "Mod"
 msgstr ""
 
 #: i18n.py:80
-msgid "Compatibilités"
+msgid "Accueil"
 msgstr ""
 
 #: i18n.py:81
-msgid "Auteurs"
+msgid "Compatibilités"
 msgstr ""
 
 #: i18n.py:82
-msgid "Traducteurs"
+msgid "Auteurs"
 msgstr ""
 
 #: i18n.py:83
-msgid "Équipe"
+msgid "Traducteurs"
 msgstr ""
 
 #: i18n.py:84
-msgid "Lien"
+msgid "Équipe"
 msgstr ""
 
 #: i18n.py:85
-msgid "Tous"
+msgid "Lien"
 msgstr ""
 
 #: i18n.py:86
-msgid "Toutes"
+msgid "Tous"
 msgstr ""
 
 #: i18n.py:87
-msgid "État de la traduction"
+msgid "Toutes"
 msgstr ""
 
 #: i18n.py:88
-msgid "Qualité du mod"
+msgid "État de la traduction"
 msgstr ""
 
 #: i18n.py:89
-msgid "Catégorie"
+msgid "Qualité du mod"
 msgstr ""
 
 #: i18n.py:90
-msgid "Recherche :"
+msgid "Catégorie"
 msgstr ""
 
 #: i18n.py:91
-msgid "Filtres avancés"
+msgid "Recherche :"
 msgstr ""
 
 #: i18n.py:92
-msgid "Liste des mods"
+msgid "Filtres avancés"
 msgstr ""
 
 #: i18n.py:93
-msgid "Auteur :"
+msgid "Liste des mods"
 msgstr ""
 
 #: i18n.py:94
-msgid "Mainteneur :"
+msgid "Auteur"
 msgstr ""
 
 #: i18n.py:95
-msgid "Retourner aux filtres"
+msgid "Mainteneur"
 msgstr ""
 
 #: i18n.py:96
-msgid "Site internet"
+msgid "Retourner aux filtres"
 msgstr ""
 
 #: i18n.py:97
-msgid "Discussion"
+msgid "Site internet"
 msgstr ""
 
 #: i18n.py:98
-msgid "Introduction"
+msgid "Discussion"
 msgstr ""
 
 #: i18n.py:99
-msgid "Mods recensés : "
+msgid "Introduction"
+msgstr ""
+
+#: i18n.py:100
+msgid "Version"
 msgstr ""
 
 #: i18n.py:101
+msgid "Mods recensés"
+msgstr ""
+
+#: i18n.py:103
 msgid ""
 "Voici la liste de mods de la saga Baldur's Gate disponibles au "
 "téléchargement."
 msgstr ""
 
-#: i18n.py:103
+#: i18n.py:105
 msgid ""
 "Afin qu'elle soit la plus précise possible, n'hésitez pas à remonter sur le "
 "dépôt <a href=\"https://github.com/RiwsPy/lcc-docs/issues\">tout problème</"
@@ -272,7 +280,7 @@ msgid ""
 "github.com/RiwsPy/lcc-docs/discussions/66\">erreur</a>."
 msgstr ""
 
-#: i18n.py:106
+#: i18n.py:108
 msgid ""
 "N'oubliez pas de consulter le <a href=\"https://github.com/RiwsPy/lcc-docs/"
 "blob/main/README.md\">readme</a> avant de contribuer ainsi que les <a href="
@@ -280,11 +288,11 @@ msgid ""
 "a>."
 msgstr ""
 
-#: i18n.py:109
+#: i18n.py:111
 msgid "AVERTISSEMENTS"
 msgstr ""
 
-#: i18n.py:112
+#: i18n.py:114
 msgid ""
 "Par sécurité, tous les liens qui proposent un téléchargement direct sont "
 "coupés en deux. La première partie est dans le lien et la seconde dans la "
@@ -295,10 +303,10 @@ msgid ""
 "zip`."
 msgstr ""
 
-#: i18n.py:115
+#: i18n.py:117
 msgid "Nom du mod"
 msgstr ""
 
-#: i18n.py:116
+#: i18n.py:118
 msgid "Légende :"
 msgstr ""
