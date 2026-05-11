@@ -5,7 +5,7 @@ import logging
 import os
 
 from i18n import LANGUAGE_DEFAULT, current_language
-from models.mod import Mod
+from models.mod import Mod, ModStatus
 from settings import DB_PATH
 
 logger = logging.getLogger(__name__)
@@ -47,18 +47,25 @@ class ModManager:
             json.dump(mods, f, indent=4, ensure_ascii=False)
 
     @classmethod
-    def get_mod_list(cls, language: str | None = None) -> list[Mod]:
-        default_list = cls.load(language="")
+    def get_default_mods(cls) -> list[dict]:
+        return cls.load(language="")
+
+    @classmethod
+    def get_mod_list(
+        cls, language: str | None = None, default_mods: list[dict] | None = None
+    ) -> list[Mod]:
+        if default_mods is None:
+            default_mods = cls.get_default_mods()
 
         if not language:
-            source_list = default_list
+            source_list = default_mods
         elif language in (LANGUAGE_DEFAULT, "en"):
             source_list = cls.get_combine_language(
-                default_list, language, merge_urls_extra=True, merge_notes_extra=True
+                default_mods, language, merge_urls_extra=True, merge_notes_extra=True
             )
         else:
             source_list = cls.get_combine_language(
-                default_list, "en", exclude_fields=["team", "translation_state"]
+                default_mods, "en", exclude_fields=["team", "translation_state"]
             )
             source_list = cls.get_combine_language(
                 source_list, language, merge_urls_extra=True, merge_notes_extra=True
@@ -91,6 +98,34 @@ class ModManager:
             if merge_notes_extra and "notes_extra" in source_list_pks[pk]:
                 source_list_pks[pk]["notes"] += source_list_pks[pk]["notes_extra"]
         return list(source_list_pks.values())
+
+    @classmethod
+    def get_last_added_mods(cls, mods: list[Mod], nb: int = 10) -> list[Mod]:
+        not_hidden_mods = [mod for mod in mods if mod.status != ModStatus.HIDDEN]
+        return not_hidden_mods[-nb:][::-1]
+
+    @classmethod
+    def get_last_updated_mods(cls, mods: list[Mod], nb: int = 10) -> list[Mod]:
+        active_mods = [mod for mod in mods if mod.status == ModStatus.ACTIVE]
+        active_mods.sort(key=lambda x: x.last_update)
+        return active_mods[-nb:][::-1]
+
+    @classmethod
+    def get_missing_mods(cls, mods: list[Mod]) -> list[Mod]:
+        return [mod for mod in mods if mod.status == ModStatus.MISSING]
+
+    @classmethod
+    def get_without_author_mods(cls, mods: list[Mod]) -> list[Mod]:
+        return [mod for mod in mods if not mod.authors and mod.status != ModStatus.HIDDEN]
+
+    @classmethod
+    def get_without_tp2_mods(cls, mods: list[Mod]) -> list[Mod]:
+        return [
+            mod
+            for mod in mods
+            if not mod.tp2
+            and mod.status not in (ModStatus.HIDDEN, ModStatus.WIP, ModStatus.ARCHIVED)
+        ]
 
 
 class CleanModMixin:

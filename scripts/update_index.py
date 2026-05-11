@@ -5,7 +5,7 @@ from pathlib import Path
 from jinja2 import Environment, PackageLoader, select_autoescape
 import minify_html
 
-from i18n import LANGUAGE_CONFIG, LANGUAGE_DEFAULT, TEMPLATE_TRANSLATIONS, _g
+from i18n import LANGUAGE_CONFIG, TEMPLATE_TRANSLATIONS, _g
 from models.mod import ModStatus
 from scripts.utils import ModManager, get_languages
 from settings import (
@@ -18,19 +18,18 @@ from settings import (
 
 logger = logging.getLogger(__name__)
 
+home_page = "https://riwspy.github.io/lcc-docs/"
+
 
 def main(**kwargs):
-    def build_html_page(static: str) -> str:
+    def build_html_page(**kwargs) -> str:
         html_page = env.get_template("base.html").render(
             games=GameEnum,
-            categories=categories_mod,
-            static=static,
             attrs_icon_data=attrs_icon_data,
-            mod_length=len(mods),
-            language=language,
             language_flags=used_language_flags,
-            mod_id_to_name=mod_id_to_name,
             trans=TEMPLATE_TRANSLATIONS,
+            home_page=home_page,
+            **kwargs,
         )
         return minify_html.minify(html_page, minify_js=True, minify_css=True)
 
@@ -51,6 +50,9 @@ def main(**kwargs):
 
     languages = get_languages() & language_flags.keys()
     used_language_flags = {k: v for k, v in language_flags.items() if k in languages}
+    authors = set()
+    team = set()
+
     for language in languages:
         with LANGUAGE_CONFIG.switch_language(language):
             mods = ModManager.get_mod_list(language)
@@ -64,14 +66,67 @@ def main(**kwargs):
                 if mod.status != ModStatus.HIDDEN:
                     for category in mod.categories:
                         categories_mod[category].append(mod)
+                    authors |= set(mod.authors)
+                    team |= set(mod.team)
 
-            page_html = build_html_page(static=f"..{os_sep}static{os_sep}")
+            page_html = build_html_page(
+                static=f"..{os_sep}static{os_sep}",
+                categories=categories_mod,
+                mod_length=len(mods),
+                language=language,
+                mod_id_to_name=mod_id_to_name,
+                is_home_page=False,
+            )
             create_page_language(page_html, language)
 
-            # on crée aussi la page par defaut (home), qui est celle du language par défaut
-            if language == LANGUAGE_DEFAULT:
-                page_html = build_html_page(static=f"static{os_sep}")
-                create_page_language(page_html, "")
+    # on crée la page par defaut (home)
+    with LANGUAGE_CONFIG.switch_language("en"):
+        tp2_nb = 0
+        mods = ModManager.get_mod_list("en")
+        mod_id_to_name = {mod.id: mod.name for mod in mods}
+
+        for mod in mods:
+            if mod.status != ModStatus.HIDDEN:
+                authors |= set(mod.authors)
+                team |= set(mod.team)
+                if mod.tp2 not in ("n/a", "non-weidu", ""):
+                    tp2_nb += 1
+
+        last_added_mods = ModManager.get_last_added_mods(mods)
+        last_updated_mods = ModManager.get_last_updated_mods(mods)
+        without_author_mods = ModManager.get_without_author_mods(mods)
+        without_tp2_mods = ModManager.get_without_tp2_mods(mods)
+        missing_mods = ModManager.get_missing_mods(mods)
+
+        page_html = build_html_page(
+            static=f"static{os_sep}",
+            is_home_page=True,
+            mod_length=len(mods),
+            authors_nb=len(authors),
+            team_nb=len(team),
+            mod_id_to_name=mod_id_to_name,
+            tp2_nb=tp2_nb,
+            categories={
+                HomeCategory(id=1, value="Last Added Mods"): last_added_mods,
+                HomeCategory(id=2, value="Last Updated Mods"): last_updated_mods,
+                HomeCategory(id=3, value="Unknown Authors Mods"): sorted(
+                    without_author_mods, key=lambda x: x.name
+                ),
+                HomeCategory(id=4, value="Unknown Tp2 Mods"): sorted(
+                    without_tp2_mods, key=lambda x: x.name
+                ),
+                HomeCategory(id=5, value="Missing Mods"): sorted(
+                    missing_mods, key=lambda x: x.name
+                ),
+            },
+        )
+        create_page_language(page_html, "")
+
+
+class HomeCategory:
+    def __init__(self, id, value) -> None:
+        self.id = id
+        self.value = value
 
 
 def create_page_language(page_html: str, language: str) -> None:
@@ -80,6 +135,6 @@ def create_page_language(page_html: str, language: str) -> None:
         dir_path /= language
     dir_path.mkdir(parents=True, exist_ok=True)
 
-    logger.info("Generating index page for %s", language)
+    logger.info("Generating index page for %s", language or "home")
     with open(dir_path / "index.html", "w", encoding="utf-8") as f:
         f.write(page_html)

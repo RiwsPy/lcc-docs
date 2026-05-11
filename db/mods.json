@@ -3472,7 +3472,9 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "CoM_Solaufein"
+        ],
         "team": [],
         "notes": [
             "Ce mod n'est plus disponible car il a été intégré dans le mod [[285]]."
@@ -8814,7 +8816,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Craig"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
@@ -8823,7 +8827,7 @@
         "status": "missing",
         "last_update": "2004-01",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "bottomless"
     },
     {
         "id": 265,

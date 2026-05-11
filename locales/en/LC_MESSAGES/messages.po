@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-11 10:38+0200\n"
-"PO-Revision-Date: 2026-05-11 10:39+0200\n"
+"POT-Creation-Date: 2026-05-11 16:49+0200\n"
+"PO-Revision-Date: 2026-05-11 16:50+0200\n"
 "Last-Translator: Riws <toto.streak289@passinbox.com>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -42,7 +42,7 @@ msgstr "Mod partially translated"
 msgid "Mod non traduit"
 msgstr "Mod not translated"
 
-#: settings.py:60 i18n.py:117
+#: settings.py:60 i18n.py:119
 msgid "Mod Weidu"
 msgstr "Weidu Mod"
 
@@ -119,7 +119,7 @@ msgid "GemRB"
 msgstr "GemRB"
 
 #: models/mod.py:214
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Fichier `{filename}`."
 msgstr "File `{filename}`."
 
@@ -186,93 +186,101 @@ msgid "Mod"
 msgstr "Mod"
 
 #: i18n.py:80
+msgid "Accueil"
+msgstr ""
+
+#: i18n.py:81
 msgid "Compatibilités"
 msgstr "Compatibilities"
 
-#: i18n.py:81
+#: i18n.py:82
 msgid "Auteurs"
 msgstr "Authors"
 
-#: i18n.py:82
+#: i18n.py:83
 msgid "Traducteurs"
 msgstr "Translators"
 
-#: i18n.py:83
+#: i18n.py:84
 msgid "Équipe"
 msgstr "Team"
 
-#: i18n.py:84
+#: i18n.py:85
 msgid "Lien"
 msgstr "Link"
 
-#: i18n.py:85
+#: i18n.py:86
 msgid "Tous"
 msgstr "All"
 
-#: i18n.py:86
+#: i18n.py:87
 msgid "Toutes"
 msgstr "All"
 
-#: i18n.py:87
+#: i18n.py:88
 msgid "État de la traduction"
 msgstr "Translation state"
 
-#: i18n.py:88
+#: i18n.py:89
 msgid "Qualité du mod"
 msgstr "Mod quality"
 
-#: i18n.py:89
+#: i18n.py:90
 msgid "Catégorie"
 msgstr "Category"
 
-#: i18n.py:90
+#: i18n.py:91
 msgid "Recherche :"
 msgstr "Search:"
 
-#: i18n.py:91
+#: i18n.py:92
 msgid "Filtres avancés"
 msgstr "Advanced filters"
 
-#: i18n.py:92
+#: i18n.py:93
 msgid "Liste des mods"
 msgstr "Mods list"
 
-#: i18n.py:93
-msgid "Auteur :"
-msgstr "Author:"
-
 #: i18n.py:94
-msgid "Mainteneur :"
-msgstr "Maintainer:"
+msgid "Auteur"
+msgstr "Author"
 
 #: i18n.py:95
+msgid "Mainteneur"
+msgstr "Maintainer"
+
+#: i18n.py:96
 msgid "Retourner aux filtres"
 msgstr "Back to filters"
 
-#: i18n.py:96
+#: i18n.py:97
 msgid "Site internet"
 msgstr "Web Site"
 
-#: i18n.py:97
+#: i18n.py:98
 msgid "Discussion"
 msgstr "Discussion"
 
-#: i18n.py:98
+#: i18n.py:99
 msgid "Introduction"
 msgstr "Introduction"
 
-#: i18n.py:99
-msgid "Mods recensés : "
-msgstr "Mods listed: "
+#: i18n.py:100
+msgid "Version"
+msgstr "Version"
 
 #: i18n.py:101
+msgid "Mods recensés"
+msgstr "Mods listed"
+
+#: i18n.py:103
 msgid ""
 "Voici la liste de mods de la saga Baldur's Gate disponibles au "
 "téléchargement."
 msgstr ""
 "Here is a list of mods for the Baldur's Gate series available for download."
 
-#: i18n.py:103
+#: i18n.py:105
 msgid ""
 "Afin qu'elle soit la plus précise possible, n'hésitez pas à remonter sur le "
 "dépôt <a href=\"https://github.com/RiwsPy/lcc-docs/issues\">tout problème</"
@@ -286,7 +294,7 @@ msgstr ""
 "discussions/65\">unlisted mods</a>, or a <a href=\"https://github.com/RiwsPy/"
 "lcc-docs/discussions/66\">bug</a>."
 
-#: i18n.py:106
+#: i18n.py:108
 msgid ""
 "N'oubliez pas de consulter le <a href=\"https://github.com/RiwsPy/lcc-docs/"
 "blob/main/README.md\">readme</a> avant de contribuer ainsi que les <a href="
@@ -298,11 +306,11 @@ msgstr ""
 "\"https://github.com/RiwsPy/lcc-docs/blob/main/CONTRIBUTING.md\">guidelines</"
 "a>."
 
-#: i18n.py:109
+#: i18n.py:111
 msgid "AVERTISSEMENTS"
 msgstr "WARNINGS"
 
-#: i18n.py:112
+#: i18n.py:114
 msgid ""
 "Par sécurité, tous les liens qui proposent un téléchargement direct sont "
 "coupés en deux. La première partie est dans le lien et la seconde dans la "
@@ -319,13 +327,16 @@ msgstr ""
 "\"#m903\">Runic Bladesinger Elven Kit</a>, the link `https://baldur.cob-bg."
 "pl/download/bg2/kits/` should be combined with `Runiczny_v2.0.zip`."
 
-#: i18n.py:115
+#: i18n.py:117
 msgid "Nom du mod"
 msgstr "Mod name"
 
-#: i18n.py:116
+#: i18n.py:118
 msgid "Légende :"
 msgstr "Legend:"
+
+#~ msgid "Auteur :"
+#~ msgstr "Author:"
 
 #~ msgid ""
 #~ "Voici la liste de mods de la saga Baldur's Gate disponibles au "

@@ -77,6 +77,7 @@ def current_language() -> str:
 TEMPLATE_TRANSLATIONS = {
     "title": _g("Liste des mods pour IE - La Couronne de Cuivre"),
     "mod": _g("Mod"),
+    "home": _g("Accueil"),
     "compatibilities": _g("Compatibilités"),
     "authors": _g("Auteurs"),
     "translators": _g("Traducteurs"),
@@ -90,13 +91,14 @@ TEMPLATE_TRANSLATIONS = {
     "search": _g("Recherche :"),
     "advanced_filters": _g("Filtres avancés"),
     "mod_list": _g("Liste des mods"),
-    "author": _g("Auteur :"),
-    "maintainer": _g("Mainteneur :"),
+    "author": _g("Auteur"),
+    "maintainer": _g("Mainteneur"),
     "back": _g("Retourner aux filtres"),
     "website": _g("Site internet"),
     "discussion": _g("Discussion"),
     "introduction": _g("Introduction"),
-    "mod_nb": _g("Mods recensés : "),
+    "version": _g("Version"),
+    "mod_nb": _g("Mods recensés"),
     "intros": [
         _g("Voici la liste de mods de la saga Baldur's Gate disponibles au téléchargement."),
         _g(
