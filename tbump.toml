@@ -28,7 +28,7 @@ search = 'version = "{current_version}"'
 
 [[file]]
 src = "docs/templates/base.html"
-search = '<span id="version">{current_version}'
+search = '<p id="version"><strong>{current_version}'
 
 [[before_commit]]
 name = "Update uv.lock"
