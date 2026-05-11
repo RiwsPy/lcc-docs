@@ -92,8 +92,8 @@ def main(**kwargs):
                 if mod.tp2 not in ("n/a", "non-weidu", ""):
                     tp2_nb += 1
 
-        last_added_mods = ModManager.get_last_added_mods(mods)
-        last_updated_mods = ModManager.get_last_updated_mods(mods)
+        last_added_mods = ModManager.get_last_added_mods(mods, nb=20)
+        last_updated_mods = ModManager.get_last_updated_mods(mods, nb=20)
         without_author_mods = ModManager.get_without_author_mods(mods)
         without_tp2_mods = ModManager.get_without_tp2_mods(mods)
         missing_mods = ModManager.get_missing_mods(mods)
@@ -109,7 +109,7 @@ def main(**kwargs):
             categories={
                 HomeCategory(id=1, value="Last Added Mods"): last_added_mods,
                 HomeCategory(id=2, value="Last Updated Mods"): last_updated_mods,
-                HomeCategory(id=3, value="Unknown Authors Mods"): sorted(
+                HomeCategory(id=3, value="Unknown Author Mods"): sorted(
                     without_author_mods, key=lambda x: x.name
                 ),
                 HomeCategory(id=4, value="Unknown Tp2 Mods"): sorted(
