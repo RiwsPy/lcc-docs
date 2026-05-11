@@ -16,6 +16,10 @@
     <body>
         {% include "header.html" %}
         
-        {% include "list_page.html" %}
+        {% if is_home_page %}
+            {% include "home_page.html" %}
+        {% else %}
+            {% include "list_page.html" %}
+        {% endif %}
     </body>
 </html>

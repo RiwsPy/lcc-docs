@@ -5,7 +5,7 @@ from pathlib import Path
 from jinja2 import Environment, PackageLoader, select_autoescape
 import minify_html
 
-from i18n import LANGUAGE_CONFIG, LANGUAGE_DEFAULT, TEMPLATE_TRANSLATIONS, _g
+from i18n import LANGUAGE_CONFIG, TEMPLATE_TRANSLATIONS, _g
 from models.mod import ModStatus
 from scripts.utils import ModManager, get_languages
 from settings import (
@@ -20,17 +20,13 @@ logger = logging.getLogger(__name__)
 
 
 def main(**kwargs):
-    def build_html_page(static: str) -> str:
+    def build_html_page(**kwargs) -> str:
         html_page = env.get_template("base.html").render(
             games=GameEnum,
-            categories=categories_mod,
-            static=static,
             attrs_icon_data=attrs_icon_data,
-            mod_length=len(mods),
-            language=language,
             language_flags=used_language_flags,
-            mod_id_to_name=mod_id_to_name,
             trans=TEMPLATE_TRANSLATIONS,
+            **kwargs,
         )
         return minify_html.minify(html_page, minify_js=True, minify_css=True)
 
@@ -51,6 +47,12 @@ def main(**kwargs):
 
     languages = get_languages() & language_flags.keys()
     used_language_flags = {k: v for k, v in language_flags.items() if k in languages}
+
+    categories_mod = dict()
+    # on crée la page par defaut (home)
+    page_html = build_html_page(static=f"static{os_sep}", is_home_page=True)
+    create_page_language(page_html, "")
+
     for language in languages:
         with LANGUAGE_CONFIG.switch_language(language):
             mods = ModManager.get_mod_list(language)
@@ -65,13 +67,15 @@ def main(**kwargs):
                     for category in mod.categories:
                         categories_mod[category].append(mod)
 
-            page_html = build_html_page(static=f"..{os_sep}static{os_sep}")
+            page_html = build_html_page(
+                static=f"..{os_sep}static{os_sep}",
+                categories=categories_mod,
+                mod_length=len(mods),
+                language=language,
+                mod_id_to_name=mod_id_to_name,
+                is_home_page=False,
+            )
             create_page_language(page_html, language)
-
-            # on crée aussi la page par defaut (home), qui est celle du language par défaut
-            if language == LANGUAGE_DEFAULT:
-                page_html = build_html_page(static=f"static{os_sep}")
-                create_page_language(page_html, "")
 
 
 def create_page_language(page_html: str, language: str) -> None:
@@ -80,6 +84,6 @@ def create_page_language(page_html: str, language: str) -> None:
         dir_path /= language
     dir_path.mkdir(parents=True, exist_ok=True)
 
-    logger.info("Generating index page for %s", language)
+    logger.info("Generating index page for %s", language or "home")
     with open(dir_path / "index.html", "w", encoding="utf-8") as f:
         f.write(page_html)
