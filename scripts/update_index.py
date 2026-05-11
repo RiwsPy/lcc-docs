@@ -50,18 +50,11 @@ def main(**kwargs):
 
     languages = get_languages() & language_flags.keys()
     used_language_flags = {k: v for k, v in language_flags.items() if k in languages}
-
-    categories_mod = dict()
-    # on crée la page par defaut (home)
-    mods = ModManager.get_mod_list("")
-    page_html = build_html_page(
-        static=f"static{os_sep}", is_home_page=True, mod_length=len(mods)
-    )
-    create_page_language(page_html, "")
+    default_mods = ModManager.get_default_mods()
 
     for language in languages:
         with LANGUAGE_CONFIG.switch_language(language):
-            mods = ModManager.get_mod_list(language)
+            mods = ModManager.get_mod_list(language, default_mods=default_mods)
 
             mods.sort(key=lambda x: x.name.lower())
 
@@ -82,6 +75,13 @@ def main(**kwargs):
                 is_home_page=False,
             )
             create_page_language(page_html, language)
+
+    # on crée la page par defaut (home)
+    mods = default_mods
+    page_html = build_html_page(
+        static=f"static{os_sep}", is_home_page=True, mod_length=len(mods)
+    )
+    create_page_language(page_html, "")
 
 
 def create_page_language(page_html: str, language: str) -> None:

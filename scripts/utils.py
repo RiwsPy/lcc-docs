@@ -47,18 +47,25 @@ class ModManager:
             json.dump(mods, f, indent=4, ensure_ascii=False)
 
     @classmethod
-    def get_mod_list(cls, language: str | None = None) -> list[Mod]:
-        default_list = cls.load(language="")
+    def get_default_mods(cls) -> list[dict]:
+        return cls.load(language="")
+
+    @classmethod
+    def get_mod_list(
+        cls, language: str | None = None, default_mods: list[dict] | None = None
+    ) -> list[Mod]:
+        if default_mods is None:
+            default_mods = cls.get_default_mods()
 
         if not language:
-            source_list = default_list
+            source_list = default_mods
         elif language in (LANGUAGE_DEFAULT, "en"):
             source_list = cls.get_combine_language(
-                default_list, language, merge_urls_extra=True, merge_notes_extra=True
+                default_mods, language, merge_urls_extra=True, merge_notes_extra=True
             )
         else:
             source_list = cls.get_combine_language(
-                default_list, "en", exclude_fields=["team", "translation_state"]
+                default_mods, "en", exclude_fields=["team", "translation_state"]
             )
             source_list = cls.get_combine_language(
                 source_list, language, merge_urls_extra=True, merge_notes_extra=True
