@@ -1,12 +1,12 @@
 <div id="header">
-    <h1><a href="https://riwspy.github.io/lcc-docs/">{{ _(trans["mod_list"]) }}</a></h1>
+    <h1><a href="{{ home_page }}">{{ _(trans["mod_list"]) }}</a></h1>
     <div class="breadcrumb">
-        <a href="https://riwspy.github.io/lcc-docs/">👉 {{ _(trans["home"]) }}</a>
+        <a href="{{ home_page }}">👉 {{ _(trans["home"]) }}</a>
     </div>
     <div class="language-picker">
         <p>{{ _(trans["go_to_list"]) }}</p>
         {% for language_url, flag in language_flags.items() %}
-            <a href="https://riwspy.github.io/lcc-docs/{{ language_url }}/" title="{{ language_url }}">{{ flag }}</a>
+            <a href="{{ home_page }}{{ language_url }}/" title="{{ language_url }}">{{ flag }}</a>
         {% endfor %}
     </div>
     <hr>

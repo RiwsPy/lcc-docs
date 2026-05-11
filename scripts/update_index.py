@@ -18,6 +18,8 @@ from settings import (
 
 logger = logging.getLogger(__name__)
 
+home_page = "https://riwspy.github.io/lcc-docs/"
+
 
 def main(**kwargs):
     def build_html_page(**kwargs) -> str:
@@ -26,6 +28,7 @@ def main(**kwargs):
             attrs_icon_data=attrs_icon_data,
             language_flags=used_language_flags,
             trans=TEMPLATE_TRANSLATIONS,
+            home_page=home_page,
             **kwargs,
         )
         return minify_html.minify(html_page, minify_js=True, minify_css=True)
