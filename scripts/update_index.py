@@ -50,7 +50,10 @@ def main(**kwargs):
 
     categories_mod = dict()
     # on crée la page par defaut (home)
-    page_html = build_html_page(static=f"static{os_sep}", is_home_page=True)
+    mods = ModManager.get_mod_list("")
+    page_html = build_html_page(
+        static=f"static{os_sep}", is_home_page=True, mod_length=len(mods)
+    )
     create_page_language(page_html, "")
 
     for language in languages:

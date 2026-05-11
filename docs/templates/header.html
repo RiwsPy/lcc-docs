@@ -1,5 +1,5 @@
 <div id="header">
-    <h1>{{ _(trans["mod_list"]) }}</h1>
+    <h1><a href="https://riwspy.github.io/lcc-docs/">{{ _(trans["mod_list"]) }}</a></h1>
     <div class="language-picker">
         {% for language_url, flag in language_flags.items() %}
             <a href="https://riwspy.github.io/lcc-docs/{{ language_url }}/">{{ flag }}{% if not loop.last %} • {% endif %}</a>
@@ -14,14 +14,15 @@
                 height="215"
                 width="885" />
         <div class="credits">
+            <p class="title">{{ _(trans["mod_nb"]) }}<strong>{{ mod_length }}</strong></p>
             <p>
-                <strong>{{ _(trans["author"]) }}</strong> <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12382">Freddy_Gwendo (aka Gwendolyne)</a>
+                {{ _(trans["author"]) }} <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12382"><strong>Freddy_Gwendo</strong> (aka Gwendolyne)</a>
             </p>
             <p>
-                <strong>{{ _(trans["maintainer"]) }}</strong> <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12905">rivvers</a>
+                {{ _(trans["maintainer"]) }} <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12905"><strong>rivvers</strong></a>
             </p>
             <p>
-                <strong>Version :</strong> <span id="version">3.9.0</span>
+                Version : <span id="version"><strong>3.9.0</strong></span>
             </p>
             <p>
                 <a href="https://www.baldursgateworld.fr/viewtopic.php?t=34779">{{ _(trans["discussion"]) }} CC</a> • <a href="https://www.gibberlings3.net/forums/topic/40557-the-copper-coronet-mods-list/">{{ _(trans["discussion"]) }} G3</a> • <a href="https://github.com/RiwsPy/lcc-docs">GitHub</a>
