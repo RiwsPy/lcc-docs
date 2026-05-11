@@ -1,0 +1,31 @@
+<div id="header">
+    <h1>{{ _(trans["mod_list"]) }}</h1>
+    <div class="language-picker">
+        {% for language_url, flag in language_flags.items() %}
+            <a href="https://riwspy.github.io/lcc-docs/{{ language_url }}/">{{ flag }}{% if not loop.last %} • {% endif %}</a>
+        {% endfor %}
+    </div>
+    <hr>
+    <div class="nav-2">
+        <img class="main"
+                src="{{ static }}img/logo_lcc.avif"
+                title="La Couronne de Cuivre"
+                alt="La Couronne de Cuivre"
+                height="215"
+                width="885" />
+        <div class="credits">
+            <p>
+                <strong>{{ _(trans["author"]) }}</strong> <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12382">Freddy_Gwendo (aka Gwendolyne)</a>
+            </p>
+            <p>
+                <strong>{{ _(trans["maintainer"]) }}</strong> <a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12905">rivvers</a>
+            </p>
+            <p>
+                <strong>Version :</strong> <span id="version">3.9.0</span>
+            </p>
+            <p>
+                <a href="https://www.baldursgateworld.fr/viewtopic.php?t=34779">{{ _(trans["discussion"]) }} CC</a> • <a href="https://www.gibberlings3.net/forums/topic/40557-the-copper-coronet-mods-list/">{{ _(trans["discussion"]) }} G3</a> • <a href="https://github.com/RiwsPy/lcc-docs">GitHub</a>
+            </p>
+        </div>
+    </div>
+</div>
