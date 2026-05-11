@@ -98,14 +98,12 @@ TEMPLATE_TRANSLATIONS = {
     "introduction": _g("Introduction"),
     "mod_nb": _g("Mods recensés : "),
     "intros": [
+        _g("Voici la liste de mods de la saga Baldur's Gate disponibles au téléchargement."),
         _g(
-            "Voici la liste de mods de la saga Baldur's Gate disponibles au téléchargement. Afin qu'elle soit la plus précise possible, n'hésitez pas à indiquer sur <a href=\"https://www.baldursgateworld.fr/viewtopic.php?t=34779\">le forum</a> si de nouvelles traductions sont en cours, sont nouvellement achevées ou sont provisoirement mises de côté (avec la possibilité ou non pour un autre traducteur de les reprendre à son compte). N'hésitez pas également à signaler tout problème, tout lien mort ou plus récent, confirmer de nouvelle compatibilité, ou tout simplement la sortie de nouveaux mods."
+            'Afin qu\'elle soit la plus précise possible, n\'hésitez pas à remonter sur le dépôt <a href="https://github.com/RiwsPy/lcc-docs/issues">tout problème</a>, signaler des <a href="https://github.com/RiwsPy/lcc-docs/discussions/65">mods non repertoriés</a>, ou encore une <a href="https://github.com/RiwsPy/lcc-docs/discussions/66">erreur</a>.'
         ),
         _g(
-            'Quiconque le souhaite peut apporter des modifications et des améliorations à cette liste sur ce <a href="https://github.com/RiwsPy/lcc-docs/">dépôt GitHub</a>. Il vous suffit soit d\'ouvrir une "issue" et de nous informer d\'une erreur, d\'un lien manquant ou erroné, d\'une information manquante ; soit de le "forker" et de proposer une "Pull Request".'
-        ),
-        _g(
-            'N\'oubliez-pas de consulter le <a href="https://github.com/RiwsPy/lcc-docs/README.md">readme</a> avant de contribuer ainsi que les <a href="https://github.com/RiwsPy/lcc-docs/CONTRIBUTING.md">guidelines</a>.'
+            'N\'oubliez pas de consulter le <a href="https://github.com/RiwsPy/lcc-docs/README.md">readme</a> avant de contribuer ainsi que les <a href="https://github.com/RiwsPy/lcc-docs/CONTRIBUTING.md">guidelines</a>.'
         ),
     ],
     "wargning_title": _g("AVERTISSEMENTS"),
