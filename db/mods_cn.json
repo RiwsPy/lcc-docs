@@ -138,9 +138,9 @@
     },
     {
         "id": 10,
-        "description": "此模组是Andrea C.在其BGT（博德之门三部曲）安装过程中进行调整和修改的产物。随着时间的推移，它增加了许多组件，现在与所有博德之门游戏（原版和EE）兼容。它包含许多组件，这些组件恢复了BG1中本作物品的图标，如果在SoA中安装了1PP，则恢复了所有商人奖励物品的原始图标，恢复了EE游戏中可招募新NPC的原始肖像，修正了龙息，提议在经典游戏中使用EE角色音效……总之，请仔细阅读可通过下载链接访问的模组介绍，你一定会找到你想要的东西。",
+        "description": "这个模组是 Andrea C. 在安装 BGT 时进行调试和修改的成果。随着时间的推移，它已包含了许多组件，现在兼容所有《博德之门》游戏，包括原版和增强版。它包含大量组件，用于恢复《博德之门1》物品在该作中的图标，如果在安装[[770]]的情况下恢复 SoA 中所有商人奖励物品的原版图标，恢复增强版游戏中新增可招募NPC的原版肖像，修正巨龙的吐息，提供在经典游戏中使用角色原版音效集的选项……简而言之，请仔细阅读下载链接中提供的模组介绍，您一定能找到适合自己的内容。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si [[770]] est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personnages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur."
         },
         "notes": [
@@ -506,7 +506,7 @@
     },
     {
         "id": 34,
-        "description": "这位年轻、活泼、色彩斑斓的精灵德鲁伊在德鲁伊圣树丛向你求助，甚至提议加入你，以结束法多尔的统治。她与游戏中的许多NPC都有大量对话。|力量 14，敏捷 14，体质 7，智力 12，智慧 18，魅力 12。",
+        "description": "这位年轻、活泼、色彩斑斓的精灵德鲁伊在德鲁伊圣树丛向你求助，甚至提议加入你，以结束法多的统治。她与游戏中的许多NPC都有大量对话。|力量 14，敏捷 14，体质 7，智力 12，智慧 18，魅力 12。",
         "description_meta": {
             "status": "done",
             "source": "Cette jeune elfe druide, enjouée et haute en couleurs vous demande de l'aide au Bosquet des Druides, et vous propose même de vous rejoindre pour mettre fin au règne de Faldorn. Elle possède de nombreux banters avec les différents PNJ du jeu.|FOR 14, DEX 14, CON 7, INT 12, SAG 18, CHA 12."
@@ -810,9 +810,9 @@
     },
     {
         "id": 54,
-        "description": "这个小型模组为 BG1、BG2、BG:EE、BG2:EE、BGT 或 Tutu 提供了约十五项游戏修改，包括图形改进、某些对话的快捷方式、法术添加以及一个新的通用玩家脚本。",
+        "description": "这个小模组提供了大约十五项游戏修改，包括图形改进、某些对话的快捷方式、法术的添加以及一个新的通用玩家脚本。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce petit mod propose une quinzaine de modifications de jeu, dont des améliorations graphiques, des raccourcis pour certains dialogues, des ajouts de sorts et un nouveau script joueur générique."
         },
         "notes": [],
@@ -948,9 +948,9 @@
     },
     {
         "id": 64,
-        "description": "这个模组汇集了Icendoan创建的3个小模组：|- [#!Stoneskin](https://www.shsforums.net/files/file/725-elemental-damage-only-stoneskin/) (仅元素伤害) : 为游戏中的每个角色施加一个永久的石肤，使游戏玩法相当奇怪……而且很有趣，因为它使大多数武器和大量法术变得无用。|- #!Lightening : 一个恶搞组件，安装了一根 behaves like a bag of holding... ET oui, 拼写错误，真糟糕...|- #!Brage ([[190]]) : 在博德之门中添加了可招募的NPC Brage。他完全沉默寡言，但有一个小任务。这个模组是为庆祝博德之门Ⅰ十周年而用40分钟创建的。",
+        "description": "这个模组汇集了Icendoan创建的3个小模组：|- [[1980]] 给予角色永久石肤术，彻底影响战斗。|- #!Lightening：一个疯狂的组件，安装一根像次元袋一样行为的法杖……是的，拼写错误，真糟糕……|- #!Brage ([[190]])：在BG中添加布莱奇作为可招募NPC。他完全沉默，但有一个小任务。这个模组是为了庆祝《博德之门1》10周年而用40分钟创建的。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod regroupe 3 petits mods créés par Icendoan :|- [[1980]] qui donne une peau de pierre permanente aux personnages, impactant radicalement les combats.|- #!Lightening : un composant délire qui installe une baguette se comportant comme un sac de contenance... ET oui, les fautes d'orthographe, ça craint...|- #!Brage ([[190]]) : ajoute Brage comme PNJ recrutable dans BG. Il est complètement silencieux, mais a une petite quête. Ce mod a été créé en 40 minutes pour fêter le 10e anniversaire de BG1."
         },
         "notes": [],
@@ -1060,9 +1060,9 @@
     },
     {
         "id": 72,
-        "description": "这个模组在博德之门I和II中添加了来自巴多尔玛尔氏族的Breagar作为可招募的NPC。他拥有守序善良的阵营，并有自己独特的矮人锻造师档案。该模组包含对话、生物、物品和任务。|对于博德之门三部曲和增强版三部曲，Breagar在整个三部曲中作为一个持续的角色存在。在巴尔王座中，根据玩家的选择，有三个不同的结局。|对于博德之门：增强版、Tutu、博德之门II和博德之门II：增强版，只会安装与游戏相对应的内容。",
+        "description": "这个模组加入了来自巴铎玛氏族的布瑞加作为可招募NPC。布瑞加阵营为守序善良，拥有自己专属的矮人铁匠宗派。该模组包含对话、生物、物品和任务。|对于BGT和EET版本，布瑞加在整个三部曲中可作为贯穿全程的角色存在。根据玩家在《巴尔王座》中的选择，他会面临三种不同的结局。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute Breagar du clan Bardormar en tant que PNJ recrutable. D'alignement loyal bon, il dispose de son propre kit de forgeron nain. Le mod contient des dialogues, des créatures, des objets et des quêtes.|Pour BGT et EET, Breagar fonctionne comme un personnage continu tout au long de la trilogie. Il existe trois épilogues différents dans ToB selon les choix du joueur."
         },
         "notes": [],
@@ -1073,9 +1073,9 @@
     },
     {
         "id": 73,
-        "description": "也被称为“阿巴索尔的蛇 第一部分和其他故事”，这个模组汇集了Ascalon的几个想法，用于添加在博德之门和博德之门II中与巴尔之子故事并行进行的支线任务或故事：10个不同大小的任务。有些是幽默的，有些则有点悲剧性。有些是谜题，有些与战斗有关。有些需要外交技巧，有些只能通过特定的种族或职业来解决。",
+        "description": "这个模组也被称为“阿巴索的蛇群 第一部分与其他故事”，它汇集了几个与巴尔之子故事并行的任务或支线情节。有些是幽默风格的，有些则稍显悲剧。有些是谜题，有些与战斗相关。有些需要外交技能，有些则只能由特定种族或职业解决。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Aussi appelé \"Les Serpents d'Abbathor 1ere partie et d'autres histoires\", ce mod regroupe plusieurs quêtes ou histoires secondaires qui se déroulent parallèlement à l'histoire de l'enfant de Bhaal. Certaines sont humoristiques, d'autres sont un peu plus tragiques. Certaines sont des énigmes, d'autres sont liées au combat. Certaines exigent des compétences diplomatiques, d'autres ne peuvent être résolues que par certaines races ou classes."
         },
         "notes": [],
@@ -1102,9 +1102,9 @@
     },
     {
         "id": 75,
-        "description": "这个模组添加了一个新的可招募NPC，半兽人女野蛮人阿莎尔，她位于铜冠旅店入口处，就在旅店老板Lehtinan死后。她曾遭受奴役，阿莎尔是一个好斗、简单但也有点困惑的女人。在与她交谈时，请大胆说出你的想法，没有“正确”或“错误”的答案。然而，不要忘记，你的言行对她性格的影响可能非常大。该模组提供了大约20段与主角的对话，一个小型爱情线，以及与博德之门II中所有NPC的大量互动、评论和玩笑。",
+        "description": "这个模组添加了一个新的可招募NPC，半兽人野蛮人阿莎，她位于铜冠旅店入口附近，就在旅店老板莱提南死后。阿莎曾遭受奴役，是个性格好斗、头脑简单且有点迷糊的女人。在对话时，请随意对她说任何想说的话，没有“正确”或“错误”的选项。但是，请不要忘记，您的言行可能会对她的性格产生重大影响。该模组提供了大约20段与主角的对话，一段小小的恋情，以及与所有官方NPC的大量互动、评论和玩笑。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute un nouveau PNJ recrutable, la barbare demi-orque Ashar qui se trouve près de l'entrée de la Couronne de Cuivre, juste après la mort du propriétaire de la taverne, Lehtinan. Ayant subi l'esclavage, Ashar est une femme agressive, simple, mais aussi un peu confuse. N'hésitez pas à lui dire ce que vous voulez, lors de vos entretiens, il n'y a pas de réponses \"correctes\" ou \"incorrectes\". Cependant, n'oubliez pas que vos paroles et vos actes peuvent avoir un grand impact sur son caractère. Le mod propose environ 20 dialogues avec le personnage principal, une petite romance, ainsi que de nombreuses interactions, commentaires et plaisanteries avec tous les PNJ officiels."
         },
         "notes": [
@@ -1656,9 +1656,9 @@
     },
     {
         "id": 113,
-        "description": "3个男女语音包（英文），源自博德之门Ⅰ，并已重命名以在博德之门：增强版中工作。",
+        "description": "来自《博德之门1》的3组语音包（英语），适用于男性和女性。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "3 packs de voix (en anglais) pour homme et femmes, tirés de BG1."
         },
         "notes": [],
@@ -1699,9 +1699,9 @@
     },
     {
         "id": 116,
-        "description": "被称为BG2CPM。",
+        "description": "这个模组为许多角色提供了一幅肖像。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod fourni un portrait à de nombreux personnages."
         },
         "notes": [
@@ -1817,9 +1817,9 @@
     },
     {
         "id": 124,
-        "description": "这个由Kerozevok制作的模组修改了游戏界面，使其具有博德之门Ⅱ：增强版的风格，并带来了一些其他改动。",
+        "description": "这个模组修改了游戏界面，使其具有《博德之门2：增强版》的外观，并带来了一些改变。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements."
         },
         "notes": [],
@@ -1911,11 +1911,11 @@
             "source": "Basé sur le composant `Créer des ennemis aléatoires en fonction du niveau (style Tutu)` du mod [[135]], ce mod modifie le système par défaut de l'apparition aléatoire des créatures dans les zones de la Côté des Épées en en faisant évoluer la difficulté en fonction du niveau moyen du groupe. Chaque point d'apparition engendrera des groupes de 1 à 6 créatures, selon le niveau du groupe et la force des créatures. L'utilisateur peut sélectionner l'intervalle de temps entre les apparitions (de 4 heures à 1000 jours) ainsi que la probabilité qu'un déclenchement d'un point de rencontre aléatoire entraîne le peuplement de ce point."
         },
         "notes": [
-            "如果您打算安装此模组，请不要安装[[135]]中的“修改随机敌人生成”组件，也不要安装[[133]]模组，因为它们都修改了相同的内容。",
-            "注意：只有GitHub版本也兼容EET。此外，这是最新的更新。"
+            "如果您打算安装此模组，请不要安装[[135]]中的‘修改随机敌人生成’组件，因为它们修改的是相同的内容。",
+            "注意：只有GitHub版本也兼容增强版三部曲（EET）。此外，那是最新更新。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Si vous envisagez d'installer ce mod, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]] puisqu'ils modifient la même chose.",
                 "Attention : seule la version de GitHub est aussi compatible EET. En plus, c'est la dernière mise à jour."
@@ -1956,12 +1956,12 @@
             "source": "Ce mod propose une gestion alternative de l'apparition aléatoire des créatures dans les zones de la Côté des Épées. Il remplace les créatures aléatoires (mais figées zone par zone) par un système complètement nouveau basé sur le niveau et le nombre de membres du groupe. Vous pouvez choisir l'intervalle entre les apparitions de créatures. En option, vous pouvez aussi installer une nouvelle créature, le Seigneur Loup vampirique (repris du Loup d'Ulcaster de [[1011]]), parmi ces créatures aléatoires."
         },
         "notes": [
-            "注意：一些玩家报告称，此模组与[[1011]]（更智能的怪物）的组合可能会是一个可怕的挑战！",
-            "如果您打算安装BGSpawn，请不要安装[[135]]中的“修改随机敌人生成”组件，也不要安装[[130]]，因为它们都修改了相同的内容。",
-            "注意：只有GitHub版本也兼容EET。此外，这是最新的更新。"
+            "注意：一些玩家报告说，这个模组与[[1011]]（更聪明的怪物）的组合可能会成为一个极其可怕的挑战！",
+            "如果您打算安装BGSpawn，请不要安装[[135]]中的‘修改随机敌人生成’组件，因为它们修改的是相同的内容。",
+            "注意：只有GitHub版本也兼容增强版三部曲（EET）。此外，那是最新更新。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Attention : Certains joueurs ont signalé que la combinaison de ce mod et de [[1011]] (monstres plus intelligents) pourrait s'avérer un redoutable défi !",
                 "Si vous envisagez d'installer BGSpawn, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]] puisqu'ils modifient la même chose.",
@@ -1971,9 +1971,9 @@
     },
     {
         "id": 134,
-        "description": "《博德之门》和《博德之门Ⅱ》的角色配音音量不同。因此，很难找到一个既能听清《博德之门Ⅱ》的配音，又不会被《博德之门》的配音震破耳膜的设置。这个模组会筛选所有从《博德之门》导入的声音，并将其音量调整到与《博德之门Ⅱ》一致。最初是基于德语配音的音量设计的，应该也适用于法语。",
+        "description": "《博德之门》与《博德之门II》中角色配音的音量水平不同。因此，很难找到一个既能听清来自《博德之门II》的配音，又不被从《博德之门》复制的配音震破耳膜的设置。这个模组会仔细检查所有从《博德之门》导入的声音，并将其音量调整至《博德之门II》的水平。|该模组最初是基于德语配音的音量水平设计的，应该也适用于法语。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Le niveau sonore des doublages des personnages diffère entre Baldur's Gate et Baldur's Gate II. Du coup, il est difficile de trouver un réglage qui permettent de bien entendre ceux issus de BG2 sans se faire éclater les tympans par ceux recopiés depuis BG. Ce mod passe au crible tous les sons importés de Baldur's Gate et ajuste leur niveau sonore à celui de Baldur's Gate II.|Conçu à l'origine sur la base du niveau sonore du doublage en allemand, il devrait aussi convenir pour le français."
         },
         "notes": [],
@@ -2001,9 +2001,9 @@
     },
     {
         "id": 136,
-        "description": "这个模组为队友角色提供了十几个新脚本。它可以安装在博德之门Ⅱ、博德之门三部曲、博德之门：增强版和博德之门Ⅱ：增强版上。它特别包含了为黑暗卫士和影舞者宗派定制的脚本。",
+        "description": "这个模组为队伍角色提供了十几种新的脚本。其中特别包括适配黑暗卫士和影舞者宗派的脚本。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod propose plus d'une douzaine de nouveaux scripts pour les personnages de l'équipe. Il comprend notamment des scripts adaptés aux kits de Chevalier noir et de Maître des ombres."
         },
         "notes": [],
@@ -2027,9 +2027,9 @@
     },
     {
         "id": 138,
-        "description": "此模组旨在让《博德之门》中的敌人变得更强（它修改了超过130个生物）。它需要《剑湾传奇》和模组[[287]]。|其下载链接已丢失。",
+        "description": "这个模组的初衷是让《博德之门》中的敌人变得强大得多（它修改了超过130种生物）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod avait pour vocation de rendre les adversaires beaucoup plus forts dans Baldur's Gate (il modifiait plus de 130 créatures)."
         },
         "notes": [],
@@ -2053,14 +2053,16 @@
     },
     {
         "id": 140,
-        "description": "这两个下载链接已丢失的小型模组是为BG1Tutu设计的。第一个提供了潜行攻击脚本，第二个则让寇涛鱼人能从《怪物手册》预设的武器列表中随机选择近战武器。",
+        "description": "这个模组包含两个小模组。第一个为 Tutu 提供了一个背刺攻击脚本，第二个则让狗头人装备从《博德之门II》的“怪物手册”所列武器列表中随机选择的近战武器。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod contient deux mini mods. Le premier fournissait un script d'attaque sournoise pour Tutu et le second dotait les kobolds d'armes de mêlée choisies aléatoirement dans la liste d'armes prévues par le Manuel des monstres dans BG2."
         },
-        "notes": [],
+        "notes": [
+			"Backstab Script 可见 [ici](https://www.shsforums.net/topic/44345-backstab-script/)."
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Backstab Script est visible [ici](https://www.shsforums.net/topic/44345-backstab-script/)."
             ]
@@ -2663,9 +2665,9 @@
     },
     {
         "id": 183,
-        "description": "此模组将爱蒙的肖像替换为金发版本。一个组件允许您在任何无限引擎游戏中（PsT和PsT:EE除外）将其安装为玩家肖像。",
+        "description": "这个模组将爱蒙的肖像替换为金发版本。其中一个组件允许将这些肖像安装为玩家肖像。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod remplace les portraits d'Imoen par une version blonde. Un composant permet de les installer comme portraits de joueur."
         },
         "notes": [],
@@ -2768,10 +2770,10 @@
             "source": "L'auteur de ce mod se vante de l'avoir écrit en 3h47m pour fêter l'anniversaire de BG...|Vous pouvez recruter Brage et accomplir une petite quête."
         },
         "notes": [
-            "它已集成在模组 [[64]] 中。"
+            "包含在同一个作者的[[64]]中。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Inclus dans [[64]] du même auteur."
             ]
@@ -2795,9 +2797,9 @@
     },
     {
         "id": 192,
-        "description": "此模组为整个博德之门传奇系列增加了一个可招募的NPC。它原生兼容博德之门：增强版、龙矛围攻、博德之门Ⅱ、博德之门三部曲、博德之门Ⅱ：增强版和增强版三部曲。目前，模组中博德之门Ⅰ的内容已经完成。|他是一个混乱善良的法师，你会在剑湾海岸找到他，他正在寻求帮助以击败一个食人魔，以夺回他的财产。根据他在梅利坎被带到泰蓝提尔时是否在队伍中，他会获得一个额外的任务，这会使他暂时离开队伍。布兰多克对魔法书非常感兴趣。每当有机会研究队伍在游戏中遇到的魔法书时，他的知识值就会增加。他友好且乐于助人，但需要一些时间他才会敞开心扉，告诉PC他的来历，当他准备好时，他会乐意解释原因……|如果你的队伍已经有6名成员，他可以作为“第七名成员”加入你，并以类似宠物的形式跟随你。|力量15，敏捷13，体质13，智力18，智慧12，魅力13。",
+        "description": "这个模组添加了一个可招募的NPC，贯穿整个《博德之门》系列。目前，该模组中仅《博德之门1》和《龙矛围攻》的内容已完成。|他是一名混乱善良的法师，你可以在剑湾找到他。他正在寻求帮助，以便击败一名巨魔并夺回自己的财物。|根据当梅利坎普被带到泰蓝提尔那里时他是否在队伍中，他将获得一个额外的任务，这会使他暂时离开队伍一段时间。|布兰多克对魔法书非常感兴趣。每当他有时间研究队伍在游戏中遇到的魔法书时，他的知识分数就会增加。|他友好且乐于助人，但需要一些时间他才会敞开心扉，告诉主角他来自哪里。等他准备好时，他会很乐意解释其原因。|如果你的队伍已经满员6人，他可以作为“第七名成员”加入，并像魔宠一样跟随你。|力量15，敏捷13，体质13，智力18，智慧12，魅力13。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute un PNJ recrutable pour toute la saga Baldur's Gate. Pour l'instant, seul le contenu BG1 et SoD du mod est terminé.|C'est un mage chaotique bon que vous trouverez sur la Côte des Épées, recherchant de l'aide pour combattre un ogre afin de récupérer ses biens. Selon qu'il se trouve ou non dans le groupe lorsque Mélicamp est amené à Thalantyr, il aura une quête supplémentaire qui l'écartera du groupe pendant un certain temps. Brandock est très intéressé par les livres de magie. Chaque fois qu'il a le temps d'étudier les livres de magie que le groupe rencontre dans le jeu, cela augmente son score de connaissance. Il est amical et serviable, mais il faudra un peu de temps avant qu'il s'ouvre et dise au PC d'où il vient, pour des raisons qu'il expliquera volontiers lorsqu'il sera prêt à le faire.|Si votre groupe comprend déjà 6 membres, il pourra vous rejoindre comme \"7eme membre\" et vous suivra à la manière d'un familier.|FOR 15, DEX 13, CON 13, INT 18, SAG 12, CHA 13."
         },
         "notes": [],
@@ -3002,9 +3004,9 @@
     },
     {
         "id": 206,
-        "description": "此模组在博德之门：增强版中添加了两个邪恶的NPC：|- Caina是卢斯坎的雇佣兵。你可以在贝尔苟斯特北部的一座宅邸找到她，她正在为Gerard Travenhurst工作以偿还债务。她拥有一个强盗的角色档案。只有在她完成自己的任务后才会加入你的队伍。她与BioWare的NPC有很多互动和一些俏皮话。如果你和她一起旅行，她会送给艾德温、萨尔和撒恩礼物。|- Zarra是来自Sschindylryn城（靠近科米尔）的卓尔精灵。她是一名猎杀地精的弓箭手，拥有一个名为Auflaque的动物伙伴。她显然迷路了，需要你的帮助来找回一件属于她的物品。你会在那西凯附近（在Dorn的第一个任务区域）遇到她。她与BioWare的NPC有很多互动和一些俏皮话，还有一个个人任务。她非常紧张和脆弱，请善待她，否则她会离开。|此模组包含3个新的地牢（10个新区域）、新的敌人和超过20件新物品。",
+        "description": "这个模组添加了两个邪恶阵营的NPC：|- 凯娜（Caina）是来自路斯坎（Luskan）的一名雇佣兵。你可以在贝尔苟斯特（Bérégost）北边的一座宅邸中找到她，她正在为杰拉德·特拉文赫斯特（Gerard Travenhurst）工作以偿还债务。她拥有强盗宗派（kit de brigand）。只有完成她的任务后，她才会加入你。她与Bioware的NPC有很多互动和一些闲聊。如果你与她同行，她会送给艾德温（Edwin）、萨扎（Xzar）和赞（Xan）礼物。|-扎拉（Zarra）是来自（科米尔附近的）斯辛迪林城（Sschindylryn）的一名卓尔精灵。她是一名猎杀地精的弓箭手，拥有一只动物伙伴奥弗拉克（Auflaque）。她显然迷路了，需要你的帮助来找回一件属于她的物品。你会在纳西凯（Nashkel）附近（多恩（Dorn）任务的第一张区域地图）遇到她。她与Bioware的NPC有很多互动和闲聊，还有一项个人任务。她非常紧张和脆弱，请善待她，否则她会离开。|这个模组包含3个新地牢（10个新区域）、新敌人和20多个新物品。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute deux PNJ mauvais :|- Caina est une mercenaire de Luskan. Vous pouvez la trouver à Bérégost dans un manoir au nord où elle travaille pour Gerard Travenhurst afin d'éponger ses dettes. Elle dispose d'un kit de brigand. Elle ne vous rejoindra qu'après avoir accompli sa quête. Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware. Si vous voyagez avec elle, elle donnera des cadeaux à Edwin, Xzar et Xan.|- Zarra est une drow de la ville de Sschindylryn (près de Cormyr). C'est une archère chasseuse de gobelins qui possède un animal compagnon, Auflaque. Elle est visiblement perdue et a besoin de votre aide pour retrouver un objet qui lui appartient. Vous la rencontrerez près de Nashkel (dans la première zone de quête de Dorn). Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware et une quête personnelle. Elle est très nerveuse et vulnérable, traitez-la bien ou elle partira.|Ce mod comprend 3 nouveaux donjons (10 nouvelles zones), de nouveaux ennemis et plus de 20 nouveaux objets."
         },
         "notes": [],
@@ -3256,9 +3258,9 @@
     },
     {
         "id": 224,
-        "description": "这个模组允许你在单人或多人游戏中选择多恩、赫克塞特、涅拉和拉萨德作为预创建角色。总之，没什么大用。",
+        "description": "这个模组允许在多恩、赫克塞特、涅拉和拉萨德中选择作为单人或多玩家游戏中的预创建角色。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod permet de sélectionner Dorn, Hexxat, Neera et Rasaad comme personnages pré-créés dans une partie single ou multi joueurs."
         },
         "notes": [],
@@ -3346,9 +3348,9 @@
     },
     {
         "id": 230,
-        "description": "|这是一个为博德之门II（无论是否包含巴尔王座扩展）、博德之门：增强版、博德之门Ⅱ：增强版，以及Tutu、博德之门三部曲和增强版三部曲转换版设计的AI脚本集合。它包含七个脚本：eArcher（e游侠）、eFighter（e战士）、eMage（e法师）、eMulti（e多面手）、ePriest（e牧师）、ePureF（e纯战士）和eThief（e盗贼），分别适用于特定的角色职业。请参阅 [readme](https://gibberlings3.github.io/Documentation/readmes/readme-eseries.html) 了解更多详情。",
+        "description": "这是一个AI脚本合集。它包含七个脚本：eArcher、eFighter、eMage、eMulti、ePriest、ePureF 和 eThief，它们适用于特定的人物职业。|详情请查阅[自述文件](https://gibberlings3.github.io/Documentation/readmes/readme-eseries.html)。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit d'une collection de scripts d'IA. Elle comprend sept scripts : eArcher, eFighter, eMage, eMulti, ePriest, ePureF et eThief, adaptés à des classes de personnages spécifiques.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-eseries.html) pour plus détails."
         },
         "notes": [],
@@ -3398,9 +3400,9 @@
     },
     {
         "id": 234,
-        "description": "|uScript或“通用”脚本是为博德之门Ⅱ 安姆阴影 & 巴尔王座的玩家设计的通用战斗AI脚本。它可以被任何角色职业使用。请参阅 [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) 了解更多详情。",
+        "description": "uScript 或“通用脚本”是一个面向玩家的通用型 AI 战斗脚本。它可以被任何职业角色使用。|详情请查阅[自述文件](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html)。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "uScript ou \"Universal\" Script est un script de combat généraliste d'IA pour joueur. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html) pour plus détails."
         },
         "notes": [],
@@ -3590,14 +3592,17 @@
     },
     {
         "id": 247,
-        "description": "此模组允许所有体质值超过15的角色获得额外生命值。|此模组会覆盖 HPCLASS.2da 和 HPCONBON.2da 文件，并且无法卸载。此外，由于 [[1279]] 的一个组件也做了同样的事情，请优先使用后者。",
+        "description": "这个模组允许所有体质超过15的角色获得额外的生命值。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires."
         },
-        "notes": [],
+        "notes": [
+		        "这个模组会覆盖 HPCLASS.2da 和 HPCONBON.2da 文件。",
+                "[[1279]]的一个组件做了同样的事情，请优先使用后者。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Ce mod écrase les fichiers HPCLASS.2da et HPCONBON.2da.",
                 "Un composant de [[1279]] fait la même chose, privilégiez ce dernier."
@@ -3836,9 +3841,9 @@
     },
     {
         "id": 264,
-        "description": "这个迷你模组在扭曲骷髅旅店（城门）中添加了商人克雷格。他出售5个容量无限的卷轴匣和两个宝石袋，还有一个药瓶和弹药带。|不幸的是，随着TeamBG网站的关闭，下载链接似乎已经消失了……",
+        "description": "这个小模组在扭曲骷髅旅店（位于城门区域）添加了商人克雷格。他出售5个容量无限的卷轴盒、两个容量无限的宝石袋，以及一个药剂盒两个容量无限的宝石袋，以及一个药剂盒和一个弹药和一个弹药腰带。腰带。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mini mod ajoute le marchand Craig dans l'auberge du Crâne tordu (portes de la ville). Il vend 5 étuis à parchemins et deux sacs à gemmes, tous à contenance illimitée, ainsi qu'une boîte à potion et une ceinture de munitions."
         },
         "notes": [],
@@ -4614,9 +4619,9 @@
     },
     {
         "id": 317,
-        "description": "这个模组恢复了博德之门Ⅱ：增强版1.3补丁的修改，该修改会使处于睡眠状态的目标在受到伤害时中断睡眠效果。",
+        "description": "这个模组恢复了《博德之门2：增强版》1.3补丁中的一项修改，即当沉睡中的角色受到伤害时，睡眠效果会被打断。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod restaure la modification du patch 1.3 de BG2:EE qui interrompt les effets de sommeil lorsqu'une endormie subit des dégâts."
         },
         "notes": [],
@@ -4869,16 +4874,16 @@
     },
     {
         "id": 336,
-        "description": "被称为“达德利维尔”，这个修复补丁旨在修正所有已被发现但未被Baldurdash（由Kevin Dorner制作）解决的游戏错误。它包含超过700个修复和补丁（大部分是次要的），其中一些修改旨在提供更接近桌面规则的游戏体验。补丁需在“Dudleyfix BG1 Fixes”部分下的“Completed Fixpack”中获取。这些补丁并非严格意义上的翻译，但大多数不需要翻译（它们不添加或修改任何文本）。",
+        "description": "这个被称为“达德利维尔”的修复包，旨在修复游戏中所有已被识别但未被 Baldurdash（由凯文·多纳制作）解决的漏洞。它包含了700多个修正和补丁（其中大部分是微小的），此外还有一些修改，旨在提供更接近桌面规则设定的游戏体验。|这些补丁可以在“Dudleyfix BG1 Fixes”部分找到，然后进入“Completed Fixpack”。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\"."
         },
         "notes": [
-            "仅适用于原始博德之门游戏，不适用于Tutu或BGT。千万不要安装FixPack #2，否则您的游戏将变成英文！"
+            "修复包 #2 会将您的游戏变为英语！"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Le FixPack #2 fera passer votre jeu en Anglais !"
             ]
@@ -5031,9 +5036,9 @@
     },
     {
         "id": 346,
-        "description": "此模组为IE游戏提供了一系列调整。虽然最初是为EET设计的，但其中一些组件是通用的，可以与BG1、BG2、IWD、IWD2、Tutu、BGT、CA、IWD-in-BG2、BG:EE、BG2:EE和IWD:EE一起使用。它还可以统一三部曲中可招募NPC的外观，或修改经验值限制。阅读[readme]以获取更多详细信息。",
+        "description": "这个模组为无限引擎游戏提供了一系列调整选项。虽然它最初是为《增强版三部曲》设计的，但其中一些组件具有通用性，也能兼容其他游戏。|除其他功能外，它还能统一三部曲中可招募NPC的外观，或修改经验值限制。详情请阅读[自述文件](http://htmlpreview.github.io/?https://github.com/K4thos/EET_Tweaks/blob/master/EET_Tweaks/readme-EET_Tweaks.html)。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod propose une collection d'ajustements pour les jeux IE. Bien que conçus à l'origine pour EET, certains de ces composants sont universels et peuvent fonctionner avec les autres jeux.|Il permet entre autres d'harmoniser l'apparence des PNJ recrutables pendant la trilogie ou de modifier la limitation d'XP. Lisez bien le [readme](http://htmlpreview.github.io/?https://github.com/K4thos/EET_Tweaks/blob/master/EET_Tweaks/readme-EET_Tweaks.html) pour plus de détails."
         },
         "notes": [
@@ -5407,9 +5412,9 @@
     },
     {
         "id": 372,
-        "description": "这是BGT对应EE游戏的版本。它需要博德之门：增强版、龙矛围攻和博德之门Ⅱ：增强版。",
+        "description": "这是适用于增强版游戏的BGT的等价物。它允许您连续游玩《博德之门增强版》、《龙矛围攻》和《博德之门II增强版》。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "L'équivalent de BGT pour les jeux EE. Il permet de jouer à la suite les volets BGEE, SoD et BG2EE."
         },
         "notes": [
@@ -5424,9 +5429,9 @@
     },
     {
         "id": 373,
-        "description": "此模组为博德之门：增强版、龙矛围攻、博德之门Ⅱ：增强版和冰风谷：增强版的物品提供外观调整：新的物品栏和描述图标，新的描述，修改它们的外观、颜色和闪烁效果，新的投射物，以及武器击中目标时的新视觉效果。",
+        "description": "这个模组对外观进行了调整：新的物品栏图标和描述图标，新的描述文字，修改了物品的外观、颜色和光芒，新的投射物以及武器命中目标时的新视觉效果。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod apporte des ajustements cosmétiques aux objets : nouvelles icônes d'inventaire et de description, nouvelles descriptions, modification de leur apparence, de leurs couleurs et de leur scintillement, nouveaux projectiles et nouveaux effets visuels quand les armes touchent leur cible."
         },
         "notes": [],
@@ -5437,9 +5442,9 @@
     },
     {
         "id": 374,
-        "description": "此模组是一个玩家AI脚本集合，设计用于在博德之门：增强版、博德之门Ⅱ：增强版、增强版三部曲和冰风谷：增强版中使用。有了这些脚本，您可以专注于战斗，而它们则在后台处理一切。它们允许通过按 `B` 键轻松为所有角色进行预施法，智能驱散敌人的防护，并智能使用防御性法术和技能。此模组考虑了由[[521]]、[[1011]]、[[287]]、[[976]]、[[1114]]、[[396]]安装的法术，以及由[[983]]和[[563]]所做的修改。",
+        "description": "这是一个玩家AI脚本合集。使用这些脚本，您可以专注于战斗，而它们会在后台处理一切。它们允许通过按下 `B` 键轻松为所有角色进行预增益，智能地解除敌人的防护，并智能地使用法术和防御能力。该模组考虑了由 [[521]]、[[1011]]、[[287]]、[[976]]、[[1114]]、[[396]] 安装的法术，以及由 [[983]] 和 [[563]] 所做的修改。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod est une collection de scripts d'IA de joueur. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche `B`, un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[521]], [[1011]], [[287]], [[976]], [[1114]], [[396]], ainsi que les modifications effectuées par [[983]] et [[563]]."
         },
         "notes": [
@@ -5514,9 +5519,9 @@
     },
     {
         "id": 379,
-        "description": "在博德之门Ⅱ：增强版中，您在艾瑞尼卡斯地牢开始游戏时遇到的爱蒙，与您在禁魔监狱找到的爱蒙不是同一个人。这很烦人。此模组将开头的爱蒙带到禁魔监狱，并在她重新加入时升级她的经验值。",
+        "description": "在《博德之门Ⅱ》中，你在艾瑞尼卡斯的地牢中开始游戏时遇到的那个爱蒙，并不是你在禁魔监狱中找到的那个爱蒙。这很令人烦恼。这个模组会将游戏初期的爱蒙传送到禁魔监狱，并在她重新入队时提升她的经验值。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Dans BG2, l'Imoen avec lequel vous commencez à jouer dans le donjon d'Irenicus n'est pas l'Imoen que vous retrouvez dans Spellhold. C'est très ennuyeux. Ce mod transporte l'Imoen du début dans Spellhold avec une mise à niveau de ses XP lors de la réintégration."
         },
         "notes": [],
@@ -5780,9 +5785,9 @@
     },
     {
         "id": 398,
-        "description": "这个模组允许您在博德之门Ⅱ：增强版中招募来自博德之门Ⅰ：增强版的影贼德鲁伊法多恩。但是，您必须记住，她野蛮，不会像大多数德鲁伊那样平和。相反，她是野性的火花，可能引发一场大火。|法多恩可以在她在安姆阴影中的主线剧情结束后加入您的队伍。一旦您完成了商贸集会的任务并成为城市的英雄，请等待一两天，一位德鲁伊会接近您，并要求您回到树林，因为发生了奇怪的事情。|这个模组在安姆阴影中为法多恩添加了三个小任务，在巴尔王座中添加了另一个任务。她可以被任何力量13以上、体质11以上、任何混乱阵营的男性或女性角色追求。但是，请记住，她并不是一个温暖和善的角色，这反映在她所有的对话中。|为了让她更有用，她的配置包含一个特殊能力，可以让她变成蜈蚣。在这种形态下，她可以使用盗贼的能力，但不能施法，并且在战斗中会变得相当虚弱。",
+        "description": "这个模组允许你招募法多，她是《博德之门》中的暗影德鲁伊。但是，你必须记住，她很狂野，不会像大多数德鲁伊那样平和。相反，她是能引发大火的野性火花。|法多可以在《安姆阴影》中完成她原有的剧情后加入你的队伍。一旦你完成了商贸集会的任务并成为城市英雄，等待一两天，就会有一位德鲁伊接近你，要求你返回树林，因为那里发生了奇怪的事情。|这个模组在《安姆阴影》中为法多添加了三个小任务，在《巴尔王座》中又添加了一个。任何力量达到13或以上、体质达到11或以上、阵营为混乱善良、混乱中立或混乱邪恶的男性或女性角色都可以与她发展恋情。但请记住，她并不是一个温暖善良的角色，这在她所有的对话中都有体现。|为了让她更有用，她的角色资料中包含一项特殊能力，可以让她变成一只蜈蚣。在这种形态下，她可以使用盗贼技能，但不能施法，并且在战斗中会变得相当脆弱。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod vous permet de recruter Faldorn, la druidesse de l'ombre de BG. Cependant, vous devez vous rappeler qu'elle est sauvage et qu'elle ne sera pas aussi paisible que la plupart des druides. Au contraire, elle est l'étincelle sauvage qui peut déclencher un grand feu.|Faldorn peut rejoindre votre groupe après son intrigue originale dans SoA. Une fois que vous aurez terminé les quêtes de Franc-Marché et que vous serez devenu le héros de la ville, attendez un jour ou deux, et un druide vous approchera et vous demandera de retourner au bosquet, car quelque chose d'étrange s'est produit.|Ce mod ajoute trois petites quêtes liées à Faldorn dans SoA et une autre dans ToB. Elle peut être romancée par des hommes et des femmes de n'importe quel alignement chaotique ayant une force de 13 ou plus et une constitution de 11 ou plus. Cependant, gardez à l'esprit qu'elle n'est pas exactement un personnage chaleureux et gentil, et cela se reflète dans tous ses dialogues.|Pour la rendre encore plus utile, son profil comprend une capacité spéciale qui lui permet de se transformer en centipède. Sous cette forme, elle peut utiliser des capacités de voleur, mais ne peut pas lancer de sorts et devient assez faible en combat."
         },
         "notes": [],
@@ -5812,10 +5817,10 @@
             "source": "Version allégée du mod [[408]], ce mod est destiné à ceux qui veulent jouer à Baldur's Gate sans souffrir de la faible vitesse de déplacement des personnages en modifiant la vitesse de déplacement des personnages équipés de bottes. Il reprend aussi une partie des capacités de l'original (notamment les portraits, le niveau de recrutement des PNJ, les limites de stockage...)."
         },
         "notes": [
-            "不幸的是，它需要使用 IEES 或 IE Editor Pro 这两款老旧的模组制作工具来安装（你可以在 GrondeMarteau 锻造厂的论坛中找到它们的下载链接）。请像躲避瘟疫一样避开它。"
+            "它可以通过 IEES 或 IE Editor Pro 安装。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Il s'installe avec IEES ou IE Editor Pro."
             ]
@@ -5924,10 +5929,10 @@
             "source": "Ce mod modifie plusieurs éléments du jeu : les personnages sont tous recrutés à leur niveau le plus faible (pas d'adaptation au niveau du personnage principal), les tomes de caractéristiques sont remplacés par des objets spécifiques à chaque classe, les bijoux offrent tous des bonus (CA, résistance...), les bottes ajoutent des bonus de vitesse de déplacement. Il ajoute aussi des portraits de personnage repris de BG2, de nouveaux objets répartis un peu partout (notamment sur des adversaires ou dans des magasins). Il améliore certains adversaires pour corser les combats. Il modifie les animations de quelques sorts.|Enfin le mod augmente la capacité de stockage des munitions, augmente la limite d'expérience, permet de gagner le maximum de points de vie au changement de niveau. Il intègre également le patch Baldurdash."
         },
         "notes": [
-            "该模组需要使用 IEES 或 IE Editor Pro 来安装（你可以在 GrondeMarteau 锻造厂的论坛中找到这些工具的链接）。请像躲避瘟疫一样避开它。"
+            "它可以通过 IEES 或 IE Editor Pro 安装。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Le mod s'installe avec IEES ou IE Editor Pro."
             ]
@@ -7117,9 +7122,9 @@
     },
     {
         "id": 491,
-        "description": "这个模组将博德之门：增强版和博德之门Ⅱ：增强版中NPC的肖像替换为更高分辨率的肖像。",
+        "description": "这个模组用更高分辨率的肖像替换了NPC的肖像。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod remplace les portraits des PNJ par des portraits de plus haute résolution."
         },
         "notes": [],
@@ -7170,10 +7175,11 @@
             "source": "Ce mod permet de renvoyer vos compagnons chez eux ou de les faire revenir dans l'Antichambre de Throne of Bhaal, et d'avoir accès à l'épilogue de tous vos compagnons, même ceux qui ne font plus partie de votre groupe... Il permet aussi de les renvoyer sur le continent à partir de l'île de Brynnlaw, juste avant ou après l'étape de Spellhold. Un magasin est inclus (à Brynnlaw)."
         },
         "notes": [
-            "对于《博德之门Ⅱ》/《博德之门三部曲》版本，请使用提供的链接；对于《博德之门Ⅱ增强版》/《增强版三部曲》版本，请使用github链接。"
+            "请使用适用于BG2/BGT版本的链接，以及适用于BG2EE/EET版本的GitHub链接。",
+            "仅适用于《博德之门II》原版中存在的官方可招募角色。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Utilisez le lien pour la version BG2/BGT et le lien github pour la version BG2EE/EET.",
                 "Ne fonctionne que pour les personnages recrutables officiels présents dans la version originelle de BG2."
@@ -7369,9 +7375,9 @@
     },
     {
         "id": 508,
-        "description": "此模组允许你在创建队伍时导入5名角色，他们会在游戏中交谈和互动，就像《博德之门Ⅱ》中的角色一样！它需要《冬之心》资料片。这些角色是：内拉（战士），科林（游侠），特里（战士/盗贼），霍尔维尔（圣武士）和塞文（吟游诗人）。你也可以为他们分配替代职业：内拉（战士/牧师或战士/德鲁伊），科林（牧师/游侠），特里（盗贼，法师/盗贼或战士/法师/盗贼）和塞文（法师或战士/法师）。",
+        "description": "这个模组允许在游戏开始时将5个角色导入队伍中，他们会在游戏过程中互相交谈并进行互动，就像《博德之门2》中的角色一样！他们是：内拉（女性战士）、科林（游侠）、泰瑞（战士/盗贼）、霍尔维尔（圣武士）和塞文（吟游诗人）。你也可以为他们分配替代职业：内拉（战士/牧师或战士/德鲁伊）、科林（牧师/游侠）、泰瑞（盗贼、法师/盗贼或战士/法师/盗贼）以及塞文（法师或战士/法师）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod permet d'importer 5 personnages dans son groupe à la création, qui se parleront et interviendront pendant le jeu, comme les personnages de Baldur's Gate 2 ! Il s'agit de Nella (guerrière), Korin (rôdeur), Teri (guerrier/voleur), Holvir (paladin) et Severn (barde). Vous pouvez aussi leur assigner des classes alternatives : Nella (guerrière/clerc ou guerrière/druidesse), Korin (clerc/rôdeur), Teri (voleur, mage/voleur ou guerrier/mage/voleur) et Severn (mage ou guerrier/mage)."
         },
         "notes": [
@@ -7601,9 +7607,9 @@
     },
     {
         "id": 524,
-        "description": "该计划由 Weimer 发起，旨在实现以《冰风谷2》的引擎运行《博德之门Ⅱ》。实质上，它是将《博德之门Ⅱ》进行改造，以适配《冰风谷2》的风格，采用其第三版规则、界面、法术等。目前已有大量截图可供查看。在其设计者退出社区后，该模组的测试版已向公众开放。此模组有很大可能将维持在测试版阶段。您可以在[此链接](https://weidu.org/iwg2/beta.html) 找到其安装说明。",
+        "description": "这个项目允许你使用《冰风谷II》的引擎来玩《博德之门II》。实际上，它是将《博德之门II》改编成《冰风谷II》的风格，包含了第三版规则、《冰风谷II》的界面、法术等等。|已经有许多截图可用。在其设计者从社区隐退后，测试版已向公众开放。|你可以在[这个链接](https://weidu.org/iwg2/beta.html)找到它的安装步骤。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté.|Vous trouverez sa procédure d'installation sur [ce lien](https://weidu.org/iwg2/beta.html)."
         },
         "notes": [],
@@ -7630,9 +7636,9 @@
         "team": [
             "Lewis Liu"
         ],
-        "description": "此模组旨在使爱蒙在整个博德之门传奇故事中成为一个稳定的同伴。考虑到与她相关的剧情内容，爱蒙将在关键时刻暂时离开队伍，以反映原版游戏中的事件。此模组让她在这些事件后加入队伍，因此在《龙矛围攻》和《博德之门Ⅱ》中，她可以被看作是真正的旅行同伴。|在《博德之门Ⅱ》中，它让爱蒙在第2章和第3章中，在与盖兰进行第一次对话后立即返回。然后，玩家可以毫无时间限制或道德困境地探索和完成所有任务，无需担忧拯救朋友。抵达布林罗后，游戏的原版内容将恢复：爱蒙被绑架，而善最可以在酒馆中被招募。|安装后，此模组必须在所有NPC模组或其他为《博德之门Ⅱ》第2章和第3章添加对话的模组之前安装。|由于它专为《博德之门Ⅱ：增强版》和《龙矛围攻》设计，并且与所有《博德之门Ⅱ》游戏（BGII, BGT, BG2:EE, EET）兼容，因此该模组会根据您所玩的游戏，建议安装其各种组件。",
+        "description": "这个模组的目标是让爱蒙成为贯穿整个《博德之门》系列的稳定伙伴。考虑到与她相关的情节内容，爱蒙会暂时离开队伍，以反映原版游戏中最关键的事件。这个模组让她在这些事件之后重新加入队伍，因此她可以被视为《龙矛围攻》和《博德之门II》中真正的旅行伙伴。|在《博德之门II》中，它让爱蒙在第2章和第3章中，就在与盖兰的第一次对话后回归。这样一来，玩家就可以探索并完成所有任务，而不受任何时间限制或关于需要拯救的朋友的道德困境的影响。原版游戏的内容在到达布林劳后恢复正常：爱蒙被绑架，善最可以在酒馆被招募。|一旦安装，这个模组必须安装在所有NPC模组或其他在第2章和第3章添加对话的模组之前。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod vise à faire d'Imoen une compagne stable tout au long de la saga BG. Le contenu de l'histoire lié à elle étant pris en compte, Imoen sera temporairement absente du groupe pour refléter les événements du jeu original les plus cruciaux. Ce mod la fait rejoindre la partie après de tels incidents, de sorte qu'elle peut être considérée comme une véritable compagne de voyage dans SoD et BG2.|Dans BG2, il fait revenir Imoen dans les chapitres 2 et 3, juste après le premier dialogue avec Gaelan. Le joueur peut alors explorer et accomplir toutes les quêtes sans aucune contrainte de temps ou dilemme moral concernant une amie à secourir. Le contenu original du jeu reprend son cours après l'arrivée à Brynnlaw : Imoen est kidnappée et Yoshimo peut être recruté dans la taverne.|Une fois installé, ce mod doit être installé avant tous les mods PNJ ou autres mods qui ajoutent des dialogues aux chapitres 2 et 3 de BG2."
         },
         "notes": [],
@@ -7643,9 +7649,9 @@
     },
     {
         "id": 527,
-        "description": "此模组让那些不喜欢爱蒙的人可以选择不在禁魔监狱拯救她，而是选择让她无法在艾瑞尼卡斯的实验中幸存下来，并在被救后立即死亡。这会受到队友（即《博德之门Ⅱ：增强版》的NPC）的评论（台词是为所有人预设的，增强版NPC除外）。",
+        "description": "这个模组允许那些不喜欢爱蒙的人，在禁魔监狱选择不救她，而是选择让她无法在艾瑞尼卡斯的实验中幸存下来，并在被救后立刻死去。队伍成员（仅限原版）会对此有评论。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod permet à ceux qui n'aiment pas Imoen de ne pas la sauver dans Spellhold, mais de choisir l'option selon laquelle elle ne survivra pas aux expériences d'Irenicus et mourra immédiatement après avoir été sauvée. Cela sera commenté par les membres du groupe (ceux de la version originale uniquement)."
         },
         "notes": [],
@@ -8396,9 +8402,9 @@
     },
     {
         "id": 580,
-        "description": "这是同一作者另一个模组的前传，该模组是为博德之门Ⅱ：增强版准备的[[890]]，它为博德之门Ⅱ：增强版中将要发生的事情做了铺垫。|吉尼是一个被困在灯神瓶中的精灵，如果你是男性且非邪恶阵营，她会给你年轻的拉贾利。她提供普通灯神的服务，如果你对她友善，一段浪漫关系可能会产生。她可以为队伍成员提供装备，但只有在你礼貌地请求时才会这样做。她永远不会加入你的队伍，但她和她的灯神瓶会陪伴你一路前行。她渴望自由，而你有机会给予她自由。|该模组还添加了费伊，一个像宠物一样跟随你的小精灵。费伊会尽其所能地向你献殷勤，因为她那么小。她和吉尼对这种安排都没有意见。|力量15，敏捷17，体质17，智力11，智慧18，魅力12。",
+        "description": "这是同一个作者另一个模组[[890]]的前传，为《博德之门II：增强版》中后续的内容奠定了基础。|吉妮（Jini）是一个被囚禁在神灯中的神灵，如果你是男性且非邪恶阵营，她会将年幼的拉贾莉（Rjali）交给你。她会提供神灯神灵通常的服务，如果你对她友善，还可能发展出一段恋情。她可以为你的队伍成员提供装备，但只有在你礼貌地请求时才会这么做。她永远不会加入你的队伍，但她和她的神灯会伴随你的旅程。她渴望自由，而你有能力给予她自由。|这个模组还添加了费伊（Fay），一个会像魔宠一样跟随你的鬼火。费伊会尽其所能地向你求爱，尽管她那么小。她和吉妮对此安排都没有意见。|力量15，敏捷17，体质17，智力11，智慧18，魅力12。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit d'une préquelle d'un autre mod du même auteur, [[890]], qui plante le décor de ce qui suivra dans BG2:EE.|Jini est une djinn emprisonnée dans la lampe qui vous donne la jeune Rjali si vous êtes de sexe masculin et non-mauvais. Elle vous fournit les services habituels d'un djinn de lampe et, si vous êtes gentil avec elle, une romance peut naître. Elle peut fournir de l'équipement aux membres de votre groupe, mais ne le fera que si vous le lui demandez gentiment. Elle ne se joindra jamais à votre groupe, mais elle et sa lampe vous accompagneront sur votre chemin. Elle a soif de liberté, et vous avez la possibilité de la lui accorder.|Le mod ajoute également Fay, un feu follet qui vous suivra comme une sorte de familier. Fay vous fera la cour du mieux qu'elle pourra, étant si petite. Ni elle ni Jini n'ont de problème avec cet arrangement.|FOR 15, DEX 17, CON 17, INT 11, SAG 18, CHA 12."
         },
         "notes": [],
@@ -8490,7 +8496,7 @@
     },
     {
         "id": 586,
-        "description": "这个小模组在杀死法多恩后添加了一个新的威胁：一头棕龙在该地区安家。它必须被击败，但这是一场艰难的战斗！它拥有新的魔法物品……",
+        "description": "这个小模组在杀死法多后添加了一个新的威胁：一头棕龙在该地区安家。它必须被击败，但这是一场艰难的战斗！它拥有新的魔法物品……",
         "description_meta": {
             "status": "done",
             "source": "Ce petit mod ajoute une nouvelle menace après avoir tué Faldorn : un dragon brun s'installe dans la région. Il doit être vaincu, mais c'est un combat difficile ! Il possède des objets magiques nouveaux..."
@@ -8639,10 +8645,10 @@
             "source": "Ce petit mod restaure les capacités innées des elfes noirs prévues par AD&D, mais seulement dans l'Ombreterre : Globe d'obscurité, Globe d'obscurité amélioré, Lueurs dansantes et Feu féerique."
         },
         "notes": [
-            "此模组已被整合到PPG的[[845]]中，因此已过时。此外，托管它的网站已不再可用。"
+            "这个模组自从被整合到[[845]]中后就已经过时了。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Ce mod est obsolète depuis qu'il a été intégré dans [[845]]."
             ]
@@ -9137,9 +9143,9 @@
     },
     {
         "id": 631,
-        "description": "你会在艾瑞尼卡斯地牢的第二层遇到这位热爱啤酒的战士邦斯。当他喝醉时，他会拥有特殊能力——有时也会遇到酒精问题。",
+        "description": "你会在艾瑞尼卡斯地牢的第二层遇到喜爱啤酒的战士邦斯。他拥有自己的宗派。醉酒时，他会有特殊能力——但有时也会出现酒精引起的问题。你可以在某些商铺买到酒。|力量17，敏捷18，体质17，智力13，智慧11，魅力11。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Vous rencontrerez le guerrier Bons, amateur de bière, au deuxième niveau du donjon d'Irenicus. Il a son propre kit. Lorsqu'il est ivre, il a des capacités spéciales - et parfois des problèmes avec l'alcool. Vous trouverez de l'alcool à acheter dans certaines échoppes.|FOR 17, DEX 18, CON 17, INT 13, SAG 11, CHA 11."
         },
         "notes": [],
@@ -9357,9 +9363,9 @@
     },
     {
         "id": 647,
-        "description": "这是为《冰风谷》准备的一个预创建角色。德拉科·弗拉维乌斯爵士是一位14级守序中立人类战士，拥有精良的魔法装备。他的属性为：175点生命值，AC -11，力量21，敏捷19，体质18，智力10，智慧14和魅力11。",
+        "description": "这是一个预生成角色。德拉科·弗拉萨维乌斯领主是一名14级的人类战士，阵营守序中立，拥有优质的魔法装备。他的属性为：175点生命值，防御等级-11，力量21，敏捷19，体质18，智力10，智慧14，魅力11。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit d'un personnage pré-tiré. Lord Draco Vlasavius est un guerrier humain loyal neutre de niveau 14 avec un équipement magique de qualité. Ses caractéristiques : 175 PV, CA -11, FOR 21, DEX 19, CON 18, INT 10, SAG 14 et CHA 11."
         },
         "notes": [],
@@ -9396,9 +9402,9 @@
     },
     {
         "id": 650,
-        "description": "这是一个包含20个头像的包，用于您的博德之门：增强版和博德之门Ⅱ：增强版角色。",
+        "description": "这是一个包含20张肖像的包，供您的角色使用。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit d'un pack 20 portraits pour vos personnages."
         },
         "notes": [],
@@ -9607,9 +9613,9 @@
     },
     {
         "id": 665,
-        "description": "此模组让博德之门：增强版和博德之门Ⅱ：增强版中的战斗场面变得更加史诗，并且应该与原版博德之门Ⅱ、博德之门三部曲和增强版三部曲兼容。它修改了各种遭遇战和任务，甚至增加了新的，还为某些怪物（龙、构装体、巫妖、狼人、吸血鬼、无实体不死生物等）提供了新的桌面角色扮演能力。它还借此机会修改了一些任务，甚至扩展了它们。它是“Made in Heaven”系列（包含物品、法术和调整）的一部分。",
+        "description": "这个模组旨在让随机遭遇变得更具挑战性。它修改了多种遭遇战和任务，甚至增添了一些新的遭遇战，为某些怪物（龙、魔像、巫妖、兽化人、吸血鬼、虚体亡灵……）赋予了新的《桌游规则》能力。它还借机修改甚至扩展了一些任务。该模组属于“天堂制造”系列（与物品、法术和调整模组并列）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod permet de rendre les rencontres un peu plus épicées. Il modifie diverses rencontres et quêtes, et en ajoute même de nouvelles, accorde de nouvelles capacités P&P à certains monstres (dragons, golems, liches, lycanthropes, vampires, morts-vivants incorporels...). Il en profite pour modifier certaines quêtes, voire les étendre. Il fait partie de la série \"Made in Heaven\" (avec les objets, les sorts et les tweaks)."
         },
         "notes": [],
@@ -9646,9 +9652,9 @@
     },
     {
         "id": 668,
-        "description": "此模组提供了一个为博德之门：增强版和博德之门Ⅱ：增强版准备的小型修改集合，应该与原版博德之门Ⅱ、博德之门三部曲和增强版三部曲兼容。它允许你对大型生物（根据武器大小，比目标更大或更小）造成替代伤害，限制魔杖（6发）和权杖（12发）的充能次数，并根据等级对法术豁免检定施加惩罚，修改基于力量、敏捷和体质的表格，使其加成从12点开始生效。此模组是“Made in Heaven”系列（包含物品、法术和任务）的一部分。",
+        "description": "这个模组提供了一系列小修改。它允许你对大型生物应用替代伤害（根据武器不同而更大或更小），限制法杖（6次）和权杖（12次）的使用次数，根据等级对法术的豁免检定施加减值，修改基于力量、敏捷和体质的表格，使得提供的加值从12点开始。这个模组属于“天堂制造”系列（与物品、法术和任务模组并列）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod propose une collection de petites modifications. Il vous permet d'appliquer des dommages alternatifs aux grandes créatures (plus grands ou plus petits selon les armes), de limiter le nombre de charges des baguettes (6) et des sceptres (12), appliquer aux aux jets de sauvegarde des sorts des malus selon le niveau, modifier les tables dépendant de la Force, de la Dextérité et de la Constitution pour que les bonus accordés commencent à partir de 12. Ce mod fait partie de la série \"Made in Heaven\" (avec les objets, les sorts et les quêtes)."
         },
         "notes": [],
@@ -9659,7 +9665,7 @@
     },
     {
         "id": 669,
-        "description": "这是[法师决斗](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/MageDuel12.zip)这个非常古老的模组的修订版，此模组力求缩短魔法战斗的时间，并使其变得更有趣和更有意义。因此，它既面向那些认为[[1011]]的战斗时间过长且过于复杂的人，也面向那些认为未修改的战斗过于简单或有些不合逻辑的人。它努力让法术防御变得有用，保留施法者可以非常强大，甚至暂时无敌的理念，同时给敌对法师提供有效的工具来克服这种无敌，并让魔法战斗能够以相当快速、果断和令人满意的方式解决。|请放心，目标没有改变：你必须攻击法术防御，直到它们消失，然后攻击法师。|此模组必须在像[[982]]、[[521]]和[[1011]]这样的法术模组之后安装。",
+        "description": "这是[法师决斗](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/MageDuel12.zip) 这个非常古老的模组的修订版，此模组力求缩短魔法战斗的时间，并使其变得更有趣和更有意义。因此，它既面向那些认为[[1011]]的战斗时间过长且过于复杂的人，也面向那些认为未修改的战斗过于简单或有些不合逻辑的人。它努力让法术防御变得有用，保留施法者可以非常强大，甚至暂时无敌的理念，同时给敌对法师提供有效的工具来克服这种无敌，并让魔法战斗能够以相当快速、果断和令人满意的方式解决。|请放心，目标没有改变：你必须攻击法术防御，直到它们消失，然后攻击法师。|此模组必须在像[[982]]、[[521]]和[[1011]]这样的法术模组之后安装。",
         "description_meta": {
             "status": "done",
             "source": "Révision du très vieux mod [Mage Duel](https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/MageDuel12.zip), ce mod s'efforce d'écourter les batailles magiques et de les rendre plus agréables et sensibles. Il s'adresse donc à la fois à tous ceux qui trouvent les combats de [[1011]] bien trop longs et compliqués, et à ceux qui trouvent les combats non moddés trop faciles ou un peu incohérents. Il s'efforce donc de rendre utiles les défenses contre les sorts, préserver l'idée que les utilisateurs de magie peuvent être très puissants, voire temporairement invincibles, tout en donnant aux mages adverses des outils efficaces pour surmonter cette invincibilité et permettre aux batailles de magie d'être résolues de manière assez rapide, décisive et satisfaisante.|Rassurez-vous, l'objectif ne change pas : il faut attaquer les défenses des sorts jusqu'à ce qu'elles disparaissent, puis attaquer le mage.|Ce mod doit être installé après les mods de sorts comme [[982]], [[521]] et [[1011]]."
@@ -9714,9 +9720,9 @@
     },
     {
         "id": 673,
-        "description": "作为作者同名“Vampirmod für Magier”的继承者，此模组让玩家在安姆阴影的主线任务过程中有机会成为吸血鬼。为此，玩家必须加入芭荻的公会。选择变成吸血鬼是自愿且不可逆的。一旦玩家被转化，就无法回头。",
+        "description": "继承自同一作者的《法师的吸血鬼模组》，这个模组让玩家在《安姆阴影》的主线任务期间有机会变成吸血鬼。为此，玩家必须加入芭荻的工会。成为吸血鬼的选择是自愿且不可逆的。转变会赋予角色吸血鬼的能力。这些能力会随着角色等级的提升而同步进化。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Héritier du \"Vampirmod für Magier\" du même auteur, ce mod donne au joueur la possibilité de devenir un vampire au cours de la quête principale de Shadows of Amn. Pour ce faire, le joueur doit rejoindre la guilde de Bodhi. Le choix d'être transformé en vampire est volontaire et définitif. La transformation confère au personnage les capacités d'un vampire. Ces capacités évoluent en parallèle du niveau du personnage."
         },
         "notes": [],
@@ -9998,9 +10004,9 @@
     },
     {
         "id": 692,
-        "description": "与模组[[444]]和[[25]]类似，此模组为BG2:EE中每个参与对话的NPC都提供了一个肖像。",
+        "description": "与[[444]]和[[25]]模组类似，这个模组为每个涉及对话的NPC提供了一幅肖像。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "À l'instar des mods [[444]] et [[25]], ce mod donne un portrait à chaque NPC concerné par un dialogue."
         },
         "notes": [
@@ -10156,17 +10162,16 @@
     },
     {
         "id": 702,
-        "description": "顾名思义，这个模组提供了对BG2:EE的部分翻译。目前，它包括：|- SoA和ToB的文本已通过之前的补丁修正。|- SoA中拉萨德的任务：对话、地点、人物（生物的名称可能未翻译）。|- 主角和拉萨德的语音字幕。|- BG2:EE添加的物品。|- BG2:EE添加的法术。|- 2.5补丁添加的文本，特别是坦帕斯牧师宗派。",
+        "description": "顾名思义，这个模组提供了对《博德之门II：增强版》的部分翻译。它包括：|- 由先前补丁修正的《安姆阴影》和《巴尔王座》的文本。|- 拉萨德在《安姆阴影》中的任务：对话、地点、角色（部分生物名称可能未翻译）。|- 主角和拉萨德的配音字幕。|- 《博德之门II：增强版》新增的物品。|- 《博德之门II：增强版》新增的法术。|- 2.5补丁新增的文本，尤其是坦帕斯牧师的宗派。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Comme son nom l'indique, ce mod propose une traduction partielle de BG2:EE. Il comprend :|- les textes de SoA et ToB corrigés par le patch précédent.|- la quête de Rasaad dans SoA : dialogues, lieux, personnages (des noms de créatures peuvent ne pas être traduits).|- les sous-titres des voix pour le personnage principal et pour Rasaad.|- les objets ajoutés par BG2:EE.|- les sorts ajoutés par BG2:EE.|- les textes ajoutés par le patch 2.5, notamment le kit de prêtre de Tempus."
         },
         "notes": [
-            "此模组计划用于 BG2:EE v2.3.67.3 和 v2.5.16.6 版本。",
-            "自从 [[259]] 模组发布以来，对于拥有 2.6 或更高版本补丁的游戏，此模组已变得过时。"
+            "这个模组已被包含在[[259]]中。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Ce mod a été inclus dans [[259]]."
             ]
@@ -10477,9 +10482,9 @@
     },
     {
         "id": 723,
-        "description": "此模组修复了多人游戏中的一些问题。在战斗中，最多5个敌人可以跟随一个使用门的团队成员（仅适用于入口可被NPC使用的室内区域）。当NPC在对话中变得敌对时，游戏会暂停。|此模组已使用EET进行测试，但应该与BG、BG2、BGT、BG:EE、BG2:EE、PST、PST:EE和IWD兼容。",
+        "description": "这个模组修复了多人游戏会话中的一些问题。在战斗中，最多有5名敌人可以跟随从门口离开的队伍成员（仅适用于NPC可以使用的入口的内部区域）。当NPC在对话期间变为敌对状态时，游戏会暂停。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod corrige quelques problèmes dans des sessions multi-joueurs. Lors d'un combat, jusqu'à 5 adversaires peuvent suivre un membre du groupe qui emprunte une porte (s'applique uniquement aux zones intérieures dont les entrées sont utilisables par les PNJ). Le jeu se met en pause lorsque les PNJ deviennent hostiles pendant le dialogue."
         },
         "notes": [],
@@ -11370,9 +11375,9 @@
     },
     {
         "id": 785,
-        "description": "此模组使所有提供高级隐身（PnP）的法术和能力生效：角色在攻击后不会重新显形。它还修改了“闪光尘”法术，使其能揭示豁免失败的隐形生物。",
+        "description": "这个模组使所有赋予隐身效果的法术和能力都符合桌游规则：角色在攻击后不会重新显形。它还修改了“闪烁粉尘”法术，使其能揭示那些豁免检定失败的隐形生物。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod rend tous les sorts et capacités qui donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il révèle les créatures invisibles qui ratent leur jet de sauvegarde."
         },
         "notes": [],
@@ -11415,11 +11420,10 @@
             "source": "Ces packs de voix permettent de passer le jeu entièrement en français, sans entendre les voix anglaise. Les archives de sons sont faites pour être extraites à partir du répertoire lang car elles contiennent le dossier fr_FR. Il est préférable d'installer d'abord le mod de traduction, même si l'ordre n'a pas d'importance.|À cause de la manière dont les versions du jeu gèrent les voix, il existe deux packs de voix : un pour les versions 1.2, 1.3, 2.0, 2.1, 2.2 et 2.3 ; un autre pour la version 2.5."
         },
         "notes": [
-            "不要选错版本，否则游戏中会出现混合语音！",
-            "自从模组[[259]发布以来，对于拥有2.6或更高版本补丁的游戏，此模组已过时。"
+            "这个模组已被包含在[[259]]中。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Ce mod a été inclus dans [[259]]."
             ]
@@ -11926,9 +11930,9 @@
     },
     {
         "id": 824,
-        "description": "这个小模组修改了职业前置要求、半兽人种族、法术和魅力值调整的进阶表，使其符合桌面版规则。",
+        "description": "这个小模组修改了职业的先决条件、半兽人种族、法术成长表格和魅力值调整表格，使它们符合桌游规则。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce petit mod modifie les pré-requis de profils, la race de semi-orque, les tables de progression des sorts et de modification de scores de Charisme pour les rendre conformes aux règles papier."
         },
         "notes": [],
@@ -12129,10 +12133,10 @@
             "source": "Ce mod modifie le système d'attribution des points de compétence martiales."
         },
         "notes": [
-            "此模组的作者对其进行了“全面改造”，并将其拆分为两个新的模组，可在此处下载 [https://forums.beamdog.com/discussion/42503/]。"
+            "这个模组已经被其作者进行了“全面改造”，并分成了两个新模组，可以在[此处](https://forums.beamdog.com/discussion/42503/) 下载。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Ce mod a subit un \"Overhaul\" de la part de son auteur et a été divisé en deux nouveaux mods qui sont téléchargeables [ici](https://forums.beamdog.com/discussion/42503/)."
             ]
@@ -12253,9 +12257,9 @@
         "team": [
             "Lzw104522773"
         ],
-        "description": "SimDing0的这个模组添加了大量的支线任务，同时也修改了某些怪物的AI，并为他们增加了一些能力（例如，木乃伊现在可以对你们施放一种令人眩晕的气息……呃）。在现有的任务中，你也将有其他选择的机会，比如背叛艾德温，甚至背叛雷诺尔·血头……一切风险自负。",
+        "description": "这个模组增加了大量的小任务，但也修改了某些怪物的AI，为它们增加了一些能力（例如，木乃伊现在可以对你施展某种眩晕吐息……嘎啊）。你还可能在现有任务中做出其他选择，比如背叛艾德温，甚至背叛雷纳尔·血头本人……风险自负。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls."
         },
         "notes": [
@@ -12459,9 +12463,9 @@
     },
     {
         "id": 859,
-        "description": "这个模组最初是为博德之门Ⅱ：增强版设计的，但也兼容博德之门：增强版，旨在突出显示切换按钮（如IA按钮）在选中时的状态。",
+        "description": "这个模组旨在更明显地突出那些被选中的开关按钮（例如人工智能开关）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod vise à mettre davantage en évidence les boutons à bascule (tels que celui de l'IA) lorsqu'ils sont sélectionnés."
         },
         "notes": [],
@@ -13379,9 +13383,9 @@
     },
     {
         "id": 920,
-        "description": "这个迷你模组为沙洛佛克赋予了特殊能力，以致敬一款著名的游戏。",
+        "description": "这个小模组为沙洛佛克增加了两种特殊能力（“虎炮拳”和“虎上切”），以向游戏《街头霸王》致敬。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mini mod dote Sarevok de deux capacités particulières (Tiger Shot et Tiger Uppercut), à la gloire du jeu Street Fighter."
         },
         "notes": [
@@ -13648,10 +13652,11 @@
             "source": "À ne pas confondre avec [[938]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ."
         },
         "notes": [
-            "需要在[[372]]之前安装。"
+            "它必须在[[372]]之前安装。",
+            "选择兼容EET的GitHub版本。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Il doit être installé avant [[372]].",
                 "Choisissez la version github qui est compatible EET."
@@ -13972,14 +13977,16 @@
     },
     {
         "id": 961,
-        "description": "这是多产的Lava的第一个模组，Skie BG2，它被完全重写并翻译成英文。你还记得恩塔尔·银盾那个富有又娇惯的女儿史姬吗？这个中立的人类族盗贼现在可以作为可招募的NPC出现在博德之门Ⅱ中。|该模组提供了与主角查尔曼的新互动和对话，以及来自传奇第一部原版的声音文件，还有可选的替代肖像。史姬可以与主角开始一段浪漫关系——主角必须是精灵、人类、半精灵或泰夫林。新物品被添加，旧物品被修改，所有脚本都被重写，并添加了第三个尾声。物品搜索变得更容易，并与一个小型浪漫任务相关联。",
+        "description": "您还记得思科，那个被宠坏的富家女恩塔·银盾的女儿吗？这名中立的人类盗贼现在可以在《博德之门II》中作为可招募NPC了。|该模组提供了与主角的新互动和对话、她在系列第一部中的原版声音文件，以及可选的替代肖像。思科可以与主角发展恋情——主角必须是精灵、人类、半精灵或魔人世族。模组还添加了新物品，修改了旧物品，重写了所有脚本，并增加了第三个结局。物品搜索被简化，现在与一个浪漫小任务相关联。|力量11，敏捷18，体质15，智力15，智慧8，魅力13。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Vous souvenez-vous de Skie, la fille riche et gâtée d'Entar Écudargent ? Cette voleuse humaine neutre est désormais disponible en tant que PNJ recrutable dans BG2.|Le mod propose de nouvelles interactions et conversations avec Charname, son jeu de sons original de la première partie de la saga, ainsi que des portraits alternatifs en option. Skie peut commencer une romance avec le personnage principal - il doit s'agir d'un elfe, d'un humain, d'un demi-elfe ou d'un tieffelin. De nouveaux objets ont été ajoutés, des anciens modifiés, tous les scripts ont été réécrits et un troisième épilogue a été ajouté. La recherche d'objets a été facilitée et est désormais liée à une petite quête romantique.|FOR 11, DEX 18, CON 15, INT 15, SAG 8, CHA 13."
         },
-        "notes": [],
+        "notes": [
+			"0.5.1版本之后又发布了多个版本，最新版本（v3）于2015年发布，该版本有英文版且兼容EE，但目前难以找到。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Plusieurs releases ont eu lieu depuis la 0.5.1, la dernière en date (v3) date de 2015, elle est disponible en anglais et compatible EE, mais celle-ci reste introuvable."
             ]
@@ -14229,11 +14236,10 @@
             "source": "Ce vieux mod ajoute de nombreux objets dans le magasin de Joluv."
         },
         "notes": [
-            "注意：请将下载的文件扩展名更改为 .exe 才能安装。尽管使用的是 WeiDU，但此模组会覆盖许多文件。",
-            "与 ToB 不兼容。"
+            "注意：将下载文件的扩展名修改为 .exe 才能安装。尽管这是 WeiDU 模组，但它会覆盖许多文件。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Attention : Modifiez l'extension du fichier téléchargé en .exe pour pouvoir l'installer. Bien que WeiDU, ce mod override de nombreux fichiers."
             ]
@@ -14247,10 +14253,10 @@
             "source": "Ce mod ajoute le nouveau sort \"Puissance des Arcanes\" qui permet à un magicien de se rappeler un sort de niveau 9 déjà lancé."
         },
         "notes": [
-            "注意：此模组为 tbg 格式，需要使用一个老旧的模组安装工具才能安装。请避免使用！"
+            "这个模组是.tbg格式，需要IEEP才能安装。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Ce mod est au format tbg et nécessite IEEP pour s'installer."
             ]
@@ -14406,9 +14412,9 @@
     },
     {
         "id": 990,
-        "description": "此模组允许牧师和德鲁伊获得《龙与地下城》3版的治疗、伤害和咒法法术的即时施法能力。它适用于《博德之门：增强版》、《博德之门Ⅱ：增强版》、《冰风谷：增强版》和《增强版三部曲》。只要在安装其他模组后安装它，就应该可以与其他添加了牧师和德鲁伊法术和宗派的模组兼容。|从技术上讲，它植入了一个三个内在能力，一旦激活，会将施法者所有已记忆的神圣法术转化为相应等级的治疗、伤害或召唤法术。善良牧师获得即时治疗，邪恶牧师获得即时伤害，中立牧师两者都获得。德鲁伊获得即时召唤。此效果持续6小时，或直到选定的神圣法术被施放，然后所有法术都会恢复原状。",
+        "description": "这个模组允许牧师和德鲁伊获得《龙与地下城》第三版中治疗、造成伤害和召唤法术的自发施法能力。只要在其他添加法术以及牧师和德鲁伊职业的模组之后安装，它应该能与之兼容。|从技术上讲，它植入了三种先天能力，激活后会将施法者所有已记忆的神术转换为各自对应等级的治疗、造成伤害或召唤法术。善良牧师获得自发治疗法术，邪恶牧师获得自发造成伤害法术，而中立牧师两者皆有。德鲁伊获得自发召唤法术。这种效果持续6小时，或者直到施放所选的神术，然后所有法术都会转换回来。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod permet aux clercs et druides de bénéficier de la capacité d'incantation spontanée de D&D 3e pour les sorts de soins, de blessures et de convocation. Il devrait être compatible avec d'autres mods qui ajoutent des sorts et des profils de clercs et druides à condition d'être installé après eux.|Techniquement, il implante trois capacités innées qui, une fois activées, transforment tous les sorts divins mémorisés du lanceur en sorts de soins, de dégâts ou d'invocation de leurs niveaux respectifs. Les clercs bons reçoivent des soins spontanés, les clercs mauvais des blessures spontanées, et les clercs neutres les deux. Les druides reçoivent des invocations spontanées. Cela dure 6 heures ou jusqu'à ce que le sort divin choisi soit lancé, puis tous les sorts sont retransformés."
         },
         "notes": [],
@@ -14617,9 +14623,9 @@
     },
     {
         "id": 1005,
-        "description": "这是[[1148]]的继承者，是一个包含541个肖像的包，适用于博德之门：增强版和博德之门Ⅱ：增强版。",
+        "description": "作为[[1148]]的后继者，这是一个包含541张肖像的肖像包。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Successeur du [[1148]], il s'agit d'un pack de 541 portraits."
         },
         "notes": [],
@@ -14850,11 +14856,12 @@
             "source": "Ce mod est basé sur les combats et la stratégie, et pratiquement rien d'autre. Il compile d'anciens mods d'amélioration de certains combats (comme le mod [[968]], le mod Ritual, et d'autres) et ajoute les siens propres, et rend le jeu très difficile et tactique. À noter que vous pouvez installer chaque composant séparément. Il ajoute également deux profils (Archer pour les guerriers et Anti-paladin). Attention, ce mod est idéal pour rééquilibrer le jeu, mais ne rajoute que très peu de quêtes, le but est d'augmenter le niveau de difficulté, rien d'autre... il serait trop long de citer tous les composants de ce mod... Consultez le readme pour plus de précisions."
         },
         "notes": [
-            "仅适用于博德之门Ⅱ：增强版，请使用Beamdog的移植版，该版本由新作者Musigny制作，并逐步处理了原版模组的所有组件。",
-            "已翻译成法语且兼容增强版三部曲的宗派可在[[1590]]中找到。"
+            "仅适用于《博德之门II：增强版》，请使用Beamdog链接中的适配版本，该版本由新作者Musigny制作，逐步处理了原模组的所有组件。",
+            "法语翻译且兼容EET的宗派可在[[1590]]中找到。",
+            "大部分组件与[[1011]]不兼容。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Pour BG2:EE seulement, utilisez l'adaptation du lien Beamdog, œuvre d'un nouvel auteur, Musigny, qui traite au fur et à mesure l'ensemble des composants du mod d'origine.",
                 "Les kits traduits en français et compatibles EET sont disponibles dans [[1590]].",
@@ -15360,9 +15367,9 @@
     },
     {
         "id": 1055,
-        "description": "就像葛立安的信和在博德之门中主角的梦境，在安姆阴影中变成活尸，以及在巴尔王座中的试炼一样，龙矛围攻中博尔斯基尔桥的场景是主角走向其命运之路上的一个重要阶段。因此，这个模组努力通过NPC和其他游戏角色的反应，为这个场景增加更多深度和与故事的融合度。在前往桥上之前会有警告，并且NPC会根据已安装的组件对事件进程做出反应。原始场景也将通过描述性文本进行扩展，并允许玩家选择如何处理神圣能量的爆发以及由此产生的属性变化。|它包含四个可选的、但相互补充的组件：|- 1. 博尔斯基尔桥场景被NPC提及：此组件在您通过博尔斯基尔桥前后，为游戏角色添加了反应。桥的过场动画保持不变。|- 2. 添加描述博尔斯基尔桥原始过场动画的文本：此组件为桥的过场动画添加了额外的描述性文本，其风格与博德之门II（生命之树，变成活尸）相同。|- 3. 博尔斯基尔桥的事件进程提供多种选择：此组件允许玩家选择如何应对桥上释放的能量波。有三种可能：1）玩家吸收所有痛苦以保护他人；2）玩家将能量引向河流（他附近的人会受到轻微影响并受到一些伤害）；3）玩家引导能量并将其投射到周围（所有小组成员都会受到伤害，并且桥上大部分燃烧之拳的士兵都会死亡）。|- 4. 根据玩家的选择修改其属性：1）当玩家吸收痛苦时，其永久性智慧值增加1点；2）当玩家将能量引向河流时，其永久性敏捷值增加1点；3）如果玩家将能量引向其盟友，其永久性体质值增加1点。",
+        "description": "如同《博德之门》中葛立安的信件和主角的梦境、《安姆阴影》中的剥皮者变形，以及《巴尔王座》中的试炼一样，《龙矛围攻》中的博斯基尔桥场景是主角走向命运之路的重要里程碑。因此，本模组致力于赋予该场景更深的深度，使其更好地融入故事，并加入NPC及其他游戏角色的反应。根据所安装的组件，前往桥边之前会有预警，NPC们也会对事件进程做出反应。原版场景也将通过描述性文本得到扩展，并且玩家可以选择如何处理神力迸发以及随之而来的属性变化。|它包含四个可选组件，但它们互为补充：|- 1. NPC们提及博斯基尔桥场景：该组件在您跨越博斯基尔桥的前后，为游戏角色添加了反应。桥上的过场动画保持不变。|- 2. 为博斯基尔桥原版过场动画添加描述性文本：该组件基于《博德之门II》的相同风格（例如生命之树、剥皮者变形），为桥上的过场动画增加了额外的描述性文本。|- 3. 博斯基尔桥事件进程提供多种选择：该组件允许主角选择如何应对桥上释放的能量波。有三种可能：1) 主角吸收所有痛苦以保护他人；2) 主角将能量转向河流（靠近他的人会受到轻微波及并承受少量伤害）；3) 主角引导能量并向周围迸发（所有队伍成员受到伤害，而桥上大多数火拳士兵死亡）。|- 4. 根据主角的选择修改其属性：1) 当主角吸收痛苦时，其智慧永久增加1点；2) 当主角将能量引向河流时，其敏捷永久增加1点；3) 如果主角将能量导向盟友，其体质永久增加1点。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Comme la lettre de Gorion et les rêves du PJ dans BG, la transformation en écorcheur dans SoA, et les épreuves dans ToB, la scène du pont de Boarskyr dans SoD est une étape importante dans le parcours du PJ vers sa destinée. Ce mod s'efforce donc de lui donner plus de profondeur et une meilleur intégration dans l'histoire avec des réactions des PNJ et autres personnages du jeu. Il y aura des mises en garde avant d'aller sur le pont, et les PNJ réagiront au déroulement des événements, selon les composants installés. La scène originale sera également étendue avec des textes descriptifs et la possibilité pour le joueur de choisir comment gérer la déflagration d'énergie divine ainsi que les changements de statistiques qui en résultent.|Il comprend quatre composants optionnels, mais qui se complètent les uns les autres :|- 1. La scène du pont de Boarskyr est mentionnée par les PNJ : Ce composant ajoute des réactions aux personnages du jeu avant et après votre passage sur le pont de Boarskyr. La cinématique du pont reste inchangée.|- 2. Ajouter un texte décrivant la cinématique originale du pont de Boarskyr : Ce composant ajoute des textes descriptifs supplémentaires à la cinématique du pont, basés sur le même style que BG2 (l'Arbre de vie, transformation en écorcheur).|- 3. Le déroulement des événements du pont de Boarskyr offre plusieurs choix : Ce composant permet au PJ de choisir comment réagir à la vague d'énergie libérée sur le pont. Il y a trois possibilités : 1) le PJ absorbe toute la douleur pour protéger les autres ; 2) Le PJ détourne l'énergie vers la rivière (les personnes proches de lui seront légèrement touchées et recevront quelques dégâts) ; 3) le PJ canalise l'énergie et la projette autour de lui (tous les membres du groupe reçoivent des dégâts et la plupart des soldats du Poing enflammé qui se trouvent sur le pont meurent).|- 4. Modifier les caractéristiques du PJ en fonction de ses choix : 1) lorsque le PJ absorbe la douleur, sa sagesse augmente de 1 de façon permanente : 2) 2. lorsque le PJ dirige l'énergie vers la rivière, sa dextérité augmente de 1 de façon permanente ; 3) si le PJ dirige l'énergie vers ses alliés, sa constitution augmente de 1 de façon permanente."
         },
         "notes": [],
@@ -15730,9 +15737,9 @@
     },
     {
         "id": 1080,
-        "description": "这个模组为BG:EE和BG2:EE中可招募或不可招募的NPC安装了500多张高分辨率肖像，其中一些用于[[25]]、[[894]]、[[1096]]、[[1027]]、[[552]]等模组中的角色。因为一些肖像与剧情不符，一个备选肖像集可以替换它们。",
+        "description": "这个模组安装了超过500张高分辨率肖像，适用于可招募或不可招募的NPC，其中一些肖像用于其他模组的角色，如[[25]]、[[894]]、[[1096]]、[[1027]]、[[552]]……因为某些肖像与故事背景不符，因此提供了一套可选的替代肖像包进行替换。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod installe plus de 500 portraits en haute résolution pour les PNJ recrutables ou non, dont certains pour des personnages de mods comme [[25]], [[894]], [[1096]], [[1027]], [[552]]... Parce que certains portraits ne sont pas fidèles à l'histoire, une collection de portraits alternatifs peut les remplacer."
         },
         "notes": [
@@ -16229,10 +16236,10 @@
             "source": "Il s'agit d'un livre avec lequel vous pouvez dialoguer pour modifier vos caractéristiques, alignement, classe, argent, expérience, points de vie... Il peut aussi vous donner de nombreux objets utiles, dont certains n'étaient pas inclus dans le jeu, ainsi que tous les parchemins de sorts de niveau 5 à 9. Bien, évidemment, c'est de la triche !"
         },
         "notes": [
-            "注意：由于它已包含在模组 [[847]]（“作弊法术书”组件）中，建议安装前一个模组，此外该模组也已翻译。"
+            "包含在[[847]]模组中（组件“作弊魔法书”）。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Inclus dans le mod [[847]] (composant `Grimoire de triche`)."
             ]
@@ -16332,9 +16339,9 @@
     },
     {
         "id": 1122,
-        "description": "这个模组缓和了EET中各个战役之间的过渡。它允许在击败沙洛佛克后继续停留在博德之门Ⅰ的“世界”，并在击败艾瑞尼卡斯后继续停留在博德之门Ⅱ的“世界”。向游戏中的龙矛围攻或博德之门Ⅱ区域的进展是通过在完成或跳过清理任务后，由贝尔特公爵提供的一个物品来完成的。向巴尔王座的进展是通过由艾丽星女王给予的希达林护身符来完成的。|在EET中，你可以拥有一个个人住所，里面有一个跟随你直到巴尔王座的箱子：击败沙洛佛克后，你可以通过贝尔特公爵住进公爵宫（需要龙矛围攻）；如果你在EET中救了艾尔坦公爵，他会交给你一所房子的钥匙。|根据你之前消灭的沙洛佛克追随者，将会有一些新的清理任务可用。博德之门和剑湾传奇的任务可以在沙洛佛克死后完成；这让你可以控制事件的顺序。|你还可以选择给沙洛佛克装备他的装备（包括他的剑），或者把它留在他的物品栏里。|最后，在击败沙洛佛克后，你将获得一个新的巴尔之子能力，根据你的阵营而不同。",
+        "description": "这个模组缓和了《增强版三部曲》中各个战役之间的过渡。它允许在击败沙洛佛克后继续停留在《博德之门1》的“世界”中，并在击败艾瑞尼卡斯后停留在《博德之门II》的“世界”中。通过使用贝尔特公爵在完成或跳过扫尾任务后提供的物品，可以推进到游戏的《龙矛围攻》或《博德之门II》区域。通过使用艾丽星女王给予的希达林护身符，可以推进到《巴尔王座》。|在《增强版三部曲》中，您有机会拥有自己的个人住所，其中包含一个会一直跟随您到《巴尔王座》的箱子：在击败沙洛佛克后，您可以凭借贝尔特公爵（需要《龙矛围攻》）入住公爵宫殿；如果您在《增强版三部曲》中拯救了埃尔坦公爵，他会给您一所房子的钥匙。|根据您之前击败的沙洛佛克追随者，将会解锁一些新的扫尾任务。《博德之门》和《剑湾传奇》的任务可以在沙洛佛克死后继续完成；这使您能够控制事件的顺序。|您还可以选择为沙洛佛克装备他的装备（包括他的剑），或者让他继续带着这些装备。|最后，在击败沙洛佛克后，您将获得一项新的巴尔之子能力，该能力会根据您的阵营而有所不同。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod adoucit les transitions entre les campagnes dans EET. Il permet de rester dans le \"monde\" de BG1 après la défaite de Sarevok et dans le \"monde\" BG2 après la défaite d'Irenicus. La progression vers les zones SoD ou BG2 du jeu est accomplie en utilisant un objet fourni par le duc Belt après avoir terminé ou sauté les quêtes de nettoyage. La progression vers ToB est accomplie en utilisant l'amulette de la Seldarine donnée par la reine Ellesime.|Dans EET, vous avez la possibilité d'avoir votre propre logement personnel qui contient un coffre qui vous suit jusqu'à ToB : après avoir vaincu Sarevok, vous pourrez vous installer dans le Palais Ducal (nécessite SoD) grâce au duc Belt ; si vous avez sauvé le duc Eltan dans EET, il vous remettra les clés d'une maison.|Un certain nombre de nouvelles quêtes de nettoyage seront disponibles en fonction des disciples de Sarevok que vous aurez précédemment éliminés. Les quêtes de BG et de TotSC peuvent être terminées après la mort de Sarevok ; ce qui vous permet de contrôler l'ordre des événements.|Vous pourrez également choisir d'équiper Sarevok de son équipement (dont son épée) ou de le laisser dans son inventaire.|Enfin, après avoir vaincu Sarevok, vous recevrez une nouvelle capacité d'Enfant de Bhaal, différente selon votre alignement."
         },
         "notes": [],
@@ -16388,9 +16395,9 @@
     },
     {
         "id": 1126,
-        "description": "这是一个为博德之门：增强版和博德之门Ⅱ：增强版调整的集合，你可以在所提供的链接中找到列表。",
+        "description": "这是一个调整合集，您可以在指定链接中找到其列表。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit d'une collection d'ajustements dont vous trouverez la liste dans le lien indiqué."
         },
         "notes": [],
@@ -16401,16 +16408,17 @@
     },
     {
         "id": 1127,
-        "description": "这个模组旨在防止变形者德鲁伊的自然武器在16小时后消失。",
+        "description": "这个模组旨在避免变形者德鲁伊的天生武器在16小时后消失。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod a pour objectif d'éviter que les armes naturelles du druide métamorphe ne disparaissent après 16 heures."
         },
         "notes": [
-            "使用第一个链接获取博德之门增强版（BGEE）的版本，使用第二个链接获取博德之门Ⅱ增强版（BG2EE）的版本。对于增强版三部曲（EET），请使用博德之门Ⅱ增强版（BG2EE）的版本。|此模组已过时，模组[[1141]]提供了一个可在所有游戏版本上运行的类似组件。"
+            "使用第一个链接获取BGEE版本，使用第二个链接获取BG2EE版本。对于EET，请使用BG2EE版本。",
+            "[[1141]]模组提供了一个类似的组件，适用于游戏的所有版本。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Utilisez le premier lien pour la version BGEE et le second lien pour la version BG2EE. Pour EET, utilisez la version BG2EE.",
                 "Le mod [[1141]] propose un composant similaire qui fonctionne sur toutes les versions du jeu."
@@ -16419,9 +16427,9 @@
     },
     {
         "id": 1128,
-        "description": "这个模组允许你在博德之门Ⅱ：增强版（2.0或更高版本）、龙矛围攻和EET ([[372]])中游玩冰风谷的扩展包“大师的试炼”。要开始任务，与霍巴特·皮耶维尔交谈，你可以在乌马尔山丘旅店（安姆阴影）、阿姆肯瑟兰（巴尔王座）或联盟营地的东南部找到他。在冒险过程中，你将有机会探索一座鬼魂出没的城堡，测试你的勇气，在艰难的战斗中证明自己，并解除一个古老的诅咒。",
+        "description": "这个模组允许在《博德之门II：增强版》、《龙矛围攻》和[[372]]中游玩《冰风谷》的扩展内容《迷诱大师的试炼》。要开启任务，请与半身人霍巴特·皮埃维尔交谈，你可以在乌玛丘陵（《安姆阴影》）、安姆克萨兰（《巴尔王座》）或联军营地东南方（《龙矛围攻》）的酒馆中找到他。在冒险过程中，你将有机会探索一座闹鬼的城堡，考验你的勇气，在艰难的战斗中证明自己，并解除一个古老的诅咒。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod permet de jouer l'extension de Icewind Dale « Les Épreuves du Maître des Leurres » dans BG2:EE, Siege of Dragonspear et [[372]]. Pour initier la quête, parlez au petit-homme Hobart Piévelu, que vous trouverez soit dans l'auberge des Collines d'Umar (SoA), d'Amkethran (ToB) ou au sud est du Camp de la Coalition (SoD). Au cours de l'aventure, vous aurez l'opportunité d'explorer un château hanté, de tester votre courage et de faire vos preuves dans des combats difficiles et de lever une ancienne malédiction."
         },
         "notes": [],
@@ -17314,9 +17322,9 @@
     },
     {
         "id": 1191,
-        "description": "此模组为BG2:ToB提供了一个全新的界面，彻底重塑了游戏几乎所有屏幕。它与[[1216]]、Tutu、BGT和[[1191]]兼容，并为这些模组提供了特定的起始界面。",
+        "description": "这个模组提供了一个全新的界面，几乎完全重塑了游戏的所有画面。它兼容[[1216]]和[[1191]]，并针对这两个模组包含了特定的启动画面。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod propose une nouvelle interface qui remodèle complètement la quasi-totalité des écrans du jeu. Il est compatible avec [[1216]] et [[1191]] pour lesquels il comporte des écrans de début spécifiques."
         },
         "notes": [],
@@ -17327,7 +17335,7 @@
     },
     {
         "id": 1192,
-        "description": "此模组添加了一匹驮马，它会一直跟随你，永不疲倦地运输你的物品。",
+        "description": "此模组添加了一匹驮骡，它会一直跟随你，永不疲倦地运输你的物品。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod ajout une mule de bât qui vous accompagnera partout, transportant vos objets sans jamais défaillir."
@@ -17370,9 +17378,9 @@
     },
     {
         "id": 1195,
-        "description": "此模组在每个游戏中都添加了一个法杖套筒，位于特定商店中：在博德之门（BG:EE）、Tutu、BGT和EET中位于泰蓝提尔（Thalantyr）的店里；在博德之门Ⅱ（BG2）、BG2:EE、BGT和EET中位于里巴尔（Ribald）的店里和萨拉都什（Saradush）的旅店里（仅限ToB）。",
+        "description": "这个模组在每个游戏特定的商店中添加了一个魔杖盒：在泰蓝提尔处、在里巴尔德处，以及在萨拉都什的酒馆里。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute un étui à baguettes dans un magasin spécifique à chaque jeu : chez Thalantyr, chez Ribald et dans la taverne de Saradush."
         },
         "notes": [],
@@ -18666,18 +18674,18 @@
     },
     {
         "id": 1286,
-        "description": "这是一个由BCaesar和Ratatoskr创建的NPC模组集合，这些模组可以独立安装：| - 玛兹的一切：友谊路线、爱情路线、与其他NPC的互动...| - 可招募的克拉拉NPC：从赫克塞特手中救下克拉拉并招募她。| - 黑暗面的阿诺门。| - 明斯克| - 涅拉的爱情线。| - 会飞的艾黎。| - 多恩| - 海尔达利的爱情线| - 贾希拉| - 威尔逊的爱情线| - 为了邪恶！| - 为了善良！| - 以及许多其他小组件...",
+        "description": "这是一系列NPC模组的合集，它们可以彼此独立安装：| - 玛兹的一切（All Things Mazzy）：友谊之路、恋情、与NPC的互动……| - 可保留的克拉拉NPC（Keepable Clara NPC）：从赫克塞特手中救下克拉拉并招募她。| - 暗黑面阿诺门（Darkside Anomen）。| - 明斯克（Minsc）涅拉恋情（Neera Romance）。| - 飞翔的艾黎（Flying Aerie）。| - 多恩（Dorn）海尔达利恋情（HaerDalis Romance）。| - 贾希拉（Jaheira）威尔逊恋情（Wilson Romance）。| - 为了邪恶！（For The Evil!）| - 为了善良！（For The Good!）- 以及许多其他小组件……",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit d'une collection de mods de PNJ qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants..."
         },
         "notes": [
-            "有一个更精简且不含成人内容的版本：[[1806]]。"
+            "有一个以此mod为原型派生出来的专注于队友克拉拉的精修版本：[[1806]]。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Il existe une version plus lite et sans contenu pour adulte : [[1806]]."
+                "Il existe une version complètement remaniée dérivée de ce mod, axée sur la compagnonne Clara : [[1806]]."
             ]
         }
     },
@@ -18808,9 +18816,9 @@
     },
     {
         "id": 1296,
-        "description": "由jastev编写，这个模组是著名Weimer的[[1294]]的替代方案，并与原版《博德之门Ⅱ》（含《巴尔王座》）、《博德之门三部曲》、《博德之门Ⅱ：增强版》和《增强版三部曲》兼容。|在招募他之前，你必须将索劳纷从地精的房间中解救出来。这个任务可以独立于他之后是否加入队伍来游玩。（这不是Weimer的索劳纷NPC模组）。|如果你的队伍已经有6人，索劳纷也可以作为“第七名成员”跟随你。有关这方面的更多细节，请阅读readme文件。",
+        "description": "这个模组是著名的[[1294]]的一个替代品。|在招募索劳芬之前，你必须先把他从蛛化精灵的房间里解救出来。无论他之后是否加入队伍，这个任务都可以独立进行。|如果你的队伍已经满员6人，索劳芬也可以作为“第七名队伍成员”跟随你。更多相关细节，请阅读自述文件。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod est une alternative au célèbre [[1294]].|Avant de pouvoir recruter Solaufein, vous devez le libérer des chambres des driders. Cette quête peut être jouée indépendamment du fait qu'il doive ensuite rejoindre le groupe ou non.|Solaufein peut également vous suivre en tant que « 7e membre du groupe » si votre groupe se compose déjà de 6 personnes. Pour plus de détails à ce sujet, veuillez lire le fichier readme."
         },
         "notes": [],
@@ -19885,10 +19893,11 @@
             "source": "Un programme externe montrant les ennemis les plus proches ainsi que leurs résistances, leurs buffs et les durées restantes. Les vidéos seront plus explicites qu'un long texte."
         },
         "notes": [
-            "要在 SoD 上运行，需要 [[1326]]。"
+                "需要[[1326]]才能在《龙矛围攻》上运行。",
+                "一个兼容Linux的替代方案可在[[1990]]中找到。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Nécessite [[1326]] pour fonctionner sur SoD.",
                 "Une alternative compatible avec Linux est disponible dans [[1990]]."
@@ -20979,9 +20988,11 @@
             "status": "done",
             "source": "Ce mod permet de recharger les baguettes à tout moment soit avec de l'or (moins cher que la vente/achat) soit avec de l'xp. Pour ce faire, faites un clic droit sur la baguette dans l'inventaire et cliquez sur le bouton « Recharge Wand ». Une boîte de dialogue s'ouvrira avec le coût affiché et vous pourrez confirmer."
         },
-        "notes": [],
+        "notes": [
+		        "这个模组已被包含到[[1782]]中。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Ce mod a été inclus dans [[1782]]."
             ]
@@ -21494,9 +21505,11 @@
             "status": "done",
             "source": "Ce mod introduit un nouveau kit pour le voleur. Il est légèrement inspiré du jeu Arcanum : Of Steamworks and Magick Obscura. Les inventeurs sont des voleurs qui se sont consacrés à l'étude des sciences et de l'artisanat. Avec l'expérience, ils peuvent créer et développer des inventions de plus en plus complexes, que l'on peut qualifier de synthétiques et d'avant-gardistes compte tenu des réalités du royaume. Souvent inspirés par les doctrines de Gond, ils peuvent créer de véritables chefs-d'œuvre techniques à partir de tout ce qu'ils rencontrent au cours de leurs voyages. Seuls les gnomes peuvent devenir des inventeurs."
         },
-        "notes": [],
+        "notes": [
+		        "cob版本不再是最新的，但拥有波兰语翻译。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "La version cob n'est plus à jour mais possède la traduction polonaise."
             ]
@@ -21714,9 +21727,9 @@
     },
     {
         "id": 1494,
-        "description": "塞林是一名中立邪恶的精灵游侠，被索丹尼斯拉流放。你可以在阿斯卡特拉城门外的旅店找到他。他的敌对种族是罗刹。他没有语音，且内容仅适用于安姆阴影，尽管他在一个完全打补丁的博德之门II 安姆阴影+巴尔王座安装版上进行了测试。他拥有最少的对话和一个护身符。|力量 18/75, 敏捷 17, 体质 17, 智力 13, 智慧 14, 魅力 10。",
+        "description": "瑟林（Therrin）是一名精灵游侠，阵营中立邪恶，被流放至索丹尼斯拉（Suldanessalar）。可以在阿斯卡特拉（Athkatla）城门区的酒馆找到他。他的宿敌是拉卡莎（rakshasa）。他没有配音，且内容只针对《安姆阴影》（SoA），尽管他是在一个完全打过补丁的《博德之门II》《安姆阴影》+《巴尔王座》安装中测试的。他拥有最低限度的对话和一枚护身符。|力量18/75，敏捷17，体质17，智力13，智慧14，魅力10。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Therrin est un rôdeur elfe d'alignement neutre mauvais, exilé de Suldanessalar. On peut le trouver à l'auberge aux portes de la ville d'Athkatla. Sa race ennemie est le rakshasa. Il n'a pas de voix et n'a de contenu que pour SoA, bien qu'il soit testé sur une installation SoA+ToB entièrement patchée de BG2. Il possède le minimum de dialogue et une amulette.|FOR 18/75, DEX 17, CON 17, INT 13, SAG 14, CHA 10."
         },
         "notes": [],
@@ -23652,9 +23665,9 @@
     },
     {
         "id": 1632,
-        "description": "使所有蛇不再蜿蜒前进，而是径直向前。这有什么用呢？",
+        "description": "让所有蛇不再蜿蜒爬行，而是笔直前进。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Fait que tous les serpents, au lieu d'onduler, avancent tout droit."
         },
         "notes": [
@@ -23794,9 +23807,9 @@
     },
     {
         "id": 1642,
-        "description": "您是否一直梦想让爱蒙成为她一直以来本该成为的刺客？是否想让卡立德实现他作为剑湾海岸口齿不清的恐怖野蛮人的命运？这就是您的机会。EasyTutu NPC宗派选择扩展包允许您为博德之门中大多数可加入的NPC选择宗派（您不必为每个NPC都选择一个宗派——系统会为您询问每一个）。此插件旨在直接替换Tutu常规安装过程中自带的宗派选择功能。",
+        "description": "你长久以来一直梦想着让爱蒙成为她命中注定的刺客吗？想让卡立德实现他作为剑湾令人畏惧的口吃野蛮人的命运吗？你的机会来了。|这个模组允许你为《博德之门》中的大多数可加入NPC选择宗派（你不必为每个NPC都选择一个宗派——系统会为你逐一询问）。这个附加组件旨在直接替换宗派选择功能，该功能原本是Tutu常规安装过程的一部分。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Vous rêvez depuis longtemps de faire d'Imoen l'assassin qu'elle a toujours été censée être ? Voulu que Khalid accomplisse son destin en tant que terrifiant barbare bègue de la Côte des épées ? Voici votre chance.|Ce mod vous permet de sélectionner des kits pour la plupart des PNJ joignables dans Baldur's Gate (vous n'êtes PAS obligé de choisir un kit pour chaque PNJ - on vous demandera de le faire pour chacun d'entre eux). Cet add-on est destiné à remplacer directement la fonction de sélection de kit qui fait partie du processus d'installation conventionnel de Tutu."
         },
         "notes": [],
@@ -24146,10 +24159,10 @@
             "source": "Ce mod corrige et réduit la puissance de certains objets de [[761]]."
         },
         "notes": [
-            "此模组将修改物品的文本转换为波兰语。"
+            "这个模组将已修改物品的文本转换为波兰语。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Ce mod converti le texte des objets modifiés en polonais."
             ]
@@ -25042,9 +25055,9 @@
     },
     {
         "id": 1733,
-        "description": "将此文件复制到override文件夹中，可以为游戏中的五个商人提供无限量的各种药水和/或投射物。",
+        "description": "这个文件需要复制到override文件夹中，它会为游戏中的五名商人提供无限的各种药水和/或弹药。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce fichier à copier dans l'override donne un stock illimité de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu."
         },
         "notes": [],
@@ -25746,9 +25759,9 @@
     },
     {
         "id": 1782,
-        "description": "此模组添加了许多自制的小改动。它还增加了两个宗派：灰色卫士圣武士和投机吟游诗人。更多信息请参阅 [readme](https://www.nexusmods.com/baldursgate2ee/articles/8)。",
+        "description": "这个模组添加了许多自制调整。它还添加了三个宗派：灰色卫士圣武士、匕首大师盗贼和投机者吟游诗人。更多信息请查阅[自述文件](https://www.nexusmods.com/baldursgate2ee/articles/9)。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute de nombreux tweaks faits maison. Il ajoute également trois kits : le Grey Guard Paladin, le Knife Master Thief et le Chancer Bard. Consultez le [readme](https://www.nexusmods.com/baldursgate2ee/articles/9) pour plus d'informations."
         },
         "notes": [],
@@ -28439,14 +28452,16 @@
     },
     {
         "id": 1980,
-        "description": "",
+        "description": "为游戏中的每个角色施加永久性的石肤术，这使得游戏玩法相当怪异并且……有趣，因为它让大部分武器和大量法术都变得毫无用处。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles."
         },
-        "notes": [],
+        "notes": [
+			"包含在同一个作者的[[64]]中。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Inclus dans [[64]] du même auteur."
             ]
@@ -28454,9 +28469,9 @@
     },
     {
         "id": 1981,
-        "description": "",
+        "description": "一种新的字体用于对话和浮动文本等，截图可查看[此处](https://www.shsforums.net/topic/56710-bigger-fonts-for-baldurs-gate/)。提供16、18和20像素大小。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Une nouvelle police d'écriture pour les dialogues et le texte flottant notamment, des screens sont disponibles [ici](https://www.shsforums.net/topic/56710-bigger-fonts-for-baldurs-gate/). Disponible en 16, 18 et 20px."
         },
         "notes": [],
@@ -28467,9 +28482,9 @@
     },
     {
         "id": 1982,
-        "description": "",
+        "description": "一个简单的兑换所模组，或者更确切地说是银行模组。在博德之门（BG1115）西南部的一所房子里，有一个兑换商，他会收取交易费，将您的金币兑换成银行票据。然后您会在阿斯卡特拉商贸集市的某个房间里找到另一个分行。他可以兑换银行票据为金币，并提供有限的投资选项。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Un mod simple de maison de change, ou plutôt de banque. Au sud-ouest de Baldur's Gate (BG1115), dans une maison, se trouve un changeur qui vous propose de convertir vos pièces d'or en billets de caisse, moyennant des frais de transaction. Vous trouverez ensuite une autre succursale dans une pièce du centre commercial d'Ascatra. Il peut échanger les billets de banque contre des pièces d'or et vous proposer des options d'investissement limitées."
         },
         "notes": [],
@@ -28480,9 +28495,9 @@
     },
     {
         "id": 1983,
-        "description": "",
+        "description": "这个模组是对游戏基础职业的一系列改进。目标是增强游戏中那些内置但相对较弱的职业，但更重要的是丰富其内容并提高其可玩性，从而使玩法多样化。目前，该模组修改了小丑、法师杀手和驯兽师。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod est un ensemble d'améliorations apportées aux classes de base du jeu. L'objectif est de renforcer, dans une certaine mesure, les classes intégrées au jeu mais relativement peu puissantes, mais surtout d'en enrichir le contenu et d'en accroître la jouabilité afin de diversifier le gameplay. Actuellement, le mod modifie le Bouffon, le Tueur de Magiciens et le Belluaire."
         },
         "notes": [],
@@ -28493,9 +28508,9 @@
     },
     {
         "id": 1984,
-        "description": "",
+        "description": "凯尔特诗人放弃了吟游诗人中常见的扒窃技能。他们只能施展数量有限的法术，但他们的音乐和歌声却充满了魔力：他们可以激励同伴、迷倒听众，或者通过声音来反制法术。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Les poètes celtiques ont renoncé à la compétence de vol à la tire, si courante chez les bardes. Ils ne peuvent lancer qu'un nombre limité de sorts, mais leur musique et leurs chants sont empreints de magie : ils peuvent inspirer leurs compagnons, envoûter leur public ou contrer les sorts lancés par la voix."
         },
         "notes": [],
@@ -28506,9 +28521,9 @@
     },
     {
         "id": 1985,
-        "description": "",
+        "description": "这个模组对角色四种战斗风格（单手、双手、持盾、双持）进行了平衡调整。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod rééquilibre les quatres styles de combat (à une main, deux mains, avec bouclier, deux armes) des personnages."
         },
         "notes": [],
@@ -28519,14 +28534,16 @@
     },
     {
         "id": 1986,
-        "description": "",
+        "description": "这个模组创意添加两个来自《星球大战》宇宙的非常完整的宗派：绝地和西斯。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose d'ajouter deux kits très complets issus de l'univers de Star Wars : le Jedi et le Sith."
         },
-        "notes": [],
+        "notes": [
+		        "这些宗派很强大，建议与增加难度的模组搭配使用。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Ces kits sont puissants, il est conseillé de les coupler avec des mods augmentant la difficulté."
             ]
@@ -28534,9 +28551,9 @@
     },
     {
         "id": 1987,
-        "description": "",
+        "description": "这个模组为战士、圣武士、萨满和盗贼职业添加了新的宗派。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute de nouveaux kits pour les classes de Guerrier, de Paladin, de Shaman et de Voleur."
         },
         "notes": [],
@@ -28547,9 +28564,9 @@
     },
     {
         "id": 1988,
-        "description": "",
+        "description": "这个模组为法术提供了独特的动画效果。针对防护武器类法术，以及若干种攻击性法术，尤其是那些造成毒素伤害的法术。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose des animations uniques des sorts. Pour les sorts protégeant contre les armes, ainsi que plusieurs sorts offensifs notamment aux effets qui infligent du poison."
         },
         "notes": [],
@@ -28560,14 +28577,16 @@
     },
     {
         "id": 1989,
-        "description": "",
+        "description": "这是一个会覆盖对话和某些声音的模组。风险自负。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ceci est un mod qui écrase les dialogues et certains sons. À vos risques et périls."
         },
-        "notes": [],
+        "notes": [
+				"它会覆盖 dialog.tlk 文件，且是英文版本。."
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il écrase le dialog.tlk, en anglais."
             ]
@@ -28575,14 +28594,16 @@
     },
     {
         "id": 1990,
-        "description": "",
+        "description": "BGPartner 在用户选择的生物上显示叠加层，详细列出它们的属性和主动效果。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "BGPartner affiche des superpositions sur les créatures sélectionnées par l'utilisateur, détaillant leurs caractéristiques et leurs effets actifs."
         },
-        "notes": [],
+        "notes": [
+		        "这个模组是 [[1369]] 的替代品。它兼容 Windows 和 Linux。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Ce mod est une alternative à [[1369]]. Il est compatible avec Windows et Linux."
             ]
@@ -28590,9 +28611,9 @@
     },
     {
         "id": 1991,
-        "description": "",
+        "description": "这个模组为波兰语版本提供文本修正。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose des correctifs de texte pour la version polonaise."
         },
         "notes": [],
@@ -28603,9 +28624,9 @@
     },
     {
         "id": 1992,
-        "description": "",
+        "description": "苦行僧是一个神秘战士兄弟会的成员。由于他们过着苦修生活，因此获得了额外的力量。他们的战斗风格依赖于进攻性的旋转动作，并且几乎总是双持武器。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Les derviches sont les membres d'une confrérie mystique de guerriers sacrés. Grâce à l'ascèse dans laquelle ils vivent, ils acquièrent des pouvoirs supplémentaires. Leur style de combat repose sur des pirouettes offensives et presque toujours sur le maniement de deux armes."
         },
         "notes": [],
@@ -28616,9 +28637,9 @@
     },
     {
         "id": 1993,
-        "description": "",
+        "description": "沉默苦修者。这个武僧宗派拥有让对手沉默的天赋。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ascète silencieux. Ce kit de moine possède le don de rendre silencieux ses adversaires."
         },
         "notes": [],
@@ -28629,9 +28650,9 @@
     },
     {
         "id": 1994,
-        "description": "",
+        "description": "多神论者并非信仰众多神祇的牧师，而是崇拜两位或（最多且最常见的是）三位神祇。近代的“多神论”传统源于三位一体——即海姆、提尔和托姆之间的联盟。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Les polythéistes ne sont pas des clercs qui croient en de nombreux dieux, mais qui en vénèrent deux ou (au maximum et le plus souvent) trois. La tradition récente du « polythéisme » trouve son origine dans la trinité – l’alliance entre Helm, Tyr et Torm."
         },
         "notes": [],
@@ -28642,9 +28663,9 @@
     },
     {
         "id": 1995,
-        "description": "",
+        "description": "这个游侠宗派拥有变身为狼的能力。这种变身会随着等级提升而增强。在高等级时，他可以变身为狼人，甚至更强大的形态。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce kit de rôdeur possède la capacité de se métamorphoser en loup. La transformation pogresse de niveau en niveau. À haut niveau il peut se transformer en loup-garou et même plus."
         },
         "notes": [],
@@ -28655,9 +28676,9 @@
     },
     {
         "id": 1996,
-        "description": "",
+        "description": "这个模组在乌玛丘陵增加了一个任务。一个新的教派出现了，必须潜入其中。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute une quête dans les collines d'Umar. Une nouvelle secte a fait son apparition et il faut s'y infiltrer."
         },
         "notes": [],
@@ -28681,14 +28702,16 @@
     },
     {
         "id": 1998,
-        "description": "",
+        "description": "这个补丁是必要的，用于防止桑德拉的个人物品在《博德之门1》游戏开始时过于强大。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute des dialogues aléatoires à certains endroits du jeu qui où ils paraissent manquer."
         },
-        "notes": [],
+        "notes": [
+		        "目前，它在《巴尔王座》中与葛立安的幽灵战斗后，增加了一段与爱蒙的内省对话。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Actuellement, il rajoute un dialogue introspectif avec Imoen dans ToB après avoir affronté le spectre de Gorion."
             ]
@@ -28696,9 +28719,9 @@
     },
     {
         "id": 1999,
-        "description": "",
+        "description": "这个模组在乌玛丘陵增加了与任务相关的物品。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute des objets liés à la quête dans les collines d'Umar."
         },
         "notes": [],
@@ -28709,14 +28732,16 @@
     },
     {
         "id": 2000,
-        "description": "",
+        "description": "这个模组添加了一些召唤物品。它包括原创生物动画，呈现了三个新矮人、一个骷髅和一个海军陆战队员。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute quelques objets d'invocation. Il comprend des animations de créatures originales mettant en scène trois nouveaux nains, un squelette et un marine."
         },
-        "notes": [],
+        "notes": [
+		        "这个模组包含.tbg格式的物品。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Ce mod contient des objets au format .tbg"
             ]
@@ -28724,14 +28749,16 @@
     },
     {
         "id": 2001,
-        "description": "",
+        "description": "让队伍中的某个角色无缘无故地变成一只鸡。一个不错的愚人节玩笑。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Fait en sorte qu'un personnage du groupe se transforme, sans raison apparente, en poulet. Une bonne blague du 1er avril."
         },
-        "notes": [],
+        "notes": [
+		        "覆盖 Baldur.bcs。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Écrase Baldur.bcs"
             ]
@@ -28752,14 +28779,16 @@
     },
     {
         "id": 2003,
-        "description": "",
+        "description": "一种全新的方式来处理第7章地狱中的每项试炼！现在，每项试炼都有一条中立路线可遵循，并会带来不同的奖励。有时，这条中立路线更接近原本的邪恶路线，有时则更接近善良路线，而有时，它又与两者截然不同。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Une nouvelle façon d'aborder chacune des épreuves des Enfers du chapitre 7 ! Pour chacune d'entre elles, il existe désormais une voie neutre à suivre, qui donne lieu à une récompense différente. Parfois, cette voie neutre se rapproche davantage de la voie mauvaise d'origine, parfois de la voie bonne, et parfois encore, elle est complètement différente des deux."
         },
-        "notes": [],
+        "notes": [
+		        "这个模组已被包含在[[845]]中。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Ce mod a été inclus dans [[845]]."
             ]
@@ -28767,14 +28796,16 @@
     },
     {
         "id": 2004,
-        "description": "",
+        "description": "这个模组提供了两个强大的戒指，可供牧师和德鲁伊使用。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose deux puissants anneaux utilisables par les clercs et les druides."
         },
-        "notes": [],
+        "notes": [
+		        "它们需要通过控制台创建：`RGBB01` 和 `RGBB02`。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Ils sont à créer à la console : `RGBB01` et `RGBB02`."
             ]
@@ -28782,9 +28813,9 @@
     },
     {
         "id": 2005,
-        "description": "",
+        "description": "这个模组忠实于《博德之门》原版，在游戏中的各种对话里为玩家角色提供了更多的回应选项。在某些原版游戏没有给出合理回答的对话中，该模组添加了新的对白。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod est un mod fidèle à la version originale de Baldur's Gate qui offre aux personnages des joueurs davantage de possibilités de réponse dans diverses conversations tout au long du jeu. De nouvelles répliques sont ajoutées à certains dialogues où le jeu original ne proposait pas de réponses plausibles."
         },
         "notes": [],
@@ -28795,9 +28826,9 @@
     },
     {
         "id": 2006,
-        "description": "",
+        "description": "这个模组为牧师和法师（术士除外）建立了一个法力值系统。如果角色没有足够的法力值，就无法施展法术。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod instaure un système de mana pour les clercs et les mages (exceptés les sorciers). Si le personnage ne dispose pas d'assez de mana, le lancement du sort devient impossible."
         },
         "notes": [],
@@ -28808,9 +28839,9 @@
     },
     {
         "id": 2007,
-        "description": "",
+        "description": "这个模组是比[[87]]更强大且更早的版本。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod est une version plus puissante et antérieure à [[87]]."
         },
         "notes": [],
@@ -28821,9 +28852,9 @@
     },
     {
         "id": 2008,
-        "description": "",
+        "description": "这个模组旨在改进《博德之门》序章中葛立安的死亡场面。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod vise à améliorer la séquence de mort de Gorion dans le prologue de Baldur's Gate."
         },
         "notes": [],

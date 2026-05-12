@@ -17865,11 +17865,13 @@
             "status": "todo",
             "source": "Il s'agit d'une collection de mods de PNJ qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants..."
         },
-        "notes": [],
+        "notes": [
+                "Istnieje całkowicie przerobiona wersja wywodząca się z tego moda, skupiająca się na towarzyszce Clara: [[1806]]."
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
-                "Il existe une version plus lite et sans contenu pour adulte : [[1806]]."
+                "Il existe une version complètement remaniée dérivée de ce mod, axée sur la compagnonne Clara : [[1806]]."
             ]
         }
     },
