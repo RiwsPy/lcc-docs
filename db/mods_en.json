@@ -16494,10 +16494,14 @@
             "status": "needs_review",
             "source": "Uldar est un barbare demi-orque qui peut rejoindre votre groupe. On le trouve à la Couronne de Cuivre. Dans ToB, on peut l'invoquer dans l'antichambre. Le mod n'a aucune romance, mais fournit beaucoup de dialogues et d'interactions, presque toujours avec plusieurs options de réponse."
         },
-        "notes": [],
+        "notes": [
+            "There is an unofficial port for EE with an English version [here](https://github.com/PaulaMigrate/Uldar)."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Il existe un portage sur EE non officiel avec une version anglaise [ici](https://github.com/PaulaMigrate/Uldar)."
+            ]
         }
     },
     {
@@ -28587,6 +28591,99 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 2009,
+        "description": "This mod adds Aribeth as a recruitable character after [[1526]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute Aribeth comme personnage recrutable après [[1526]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2010,
+        "description": "A mod that standardises certain terms in Russian translations.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Mod qui permet d'uniformiser certains termes dans les traductions russes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2011,
+        "description": "Aerie appears at the Nashkel Carnival in BG1 as a younger, more traumatized version of herself. She's been with the carnival for a short time -- recently sold to the carnival master by the slavers who clipped her wings. She's kept in a cage as a 'winged elf' exhibit, though her wings are now just scarred stumps hidden under a shawl.",
+        "description_meta": {
+            "status": "done",
+            "source": "Dans BG1, Aerie apparaît au Festival de Nashkel sous les traits d'une version plus jeune et plus traumatisée d'elle-même. Elle fait partie de la fête foraine depuis peu : elle a récemment été vendue au forain par les esclavagistes qui lui ont coupé les ailes. Elle est enfermée dans une cage où elle est présentée comme une « elfe ailée », bien que ses ailes ne soient plus que des moignons balafrés, dissimulés sous un châle."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2012,
+        "description": "Protagonist can die without game over if party lives. However, if the party dies, all the character’s saves will be deleted!",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Le personnage principal peut mourir sans que le jeu ne se termine si le reste du groupe survit. En revanche, si le groupe meurt, toutes les sauvegardes du personnage sont supprimées !"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2013,
+        "description": "Violet is an AI from another reality that manifests itself as a purple Deva in Faerûn. She is an NPC who appears at key moments in the story and possesses cyber-tech gifts.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Violet est une IA issue d'une autre réalité qui se manifeste sous la forme d'un deva violette à Féérune. C'est un PNJ qui apparaît à des moments clés de l'histoire, elle est dotée de pouvoirs cybertechnologiques."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2014,
+        "description": "This mod is probably the biggest visual overhaul of the game since it was released. It reinstates the extended night areas that are missing from all main areas except Baldur's Gate. Now, when you open doors at night they show light from inside the building. Buildings actually have windows that are lit up.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod constitue sans doute la plus importante refonte visuelle du jeu depuis sa sortie. Il rétablit les zones de nuit étendues qui manquaient dans toutes les zones principales, à l'exception de Baldur's Gate. Désormais, lorsque vous ouvrez des portes la nuit, la lumière provenant de l'intérieur du bâtiment est visible. Les bâtiments possèdent désormais des fenêtres éclairées."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2015,
+        "description": "This mod adds a copy of the base Druid class as a new Cleric kit, in order to let the player dual class from Druid into Mage or else, in addition to adding player scripts a la [[722]] mod that lets players choose Druid as an option for their Cleric multiclasses. Fighter dual and multi-classes remain an exception, the player should use the vanilla versions of those instead.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute une copie de la classe de base « Druide » sous la forme d'un nouveau kit de Clerc, afin de permettre au joueur d'opter pour une double classe entre Druide et Mage ou autre. Il intègre également des scripts de joueur, à l'instar du mod [[722]], qui permettent aux joueurs de choisir le Druide comme option pour leurs multiclasses de Clerc. Les doubles et multiclasses de Guerrier font exception : le joueur doit utiliser les versions d'origine de ces classes à la place."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Pour les versions EE, optez pour [[396]] ou [[1338]]."
+            ]
         }
     }
 ]

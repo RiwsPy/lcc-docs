@@ -2957,7 +2957,8 @@
         "name": "Auror Kit for the Ranger Class",
         "description": "Ce mod ajoute une archère unique avec une habilité exceptionnelle de contrôle de la glace et de l'hiver.",
         "urls": [
-            "https://www.shsforums.net/files/file/687-auror-kit-for-the-ranger-class/"
+            "https://www.shsforums.net/files/file/687-auror-kit-for-the-ranger-class/",
+            "https://github.com/11jo/A4Auror"
         ],
         "categories": [
             "Kit"
@@ -2978,7 +2979,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2017-08",
+        "last_update": "2022-07",
         "compatibilities": {},
         "tp2": "A4Auror"
     },
@@ -32296,7 +32297,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2026-05",
         "compatibilities": {
             "requires": [
                 "ToB"
@@ -38311,7 +38312,9 @@
             "Sergiond"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il existe un portage sur EE non officiel avec une version anglaise [ici](https://github.com/PaulaMigrate/Uldar)."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -42479,7 +42482,11 @@
         "languages": [],
         "status": "active",
         "last_update": "2020-04",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                2012
+            ]
+        },
         "tp2": "Protagonist_Can_Die"
     },
     {
@@ -65454,5 +65461,225 @@
         "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "GorionLastStand"
+    },
+    {
+        "id": 2009,
+        "name": "NWN Aribeth",
+        "description": "Ce mod ajoute Aribeth comme personnage recrutable après [[1526]].",
+        "urls": [
+            "https://github.com/abalabokhin/NWNAribeth"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "LawfulStupid"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-04",
+        "compatibilities": {
+            "requires": [
+                "ToB",
+                1526
+            ]
+        },
+        "tp2": "NWNAribeth"
+    },
+    {
+        "id": 2010,
+        "name": "Change russian eet terms",
+        "description": "Mod qui permet d'uniformiser certains termes dans les traductions russes.",
+        "urls": [
+            "https://github.com/abalabokhin/change_russian_eet_terms"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "p_zombie",
+            "paladin84",
+            "klichko86"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2025-10",
+        "compatibilities": {},
+        "tp2": "change_russian_eet_terms"
+    },
+    {
+        "id": 2011,
+        "name": "I Remember You -- Aerie for BG1",
+        "description": "Dans BG1, Aerie apparaît au Festival de Nashkel sous les traits d'une version plus jeune et plus traumatisée d'elle-même. Elle fait partie de la fête foraine depuis peu : elle a récemment été vendue au forain par les esclavagistes qui lui ont coupé les ailes. Elle est enfermée dans une cage où elle est présentée comme une « elfe ailée », bien que ses ailes ne soient plus que des moignons balafrés, dissimulés sous un châle.",
+        "urls": [
+            "https://github.com/AaronKummer/bg-i-remember-you"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Aaron"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-04",
+        "compatibilities": {},
+        "tp2": "irememberyou"
+    },
+    {
+        "id": 2012,
+        "name": "Total Party Kill",
+        "description": "Le personnage principal peut mourir sans que le jeu ne se termine si le reste du groupe survit. En revanche, si le groupe meurt, toutes les sauvegardes du personnage sont supprimées !",
+        "urls": [
+            "https://github.com/AaronKummer/bg-permadeath"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Aaron"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2026-04",
+        "compatibilities": {
+            "incompatible_with": [
+                1272
+            ]
+        },
+        "tp2": "permadeath"
+    },
+    {
+        "id": 2013,
+        "name": "Violet",
+        "description": "Violet est une IA issue d'une autre réalité qui se manifeste sous la forme d'un deva violette à Féérune. C'est un PNJ qui apparaît à des moments clés de l'histoire, elle est dotée de pouvoirs cybertechnologiques.",
+        "urls": [
+            "https://github.com/AaronKummer/bg-violet-npc"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Aaron"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-04",
+        "compatibilities": {},
+        "tp2": "violet"
+    },
+    {
+        "id": 2014,
+        "name": "Icewind Dale Graphical Overhaul",
+        "description": "Ce mod constitue sans doute la plus importante refonte visuelle du jeu depuis sa sortie. Il rétablit les zones de nuit étendues qui manquaient dans toutes les zones principales, à l'exception de Baldur's Gate. Désormais, lorsque vous ouvrez des portes la nuit, la lumière provenant de l'intérieur du bâtiment est visible. Les bâtiments possèdent désormais des fenêtres éclairées.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/36946-baldurs-gate-graphical-overhaul-bggo-for-eet-bgt-tutu-bgee/",
+            "https://github.com/Spellhold-Studios/Icewind-Dale-Graphical-Overhaul"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "IWD",
+            "IWD2",
+            "IWDEE"
+        ],
+        "authors": [
+            "Yovaneth",
+            "Weigo"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-03",
+        "compatibilities": {},
+        "tp2": "iwdgo"
+    },
+    {
+        "id": 2015,
+        "name": "Multi and dual-class options for Druids",
+        "description": "Ce mod ajoute une copie de la classe de base « Druide » sous la forme d'un nouveau kit de Clerc, afin de permettre au joueur d'opter pour une double classe entre Druide et Mage ou autre. Il intègre également des scripts de joueur, à l'instar du mod [[722]], qui permettent aux joueurs de choisir le Druide comme option pour leurs multiclasses de Clerc. Les doubles et multiclasses de Guerrier font exception : le joueur doit utiliser les versions d'origine de ces classes à la place.",
+        "urls": [
+            "https://github.com/CrevsDaak/c7-multidruids"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Crevs Daak"
+        ],
+        "team": [],
+        "notes": [
+            "Pour les versions EE, optez pour [[396]] ou [[1338]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-02",
+        "compatibilities": {
+            "requires": [
+                "ToB",
+                117,
+                1111
+            ]
+        },
+        "tp2": "c7-multidruids"
     }
 ]

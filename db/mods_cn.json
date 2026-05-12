@@ -16662,8 +16662,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Il existe un portage sur EE non officiel avec une version anglaise [ici](https://github.com/PaulaMigrate/Uldar)."
+            ]
         }
     },
     {
@@ -28855,6 +28857,99 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 2009,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute Aribeth comme personnage recrutable après [[1526]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2010,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Mod qui permet d'uniformiser certains termes dans les traductions russes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2011,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Dans BG1, Aerie apparaît au Festival de Nashkel sous les traits d'une version plus jeune et plus traumatisée d'elle-même. Elle fait partie de la fête foraine depuis peu : elle a récemment été vendue au forain par les esclavagistes qui lui ont coupé les ailes. Elle est enfermée dans une cage où elle est présentée comme une « elfe ailée », bien que ses ailes ne soient plus que des moignons balafrés, dissimulés sous un châle."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2012,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Le personnage principal peut mourir sans que le jeu ne se termine si le reste du groupe survit. En revanche, si le groupe meurt, toutes les sauvegardes du personnage sont supprimées !"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2013,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Violet est une IA issue d'une autre réalité qui se manifeste sous la forme d'un deva violette à Féérune. C'est un PNJ qui apparaît à des moments clés de l'histoire, elle est dotée de pouvoirs cybertechnologiques."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2014,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod constitue sans doute la plus importante refonte visuelle du jeu depuis sa sortie. Il rétablit les zones de nuit étendues qui manquaient dans toutes les zones principales, à l'exception de Baldur's Gate. Désormais, lorsque vous ouvrez des portes la nuit, la lumière provenant de l'intérieur du bâtiment est visible. Les bâtiments possèdent désormais des fenêtres éclairées."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2015,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute une copie de la classe de base « Druide » sous la forme d'un nouveau kit de Clerc, afin de permettre au joueur d'opter pour une double classe entre Druide et Mage ou autre. Il intègre également des scripts de joueur, à l'instar du mod [[722]], qui permettent aux joueurs de choisir le Druide comme option pour leurs multiclasses de Clerc. Les doubles et multiclasses de Guerrier font exception : le joueur doit utiliser les versions d'origine de ces classes à la place."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Pour les versions EE, optez pour [[396]] ou [[1338]]."
+            ]
         }
     }
 ]
