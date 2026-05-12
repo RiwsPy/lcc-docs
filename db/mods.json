@@ -59607,7 +59607,7 @@
         "name": "Voces y sonidos",
         "description": "Ce mod contient plusieurs séries de voix (en espagnol) pour le personnage principal.",
         "urls": [
-            "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/sonidos"
+            "https://github.com/The-Gate-Project/Clan_DLAN/tree/main/Clan_DLAN/BG_TOTSC-Sonidos"
         ],
         "categories": [
             "Portrait et son"
@@ -59627,7 +59627,7 @@
         "languages": [
             "es"
         ],
-        "status": "missing",
+        "status": "active",
         "last_update": "2007-09",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -59750,8 +59750,7 @@
         "name": "Vendedor DLAN",
         "description": "Ce mod ajoute le marchand Eman Rahc dans la promenade de Waukyne. Vous le retrouverez également à Saradush. Il vend de nombreux objets créés par le clan DLAN.",
         "urls": [
-            "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/vendor",
-            "https://www.shsforums.net/topic/55277-translations-into-english-for-various-mods/page-14#post_id_588218"
+            "https://github.com/The-Gate-Project/Clan_DLAN/tree/main/Clan_DLAN/Vendedor"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -59765,14 +59764,14 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "es"
         ],
-        "status": "missing",
-        "last_update": "2010-01",
+        "status": "active",
+        "last_update": "2009-05",
         "compatibilities": {},
-        "tp2": "BHBMOD01"
+        "tp2": "Vendedor_DLAN"
     },
     {
         "id": 1826,
