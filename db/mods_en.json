@@ -4018,10 +4018,10 @@
     },
     {
         "id": 279,
-        "description": "This little mod adds a pack of 11 weapons inspired by FromSoft's Dark Souls trilogy, plus 4 more. These can be purchased at various in-game shops. Some are balanced, others have very extreme advantages and disadvantages that set them apart from the base game weapons.",
+        "description": "This mod adds a pack of 15 weapons many of them loosely based on weapons from FromSoft's Souls games. All items are purchased from various sellers. Some are balanced, others have very extreme advantages and disadvantages that set them apart from the base game weapons.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce petit mod ajoute un pack de 11 armes inspirées de la trilogie Dark Souls de FromSoft, plus 4 autres. Vous pourrez les acheter dans diverses échoppes du jeu. Certaines sont équilibrées, d'autres disposent d'avantages et d'inconvénients très extrêmes qui les distinguent des armes des jeux de base."
+            "source": "Ce mod ajoute un pack de 15 armes dont beaucoup s'inspirent librement des jeux Dark Souls de FromSoft. Vous pourrez les acheter dans diverses échoppes du jeu. Certaines sont équilibrées, d'autres disposent d'avantages et d'inconvénients très extrêmes qui les distinguent des armes des jeux de base."
         },
         "notes": [],
         "notes_meta": {
@@ -4106,13 +4106,11 @@
             "source": "Une puissante organisation, dénommée `La Section`, vous pourchasse pour des raisons connues d'elle-seule. Ils ne reculeront devant rien pour parvenir à leurs fins. Ils disposent de nombreux agents et d'associés influents à travers Féérune. Stoppez leurs leaders pour le bien de la Côte des Épées.|Ce mod ajoute une large quête, 3 nouveaux PNJ disposant de quelques quêtes personnelles, plusieurs rencontres (hostiles ou non) et quêtes secondaires, des magasins et de nouvelles zones à explorer. Les anciens mods [[1515]] et [[102]] font désormais partie de Dark Horizons."
         },
         "notes": [
-            "Please note: there are several versions of the mod specific to your game: BG+TotSC, Tutu, BGT and BG:EE. Choose the one that suits you best, and TotSC is required in all cases.",
             "Choose the github link for the EE version."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : il existe plusieurs versions du mod spécifiques à votre jeu : BG+TotSC, Tutu, BGT et BG:EE. Choisissez celle qui vous convient, et TotSC est requis dans tous les cas.",
                 "Choisissez le lien github pour la version EE."
             ]
         }
@@ -16018,14 +16016,10 @@
             "status": "needs_review",
             "source": "Throne of Bhaal Extender est un outil de type patch qui corrige des bugs du moteur de jeu de BG2, et permet de corriger ou de remplacer certains mécanismes du jeu. Son utilisation est réservée aux plus aguerris, rompus aux arcanes des méga-installs et pointilleux lecteurs de Readme."
         },
-        "notes": [
-            "Baldur's Gate II: Throne of Bhaal version 26498 is required."
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Baldur's Gate II: Throne of Bhaal version 26498 est requise."
-            ]
+            "source": []
         }
     },
     {

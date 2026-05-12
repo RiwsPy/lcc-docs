@@ -3858,7 +3858,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce petit mod ajoute un pack de 11 armes inspirées de la trilogie Dark Souls de FromSoft, plus 4 autres. Vous pourrez les acheter dans diverses échoppes du jeu. Certaines sont équilibrées, d'autres disposent d'avantages et d'inconvénients très extrêmes qui les distinguent des armes des jeux de base."
+            "source": "Ce mod ajoute un pack de 15 armes dont beaucoup s'inspirent librement des jeux Dark Souls de FromSoft. Vous pourrez les acheter dans diverses échoppes du jeu. Certaines sont équilibrées, d'autres disposent d'avantages et d'inconvénients très extrêmes qui les distinguent des armes des jeux de base."
         },
         "notes": [],
         "notes_meta": {
@@ -3944,7 +3944,6 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Attention : il existe plusieurs versions du mod spécifiques à votre jeu : BG+TotSC, Tutu, BGT et BG:EE. Choisissez celle qui vous convient, et TotSC est requis dans tous les cas.",
                 "Choisissez le lien github pour la version EE."
             ]
         }
@@ -15447,10 +15446,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Baldur's Gate II: Throne of Bhaal version 26498 est requise."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -17866,8 +17863,8 @@
             "source": "Il s'agit d'une collection de mods de PNJ qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants..."
         },
         "notes": [
-                "Istnieje całkowicie przerobiona wersja wywodząca się z tego moda, skupiająca się na towarzyszce Clara: [[1806]]."
-		],
+            "Istnieje całkowicie przerobiona wersja wywodząca się z tego moda, skupiająca się na towarzyszce Clara: [[1806]]."
+        ],
         "notes_meta": {
             "status": "needs_review",
             "source": [

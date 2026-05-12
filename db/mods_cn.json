@@ -2059,8 +2059,8 @@
             "source": "Ce mod contient deux mini mods. Le premier fournissait un script d'attaque sournoise pour Tutu et le second dotait les kobolds d'armes de mêlée choisies aléatoirement dans la liste d'armes prévues par le Manuel des monstres dans BG2."
         },
         "notes": [
-			"Backstab Script 可见 [ici](https://www.shsforums.net/topic/44345-backstab-script/)."
-		],
+            "Backstab Script 可见 [ici](https://www.shsforums.net/topic/44345-backstab-script/)."
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -3598,9 +3598,9 @@
             "source": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires."
         },
         "notes": [
-		        "这个模组会覆盖 HPCLASS.2da 和 HPCONBON.2da 文件。",
-                "[[1279]]的一个组件做了同样的事情，请优先使用后者。"
-		],
+            "这个模组会覆盖 HPCLASS.2da 和 HPCONBON.2da 文件。",
+            "[[1279]]的一个组件做了同样的事情，请优先使用后者。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -4070,8 +4070,8 @@
         "id": 279,
         "description": "这个小型模组添加了11款受FromSoft《黑暗之魂》三部曲启发的武器，外加另外4款。你可以在游戏中的 various 商店里买到它们。一些是平衡的，另一些则拥有极其极端的优缺点，使其与基础游戏中的武器区分开来。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce petit mod ajoute un pack de 11 armes inspirées de la trilogie Dark Souls de FromSoft, plus 4 autres. Vous pourrez les acheter dans diverses échoppes du jeu. Certaines sont équilibrées, d'autres disposent d'avantages et d'inconvénients très extrêmes qui les distinguent des armes des jeux de base."
+            "status": "needs_review",
+            "source": "Ce mod ajoute un pack de 15 armes dont beaucoup s'inspirent librement des jeux Dark Souls de FromSoft. Vous pourrez les acheter dans diverses échoppes du jeu. Certaines sont équilibrées, d'autres disposent d'avantages et d'inconvénients très extrêmes qui les distinguent des armes des jeux de base."
         },
         "notes": [],
         "notes_meta": {
@@ -4159,13 +4159,11 @@
             "source": "Une puissante organisation, dénommée `La Section`, vous pourchasse pour des raisons connues d'elle-seule. Ils ne reculeront devant rien pour parvenir à leurs fins. Ils disposent de nombreux agents et d'associés influents à travers Féérune. Stoppez leurs leaders pour le bien de la Côte des Épées.|Ce mod ajoute une large quête, 3 nouveaux PNJ disposant de quelques quêtes personnelles, plusieurs rencontres (hostiles ou non) et quêtes secondaires, des magasins et de nouvelles zones à explorer. Les anciens mods [[1515]] et [[102]] font désormais partie de Dark Horizons."
         },
         "notes": [
-            "注意：针对您的游戏有多个特定版本的mod：BG+TotSC、Tutu、BGT和BG:EE。请选择适合您的版本，并且无论如何都需要TotSC。",
             "请选择用于EE版本的github链接。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Attention : il existe plusieurs versions du mod spécifiques à votre jeu : BG+TotSC, Tutu, BGT et BG:EE. Choisissez celle qui vous convient, et TotSC est requis dans tous les cas.",
                 "Choisissez le lien github pour la version EE."
             ]
         }
@@ -13983,8 +13981,8 @@
             "source": "Vous souvenez-vous de Skie, la fille riche et gâtée d'Entar Écudargent ? Cette voleuse humaine neutre est désormais disponible en tant que PNJ recrutable dans BG2.|Le mod propose de nouvelles interactions et conversations avec Charname, son jeu de sons original de la première partie de la saga, ainsi que des portraits alternatifs en option. Skie peut commencer une romance avec le personnage principal - il doit s'agir d'un elfe, d'un humain, d'un demi-elfe ou d'un tieffelin. De nouveaux objets ont été ajoutés, des anciens modifiés, tous les scripts ont été réécrits et un troisième épilogue a été ajouté. La recherche d'objets a été facilitée et est désormais liée à une petite quête romantique.|FOR 11, DEX 18, CON 15, INT 15, SAG 8, CHA 13."
         },
         "notes": [
-			"0.5.1版本之后又发布了多个版本，最新版本（v3）于2015年发布，该版本有英文版且兼容EE，但目前难以找到。"
-		],
+            "0.5.1版本之后又发布了多个版本，最新版本（v3）于2015年发布，该版本有英文版且兼容EE，但目前难以找到。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -16179,14 +16177,10 @@
             "status": "done",
             "source": "Throne of Bhaal Extender est un outil de type patch qui corrige des bugs du moteur de jeu de BG2, et permet de corriger ou de remplacer certains mécanismes du jeu. Son utilisation est réservée aux plus aguerris, rompus aux arcanes des méga-installs et pointilleux lecteurs de Readme."
         },
-        "notes": [
-            "需要《博德之门II：巴尔王座》版本 26498。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Baldur's Gate II: Throne of Bhaal version 26498 est requise."
-            ]
+            "source": []
         }
     },
     {
@@ -19893,8 +19887,8 @@
             "source": "Un programme externe montrant les ennemis les plus proches ainsi que leurs résistances, leurs buffs et les durées restantes. Les vidéos seront plus explicites qu'un long texte."
         },
         "notes": [
-                "需要[[1326]]才能在《龙矛围攻》上运行。",
-                "一个兼容Linux的替代方案可在[[1990]]中找到。"
+            "需要[[1326]]才能在《龙矛围攻》上运行。",
+            "一个兼容Linux的替代方案可在[[1990]]中找到。"
         ],
         "notes_meta": {
             "status": "done",
@@ -20989,8 +20983,8 @@
             "source": "Ce mod permet de recharger les baguettes à tout moment soit avec de l'or (moins cher que la vente/achat) soit avec de l'xp. Pour ce faire, faites un clic droit sur la baguette dans l'inventaire et cliquez sur le bouton « Recharge Wand ». Une boîte de dialogue s'ouvrira avec le coût affiché et vous pourrez confirmer."
         },
         "notes": [
-		        "这个模组已被包含到[[1782]]中。"
-		],
+            "这个模组已被包含到[[1782]]中。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -21506,8 +21500,8 @@
             "source": "Ce mod introduit un nouveau kit pour le voleur. Il est légèrement inspiré du jeu Arcanum : Of Steamworks and Magick Obscura. Les inventeurs sont des voleurs qui se sont consacrés à l'étude des sciences et de l'artisanat. Avec l'expérience, ils peuvent créer et développer des inventions de plus en plus complexes, que l'on peut qualifier de synthétiques et d'avant-gardistes compte tenu des réalités du royaume. Souvent inspirés par les doctrines de Gond, ils peuvent créer de véritables chefs-d'œuvre techniques à partir de tout ce qu'ils rencontrent au cours de leurs voyages. Seuls les gnomes peuvent devenir des inventeurs."
         },
         "notes": [
-		        "cob版本不再是最新的，但拥有波兰语翻译。"
-		],
+            "cob版本不再是最新的，但拥有波兰语翻译。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28458,8 +28452,8 @@
             "source": "Applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles."
         },
         "notes": [
-			"包含在同一个作者的[[64]]中。"
-		],
+            "包含在同一个作者的[[64]]中。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28540,8 +28534,8 @@
             "source": "Ce mod propose d'ajouter deux kits très complets issus de l'univers de Star Wars : le Jedi et le Sith."
         },
         "notes": [
-		        "这些宗派很强大，建议与增加难度的模组搭配使用。"
-		],
+            "这些宗派很强大，建议与增加难度的模组搭配使用。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28583,8 +28577,8 @@
             "source": "Ceci est un mod qui écrase les dialogues et certains sons. À vos risques et périls."
         },
         "notes": [
-				"它会覆盖 dialog.tlk 文件，且是英文版本。."
-		],
+            "它会覆盖 dialog.tlk 文件，且是英文版本。."
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28600,8 +28594,8 @@
             "source": "BGPartner affiche des superpositions sur les créatures sélectionnées par l'utilisateur, détaillant leurs caractéristiques et leurs effets actifs."
         },
         "notes": [
-		        "这个模组是 [[1369]] 的替代品。它兼容 Windows 和 Linux。"
-		],
+            "这个模组是 [[1369]] 的替代品。它兼容 Windows 和 Linux。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28708,8 +28702,8 @@
             "source": "Ce mod ajoute des dialogues aléatoires à certains endroits du jeu qui où ils paraissent manquer."
         },
         "notes": [
-		        "目前，它在《巴尔王座》中与葛立安的幽灵战斗后，增加了一段与爱蒙的内省对话。"
-		],
+            "目前，它在《巴尔王座》中与葛立安的幽灵战斗后，增加了一段与爱蒙的内省对话。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28738,8 +28732,8 @@
             "source": "Ce mod ajoute quelques objets d'invocation. Il comprend des animations de créatures originales mettant en scène trois nouveaux nains, un squelette et un marine."
         },
         "notes": [
-		        "这个模组包含.tbg格式的物品。"
-		],
+            "这个模组包含.tbg格式的物品。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28755,8 +28749,8 @@
             "source": "Fait en sorte qu'un personnage du groupe se transforme, sans raison apparente, en poulet. Une bonne blague du 1er avril."
         },
         "notes": [
-		        "覆盖 Baldur.bcs。"
-		],
+            "覆盖 Baldur.bcs。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28785,8 +28779,8 @@
             "source": "Une nouvelle façon d'aborder chacune des épreuves des Enfers du chapitre 7 ! Pour chacune d'entre elles, il existe désormais une voie neutre à suivre, qui donne lieu à une récompense différente. Parfois, cette voie neutre se rapproche davantage de la voie mauvaise d'origine, parfois de la voie bonne, et parfois encore, elle est complètement différente des deux."
         },
         "notes": [
-		        "这个模组已被包含在[[845]]中。"
-		],
+            "这个模组已被包含在[[845]]中。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28802,8 +28796,8 @@
             "source": "Ce mod propose deux puissants anneaux utilisables par les clercs et les druides."
         },
         "notes": [
-		        "它们需要通过控制台创建：`RGBB01` 和 `RGBB02`。"
-		],
+            "它们需要通过控制台创建：`RGBB01` 和 `RGBB02`。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [

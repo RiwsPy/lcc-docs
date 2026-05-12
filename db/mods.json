@@ -903,7 +903,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "AjocMod"
     },
@@ -2834,7 +2834,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "Aura_BG1_2_EET"
     },
@@ -5449,7 +5449,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "BardicWonders"
     },
@@ -5570,7 +5570,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "InnBB"
     },
@@ -6784,7 +6784,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "AutoLoot"
     },
@@ -6859,7 +6859,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2026-05",
         "compatibilities": {
             "requires": [
                 348
@@ -9270,6 +9270,7 @@
         "games": [
             "Tutu",
             "BG2",
+            "BGT",
             "BGEE",
             "EET",
             "BG2EE",
@@ -9288,14 +9289,14 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "d2-mira"
     },
     {
         "id": 279,
         "name": "D2 Weapon",
-        "description": "Ce petit mod ajoute un pack de 11 armes inspirées de la trilogie Dark Souls de FromSoft, plus 4 autres. Vous pourrez les acheter dans diverses échoppes du jeu. Certaines sont équilibrées, d'autres disposent d'avantages et d'inconvénients très extrêmes qui les distinguent des armes des jeux de base.",
+        "description": "Ce mod ajoute un pack de 15 armes dont beaucoup s'inspirent librement des jeux Dark Souls de FromSoft. Vous pourrez les acheter dans diverses échoppes du jeu. Certaines sont équilibrées, d'autres disposent d'avantages et d'inconvénients très extrêmes qui les distinguent des armes des jeux de base.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/33091-d2-weapon-a-souls-inspired-weapon-pack-a-mod-for-bgee-bg2ee-and-iwdee/",
             "https://github.com/D2-mods/D2-Weapon/"
@@ -9321,7 +9322,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "d2-weapon"
     },
@@ -9488,7 +9489,6 @@
         "description": "Une puissante organisation, dénommée `La Section`, vous pourchasse pour des raisons connues d'elle-seule. Ils ne reculeront devant rien pour parvenir à leurs fins. Ils disposent de nombreux agents et d'associés influents à travers Féérune. Stoppez leurs leaders pour le bien de la Côte des Épées.|Ce mod ajoute une large quête, 3 nouveaux PNJ disposant de quelques quêtes personnelles, plusieurs rencontres (hostiles ou non) et quêtes secondaires, des magasins et de nouvelles zones à explorer. Les anciens mods [[1515]] et [[102]] font désormais partie de Dark Horizons.",
         "urls": [
             "https://forums.beamdog.com/discussion/18833/",
-            "https://america.iegmc.com/com/dark-horizons-3.01.zip",
             "https://github.com/The-Gate-Project/DarkHorizons"
         ],
         "categories": [
@@ -9509,7 +9509,6 @@
         ],
         "team": [],
         "notes": [
-            "Attention : il existe plusieurs versions du mod spécifiques à votre jeu : BG+TotSC, Tutu, BGT et BG:EE. Choisissez celle qui vous convient, et TotSC est requis dans tous les cas.",
             "Choisissez le lien github pour la version EE."
         ],
         "translation_state": "auto",
@@ -9525,7 +9524,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "DarkHorizons"
     },
@@ -11674,7 +11673,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {
             "incompatible_with": [
                 1410
@@ -14240,7 +14239,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2022-11",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "g3anniversary"
     },
@@ -16763,7 +16762,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "isnf"
     },
@@ -22476,7 +22475,6 @@
         "description": "Ce mod ajoute une nouvelle traqueuse halfelin qui voyage sur la Côte des Épées, bien qu'il soit évident qu'elle n'est pas de la région. Elle aime se faire passer pour une personne inutile, timide ou innocente, même si ce n'est pas tout à fait le cas. Vous pourrez la recruter dans les mines de Nashkel.|FOR 15, DEX 17, CON 15, INT 12, SAG 14, CHA 15.",
         "urls": [
             "https://forums.beamdog.com/discussion/15867/",
-            "https://www.mediafire.com/file/319iqtunuedckt5/Margarita.rar/file",
             "https://github.com/11jo/Margarita/"
         ],
         "categories": [
@@ -22503,7 +22501,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "Margarita"
     },
@@ -23197,7 +23195,7 @@
         "languages": [
             "en"
         ],
-        "status": "obsolete",
+        "status": "embed",
         "last_update": "2010-03",
         "compatibilities": {},
         "tp2": "modkitremover"
@@ -26884,6 +26882,7 @@
         "description": "Ce mod augmente la durée de la quête de classe liée à la sphère et, donc l'intérêt de jouer un mage. Une grande quête supplémentaire ainsi que plusieurs petites et une sphère peuplée d'apprentis. À noter aussi la présence de 39 nouveaux sorts.|N'hésitez pas à aussi installer le mini mod complémentaire [[812]] (aussi appelé PlanarSphere Return) qui vous permettra de vous téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
         "urls": [
             "https://www.shsforums.net/files/file/131-planarsphere/",
+            "https://forums.beamdog.com/discussion/75761/",
             "https://github.com/11jo/PlanarSphere"
         ],
         "categories": [
@@ -26911,7 +26910,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2023-01",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "planarspheremod"
     },
@@ -27045,7 +27044,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "PST-UB-reloaded"
     },
@@ -31114,7 +31113,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "shadowadept"
     },
@@ -31302,7 +31301,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "k9SharteelNPC"
     },
@@ -33330,7 +33329,7 @@
         "authors": [
             "tipun",
             "dark0dave",
-            "RoyalProtector"
+            "Kaelyn"
         ],
         "team": [],
         "notes": [],
@@ -34812,7 +34811,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "Skineater"
     },
@@ -35449,7 +35448,9 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "cn",
+            "pl"
         ],
         "status": "active",
         "last_update": "2026-05",
@@ -35887,7 +35888,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "WhinHill"
     },
@@ -36188,7 +36189,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2025-07",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "kuldahar"
     },
@@ -36658,12 +36659,13 @@
             "fr",
             "it",
             "pl",
-            "ru"
+            "ru",
+            "es"
         ],
         "status": "active",
         "last_update": "2026-04",
         "compatibilities": {},
-        "tp2": "Vault"
+        "tp2": "vault"
     },
     {
         "id": 1096,
@@ -36697,7 +36699,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-12",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "whitequeen"
     },
@@ -36764,7 +36766,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-10",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "tb#quest"
     },
@@ -37157,7 +37159,8 @@
         "languages": [
             "en",
             "pl",
-            "ru"
+            "ru",
+            "es"
         ],
         "status": "active",
         "last_update": "2023-09",
@@ -37185,9 +37188,7 @@
             "Ascension64"
         ],
         "team": [],
-        "notes": [
-            "Baldur's Gate II: Throne of Bhaal version 26498 est requise."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -37202,7 +37203,7 @@
         "last_update": "2013-04",
         "compatibilities": {
             "requires": [
-                "ToB"
+                "ToB version 26498"
             ]
         },
         "tp2": "TobEx"
@@ -39511,6 +39512,8 @@
         "name": "Viconia Revamped",
         "description": "Anciennement La'Viconia, ce mod permet de modifier la classe de Viconia et de la transformer en clerc/voleuse, clerc/assassin, et d'autres combinaisons selon le jeu et les mods installés. Il permet aussi de modifier son portrait, de lui donner une nouvelle capacité, et même de lui appliquer certaines pénalités subies par les drows.",
         "urls": [
+            "https://www.weaselmods.net/showthread.php?tid=40",
+            "https://forums.beamdog.com/discussion/39113/",
             "https://downloads.weaselmods.net/download/viconia-revamped/"
         ],
         "categories": [
@@ -39539,7 +39542,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "ViconiaRevamped"
     },
@@ -42183,7 +42186,7 @@
         "name": "Weapon Oils",
         "description": "Ce petit mod propose un nouveau type d'objet les « weapon oils ». Il s'agit de potions consommables qui permettent d'appliquer un effet supplémentaire aux armes.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/38730-royalprotectors-weapon-oils-zs_weaponoils-11/",
+            "https://www.gibberlings3.net/forums/topic/38730-kaelyns-weapon-oils-zs_weaponoils-do-not-use-deprecated/",
             "https://www.nexusmods.com/baldursgate2ee/mods/105",
             "https://github.com/szaumoor/ZS_WeaponOils"
         ],
@@ -42196,7 +42199,7 @@
             "EET"
         ],
         "authors": [
-            "RoyalProtector"
+            "Kaelyn"
         ],
         "team": [],
         "notes": [
@@ -43477,7 +43480,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "WilsonChronicles"
     },
@@ -43662,7 +43665,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "Autumns_Twilight"
     },
@@ -44399,7 +44402,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -44478,7 +44481,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "itemupgrade"
     },
@@ -44734,7 +44737,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2023-03",
+        "last_update": "2026-04",
         "compatibilities": {
             "requires": [
                 1233
@@ -45092,7 +45095,8 @@
         "safe": 2,
         "languages": [
             "en",
-            "cn"
+            "cn",
+            "br"
         ],
         "status": "active",
         "last_update": "2025-05",
@@ -45131,7 +45135,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2025-08",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "BloodAndFaith"
     },
@@ -45319,7 +45323,7 @@
         "authors": [
             "zenblack",
             "dark0dave",
-            "RoyalProtector",
+            "Kaelyn",
             "Llewren"
         ],
         "team": [],
@@ -45331,7 +45335,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "zbpod"
     },
@@ -45982,7 +45986,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "infinity_ui"
     },
@@ -46015,7 +46019,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "JuniperAndTheStoneLeech"
     },
@@ -46651,7 +46655,7 @@
         "name": "ZSTweaks",
         "description": "Ce mod est une compilation de tweaks qui, selon l'auteur, améliorent les choses telles qu'elles sont dans le jeu vanilla. La grande majorité des tweaks sont conçus pour être de simples améliorations d'objets ou de capacités sous-puissants. Certains d'entre eux modifient le jeu un peu plus en profondeur, mais pas de façon radicale.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/38335-royalprotectors-tweaks-zstweaks/",
+            "https://www.gibberlings3.net/forums/topic/38335-kaelyns-tweaks-zstweaks/",
             "https://www.nexusmods.com/baldursgate2ee/mods/104",
             "https://github.com/szaumoor/ZSTweaks"
         ],
@@ -46665,7 +46669,7 @@
             "IWDEE"
         ],
         "authors": [
-            "RoyalProtector"
+            "Kaelyn"
         ],
         "team": [],
         "notes": [
@@ -46696,7 +46700,7 @@
             "BG2EE"
         ],
         "authors": [
-            "RoyalProtector"
+            "Kaelyn"
         ],
         "team": [],
         "notes": [],
@@ -47490,10 +47494,10 @@
     },
     {
         "id": 1423,
-        "name": "RoyalProtector's Shadowdancer Overhaul",
+        "name": "Kaelyn's Shadowdancer Overhaul",
         "description": "Ce mod retravaille le kit de Maître des Ombres. Notamment sa capacité à pouvoir se camoufler à la vue de tous (considéré comme trop puissant et source de bug). Et apporte des alternatives intéressantes afin de lui faire gagner en singularité. Plus d'informations en cliquant sur les liens.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/38417-royalprotectors-shadowdancer-overhaul-zs_shadowdanceroverhaul/",
+            "https://www.gibberlings3.net/forums/topic/38417-kaelyns-shadowdancer-overhaul-zs_shadowdanceroverhaul/",
             "https://www.nexusmods.com/baldursgate2ee/mods/103",
             "https://github.com/szaumoor/ZS_ShadowdancerOverhaul"
         ],
@@ -47507,7 +47511,7 @@
             "IWDEE"
         ],
         "authors": [
-            "RoyalProtector"
+            "Kaelyn"
         ],
         "team": [],
         "notes": [],
@@ -47517,7 +47521,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "ZS_ShadowdancerOverhaul"
     },
@@ -49510,7 +49514,7 @@
         "name": "Can I stab you?",
         "description": "Ce mod répond de façon très modulaire à vos préférences en ce qui concerne l'immunité aux attaques sournoises. On se plaint souvent de ne pas pouvoir sournoisement poignarder de nombreux ennemis, y compris dans ToB, ce qui réduit la puissance des Voleurs (surtout en classe unique), qui sont déjà sous-puissants, alors que ces coups sont l'un des principaux, voire le seul moyen d'exceller et d'apporter une contribution majeure au combat.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/38971-royalprotectors-backstab-immunity-tweaks-zs_canistabyou-100/",
+            "https://www.gibberlings3.net/forums/topic/38971-kaelyns-backstab-immunity-tweaks-zs_canistabyou/",
             "https://github.com/szaumoor/ZS_CanIStabYou-Mod"
         ],
         "categories": [
@@ -49523,7 +49527,7 @@
             "IWDEE"
         ],
         "authors": [
-            "RoyalProtector"
+            "Kaelyn"
         ],
         "team": [],
         "notes": [],
@@ -49996,7 +50000,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "BookOfTorment"
     },
@@ -50335,7 +50339,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "OnPathsAndWays"
     },
@@ -50580,7 +50584,7 @@
             "fr"
         ],
         "status": "wip",
-        "last_update": "2025-08",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "how_eet"
     },
@@ -52679,10 +52683,10 @@
     },
     {
         "id": 1593,
-        "name": "RoyalProtector's Item Pack",
+        "name": "Kaelyn's Item Pack",
         "description": "Ce mod ajoute des objets dans le monde de BGEE et BG2EE. Chaque élément est totalement optionnel lors de l'installation. Vous n'en aimez qu'un ? N'en installez qu'un seul.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/40132-royalprotectors-item-pack-zs_itempack/",
+            "https://www.gibberlings3.net/forums/topic/40132-kaelyns-item-pack-zs_itempack/",
             "https://github.com/szaumoor/ZS_ItemPack"
         ],
         "categories": [
@@ -52694,7 +52698,7 @@
             "EET"
         ],
         "authors": [
-            "RoyalProtector"
+            "Kaelyn"
         ],
         "team": [],
         "notes": [],
@@ -52725,7 +52729,7 @@
             "IWDEE"
         ],
         "authors": [
-            "RoyalProtector"
+            "Kaelyn"
         ],
         "team": [],
         "notes": [],
@@ -53454,7 +53458,8 @@
             "en",
             "it",
             "ru",
-            "fr"
+            "fr",
+            "pt"
         ],
         "status": "active",
         "last_update": "2026-04",
@@ -59200,7 +59205,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {
             "incompatible_with": [
                 1286
@@ -59922,7 +59927,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-09",
+        "last_update": "2026-01",
         "compatibilities": {},
         "tp2": "Backstab-on-the-CC"
     },
@@ -60021,7 +60026,7 @@
         "name": "Consumables",
         "description": "Ce mod fournit une variété d'objets consommables à utiliser dans le jeu, améliorant ainsi le gameplay et offrant de nouvelles stratégies aux joueurs. Beaucoup sont tirés ou inspirés d'autres jeux et médias tels que BG3, NWN et The Witcher. Le mod distribue les objets dans les magasins classiques, mais aussi manuellement sur certains PNJ et automatiquement dans le butin de certains ennemis de manière aléatoire.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/40103-royalprotectors-consumables-zs_consumables/",
+            "https://www.gibberlings3.net/forums/topic/40103-kaelyns-consumables-zs_consumables/",
             "https://github.com/szaumoor/ZS_Consumables/"
         ],
         "categories": [
@@ -60034,7 +60039,7 @@
             "IWDEE"
         ],
         "authors": [
-            "RoyalProtector"
+            "Kaelyn"
         ],
         "team": [],
         "notes": [],
@@ -60494,7 +60499,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-02",
+        "last_update": "2026-04",
         "compatibilities": {},
         "tp2": "PocketWardrobe"
     },
@@ -60830,7 +60835,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-03",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -62403,7 +62408,7 @@
             "fr"
         ],
         "status": "wip",
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "Derats_Defis"
     },
@@ -63792,7 +63797,7 @@
             "IWDEE"
         ],
         "authors": [
-            "RoyalProtector"
+            "Kaelyn"
         ],
         "team": [],
         "notes": [
@@ -64851,7 +64856,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2025-08",
         "compatibilities": {},
         "tp2": "PrettySpells"
     },
