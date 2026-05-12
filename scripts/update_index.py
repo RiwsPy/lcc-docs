@@ -80,8 +80,9 @@ def main(**kwargs):
             create_page_language(page_html, language)
 
     # on crée la page par defaut (home)
+    tp2_nb = 0
+    translation_count = 0
     with LANGUAGE_CONFIG.switch_language("en"):
-        tp2_nb = 0
         mods = ModManager.get_mod_list("en")
         mod_id_to_name = {mod.id: mod.name for mod in mods}
 
@@ -91,6 +92,8 @@ def main(**kwargs):
                 team |= set(mod.team)
                 if mod.tp2 not in ("n/a", "non-weidu", ""):
                     tp2_nb += 1
+                if mod.translation_state != "n/a":
+                    translation_count += int(len(mod.languages) - 1)
 
         last_added_mods = ModManager.get_last_added_mods(mods, nb=20)
         last_updated_mods = ModManager.get_last_updated_mods(mods, nb=20)
@@ -106,6 +109,7 @@ def main(**kwargs):
             team_nb=len(team),
             mod_id_to_name=mod_id_to_name,
             tp2_nb=tp2_nb,
+            translation_count=translation_count,
             categories={
                 HomeCategory(id=1, value="Last Added Mods"): last_added_mods,
                 HomeCategory(id=2, value="Last Updated Mods"): last_updated_mods,
