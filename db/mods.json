@@ -21833,14 +21833,17 @@
         "name": "Lysre, dragonne de poche",
         "description": "Ce mod propose une nouvelle PNJ un peu spéciale : Lyzre, dragonne noire juvénile et Disciple de Tiamat de son état (profil d'ensorceleur). Malgré sa taille de 60 cm, Lysre vous toise de haut, avec mépris, comme si vous n'étiez qu'une salissure sur ses écailles. C'est une dragonne noire, fière, arrogante, cupide. Pour elle, vous et vos proches n'êtes que de vulgaires et méprisables \"bipèdes\", des \"puces\" dont elle doit supporter la présence. Elle ne vous supporte que pour assouvir sa quête de vengeance et se montre rarement agréable. En fait, ses propos ne sont qu'injures et mépris, et nul ne semble trouver grace a ses yeux. Elles dispose d'objets personnels, de quelques interactions avec les PNJ, et d'une quête (encore en version bêta) consistant à créer un temple de Tiamat.|FOR 8, DEX 21, CON 8, INT 17, SAG 12, CHA 16.",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?t=25036"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=25036",
+            "https://github.com/The-Gate-Project/Lysre_dragonne-de-poche"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Klare"
@@ -21848,12 +21851,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "fr"
         ],
-        "status": "missing",
-        "last_update": "2020-05",
+        "status": "active",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "Lysre"
     },
@@ -52370,16 +52373,18 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "JohnBob"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "fr"
         ],
-        "status": "active",
+        "status": "wip",
         "last_update": "2023-08",
         "compatibilities": {},
         "tp2": "JOsterNoMore"
