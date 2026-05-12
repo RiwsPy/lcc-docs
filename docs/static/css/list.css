@@ -382,10 +382,14 @@ section {
     background: var(--background-secondary);
 }
 
-#maindiv details[open]>summary.category_name {
+details[open]>summary.category_name {
     position: sticky;
-    top: 102px;
     z-index: 5;
+    top: 0;
+}
+
+#maindiv details[open]>summary.category_name {
+    top: 102px;
 }
 
 .table .category_container .category_name::after {
