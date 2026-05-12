@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-24 08:45+0100\n"
-"PO-Revision-Date: 2026-01-24 08:50+0100\n"
+"PO-Revision-Date: 2026-05-12 13:56+0800\n"
 "Last-Translator: Riws <toto.streak289@passinbox.com>\n"
 "Language-Team: Language cn\n"
 "Language: cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.9\n"
 
 #: settings.py:32
 msgid "Mod de qualité"
@@ -115,7 +115,7 @@ msgstr "团队定制类"
 
 #: settings.py:131
 msgid "GemRB"
-msgstr ""
+msgstr "GemRB"
 
 #: models/mod.py:214
 #, python-brace-format
@@ -127,13 +127,13 @@ msgstr "文件 `{filename}`。"
 msgid ""
 "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
 "fonctionner avec la dernière version du jeu."
-msgstr "⚠️ 请注意：此模组最后更新于{year}年，可能与游戏最新版本不兼容！"
+msgstr "⚠️ 请注意：此模组最后更新于{year}年，可能与游戏最新版本不兼容。"
 
 #: models/mod.py:228
 msgid ""
 "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
 "le à vos risques et périls."
-msgstr "⚠️ WeiDU 警告：本模组会覆盖游戏文件且无法卸载，请自行承担安装风险！"
+msgstr "⚠️ WeiDU 警告：本模组会覆盖游戏文件且无法卸载，请自行承担安装风险。"
 
 #: models/mod.py:234
 msgid ""
@@ -308,8 +308,8 @@ msgid ""
 "description, sous la dénomination `Fichier xxx.yy`. Pour avoir un lien "
 "valide il peut être nécessaire de reconstituer les deux. Par exemple, pour "
 "le mod <a href=\"#m903\">Runic Bladesinger Elven Kit</a>, le lien `https://"
-"baldur.cob-bg.pl/download/bg2/kits/` est à regrouper avec `Runiczny_v2.0."
-"zip`."
+"baldur.cob-bg.pl/download/bg2/kits/` est à regrouper avec "
+"`Runiczny_v2.0.zip`."
 msgstr ""
 "出于安全考虑，所有提供直接下载的链接均被拆分为两部分：前半部分位于链接中，后"
 "半部分位于描述栏中（标注为文件xxx.yy）。要获取完整链接，您可能需要将两部分拼"
