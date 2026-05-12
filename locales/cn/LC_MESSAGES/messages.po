@@ -1,4 +1,4 @@
-# Language cn translations for PACKAGE package.
+# French translations for PACKAGE package.
 # Copyright (C) 2025 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Riws <toto.streak289@passinbox.com>, 2025.
@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-24 08:45+0100\n"
-"PO-Revision-Date: 2026-05-12 15:59+0800\n"
+"POT-Creation-Date: 2026-05-11 08:15+0200\n"
+"PO-Revision-Date: 2026-05-12 19:46+0800\n"
 "Last-Translator: Riws <toto.streak289@passinbox.com>\n"
-"Language-Team: Language cn\n"
-"Language: cn\n"
+"Language-Team: French <traduc@traduc.org>\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.9\n"
 
 #: settings.py:32
@@ -41,9 +42,9 @@ msgstr "部分翻译模组"
 msgid "Mod non traduit"
 msgstr "未翻译模组"
 
-#: settings.py:60 i18n.py:119
+#: settings.py:60 i18n.py:117
 msgid "Mod Weidu"
-msgstr "WeiDU模组"
+msgstr "Mod Weidu"
 
 #: settings.py:64
 msgid "Mod override, non désinstallable"
@@ -124,15 +125,21 @@ msgstr "文件 `{filename}`。"
 
 #: models/mod.py:221
 #, python-brace-format
-msgid "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec la dernière version du jeu."
+msgid ""
+"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
+"fonctionner avec la dernière version du jeu."
 msgstr "⚠️ 请注意：此模组最后更新于{year}年，可能与游戏最新版本不兼容。"
 
 #: models/mod.py:228
-msgid "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le à vos risques et périls."
+msgid ""
+"⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
+"le à vos risques et périls."
 msgstr "⚠️ WeiDU 警告：本模组会覆盖游戏文件且无法卸载，请自行承担安装风险。"
 
 #: models/mod.py:234
-msgid "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui donner suite."
+msgid ""
+"Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
+"donner suite."
 msgstr "本模组已被原作者/维护者归档，且对方无意继续更新维护。"
 
 #: models/mod.py:238
@@ -251,33 +258,58 @@ msgstr "简介"
 msgid "Mods recensés : "
 msgstr "收录模组："
 
-#: i18n.py:102
-msgid "Voici la liste de mods de la saga Baldur's Gate disponibles au téléchargement."
-msgstr "以下是《博德之门》系列可供下载的模组列表。"
-
-#: i18n.py:105
+#: i18n.py:101
 msgid ""
-"Afin qu'elle soit la plus précise possible, n'hésitez pas à remonter sur le dépôt <a href=\"https://github.com/RiwsPy/lcc-docs/issues\">tout problème</a>, signaler des <a href=\"https://github.com/RiwsPy/lcc-docs/discussions/65\">mods non repertoriés</a>, ou encore une <a href=\"https://github.com/RiwsPy/lcc-docs/discussions/66\">erreur</a>."
-msgstr "为了使其尽可能准确，请随时在仓库中<a href=\"https://github.com/RiwsPy/lcc-docs/issues\">报告任何问题</a>、<a href=\"https://github.com/RiwsPy/lcc-docs/discussions/65\">指出未收录的模组</a>，或<a href=\"https://github.com/RiwsPy/lcc-docs/discussions/66\">提交错误</a>。"
+"Voici la liste de mods de la saga Baldur's Gate disponibles au "
+"téléchargement."
+msgstr "以下是可供下载的无限引擎系列游戏模组列表。"
 
-#: i18n.py:108
-msgid "N'oubliez-pas de consulter le <a href=\"https://github.com/RiwsPy/lcc-docs/README.md\">readme</a> avant de contribuer ainsi que les <a href=\"https://github.com/RiwsPy/lcc-docs/CONTRIBUTING.md\">guidelines</a>."
-msgstr "建议在参与贡献前，务必查阅<a href=\"https://github.com/RiwsPy/lcc-docs/README.md\">说明文档</a>及<a href=\"https://github.com/RiwsPy/lcc-docs/CONTRIBUTING.md\">贡献指南</a>。"
+#: i18n.py:103
+msgid ""
+"Afin qu'elle soit la plus précise possible, n'hésitez pas à remonter sur le "
+"dépôt <a href=\"https://github.com/RiwsPy/lcc-docs/issues\">tout problème</"
+"a>, signaler des <a href=\"https://github.com/RiwsPy/lcc-docs/discussions/"
+"65\">mods non repertoriés</a>, ou encore une <a href=\"https://github.com/"
+"RiwsPy/lcc-docs/discussions/66\">erreur</a>."
+msgstr ""
+"为了使其尽可能准确，请随时在仓库中<a href=\"https://github.com/RiwsPy/lcc-"
+"docs/issues\">报告任何问题</a>、<a href=\"https://github.com/RiwsPy/lcc-docs/"
+"discussions/65\">指出未收录的模组</a>，或<a href=\"https://github.com/RiwsPy/"
+"lcc-docs/discussions/66\">提交错误</a>。"
 
-#: i18n.py:111
+#: i18n.py:106
+msgid ""
+"N'oubliez pas de consulter le <a href=\"https://github.com/RiwsPy/lcc-docs/"
+"README.md\">readme</a> avant de contribuer ainsi que les <a href=\"https://"
+"github.com/RiwsPy/lcc-docs/CONTRIBUTING.md\">guidelines</a>."
+msgstr ""
+"建议在参与贡献前，务必查阅<a href=\"https://github.com/RiwsPy/lcc-docs/"
+"README.md\">说明文档</a>及<a href=\"https://github.com/RiwsPy/lcc-docs/"
+"CONTRIBUTING.md\">贡献指南</a>。"
+
+#: i18n.py:109
 msgid "AVERTISSEMENTS"
 msgstr "敬告"
 
-#: i18n.py:114
+#: i18n.py:112
 msgid ""
-"Par sécurité, tous les liens qui proposent un téléchargement direct sont coupés en deux. La première partie est dans le lien et la seconde dans la description, sous la dénomination `Fichier xxx.yy`. Pour avoir un lien valide il peut être nécessaire de reconstituer les deux. Par exemple, pour le mod <a href=\"#m903\">Runic Bladesinger Elven "
-"Kit</a>, le lien `https://baldur.cob-bg.pl/download/bg2/kits/` est à regrouper avec `Runiczny_v2.0.zip`."
-msgstr "出于安全考虑，所有提供直接下载的链接均被拆分为两部分：前半部分位于链接中，后半部分位于描述栏中（标注为文件xxx.yy）。要获取完整链接，您可能需要将两部分拼接。例如，对于模组<a href=\"#m903\">Runic Bladesinger Elven Kit</a>，需将链接https://baldur.cob-bg.pl/download/bg2/kits/与Runiczny_v2.0.zip组合使用。"
+"Par sécurité, tous les liens qui proposent un téléchargement direct sont "
+"coupés en deux. La première partie est dans le lien et la seconde dans la "
+"description, sous la dénomination `Fichier xxx.yy`. Pour avoir un lien "
+"valide il peut être nécessaire de reconstituer les deux. Par exemple, pour "
+"le mod <a href=\"#m903\">Runic Bladesinger Elven Kit</a>, le lien `https://"
+"baldur.cob-bg.pl/download/bg2/kits/` est à regrouper avec "
+"`Runiczny_v2.0.zip`."
+msgstr ""
+"出于安全考虑，所有提供直接下载的链接均被拆分为两部分：前半部分位于链接中，后"
+"半部分位于描述栏中（标注为文件xxx.yy）。要获取完整链接，您可能需要将两部分拼"
+"接。例如，对于模组<a href=\"#m903\">Runic Bladesinger Elven Kit</a>，需将链接"
+"https://baldur.cob-bg.pl/download/bg2/kits/与Runiczny_v2.0.zip组合使用。"
 
-#: i18n.py:117
+#: i18n.py:115
 msgid "Nom du mod"
 msgstr "模组名称"
 
-#: i18n.py:118
+#: i18n.py:116
 msgid "Légende :"
 msgstr "图例："
