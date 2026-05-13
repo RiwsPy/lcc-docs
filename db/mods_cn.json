@@ -10893,17 +10893,13 @@
         "id": 752,
         "description": "混乱善良的精灵战士/盗贼尼基塔，乍一看会让人想起明斯克，她以天真的方式行善……她有一个个人任务，但不可发展浪漫关系。你可以在铜冠旅馆找到她，准备加入你的队伍。她拥有自己的装备。",
         "description_meta": {
-            "status": "done",
-            "source": "Elfe guerrière/voleuse chaotique bonne, Nikita fait de prime abord penser à Minsc, dans sa façon d'agir pour le bien avec un rien de naïveté... Elle dispose d'une quête personnelle, mais ne sera pas romançable. Vous pourrez la trouver à la Couronne de Cuivre, prête à vous rejoindre. Elle possède son propre équipement."
+            "status": "needs_review",
+            "source": "Elfe guerrière/voleuse chaotique bonne, Nikita fait de prime abord penser à Minsc, dans sa façon d'agir pour le bien avec un rien de naïveté... Elle dispose d'une quête personnelle, mais ne sera pas romançable. Vous pourrez la trouver à la Couronne de Cuivre, prête à vous rejoindre. Elle possède son propre équipement.|FOR 16, DEX 18, CON 13, INT 11, SAG 10, CHA 14."
         },
-        "notes": [
-            "第一个链接包含博德之门Ⅱ/博德之门三部曲的原始版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Le premier lien contient la version originale pour BG2/BGT."
-            ]
+            "source": []
         }
     },
     {
@@ -23337,9 +23333,10 @@
             "点击第二个链接以下载文件。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Cliquez sur le deuxième lien pour télécharger le fichier."
+                "Cliquez sur le deuxième lien pour télécharger le fichier.",
+                "Inclus dans [[716]] du même auteur."
             ]
         }
     },
@@ -23955,8 +23952,8 @@
         "id": 1652,
         "description": "一位22级的守序善良人类狂战士。他的超自然等级和属性数据来自博德之门的卷轴和地狱的最终试炼。这是一个《巴尔王座》角色，并且也携带了一些不错的物品。",
         "description_meta": {
-            "status": "done",
-            "source": "Un berserker humain légal de niveau 22. Ses niveaux surnaturels et ses statistiques proviennent des tomes de BG et des tests finaux en Enfer. C'est un personnage ToB et il porte également un certain nombre de bons objets."
+            "status": "needs_review",
+            "source": "Un berserker humain légal appelé Aragorn de niveau 22 et d'alignement Chaotique Bon. Ses niveaux surnaturels et ses statistiques proviennent des tomes de BG et des tests finaux en Enfer. C'est un personnage ToB et il porte également un certain nombre de bons objets.|FOR 19, DEX 18, CON 19, INT 18, SAG 20, CHA 20."
         },
         "notes": [],
         "notes_meta": {
@@ -23971,14 +23968,10 @@
             "status": "done",
             "source": "Un personnage avec l'animation de Sarevok de BG1 équipé d'objets magiques de haute qualité et très puissants avec des descriptions complètes et des icônes de jeu. Contient également un soundset et un portrait."
         },
-        "notes": [
-            "网址不正确。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Url incorrect."
-            ]
+            "source": []
         }
     },
     {
@@ -23999,7 +23992,7 @@
         "description": "此角色包包含双刃剑公司的6名成员：夏拉（人类剑圣-法师）、加勒特（人类剑圣-盗贼）、法尔肯（精灵游侠）、达蒙·史密森（人类洛山达牧师）、洛娜（半精灵术士）和莫里安（北地诗人矮人）。所有角色都拥有一些特殊物品和武器，以及独特的传记。",
         "description_meta": {
             "status": "done",
-            "source": "Ce pack de personnages contient 6 membres de la Compagnie des Lames Jumelles : Shara (Kensaï-mage humain), Garret (Kensaï-voleur humain), Falcon (Rôdeur elfe), Damon Smithson (Clerc de Lathandre humain), Lorna (Ensorceleuse demi-elfe) et Morian (Skalde nain). Tous les personnages disposent d'un certain nombre d'objets et d'armes spéciaux, ainsi que d'une biographie unique."
+            "source": "Ce pack de personnages contient 6 membres de la Compagnie des Lames Jumelles : Shara (Kensaï-mage humain), Garret (Kensaï-voleur humain), Falcon (Rôdeur elfe), Damon Smithson (Clerc de Lathandre humain), Lorna (Ensorceleuse demi-elfe) et Morian (Scalde nain). Tous les personnages disposent d'un certain nombre d'objets et d'armes spéciaux, ainsi que d'une biographie unique."
         },
         "notes": [],
         "notes_meta": {
@@ -24053,14 +24046,10 @@
             "status": "done",
             "source": "Deux personnages puissants : un berserker de niveau 19 et un moine de niveau 21. Tous deux ont les poches pleines de bonnes choses."
         },
-        "notes": [
-            "网址不正确。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Url incorrect."
-            ]
+            "source": []
         }
     },
     {

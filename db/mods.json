@@ -1290,8 +1290,7 @@
         "name": "Alora NPC for BG2",
         "description": "La voleuse halfelin de la Porte de Baldur revient avec ce mod, pour le plus grand plaisir de ses fans. Sa bonhommie et ses exclamations sympathiques la rendent tout autant charismatique que dans le premier opus de la saga.|FOR 12, DEX 19, CON 12, INT 14, SAG 7, CHA 15.",
         "urls": [
-            "https://github.com/The-Gate-Project/Alora-NPC-for-BG2",
-            "https://america.iegmc.com/com/alora-npc-for-bg2-2.0.zip"
+            "https://github.com/The-Gate-Project/Alora-NPC-for-BG2"
         ],
         "categories": [
             "PNJ recrutable"
@@ -2100,8 +2099,7 @@
         "name": "Arcane-Divine Spell Pack",
         "description": "Conçu à l'origine pour rendre les sorts conformes à leurs descriptions (durée, portée, dégâts...), ce mod a peu à peu évolué pour les modifier afin de les rendre plus intéressants à jouer.|Il a été rendu obsolète par de nombreux mods plus récents, dont [[982]].",
         "urls": [
-            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/ADPack.rar",
-            "https://america.iegmc.com/azenmod/adpack/ADPack_v11.rar"
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/ADPack.rar"
         ],
         "categories": [
             "Sort et objet"
@@ -5580,8 +5578,7 @@
         "name": "Berserker Minsc",
         "description": "Ce mod attribue à Minsc un profil de Berserker fait sur mesure qui l'empêche d'attaquer le groupe quand il est sous furie furieuse.",
         "urls": [
-            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Berserker_Minsc.zip",
-            "http://america.iegmc.net/drew/Berserker_Minsc.zip"
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Berserker_Minsc.zip"
         ],
         "categories": [
             "PNJ (autre)"
@@ -7080,7 +7077,6 @@
         "name": "Cassius",
         "description": "Cassius est un barde scalde humain et mystérieux qui ne dit pas grand-chose sur son passé. Ce que l'on sait, c'est qu'il a beaucoup voyagé depuis La Porte de Baldur, Eauprofonde, le Calimshan et d'autres endroits sans jamais rester trop longtemps. Il est toujours à la recherche d'aventures pour pouvoir raconter les grandes histoires qu'ils ont rencontrées. Il s'est récemment arrêté en Amn pour recueillir des informations sur les grandes histoires des aventuriers qui y passent. La rumeur veut qu'il soit un agent des Ménestrels.|FOR 16, DEX 17, CON 13, INT 16, SAG 9, CHA 15.",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?p=231482",
             "https://america.iegmc.com/com/Cassius_v105.rar",
             "https://github.com/Plutonium-X/1D_NPC_Cassius"
         ],
@@ -8103,7 +8099,6 @@
         "name": "Com_encounters",
         "description": "Ce mod ajoute plusieurs rencontres avec des groupes d'adversaires, trois magasins, une quête impliquant un halfling et un anneau, et améliore le combat contre Shagbag.",
         "urls": [
-            "https://america.iegmc.com/com/com-encounters-v1.22.zip",
             "https://github.com/The-Gate-Project/Com_encounters"
         ],
         "categories": [
@@ -8136,7 +8131,11 @@
         ],
         "status": "active",
         "last_update": "2024-03",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "com_encounters"
     },
     {
@@ -14986,8 +14985,7 @@
         "name": "Ghost",
         "description": "Ce mod permet au protagoniste lors du combat final de ToB, de puiser dans le puits d'énergie pour y gagner la capacité spéciale `Focus` utilisable une fois par tour. Cette capacité lui permet pendant 5 rounds, d'être immunisé à la pétrification, à la désintégration et à l'arrêt du temps. De plus, elle protège contre tous les sorts de niveau 1 à 3.",
         "urls": [
-            "https://www.shsforums.net/files/file/148-ghost/",
-            "http://america.iegmc.net/badgert/Ghost_v2.1.zip"
+            "https://www.shsforums.net/files/file/148-ghost/"
         ],
         "categories": [
             "Gameplay"
@@ -24991,9 +24989,9 @@
     {
         "id": 752,
         "name": "NikitaRedux",
-        "description": "Elfe guerrière/voleuse chaotique bonne, Nikita fait de prime abord penser à Minsc, dans sa façon d'agir pour le bien avec un rien de naïveté... Elle dispose d'une quête personnelle, mais ne sera pas romançable. Vous pourrez la trouver à la Couronne de Cuivre, prête à vous rejoindre. Elle possède son propre équipement.",
+        "description": "Elfe guerrière/voleuse chaotique bonne, Nikita fait de prime abord penser à Minsc, dans sa façon d'agir pour le bien avec un rien de naïveté... Elle dispose d'une quête personnelle, mais ne sera pas romançable. Vous pourrez la trouver à la Couronne de Cuivre, prête à vous rejoindre. Elle possède son propre équipement.|FOR 16, DEX 18, CON 13, INT 11, SAG 10, CHA 14.",
         "urls": [
-            "https://america.iegmc.com/com/NikitaReduxBeta2.rar",
+            "https://www.gibberlings3.net/forums/topic/23513-com-nikita-open-beta-released/",
             "https://github.com/The-Gate-Project/NikitaRedux"
         ],
         "categories": [
@@ -25009,9 +25007,7 @@
             "CoM_Solaufein"
         ],
         "team": [],
-        "notes": [
-            "Le premier lien contient la version originale pour BG2/BGT."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -25019,7 +25015,11 @@
         ],
         "status": "active",
         "last_update": "2023-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "NikitaRedux"
     },
     {
@@ -26282,8 +26282,7 @@
         "description": "Issu du projet de mega mod tchèque éponyme, ce mod ajoute pas moins de 18 profils (3 dans chaque classe de guerrier, paladin, rôdeur, voleur, barde et druide), provenant généralement des versions papier et retouchés par le concepteur.",
         "urls": [
             "https://baldur.cob-bg.pl/node/902",
-            "https://baldur.cob-bg.pl/download/bg2/kits/PoF_Kitpack_V5.rar",
-            "https://www.mediafire.com/file/ojrgs0x7035r9kw/Paladins_of_Faerun_Kitpack_V4.zip/file"
+            "https://baldur.cob-bg.pl/download/bg2/kits/PoF_Kitpack_V5.rar"
         ],
         "categories": [
             "Kit"
@@ -30929,8 +30928,7 @@
         "name": "Sequencer ColoredText",
         "description": "Ce petit mod rétablit la couleur violette (celle de BG2 original) du journal de combat des séquenceurs/déclencheurs en violette et affiche en jaune le \"coup vorpal\" des épées des planaires.",
         "urls": [
-            "https://www.shsforums.net/files/file/1273-sequencer-coloredtext/",
-            "https://america.iegmc.com/gamemacik/Sequencer_ColoredText_v1.0.rar"
+            "https://www.shsforums.net/files/file/1273-sequencer-coloredtext/"
         ],
         "categories": [
             "Cosmétique"
@@ -37902,7 +37900,6 @@
         "name": "Tsujatha Melalor",
         "description": "Ce mod ajoute un personnage romançable, Tsujatha Melalor, nécromancien elfe neutre mauvais du royaume de Gilalion, situé sur un autre plan que Toril. Sa psychologie est particulièrement étoffée, cela entre autres de par sa quête personnelle (son ambition et la trahison de son père en ont fait un paria dans son royaume). La romance est longue et les interactions fort nombreuses, de quoi ravir ceux qui souhaitent une alternative au sempiternel Anomen. Attention, même si Tsujatha est un personnage d'alignement mauvais (mais pouvant obtenir une rédemption), il ne romancera que les personnages féminins humains, elfes et demi-elfes d'alignement bon. Vous le trouverez dans la Sphère planaire. Allez-y dès que possible car les banters sont nombreux.|FOR 17, DEX 12, CON 12, INT 19, SAG 16, CHA 14.",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?t=20092",
             "https://america.iegmc.com/tsujatha/Tsujatha-17.1.zip",
             "https://github.com/Plutonium-X/NPC_Tsujatha"
         ],
@@ -37935,7 +37932,11 @@
         ],
         "status": "active",
         "last_update": "2026-02",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "Tsujatha"
     },
     {
@@ -53180,14 +53181,15 @@
         ],
         "team": [],
         "notes": [
-            "Cliquez sur le deuxième lien pour télécharger le fichier."
+            "Cliquez sur le deuxième lien pour télécharger le fichier.",
+            "Inclus dans [[716]] du même auteur."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "pl"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2006-08",
         "compatibilities": {},
         "tp2": "NaturalSelection"
@@ -53795,7 +53797,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Wynne"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -54564,7 +54568,7 @@
     {
         "id": 1652,
         "name": "Nicolas' Character",
-        "description": "Un berserker humain légal de niveau 22. Ses niveaux surnaturels et ses statistiques proviennent des tomes de BG et des tests finaux en Enfer. C'est un personnage ToB et il porte également un certain nombre de bons objets.",
+        "description": "Un berserker humain légal appelé Aragorn de niveau 22 et d'alignement Chaotique Bon. Ses niveaux surnaturels et ses statistiques proviennent des tomes de BG et des tests finaux en Enfer. C'est un personnage ToB et il porte également un certain nombre de bons objets.|FOR 19, DEX 18, CON 19, INT 18, SAG 20, CHA 20.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Aragorn_char.zip"
         ],
@@ -54579,7 +54583,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Nicolas"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -54595,7 +54601,7 @@
         "name": "Sarevok",
         "description": "Un personnage avec l'animation de Sarevok de BG1 équipé d'objets magiques de haute qualité et très puissants avec des descriptions complètes et des icônes de jeu. Contient également un soundset et un portrait.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6IkVicUVxc1wvUHNZVmtYM1ltYlFUWmh3PT0iLCJ2YWx1ZSI6IllVMmJNblpSVE5iZ1FWSHlpbEVwaVJTa0tKWlpqSFwvSHVyWWlkZ1paOUxBPSIsIm1hYyI6ImNhZmU0N2I1ZTdiMjBlZTM0MzEwNDE0NTYyMjMxMWQ2NjQyNGJjODg4OTA0YWRkNzc1MTBmODNlNGMwNmI3ZDQifQ=="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Sarevok_Character.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -54612,9 +54618,7 @@
             "Eric"
         ],
         "team": [],
-        "notes": [
-            "Url incorrect."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
@@ -54657,7 +54661,7 @@
     {
         "id": 1655,
         "name": "Twin Blades Character Pack",
-        "description": "Ce pack de personnages contient 6 membres de la Compagnie des Lames Jumelles : Shara (Kensaï-mage humain), Garret (Kensaï-voleur humain), Falcon (Rôdeur elfe), Damon Smithson (Clerc de Lathandre humain), Lorna (Ensorceleuse demi-elfe) et Morian (Skalde nain). Tous les personnages disposent d'un certain nombre d'objets et d'armes spéciaux, ainsi que d'une biographie unique.",
+        "description": "Ce pack de personnages contient 6 membres de la Compagnie des Lames Jumelles : Shara (Kensaï-mage humain), Garret (Kensaï-voleur humain), Falcon (Rôdeur elfe), Damon Smithson (Clerc de Lathandre humain), Lorna (Ensorceleuse demi-elfe) et Morian (Scalde nain). Tous les personnages disposent d'un certain nombre d'objets et d'armes spéciaux, ainsi que d'une biographie unique.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/TwinBladesCharPack.zip"
         ],
@@ -54784,7 +54788,7 @@
         "name": "Darren & Monkey",
         "description": "Deux personnages puissants : un berserker de niveau 19 et un moine de niveau 21. Tous deux ont les poches pleines de bonnes choses.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6InRTelNXVkI1SWtNdlNyRVBxRlE0OWc9PSIsInZhbHVlIjoiVDg4OXRGZk1yR3BwZTM1MFpTVmdEckFHTDVKUXJNcHU3dHJXZWFNcTN5az0iLCJtYWMiOiIzZmI1NGYyYmQ0M2ZhZGYzMDgyZDVlZjNjMjViMDU0NGYwMjcwYjYzOTViODBlNjZkYzc5ZjdiYzAyM2ExZDQ4In0="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/darren.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -54801,9 +54805,7 @@
             "Darren Sanderson"
         ],
         "team": [],
-        "notes": [
-            "Url incorrect."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],

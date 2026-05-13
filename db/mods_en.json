@@ -10793,19 +10793,15 @@
     },
     {
         "id": 752,
-        "description": "A chaotic good elf fighter/thief, Nikita is at first glance reminiscent of Minsc, in the way she acts for good with a touch of naiveté... She has a personal quest, but will not be romanticized. You can find her at the Copper Coronet, ready to join you. She has her own equipment.",
+        "description": "A chaotic good elf fighter/thief, Nikita is at first glance reminiscent of Minsc, in the way she acts for good with a touch of naiveté... She has a personal quest, but will not be romanticized. You can find her at the Copper Coronet, ready to join you. She has her own equipment.|STR 16, DEX 18, CON 13, INT 11, WIS 10, CHA 14.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Elfe guerrière/voleuse chaotique bonne, Nikita fait de prime abord penser à Minsc, dans sa façon d'agir pour le bien avec un rien de naïveté... Elle dispose d'une quête personnelle, mais ne sera pas romançable. Vous pourrez la trouver à la Couronne de Cuivre, prête à vous rejoindre. Elle possède son propre équipement."
+            "source": "Elfe guerrière/voleuse chaotique bonne, Nikita fait de prime abord penser à Minsc, dans sa façon d'agir pour le bien avec un rien de naïveté... Elle dispose d'une quête personnelle, mais ne sera pas romançable. Vous pourrez la trouver à la Couronne de Cuivre, prête à vous rejoindre. Elle possède son propre équipement.|FOR 16, DEX 18, CON 13, INT 11, SAG 10, CHA 14."
         },
-        "notes": [
-            "The first link contains the original version for BG2/BGT."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Le premier lien contient la version originale pour BG2/BGT."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -23084,12 +23080,14 @@
             "source": "Ce mod a pour but d'améliorer la classe et les kits du druide et d'en faire une alternative viable à la présence d'un clerc dans votre groupe en y ajoutant de nouveaux sorts. Chaque partie du mod est optionnelle afin de permettre un maximum de flexibilité."
         },
         "notes": [
-            "Click on the second link to download the file."
+            "Click on the second link to download the file.",
+            "Included in [[716]] by the same author."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Cliquez sur le deuxième lien pour télécharger le fichier."
+                "Cliquez sur le deuxième lien pour télécharger le fichier.",
+                "Inclus dans [[716]] du même auteur."
             ]
         }
     },
@@ -23701,10 +23699,10 @@
     },
     {
         "id": 1652,
-        "description": "A level 22 legal human berserker. His supernatural levels and stats come from BG tomes and final tests in Hell. He's a ToB character and also carries a number of good items.",
+        "description": "A legit human berserker named Aragorn, level 22 and of the Chaotic Good alignment. His supernatural levels & stats come from the tomes in BG and from the final tests in Hell. He is a ToB character and also carries a number of good items.|STR 19, DEX 18, CON 19, INT 18, WIS 20, CHA 20.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Un berserker humain légal de niveau 22. Ses niveaux surnaturels et ses statistiques proviennent des tomes de BG et des tests finaux en Enfer. C'est un personnage ToB et il porte également un certain nombre de bons objets."
+            "source": "Un berserker humain légal appelé Aragorn de niveau 22 et d'alignement Chaotique Bon. Ses niveaux surnaturels et ses statistiques proviennent des tomes de BG et des tests finaux en Enfer. C'est un personnage ToB et il porte également un certain nombre de bons objets.|FOR 19, DEX 18, CON 19, INT 18, SAG 20, CHA 20."
         },
         "notes": [],
         "notes_meta": {
@@ -23719,14 +23717,10 @@
             "status": "needs_review",
             "source": "Un personnage avec l'animation de Sarevok de BG1 équipé d'objets magiques de haute qualité et très puissants avec des descriptions complètes et des icônes de jeu. Contient également un soundset et un portrait."
         },
-        "notes": [
-            "Incorrect url."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Url incorrect."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -23744,10 +23738,10 @@
     },
     {
         "id": 1655,
-        "description": "This character pack contains 6 members of the Company of the Twin Blades: Shara (Kensai-human magician), Garret (Kensai-human thief), Falcon (elven ranger), Damon Smithson (human Cleric of Lathander), Lorna (half-elven sorcerer) and Morian (dwarven Skalde). All characters have a number of special items and weapons, as well as a unique biography.",
+        "description": "This Character Pack contains 6 members of the Company of the Twin Blades: Shara (Human Kensai Mage), Garret (Human Kensai/Thief), Falcon (Elvish Stalker), Damon Smithson (Human Cleric of Lathander), Lorna (Half-Elf Sorcerer), and Morian (Dwarf Skald). All characters have a number of special items and weapons as well as unique backstories.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce pack de personnages contient 6 membres de la Compagnie des Lames Jumelles : Shara (Kensaï-mage humain), Garret (Kensaï-voleur humain), Falcon (Rôdeur elfe), Damon Smithson (Clerc de Lathandre humain), Lorna (Ensorceleuse demi-elfe) et Morian (Skalde nain). Tous les personnages disposent d'un certain nombre d'objets et d'armes spéciaux, ainsi que d'une biographie unique."
+            "status": "done",
+            "source": "Ce pack de personnages contient 6 membres de la Compagnie des Lames Jumelles : Shara (Kensaï-mage humain), Garret (Kensaï-voleur humain), Falcon (Rôdeur elfe), Damon Smithson (Clerc de Lathandre humain), Lorna (Ensorceleuse demi-elfe) et Morian (Scalde nain). Tous les personnages disposent d'un certain nombre d'objets et d'armes spéciaux, ainsi que d'une biographie unique."
         },
         "notes": [],
         "notes_meta": {
@@ -23783,7 +23777,7 @@
     },
     {
         "id": 1658,
-        "description": "A half-Elven LN fighter (level 27) from Throne of Bhaal, fully equipped with weapons and quality items. The zip also contains a portrait and biography for this character.",
+        "description": "A LN half-elf fighter (level 27) from Throne of Bhaal, fully equipped with good weapons and items. The zip also contains a portrait and biography for this character.",
         "description_meta": {
             "status": "needs_review",
             "source": "Un combattant demi-elfe LN (niveau 27) de Throne of Bhaal, entièrement équipé d'armes et d'objets de qualité. Le zip contient également un portrait et une biographie pour ce personnage."
@@ -23796,19 +23790,15 @@
     },
     {
         "id": 1659,
-        "description": "Two powerful characters: a level 19 berserker and a level 21 monk. Both have pockets full of goodies.",
+        "description": "Two powerful characters: a berserker at level 19 and a monk at level 21. Both of them come with pockets full of goodies.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Deux personnages puissants : un berserker de niveau 19 et un moine de niveau 21. Tous deux ont les poches pleines de bonnes choses."
         },
-        "notes": [
-            "Incorrect url."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Url incorrect."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
