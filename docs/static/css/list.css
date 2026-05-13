@@ -171,6 +171,10 @@ label {
     padding: 10px;
 }
 
+.language-picker a.inactive {
+    filter: grayscale(0.7);
+}
+
 .language-picker a::before {
     content: "•  ";
 }

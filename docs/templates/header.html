@@ -2,7 +2,7 @@
     <h1><a href="{{ home_page }}">{{ _(trans["mod_list"]) }}</a></h1>
     <div class="language-picker">
         {% for language_url, flag in language_flags.items() %}
-            <a class="button" href="{{ home_page }}{{ language_url }}/" title="{{ language_url }}">{{ flag }}</a>
+            <a class="button{% if language and language != language_url %} inactive{% endif %}" href="{{ home_page }}{{ language_url }}/" title="{{ language_url }}">{{ flag }}</a>
         {% endfor %}
     </div>
     <hr>
