@@ -9948,7 +9948,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Xavia est une assassine semi-elfe neutre mauvaise, Mulgore un barbare semi-orque chaotique mauvais. Vous les trouverez tous deux dans l'auberge de la Barbe d'Ulgoth.|Xavia : FOR 11, DEX 18, CON 18, INT 14, SAG 12, CHA 14.|Mulgore : STR 19, DEX 16, CON 19, INT 11, SAG 10, CHA 8."
+            "source": "Xavia est une assassine semi-elfe neutre mauvaise, Mulgore un barbare semi-orque chaotique mauvais. Vous les trouverez tous deux dans l'auberge de la Barbe d'Ulgoth.|Xavia : FOR 11, DEX 18, CON 18, INT 14, SAG 12, CHA 14.|Mulgore : FOR 19, DEX 16, CON 19, INT 11, SAG 10, CHA 8."
         },
         "notes": [],
         "notes_meta": {
@@ -11666,6 +11666,9 @@
     },
     {
         "id": 844,
+        "team": [
+            "Aristo"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",

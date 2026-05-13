@@ -23871,7 +23871,7 @@
     {
         "id": 720,
         "name": "Mulgore and Xavia NPCs",
-        "description": "Xavia est une assassine semi-elfe neutre mauvaise, Mulgore un barbare semi-orque chaotique mauvais. Vous les trouverez tous deux dans l'auberge de la Barbe d'Ulgoth.|Xavia : FOR 11, DEX 18, CON 18, INT 14, SAG 12, CHA 14.|Mulgore : STR 19, DEX 16, CON 19, INT 11, SAG 10, CHA 8.",
+        "description": "Xavia est une assassine semi-elfe neutre mauvaise, Mulgore un barbare semi-orque chaotique mauvais. Vous les trouverez tous deux dans l'auberge de la Barbe d'Ulgoth.|Xavia : FOR 11, DEX 18, CON 18, INT 14, SAG 12, CHA 14.|Mulgore : FOR 19, DEX 16, CON 19, INT 11, SAG 10, CHA 8.",
         "urls": [
             "https://www.shsforums.net/files/file/72-mulgore-xavia-npcs-for-bgt-weidututu-tob-5/"
         ],
@@ -28058,10 +28058,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "cn"
+            "cn",
+            "pl"
         ],
         "status": "active",
-        "last_update": "2026-01",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "Quayle"
     },
