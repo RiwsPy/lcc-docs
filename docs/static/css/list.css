@@ -166,7 +166,6 @@ label {
     justify-content: center;
 }
 
-
 .language-picker a {
     font-size: 20px;
     padding: 10px;
@@ -183,7 +182,9 @@ label {
 }
 
 .intro {
-    font-size: 110%;
+    padding: 25px 5%;
+    font-size: var(--font-size-large);
+    text-align: justify;
 }
 
 #search .searchs {
@@ -308,13 +309,6 @@ section {
     display: block;
 }
 
-#maindiv .content .text,
-#homediv .content .text {
-    padding: 25px 5%;
-    font-size: var(--font-size-medium);
-    text-align: justify;
-}
-
 #maindiv .warning {
     background-color: var(--color-background);
     border: 1px solid var(--color-primary);
@@ -354,18 +348,21 @@ section {
 }
 
 .legend {
-    font-size: var(--font-size-medium);
-    border: 1px solid var(--color-secondary);
-    padding-inline: 32px;
-}
-
-.legend .title {
-    text-transform: uppercase;
-    font-weight: bold;
+    font-size: var(--font-size-large);
+    padding: 0 0 1rem 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    column-gap: 4rem;
 }
 
 .legend ul {
     list-style-type: none;
+    margin-left: -1.5rem;
+}
+
+.legend ul li {
+    margin-bottom: 12px;
 }
 
 .table {
@@ -388,7 +385,7 @@ details[open]>summary.category_name {
     top: 0;
 }
 
-#maindiv details[open]>summary.category_name {
+.double_sticky details[open]>summary.category_name {
     top: 102px;
 }
 

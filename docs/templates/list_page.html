@@ -2,18 +2,11 @@
 <a id="gotothetop" href="#top" title={{ _(trans["back"]) }}></a>
 <section id="maindiv">
     <!-- ================== I n t r o d u c t i o n ================== -->
-    <a name="intro" id="intro"></a>
     <div class="content">
-        <h2 class="background">{{ _(trans["introduction"]) }}</h2>
-        <div class="text">
-            <div class="intro">
-                {% for intro in trans["intros"] %}
-                    <p>{{ _(intro) }}</p>
-                {% endfor %}
-            </div>
-            <div class="tables">
-                <div class="legend">
-                    <p class="title">{{ _(trans["legend"]) }}</p>
+        <h2 class="background">{{ _(trans["legend"]) }}</h2>
+        <div class="tables">
+            <div class="legend">
+                <div class="legend-item">
                     <p>
                         <strong>{{ _(trans["mod_quality"]) }}</strong>
                     </p>
@@ -22,6 +15,8 @@
                         <li>{{ icon_data.icon }} {{ _(icon_data.label) }}</li>
                         {% endfor %}
                     </ul>
+                </div>
+                <div class="legend-item">
                     <p>
                         <strong>{{ _(trans["translation_state"]) }}</strong>
                     </p>
@@ -30,7 +25,8 @@
                         <li>{{ icon_data.icon }} {{ _(icon_data.label) }}</li>
                         {% endfor %}
                     </ul>
-
+                </div>
+                <div class="legend-item">
                     <p>
                         <strong>{{ _(trans["weidu_mod"]) }}</strong>
                     </p>
@@ -40,15 +36,15 @@
                         {% endfor %}
                     </ul>
                 </div>
-                <div class="warning">
-                    <p class="titre">⚠️ {{ _(trans["wargning_title"]) }} ⚠️</p>
-                    <ul>
-                        {% for warning in trans["warnings"] %}
-                            <li>{{ _(warning) }}</li>
-                        {% endfor %}
-                    </ul>
-                </div>
             </div>
+            <!-- <div class="warning">
+                <p class="titre">⚠️ {{ _(trans["wargning_title"]) }} ⚠️</p>
+                <ul>
+                    {% for warning in trans["warnings"] %}
+                        <li>{{ _(warning) }}</li>
+                    {% endfor %}
+                </ul>
+            </div> -->
         </div>
     </div>
 </section>
@@ -64,4 +60,4 @@
             oninput="filterMod()">
 </section>
 
-{% for category, mods in categories.items() %}<section class="table">{% include "category.html" %}</section>{% endfor %}
+{% for category, mods in categories.items() %}<section class="table double_sticky">{% include "category.html" %}</section>{% endfor %}
