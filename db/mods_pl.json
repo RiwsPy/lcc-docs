@@ -1628,7 +1628,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Le BG2 FixPack est le fixpack le plus complet à ce jour. Il corrige tous les bugs corrigés par Baldurdash (de Kevin Dorner) plus un million de bugs supplémentaires, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation."
+            "source": "Le BG2 FixPack est le fixpack le plus complet à ce jour. Il corrige tous les bugs corrigés par [[2017]] plus un million de bugs supplémentaires, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation."
         },
         "notes": [],
         "notes_meta": {
@@ -2023,7 +2023,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du [[336]]."
+            "source": "Ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de [[2017]] et certains ajustements du [[336]]."
         },
         "notes": [],
         "notes_meta": {
@@ -2137,7 +2137,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Baldurdash-WeiDU est une version remasterisée du Baldurdash classique (de Kevin Dorner). Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[746]] et [[1118]].|Dans les autres cas, préférez le [[117]]."
+            "source": "Baldurdash-WeiDU est une version remasterisée de [[2017]]. Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[746]] et [[1118]].|Dans les autres cas, préférez le [[117]]."
         },
         "notes": [],
         "notes_meta": {
@@ -4641,7 +4641,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\"."
+            "source": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par [[2017]]. Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\"."
         },
         "notes": [],
         "notes_meta": {
@@ -5630,7 +5630,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod modifie plusieurs éléments du jeu : les personnages sont tous recrutés à leur niveau le plus faible (pas d'adaptation au niveau du personnage principal), les tomes de caractéristiques sont remplacés par des objets spécifiques à chaque classe, les bijoux offrent tous des bonus (CA, résistance...), les bottes ajoutent des bonus de vitesse de déplacement. Il ajoute aussi des portraits de personnage repris de BG2, de nouveaux objets répartis un peu partout (notamment sur des adversaires ou dans des magasins). Il améliore certains adversaires pour corser les combats. Il modifie les animations de quelques sorts.|Enfin le mod augmente la capacité de stockage des munitions, augmente la limite d'expérience, permet de gagner le maximum de points de vie au changement de niveau. Il intègre également le patch Baldurdash."
+            "source": "Ce mod modifie plusieurs éléments du jeu : les personnages sont tous recrutés à leur niveau le plus faible (pas d'adaptation au niveau du personnage principal), les tomes de caractéristiques sont remplacés par des objets spécifiques à chaque classe, les bijoux offrent tous des bonus (CA, résistance...), les bottes ajoutent des bonus de vitesse de déplacement. Il ajoute aussi des portraits de personnage repris de BG2, de nouveaux objets répartis un peu partout (notamment sur des adversaires ou dans des magasins). Il améliore certains adversaires pour corser les combats. Il modifie les animations de quelques sorts.|Enfin le mod augmente la capacité de stockage des munitions, augmente la limite d'expérience, permet de gagner le maximum de points de vie au changement de niveau. Il intègre également le patch [[2017]]."
         },
         "notes": [],
         "notes_meta": {
@@ -27731,6 +27731,49 @@
             "status": "todo",
             "source": [
                 "Pour les versions EE, optez pour [[396]] ou [[1338]]."
+            ]
+        }
+    },
+    {
+        "id": 2016,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Eeex BuffBot automatise l'application des buffs avant le combat. Il analyse le grimoire de chaque membre du groupe, établit une liste de buff personnalisable et lance tous les sorts en parallèle d'un simple clic."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2017,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un des premiers fixpack qui corrige plusieurs bugs connus."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Rendu obsolète par [[153]]."
+            ]
+        }
+    },
+    {
+        "id": 2018,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Vieux mod qui permet aux elfes d'avoir 90% de résistance contre vraiment tous les sorts de sommeil et de charme, les demi-elfes 30%.|Les demi-orcs gagnent l'infravision."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Rendu obsolète par [[1141]]."
             ]
         }
     }

@@ -1698,10 +1698,10 @@
     },
     {
         "id": 117,
-        "description": "The BG2 FixPack is the most complete fixpack to date. It fixes all the bugs fixed by Baldurdash (by Kevin Dorner) plus a million more, ensuring a perfectly clean game. This is the unofficial fixpack you should always install unless you have an excellent reason to install another one instead. Note that some mods require it to be installed.",
+        "description": "The BG2 FixPack is the most complete fixpack to date. It fixes all the bugs fixed by [[2017]] plus a million more, ensuring a perfectly clean game. This is the unofficial fixpack you should always install unless you have an excellent reason to install another one instead. Note that some mods require it to be installed.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Le BG2 FixPack est le fixpack le plus complet à ce jour. Il corrige tous les bugs corrigés par Baldurdash (de Kevin Dorner) plus un million de bugs supplémentaires, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation."
+            "source": "Le BG2 FixPack est le fixpack le plus complet à ce jour. Il corrige tous les bugs corrigés par [[2017]] plus un million de bugs supplémentaires, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation."
         },
         "notes": [],
         "notes_meta": {
@@ -2102,10 +2102,10 @@
     },
     {
         "id": 145,
-        "description": "This project aimed to correct the various bugs and malfunctions found in BG and its expansion. Although not yet complete, this pack includes all Baldurdash fixes (created by Kevin Dorner) and some adjustments from [[336]].",
+        "description": "This project aimed to correct the various bugs and malfunctions found in BG and its expansion. Although not yet complete, this pack includes all [[2017]] fixes and some adjustments from [[336]].",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du [[336]]."
+            "source": "Ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de [[2017]] et certains ajustements du [[336]]."
         },
         "notes": [
             "To be used only for an original BG game, without Tutu or BGT."
@@ -2226,10 +2226,10 @@
     },
     {
         "id": 153,
-        "description": "Baldurdash-WeiDU is a remastered version of the classic Baldurdash (by Kevin Dorner). There are two versions:|- the classic version|- version 1.76, which is very specific to the [[746]] and [[1118]] mods.|In all other cases, prefer the [[117]].",
+        "description": "Baldurdash-WeiDU is a remastered version of [[2017]]. There are two versions:|- the classic version|- version 1.76, which is very specific to the [[746]] and [[1118]] mods.|In all other cases, prefer the [[117]].",
         "description_meta": {
             "status": "needs_review",
-            "source": "Baldurdash-WeiDU est une version remasterisée du Baldurdash classique (de Kevin Dorner). Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[746]] et [[1118]].|Dans les autres cas, préférez le [[117]]."
+            "source": "Baldurdash-WeiDU est une version remasterisée de [[2017]]. Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[746]] et [[1118]].|Dans les autres cas, préférez le [[117]]."
         },
         "notes": [
             "You should install version 1.76 only if you intend to use [[746]] and/or [[1118]]. In this case, download the mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) which includes the latest versions of [[153]], [[1118]] and [[1281]], as well as Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune and other fixes (improved monk class, new NPC kits, new items...)."
@@ -4819,10 +4819,10 @@
     },
     {
         "id": 336,
-        "description": "Dubbed Dudleyville, this fixpack is designed to correct all the bugs in the game identified and unresolved by Baldurdash (by Kevin Dorner). It contains over 700 fixes and patches (most of them minor), some of them designed to provide a game experience closer to that of the paper rules.|The patches can be found in the \"Dudleyfix BG1 Fixes\" section, then in \"Completed Fixpack\".",
+        "description": "Dubbed Dudleyville, this fixpack is designed to correct all the bugs in the game identified and unresolved by [[2017]]. It contains over 700 fixes and patches (most of them minor), some of them designed to provide a game experience closer to that of the paper rules.|The patches can be found in the \"Dudleyfix BG1 Fixes\" section, then in \"Completed Fixpack\".",
         "description_meta": {
             "status": "needs_review",
-            "source": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\"."
+            "source": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par [[2017]]. Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\"."
         },
         "notes": [
             "FixPack #2 will switch your game to English!"
@@ -5864,10 +5864,10 @@
     },
     {
         "id": 408,
-        "description": "This mod modifies several elements of the game: characters are all recruited at their lowest level (no adaptation to the main character's level), characteristic tomes are replaced by items specific to each class, jewels all offer bonuses (CA, resistance...), boots add movement speed bonuses. It also adds character portraits taken from BG2, and new items scattered all over the place (notably on opponents or in stores). Some opponents are enhanced to make combat more difficult. Finally, the mod increases ammunition storage capacity, raises the experience limit, and allows maximum hit points to be gained at level change. It also integrates the Baldurdash patch.",
+        "description": "This mod modifies several elements of the game: characters are all recruited at their lowest level (no adaptation to the main character's level), characteristic tomes are replaced by items specific to each class, jewels all offer bonuses (CA, resistance...), boots add movement speed bonuses. It also adds character portraits taken from BG2, and new items scattered all over the place (notably on opponents or in stores). Some opponents are enhanced to make combat more difficult. Finally, the mod increases ammunition storage capacity, raises the experience limit, and allows maximum hit points to be gained at level change. It also integrates [[2017]].",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod modifie plusieurs éléments du jeu : les personnages sont tous recrutés à leur niveau le plus faible (pas d'adaptation au niveau du personnage principal), les tomes de caractéristiques sont remplacés par des objets spécifiques à chaque classe, les bijoux offrent tous des bonus (CA, résistance...), les bottes ajoutent des bonus de vitesse de déplacement. Il ajoute aussi des portraits de personnage repris de BG2, de nouveaux objets répartis un peu partout (notamment sur des adversaires ou dans des magasins). Il améliore certains adversaires pour corser les combats. Il modifie les animations de quelques sorts.|Enfin le mod augmente la capacité de stockage des munitions, augmente la limite d'expérience, permet de gagner le maximum de points de vie au changement de niveau. Il intègre également le patch Baldurdash."
+            "source": "Ce mod modifie plusieurs éléments du jeu : les personnages sont tous recrutés à leur niveau le plus faible (pas d'adaptation au niveau du personnage principal), les tomes de caractéristiques sont remplacés par des objets spécifiques à chaque classe, les bijoux offrent tous des bonus (CA, résistance...), les bottes ajoutent des bonus de vitesse de déplacement. Il ajoute aussi des portraits de personnage repris de BG2, de nouveaux objets répartis un peu partout (notamment sur des adversaires ou dans des magasins). Il améliore certains adversaires pour corser les combats. Il modifie les animations de quelques sorts.|Enfin le mod augmente la capacité de stockage des munitions, augmente la limite d'expérience, permet de gagner le maximum de points de vie au changement de niveau. Il intègre également le patch [[2017]]."
         },
         "notes": [
             "The mod can be installed with IEES or IE Editor Pro."
@@ -28683,6 +28683,53 @@
             "status": "todo",
             "source": [
                 "Pour les versions EE, optez pour [[396]] ou [[1338]]."
+            ]
+        }
+    },
+    {
+        "id": 2016,
+        "description": "Eeex BuffBot automates pre-battle buffing. It scans each party member's spellbook, builds a configurable buff list, and casts everything in parallel with one click.",
+        "description_meta": {
+            "status": "done",
+            "source": "Eeex BuffBot automatise l'application des buffs avant le combat. Il analyse le grimoire de chaque membre du groupe, établit une liste de buff personnalisable et lance tous les sorts en parallèle d'un simple clic."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2017,
+        "description": "This self-installing archive package contains several separate fix archives to resolve post-official-patch problems in Baldur's Gate/Tales Of The Sword Coast. This ReadMe file has been placed in your Baldur's Gate 2 folder; you may leave it there or delete it at your discretion.",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un des premiers fixpack qui corrige plusieurs bugs connus."
+        },
+        "notes": [
+            "Replaced by [[153]]."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Rendu obsolète par [[153]]."
+            ]
+        }
+    },
+    {
+        "id": 2018,
+        "description": "An old mod that grants to elven characters 90% resistance to absolutely all sleep and charm spells, and half-elven characters 30%.|Half-orcs gain Infravision.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Vieux mod qui permet aux elfes d'avoir 90% de résistance contre vraiment tous les sorts de sommeil et de charme, les demi-elfes 30%.|Les demi-orcs gagnent l'infravision."
+        },
+        "notes": [
+            "Replaced by [[1141]]."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Rendu obsolète par [[1141]]."
             ]
         }
     }

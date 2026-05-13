@@ -3956,7 +3956,7 @@
     {
         "id": 117,
         "name": "BG2 FixPack",
-        "description": "Le BG2 FixPack est le fixpack le plus complet à ce jour. Il corrige tous les bugs corrigés par Baldurdash (de Kevin Dorner) plus un million de bugs supplémentaires, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation.",
+        "description": "Le BG2 FixPack est le fixpack le plus complet à ce jour. Il corrige tous les bugs corrigés par [[2017]] plus un million de bugs supplémentaires, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation.",
         "urls": [
             "https://www.gibberlings3.net/mods/fixes/bg2fixpack/",
             "https://github.com/Gibberlings3/BG2-Fixpack"
@@ -4888,7 +4888,7 @@
     {
         "id": 145,
         "name": "Baldur's Gate Fixpack",
-        "description": "Ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du [[336]].",
+        "description": "Ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de [[2017]] et certains ajustements du [[336]].",
         "urls": [
             "https://github.com/Sasha-alTherin/BGFixPack"
         ],
@@ -5164,7 +5164,7 @@
     {
         "id": 153,
         "name": "Baldurdash-WeiDU",
-        "description": "Baldurdash-WeiDU est une version remasterisée du Baldurdash classique (de Kevin Dorner). Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[746]] et [[1118]].|Dans les autres cas, préférez le [[117]].",
+        "description": "Baldurdash-WeiDU est une version remasterisée de [[2017]]. Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[746]] et [[1118]].|Dans les autres cas, préférez le [[117]].",
         "urls": [
             "http://america.iegmc.net/baldurdash-weidu"
         ],
@@ -10389,7 +10389,7 @@
             "CamDawg",
             "the bigg",
             "Ghreyfain",
-            "Avenger",
+            "aVENGER",
             "Kensai Ryu",
             "Jaysyn",
             "Angel"
@@ -11211,7 +11211,7 @@
     {
         "id": 336,
         "name": "DudleyFix for BG1",
-        "description": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\".",
+        "description": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par [[2017]]. Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\".",
         "urls": [
             "http://www.forgottenwars.com/dudleyfix/fixpacks.htm"
         ],
@@ -13631,7 +13631,7 @@
     {
         "id": 408,
         "name": "Firewalker",
-        "description": "Ce mod modifie plusieurs éléments du jeu : les personnages sont tous recrutés à leur niveau le plus faible (pas d'adaptation au niveau du personnage principal), les tomes de caractéristiques sont remplacés par des objets spécifiques à chaque classe, les bijoux offrent tous des bonus (CA, résistance...), les bottes ajoutent des bonus de vitesse de déplacement. Il ajoute aussi des portraits de personnage repris de BG2, de nouveaux objets répartis un peu partout (notamment sur des adversaires ou dans des magasins). Il améliore certains adversaires pour corser les combats. Il modifie les animations de quelques sorts.|Enfin le mod augmente la capacité de stockage des munitions, augmente la limite d'expérience, permet de gagner le maximum de points de vie au changement de niveau. Il intègre également le patch Baldurdash.",
+        "description": "Ce mod modifie plusieurs éléments du jeu : les personnages sont tous recrutés à leur niveau le plus faible (pas d'adaptation au niveau du personnage principal), les tomes de caractéristiques sont remplacés par des objets spécifiques à chaque classe, les bijoux offrent tous des bonus (CA, résistance...), les bottes ajoutent des bonus de vitesse de déplacement. Il ajoute aussi des portraits de personnage repris de BG2, de nouveaux objets répartis un peu partout (notamment sur des adversaires ou dans des magasins). Il améliore certains adversaires pour corser les combats. Il modifie les animations de quelques sorts.|Enfin le mod augmente la capacité de stockage des munitions, augmente la limite d'expérience, permet de gagner le maximum de points de vie au changement de niveau. Il intègre également le patch [[2017]].",
         "urls": [
             "http://swordcoastkeeper.chez-alice.fr/"
         ],
@@ -15120,7 +15120,7 @@
         ],
         "authors": [
             "MaxTeamBG",
-            "Avenger",
+            "aVENGER",
             "SimDing0",
             "Ajoc",
             "MAXGraphics"
@@ -21119,7 +21119,7 @@
             "IWD2"
         ],
         "authors": [
-            "Avenger"
+            "aVENGER"
         ],
         "team": [],
         "notes": [],
@@ -21232,7 +21232,7 @@
     },
     {
         "id": 639,
-        "name": "\"Level Up\" Icon Tweaks",
+        "name": "Level Up Icon Tweaks",
         "description": "Ce mini mod apporte une modification cosmétique de confort à l'interface de PST:EE. Vous pouvez configurer l'affichage ou non de l'icône de passage au niveau supérieur et choisir de la déplacer sur le portrait du personnage.",
         "urls": [
             "https://forums.beamdog.com/discussion/64259/",
@@ -23883,6 +23883,7 @@
             "BGT"
         ],
         "authors": [
+            "Robert Zellhart",
             "Ascension64"
         ],
         "team": [],
@@ -24029,6 +24030,7 @@
             "BGT"
         ],
         "authors": [
+            "Sigwald",
             "hlidskialf"
         ],
         "team": [],
@@ -24234,8 +24236,10 @@
         "name": "NPC Bodies",
         "description": "Ce mod est destiné à ceux qui jouent un jeu avec peu ou pas de rechargement (donc en utilisant les services de résurrection des temples au lieu de recharger lorsqu'un PNJ meurt) et comporte trois composants qui peuvent être installés indépendamment les uns des autres.",
         "urls": [
+            "https://forums.beamdog.com/discussion/61786/",
             "https://forums.beamdog.com/discussion/68547/",
-            "https://www.gibberlings3.net/forums/topic/28385-npc-bodies/"
+            "https://www.gibberlings3.net/forums/topic/28385-npc-bodies/",
+            "https://github.com/The-Draiken/NPC-Bodies"
         ],
         "categories": [
             "Gameplay"
@@ -24246,7 +24250,7 @@
             "EET"
         ],
         "authors": [
-            "DymeDef"
+            "gunman"
         ],
         "team": [],
         "notes": [],
@@ -24256,7 +24260,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2019-06",
+        "last_update": "2026-02",
         "compatibilities": {},
         "tp2": "npc-bodies"
     },
@@ -27247,6 +27251,7 @@
             "Kit"
         ],
         "games": [
+            "BGEE",
             "BG2EE",
             "EET"
         ],
@@ -28509,6 +28514,7 @@
             "BGT"
         ],
         "authors": [
+            "Riojano2002",
             "Ancalagon el Negro"
         ],
         "team": [],
@@ -37811,7 +37817,9 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "Black Isle Studios"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
@@ -60970,7 +60978,7 @@
             "PSTEE"
         ],
         "authors": [
-            "Avenger"
+            "aVENGER"
         ],
         "team": [],
         "notes": [],
@@ -65680,5 +65688,95 @@
             ]
         },
         "tp2": "c7-multidruids"
+    },
+    {
+        "id": 2016,
+        "name": "BuffBot",
+        "description": "Eeex BuffBot automatise l'application des buffs avant le combat. Il analyse le grimoire de chaque membre du groupe, établit une liste de buff personnalisable et lance tous les sorts en parallèle d'un simple clic.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41163-bg2eeeet-eeex-buffbot-in-game-buff-automation/",
+            "https://github.com/Chrizhermann/bg-eeex-buffbot"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "ChrizFader"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "wip",
+        "last_update": "2026-04",
+        "compatibilities": {
+            "requires": [
+                "Windows",
+                348
+            ]
+        },
+        "tp2": "buffbot"
+    },
+    {
+        "id": 2017,
+        "name": "Baldurdash",
+        "description": "Un des premiers fixpack qui corrige plusieurs bugs connus.",
+        "urls": [
+            "https://github.com/majcosta/oBG-Museum/tree/master/oBG-Museum/baldurdash"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG"
+        ],
+        "authors": [
+            "Kevin Dorner"
+        ],
+        "team": [],
+        "notes": [
+            "Rendu obsolète par [[153]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": "obsolete",
+        "last_update": "2001-07",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2018,
+        "name": "Racial Traits fix",
+        "description": "Vieux mod qui permet aux elfes d'avoir 90% de résistance contre vraiment tous les sorts de sommeil et de charme, les demi-elfes 30%.|Les demi-orcs gagnent l'infravision.",
+        "urls": [
+            "https://github.com/majcosta/oBG-Museum/tree/master/oBG-Museum/avenger_racial_traits_fix"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG"
+        ],
+        "authors": [
+            "aVENGER"
+        ],
+        "team": [],
+        "notes": [
+            "Rendu obsolète par [[1141]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": "obsolete",
+        "last_update": "2003-01",
+        "compatibilities": {},
+        "tp2": "non-weidu"
     }
 ]

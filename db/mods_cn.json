@@ -1721,8 +1721,8 @@
         ],
         "description": "博德之门Ⅱ修复补丁是目前最全面的修复补丁。它修复了Baldurdash（由Kevin Dorner制作）修复的所有错误，以及另外一百万个错误，确保您拥有一个完全干净的游戏。除非您有充分的理由安装其他修复补丁，否则您应该始终安装这个非官方的修复补丁。请注意，某些模组要求安装它。",
         "description_meta": {
-            "status": "done",
-            "source": "Le BG2 FixPack est le fixpack le plus complet à ce jour. Il corrige tous les bugs corrigés par Baldurdash (de Kevin Dorner) plus un million de bugs supplémentaires, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation."
+            "status": "needs_review",
+            "source": "Le BG2 FixPack est le fixpack le plus complet à ce jour. Il corrige tous les bugs corrigés par [[2017]] plus un million de bugs supplémentaires, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation."
         },
         "notes": [],
         "notes_meta": {
@@ -2128,8 +2128,8 @@
         "id": 145,
         "description": "此项目旨在修正《博德之门》及其扩展中发现的各种错误和故障。尽管尚未完成，但此包整合了Baldurdash（由Kevin Dorner创建）的所有修复程序以及[[336]]的一些调整。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du [[336]]."
+            "status": "needs_review",
+            "source": "Ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de [[2017]] et certains ajustements du [[336]]."
         },
         "notes": [
             "仅适用于原始博德之门游戏，不适用于Tutu或BGT。"
@@ -2252,8 +2252,8 @@
         "id": 153,
         "description": "Baldurdash-WeiDU 是经典版 Baldurdash（由 Kevin Dorner 制作）的重制版。它有两个版本：|- 经典版|- 1.76 版，该版本与模组 [[746]] 和 [[1118]] 高度兼容。|在其他情况下，请优先选择 [[117]]。",
         "description_meta": {
-            "status": "done",
-            "source": "Baldurdash-WeiDU est une version remasterisée du Baldurdash classique (de Kevin Dorner). Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[746]] et [[1118]].|Dans les autres cas, préférez le [[117]]."
+            "status": "needs_review",
+            "source": "Baldurdash-WeiDU est une version remasterisée de [[2017]]. Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[746]] et [[1118]].|Dans les autres cas, préférez le [[117]]."
         },
         "notes": [
             "只有当您打算使用[[746]]和/或[[1118]]时，才必须安装1.76版本。在这种情况下，请下载[Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394)模组，它汇集了[[153]]、[[1118]]和[[1281]]的最新版本，以及第三路径、行动中的奴隶+改进的铜冠旅店、半多重堡垒、扭曲符文修复和其他修复（改进武僧职业、新的角色档案、新物品……）。"
@@ -4874,8 +4874,8 @@
         "id": 336,
         "description": "这个被称为“达德利维尔”的修复包，旨在修复游戏中所有已被识别但未被 Baldurdash（由凯文·多纳制作）解决的漏洞。它包含了700多个修正和补丁（其中大部分是微小的），此外还有一些修改，旨在提供更接近桌面规则设定的游戏体验。|这些补丁可以在“Dudleyfix BG1 Fixes”部分找到，然后进入“Completed Fixpack”。",
         "description_meta": {
-            "status": "done",
-            "source": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\"."
+            "status": "needs_review",
+            "source": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par [[2017]]. Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\"."
         },
         "notes": [
             "修复包 #2 会将您的游戏变为英语！"
@@ -5923,8 +5923,8 @@
         "id": 408,
         "description": "这个模组修改了游戏的多个元素：所有角色都以他们最低的等级被招募（不会根据主角等级进行调整），能力之书被每个职业的特定物品取代，所有珠宝都提供加值（AC、抗性等），靴子增加移动速度加值。它还添加了从博德之门Ⅱ中复制的角色肖像，以及散布在各地的新物品（特别是在敌人身上或商店里）。它增强了某些敌人，使战斗更具挑战性。它修改了几个法术的动画。|最后，该模组增加了弹药容量，提高了经验值上限，允许在升级时获得最大生命值。它还集成了Baldurdash补丁。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod modifie plusieurs éléments du jeu : les personnages sont tous recrutés à leur niveau le plus faible (pas d'adaptation au niveau du personnage principal), les tomes de caractéristiques sont remplacés par des objets spécifiques à chaque classe, les bijoux offrent tous des bonus (CA, résistance...), les bottes ajoutent des bonus de vitesse de déplacement. Il ajoute aussi des portraits de personnage repris de BG2, de nouveaux objets répartis un peu partout (notamment sur des adversaires ou dans des magasins). Il améliore certains adversaires pour corser les combats. Il modifie les animations de quelques sorts.|Enfin le mod augmente la capacité de stockage des munitions, augmente la limite d'expérience, permet de gagner le maximum de points de vie au changement de niveau. Il intègre également le patch Baldurdash."
+            "status": "needs_review",
+            "source": "Ce mod modifie plusieurs éléments du jeu : les personnages sont tous recrutés à leur niveau le plus faible (pas d'adaptation au niveau du personnage principal), les tomes de caractéristiques sont remplacés par des objets spécifiques à chaque classe, les bijoux offrent tous des bonus (CA, résistance...), les bottes ajoutent des bonus de vitesse de déplacement. Il ajoute aussi des portraits de personnage repris de BG2, de nouveaux objets répartis un peu partout (notamment sur des adversaires ou dans des magasins). Il améliore certains adversaires pour corser les combats. Il modifie les animations de quelques sorts.|Enfin le mod augmente la capacité de stockage des munitions, augmente la limite d'expérience, permet de gagner le maximum de points de vie au changement de niveau. Il intègre également le patch [[2017]]."
         },
         "notes": [
             "它可以通过 IEES 或 IE Editor Pro 安装。"
@@ -28949,6 +28949,49 @@
             "status": "todo",
             "source": [
                 "Pour les versions EE, optez pour [[396]] ou [[1338]]."
+            ]
+        }
+    },
+    {
+        "id": 2016,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Eeex BuffBot automatise l'application des buffs avant le combat. Il analyse le grimoire de chaque membre du groupe, établit une liste de buff personnalisable et lance tous les sorts en parallèle d'un simple clic."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2017,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un des premiers fixpack qui corrige plusieurs bugs connus."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Rendu obsolète par [[153]]."
+            ]
+        }
+    },
+    {
+        "id": 2018,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Vieux mod qui permet aux elfes d'avoir 90% de résistance contre vraiment tous les sorts de sommeil et de charme, les demi-elfes 30%.|Les demi-orcs gagnent l'infravision."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Rendu obsolète par [[1141]]."
             ]
         }
     }
