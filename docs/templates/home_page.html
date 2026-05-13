@@ -36,6 +36,15 @@
                 <p><strong>{{ translation_count }}</strong></p>
             </div>
         </div>
+        <div class="stats">
+            Mod per game
+            {% for game, count in mod_per_game.items() %}
+                <div>
+                    <p>{{ game }}</p>
+                    <p><strong>{{ count }}</strong></p>
+                </div>
+            {% endfor %}
+        </div>
     </div>
 </section>
 {% for category, mods in categories.items() %}<section class="table">{% include "category.html" %}</section>{% endfor %}
