@@ -99,6 +99,13 @@ TEMPLATE_TRANSLATIONS = {
     "introduction": _g("Introduction"),
     "version": _g("Version"),
     "mod_nb": _g("Mods recensés"),
+    "modal_confirmation_required": _g("Confirmation requise"),
+    "modal_intro": _g("Vous allez télécharger un fichier."),
+    "modal_warning_msg": _g("Vérifiez le nom et la source avant de confirmer."),
+    "modal_full_url": _g("URL complète :"),
+    "modal_cancel": _g("Annuler"),
+    "modal_confirm": _g("Confirmer & télécharger"),
+    "modal_close": _g("Fermer la modale"),
     "intros": [
         _g("Voici la liste de mods de la saga Baldur's Gate disponibles au téléchargement."),
         _g(

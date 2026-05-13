@@ -749,3 +749,98 @@ details[open]>summary::marker {
 .icons [aria-label]:focus {
     outline: none;
 }
+
+
+/* MODALE */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.modal.active {
+    display: flex;
+}
+
+.modal-content {
+    background: var(--color-secondary-contrast);
+    border-radius: 1.5rem;
+    max-width: 480px;
+    width: 90%;
+    padding: 1.5rem;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.modal-header h3 {
+    font-size: 1.4rem;
+    line-height: 0;
+    color: #0f172a;
+}
+
+.modal-close {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: var(--color-background);
+}
+
+.modal-close:hover {
+    color: #1e293b;
+}
+
+.modal-body {
+    margin-block: 1rem;
+    color: var(--color-background);
+}
+
+#downloadModal .warning-box {
+    background: #fef9c3;
+    border-left: 5px solid var(--color-primary);
+    padding: 12px;
+    border-radius: 0.75rem;
+    margin-block: 1rem;
+    color: #0f172a;
+}
+
+.modal-buttons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+    margin-top: 1.5rem;
+}
+
+#downloadModal .btn-cancel {
+    background: none;
+    border: 1px solid var(--color-secondary);
+    color: var(--color-background);
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+#downloadModal .btn-confirm {
+    background: var(--color-secondary);
+    color: var(--color-secondary-contrast);
+    border: none;
+    padding: 0.5rem 1.2rem;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+#downloadModal .btn-confirm:hover {
+    background: var(--color-background);
+}

@@ -105,15 +105,7 @@ class Mod:
         if self.status == ModStatus.MISSING:
             return list()
 
-        urls = list()
-        # troncate url to remove zip and rar files
-        for py_url in self.urls:
-            if py_url.is_direct_archive:
-                url, sep, _ = py_url.url.rpartition("/")
-                urls.append(HttpUrl(url + sep))
-            else:
-                urls.append(py_url)
-        return urls
+        return self.urls
 
     @property
     def icons(self) -> list[Icon]:
@@ -206,12 +198,6 @@ class Mod:
 
     def get_auto_notes(self, mod_id_to_name: dict[int, str] | None = None) -> list[str]:
         auto_notes = list()
-
-        # Don't download files directly
-        for py_url in self.urls:
-            if py_url.is_direct_archive:
-                filename = py_url.url.rsplit("/", 1)[-1]
-                auto_notes.append(_g("Fichier `{filename}`.").format(filename=filename))
 
         if self.is_outdated and self.safe <= 1:
             year, _ = self.last_update.split("-", 1)

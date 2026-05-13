@@ -1,0 +1,20 @@
+<div id="downloadModal" class="modal">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h3>🔐 {{ _(trans["modal_confirmation_required"]) }}</h3>
+            <button class="modal-close" title="{{ _(trans["modal_close"]) }}">&times;</button>
+        </div>
+        <div class="modal-body">
+            <p>{{ _(trans["modal_intro"]) }}</p>
+            <div class="warning-box">
+                ⚠️ {{ _(trans["modal_warning_msg"]) }}
+            </div>
+            <p><strong>{{ _(trans["modal_full_url"]) }}</strong><br>
+            <span id="modalFullUrl" class="file-preview"></span></p>
+        </div>
+        <div class="modal-buttons">
+            <button class="btn-cancel" title="{{ _(trans["modal_close"]) }}">{{ _(trans["modal_cancel"]) }}</button>
+            <a class="btn-confirm" id="confirmDownloadBtn">{{ _(trans["modal_confirm"]) }}</a>
+        </div>
+    </div>
+</div>

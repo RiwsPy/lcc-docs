@@ -30,8 +30,10 @@
     {% endif %}
     <div class="column url">
         {% for url in mod.get_urls() %}
-            <a href="{{ url.url }}" target="{% if url.is_external %}_blank{% else %}_self{% endif %}">
-            {% if url.image %}
+            <a class="{% if url.is_direct_archive %} security_check{% endif %}" href="{{ url.url }}" target="{% if url.is_external %}_blank{% else %}_self{% endif %}">
+            {% if url.is_direct_archive %}
+                🔐
+            {% elif url.image %}
                 {% set img = url.image %}
                 <img src="{{ static }}{{ img.src }}" alt="{{ img.alt|default('Lien vers le mod',true) }}" width="{{ img.width }}" height="{{ img.height }}" title="{{ img.title }}" lazy="loading">
             {% else %}
