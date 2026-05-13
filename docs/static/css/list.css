@@ -829,6 +829,10 @@ details[open]>summary::marker {
     cursor: pointer;
 }
 
+#downloadModal .btn-cancel:hover {
+    border: 1px solid var(--color-background);
+}
+
 #downloadModal .btn-confirm {
     background: var(--color-secondary);
     color: var(--color-secondary-contrast);
