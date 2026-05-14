@@ -88,7 +88,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
         "translation_state": "no",
         "safe": 2,
         "languages": [],
-        "status": "active",
+        "status": ["stable"],
         "last_update": "",
         "compatibilities": {},
         "tp2": ""
@@ -153,13 +153,14 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 
 `languages` : langues dans lesquelles le mod existe, actuellement non affiché, format [ISO-3166-1](https://fr.wikipedia.org/wiki/ISO_3166-1)
 
-`status` : la raison peut être indiquée dans les `notes`
- - `"active"` : mod actif
+`status` : liste des statuts, la raison peut être indiquée dans les `notes`
+ - `"stable"` : mod officiellement sorti, stable
  - `"archived"` : mod est archivé et donc non maintenu
  - `"obsolete"` : incompatible avec les dernières versions des jeux originaux ou/et EE (exemple d'un mod fait sous EE 1.3 mais jamais upgrade depuis)
  - `"embed"` : intégré en tant que composant (et maintenu) dans un autre mod ou pack
  - `"missing"` : lien de téléchargement disparu
- - `"wip"` : le mod est phase de développement
+ - `"unreleased"` : le mod est phase de développement
+ - `"beta"` : le mod est sorti mais pas encore stable
  - `"hidden"` : le mod ne s'affiche pas dans la liste
 
 `last_update` : date connue de la dernière mise à jour du mod, champ automatique, format `YYYY-MM`
@@ -168,3 +169,5 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - `"nom du tp2"` : le vrai nom du tp2 (sans le setup-)
  - `"n/a"` : non concerné (notamment pour les utilitaires)
  - `"non-weidu"` : pas de fichier tp2 car non-WeiDU
+
+`embedded_in` : `id` du mod qui a absorbé celui-ci

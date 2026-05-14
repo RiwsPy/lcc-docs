@@ -18,7 +18,7 @@ mod_kwargs = {
     "compatibilities": dict(),
     "safe": 2,
     "translation_state": TranslationStateEnum.AUTO,
-    "status": ModStatus.ACTIVE,
+    "status": [ModStatus.STABLE],
     "authors": [],
     "last_update": "",
     "tp2": "",
@@ -87,7 +87,7 @@ class TestMod:
         assert mod.get_urls() == expected_value
 
     def test_mod_get_urls_missing(self):
-        mod = create_mod_instance(urls=["http://toto.com"], status=ModStatus.MISSING)
+        mod = create_mod_instance(urls=["http://toto.com"], status=[ModStatus.MISSING])
         expected_value = list()
 
         assert mod.get_urls() == expected_value

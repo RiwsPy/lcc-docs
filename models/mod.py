@@ -23,13 +23,15 @@ YearMonthFormat = Annotated[str, StringConstraints(pattern=r"^(\d{4}-\d{2})?$")]
 
 
 class ModStatus(enum.StrEnum):
-    ACTIVE = "active"
     ARCHIVED = "archived"
+    BETA = "beta"
     EMBED = "embed"
+    HIDDEN = "hidden"
     MISSING = "missing"
     OBSOLETE = "obsolete"
+    STABLE = "stable"
+    UNRELEASED = "unreleased"
     WIP = "wip"
-    HIDDEN = "hidden"
 
 
 class MetaStatusEnum(enum.StrEnum):
@@ -58,14 +60,15 @@ class Mod:
     translation_state: TranslationStateEnum
     languages: list[str]
     authors: list[str]
-    status: ModStatus
+    status: set[ModStatus]
     last_update: YearMonthFormat
     tp2: str
-    compatibilities: dict[Literal["requires", "incompatible_with"], list[int | str]]
-    description_meta: dict = None
-    notes_meta: dict = None
-    urls_extra: list[HttpUrl] = None
-    notes_extra: list[str] = None
+    compatibilities: dict[Literal["requires", "conflicts"], list[int | str]]
+    embedded_in: PositiveInt | None = None
+    description_meta: dict | None = None
+    notes_meta: dict | None = None
+    urls_extra: list[HttpUrl] | None = None
+    notes_extra: list[str] | None = None
 
     last_update_date_format = "%Y-%m"
 
@@ -102,7 +105,7 @@ class Mod:
 
     def get_urls(self) -> list[HttpUrl]:
         # Pour éviter d'afficher des liens morts tout en les conservant
-        if self.status == ModStatus.MISSING:
+        if ModStatus.MISSING in self.status:
             return list()
 
         return self.urls
@@ -171,11 +174,11 @@ class Mod:
             note -= 1
         if "temnix" in self.authors:  # déso
             note -= 1
-        if self.status == ModStatus.ARCHIVED:
+        if ModStatus.ARCHIVED in self.status:
             note -= 1
-        elif self.status in (ModStatus.EMBED, ModStatus.OBSOLETE):
+        elif self.embedded_in or self.status & {ModStatus.EMBED, ModStatus.OBSOLETE}:
             note = 0
-        elif self.status in (ModStatus.WIP, ModStatus.MISSING):
+        elif self.status & {ModStatus.UNRELEASED, ModStatus.BETA, ModStatus.MISSING}:
             note = min(1, note)
         return max(0, note)
 
@@ -199,6 +202,9 @@ class Mod:
     def get_auto_notes(self, mod_id_to_name: dict[int, str] | None = None) -> list[str]:
         auto_notes = list()
 
+        if self.embedded_in:
+            auto_notes.append(_g("Inclus dans [[{mod_id}]].").format(mod_id=self.embedded_in))
+
         if self.is_outdated and self.safe <= 1:
             year, _ = self.last_update.split("-", 1)
             if self.is_EE:
@@ -214,15 +220,17 @@ class Mod:
                     "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le à vos risques et périls."
                 )
             )
-        if self.status == ModStatus.ARCHIVED:
+        if ModStatus.ARCHIVED in self.status:
             auto_notes.append(
                 _g(
                     "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui donner suite."
                 )
             )
-        elif self.status == ModStatus.WIP:
+        if ModStatus.UNRELEASED in self.status:
             auto_notes.append(_g("Ce mod est toujours en cours de réalisation."))
-        elif self.status == ModStatus.MISSING:
+        elif ModStatus.BETA in self.status:
+            auto_notes.append(_g("Ce mod est en cours de finition."))
+        if ModStatus.MISSING in self.status:
             if self.urls:
                 url = self.urls[0]
                 note = _g(
@@ -251,10 +259,10 @@ class Mod:
                     for mod_id in self.compatibilities["requires"]
                 )
                 auto_notes.append(_g("Nécessite : {mods}").format(mods=mods))
-            if "incompatible_with" in self.compatibilities:
+            if "conflicts" in self.compatibilities:
                 mods = ", ".join(
                     self.get_internal_link(mod_id, mod_id_to_name)
-                    for mod_id in self.compatibilities["incompatible_with"]
+                    for mod_id in self.compatibilities["conflicts"]
                 )
                 auto_notes.append(_g("Incompatible avec : {mods}").format(mods=mods))
 
@@ -286,9 +294,9 @@ class Mod:
             and self.translation_state_auto
             in (TranslationStateEnum.YES, TranslationStateEnum.NA, TranslationStateEnum.TODO)
             and self.tp2 not in ("non-weidu", "n/a")
-            and self.status in (ModStatus.ACTIVE, ModStatus.EMBED, ModStatus.HIDDEN)
+            and bool(self.status & {ModStatus.STABLE, ModStatus.EMBED, ModStatus.HIDDEN})
         )
 
     @property
-    def games_ordered(self) -> list[str]:
+    def games_ordered(self) -> list[GameEnum]:
         return [game for game in GameEnum if game in self.games]
