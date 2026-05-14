@@ -65781,5 +65781,173 @@
         "last_update": "2003-01",
         "compatibilities": {},
         "tp2": "non-weidu"
+    },
+    {
+        "id": 2019,
+        "name": "Change Kits and add Kit overlays",
+        "description": "Ce mod propose tout un tas de solutions pour changer le kit de vos personnages ou les cumuler mais aussi d'en créer sur mesure directement depuis le jeu via un système de dialogue et de potion.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/90518/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Gel87"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-05",
+        "compatibilities": {
+            "requires": [
+                "v2.0+"
+            ]
+        },
+        "tp2": "GelThiefKitChange"
+    },
+    {
+        "id": 2020,
+        "name": "Shadow Lurker Vampire Monk Kit",
+        "description": "Ce mod ajoute un kit de vampire à la classe Moine. Il est sensible à la lumière du soleil, mais il possède un anneau qui peut l'en protéger (qui abaisse ses caractéristiques). Il dispose aussi de capacités nécromantiques et des HLAS personnalisées.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/90610/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Gel87"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-04",
+        "compatibilities": {},
+        "tp2": "GeVaKit2"
+    },
+    {
+        "id": 2021,
+        "name": "Allow Stacking Potions",
+        "description": "Depuis la version 2.6, les effets de certaines potions ne se cumulent plus entre elles, ce mod permet de rétablir l'ancien fonctionnement.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/61898/tressets-choice-tweaks/p5/#Comment_1164166"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Tresset"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2021-02",
+        "compatibilities": {},
+        "tp2": "Allow_Stacking_Potions"
+    },
+    {
+        "id": 2022,
+        "name": "Infinity Engine AutoSpriter",
+        "description": "Ce module complémentaire de Blender automatise la création de sprites à partir d'animations de créatures.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/39792-blender-add-on-ie-autospriter",
+            "https://forums.beamdog.com/discussion/89525/",
+            "https://github.com/Incrementis/IE-AutoSpriter-"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG",
+            "Tutu",
+            "BGEE",
+            "SoD",
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET",
+            "IWD",
+            "IWDEE"
+        ],
+        "authors": [
+            "Incrementis"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2026-05",
+        "compatibilities": {
+            "requires": [
+                "Python",
+                "Blender"
+            ]
+        },
+        "tp2": "n/a"
+    },
+    {
+        "id": 2023,
+        "name": "Melinda the Mute",
+        "description": "Une quête de [[226]] en standalone.",
+        "urls": [
+            "https://github.com/RoxanneSHS/MelyndaMute"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CBisson"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2022-05",
+        "compatibilities": {},
+        "tp2": "Melynda"
     }
 ]

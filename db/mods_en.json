@@ -28722,5 +28722,70 @@
                 "Rendu obsolète par [[1141]]."
             ]
         }
+    },
+    {
+        "id": 2019,
+        "description": "This mod offers a whole host of ways to change your characters’ outfits or combine them, as well as allowing you to create custom outfits directly within the game using a dialogue and potion system.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose tout un tas de solutions pour changer le kit de vos personnages ou les cumuler mais aussi d'en créer sur mesure directement depuis le jeu via un système de dialogue et de potion."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2020,
+        "description": "This mod adds a vampire kit to the Monk class. The character is sensitive to sunlight, but possesses a ring that can protect them from it (which lowers their stats). They also have necromantic abilities and customised HLAS.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod ajoute un kit de vampire à la classe Moine. Il est sensible à la lumière du soleil, mais il possède un anneau qui peut l'en protéger (qui abaisse ses caractéristiques). Il dispose aussi de capacités nécromantiques et des HLAS personnalisées."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2021,
+        "description": "Since version 2.6, the effects of certain potions no longer stack; this mod restores the previous behaviour.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Depuis la version 2.6, les effets de certaines potions ne se cumulent plus entre elles, ce mod permet de rétablir l'ancien fonctionnement."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2022,
+        "description": "This Blender add-on automates the creation of sprites from creature animations.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce module complémentaire de Blender automatise la création de sprites à partir d'animations de créatures."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2023,
+        "description": "A [[226]] quest in standalone mode.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Une quête de [[226]] en standalone."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]
