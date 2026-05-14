@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-13 18:06+0200\n"
-"PO-Revision-Date: 2026-05-14 17:11+0200\n"
+"POT-Creation-Date: 2026-05-14 20:45+0200\n"
+"PO-Revision-Date: 2026-05-14 20:46+0200\n"
 "Last-Translator: Riws <toto.streak289@passinbox.com>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -118,7 +118,12 @@ msgstr "Party customisation"
 msgid "GemRB"
 msgstr "GemRB"
 
-#: models/mod.py:207
+#: models/mod.py:206
+#, python-brace-format
+msgid "Inclus dans [[{mod_id}]]."
+msgstr "Included in [[{mod_id}]]."
+
+#: models/mod.py:213
 #, python-brace-format
 msgid ""
 "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
@@ -127,7 +132,7 @@ msgstr ""
 "⚠️ EE: The last update was in {year}. This mod may not work with the latest "
 "version of the game."
 
-#: models/mod.py:214
+#: models/mod.py:220
 msgid ""
 "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
 "le à vos risques et périls."
@@ -135,7 +140,7 @@ msgstr ""
 "⚠️ WeiDU: This mod overwrites files and cannot be uninstalled. Install it at "
 "your own risk.."
 
-#: models/mod.py:220
+#: models/mod.py:226
 msgid ""
 "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
 "donner suite."
@@ -143,31 +148,35 @@ msgstr ""
 "This mod has been archived by its author/maintainer, who does not seem to "
 "want to continue developing it."
 
-#: models/mod.py:224
+#: models/mod.py:230
 msgid "Ce mod est toujours en cours de réalisation."
 msgstr "This mod is still in progress."
 
-#: models/mod.py:229
+#: models/mod.py:232
+msgid "Ce mod est en cours de finition."
+msgstr "This mod is currently being finalised."
+
+#: models/mod.py:237
 #, python-brace-format
 msgid "Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
 msgstr ""
 "This mod has disappeared from <a href='{url}' target='_blank'>{url}</a>."
 
-#: models/mod.py:232
+#: models/mod.py:240
 msgid "Ce mod a disparu."
 msgstr "This mod has disappeared."
 
-#: models/mod.py:244
+#: models/mod.py:252
 #, python-brace-format
 msgid "Disponible en {language}."
 msgstr "Available in {language}."
 
-#: models/mod.py:253
+#: models/mod.py:261
 #, python-brace-format
 msgid "Nécessite : {mods}"
 msgstr "Requires: {mods}"
 
-#: models/mod.py:259
+#: models/mod.py:267
 #, python-brace-format
 msgid "Incompatible avec : {mods}"
 msgstr "Incompatible with: {mods}"

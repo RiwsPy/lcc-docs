@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-13 18:06+0200\n"
-"PO-Revision-Date: 2026-05-13 18:06+0200\n"
+"POT-Creation-Date: 2026-05-14 20:45+0200\n"
+"PO-Revision-Date: 2026-05-14 20:48+0200\n"
 "Last-Translator: Riws <toto.streak289@passinbox.com>\n"
 "Language-Team: French <traduc@traduc.org>\n"
 "Language: fr\n"
@@ -118,49 +118,58 @@ msgstr ""
 msgid "GemRB"
 msgstr ""
 
-#: models/mod.py:207
+#: models/mod.py:206
+#, python-brace-format
+msgid "Inclus dans [[{mod_id}]]."
+msgstr ""
+
+#: models/mod.py:213
 #, python-brace-format
 msgid ""
 "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas "
 "fonctionner avec la dernière version du jeu."
 msgstr ""
 
-#: models/mod.py:214
+#: models/mod.py:220
 msgid ""
 "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-"
 "le à vos risques et périls."
 msgstr ""
 
-#: models/mod.py:220
+#: models/mod.py:226
 msgid ""
 "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui "
 "donner suite."
 msgstr ""
 
-#: models/mod.py:224
+#: models/mod.py:230
 msgid "Ce mod est toujours en cours de réalisation."
 msgstr ""
 
-#: models/mod.py:229
+#: models/mod.py:232
+msgid "Ce mod est en cours de finition."
+msgstr ""
+
+#: models/mod.py:237
 #, python-brace-format
 msgid "Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
 msgstr ""
 
-#: models/mod.py:232
+#: models/mod.py:240
 msgid "Ce mod a disparu."
 msgstr ""
 
-#: models/mod.py:244
+#: models/mod.py:252
 #, python-brace-format
 msgid "Disponible en {language}."
 msgstr ""
 
-#: models/mod.py:253
+#: models/mod.py:261
 #, python-brace-format
 msgid "Nécessite : {mods}"
 msgstr ""
 
-#: models/mod.py:259
+#: models/mod.py:267
 #, python-brace-format
 msgid "Incompatible avec : {mods}"
 msgstr ""
