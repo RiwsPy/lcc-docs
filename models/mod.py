@@ -63,10 +63,10 @@ class Mod:
     tp2: str
     compatibilities: dict[Literal["requires", "incompatible_with"], list[int | str]]
     embedded_in: PositiveInt | None = None
-    description_meta: dict = None
-    notes_meta: dict = None
-    urls_extra: list[HttpUrl] = None
-    notes_extra: list[str] = None
+    description_meta: dict | None = None
+    notes_meta: dict | None = None
+    urls_extra: list[HttpUrl] | None = None
+    notes_extra: list[str] | None = None
 
     last_update_date_format = "%Y-%m"
 
@@ -295,9 +295,9 @@ class Mod:
             and self.translation_state_auto
             in (TranslationStateEnum.YES, TranslationStateEnum.NA, TranslationStateEnum.TODO)
             and self.tp2 not in ("non-weidu", "n/a")
-            and self.get_status() & {ModStatus.ACTIVE, ModStatus.EMBED, ModStatus.HIDDEN}
+            and bool(self.get_status() & {ModStatus.ACTIVE, ModStatus.EMBED, ModStatus.HIDDEN})
         )
 
     @property
-    def games_ordered(self) -> list[str]:
+    def games_ordered(self) -> list[GameEnum]:
         return [game for game in GameEnum if game in self.games]
