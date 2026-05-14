@@ -2442,7 +2442,7 @@
         ],
         "last_update": "2024-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 292
             ]
         },
@@ -2664,7 +2664,7 @@
         ],
         "last_update": "2025-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1213
             ]
         },
@@ -3628,7 +3628,7 @@
         ],
         "last_update": "2025-07",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 261
             ]
         },
@@ -4225,7 +4225,7 @@
         ],
         "last_update": "2025-03",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 530
             ]
         },
@@ -4443,7 +4443,7 @@
         ],
         "last_update": "2022-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 146,
                 333
             ]
@@ -4543,7 +4543,7 @@
         ],
         "last_update": "2022-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 146
             ]
         },
@@ -4680,7 +4680,7 @@
         ],
         "last_update": "2022-07",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 133
             ]
         },
@@ -4790,7 +4790,7 @@
         ],
         "last_update": "2025-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 130,
                 1511
             ]
@@ -4866,7 +4866,7 @@
         ],
         "last_update": "2024-09",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1511
             ]
         },
@@ -5241,7 +5241,7 @@
         ],
         "last_update": "2026-03",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 123,
                 126
             ]
@@ -5574,7 +5574,7 @@
         ],
         "last_update": "2024-07",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 504
             ]
         },
@@ -6867,7 +6867,7 @@
         ],
         "last_update": "2011-02",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 194,
                 803,
                 1383
@@ -6909,7 +6909,7 @@
         ],
         "last_update": "2022-06",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 193,
                 803,
                 1383
@@ -7222,7 +7222,7 @@
         ],
         "last_update": "2018-02",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 "EE version >= 2.6"
             ]
         },
@@ -7270,7 +7270,7 @@
             "requires": [
                 348
             ],
-            "incompatible_with": [
+            "conflicts": [
                 "EE version != 2.6.6"
             ]
         },
@@ -8047,7 +8047,7 @@
         ],
         "last_update": "2024-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1354
             ],
             "requires": [
@@ -9253,7 +9253,7 @@
         ],
         "last_update": "2022-04",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 100,
                 1118
             ]
@@ -10379,7 +10379,7 @@
         ],
         "last_update": "2020-01",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 69
             ]
         },
@@ -10546,7 +10546,7 @@
         ],
         "last_update": "2026-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 314,
                 396,
                 982
@@ -11172,7 +11172,7 @@
         ],
         "last_update": "2025-04",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 297,
                 982
             ]
@@ -11808,7 +11808,7 @@
         ],
         "last_update": "2018-03",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 123
             ]
         },
@@ -11997,7 +11997,7 @@
         ],
         "last_update": "2014-01",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 963
             ]
         },
@@ -12374,7 +12374,7 @@
         ],
         "last_update": "2026-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1410
             ]
         },
@@ -12759,7 +12759,7 @@
         ],
         "last_update": "2008-11",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1383
             ]
         },
@@ -13281,7 +13281,7 @@
         ],
         "last_update": "2026-03",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 768
             ]
         },
@@ -13844,7 +13844,7 @@
         ],
         "last_update": "2022-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1602
             ]
         },
@@ -14070,7 +14070,7 @@
         ],
         "last_update": "2025-02",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 297,
                 314
             ]
@@ -14809,7 +14809,7 @@
         ],
         "last_update": "2026-03",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 562
             ]
         },
@@ -14884,7 +14884,7 @@
         ],
         "last_update": "2023-06",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1878,
                 1879
             ]
@@ -15271,7 +15271,7 @@
         ],
         "last_update": "2025-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 432,
                 1042
             ],
@@ -15313,7 +15313,7 @@
         ],
         "last_update": "2021-06",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 431
             ]
         },
@@ -17810,7 +17810,7 @@
         ],
         "last_update": "2024-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 155
             ]
         },
@@ -18380,7 +18380,7 @@
         ],
         "last_update": "2025-07",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 667
             ]
         },
@@ -18566,7 +18566,7 @@
         ],
         "last_update": "2026-01",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 528
             ]
         },
@@ -18636,7 +18636,7 @@
         ],
         "last_update": "2019-02",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 526
             ]
         },
@@ -18714,7 +18714,7 @@
         ],
         "last_update": "2024-06",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 117
             ]
         },
@@ -19103,7 +19103,7 @@
         ],
         "last_update": "2017-06",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 562
             ]
         },
@@ -19227,7 +19227,7 @@
         ],
         "last_update": "2024-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 521,
                 982,
                 1011
@@ -19896,7 +19896,7 @@
         ],
         "last_update": "2023-10",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 541
             ]
         },
@@ -22497,7 +22497,7 @@
         ],
         "last_update": "2019-01",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 732
             ]
         },
@@ -23474,7 +23474,7 @@
         ],
         "last_update": "2025-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 521,
                 982
             ]
@@ -24189,7 +24189,7 @@
         ],
         "last_update": "2025-02",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 894
             ]
         },
@@ -24706,7 +24706,7 @@
         ],
         "last_update": "2018-09",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 "version >= 2.6"
             ]
         },
@@ -25787,7 +25787,7 @@
         ],
         "last_update": "2024-11",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 638
             ]
         },
@@ -25950,7 +25950,7 @@
         ],
         "last_update": "2021-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1062,
                 1601
             ]
@@ -26307,7 +26307,7 @@
                 "Vlad's Compilation",
                 "ToB"
             ],
-            "incompatible_with": [
+            "conflicts": [
                 226,
                 936,
                 1062
@@ -27742,7 +27742,7 @@
         ],
         "last_update": "2018-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 "version >= 2.6"
             ]
         },
@@ -28261,7 +28261,7 @@
         ],
         "last_update": "2009-06",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 193,
                 194,
                 1383
@@ -30428,7 +30428,7 @@
                 "ToB",
                 74
             ],
-            "incompatible_with": [
+            "conflicts": [
                 1297
             ]
         },
@@ -30937,7 +30937,7 @@
         ],
         "last_update": "2021-09",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1057
             ],
             "requires": [
@@ -31117,7 +31117,7 @@
         ],
         "last_update": "2021-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1137
             ]
         },
@@ -31576,7 +31576,7 @@
         ],
         "last_update": "2019-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 687
             ]
         },
@@ -32880,7 +32880,7 @@
         ],
         "last_update": "2024-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1341
             ]
         },
@@ -33508,7 +33508,7 @@
         ],
         "last_update": "2024-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1475
             ]
         },
@@ -33581,7 +33581,7 @@
         ],
         "last_update": "2021-04",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 608
             ]
         },
@@ -33941,7 +33941,7 @@
         ],
         "last_update": "2026-03",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 961
             ]
         },
@@ -33979,7 +33979,7 @@
         ],
         "last_update": "2009-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 960
             ]
         },
@@ -34063,7 +34063,7 @@
         ],
         "last_update": "2024-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 338
             ]
         },
@@ -34408,7 +34408,7 @@
         ],
         "last_update": "2023-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1587
             ]
         },
@@ -34604,7 +34604,7 @@
         ],
         "last_update": "2004-01",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 "ToB"
             ]
         },
@@ -34762,7 +34762,7 @@
         ],
         "last_update": "2025-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 297,
                 314,
                 667
@@ -35529,7 +35529,7 @@
         ],
         "last_update": "2024-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 201
             ]
         },
@@ -35776,7 +35776,7 @@
         ],
         "last_update": "2024-11",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 999,
                 1094
             ]
@@ -36167,7 +36167,7 @@
         ],
         "last_update": "2026-04",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 665,
                 982
             ]
@@ -36521,7 +36521,7 @@
         ],
         "last_update": "2024-11",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1354
             ]
         },
@@ -36869,7 +36869,7 @@
         ],
         "last_update": "2015-02",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 431
             ]
         },
@@ -37635,7 +37635,7 @@
         ],
         "last_update": "2025-09",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 736
             ],
             "requires": [
@@ -38819,7 +38819,7 @@
         ],
         "last_update": "2024-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1011
             ]
         },
@@ -39696,7 +39696,7 @@
         ],
         "last_update": "2007-06",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 261
             ]
         },
@@ -40334,7 +40334,7 @@
             "requires": [
                 74
             ],
-            "incompatible_with": [
+            "conflicts": [
                 882
             ]
         },
@@ -41348,7 +41348,7 @@
         ],
         "last_update": "2021-07",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1061
             ]
         },
@@ -42953,7 +42953,7 @@
         ],
         "last_update": "2021-06",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 74
             ]
         },
@@ -43542,7 +43542,7 @@
         ],
         "last_update": "2024-12",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 153
             ]
         },
@@ -45036,7 +45036,7 @@
         ],
         "last_update": "2020-04",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 2012
             ]
         },
@@ -45321,7 +45321,7 @@
         ],
         "last_update": "2024-10",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1302,
                 1303
             ]
@@ -45554,7 +45554,7 @@
         ],
         "last_update": "2025-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1806
             ]
         },
@@ -45977,7 +45977,7 @@
             "requires": [
                 74
             ],
-            "incompatible_with": [
+            "conflicts": [
                 863
             ]
         },
@@ -46174,7 +46174,7 @@
         ],
         "last_update": "2026-01",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1280
             ]
         },
@@ -46217,7 +46217,7 @@
         ],
         "last_update": "2026-03",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1280
             ]
         },
@@ -47617,7 +47617,7 @@
         ],
         "last_update": "2023-10",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 930
             ]
         },
@@ -48093,7 +48093,7 @@
         ],
         "last_update": "2024-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 226,
                 1032
             ]
@@ -49940,7 +49940,7 @@
         ],
         "last_update": "2022-09",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 348
             ],
             "requires": [
@@ -52032,7 +52032,7 @@
         ],
         "last_update": "2018-07",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 948
             ]
         },
@@ -53218,7 +53218,7 @@
         ],
         "last_update": "2022-10",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 133,
                 135
             ]
@@ -55707,7 +55707,7 @@
         ],
         "last_update": "2024-08",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 973
             ]
         },
@@ -56187,7 +56187,7 @@
         ],
         "last_update": "2025-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 736
             ],
             "requires": [
@@ -56236,7 +56236,7 @@
         ],
         "last_update": "2019-08",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 390
             ]
         },
@@ -62835,7 +62835,7 @@
         ],
         "last_update": "2026-05",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1286
             ]
         },
@@ -65175,7 +65175,7 @@
             "requires": [
                 1229
             ],
-            "incompatible_with": [
+            "conflicts": [
                 420
             ]
         },
@@ -65222,7 +65222,7 @@
         ],
         "last_update": "2024-06",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 420
             ]
         },
@@ -69612,7 +69612,7 @@
         ],
         "last_update": "2026-04",
         "compatibilities": {
-            "incompatible_with": [
+            "conflicts": [
                 1272
             ]
         },

@@ -101,24 +101,22 @@ class ModManager:
 
     @classmethod
     def get_last_added_mods(cls, mods: list[Mod], nb: int = 10) -> list[Mod]:
-        not_hidden_mods = [mod for mod in mods if ModStatus.HIDDEN not in mod.get_status()]
+        not_hidden_mods = [mod for mod in mods if ModStatus.HIDDEN not in mod.status]
         return not_hidden_mods[-nb:][::-1]
 
     @classmethod
     def get_last_updated_mods(cls, mods: list[Mod], nb: int = 10) -> list[Mod]:
-        active_mods = [mod for mod in mods if ModStatus.UNRELEASED not in mod.get_status()]
+        active_mods = [mod for mod in mods if ModStatus.UNRELEASED not in mod.status]
         active_mods.sort(key=lambda x: x.last_update)
         return active_mods[-nb:][::-1]
 
     @classmethod
     def get_missing_mods(cls, mods: list[Mod]) -> list[Mod]:
-        return [mod for mod in mods if ModStatus.MISSING in mod.get_status()]
+        return [mod for mod in mods if ModStatus.MISSING in mod.status]
 
     @classmethod
     def get_without_author_mods(cls, mods: list[Mod]) -> list[Mod]:
-        return [
-            mod for mod in mods if not mod.authors and ModStatus.HIDDEN not in mod.get_status()
-        ]
+        return [mod for mod in mods if not mod.authors and ModStatus.HIDDEN not in mod.status]
 
     @classmethod
     def get_without_tp2_mods(cls, mods: list[Mod]) -> list[Mod]:
@@ -126,8 +124,7 @@ class ModManager:
             mod
             for mod in mods
             if not mod.tp2
-            and not mod.get_status()
-            & {ModStatus.HIDDEN, ModStatus.UNRELEASED, ModStatus.ARCHIVED}
+            and not mod.status & {ModStatus.HIDDEN, ModStatus.UNRELEASED, ModStatus.ARCHIVED}
         ]
 
 

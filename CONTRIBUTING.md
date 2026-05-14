@@ -224,7 +224,7 @@ La date doit être comprise entre le 1er Janvier 1999 et la date d'aujourd'hui.
 
 Renseigne les dépendances fortes entre les mods.\
 Deux champs sont actuellement disponibles :
-1. `incompatible_with` : les mods dont l'incompatibilité est connue
+1. `conflicts` : les mods dont l'incompatibilité est connue
 1. `requires` : les mods requis pour l'installation du mod concerné
 
 Les champs attendent une liste : `[]`.\

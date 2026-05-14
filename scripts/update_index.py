@@ -63,7 +63,7 @@ def main(**kwargs):
 
             categories_mod = {cat: list() for cat in CategoryEnum}
             for mod in mods:
-                if ModStatus.HIDDEN not in mod.get_status():
+                if ModStatus.HIDDEN not in mod.status:
                     for category in mod.categories:
                         categories_mod[category].append(mod)
                     authors |= set(mod.authors)
@@ -89,7 +89,7 @@ def main(**kwargs):
         mod_id_to_name = {mod.id: mod.name for mod in mods}
 
         for mod in mods:
-            if ModStatus.HIDDEN not in mod.get_status():
+            if ModStatus.HIDDEN not in mod.status:
                 authors |= set(mod.authors)
                 team |= set(mod.team)
                 if mod.tp2 not in ("n/a", "non-weidu", ""):
