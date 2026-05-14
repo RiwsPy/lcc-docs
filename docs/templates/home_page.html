@@ -5,10 +5,15 @@
             {% for intro in trans["intros"] %}
                 <p>{{ _(intro) }}</p>
             {% endfor %}
-            <div class="language-picker">
-                {% for language_url, flag in language_flags.items() %}
-                    <a class="button" href="{{ home_page }}{{ language_url }}/" title="{{ language_url }}">{{ flag }}</a>
-                {% endfor %}
+            <div class="language-block">
+                <div class="language-content">
+                    <p>Select a flag to view the list in your language</p>
+                    <div class="language-picker">
+                        {% for language_url, flag in language_flags.items() %}
+                            <a class="button" href="{{ home_page }}{{ language_url }}/" title="{{ language_url }}">{{ flag }}</a>
+                        {% endfor %}
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -37,7 +42,7 @@
             </div>
         </div>
         <div class="stats">
-            Mod per game
+            <p>Mod per game</p>
             {% for game, count in mod_per_game.items() %}
                 <div>
                     <p>{{ game }}</p>
