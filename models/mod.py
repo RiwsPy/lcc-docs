@@ -23,13 +23,15 @@ YearMonthFormat = Annotated[str, StringConstraints(pattern=r"^(\d{4}-\d{2})?$")]
 
 
 class ModStatus(enum.StrEnum):
-    ACTIVE = "active"
     ARCHIVED = "archived"
+    BETA = "beta"
     EMBED = "embed"
+    HIDDEN = "hidden"
     MISSING = "missing"
     OBSOLETE = "obsolete"
+    STABLE = "stable"
+    UNRELEASED = "unreleased"
     WIP = "wip"
-    HIDDEN = "hidden"
 
 
 class MetaStatusEnum(enum.StrEnum):
@@ -58,7 +60,7 @@ class Mod:
     translation_state: TranslationStateEnum
     languages: list[str]
     authors: list[str]
-    status: ModStatus | set[ModStatus]
+    status: set[ModStatus]
     last_update: YearMonthFormat
     tp2: str
     compatibilities: dict[Literal["requires", "incompatible_with"], list[int | str]]
@@ -179,9 +181,9 @@ class Mod:
             note -= 1
         if ModStatus.ARCHIVED in self.get_status():
             note -= 1
-        elif self.get_status() & {ModStatus.EMBED, ModStatus.OBSOLETE}:
+        elif self.embedded_in or self.get_status() & {ModStatus.EMBED, ModStatus.OBSOLETE}:
             note = 0
-        elif self.get_status() & {ModStatus.WIP, ModStatus.MISSING}:
+        elif self.get_status() & {ModStatus.UNRELEASED, ModStatus.BETA, ModStatus.MISSING}:
             note = min(1, note)
         return max(0, note)
 
@@ -229,9 +231,11 @@ class Mod:
                     "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui donner suite."
                 )
             )
-        elif ModStatus.WIP in self.get_status():
+        if ModStatus.UNRELEASED in self.get_status():
             auto_notes.append(_g("Ce mod est toujours en cours de réalisation."))
-        elif ModStatus.MISSING in self.get_status():
+        elif ModStatus.BETA in self.get_status():
+            auto_notes.append(_g("Ce mod est en cours de finition."))
+        if ModStatus.MISSING in self.get_status():
             if self.urls:
                 url = self.urls[0]
                 note = _g(
@@ -295,7 +299,7 @@ class Mod:
             and self.translation_state_auto
             in (TranslationStateEnum.YES, TranslationStateEnum.NA, TranslationStateEnum.TODO)
             and self.tp2 not in ("non-weidu", "n/a")
-            and bool(self.get_status() & {ModStatus.ACTIVE, ModStatus.EMBED, ModStatus.HIDDEN})
+            and bool(self.get_status() & {ModStatus.STABLE, ModStatus.EMBED, ModStatus.HIDDEN})
         )
 
     @property
