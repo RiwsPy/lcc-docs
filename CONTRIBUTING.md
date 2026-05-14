@@ -144,7 +144,7 @@ Ce champ renseigne sur la qualité du mod en général. Les valeurs possibles vo
   * Le mod n'est pas weidu : `tp2="non-weidu"`
   * Le mod est archivé (et donc plus maintenu) : `status="archived"`
 * Ce qui **limite** la note à 1 point (c'est-à-dire qu'ils valent 0 ou 1)
-  * Le mod est en cours de création : `status="wip"`
+  * Le mod est en cours de création : `status="beta"` ou `status="unreleased"`
   * Le mod a disparu : `status="missing"`
 
 

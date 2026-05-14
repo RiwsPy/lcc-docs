@@ -88,7 +88,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
         "translation_state": "no",
         "safe": 2,
         "languages": [],
-        "status": "stable",
+        "status": ["stable"],
         "last_update": "",
         "compatibilities": {},
         "tp2": ""
@@ -153,7 +153,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 
 `languages` : langues dans lesquelles le mod existe, actuellement non affiché, format [ISO-3166-1](https://fr.wikipedia.org/wiki/ISO_3166-1)
 
-`status` : la raison peut être indiquée dans les `notes`
+`status` : liste des statuts, la raison peut être indiquée dans les `notes`
  - `"stable"` : mod officiellement sorti, stable
  - `"archived"` : mod est archivé et donc non maintenu
  - `"obsolete"` : incompatible avec les dernières versions des jeux originaux ou/et EE (exemple d'un mod fait sous EE 1.3 mais jamais upgrade depuis)
