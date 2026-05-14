@@ -23678,7 +23678,6 @@
         "name": "Morituri Kit",
         "description": "L'une des classes de guerriers au corps à corps les plus uniques, les Morituri sont des combattants qui ont renoncé à utiliser des armures ou des objets magiques pour améliorer leurs capacités. Leur entraînement intense et prolongé leur a permis d'acquérir les compétences et les prouesses spécifiques du redoutable Kensai, l'endurance du Barbare, de la fougue du Berserker et de la rapidité du Moine. Les Morituri combattent leurs ennemis au corps à corps, ne battant jamais en retraite, toujours en quête de la victoire ou de la mort. Bien qu'ils ne bénéficient pas des avantages des armures ou des objets magiques, leurs capacités physiques surhumaines, leur contrôle parfait de leur énergie Ki et leur détermination inébranlable font d'eux des adversaires redoutables et de dignes défenseurs du droit et de la justice dans tout Féérune. Les Morituri qui parviennent à survivre assez longtemps pour atteindre leur plein potentiel portent le titre honorifique de « Porteurs de lumière », étant devenus une véritable force du droit et de la justice. Actuellement, seuls les humains sont acceptés comme candidats à l'Ordre des Morituri.",
         "urls": [
-            "https://america.iegmc.com/com/morituri-kit-5.2.zip",
             "https://github.com/The-Gate-Project/Morituri_Kit"
         ],
         "categories": [
@@ -26386,7 +26385,8 @@
         "name": "Souvenirs du Nord",
         "description": "Ce mod polonais (Pamiątki z Północy) modifie 33 objets de BG2 pour les rendre plus utiles, et ajoute 35 objets de [[761]] à l'échoppe de Mira sur la Promenade de Waukyne. Par ailleurs, il ajoute les vendeurs Deidre et Joluv, et modifie quelque peu l'environnement de l'Antichambre.",
         "urls": [
-            "https://baldur.cob-bg.pl/node/763"
+            "https://baldur.cob-bg.pl/node/763",
+            "https://baldur.cob-bg.pl/download/bg2/items/Pamiatki_z_Polnocy_v1.0.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -49603,7 +49603,6 @@
         "name": "M'Khiin NPC",
         "description": "Ce mod ajoute M'Khiin Grubdoubler, le compagnon gobelin de Siege of Dragonspear, à BG2EE en tant que PNJ recrutable. Charname peut choisir de la connaître ou de la rencontrer à nouveau dans SOA. Elle peut être recrutée dans le district du Temple. Elle possède plusieurs banters, bon nombre d'interactions ainsi qu'une petite quête.",
         "urls": [
-            "https://america.iegmc.com/bucketfulofsunshine/mkhiinbg2-main.zip",
             "https://github.com/szaumoor/mkhiinbg2"
         ],
         "categories": [
@@ -66012,5 +66011,110 @@
         "last_update": "2012-04",
         "compatibilities": {},
         "tp2": "anofr"
+    },
+    {
+        "id": 2026,
+        "name": "XGTCumulativeCasterLevels",
+        "description": "Ce mod permet de cumuler les bonus au niveau de lancement de sorts provenant de différentes sources. Par défaut, dans les jeux IE, les bonus au niveau de lancement de sorts ne se cumulent pas : c'est toujours le dernier effet appliqué qui prévaut. Ce mod corrige cela. Ainsi, si vous disposiez d'un kit de classe conférant un malus de -2 au niveau de lancement de sorts arcaniques, que vous portiez une robe conférant un bonus de +3 au niveau de lancement de sorts arcaniques et que vous aviez acquis une compétence conférant un bonus de +1 au niveau de lancement de sorts arcaniques.",
+        "urls": [
+            "https://github.com/Xgatt/XGTCumulativeCasterLevels"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Xgatt"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2026-04",
+        "compatibilities": {
+            "requires": [
+                348
+            ]
+        },
+        "tp2": "XGTCumulativeCasterLevels"
+    },
+    {
+        "id": 2027,
+        "name": "XGTCustomizableXPGain",
+        "description": "Il s'agit d'un mod qui permet aux membres de votre groupe de gagner des points d'expérience à des rythmes différents. Cela se fait grâce à un objet de type livre — le « Tome of the Masterful Learner » — ajouté à l'inventaire du protagoniste dès le début du jeu. Cliquez avec le bouton droit sur le livre et sélectionnez « Étudier » pour ouvrir une boîte de dialogue qui permet au lecteur de définir son propre modificateur de gain d'XP, allant de -100 % (aucun XP) à +500 % (six fois le taux normal), par paliers prédéfinis.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41263-mod-customizable-xp-gain/",
+            "https://github.com/Xgatt/XGTCustomizableXPGain"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Xgatt"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2026-05",
+        "compatibilities": {
+            "requires": [
+                348
+            ]
+        },
+        "tp2": "XGTCustomizableXPGain"
+    },
+    {
+        "id": 2028,
+        "name": "Shapeshifter Re Rebalancing",
+        "description": "Ce mod modifie le composant `Shapeshifter Rebalancing` de [[1141]].",
+        "urls": [
+            "https://github.com/ZhalekXishailri/Shapeshifter-Re-Rebalancing"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE",
+            "BG2",
+            "BGT",
+            "Tutu"
+        ],
+        "authors": [
+            "Dracoqwerty"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-12",
+        "compatibilities": {
+            "requires": [
+                1141
+            ]
+        },
+        "tp2": "Shapeshifterrere"
     }
 ]

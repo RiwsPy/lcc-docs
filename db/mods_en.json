@@ -28809,5 +28809,44 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2026,
+        "description": "This is a mod that allows casting level bonuses from various sources to accumulate. By default, Casting Level bonuses in the IE games do not stack -- the last-applied effect always wins. This mod fixes that. So if you had a class kit that had a -2 malus to Arcane Casting Level, wore a robe that gave +3 to Arcane Casting Level, and picked up a proficiency that gave +1 to Arcane Casting Level.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod permet de cumuler les bonus au niveau de lancement de sorts provenant de différentes sources. Par défaut, dans les jeux IE, les bonus au niveau de lancement de sorts ne se cumulent pas : c'est toujours le dernier effet appliqué qui prévaut. Ce mod corrige cela. Ainsi, si vous disposiez d'un kit de classe conférant un malus de -2 au niveau de lancement de sorts arcaniques, que vous portiez une robe conférant un bonus de +3 au niveau de lancement de sorts arcaniques et que vous aviez acquis une compétence conférant un bonus de +1 au niveau de lancement de sorts arcaniques."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2027,
+        "description": "This is a mod that lets your party members gain XP at different rates. This is done through a book item — 'Tome of the Masterful Learner' — added to the protagonist's inventory at game start. Right-click the book and choose 'Study' to open a dialog that lets the reader set their own XP gain modifier from -100% (no XP at all) up to +500% (six times the normal rate), in predefined steps.",
+        "description_meta": {
+            "status": "done",
+            "source": "Il s'agit d'un mod qui permet aux membres de votre groupe de gagner des points d'expérience à des rythmes différents. Cela se fait grâce à un objet de type livre — le « Tome of the Masterful Learner » — ajouté à l'inventaire du protagoniste dès le début du jeu. Cliquez avec le bouton droit sur le livre et sélectionnez « Étudier » pour ouvrir une boîte de dialogue qui permet au lecteur de définir son propre modificateur de gain d'XP, allant de -100 % (aucun XP) à +500 % (six fois le taux normal), par paliers prédéfinis."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2028,
+        "description": "This mod adjusts the `Shapeshifter Rebalancing` component of [[1141]].",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod modifie le composant `Shapeshifter Rebalancing` de [[1141]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]
