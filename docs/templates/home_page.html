@@ -7,7 +7,7 @@
             {% endfor %}
             <div class="language-block">
                 <div class="language-content">
-                    <p>Select a flag to view the list in your language</p>
+                    <p>Select a flag to acces the list in your language</p>
                     <div class="language-picker">
                         {% for language_url, flag in language_flags.items() %}
                             <a class="button" href="{{ home_page }}{{ language_url }}/" title="{{ language_url }}">{{ flag }}</a>
@@ -45,7 +45,7 @@
             <p>Mod per game</p>
             {% for game, count in mod_per_game.items() %}
                 <div>
-                    <p>{{ game }}</p>
+                    <img src="{{ static }}img/ie_games_{{ game.lower() }}.avif" height="66" alt="{{ game }}" title="{{ game }}"/>
                     <p><strong>{{ count }}</strong></p>
                 </div>
             {% endfor %}
