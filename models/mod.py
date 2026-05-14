@@ -62,6 +62,7 @@ class Mod:
     last_update: YearMonthFormat
     tp2: str
     compatibilities: dict[Literal["requires", "incompatible_with"], list[int | str]]
+    embedded_in: PositiveInt | None = None
     description_meta: dict = None
     notes_meta: dict = None
     urls_extra: list[HttpUrl] = None
@@ -198,6 +199,9 @@ class Mod:
 
     def get_auto_notes(self, mod_id_to_name: dict[int, str] | None = None) -> list[str]:
         auto_notes = list()
+
+        if self.embedded_in:
+            auto_notes.append(_g("Inclus dans [[{mod_id}]].").format(mod_id=self.embedded_in))
 
         if self.is_outdated and self.safe <= 1:
             year, _ = self.last_update.split("-", 1)

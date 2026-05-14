@@ -168,3 +168,5 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - `"nom du tp2"` : le vrai nom du tp2 (sans le setup-)
  - `"n/a"` : non concerné (notamment pour les utilitaires)
  - `"non-weidu"` : pas de fichier tp2 car non-WeiDU
+
+`embedded_in` : `id` du mod qui a absorbé celui-ci
