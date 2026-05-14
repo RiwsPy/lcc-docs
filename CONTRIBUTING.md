@@ -176,12 +176,14 @@ Certains sites n'acceptent pas ce protocole, dans ce cas c'est toléré.
 
 #### Pas de téléchargement direct
 
-Comme on ne peut pas assurer du contenu de l'objet téléchargé, le mieux c'est encore de ne rien télécharger. On redirige le lecteur vers la page qui permet le téléchargement, mais la charge lui revient de cliquer (ou pas) sur le lien au sein de la page.
+Comme on ne peut pas assurer du contenu de l'objet téléchargé, le mieux c'est encore de ne rien télécharger. Autant que possible, on redirige le lecteur vers la page qui permet le téléchargement, mais la charge lui revient de cliquer (ou pas) sur le lien au sein de la page et la charge de l'actualisation du lien revient à l'auteur du mod.\
+Dans les cas où il y a un lien direct, une pop-in s'affichera pour avertir l'utilisateur, il acceptera en conscience ou non.\
+Ces liens directs représentent également une charge de travail supplémentaire car ils pointent vers une version de mod spécifique, qu'il faudra mettre à jour.
 
 
 #### Viser un message spécifique dans une discussion
 
-Parfois, un mod se situe au beau milieu d'une discussion. Dans la mesure du possible, ciblez le message en question dans l'url.
+Parfois, un mod se situe au beau milieu d'une discussion. Dans la mesure du possible, ciblez le message en question dans l'url grâce à l'anchor et l'attribut html `id`.
 
 #### Viser la page d'accueil plutôt que le blob/plop/release/
 
