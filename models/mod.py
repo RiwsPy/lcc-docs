@@ -58,7 +58,7 @@ class Mod:
     translation_state: TranslationStateEnum
     languages: list[str]
     authors: list[str]
-    status: ModStatus
+    status: ModStatus | set[ModStatus]
     last_update: YearMonthFormat
     tp2: str
     compatibilities: dict[Literal["requires", "incompatible_with"], list[int | str]]
@@ -69,6 +69,11 @@ class Mod:
     notes_extra: list[str] = None
 
     last_update_date_format = "%Y-%m"
+
+    def get_status(self) -> set[ModStatus]:
+        if isinstance(self.status, set):
+            return self.status
+        return {self.status}
 
     @field_validator("last_update")
     def check_last_update(cls, v):
@@ -103,7 +108,7 @@ class Mod:
 
     def get_urls(self) -> list[HttpUrl]:
         # Pour éviter d'afficher des liens morts tout en les conservant
-        if self.status == ModStatus.MISSING:
+        if ModStatus.MISSING in self.get_status():
             return list()
 
         return self.urls
@@ -172,11 +177,11 @@ class Mod:
             note -= 1
         if "temnix" in self.authors:  # déso
             note -= 1
-        if self.status == ModStatus.ARCHIVED:
+        if ModStatus.ARCHIVED in self.get_status():
             note -= 1
-        elif self.status in (ModStatus.EMBED, ModStatus.OBSOLETE):
+        elif self.get_status() & {ModStatus.EMBED, ModStatus.OBSOLETE}:
             note = 0
-        elif self.status in (ModStatus.WIP, ModStatus.MISSING):
+        elif self.get_status() & {ModStatus.WIP, ModStatus.MISSING}:
             note = min(1, note)
         return max(0, note)
 
@@ -218,15 +223,15 @@ class Mod:
                     "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le à vos risques et périls."
                 )
             )
-        if self.status == ModStatus.ARCHIVED:
+        if ModStatus.ARCHIVED in self.get_status():
             auto_notes.append(
                 _g(
                     "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui donner suite."
                 )
             )
-        elif self.status == ModStatus.WIP:
+        elif ModStatus.WIP in self.get_status():
             auto_notes.append(_g("Ce mod est toujours en cours de réalisation."))
-        elif self.status == ModStatus.MISSING:
+        elif ModStatus.MISSING in self.get_status():
             if self.urls:
                 url = self.urls[0]
                 note = _g(
@@ -290,7 +295,7 @@ class Mod:
             and self.translation_state_auto
             in (TranslationStateEnum.YES, TranslationStateEnum.NA, TranslationStateEnum.TODO)
             and self.tp2 not in ("non-weidu", "n/a")
-            and self.status in (ModStatus.ACTIVE, ModStatus.EMBED, ModStatus.HIDDEN)
+            and self.get_status() & {ModStatus.ACTIVE, ModStatus.EMBED, ModStatus.HIDDEN}
         )
 
     @property
