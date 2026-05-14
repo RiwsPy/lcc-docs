@@ -2809,7 +2809,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Cette version n'est plus maintenue et ne fonctionne plus depuis le patch 2.6. Préférez-lui [[204]]."
+                "Pour la version 2.6, optez pour [[204]]."
             ]
         }
     },
@@ -2822,10 +2822,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il ne fonctionne qu'avec les jeux sous la version v2.6.6."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -7060,7 +7058,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Il s'agit d'une petite correction du fichier dambere.dlg qui n'avait pas été traitée par le fichier G3 IWD Fixpack."
+            "source": "Il s'agit d'une petite correction du fichier dambere.dlg qui n'avait pas été traitée par [[522]]."
         },
         "notes": [],
         "notes_meta": {
@@ -27833,6 +27831,32 @@
         "description_meta": {
             "status": "todo",
             "source": "Une quête de [[226]] en standalone."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2024,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Permet de jouer un dragon (bronze, argent ou or). Avec les capacités innées correspondantes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2025,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "[[799]] est un mod qui se charge de corriger la traduction française (désastreuse) de Shadows of Amn. Mais même dans sa version 1.1 il reste de nombreuses erreurs. Voici donc des corrections supplémentaires apportées dans ce mod, qui doit s'installer après [[799]] pour compléter les corrections de ce dernier."
         },
         "notes": [],
         "notes_meta": {

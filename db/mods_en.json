@@ -2922,12 +2922,12 @@
             "source": "Ce mod remplace la barre de sélection rapide des sorts par une version bien plus ergonomique qui permet de trier les sorts en fonction de leur nom, de leur type et de leur niveau."
         },
         "notes": [
-            "This version is no longer maintained and has not worked since patch 2.6. You're better off with [[204]]."
+            "For version 2.6, choose [[204]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Cette version n'est plus maintenue et ne fonctionne plus depuis le patch 2.6. Préférez-lui [[204]]."
+                "Pour la version 2.6, optez pour [[204]]."
             ]
         }
     },
@@ -2938,14 +2938,10 @@
             "status": "needs_review",
             "source": "Si la vue des sorts en liste de la version normale de ce mod ne vous plaît pas, cette version pourrait bien vous plaire. Elle émule les emplacements de la sélection de sorts par défaut et les organise de telle sorte que tous les sorts soient visibles en même temps."
         },
-        "notes": [
-            "It only works with games running v2.6.6."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Il ne fonctionne qu'avec les jeux sous la version v2.6.6."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -7343,10 +7339,10 @@
     },
     {
         "id": 511,
-        "description": "This is a small correction to the dambere.dlg file that had not been processed by the G3 IWD Fixpack file.",
+        "description": "This is a small correction to the dambere.dlg file that had not been processed by [[522]].",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'une petite correction du fichier dambere.dlg qui n'avait pas été traitée par le fichier G3 IWD Fixpack."
+            "source": "Il s'agit d'une petite correction du fichier dambere.dlg qui n'avait pas été traitée par [[522]]."
         },
         "notes": [
             "To be installed after [[522]]."
@@ -28781,6 +28777,32 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Une quête de [[226]] en standalone."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2024,
+        "description": "Allows you to play a dragon (bronze, silver or gold). With the corresponding innate abilities.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Permet de jouer un dragon (bronze, argent ou or). Avec les capacités innées correspondantes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2025,
+        "description": "[[799]] is a mod designed to correct the (disastrous) French translation of Shadows of Amn. However, even in version 1.1, there are still numerous errors. Here are some additional corrections included in this mod, which must be installed after [[799]] to complete the corrections made by the latter.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "[[799]] est un mod qui se charge de corriger la traduction française (désastreuse) de Shadows of Amn. Mais même dans sa version 1.1 il reste de nombreuses erreurs. Voici donc des corrections supplémentaires apportées dans ce mod, qui doit s'installer après [[799]] pour compléter les corrections de ce dernier."
         },
         "notes": [],
         "notes_meta": {

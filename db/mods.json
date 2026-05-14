@@ -6027,7 +6027,7 @@
         "name": "The Black Rose Part I: Market Prices",
         "description": "Ce mod ajoute une quête initiée par le magicien Menelaun, dans l'Antre des Sept Vaux, sur la Promenade de Waukyne.",
         "urls": [
-            "http://baldur.cob-bg.pl/bg2-mody?pg=3",
+            "https://baldur.cob-bg.pl/bg2-mody?pg=3",
             "https://baldur.cob-bg.pl/download/bg2/quests/MarketPrices.zip"
         ],
         "categories": [
@@ -6810,14 +6810,18 @@
         ],
         "team": [],
         "notes": [
-            "Cette version n'est plus maintenue et ne fonctionne plus depuis le patch 2.6. Préférez-lui [[204]]."
+            "Pour la version 2.6, optez pour [[204]]."
         ],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "archived",
         "last_update": "2018-02",
-        "compatibilities": {},
+        "compatibilities": {
+            "incompatible_with": [
+                "EE version >= 2.6"
+            ]
+        },
         "tp2": "n/a"
     },
     {
@@ -6843,9 +6847,7 @@
             "Bubb"
         ],
         "team": [],
-        "notes": [
-            "Il ne fonctionne qu'avec les jeux sous la version v2.6.6."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -6861,6 +6863,9 @@
         "compatibilities": {
             "requires": [
                 348
+            ],
+            "incompatible_with": [
+                "EE version != 2.6.6"
             ]
         },
         "tp2": "bubb_spell_menu_extended"
@@ -17003,7 +17008,7 @@
     {
         "id": 511,
         "name": "IWD-HotFix",
-        "description": "Il s'agit d'une petite correction du fichier dambere.dlg qui n'avait pas été traitée par le fichier G3 IWD Fixpack.",
+        "description": "Il s'agit d'une petite correction du fichier dambere.dlg qui n'avait pas été traitée par [[522]].",
         "urls": [
             "https://www.shsforums.net/topic/52498-iwd-hotfix/"
         ],
@@ -17021,9 +17026,9 @@
             "À installer après [[522]]."
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2012-02",
         "compatibilities": {},
         "tp2": "abIWD-HotFix"
@@ -20322,9 +20327,7 @@
         ],
         "games": [
             "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Rastor"
@@ -29907,13 +29910,14 @@
         "urls": [
             "https://www.shsforums.net/topic/58723-mod-rough-world-beta/",
             "https://forums.beamdog.com/discussion/59889/",
-            "https://github.com/GwendolyneFreddy/Rough_World"
+            "https://github.com/Spellhold-Studios/Rough-World"
         ],
         "categories": [
             "Gameplay"
         ],
         "games": [
             "BGEE",
+            "SoD",
             "BG2EE",
             "IWDEE"
         ],
@@ -31108,6 +31112,7 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -44947,7 +44952,6 @@
         "name": "Minsc Friendship",
         "description": "Ce mod ajoute une série de dialogues à Minsc, le fameux rôdeur, et développe ses expériences et ses difficultés.",
         "urls": [
-            "https://www.spellholdstudios.net/ie/npciep",
             "https://github.com/Spellhold-Studios/Minsc-Friendship"
         ],
         "categories": [
@@ -44983,7 +44987,7 @@
         "name": "Haer'dalis Friendship",
         "description": "Ce mod ajoute une série de dialogues à Haer'Dalis, le fameux barde, et développe ses expériences et ses difficultés.",
         "urls": [
-            "https://www.spellholdstudios.net/ie/npciep",
+            "https://www.shsforums.net/files/file/1211-haerdalis-friendship-soa-tob/",
             "https://forums.beamdog.com/discussion/70816/",
             "https://github.com/Spellhold-Studios/HaerDalis-Friendship"
         ],
@@ -49159,7 +49163,7 @@
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38553-sci-dualadins/",
             "https://www.nexusmods.com/baldursgate/mods/75/",
-            "https://github.com/DataForInfinity/Sword-Coast-Infinity/"
+            "https://github.com/DataForInfinity/Sword-Coast-Infinity/tree/main/SCI-Dualadins"
         ],
         "categories": [
             "Patch non officiel"
@@ -58213,7 +58217,7 @@
         "name": "ZN Faded Patch",
         "description": "Ce mod ajoute une cape étrange qui permet à son porteur d'améliorer grandement sa capacité à se camoufler dans les ombres et d'esquiver une partie des attaques de projectiles. En contrepartie, le charisme du porteur est réduit mais surtout, il peut à tout moment rentrer dans un état de grande panique. Des potions permettent de soigner de cet état, encore faut-il trouver un moyen de faire boire une potion à un personnage paniqué…",
         "urls": [
-            "http://baldur.cob-bg.pl/bg1-mody"
+            "https://baldur.cob-bg.pl/bg1-mody"
         ],
         "categories": [
             "Sort et objet"
@@ -62924,7 +62928,7 @@
         "urls": [
             "https://www.gibberlings3.net/forums/topic/39487-sci-divine-soul/",
             "https://www.nexusmods.com/baldursgate/mods/97/",
-            "https://github.com/DataForInfinity/Sword-Coast-Infinity/"
+            "https://github.com/DataForInfinity/Sword-Coast-Infinity/tree/main/SCI-Divine-Soul"
         ],
         "categories": [
             "Kit"
@@ -62958,7 +62962,7 @@
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38991-sci-dual-release-portraits-proficiencies/",
             "https://www.nexusmods.com/baldursgate/mods/91/",
-            "https://github.com/DataForInfinity/Sword-Coast-Infinity/"
+            "https://github.com/DataForInfinity/Sword-Coast-Infinity/tree/main/SCI-Blades%2BBolts"
         ],
         "categories": [
             "Gameplay"
@@ -63223,7 +63227,9 @@
             "BG2",
             "BGT",
             "BGEE",
+            "SoD",
             "BG2EE",
+            "IWD",
             "IWDEE"
         ],
         "authors": [
@@ -65949,5 +65955,62 @@
         "last_update": "2022-05",
         "compatibilities": {},
         "tp2": "Melynda"
+    },
+    {
+        "id": 2024,
+        "name": "Dragons",
+        "description": "Permet de jouer un dragon (bronze, argent ou or). Avec les capacités innées correspondantes.",
+        "urls": [
+            "https://sorcerers.net/Games/dl.php?s=BG&f=BG/dragons.zip"
+        ],
+        "categories": [
+            "Personnalisation du groupe"
+        ],
+        "games": [
+            "BG",
+            "BGEE",
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "Banelord"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2000-02",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2025,
+        "name": "CorrecFR Addendums",
+        "description": "[[799]] est un mod qui se charge de corriger la traduction française (désastreuse) de Shadows of Amn. Mais même dans sa version 1.1 il reste de nombreuses erreurs. Voici donc des corrections supplémentaires apportées dans ce mod, qui doit s'installer après [[799]] pour compléter les corrections de ce dernier.",
+        "urls": [
+            "https://www.anomaly-studios.fr/mods/"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Anomaly"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "fr"
+        ],
+        "status": "obsolete",
+        "last_update": "2012-04",
+        "compatibilities": {},
+        "tp2": "anofr"
     }
 ]
