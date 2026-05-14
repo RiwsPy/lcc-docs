@@ -106,7 +106,7 @@ class ModManager:
 
     @classmethod
     def get_last_updated_mods(cls, mods: list[Mod], nb: int = 10) -> list[Mod]:
-        active_mods = [mod for mod in mods if ModStatus.ACTIVE in mod.get_status()]
+        active_mods = [mod for mod in mods if ModStatus.UNRELEASED not in mod.get_status()]
         active_mods.sort(key=lambda x: x.last_update)
         return active_mods[-nb:][::-1]
 
@@ -126,7 +126,8 @@ class ModManager:
             mod
             for mod in mods
             if not mod.tp2
-            and not mod.get_status() & {ModStatus.HIDDEN, ModStatus.WIP, ModStatus.ARCHIVED}
+            and not mod.get_status()
+            & {ModStatus.HIDDEN, ModStatus.UNRELEASED, ModStatus.ARCHIVED}
         ]
 
 

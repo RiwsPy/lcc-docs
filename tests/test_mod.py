@@ -18,7 +18,7 @@ mod_kwargs = {
     "compatibilities": dict(),
     "safe": 2,
     "translation_state": TranslationStateEnum.AUTO,
-    "status": [ModStatus.ACTIVE],
+    "status": [ModStatus.STABLE],
     "authors": [],
     "last_update": "",
     "tp2": "",
