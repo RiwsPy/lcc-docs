@@ -3,7 +3,7 @@ import enum
 import re
 from typing import Annotated, Literal
 
-from pydantic import ConfigDict, StringConstraints, field_validator
+from pydantic import ConfigDict, PositiveInt, StringConstraints, field_validator
 from pydantic.dataclasses import dataclass
 
 from i18n import _g, current_language
@@ -46,7 +46,7 @@ class Icon:
 
 @dataclass(kw_only=True, eq=False, frozen=True, config=ConfigDict(extra="forbid"))
 class Mod:
-    id: int
+    id: PositiveInt
     name: str
     categories: list[CategoryEnum]
     urls: list[HttpUrl]
