@@ -146,14 +146,12 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod est obsolète. Comme de plus, il s'agit d'un mod override, préférez-lui le composant `Tout le monde obtient le bonus d'attaque par round de spécialisation` de [[1141]]."
+            "source": "Comme il s'agit d'un mod override, préférez-lui le composant `Tout le monde obtient le bonus d'attaque par round de spécialisation` de [[1141]]."
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Remplacé par [[1277]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -431,10 +429,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est devenu obsolète depuis son intégration dans le mod [[386]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -836,10 +832,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -875,7 +869,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Conçu à l'origine pour rendre les sorts conformes à leurs descriptions (durée, portée, dégâts...), ce mod a peu à peu évolué pour les modifier afin de les rendre plus intéressants à jouer.|Il a été rendu obsolète par de nombreux mods plus récents, dont [[982]]."
+            "source": "Conçu à l'origine pour rendre les sorts conformes à leurs descriptions (durée, portée, dégâts...), ce mod a peu à peu évolué pour les modifier afin de les rendre plus intéressants à jouer."
         },
         "notes": [],
         "notes_meta": {
@@ -1175,7 +1169,6 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Ce profil a été inclus dans les dernières versions du mod [[530]].",
                 "La version EE est disponible via le second lien."
             ]
         }
@@ -1545,7 +1538,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Il écrase les fichiers du jeu. Désormais obsolète, il a été remplacé par [[1141]]."
+                "Il écrase les fichiers du jeu."
             ]
         }
     },
@@ -1688,7 +1681,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod compilait plusieurs autres mods : les G3 Tweak Pack, [[1140]] et Wes Weimer's Ease of Use. Il permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances...).|Il est désormais obsolète et a été remplacé par [[1141]]."
+            "source": "Ce mod compilait plusieurs autres mods : les G3 Tweak Pack, [[1140]] et Wes Weimer's Ease of Use. Il permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances...)."
         },
         "notes": [],
         "notes_meta": {
@@ -2100,10 +2093,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Inclus dans [[1893]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -2319,10 +2310,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "La sortie d'[[548]] l'a rendu complètement obsolète."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -2632,10 +2621,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Inclus dans [[64]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -2969,10 +2956,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est désormais inclus dans [[504]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -3399,10 +3384,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il est obsolète depuis qu'il a été inclus dans le mod [[361]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -3451,8 +3434,8 @@
         "id": 250,
         "description": "",
         "description_meta": {
-            "status": "todo",
-            "source": "Mod rendu obsolète par [[249]]."
+            "status": "done",
+            "source": ""
         },
         "notes": [],
         "notes_meta": {
@@ -3705,10 +3688,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Inclus dans [[1893]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -3951,7 +3932,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Désormais inclus dans [[1175]], ce mini mod ajoutait le marchand Asgrim dans le Temple de Talos, avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2. De plus, il améliorait le Culte de l'Œil Aveugle et le bâtiment des Ménestrels. Ses 26 nouveaux objets étaient principalement répartis dans le magasin d'Asgrim et sur le corps de Lilith."
+            "source": "Ce mini mod ajoutait le marchand Asgrim dans le Temple de Talos, avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2. De plus, il améliorait le Culte de l'Œil Aveugle et le bâtiment des Ménestrels. Ses 26 nouveaux objets étaient principalement répartis dans le magasin d'Asgrim et sur le corps de Lilith."
         },
         "notes": [],
         "notes_meta": {
@@ -4405,10 +4386,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est désormais inclus dans [[504]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -4691,10 +4670,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod a été inclus dans [[1305]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -4835,10 +4812,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il est désormais obsolète après avoir été remplacé par le [[121]], lui-même intégré dans le [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -4850,10 +4825,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il est désormais obsolète après avoir été remplacé par le mod [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -4865,10 +4838,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il est désormais obsolète et a été remplacé par [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -7032,10 +7003,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il est désormais obsolète et a été remplacé par [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -7147,10 +7116,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il est désormais obsolète et a été remplacé par [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -7492,10 +7459,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il est désormais obsolète et a été intégré comme composant `Augmenter la vitesse de déplacement du groupe en dehors des combats` du mod [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -7694,7 +7659,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod vous permet d'utiliser cette collection de portraits d'Isandir pour vos personnages. Un composant optionnel dote la plupart des PNJ de portraits de Drows à Ust Natha.|Ce mod est inclus dans [[831]]."
+            "source": "Ce mod vous permet d'utiliser cette collection de portraits d'Isandir pour vos personnages. Un composant optionnel dote la plupart des PNJ de portraits de Drows à Ust Natha."
         },
         "notes": [],
         "notes_meta": {
@@ -7997,10 +7962,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Les dernières mises à jour de [[1011]] et d'[[74]] l'ont rendu obsolète."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -8241,10 +8204,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est obsolète depuis qu'il a été intégré dans [[845]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -9551,10 +9512,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est devenu obsolète depuis son intégration dans [[831]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -9566,10 +9525,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est devenu obsolète depuis son intégration dans [[831]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -9581,10 +9538,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est devenu obsolète depuis son intégration dans [[831]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -9652,10 +9607,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Notez que ce mod a été rendu obsolète par [[1111]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -9695,10 +9648,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod a été inclus dans [[259]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -10048,10 +9999,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -10078,10 +10027,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Attention : Il est désormais obsolète et a été remplacé par le composant `Les PNJs du groupe ne se battent pas` de [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -10886,10 +10833,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod a été inclus dans [[259]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -10970,10 +10915,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -11143,7 +11086,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod a disparu..."
+            "source": "Ce mod permet de modifier la compétence Arme empoisonnée des Assassins et des Chevaliers noir."
         },
         "notes": [],
         "notes_meta": {
@@ -11467,8 +11410,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Attention : il nécessite une manipulation de certains fichiers. Bien lire le readme inclus.",
-                "Il existe une version directement intégrée dans [[347]]."
+                "Attention : il nécessite une manipulation de certains fichiers. Bien lire le readme inclus."
             ]
         }
     },
@@ -11715,10 +11657,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il est désormais obsolète et a été intégré dans [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -11918,10 +11858,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[386]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -12065,10 +12003,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il est désormais obsolète et a été remplacé par le composant `Repos possible partout` de [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -12095,8 +12031,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Ce mod écrase les fichiers, dont le fichier dialog.tlk et ne peut pas être désinstallé. Il restaure donc le jeu en langue française. Ne l'installez pas et évitez-le comme la peste !",
-                "Ce mod est inclus dans [[814]]."
+                "Ce mod écrase les fichiers, dont le fichier dialog.tlk."
             ]
         }
     },
@@ -12172,10 +12107,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est inclus dans [[1213]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -12375,10 +12308,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est obsolète depuis qu'il a été intégré dans le pack [[614]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -12589,10 +12520,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -13786,10 +13715,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod [[89]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -14689,10 +14616,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est désormais obsolète et a été intégré dans le pack [[614]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -15306,7 +15231,6 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Ce mod est obsolète : remplacé par [[962]] du même auteur.",
                 "Retiré à la demande de l'auteur"
             ]
         }
@@ -15497,10 +15421,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Inclus dans le mod [[847]] (composant `Grimoire de triche`)."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -15723,10 +15645,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -15818,10 +15738,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod a été rendu complètement obsolète par [[1011]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -15833,10 +15751,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il est désormais obsolète, car il a été inclus dans le [[121]], lui-même remplacé par [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -15870,10 +15786,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il est désormais obsolète car il a été inclus dans le mod [[716]].|Cliquez sur le deuxième lien pour télécharger le fichier."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -15995,10 +15909,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est devenu obsolète depuis le temps."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16025,10 +15937,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il est obsolète depuis qu'il a été inclus dans le mod [[502]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16158,8 +16068,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Ce mod est devenu obsolète depuis son intégration dans le mod [[386]].",
-                "Peut être remplacé par [[531]] d'Argent77."
+                "Peut être remplacé par [[531]]."
             ]
         }
     },
@@ -16519,10 +16428,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est obsolète depuis son intégration dans [[451]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16616,10 +16523,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[386]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16631,10 +16536,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Attention : il est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16728,10 +16631,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -17513,10 +17414,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "La version original de ce profil a été incluse dans les dernières versions du mod [[530]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -17707,10 +17606,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod a été inclus dans [[302]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -17960,10 +17857,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est inclus dans [[269]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -19022,10 +18917,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est devenu obsolète depuis son intégration dans le mod [[386]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -19068,11 +18961,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ne fonctionne qu'avec qu'une version 2.6, ni plus ni moins. Et seulement avec un exécutable Windows !",
-                "Inclus dans [[1525]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -19106,14 +18996,12 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod vous permet de choisir entre 1 et 4 emplacements de sauvegarde rapide différents dans BGEE, SoD, BG2EE, IWDEE, et PSTEE. Il n'est pas compatible avec EET."
+            "source": "Ce mod vous permet de choisir entre 1 et 4 emplacements de sauvegarde rapide différents."
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Il a été rendu obsolète par [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -19350,8 +19238,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Attention, la première partie n'est pas un composant Weidu et il est nécessaire d'overrider les objets et les magasins correspondants. La seconde est Weidu.",
-                "Il est désormais obsolète et a été remplacé par [[252]]."
+                "Attention, la première partie n'est pas un composant Weidu et il est nécessaire d'overrider les objets et les magasins correspondants. La seconde est Weidu."
             ]
         }
     },
@@ -19526,10 +19413,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est inclus dans [[1791]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -19720,11 +19605,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Malgré les apparences, ce mod a l'air bien fait.",
-                "Ce mod est inclus dans [[1791]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -20023,10 +19905,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod a été inclus dans [[1782]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -20064,10 +19944,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Inclus dans [[1588]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -21021,8 +20899,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Attention, le composant `ennemis plus puissant` remplace les créatures au lieu de les patcher.",
-                "Ce mod est devenu obsolète depuis son intégration dans [[285]]."
+                "Attention, le composant `ennemis plus puissant` remplace les créatures au lieu de les patcher."
             ]
         }
     },
@@ -21360,10 +21237,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Inclus dans [[1482]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -21375,10 +21250,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Inclus dans [[1482]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -21874,10 +21747,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est inclus dans [[1368]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -22270,11 +22141,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Cliquez sur le deuxième lien pour télécharger le fichier.",
-                "Inclus dans [[716]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -22721,10 +22589,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Rendu obsolète par [[831]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -23143,10 +23009,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod désormais obsolète et a été remplace par un composant plus puissant du mod [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -23781,10 +23645,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est obsolète, préférez lui le plus efficace [[155]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -23926,10 +23788,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod est inclus dans [[1018]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -24341,8 +24201,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Vous DEVEZ avoir 5 compagnons pour que le script du mod fonctionne.",
-                "Ce mod est inclus dans [[1245]], du même auteur."
+                "Vous DEVEZ avoir 5 compagnons pour que le script du mod fonctionne."
             ]
         }
     },
@@ -26043,10 +25902,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Inclus dans [[614]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -26601,10 +26458,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Inclus dans [[1346]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -26616,10 +26471,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Inclus dans [[1346]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -27251,10 +27104,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Inclus dans [[64]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -27564,10 +27415,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod a été inclus dans [[845]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -27752,10 +27601,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Rendu obsolète par [[153]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -27767,10 +27614,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Rendu obsolète par [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {

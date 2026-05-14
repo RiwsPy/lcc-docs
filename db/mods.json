@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "\"Don't Delete my gear\" script",
+        "name": "Don't Delete my gear script",
         "description": "Ce mod permet au personnage de conserver son équipement et son or au début de la partie.",
         "urls": [
             "https://forums.beamdog.com/discussion/32192/"
@@ -343,7 +343,7 @@
     {
         "id": 11,
         "name": "APR on Spec",
-        "description": "Ce mod est obsolète. Comme de plus, il s'agit d'un mod override, préférez-lui le composant `Tout le monde obtient le bonus d'attaque par round de spécialisation` de [[1141]].",
+        "description": "Comme il s'agit d'un mod override, préférez-lui le composant `Tout le monde obtient le bonus d'attaque par round de spécialisation` de [[1141]].",
         "urls": [
             "https://forums.beamdog.com/discussion/36197/"
         ],
@@ -358,17 +358,17 @@
             "Subtledoctor"
         ],
         "team": [],
-        "notes": [
-            "Remplacé par [[1277]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
-            "missing"
+            "missing",
+            "embed"
         ],
         "last_update": "2015-03",
         "compatibilities": {},
+        "embedded_in": 1277,
         "tp2": "APR_on_Spec"
     },
     {
@@ -1096,19 +1096,19 @@
             "semiticgod"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est devenu obsolète depuis son intégration dans le mod [[386]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2019-05",
         "compatibilities": {},
+        "embedded_in": 386,
         "tp2": "AlchemistKit"
     },
     {
@@ -2136,19 +2136,19 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2018-12",
         "compatibilities": {},
+        "embedded_in": 1048,
         "tp2": "Arcane_Archer"
     },
     {
@@ -2221,7 +2221,7 @@
     {
         "id": 63,
         "name": "Arcane-Divine Spell Pack",
-        "description": "Conçu à l'origine pour rendre les sorts conformes à leurs descriptions (durée, portée, dégâts...), ce mod a peu à peu évolué pour les modifier afin de les rendre plus intéressants à jouer.|Il a été rendu obsolète par de nombreux mods plus récents, dont [[982]].",
+        "description": "Conçu à l'origine pour rendre les sorts conformes à leurs descriptions (durée, portée, dégâts...), ce mod a peu à peu évolué pour les modifier afin de les rendre plus intéressants à jouer.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/ADPack.rar"
         ],
@@ -2247,6 +2247,7 @@
         ],
         "last_update": "2006-03",
         "compatibilities": {},
+        "embedded_in": 982,
         "tp2": "ADPack"
     },
     {
@@ -3026,11 +3027,10 @@
         ],
         "team": [],
         "notes": [
-            "Ce profil a été inclus dans les dernières versions du mod [[530]].",
             "La version EE est disponible via le second lien."
         ],
         "translation_state": "auto",
-        "safe": 0,
+        "safe": 2,
         "languages": [
             "es",
             "pl",
@@ -3039,10 +3039,12 @@
             "fr"
         ],
         "status": [
-            "embed"
+            "embed",
+            "stable"
         ],
         "last_update": "2024-10",
         "compatibilities": {},
+        "embedded_in": 530,
         "tp2": "AMDK"
     },
     {
@@ -3897,7 +3899,8 @@
             "de"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "missing"
         ],
         "last_update": "",
         "compatibilities": {},
@@ -3998,16 +4001,18 @@
         ],
         "team": [],
         "notes": [
-            "Il écrase les fichiers du jeu. Désormais obsolète, il a été remplacé par [[1141]]."
+            "Il écrase les fichiers du jeu."
         ],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2008-08",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "BG1Tweaks"
     },
     {
@@ -4331,7 +4336,7 @@
     {
         "id": 121,
         "name": "BG2 Tweaks Pack",
-        "description": "Ce mod compilait plusieurs autres mods : les G3 Tweak Pack, [[1140]] et Wes Weimer's Ease of Use. Il permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances...).|Il est désormais obsolète et a été remplacé par [[1141]].",
+        "description": "Ce mod compilait plusieurs autres mods : les G3 Tweak Pack, [[1140]] et Wes Weimer's Ease of Use. Il permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances...).",
         "urls": [
             "https://github.com/aVENGER981/BG2_Tweaks"
         ],
@@ -4366,10 +4371,12 @@
             "cn"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2012-05",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "BG2_Tweaks"
     },
     {
@@ -5383,9 +5390,7 @@
             "SConrad"
         ],
         "team": [],
-        "notes": [
-            "Inclus dans [[1893]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [
@@ -5396,6 +5401,7 @@
         ],
         "last_update": "2005-08",
         "compatibilities": {},
+        "embedded_in": 1893,
         "tp2": "BGothII"
     },
     {
@@ -5949,17 +5955,17 @@
             "Galactygon"
         ],
         "team": [],
-        "notes": [
-            "La sortie d'[[548]] l'a rendu complètement obsolète."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
-            "obsolete"
+            "embed",
+            "archived"
         ],
         "last_update": "2005-05",
         "compatibilities": {},
+        "embedded_in": 548,
         "tp2": "LCCreAnimP1"
     },
     {
@@ -6742,9 +6748,7 @@
             "Icendoan"
         ],
         "team": [],
-        "notes": [
-            "Inclus dans [[64]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -6755,6 +6759,7 @@
         ],
         "last_update": "2008-12",
         "compatibilities": {},
+        "embedded_in": 64,
         "tp2": "#!brage"
     },
     {
@@ -7458,7 +7463,7 @@
             "es"
         ],
         "status": [
-            "hidden"
+            "missing"
         ],
         "last_update": "",
         "compatibilities": {},
@@ -7630,9 +7635,7 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est désormais inclus dans [[504]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -7644,6 +7647,7 @@
         ],
         "last_update": "2024-12",
         "compatibilities": {},
+        "embedded_in": 504,
         "tp2": "cernd"
     },
     {
@@ -8711,9 +8715,7 @@
             "Abdel_Adrian"
         ],
         "team": [],
-        "notes": [
-            "Il est obsolète depuis qu'il a été inclus dans le mod [[361]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -8724,6 +8726,7 @@
         ],
         "last_update": "2017-07",
         "compatibilities": {},
+        "embedded_in": 361,
         "tp2": ""
     },
     {
@@ -8832,7 +8835,7 @@
     {
         "id": 250,
         "name": "Continuous Viconia Appearance",
-        "description": "Mod rendu obsolète par [[249]].",
+        "description": "",
         "urls": [
             "https://forums.beamdog.com/discussion/56009/"
         ],
@@ -8856,10 +8859,12 @@
             "en"
         ],
         "status": [
-            "obsolete"
+            "obsolete",
+            "embed"
         ],
         "last_update": "2016-05",
         "compatibilities": {},
+        "embedded_in": 249,
         "tp2": "ContinuousViconiaAppearance"
     },
     {
@@ -9478,9 +9483,7 @@
             "MajorTomSawer"
         ],
         "team": [],
-        "notes": [
-            "Inclus dans [[1893]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -9489,6 +9492,7 @@
         ],
         "last_update": "2008-11",
         "compatibilities": {},
+        "embedded_in": 1893,
         "tp2": "CGoth"
     },
     {
@@ -10104,7 +10108,7 @@
     {
         "id": 286,
         "name": "Dark Ritual",
-        "description": "Désormais inclus dans [[1175]], ce mini mod ajoutait le marchand Asgrim dans le Temple de Talos, avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2. De plus, il améliorait le Culte de l'Œil Aveugle et le bâtiment des Ménestrels. Ses 26 nouveaux objets étaient principalement répartis dans le magasin d'Asgrim et sur le corps de Lilith.",
+        "description": "Ce mini mod ajoutait le marchand Asgrim dans le Temple de Talos, avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2. De plus, il améliorait le Culte de l'Œil Aveugle et le bâtiment des Ménestrels. Ses 26 nouveaux objets étaient principalement répartis dans le magasin d'Asgrim et sur le corps de Lilith.",
         "urls": [
             "https://www.baldur.cob-bg.pl/node/749",
             "https://baldur.cob-bg.pl/download/bg2/items/Dark_Ritual_v1.01.zip"
@@ -10134,6 +10138,7 @@
         ],
         "last_update": "2005-03",
         "compatibilities": {},
+        "embedded_in": 1175,
         "tp2": "DarkRitual"
     },
     {
@@ -11307,20 +11312,20 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est désormais inclus dans [[504]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
-        "safe": 0,
+        "safe": 2,
         "languages": [
             "en",
             "ru"
         ],
         "status": [
-            "embed"
+            "embed",
+            "stable"
         ],
         "last_update": "2026-01",
         "compatibilities": {},
+        "embedded_in": 504,
         "tp2": "DornFriendship"
     },
     {
@@ -12022,9 +12027,7 @@
             "Pol Rupes"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a été inclus dans [[1305]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -12034,10 +12037,12 @@
             "es"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2023-12",
         "compatibilities": {},
+        "embedded_in": 1305,
         "tp2": "dusk"
     },
     {
@@ -12398,9 +12403,7 @@
             "Tioma"
         ],
         "team": [],
-        "notes": [
-            "Il est désormais obsolète après avoir été remplacé par le [[121]], lui-même intégré dans le [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -12413,10 +12416,12 @@
             "pl"
         ],
         "status": [
-            "obsolete"
+            "embed",
+            "archived"
         ],
         "last_update": "2008-08",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "Ease"
     },
     {
@@ -12436,17 +12441,17 @@
             "Tioma"
         ],
         "team": [],
-        "notes": [
-            "Il est désormais obsolète après avoir été remplacé par le mod [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
-            "obsolete"
+            "embed",
+            "archived"
         ],
         "last_update": "2002-11",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "BG1-ease-v2.1"
     },
     {
@@ -12473,9 +12478,7 @@
             "drake127"
         ],
         "team": [],
-        "notes": [
-            "Il est désormais obsolète et a été remplacé par [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [
@@ -12483,10 +12486,12 @@
             "en"
         ],
         "status": [
-            "obsolete"
+            "embed",
+            "archived"
         ],
         "last_update": "2006-04",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "EasyCoreRule"
     },
     {
@@ -13277,7 +13282,8 @@
             "es"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2026-03",
         "compatibilities": {
@@ -14805,7 +14811,8 @@
             "cn"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2026-03",
         "compatibilities": {
@@ -16607,7 +16614,7 @@
             "de"
         ],
         "status": [
-            "hidden"
+            "missing"
         ],
         "last_update": "",
         "compatibilities": {},
@@ -17978,17 +17985,17 @@
             "Andyr"
         ],
         "team": [],
-        "notes": [
-            "Il est désormais obsolète et a été remplacé par [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2011-02",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "g3daletweaks"
     },
     {
@@ -18229,9 +18236,7 @@
             "Idobek"
         ],
         "team": [],
-        "notes": [
-            "Il est désormais obsolète et a été remplacé par [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -18244,10 +18249,12 @@
             "es"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2016-01",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "iwd2tweaks"
     },
     {
@@ -19133,19 +19140,19 @@
             "Argent77"
         ],
         "team": [],
-        "notes": [
-            "Il est désormais obsolète et a été intégré comme composant `Augmenter la vitesse de déplacement du groupe en dehors des combats` du mod [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2018-08",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "A7-AutoHaster"
     },
     {
@@ -19676,7 +19683,7 @@
     {
         "id": 557,
         "name": "Isandir's Portrait Pack",
-        "description": "Ce mod vous permet d'utiliser cette collection de portraits d'Isandir pour vos personnages. Un composant optionnel dote la plupart des PNJ de portraits de Drows à Ust Natha.|Ce mod est inclus dans [[831]].",
+        "description": "Ce mod vous permet d'utiliser cette collection de portraits d'Isandir pour vos personnages. Un composant optionnel dote la plupart des PNJ de portraits de Drows à Ust Natha.",
         "urls": [
             "https://www.shsforums.net/files/file/1091-isandirs-portrait-pack/"
         ],
@@ -19703,10 +19710,12 @@
         "safe": 1,
         "languages": [],
         "status": [
-            "stable"
+            "stable",
+            "embed"
         ],
         "last_update": "2014-09",
         "compatibilities": {},
+        "embedded_in": 831,
         "tp2": "isandir"
     },
     {
@@ -20497,9 +20506,7 @@
             "Banananaut"
         ],
         "team": [],
-        "notes": [
-            "Les dernières mises à jour de [[1011]] et d'[[74]] l'ont rendu obsolète."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -20507,7 +20514,8 @@
             "ru"
         ],
         "status": [
-            "obsolete"
+            "obsolete",
+            "archived"
         ],
         "last_update": "2020-09",
         "compatibilities": {},
@@ -21092,17 +21100,17 @@
             "Kensai Ryu"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est obsolète depuis qu'il a été intégré dans [[845]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [],
         "status": [
-            "embed"
+            "embed",
+            "missing"
         ],
         "last_update": "",
         "compatibilities": {},
+        "embedded_in": 845,
         "tp2": ""
     },
     {
@@ -24347,9 +24355,7 @@
             "bob_veng"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est devenu obsolète depuis son intégration dans [[831]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -24358,6 +24364,7 @@
         ],
         "last_update": "2016-07",
         "compatibilities": {},
+        "embedded_in": 831,
         "tp2": "MinorNPCPortraitsforBG2EE"
     },
     {
@@ -24379,9 +24386,7 @@
             "bob_veng"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est devenu obsolète depuis son intégration dans [[831]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -24390,6 +24395,7 @@
         ],
         "last_update": "2016-05",
         "compatibilities": {},
+        "embedded_in": 831,
         "tp2": "MinorNPCPortraitsforBGEE"
     },
     {
@@ -24411,9 +24417,7 @@
             "bob_veng"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est devenu obsolète depuis son intégration dans [[831]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -24422,6 +24426,7 @@
         ],
         "last_update": "2016-06",
         "compatibilities": {},
+        "embedded_in": 831,
         "tp2": "MinorNPCPortraitsforIWDEE"
     },
     {
@@ -24584,9 +24589,7 @@
             "Idobek"
         ],
         "team": [],
-        "notes": [
-            "Notez que ce mod a été rendu obsolète par [[1111]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [
@@ -24597,6 +24600,7 @@
         ],
         "last_update": "2010-03",
         "compatibilities": {},
+        "embedded_in": 1111,
         "tp2": "modkitremover"
     },
     {
@@ -24693,16 +24697,15 @@
             "Leninator"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a été inclus dans [[259]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "fr"
         ],
         "status": [
-            "embed"
+            "embed",
+            "obsolete"
         ],
         "last_update": "2018-09",
         "compatibilities": {
@@ -24710,6 +24713,7 @@
                 "version >= 2.6"
             ]
         },
+        "embedded_in": 259,
         "tp2": "bg2eetrans"
     },
     {
@@ -25163,7 +25167,8 @@
             "cn"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2026-03",
         "compatibilities": {},
@@ -25592,19 +25597,19 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2018-12",
         "compatibilities": {},
+        "embedded_in": 1048,
         "tp2": ""
     },
     {
@@ -25669,9 +25674,7 @@
             "Macholy"
         ],
         "team": [],
-        "notes": [
-            "Attention : Il est désormais obsolète et a été remplacé par le composant `Les PNJs du groupe ne se battent pas` de [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -25683,6 +25686,7 @@
         ],
         "last_update": "2013-01",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "NMR-HAPPY"
     },
     {
@@ -27729,16 +27733,15 @@
             "Leninator"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a été inclus dans [[259]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "fr"
         ],
         "status": [
-            "embed"
+            "embed",
+            "obsolete"
         ],
         "last_update": "2018-05",
         "compatibilities": {
@@ -27746,6 +27749,7 @@
                 "version >= 2.6"
             ]
         },
+        "embedded_in": 259,
         "tp2": "non-weidu"
     },
     {
@@ -27949,19 +27953,19 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2018-12",
         "compatibilities": {},
+        "embedded_in": 1048,
         "tp2": "palemaster"
     },
     {
@@ -28373,7 +28377,7 @@
     {
         "id": 807,
         "name": "Pick Your Poison - Choices for Assassin and Blackguard poison weapon ability",
-        "description": "Ce mod a disparu...",
+        "description": "Ce mod permet de modifier la compétence Arme empoisonnée des Assassins et des Chevaliers noir.",
         "urls": [
             "https://forums.beamdog.com/discussion/54950/"
         ],
@@ -28393,7 +28397,8 @@
         "safe": 0,
         "languages": [],
         "status": [
-            "hidden"
+            "missing",
+            "beta"
         ],
         "last_update": "2016-04",
         "compatibilities": {},
@@ -29216,11 +29221,10 @@
         ],
         "team": [],
         "notes": [
-            "Attention : il nécessite une manipulation de certains fichiers. Bien lire le readme inclus.",
-            "Il existe une version directement intégrée dans [[347]]."
+            "Attention : il nécessite une manipulation de certains fichiers. Bien lire le readme inclus."
         ],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "fr",
             "cz",
@@ -29232,10 +29236,12 @@
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "obsolete"
         ],
         "last_update": "2016-07",
         "compatibilities": {},
+        "embedded_in": 347,
         "tp2": "ppicker"
     },
     {
@@ -29848,9 +29854,7 @@
             "Qwinn"
         ],
         "team": [],
-        "notes": [
-            "Il est désormais obsolète et a été intégré dans [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -29867,6 +29871,7 @@
         ],
         "last_update": "2025-09",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "pst-tweak"
     },
     {
@@ -30375,19 +30380,19 @@
             "semiticgod"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[386]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2018-01",
         "compatibilities": {},
+        "embedded_in": 386,
         "tp2": "RedSoulKit"
     },
     {
@@ -30753,9 +30758,7 @@
             "Japheth"
         ],
         "team": [],
-        "notes": [
-            "Il est désormais obsolète et a été remplacé par le composant `Repos possible partout` de [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -30764,6 +30767,7 @@
         ],
         "last_update": "2004-08",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "restanywhere"
     },
     {
@@ -30818,8 +30822,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod écrase les fichiers, dont le fichier dialog.tlk et ne peut pas être désinstallé. Il restaure donc le jeu en langue française. Ne l'installez pas et évitez-le comme la peste !",
-            "Ce mod est inclus dans [[814]]."
+            "Ce mod écrase les fichiers, dont le fichier dialog.tlk."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -30831,6 +30834,7 @@
         ],
         "last_update": "2005-11",
         "compatibilities": {},
+        "embedded_in": 814,
         "tp2": "non-weidu"
     },
     {
@@ -31002,9 +31006,7 @@
             "K'aeloree"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est inclus dans [[1213]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -31015,6 +31017,7 @@
         ],
         "last_update": "2008-05",
         "compatibilities": {},
+        "embedded_in": 1213,
         "tp2": "tobheads"
     },
     {
@@ -31516,9 +31519,7 @@
             "Konalan"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est obsolète depuis qu'il a été intégré dans le pack [[614]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -31529,6 +31530,7 @@
         ],
         "last_update": "2009-03",
         "compatibilities": {},
+        "embedded_in": 614,
         "tp2": "Refuge"
     },
     {
@@ -32083,19 +32085,19 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2017-08",
         "compatibilities": {},
+        "embedded_in": 1048,
         "tp2": "Sacred_Fist;DragonDisciple"
     },
     {
@@ -32590,7 +32592,8 @@
             "pl"
         ],
         "status": [
-            "obsolete"
+            "embed",
+            "archived"
         ],
         "last_update": "2023-09",
         "compatibilities": {},
@@ -34018,7 +34021,8 @@
             "cn"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2026-04",
         "compatibilities": {},
@@ -35170,17 +35174,17 @@
             "Ardanis"
         ],
         "team": [],
-        "notes": [
-            "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod [[89]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": [
-            "stable"
+            "stable",
+            "embed"
         ],
         "last_update": "2006-11",
         "compatibilities": {},
+        "embedded_in": 89,
         "tp2": "StorePrices"
     },
     {
@@ -36163,7 +36167,8 @@
             "es"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2026-04",
         "compatibilities": {
@@ -37465,19 +37470,19 @@
             "Konalan"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est désormais obsolète et a été intégré dans le pack [[614]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2009-03",
         "compatibilities": {},
+        "embedded_in": 614,
         "tp2": "ButterKnife"
     },
     {
@@ -39062,14 +39067,14 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est obsolète : remplacé par [[962]] du même auteur.",
             "Retiré à la demande de l'auteur"
         ],
         "translation_state": "auto",
         "safe": 0,
         "languages": [],
         "status": [
-            "hidden"
+            "hidden",
+            "archived"
         ],
         "last_update": "2021-12",
         "compatibilities": {
@@ -39077,6 +39082,7 @@
                 348
             ]
         },
+        "embedded_in": 962,
         "tp2": "thieving-skills-for-bards"
     },
     {
@@ -39565,9 +39571,7 @@
             "Platter"
         ],
         "team": [],
-        "notes": [
-            "Inclus dans le mod [[847]] (composant `Grimoire de triche`)."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -39578,6 +39582,7 @@
         ],
         "last_update": "2003-01",
         "compatibilities": {},
+        "embedded_in": 847,
         "tp2": "non-weidu"
     },
     {
@@ -40143,19 +40148,19 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2018-08",
         "compatibilities": {},
+        "embedded_in": 1048,
         "tp2": "berserkerminsc"
     },
     {
@@ -40389,17 +40394,16 @@
             "SimDing0"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a été rendu complètement obsolète par [[1011]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
-            "obsolete"
+            "embed"
         ],
         "last_update": "2006-04",
         "compatibilities": {},
+        "embedded_in": 1011,
         "tp2": "TutuAI"
     },
     {
@@ -40417,17 +40421,17 @@
             "CamDawg"
         ],
         "team": [],
-        "notes": [
-            "Il est désormais obsolète, car il a été inclus dans le [[121]], lui-même remplacé par [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2005-01",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "tutu_tweaks"
     },
     {
@@ -40502,9 +40506,7 @@
             "aWoundedLion"
         ],
         "team": [],
-        "notes": [
-            "Il est désormais obsolète car il a été inclus dans le mod [[716]].|Cliquez sur le deuxième lien pour télécharger le fichier."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -40516,6 +40518,7 @@
         ],
         "last_update": "2006-08",
         "compatibilities": {},
+        "embedded_in": 716,
         "tp2": "TwistPack"
     },
     {
@@ -40808,14 +40811,12 @@
             "Adul"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est devenu obsolète depuis le temps."
-        ],
+        "notes": [],
         "translation_state": "n/a",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
         "status": [
-            "obsolete"
+            "stable"
         ],
         "last_update": "2009-04",
         "compatibilities": {},
@@ -40874,19 +40875,19 @@
             "Raduziel"
         ],
         "team": [],
-        "notes": [
-            "Il est obsolète depuis qu'il a été inclus dans le mod [[502]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2017-07",
         "compatibilities": {},
+        "embedded_in": 502,
         "tp2": "UndeadHunterRevision"
     },
     {
@@ -41212,8 +41213,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est devenu obsolète depuis son intégration dans le mod [[386]].",
-            "Peut être remplacé par [[531]] d'Argent77."
+            "Peut être remplacé par [[531]]."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -41221,10 +41221,12 @@
             "en"
         ],
         "status": [
-            "obsolete"
+            "obsolete",
+            "archived"
         ],
         "last_update": "2019-05",
         "compatibilities": {},
+        "embedded_in": 386,
         "tp2": "UniversalArcherKit"
     },
     {
@@ -42113,19 +42115,19 @@
             "Glam Vrock"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est obsolète depuis son intégration dans [[451]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2019-08",
         "compatibilities": {},
+        "embedded_in": 451,
         "tp2": "vynd"
     },
     {
@@ -42368,19 +42370,19 @@
             "semiticgod"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[386]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "obsolete"
+            "embed",
+            "archived"
         ],
         "last_update": "2019-07",
         "compatibilities": {},
+        "embedded_in": 386,
         "tp2": "WarHulkKit"
     },
     {
@@ -42405,19 +42407,19 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [
-            "Attention : il est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2018-12",
         "compatibilities": {},
+        "embedded_in": 1048,
         "tp2": ""
     },
     {
@@ -42644,19 +42646,19 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2018-12",
         "compatibilities": {},
+        "embedded_in": 1048,
         "tp2": "c0assassin"
     },
     {
@@ -44639,9 +44641,7 @@
             "Sikret"
         ],
         "team": [],
-        "notes": [
-            "La version original de ce profil a été incluse dans les dernières versions du mod [[530]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -44651,9 +44651,11 @@
             "es"
         ],
         "status": [
-            "stable"
+            "stable",
+            "embed"
         ],
         "last_update": "2024-10",
+        "embedded_in": 530,
         "compatibilities": {},
         "tp2": "RBK"
     },
@@ -45131,9 +45133,7 @@
             "Deratiseur"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a été inclus dans [[302]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -45141,10 +45141,12 @@
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2024-10",
         "compatibilities": {},
+        "embedded_in": 302,
         "tp2": "Derats_SWP"
     },
     {
@@ -45804,9 +45806,7 @@
             "Smiling Imp"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est inclus dans [[269]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -45814,10 +45814,12 @@
             "ru"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2023-02",
         "compatibilities": {},
+        "embedded_in": 269,
         "tp2": "SmilingImpCrossBanterMod"
     },
     {
@@ -46606,7 +46608,8 @@
             "es"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2026-03",
         "compatibilities": {},
@@ -46637,7 +46640,8 @@
             "en"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2024-07",
         "compatibilities": {},
@@ -48592,19 +48596,19 @@
             "semiticgod"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est devenu obsolète depuis son intégration dans le mod [[386]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2019-01",
         "compatibilities": {},
+        "embedded_in": 386,
         "tp2": "seducerkit"
     },
     {
@@ -48699,10 +48703,7 @@
             "Bubb"
         ],
         "team": [],
-        "notes": [
-            "Ne fonctionne qu'avec qu'une version 2.6, ni plus ni moins. Et seulement avec un exécutable Windows !",
-            "Inclus dans [[1525]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -48710,7 +48711,13 @@
             "embed"
         ],
         "last_update": "2022-04",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "EE version == 2.6",
+                "Windows"
+            ]
+        },
+        "embedded_in": 1525,
         "tp2": "bubb_revert_pathfinding"
     },
     {
@@ -48792,7 +48799,7 @@
     {
         "id": 1376,
         "name": "Quick Save Slots Tweaks",
-        "description": "Ce mod vous permet de choisir entre 1 et 4 emplacements de sauvegarde rapide différents dans BGEE, SoD, BG2EE, IWDEE, et PSTEE. Il n'est pas compatible avec EET.",
+        "description": "Ce mod vous permet de choisir entre 1 et 4 emplacements de sauvegarde rapide différents.",
         "urls": [
             "https://www.shsforums.net/files/file/1141-quick-save-slots-tweaks/",
             "https://forums.beamdog.com/discussion/49757/",
@@ -48812,9 +48819,7 @@
             "elminster"
         ],
         "team": [],
-        "notes": [
-            "Il a été rendu obsolète par [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -48822,10 +48827,11 @@
             "fr"
         ],
         "status": [
-            "obsolete"
+            "embed"
         ],
         "last_update": "2020-12",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "k9quicksave"
     },
     {
@@ -49381,17 +49387,18 @@
         ],
         "team": [],
         "notes": [
-            "Attention, la première partie n'est pas un composant Weidu et il est nécessaire d'overrider les objets et les magasins correspondants. La seconde est Weidu.",
-            "Il est désormais obsolète et a été remplacé par [[252]]."
+            "Attention, la première partie n'est pas un composant Weidu et il est nécessaire d'overrider les objets et les magasins correspondants. La seconde est Weidu."
         ],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
+            "embed",
             "obsolete"
         ],
         "last_update": "2014-08",
         "compatibilities": {},
+        "embedded_in": 252,
         "tp2": "EE_content_tweaks"
     },
     {
@@ -49797,9 +49804,7 @@
             "Shohy"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est inclus dans [[1791]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -49807,10 +49812,12 @@
             "cn"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2024-12",
         "compatibilities": {},
+        "embedded_in": 1791,
         "tp2": "improvedMonk"
     },
     {
@@ -50261,10 +50268,7 @@
             "Shohy"
         ],
         "team": [],
-        "notes": [
-            "Malgré les apparences, ce mod a l'air bien fait.",
-            "Ce mod est inclus dans [[1791]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -50272,10 +50276,12 @@
             "cn"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2024-06",
         "compatibilities": {},
+        "embedded_in": 1791,
         "tp2": "shaman_hauler"
     },
     {
@@ -50976,9 +50982,7 @@
             "Allbrother"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a été inclus dans [[1782]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [],
@@ -50987,6 +50991,7 @@
         ],
         "last_update": "2023-10",
         "compatibilities": {},
+        "embedded_in": 1782,
         "tp2": "wl_RechargeWands"
     },
     {
@@ -51076,9 +51081,7 @@
             "Shohy"
         ],
         "team": [],
-        "notes": [
-            "Inclus dans [[1588]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -51086,10 +51089,12 @@
             "cn"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2024-11",
         "compatibilities": {},
+        "embedded_in": 1588,
         "tp2": "Shohy's_Weapon_Style_Rebalance"
     },
     {
@@ -53340,8 +53345,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention, le composant `ennemis plus puissant` remplace les créatures au lieu de les patcher.",
-            "Ce mod est devenu obsolète depuis son intégration dans [[285]]."
+            "Attention, le composant `ennemis plus puissant` remplace les créatures au lieu de les patcher."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -53354,6 +53358,7 @@
         ],
         "last_update": "2006-07",
         "compatibilities": {},
+        "embedded_in": 285,
         "tp2": "bg1advendture"
     },
     {
@@ -54201,17 +54206,17 @@
             "Boooof"
         ],
         "team": [],
-        "notes": [
-            "Inclus dans [[1482]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2023-02",
         "compatibilities": {},
+        "embedded_in": 1482,
         "tp2": "Borjoyzee Soundset"
     },
     {
@@ -54233,19 +54238,19 @@
             "Boooof"
         ],
         "team": [],
-        "notes": [
-            "Inclus dans [[1482]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2023-07",
         "compatibilities": {},
+        "embedded_in": 1482,
         "tp2": "Benny Soundset"
     },
     {
@@ -55391,19 +55396,19 @@
             "ahungry"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est inclus dans [[1368]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2022-09",
         "compatibilities": {},
+        "embedded_in": 1368,
         "tp2": "ahungry_backstab"
     },
     {
@@ -56387,20 +56392,19 @@
             "aWoundedLion"
         ],
         "team": [],
-        "notes": [
-            "Cliquez sur le deuxième lien pour télécharger le fichier.",
-            "Inclus dans [[716]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "pl"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2006-08",
         "compatibilities": {},
+        "embedded_in": 716,
         "tp2": "NaturalSelection"
     },
     {
@@ -57511,17 +57515,16 @@
             "Parvini"
         ],
         "team": [],
-        "notes": [
-            "Rendu obsolète par [[831]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": [
             "obsolete"
         ],
         "last_update": "2006-04",
         "compatibilities": {},
+        "embedded_in": 831,
         "tp2": "NPNPC Portraits"
     },
     {
@@ -58534,19 +58537,18 @@
             "MCZ"
         ],
         "team": [],
-        "notes": [
-            "Ce mod désormais obsolète et a été remplace par un composant plus puissant du mod [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "pl"
         ],
         "status": [
-            "obsolete"
+            "embed"
         ],
         "last_update": "2006-10",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "autosavemod"
     },
     {
@@ -60034,9 +60036,7 @@
             "Tresset"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est obsolète, préférez lui le plus efficace [[155]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -60045,6 +60045,7 @@
         ],
         "last_update": "2015-04",
         "compatibilities": {},
+        "embedded_in": 155,
         "tp2": "non-weidu"
     },
     {
@@ -60376,19 +60377,19 @@
             "Corsymyr"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est inclus dans [[1018]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2013-02",
         "compatibilities": {},
+        "embedded_in": 1018,
         "tp2": "non-weidu"
     },
     {
@@ -60413,7 +60414,8 @@
         "safe": 0,
         "languages": [],
         "status": [
-            "hidden"
+            "hidden",
+            "obsolete"
         ],
         "last_update": "2019-04",
         "compatibilities": {
@@ -61264,7 +61266,8 @@
             "en"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "obsolete"
         ],
         "last_update": "2006-08",
         "compatibilities": {},
@@ -61352,8 +61355,7 @@
         ],
         "team": [],
         "notes": [
-            "Vous DEVEZ avoir 5 compagnons pour que le script du mod fonctionne.",
-            "Ce mod est inclus dans [[1245]], du même auteur."
+            "Vous DEVEZ avoir 5 compagnons pour que le script du mod fonctionne."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -61361,10 +61363,12 @@
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2005-04",
         "compatibilities": {},
+        "embedded_in": 1245,
         "tp2": "partysolo"
     },
     {
@@ -64343,7 +64347,8 @@
             "fr"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2024-02",
         "compatibilities": {},
@@ -64376,7 +64381,8 @@
             "en"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2024-05",
         "compatibilities": {},
@@ -64472,7 +64478,8 @@
             "fr"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2024-04",
         "compatibilities": {},
@@ -64503,7 +64510,8 @@
             "fr"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2024-02",
         "compatibilities": {},
@@ -64534,7 +64542,8 @@
             "fr"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2024-05",
         "compatibilities": {},
@@ -65526,19 +65535,19 @@
             "Konalan"
         ],
         "team": [],
-        "notes": [
-            "Inclus dans [[614]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "obsolete"
+            "embed",
+            "archived"
         ],
         "last_update": "2009-03",
         "compatibilities": {},
+        "embedded_in": 614,
         "tp2": "KonWSE"
     },
     {
@@ -66042,7 +66051,8 @@
             "en"
         ],
         "status": [
-            "hidden"
+            "hidden",
+            "stable"
         ],
         "last_update": "2025-11",
         "compatibilities": {},
@@ -66895,19 +66905,19 @@
             "AWizardDidIt"
         ],
         "team": [],
-        "notes": [
-            "Inclus dans [[1346]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2023-01",
         "compatibilities": {},
+        "embedded_in": 1346,
         "tp2": "Blackhearts_BG1"
     },
     {
@@ -66930,19 +66940,19 @@
             "AWizardDidIt"
         ],
         "team": [],
-        "notes": [
-            "Inclus dans [[1346]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2023-01",
         "compatibilities": {},
+        "embedded_in": 1346,
         "tp2": "Blackhearts_BG2 Patch"
     },
     {
@@ -68573,19 +68583,19 @@
             "Icendoan"
         ],
         "team": [],
-        "notes": [
-            "Inclus dans [[64]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2009-02",
         "compatibilities": {},
+        "embedded_in": 64,
         "tp2": "#!stoneskin"
     },
     {
@@ -69121,7 +69131,8 @@
         "safe": 0,
         "languages": [],
         "status": [
-            "hidden"
+            "hidden",
+            "obsolete"
         ],
         "last_update": "2018-04",
         "compatibilities": {
@@ -69299,9 +69310,7 @@
             "adahn"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a été inclus dans [[845]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -69315,6 +69324,7 @@
         ],
         "last_update": "2004-03",
         "compatibilities": {},
+        "embedded_in": 845,
         "tp2": "Hell"
     },
     {
@@ -69770,17 +69780,16 @@
             "Kevin Dorner"
         ],
         "team": [],
-        "notes": [
-            "Rendu obsolète par [[153]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
-            "obsolete"
+            "embed"
         ],
         "last_update": "2001-07",
         "compatibilities": {},
+        "embedded_in": 153,
         "tp2": "non-weidu"
     },
     {
@@ -69800,17 +69809,17 @@
             "aVENGER"
         ],
         "team": [],
-        "notes": [
-            "Rendu obsolète par [[1141]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
-            "obsolete"
+            "embed",
+            "archived"
         ],
         "last_update": "2003-01",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "non-weidu"
     },
     {

@@ -174,10 +174,10 @@ class Mod:
             note -= 1
         if "temnix" in self.authors:  # déso
             note -= 1
-        if ModStatus.ARCHIVED in self.status:
-            note -= 1
-        elif self.embedded_in or self.status & {ModStatus.EMBED, ModStatus.OBSOLETE}:
+        if self.embedded_in or self.status & {ModStatus.EMBED, ModStatus.OBSOLETE}:
             note = 0
+        elif ModStatus.ARCHIVED in self.status:
+            note -= 1
         elif self.status & {ModStatus.UNRELEASED, ModStatus.BETA, ModStatus.MISSING}:
             note = min(1, note)
         return max(0, note)
@@ -220,7 +220,7 @@ class Mod:
                     "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le à vos risques et périls."
                 )
             )
-        if ModStatus.ARCHIVED in self.status:
+        if ModStatus.ARCHIVED in self.status and ModStatus.EMBED not in self.status:
             auto_notes.append(
                 _g(
                     "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui donner suite."
@@ -230,7 +230,7 @@ class Mod:
             auto_notes.append(_g("Ce mod est toujours en cours de réalisation."))
         elif ModStatus.BETA in self.status:
             auto_notes.append(_g("Ce mod est en cours de finition."))
-        if ModStatus.MISSING in self.status:
+        if ModStatus.MISSING in self.status and ModStatus.EMBED not in self.status:
             if self.urls:
                 url = self.urls[0]
                 note = _g(

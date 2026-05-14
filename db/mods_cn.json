@@ -157,17 +157,13 @@
         "id": 11,
         "description": "此模组已过时。此外，它还是一个override模组，请优先选择[[1141]]中的组件“所有人都获得专精的每轮攻击加成”。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod est obsolète. Comme de plus, il s'agit d'un mod override, préférez-lui le composant `Tout le monde obtient le bonus d'attaque par round de spécialisation` de [[1141]]."
+            "status": "needs_review",
+            "source": "Comme il s'agit d'un mod override, préférez-lui le composant `Tout le monde obtient le bonus d'attaque par round de spécialisation` de [[1141]]."
         },
-        "notes": [
-            "已被同一作者的 [[1277]] 取代。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Remplacé par [[1277]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -468,14 +464,10 @@
             "status": "done",
             "source": "Ce mod ajoute un nouveau profil de mage : l'alchimiste. Il dispose de moins d'emplacements de sorts que les autres mages, mais peut créer des potions uniques très différentes de celles que l'on trouve dans les jeux originaux, ainsi que plusieurs types de grenades hautement volatiles. Ce mod ajoute 34 nouveaux objets avec des effets inédits, depuis une potion de guérison écœurante sous forme de lait de vampire jusqu'à une adorable boule de mousse qui peut ressusciter les morts, en passant par des choses plus bizarres comme des baguettes de tendon d'elfe, de la lymphe de serpent, des gouttes d'os, du nectar de sang, de l'huile de fée et des engins de guerre apocalyptiques de 100 kg. Toutes les icônes sont tirées d'Icewind Dale 2 pour leur donner un aspect unique.|L'alchimiste est un personnage de soutien unique qui peut faire une variété de choses différentes, mais obtenir le maximum de ses objets coûte des centaines d'or au début du jeu, et des milliers, voire des dizaines de milliers d'or à la fin du jeu. Mais cela en vaut la peine."
         },
-        "notes": [
-            "由于该模组已被整合到模组[[386]]中，它已变得过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est devenu obsolète depuis son intégration dans le mod [[386]]."
-            ]
+            "source": []
         }
     },
     {
@@ -893,14 +885,10 @@
             "status": "done",
             "source": "Ce mod ajoute un nouveau profil dans le jeu : un guerrier ou un guerrier/mage spécialisé dans les attaques à distance et qui peut créer des flèches spéciales."
         },
-        "notes": [
-            "注意：此模组已过时，因为它已被包含在作者制作的模组 [[1048]] 中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -937,8 +925,8 @@
         "id": 63,
         "description": "这个模组最初旨在使法术效果与其描述保持一致（持续时间、射程、伤害等），但后来逐渐演变为对法术进行修改，使其在游戏中更有趣。|它已被许多更新的模组所取代，其中包括 [[982]]。",
         "description_meta": {
-            "status": "done",
-            "source": "Conçu à l'origine pour rendre les sorts conformes à leurs descriptions (durée, portée, dégâts...), ce mod a peu à peu évolué pour les modifier afin de les rendre plus intéressants à jouer.|Il a été rendu obsolète par de nombreux mods plus récents, dont [[982]]."
+            "status": "needs_review",
+            "source": "Conçu à l'origine pour rendre les sorts conformes à leurs descriptions (durée, portée, dégâts...), ce mod a peu à peu évolué pour les modifier afin de les rendre plus intéressants à jouer."
         },
         "notes": [],
         "notes_meta": {
@@ -1246,9 +1234,8 @@
             "EE 版本可通过第二个链接获取。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Ce profil a été inclus dans les dernières versions du mod [[530]].",
                 "La version EE est disponible via le second lien."
             ]
         }
@@ -1631,9 +1618,9 @@
             "它会覆盖游戏文件。现已过时，已被 [[1141]] 取代。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Il écrase les fichiers du jeu. Désormais obsolète, il a été remplacé par [[1141]]."
+                "Il écrase les fichiers du jeu."
             ]
         }
     },
@@ -1776,8 +1763,8 @@
         ],
         "description": "此模组编译了其他几个模组：G3调整包、[[1140]]和Wes Weimer的易用性。它可以对游戏进行一千零一个小调整。您可以进行纯粹的美观性更改（例如在头像上隐藏头盔，使用冰风谷的法术视觉效果……）或规则性更改（移除经验值上限，更改经验值表，穿着盔甲施法），并放宽游戏的某些机制（弹药无限堆叠，多恋情……）。|它现已过时，并被[[1141]]取代。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod compilait plusieurs autres mods : les G3 Tweak Pack, [[1140]] et Wes Weimer's Ease of Use. Il permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances...).|Il est désormais obsolète et a été remplacé par [[1141]]."
+            "status": "needs_review",
+            "source": "Ce mod compilait plusieurs autres mods : les G3 Tweak Pack, [[1140]] et Wes Weimer's Ease of Use. Il permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances...)."
         },
         "notes": [],
         "notes_meta": {
@@ -2212,14 +2199,10 @@
             "status": "done",
             "source": "Ce mod modifie l'aspect des mannequins et des portraits afin de les rendre d'apparence plus gothiques, et se décline en 4 versions. Celle-ci concerne uniquement le jeu BG2 original."
         },
-        "notes": [
-            "已包含在[[1893]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Inclus dans [[1893]]."
-            ]
+            "source": []
         }
     },
     {
@@ -2439,14 +2422,10 @@
             "status": "done",
             "source": "Ce très vieux mod permettait de contourner la contrainte du moteur du jeu qui disposait d'un nombre limité d'animations de créatures qu'il pouvait utiliser. Il ajoutait donc de nombreuses animations des jeux IWD, IWD2 et BG1 dans BG2. Cependant, sa nature très technique (en gros, il utilisait les armes dont les créatures étaient équipées pour modifier leur apparence) le rend difficile à utiliser."
         },
-        "notes": [
-            "[[548]] 的发布使其完全过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "La sortie d'[[548]] l'a rendu complètement obsolète."
-            ]
+            "source": []
         }
     },
     {
@@ -2769,14 +2748,10 @@
             "status": "done",
             "source": "L'auteur de ce mod se vante de l'avoir écrit en 3h47m pour fêter l'anniversaire de BG...|Vous pouvez recruter Brage et accomplir une petite quête."
         },
-        "notes": [
-            "包含在同一个作者的[[64]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Inclus dans [[64]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -3130,14 +3105,10 @@
             "status": "done",
             "source": "Ce projet a pour intention de développer le réalisme et l'intérêt de Cernd en le dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires."
         },
-        "notes": [
-            "此模组现已包含在[[504]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est désormais inclus dans [[504]]."
-            ]
+            "source": []
         }
     },
     {
@@ -3576,14 +3547,10 @@
             "status": "done",
             "source": "Ce mod permet de porter plusieurs pierres ioniques en même temps."
         },
-        "notes": [
-            "自从它被包含在模组 [[361]] 中后，它就已经过时了。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est obsolète depuis qu'il a été inclus dans le mod [[361]]."
-            ]
+            "source": []
         }
     },
     {
@@ -3633,10 +3600,10 @@
     },
     {
         "id": 250,
-        "description": "此模组已被 [[249]] 取代。",
+        "description": "",
         "description_meta": {
             "status": "done",
-            "source": "Mod rendu obsolète par [[249]]."
+            "source": ""
         },
         "notes": [],
         "notes_meta": {
@@ -3902,14 +3869,10 @@
             "status": "done",
             "source": "Cette version du mod comprend des portraits alternatifs pour certains mods de PNJ, afin de les rendre plus conformes au graphisme gothique des PNJ du jeu."
         },
-        "notes": [
-            "已包含在[[1893]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Inclus dans [[1893]]."
-            ]
+            "source": []
         }
     },
     {
@@ -4168,8 +4131,8 @@
         "id": 286,
         "description": "现已包含在[[1175]]中，这个小型模组曾在塔洛斯神殿中添加了商人阿斯格林，并带来了许多来自《冰风谷1》和《冰风谷2》的新物品。此外，它还改进了盲眼教派和吟游诗人公会。它的26件新物品主要分布在阿斯格林的商店和莉莉丝的尸体上。",
         "description_meta": {
-            "status": "done",
-            "source": "Désormais inclus dans [[1175]], ce mini mod ajoutait le marchand Asgrim dans le Temple de Talos, avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2. De plus, il améliorait le Culte de l'Œil Aveugle et le bâtiment des Ménestrels. Ses 26 nouveaux objets étaient principalement répartis dans le magasin d'Asgrim et sur le corps de Lilith."
+            "status": "needs_review",
+            "source": "Ce mini mod ajoutait le marchand Asgrim dans le Temple de Talos, avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2. De plus, il améliorait le Culte de l'Œil Aveugle et le bâtiment des Ménestrels. Ses 26 nouveaux objets étaient principalement répartis dans le magasin d'Asgrim et sur le corps de Lilith."
         },
         "notes": [],
         "notes_meta": {
@@ -4631,14 +4594,10 @@
             "status": "done",
             "source": ""
         },
-        "notes": [
-            "此模组现已包含在[[504]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est désormais inclus dans [[504]]."
-            ]
+            "source": []
         }
     },
     {
@@ -4924,14 +4883,10 @@
             "status": "done",
             "source": "Ce mod propose un nouveau PNJ : Dusk, le tueur de sorciers. Ardusk Aldant, également connu sous le nom de Dusk, est un guerrier du Cormyr, formé dans l'Ordre des Dragons Pourpres. Après un long voyage jusqu'à Athkatla, Dusk est devenu un notable tueur de sorciers qui ne demande qu'à vivre en paix. Mais un sombre personnage attaque la paisible promenade de Waukyne."
         },
-        "notes": [
-            "此模组已被作者包含在[[1305]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod a été inclus dans [[1305]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -5082,14 +5037,10 @@
             "status": "done",
             "source": "Ce mod simplifiait la vie du joueur en permettant des piles d'objets plus importantes, en maximisant les points de vie à chaque gain de niveau, en facilitant l'apprentissage des sorts, en empêchant les personnages de partir à cause de la réputation..."
         },
-        "notes": [
-            "它已被[[121]]取代，而[[121]]又集成在[[1141]]中，因此现已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est désormais obsolète après avoir été remplacé par le [[121]], lui-même intégré dans le [[1141]]."
-            ]
+            "source": []
         }
     },
     {
@@ -5099,14 +5050,10 @@
             "status": "done",
             "source": "Ce mod simplifie la vie du joueur en proposant un sac de contenance comme dans Baldur's Gate II, en permettant des piles d'objets plus importantes, en maximisant les points de vie à chaque gain de niveau, en facilitant l'apprentissage des sorts, en empêchant les personnages de partir à cause de la réputation..."
         },
-        "notes": [
-            "它已被模组[[1141]]取代，因此现已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est désormais obsolète après avoir été remplacé par le mod [[1141]]."
-            ]
+            "source": []
         }
     },
     {
@@ -5116,14 +5063,10 @@
             "status": "done",
             "source": "Ce mod permettait d'obtenir un maximum de PV par niveau et aucun échec dans l'apprentissage des sorts dans tous les jeux IE (BG, BG2, IWD, IWD2 et PsT)."
         },
-        "notes": [
-            "它现已过时，并被 [[1141]] 取代。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est désormais obsolète et a été remplacé par [[1141]]."
-            ]
+            "source": []
         }
     },
     {
@@ -7391,14 +7334,10 @@
             "status": "done",
             "source": "Ce mod permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars...) ou de règles (maximum d'HP à chaque changement de niveau, supprimer les pièges...) et assouplir certains mécanismes du jeu (empilement illimité de munitions, gemmes, potions, parchemins, contenants sans fond, identification automatique des objets...)."
         },
-        "notes": [
-            "它现已过时，并被 [[1141]] 取代。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est désormais obsolète et a été remplacé par [[1141]]."
-            ]
+            "source": []
         }
     },
     {
@@ -7511,14 +7450,10 @@
             "status": "done",
             "source": "Adaptation pour IWD 2 du Tweak Pack de BG2, ce mod permettait de faire mille et un petits ajustements au jeu : des bugs fixés, des modifications cosmétiques, des facilitations de gestion d'inventaire avec des sacs à contenance et des entassements de munitions illimités. Il permettait par exemple de sauvegarder ou de se reposer où on veut, de mettre automatiquement en pause au déclenchement d'un dialogue... La plupart de ces modifications visaient à supprimer les aspects les plus ennuyeux du moteur de jeu."
         },
-        "notes": [
-            "它现已过时，并被 [[1141]] 取代。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est désormais obsolète et a été remplacé par [[1141]]."
-            ]
+            "source": []
         }
     },
     {
@@ -7858,14 +7793,10 @@
             "status": "done",
             "source": "Ce petit mod de confort permet au groupe de se déplacer plus rapidement tant qu'il ne voit pas d'ennemis à l'aide d'une capacité qu'on peut activer et désactiver. Conçu pour les jeux EE, il est aussi compatible avec oBG2 à condition d'avoir installé [[1111]]."
         },
-        "notes": [
-            "它现已过时，并被整合为 [[1141]] 模组的 `增加队伍在战斗外的移动速度` 组件。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est désormais obsolète et a été intégré comme composant `Augmenter la vitesse de déplacement du groupe en dehors des combats` du mod [[1141]]."
-            ]
+            "source": []
         }
     },
     {
@@ -8066,8 +7997,8 @@
         "id": 557,
         "description": "该模组允许你使用Isandir的这套肖像集来装扮你的角色。一个可选组件为乌斯特那萨的大多数NPC配备了卓尔精灵的肖像。|该模组包含在[[831]]中。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod vous permet d'utiliser cette collection de portraits d'Isandir pour vos personnages. Un composant optionnel dote la plupart des PNJ de portraits de Drows à Ust Natha.|Ce mod est inclus dans [[831]]."
+            "status": "needs_review",
+            "source": "Ce mod vous permet d'utiliser cette collection de portraits d'Isandir pour vos personnages. Un composant optionnel dote la plupart des PNJ de portraits de Drows à Ust Natha."
         },
         "notes": [],
         "notes_meta": {
@@ -8384,14 +8315,10 @@
             "status": "done",
             "source": "Ce petit mod intégrait les modification d'IA de [[1011]] dans [[74]]."
         },
-        "notes": [
-            "[[1011]] 和 [[74]] 的最新更新使其已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Les dernières mises à jour de [[1011]] et d'[[74]] l'ont rendu obsolète."
-            ]
+            "source": []
         }
     },
     {
@@ -8638,14 +8565,10 @@
             "status": "done",
             "source": "Ce petit mod restaure les capacités innées des elfes noirs prévues par AD&D, mais seulement dans l'Ombreterre : Globe d'obscurité, Globe d'obscurité amélioré, Lueurs dansantes et Feu féerique."
         },
-        "notes": [
-            "这个模组自从被整合到[[845]]中后就已经过时了。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est obsolète depuis qu'il a été intégré dans [[845]]."
-            ]
+            "source": []
         }
     },
     {
@@ -10003,14 +9926,10 @@
             "status": "done",
             "source": "À l'instar des mods [[444]] et [[25]], ce mod donne un portrait à chaque NPC concerné par un dialogue."
         },
-        "notes": [
-            "自从被整合进 [[831]] 后，此模组已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est devenu obsolète depuis son intégration dans [[831]]."
-            ]
+            "source": []
         }
     },
     {
@@ -10020,14 +9939,10 @@
             "status": "done",
             "source": "À l'instar des mods [[444]] et [[25]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans BG:EE et SoD."
         },
-        "notes": [
-            "自从被整合进 [[831]] 后，此模组已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est devenu obsolète depuis son intégration dans [[831]]."
-            ]
+            "source": []
         }
     },
     {
@@ -10037,14 +9952,10 @@
             "status": "done",
             "source": "À l'instar des mods [[444]] et [[25]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans IWD:EE."
         },
-        "notes": [
-            "自从被整合进 [[831]] 后，此模组已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est devenu obsolète depuis son intégration dans [[831]]."
-            ]
+            "source": []
         }
     },
     {
@@ -10114,14 +10025,10 @@
             "status": "done",
             "source": "Ce mod n'est pas un mod de profil à proprement parler. Il a été principalement créé parce que [[1601]] remplissait tous les emplacements de profil disponibles alors que les joueurs souhaitaient utiliser des profils d'autres mods pour y jouer. Le Mod Kit Remover supprime tous les profils de mod de l'écran de création de personnage.|Des options permettent de supprimer uniquement les profils de modules ou Bioware et les profils de modules. Tous les profils resteront installés pour être utilisés par les PNJ et les PC créés précédemment. Toutes les modifications apportées par d'autres mods aux profils de Bioware resteront intactes, et les profils d'autres mods WeiDU peuvent être installés et sélectionnés lors de la création du personnage. Bref, vous pouvez installer plein de profils tout en gardant sélectionnables et intacts les profils par défaut."
         },
-        "notes": [
-            "请注意，此模组已被 [[1111]] 取代而变得过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Notez que ce mod a été rendu obsolète par [[1111]]."
-            ]
+            "source": []
         }
     },
     {
@@ -10161,14 +10068,10 @@
             "status": "done",
             "source": "Comme son nom l'indique, ce mod propose une traduction partielle de BG2:EE. Il comprend :|- les textes de SoA et ToB corrigés par le patch précédent.|- la quête de Rasaad dans SoA : dialogues, lieux, personnages (des noms de créatures peuvent ne pas être traduits).|- les sous-titres des voix pour le personnage principal et pour Rasaad.|- les objets ajoutés par BG2:EE.|- les sorts ajoutés par BG2:EE.|- les textes ajoutés par le patch 2.5, notamment le kit de prêtre de Tempus."
         },
-        "notes": [
-            "这个模组已被包含在[[259]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod a été inclus dans [[259]]."
-            ]
+            "source": []
         }
     },
     {
@@ -10533,14 +10436,10 @@
             "status": "done",
             "source": "Ce mod ajoute un nouveau profil de paladin, le Chevalier du feu mystique, suivant de Mystra, la déesse de la magie. Ils sont experts en combat martial et en magie arcanique. Outre les vertus traditionnelles des paladins, les Chevaliers du Feu Mystique consacrent une partie de leur vie à la découverte et à l'étude de la magie ancienne."
         },
-        "notes": [
-            "注意：此模组已被其作者包含在模组[[1048]]中，现已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -10567,14 +10466,10 @@
             "status": "done",
             "source": "Ce mod s'efforce de rendre les relations entre PNJ beaucoup plus faciles à gérer, et donc à éviter les conflits."
         },
-        "notes": [
-            "注意：它现已过时，并被[[1141]]的“队友不战斗”组件所取代。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : Il est désormais obsolète et a été remplacé par le composant `Les PNJs du groupe ne se battent pas` de [[1141]]."
-            ]
+            "source": []
         }
     },
     {
@@ -11409,14 +11304,10 @@
             "status": "done",
             "source": "Ces packs de voix permettent de passer le jeu entièrement en français, sans entendre les voix anglaise. Les archives de sons sont faites pour être extraites à partir du répertoire lang car elles contiennent le dossier fr_FR. Il est préférable d'installer d'abord le mod de traduction, même si l'ordre n'a pas d'importance.|À cause de la manière dont les versions du jeu gèrent les voix, il existe deux packs de voix : un pour les versions 1.2, 1.3, 2.0, 2.1, 2.2 et 2.3 ; un autre pour la version 2.5."
         },
-        "notes": [
-            "这个模组已被包含在[[259]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod a été inclus dans [[259]]."
-            ]
+            "source": []
         }
     },
     {
@@ -11499,14 +11390,10 @@
             "status": "done",
             "source": "Ce mod ajoute un nouveau profil d'ensorceleur, le Pale Master, adepte de la nécromancie."
         },
-        "notes": [
-            "注意：此模组已被其作者整合到模组 [[1048]] 中，因此已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -11681,8 +11568,8 @@
         "id": 807,
         "description": "此模组已消失...",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod a disparu..."
+            "status": "needs_review",
+            "source": "Ce mod permet de modifier la compétence Arme empoisonnée des Assassins et des Chevaliers noir."
         },
         "notes": [],
         "notes_meta": {
@@ -12018,10 +11905,9 @@
             "有一个版本已直接集成在 [[347]] 中。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Attention : il nécessite une manipulation de certains fichiers. Bien lire le readme inclus.",
-                "Il existe une version directement intégrée dans [[347]]."
+                "Attention : il nécessite une manipulation de certains fichiers. Bien lire le readme inclus."
             ]
         }
     },
@@ -12286,14 +12172,10 @@
             "status": "done",
             "source": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[833]], [[1091]], repos quelle que soit la zone (non recommandé), [[1115]] (non recommandé) et [Dustman Robe](https://sorcerers.net/Games/Torment/Platter/index.php?page=mods)."
         },
-        "notes": [
-            "它现已过时，并被整合进了 [[1141]]。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est désormais obsolète et a été intégré dans [[1141]]."
-            ]
+            "source": []
         }
     },
     {
@@ -12497,14 +12379,10 @@
             "status": "done",
             "source": "Ce mod ajoute deux nouveaux profils, à la fois pour mage et pour ensorceleur. Les sorts lancés par le Red Soul infligent 50 % de dégâts supplémentaires au pris d'une durée diminuée de moitié, alors que ceux du Green Soul durent 50 % plus longtemps, mais infligent 50 % de dégâts en moins."
         },
-        "notes": [
-            "注意：该模组自被同一作者编写的模组 [[386]] 收录以来就已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[386]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -12656,14 +12534,10 @@
             "status": "done",
             "source": "Ce mod supprime toutes les interdictions de se reposer dans les zones du jeu."
         },
-        "notes": [
-            "它现已过时，并被 [[1141]] 的“随处可休息”组件所取代。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est désormais obsolète et a été remplacé par le composant `Repos possible partout` de [[1141]]."
-            ]
+            "source": []
         }
     },
     {
@@ -12691,10 +12565,9 @@
             "此模组包含在 [[814]] 中。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Ce mod écrase les fichiers, dont le fichier dialog.tlk et ne peut pas être désinstallé. Il restaure donc le jeu en langue française. Ne l'installez pas et évitez-le comme la peste !",
-                "Ce mod est inclus dans [[814]]."
+                "Ce mod écrase les fichiers, dont le fichier dialog.tlk."
             ]
         }
     },
@@ -12765,14 +12638,10 @@
             "status": "done",
             "source": "Ce petit mod restaure les dialogues manquants des têtes à l'introduction de ToB."
         },
-        "notes": [
-            "此模组包含在 [[1213]] 中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est inclus dans [[1213]]."
-            ]
+            "source": []
         }
     },
     {
@@ -12983,14 +12852,10 @@
             "status": "done",
             "source": "Ce mod vous offre un objet qui permet de vous téléporter dans une maison meublée d'une pièce avec deux conteneurs pour stocker votre matériel. Vous pouvez l'utiliser aussi souvent que vous le souhaitez."
         },
-        "notes": [
-            "此模组已被整合到 [[614]] 包中，因此已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est obsolète depuis qu'il a été intégré dans le pack [[614]]."
-            ]
+            "source": []
         }
     },
     {
@@ -13210,14 +13075,10 @@
             "status": "done",
             "source": "Ce mod ajoute un nouveau profil de clerc dans le jeu et modifie le Disciple du dragon lui permettant de se transformer en demi-dragon. Le Sacred Fist est un prêtre qui peut porter des coups dévastateurs avec ses poings."
         },
-        "notes": [
-            "注意：此模组已被作者包含在模组[[1048]]中，因此已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -14463,14 +14324,10 @@
             "status": "done",
             "source": "Ce mini mod permet de changer les prix d'achat et de vente des magasins. En jouant avec plusieurs mods différents dans Baldur's Gate, vous aurez probablement remarqué une chose déplaisante : pratiquement tous les mods ajoutent des ennemis qui possèdent des butins très onéreux et/ou ses zones parsemées de coffres plein de trésors. En jouant une combinaison de mega-mods, vous pouvez posséder environ 600 000 pièces d'or au chapitre 6 ! Dans le jeu original, on a du mal à dépasser les 100 000 à ce niveau du jeu.|D'où ce mod qui permet à la fois de pouvoir dépenser sa fortune en augmentant les prix dans les magasins, et d'éliminer le besoin de ramasser tout et n'importe quoi en baissant les prix de rachat. Et même mieux : en augmentant à la fois les prix d'achat et de vente, on rend de la valeur aux objets tout en la supprimant en ce qui concerne l'argent. Ou exactement l'inverse, si vous préférez : les objets ne coûtent rien et seules les récompenses en argent sont d'un réel intérêt.|Vous pourrez donc baisser les prix à 5, 10, 20, 25, 33, 50, 67, 75 ou 80 % de leur valeur initiale ; et les augmenter de 125, 135, 155, 200, 300, 400, 500, 1000 ou 2000 %. En combinant les réductions et les hausses, vous pouvez personnaliser ces valeurs. Par exemple, réduire le prix d'achat de 67 %, puis l'augmenter de 2000 % produira une hausse de 1333 %."
         },
-        "notes": [
-            "请注意，该模组的增强版已包含在模组[[89]]的一个组件中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod [[89]]."
-            ]
+            "source": []
         }
     },
     {
@@ -15405,14 +15262,10 @@
             "status": "done",
             "source": "Ce mini mod ajoute une nouvelle version du Couteau à beurre de Baldurien dans l'échoppe de Deidre (Marché de l'Aventurier) Il s'agit d'une dague +1 qui peut ralentir sa cible à chaque coup porté."
         },
-        "notes": [
-            "这个模组现已过时，并被整合进了 [[614]] 包中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est désormais obsolète et a été intégré dans le pack [[614]]."
-            ]
+            "source": []
         }
     },
     {
@@ -16034,9 +15887,8 @@
             "应作者要求已移除。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Ce mod est obsolète : remplacé par [[962]] du même auteur.",
                 "Retiré à la demande de l'auteur"
             ]
         }
@@ -16221,14 +16073,10 @@
             "status": "done",
             "source": "Il s'agit d'un livre avec lequel vous pouvez dialoguer pour modifier vos caractéristiques, alignement, classe, argent, expérience, points de vie... Il peut aussi vous donner de nombreux objets utiles, dont certains n'étaient pas inclus dans le jeu, ainsi que tous les parchemins de sorts de niveau 5 à 9. Bien, évidemment, c'est de la triche !"
         },
-        "notes": [
-            "包含在[[847]]模组中（组件“作弊魔法书”）。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Inclus dans le mod [[847]] (composant `Grimoire de triche`)."
-            ]
+            "source": []
         }
     },
     {
@@ -16457,14 +16305,10 @@
             "status": "done",
             "source": "Ce mod attribue à Minsc un profil de Berserker rashemi (inspiré de la classe de prestige de Berserker frénétique) et ajoute une armure de peau améliorable à la Forge de Grondemarteau."
         },
-        "notes": [
-            "此模组已被同一作者制作的模组[[1048]]收录，因此已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -16559,14 +16403,10 @@
             "status": "done",
             "source": "Ce mod rend les ennemis beaucoup plus intelligents dans BG1Tutu sans leur donner de nouvelles capacités :|- Ils choisissent leur cibles plus soigneusement.|- Les mages lancent leur sorts de manière moins prévisibles."
         },
-        "notes": [
-            "此模组已被[[1011]]完全取代，因此已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod a été rendu complètement obsolète par [[1011]]."
-            ]
+            "source": []
         }
     },
     {
@@ -16576,14 +16416,10 @@
             "status": "done",
             "source": "Ce mod permettait de faire de nombreux ajustements aux règles du jeu."
         },
-        "notes": [
-            "此模组现已过时，因为它已被收录在[[121]]中，而[[121]]本身又被[[1141]]所取代。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est désormais obsolète, car il a été inclus dans le [[121]], lui-même remplacé par [[1141]]."
-            ]
+            "source": []
         }
     },
     {
@@ -16606,14 +16442,10 @@
             "status": "done",
             "source": "Ce mod proposait toute une collection d'ajustements de règles du jeu."
         },
-        "notes": [
-            "此模组现已过时，因为它已被收录在模组[[716]]中。|请点击第二个链接下载文件。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est désormais obsolète car il a été inclus dans le mod [[716]].|Cliquez sur le deuxième lien pour télécharger le fichier."
-            ]
+            "source": []
         }
     },
     {
@@ -16740,14 +16572,10 @@
             "status": "done",
             "source": "Ce petit mod modifie les attaques à mains nues des moines et des métamorphes. Le premier composant modifie les attaques de poing du moine afin qu'elles soient considérées comme magiques à partir du niveau 6 au lieu du niveau 9. Le second modifie les griffes du loup-garou du druide métamorphe pour qu'elles infligent des dégâts tranchants au lieu de perforants. De plus, les griffes du grand loup-garou sont désormais considérées comme étant de +4 au lieu de +2. Cela ne s'applique qu'à leur valeur d'enchantement, et ne changera pas leurs bonus de dégâts ou de TAC0."
         },
-        "notes": [
-            "此模组随着时间的推移已经过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est devenu obsolète depuis le temps."
-            ]
+            "source": []
         }
     },
     {
@@ -16774,14 +16602,10 @@
             "status": "done",
             "source": "Ce mod modifie le profil de Chasseur de mort-vivants."
         },
-        "notes": [
-            "此模组已被同一作者制作的模组[[502]]收录，因此已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est obsolète depuis qu'il a été inclus dans le mod [[502]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -16911,10 +16735,9 @@
             "可以被Argent77制作的[[531]]替代。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Ce mod est devenu obsolète depuis son intégration dans le mod [[386]].",
-                "Peut être remplacé par [[531]] d'Argent77."
+                "Peut être remplacé par [[531]]."
             ]
         }
     },
@@ -17281,14 +17104,10 @@
             "status": "done",
             "source": "Vynd est un assassin drow, recrutable à la taverne du Magicien ardent à Bérégost. Bien qu'il soit d'alignement mauvais, il ne quittera pas le groupe en raison de sa réputation (nota : cela ne fonctionne pas avec BG:EE). Il possède des dialogues avec le personnage principal, avec les PNJ de Bioware et ceux propres à l'Enhanced Edition ainsi que de nombreuses interactions hors du groupe et des dialogues à l'initiative du joueur."
         },
-        "notes": [
-            "由于该模组作者已将其整合到[[451]]中，因此该模组已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est obsolète depuis son intégration dans [[451]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -17384,14 +17203,10 @@
             "status": "done",
             "source": "Ce mod ajoute un profil pour guerrier. C'est un combattant indiscipliné, sauvage, et féroce. Alors que la plupart des guerriers développent leurs compétences dans les arts martiaux, le War Hulk ne recherche que la force brute. Il évite la stratégie et les tactiques, préférant concentrer toute son énergie dans un seul coup massif."
         },
-        "notes": [
-            "注意：由于该模组作者已将其整合到[[386]]中，因此该模组已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[386]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -17401,14 +17216,10 @@
             "status": "done",
             "source": "Chamans du Nord qui sont également des guerriers chevronnés, les chamans Warhorn sont capables d'invoquer les esprits des guerriers de plans tels que Valhalla ou le repos du Guerrier. Beaucoup de ces chamans vénèrent Tempus, le Seigneur des Batailles, et sont souvent aussi doués au combat qu'en magie chamanique."
         },
-        "notes": [
-            "注意：由于该模组作者已将其整合到[[1048]]中，因此该模组已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : il est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -17504,14 +17315,10 @@
             "status": "done",
             "source": "Way of the Assassin est une profession redoutée, à juste titre. Maître dans l'art de tuer, l'assassin se distingue par sa capacité à tuer un homme vivant d'un seul coup calculé ou de la moindre coupure avec une lame empoisonnée. Aucun homme vivant n'est capable de tuer une cible d'autant de façons qu'un assassin, et une fois qu'un assassin a marqué une cible choisie, son destin est souvent scellé. Si l'acte d'assassinat exige rapidité et ruse, la compétence la plus importante d'un assassin est la patience ; la patience d'analyser sa cible, d'observer ses faiblesses et de trouver le moyen le plus efficace de la tuer et de s'éclipser sans être vu."
         },
-        "notes": [
-            "由于该模组作者已将其整合到[[1048]]中，因此该模组已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est obsolète depuis qu'il a été inclus dans le mod [[1048]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -18300,14 +18107,10 @@
             "status": "done",
             "source": "Un combattant agile, maître de la vitesse. Léger et libre de ses mouvements, il peut se hâter pour frapper avec une rapidité fulgurante tout en ralentissant ses ennemis. Cependant, ce guerrier sacrifie toute armure et protection lourde pour conserver sa mobilité exceptionnelle."
         },
-        "notes": [
-            "此配置文件的原始版本已包含在模组 [[530]] 的最新版本中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "La version original de ce profil a été incluse dans les dernières versions du mod [[530]]."
-            ]
+            "source": []
         }
     },
     {
@@ -18509,14 +18312,10 @@
             "status": "done",
             "source": "Un kit qui peut lancer 1x par 2 niveaux une capacité aléatoire reproduisant n'importe quelle capacité spéciale de n'importe quel kit. A partir du niveau 18 il peut lancer 1x par niveau une capacité reproduisant n'importe quel hla/sort épique de n'importe quelle classe."
         },
-        "notes": [
-            "此模组已包含在作者制作的[[302]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod a été inclus dans [[302]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -18762,14 +18561,10 @@
             "status": "done",
             "source": "Ce mod ajoute de nouvelles interactions entre de nombreux PNJ, notamment avec ceux ajoutés par des mods (comme [[953]], [[1178]], [[1238]], [[910]], [[1133]], [[496]], [[605]] et bien d'autres)."
         },
-        "notes": [
-            "此模组已包含在[[269]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est inclus dans [[269]]."
-            ]
+            "source": []
         }
     },
     {
@@ -19899,14 +19694,10 @@
             "status": "done",
             "source": "Le kit Séducteur permet au joueur de charmer littéralement TOUT ce qui se trouve dans le jeu. Mais comme pour mes autres kits, cette puissante capacité est contrebalancée par des inconvénients rédhibitoires, à savoir une incapacité totale à accomplir les tâches normales du voleur du groupe, et les pires défenses de toutes les classes du jeu."
         },
-        "notes": [
-            "由于该模组已被整合到 [[386]] 中，现已过时。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est devenu obsolète depuis son intégration dans le mod [[386]]."
-            ]
+            "source": []
         }
     },
     {
@@ -19957,16 +19748,10 @@
             "status": "done",
             "source": "Ce patch exe permet corriger l'algorithme de recherche de chemin des versions EE 2.6 qui faisait que les membres du groupe restaient parfois coincés dans des espaces restreints."
         },
-        "notes": [
-            "仅适用于 2.6 版本，不多不少。并且仅适用于 Windows 可执行文件！",
-            "包含在 [[1525]] 中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ne fonctionne qu'avec qu'une version 2.6, ni plus ni moins. Et seulement avec un exécutable Windows !",
-                "Inclus dans [[1525]]."
-            ]
+            "source": []
         }
     },
     {
@@ -19999,17 +19784,13 @@
         "id": 1376,
         "description": "此模组允许你在BGEE、SoD、BG2EE、IWDEE和PSTEE中选择1到4个不同的快速存档位置。它与EET不兼容。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod vous permet de choisir entre 1 et 4 emplacements de sauvegarde rapide différents dans BGEE, SoD, BG2EE, IWDEE, et PSTEE. Il n'est pas compatible avec EET."
+            "status": "needs_review",
+            "source": "Ce mod vous permet de choisir entre 1 et 4 emplacements de sauvegarde rapide différents."
         },
-        "notes": [
-            "它已被 [[1141]] 取代。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il a été rendu obsolète par [[1141]]."
-            ]
+            "source": []
         }
     },
     {
@@ -20268,10 +20049,9 @@
             "它现已过时，并被 [[252]] 取代。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Attention, la première partie n'est pas un composant Weidu et il est nécessaire d'overrider les objets et les magasins correspondants. La seconde est Weidu.",
-                "Il est désormais obsolète et a été remplacé par [[252]]."
+                "Attention, la première partie n'est pas un composant Weidu et il est nécessaire d'overrider les objets et les magasins correspondants. La seconde est Weidu."
             ]
         }
     },
@@ -20450,14 +20230,10 @@
             "status": "done",
             "source": "Ce mod propose d'améliorer les moines kittés ou non (avec choix de composant). Il gagne de nouvelles compétences au fil des niveaux comme la capacité de soigner, d'utiliser Poussière scintillante ou Grande Malédiction, de devenir invisible… À haut niveau, ce moine peut apprendre et utiliser les compétences de Balthazar."
         },
-        "notes": [
-            "此模组包含在同一位作者的 [[1791]] 中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est inclus dans [[1791]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -20656,16 +20432,10 @@
             "status": "done",
             "source": "Dans Baldur's Gate, les Shamans ne peuvent pas se déplacer en dansant, et il n'y a pas de bête de somme dans le jeu qui puisse les porter. En revanche, rien n'interdit de les faire porter par des coéquipiers. Pour cela, le Shaman a accès a une nouvelle capacité qui autorise un de ses coéquipiers de porter le Shaman. Celui-ci se voit à son tour offrir une nouvelle capacité lui permettant de déposer le Shaman. Certaines conditions doivent être respectées comme la force du coéquipier, sa proximité etc"
         },
-        "notes": [
-            "尽管表面如此，但这个模组看起来制作得很好。",
-            "此模组包含在同一位作者的 [[1791]] 中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Malgré les apparences, ce mod a l'air bien fait.",
-                "Ce mod est inclus dans [[1791]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -20976,14 +20746,10 @@
             "status": "done",
             "source": "Ce mod permet de recharger les baguettes à tout moment soit avec de l'or (moins cher que la vente/achat) soit avec de l'xp. Pour ce faire, faites un clic droit sur la baguette dans l'inventaire et cliquez sur le bouton « Recharge Wand ». Une boîte de dialogue s'ouvrira avec le coût affiché et vous pourrez confirmer."
         },
-        "notes": [
-            "这个模组已被包含到[[1782]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod a été inclus dans [[1782]]."
-            ]
+            "source": []
         }
     },
     {
@@ -21019,14 +20785,10 @@
             "status": "done",
             "source": "Après avoir étudié de nombreux combats armés réels, l'auteur a cherché à rééquilibrer les styles d'armes à deux mains, d'épée et de bouclier, d'arme unique et d'arme à deux mains, afin que tous les styles d'armes soient utiles. L'Intelligence/Sagesse/Charisme apporte également des modificateurs supplémentaires. Tous les ajustements ne prennent effet qu'en combat. Vous pouvez cliquer sur le bouton de changement de mode sur la barre de compétences du protagoniste pour activer ou non le mécanisme. Le bouton est obtenu lors du premier combat."
         },
-        "notes": [
-            "包含在同一个作者的[[1588]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Inclus dans [[1588]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -22024,10 +21786,9 @@
             "由于其已被整合到 [[285]] 中，此模组已过时。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Attention, le composant `ennemis plus puissant` remplace les créatures au lieu de les patcher.",
-                "Ce mod est devenu obsolète depuis son intégration dans [[285]]."
+                "Attention, le composant `ennemis plus puissant` remplace les créatures au lieu de les patcher."
             ]
         }
     },
@@ -22381,14 +22142,10 @@
             "status": "done",
             "source": "Ce mod ajoute des voix aux personnages et des portraits aux personnages."
         },
-        "notes": [
-            "已包含在同作者制作的 [[1482]] 中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Inclus dans [[1482]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -22398,14 +22155,10 @@
             "status": "done",
             "source": "Ce mod propose un jeu de voix en anglais."
         },
-        "notes": [
-            "已包含在同作者制作的 [[1482]] 中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Inclus dans [[1482]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -22915,14 +22668,10 @@
             "status": "done",
             "source": "Ce mod permet de retirer l'immunité aux attaques sournoises et à l'arrêt du temps de toutes les créatures, exceptée celle des Barbares."
         },
-        "notes": [
-            "此模组已包含在作者制作的[[1368]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est inclus dans [[1368]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -23325,15 +23074,10 @@
             "status": "done",
             "source": "Ce mod a pour but d'améliorer la classe et les kits du druide et d'en faire une alternative viable à la présence d'un clerc dans votre groupe en y ajoutant de nouveaux sorts. Chaque partie du mod est optionnelle afin de permettre un maximum de flexibilité."
         },
-        "notes": [
-            "点击第二个链接以下载文件。"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Cliquez sur le deuxième lien pour télécharger le fichier.",
-                "Inclus dans [[716]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -23784,14 +23528,10 @@
             "status": "done",
             "source": "Des portraits pour tous les personnages importants qu'il est possible de rencontrer dans le jeu."
         },
-        "notes": [
-            "已被 [[831]] 取代。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Rendu obsolète par [[831]]."
-            ]
+            "source": []
         }
     },
     {
@@ -24225,14 +23965,10 @@
             "status": "done",
             "source": "Ajoute un système de sauvegardes automatiques dont l'intervalle est à configurer par la console"
         },
-        "notes": [
-            "此模组现已过时，并被[[1141]]模组中一个更强大的组件所取代。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod désormais obsolète et a été remplace par un composant plus puissant du mod [[1141]]."
-            ]
+            "source": []
         }
     },
     {
@@ -24877,14 +24613,10 @@
             "status": "done",
             "source": "Les banters ont pour chaque personnage 10% de chances d'être lancés toutes les 10 minutes. Pour certains joueurs, c'est trop rare. Alors ce mod corrige cela en calant les probabilités à 100% de chances toutes les 7 minutes. Un autre mod sur la même page propose un réglage encore plus rapide."
         },
-        "notes": [
-            "此模组已过时，请选择更高效的[[155]]。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est obsolète, préférez lui le plus efficace [[155]]."
-            ]
+            "source": []
         }
     },
     {
@@ -25024,14 +24756,10 @@
             "status": "done",
             "source": "Ce mod ajoute 3 types de shurikens dans le jeu. À appeler via la console ou [[345]]."
         },
-        "notes": [
-            "此模组包含在作者制作的[[1018]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod est inclus dans [[1018]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -25452,10 +25180,9 @@
             "此模组包含在[[1245]]中，由同一作者制作。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Vous DEVEZ avoir 5 compagnons pour que le script du mod fonctionne.",
-                "Ce mod est inclus dans [[1245]], du même auteur."
+                "Vous DEVEZ avoir 5 compagnons pour que le script du mod fonctionne."
             ]
         }
     },
@@ -27217,14 +26944,10 @@
             "status": "done",
             "source": "Ce mod revisite le kit de Tueur de magiciens. Il augmente notamment sa résistance à la magie, ses jets de sauvegarde contre les Sorts et ajoute de nouvelles HLA. La restriction d'utilisation d'objet a également été revue."
         },
-        "notes": [
-            "已整合至[[614]]模组。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Inclus dans [[614]]."
-            ]
+            "source": []
         }
     },
     {
@@ -27775,14 +27498,10 @@
             "status": "done",
             "source": "Black Hearts est un mod de quête pour BG:EE qui suit une intrigue impliquant un personnage de Throne of Bhaal : Illasera, et une intrigue du Sorcier Rouge impliquant un nouvel allié dangereux qui a rejoint la cause de Sarevok. Ce mod reprend les combats du module Black Pits, en les utilisant comme base pour les différents objectifs donnés aux joueurs pour la quête (avec quelques variations dans de nombreux cas)."
         },
-        "notes": [
-            "收录于同一作者的[[1346]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Inclus dans [[1346]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -27792,14 +27511,10 @@
             "status": "done",
             "source": "Black Hearts est un mod de quête pour BG:EE, ce patch modifie le dialogue d'Illasera dans BG2."
         },
-        "notes": [
-            "收录于同一作者的[[1346]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Inclus dans [[1346]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -28438,14 +28153,10 @@
             "status": "done",
             "source": "Applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles."
         },
-        "notes": [
-            "包含在同一个作者的[[64]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Inclus dans [[64]] du même auteur."
-            ]
+            "source": []
         }
     },
     {
@@ -28765,14 +28476,10 @@
             "status": "done",
             "source": "Une nouvelle façon d'aborder chacune des épreuves des Enfers du chapitre 7 ! Pour chacune d'entre elles, il existe désormais une voie neutre à suivre, qui donne lieu à une récompense différente. Parfois, cette voie neutre se rapproche davantage de la voie mauvaise d'origine, parfois de la voie bonne, et parfois encore, elle est complètement différente des deux."
         },
-        "notes": [
-            "这个模组已被包含在[[845]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod a été inclus dans [[845]]."
-            ]
+            "source": []
         }
     },
     {
@@ -28959,10 +28666,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Rendu obsolète par [[153]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28974,10 +28679,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Rendu obsolète par [[1141]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {

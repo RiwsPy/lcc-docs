@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-14 20:45+0200\n"
-"PO-Revision-Date: 2026-05-14 20:48+0200\n"
+"PO-Revision-Date: 2026-05-14 22:33+0200\n"
 "Last-Translator: Riws <toto.streak289@passinbox.com>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -154,7 +154,7 @@ msgstr "This mod is still in progress."
 
 #: models/mod.py:232
 msgid "Ce mod est en cours de finition."
-msgstr "This mod is currently being finalised."
+msgstr "This mod is still in beta."
 
 #: models/mod.py:237
 #, python-brace-format
@@ -319,7 +319,7 @@ msgstr ""
 "To ensure the greatest accuracy possible, please feel free to report any <a "
 "href=\"https://github.com/RiwsPy/lcc-docs/issues\">issues</a>, <a href="
 "\"https://github.com/RiwsPy/lcc-docs/discussions/65\">missing mods</a> or <a "
-"href=\"https://github.com/RiwsPy/lcc-docs/discussions/66\">oversight</a>."
+"href=\"https://github.com/RiwsPy/lcc-docs/discussions/66\">oversights</a>."
 
 #: i18n.py:114
 msgid ""
