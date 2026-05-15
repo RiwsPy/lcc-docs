@@ -52,7 +52,7 @@ class HttpUrl(PydHttpUrl):
             self.path
             and self.host
             and self.path.lower().endswith((".rar", ".zip", ".7z", ".exe"))
-            and not self.host.startswith(("www.mediafire.com", "sorcerers.net"))
+            and not self.host.startswith(("www.mediafire.com", "sorcerers.net", "github.com"))
         )
 
     @property

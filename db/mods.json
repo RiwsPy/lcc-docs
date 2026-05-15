@@ -70345,7 +70345,9 @@
         "id": 2034,
         "name": "Pierre's KitPack",
         "description": "Ce kitpack ajoute 3 kits :|Thug : Combattant voleur. Le Thug utilise sa force brute pour prendre ce qu'il veut quand il le veut. C'est un voyou vicieux et un meurtrier.|Mercenaire : Soldat professionnel à louer. Le Mercenaire est un soldat rebelle, doué dans toutes les formes de combat. Il est prêt à servir dans n'importe quelle organisation de guérilla, ou pour n'importe quel particulier si le prix est correct.|Cutthroat : C'est le voleur le plus rusé et le plus impitoyable. Il est passé maître dans le maniement de la dague et de l'épée courte, et sa maîtrise de l'attaque sournoise n'est surpassée que par celle de l'assassin. Aussi rapide et rusé qu'un assassin, mais très limité dans son choix d'armes. Aussi impitoyable et meurtrier qu'un voyou, mais il préfère ne pas recourir à la force brute ni s'engager dans des affrontements en face à face. Le Cutthroat éliminera un ennemi au moment où celui-ci s'y attend le moins",
-        "urls": [],
+        "urls": [
+            "https://github.com/11jo/Unarchived_Mods/blob/main/Pierres-KitPack.zip"
+        ],
         "categories": [
             "Kit"
         ],
@@ -70364,8 +70366,7 @@
             "en"
         ],
         "status": [
-            "stable",
-            "missing"
+            "stable"
         ],
         "last_update": "2002-11",
         "compatibilities": {
