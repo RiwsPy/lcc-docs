@@ -129,8 +129,7 @@ class ModManager:
         return [
             mod
             for mod in mods
-            if not mod.tp2
-            and not mod.status & {ModStatus.HIDDEN, ModStatus.UNRELEASED, ModStatus.ARCHIVED}
+            if not mod.tp2 and not mod.status & {ModStatus.HIDDEN, ModStatus.UNRELEASED}
         ]
 
 
