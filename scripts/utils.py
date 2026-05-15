@@ -106,13 +106,19 @@ class ModManager:
 
     @classmethod
     def get_last_updated_mods(cls, mods: list[Mod], nb: int = 10) -> list[Mod]:
-        active_mods = [mod for mod in mods if ModStatus.UNRELEASED not in mod.status]
+        active_mods = [
+            mod for mod in mods if not mod.status & {ModStatus.UNRELEASED, ModStatus.HIDDEN}
+        ]
         active_mods.sort(key=lambda x: x.last_update)
         return active_mods[-nb:][::-1]
 
     @classmethod
     def get_missing_mods(cls, mods: list[Mod]) -> list[Mod]:
-        return [mod for mod in mods if ModStatus.MISSING in mod.status]
+        return [
+            mod
+            for mod in mods
+            if ModStatus.MISSING in mod.status and ModStatus.EMBED not in mod.status
+        ]
 
     @classmethod
     def get_without_author_mods(cls, mods: list[Mod]) -> list[Mod]:
