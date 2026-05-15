@@ -5282,14 +5282,10 @@
             "status": "needs_review",
             "source": "Toujours en version alpha, ce mod avait pour ambition de rendre le jeu plus difficile en augmentant les caractéristiques des créatures et en les dotant de scripts intelligents."
         },
-        "notes": [
-            "Unfortunately, the author hasn't finalized it, and I strongly advise against installing it if you don't want to risk serious incompatibilities with other mods."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Malheureusement, son auteur ne l'a pas finalisé, et je vous déconseille fortement de l'installer si vous ne voulez pas risquer de sérieuses incompatibilités avec les autres mods."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -6780,12 +6776,12 @@
             "source": "Ce mod ajoute une nouvelle PNJ dans le jeu : la prêtresse Helarine, dotée d'un profil de Garde mortuaire de Kelemvor. Vous la trouverez à l'extérieur de l'auberge du Bras amical (BG:EE) ou dans le cimetière d'Athkatla (BG2:EE)."
         },
         "notes": [
-            "Warning: Still in beta version, this mod has a rather bizarre installation procedure..."
+            "Warning: this mod has a rather bizarre installation procedure..."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Attention : Toujours en version bêta, ce mod a une procédure d'installation pour le moins bizarre..."
+                "Attention : ce mod a une procédure d'installation pour le moins bizarre..."
             ]
         }
     },
@@ -9678,14 +9674,10 @@
             "status": "needs_review",
             "source": "Vous avez tous adoré Excalibur, mais vous êtes-vous jamais demandé pourquoi les seules femmes présentes y sont nuisibles ? Guenièvre l'adultère, Morgane la méchante... Pourquoi les Ordres de Paladins ne comportent-ils que des hommes ? Et si tout ceci n'était qu'une fable racontée par les hommes pour dissimuler la vérité ?|Ce mod tente de rétablir la vérité, du moins SA VÉRITÉ... L'aventure se situe dans une autre dimension, dans le Royaume de Diamant Éternel, dirigé par une famille de paladins que tente de renverser une paladine renégate. Cette dernière a passé un pacte plutôt spécial avec des \"forces\" pour le moins particulières... La richesse du Royaume provient de ses mines et sa puissance de la protection que lui a toujours accordée Diamantor, le (\"Demi-\" ?) Dieu Dragon d'Argent. Il s'agira ici de combattre - entre autres - des Dragons et de leur redonner toute leur place et bon nombre de leurs pouvoirs de destruction..."
         },
-        "notes": [
-            "The project is currently on stand-by."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Le projet est actuellement en stand-by."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28536,6 +28528,19 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod modifie le composant `Shapeshifter Rebalancing` de [[1141]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2029,
+        "description": "This is a comprehensive portrait pack. When all components are installed, every single NPC in the entire game will be assigned a high quality portrait, specifically tailored with regard to appearance, environment, and dialog. It also adds portraits for numerous mods. All Portraits are AI generated.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Il s'agit d'un pack complet de portraits. Une fois tous les composants installés, chaque PNJ du jeu se verra attribuer un portrait de haute qualité, spécialement adapté à son apparence, à son environnement et à ses dialogues. Il ajoute également des portraits pour de nombreux mods. Tous les portraits sont générés par IA."
         },
         "notes": [],
         "notes_meta": {

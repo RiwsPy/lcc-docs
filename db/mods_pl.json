@@ -5100,10 +5100,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Malheureusement, son auteur ne l'a pas finalisé, et je vous déconseille fortement de l'installer si vous ne voulez pas risquer de sérieuses incompatibilités avec les autres mods."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -6544,7 +6542,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Attention : Toujours en version bêta, ce mod a une procédure d'installation pour le moins bizarre..."
+                "Attention : ce mod a une procédure d'installation pour le moins bizarre..."
             ]
         }
     },
@@ -9372,10 +9370,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Le projet est actuellement en stand-by."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -27741,6 +27737,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod modifie le composant `Shapeshifter Rebalancing` de [[1141]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2029,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Il s'agit d'un pack complet de portraits. Une fois tous les composants installés, chaque PNJ du jeu se verra attribuer un portrait de haute qualité, spécialement adapté à son apparence, à son environnement et à ses dialogues. Il ajoute également des portraits pour de nombreux mods. Tous les portraits sont générés par IA."
         },
         "notes": [],
         "notes_meta": {

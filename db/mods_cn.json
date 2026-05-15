@@ -5337,14 +5337,10 @@
             "status": "done",
             "source": "Toujours en version alpha, ce mod avait pour ambition de rendre le jeu plus difficile en augmentant les caractéristiques des créatures et en les dotant de scripts intelligents."
         },
-        "notes": [
-            "不幸的是，其作者并未完成此模组，如果您不想冒着与其他模组产生严重不兼容的风险，我强烈建议您不要安装它。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Malheureusement, son auteur ne l'a pas finalisé, et je vous déconseille fortement de l'installer si vous ne voulez pas risquer de sérieuses incompatibilités avec les autres mods."
-            ]
+            "source": []
         }
     },
     {
@@ -6854,9 +6850,9 @@
             "注意：此模组仍处于测试版，其安装程序至少可以说是非常古怪的……"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Attention : Toujours en version bêta, ce mod a une procédure d'installation pour le moins bizarre..."
+                "Attention : ce mod a une procédure d'installation pour le moins bizarre..."
             ]
         }
     },
@@ -9776,14 +9772,10 @@
             "status": "done",
             "source": "Vous avez tous adoré Excalibur, mais vous êtes-vous jamais demandé pourquoi les seules femmes présentes y sont nuisibles ? Guenièvre l'adultère, Morgane la méchante... Pourquoi les Ordres de Paladins ne comportent-ils que des hommes ? Et si tout ceci n'était qu'une fable racontée par les hommes pour dissimuler la vérité ?|Ce mod tente de rétablir la vérité, du moins SA VÉRITÉ... L'aventure se situe dans une autre dimension, dans le Royaume de Diamant Éternel, dirigé par une famille de paladins que tente de renverser une paladine renégate. Cette dernière a passé un pacte plutôt spécial avec des \"forces\" pour le moins particulières... La richesse du Royaume provient de ses mines et sa puissance de la protection que lui a toujours accordée Diamantor, le (\"Demi-\" ?) Dieu Dragon d'Argent. Il s'agira ici de combattre - entre autres - des Dragons et de leur redonner toute leur place et bon nombre de leurs pouvoirs de destruction..."
         },
-        "notes": [
-            "此项目目前暂停。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Le projet est actuellement en stand-by."
-            ]
+            "source": []
         }
     },
     {
@@ -28806,6 +28798,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod modifie le composant `Shapeshifter Rebalancing` de [[1141]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2029,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Il s'agit d'un pack complet de portraits. Une fois tous les composants installés, chaque PNJ du jeu se verra attribuer un portrait de haute qualité, spécialement adapté à son apparence, à son environnement et à ses dialogues. Il ajoute également des portraits pour de nombreux mods. Tous les portraits sont générés par IA."
         },
         "notes": [],
         "notes_meta": {

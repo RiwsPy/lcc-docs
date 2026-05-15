@@ -13152,9 +13152,7 @@
             "Aigleborgne"
         ],
         "team": [],
-        "notes": [
-            "Malheureusement, son auteur ne l'a pas finalisé, et je vous déconseille fortement de l'installer si vous ne voulez pas risquer de sérieuses incompatibilités avec les autres mods."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -16043,7 +16041,7 @@
             "en"
         ],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "2004-10",
         "compatibilities": {
@@ -16837,10 +16835,10 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Toujours en version bêta, ce mod a une procédure d'installation pour le moins bizarre..."
+            "Attention : ce mod a une procédure d'installation pour le moins bizarre..."
         ],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -19674,7 +19672,7 @@
             "en"
         ],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "",
         "compatibilities": {},
@@ -23990,9 +23988,7 @@
             "Freddy_Gwendo"
         ],
         "team": [],
-        "notes": [
-            "Le projet est actuellement en stand-by."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -24000,11 +23996,11 @@
             "en"
         ],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "2021-02",
         "compatibilities": {},
-        "tp2": "n/a"
+        "tp2": ""
     },
     {
         "id": 683,
@@ -49780,7 +49776,7 @@
         "safe": 1,
         "languages": [],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "2013-08",
         "compatibilities": {},
@@ -51221,7 +51217,7 @@
             "en"
         ],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "2017-01",
         "compatibilities": {},
@@ -51869,7 +51865,7 @@
             "en"
         ],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "2020-04",
         "compatibilities": {},
@@ -52400,7 +52396,7 @@
             "en"
         ],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "2021-12",
         "compatibilities": {},
@@ -58862,7 +58858,7 @@
         "safe": 0,
         "languages": [],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "2014-11",
         "compatibilities": {},
@@ -58892,7 +58888,7 @@
             "en"
         ],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "2014-12",
         "compatibilities": {},
@@ -60867,7 +60863,7 @@
         "safe": 1,
         "languages": [],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "2021-08",
         "compatibilities": {},
@@ -61395,7 +61391,7 @@
             "fr"
         ],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "2023-10",
         "compatibilities": {},
@@ -63998,11 +63994,11 @@
         "safe": 1,
         "languages": [],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "2025-08",
         "compatibilities": {},
-        "tp2": "n/a"
+        "tp2": ""
     },
     {
         "id": 1844,
@@ -64732,8 +64728,9 @@
         "name": "BGEE-Graphics-Enhanced",
         "description": "Multiplie la résolution par x4 de toutes les cartes dans BG:EE. Comme il ne modifie pas directement les fichiers ARE/WED, cela le rend compatible avec la grande majorité des mods.",
         "urls": [
-            "https://forums.beamdog.com/discussion/89746/infinityengine-enhancer/",
             "https://www.gibberlings3.net/forums/topic/40143-infinityengine-enhancer-released/",
+            "https://forums.beamdog.com/discussion/89746/",
+            "https://www.nexusmods.com/baldursgate/mods/105",
             "https://github.com/TheForgotten69/BGEE-Graphics-Enhanced"
         ],
         "categories": [
@@ -65865,7 +65862,7 @@
         "safe": 1,
         "languages": [],
         "status": [
-            "beta"
+            "unreleased"
         ],
         "last_update": "2025-11",
         "compatibilities": {},
@@ -70066,6 +70063,8 @@
         "name": "XGTCumulativeCasterLevels",
         "description": "Ce mod permet de cumuler les bonus au niveau de lancement de sorts provenant de différentes sources. Par défaut, dans les jeux IE, les bonus au niveau de lancement de sorts ne se cumulent pas : c'est toujours le dernier effet appliqué qui prévaut. Ce mod corrige cela. Ainsi, si vous disposiez d'un kit de classe conférant un malus de -2 au niveau de lancement de sorts arcaniques, que vous portiez une robe conférant un bonus de +3 au niveau de lancement de sorts arcaniques et que vous aviez acquis une compétence conférant un bonus de +1 au niveau de lancement de sorts arcaniques.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/41264-mod-cumulative-caster-levels/",
+            "https://forums.beamdog.com/discussion/90650/",
             "https://github.com/Xgatt/XGTCumulativeCasterLevels"
         ],
         "categories": [
@@ -70101,6 +70100,7 @@
         "description": "Il s'agit d'un mod qui permet aux membres de votre groupe de gagner des points d'expérience à des rythmes différents. Cela se fait grâce à un objet de type livre — le « Tome of the Masterful Learner » — ajouté à l'inventaire du protagoniste dès le début du jeu. Cliquez avec le bouton droit sur le livre et sélectionnez « Étudier » pour ouvrir une boîte de dialogue qui permet au lecteur de définir son propre modificateur de gain d'XP, allant de -100 % (aucun XP) à +500 % (six fois le taux normal), par paliers prédéfinis.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/41263-mod-customizable-xp-gain/",
+            "https://forums.beamdog.com/discussion/90649/",
             "https://github.com/Xgatt/XGTCustomizableXPGain"
         ],
         "categories": [
@@ -70171,5 +70171,36 @@
             ]
         },
         "tp2": "Shapeshifterrere"
+    },
+    {
+        "id": 2029,
+        "name": "The HPS Portraits Project",
+        "description": "Il s'agit d'un pack complet de portraits. Une fois tous les composants installés, chaque PNJ du jeu se verra attribuer un portrait de haute qualité, spécialement adapté à son apparence, à son environnement et à ses dialogues. Il ajoute également des portraits pour de nombreux mods. Tous les portraits sont générés par IA.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41267-the-hps-portraits-project-v10/",
+            "https://github.com/HoldenBG/HPS-Portraits-Project-1.0"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "HoldenBG"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-05",
+        "compatibilities": {},
+        "tp2": "hps_portrait_project"
     }
 ]
