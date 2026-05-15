@@ -2242,9 +2242,9 @@
             "只有当您打算使用[[746]]和/或[[1118]]时，才必须安装1.76版本。在这种情况下，请下载[Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394)模组，它汇集了[[153]]、[[1118]]和[[1281]]的最新版本，以及第三路径、行动中的奴隶+改进的铜冠旅店、半多重堡垒、扭曲符文修复和其他修复（改进武僧职业、新的角色档案、新物品……）。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[746]] et/ou [[1118]]. Dans ce cas, téléchargez le mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) qui regroupe les dernières versions de [[153]], [[1118]] et [[1281]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+                "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[746]] et/ou [[1118]]. Dans ce cas, téléchargez [[2030]]."
             ]
         }
     },
@@ -10697,14 +10697,10 @@
             "status": "done",
             "source": "NEJ intègre le jeu Icewind Dale sous une forme étendue et améliorée dans Baldur's Gate. Ce mod est un jeu à part entière sans aucun lien avec l'intrigue principale de BG2. En empruntant le portail situé immédiatement au nord de la zone de départ dans le donjon d'Irenicus, celui à côté de la cage de Jaheira, le groupe voyagera dans le temps et l'espace jusqu'à la ville d'Easthaven, il y a environ 100 ans, et rencontrera les héros d'Icewind Dale. Votre tâche est d'influencer le conflit entre les deux écoles de magie différentes, et ainsi de changer l'histoire future.|Jouer à NEJ est différent de jouer à BG : le personnage principal n'est pas votre protagoniste, mais Hrothgar. Ainsi, si vous voulez jouer à l'ensemble du mod, vous devez le suivre. Comme dans IWD original, l'intrigue est prédéterminée. Il n'y a pas de liberté de marche comme dans BG. Vous n'obtenez la quête suivante que si vous avez résolu la précédente. Si vous avez manqué quelque chose, vous ne pouvez pas revenir en arrière. Le seul moyen est de recharger. Bref, NEJ n'accepte qu'une seule procédure de solution et vous êtes obligé(e) de jouer ce mod d'une manière prédéterminée, ce qui ne correspond pas vraiment à l'esprit habituel des mods de BG, et vous ne pouvez pas partir avant de l'avoir terminé."
         },
-        "notes": [
-            "此模组需要先安装[Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394)模组，该模组汇集了[[153]]、[[1118]]和[[1281]]的最新版本，以及Third Path、Slavers in Action + Improved Copper Coronet、Semi-Multiple Strongholds、Restored Twisted Rune和其他修复内容（提升武僧职业、为队友提供新档案、新物品等）。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod nécessite d'installer auparavant le mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) qui regroupe les dernières versions de [[153]], [[1118]] et [[1281]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
-            ]
+            "source": []
         }
     },
     {
@@ -16857,14 +16853,10 @@
             "status": "done",
             "source": "Ce petit mod donne quelques capacités à certains objets de quête : le masque du roi Strohm III, la pierre gardienne du dragon d'ombre et le symbole d'Amaunator."
         },
-        "notes": [
-            "此模组在作为模组[[71]]的组件被整合后已消失。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod a disparu après avoir été été intégré comme composant du mod [[71]]."
-            ]
+            "source": []
         }
     },
     {
@@ -28811,6 +28803,32 @@
         "description_meta": {
             "status": "todo",
             "source": "Il s'agit d'un pack complet de portraits. Une fois tous les composants installés, chaque PNJ du jeu se verra attribuer un portrait de haute qualité, spécialement adapté à son apparence, à son environnement et à ses dialogues. Il ajoute également des portraits pour de nombreux mods. Tous les portraits sont générés par IA."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2030,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod regroupe les 'dernières' versions de [[153]], [[1118]] et [[1281]], ainsi que de nombreux composants de l'auteur : Third Path, Slavers in Action, Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2031,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici une sélection de mods pour PSTEE. Ces composants peuvent être sélectionnés individuellement et ne dépendent pas les uns des autres. Faites votre choix !"
         },
         "notes": [],
         "notes_meta": {

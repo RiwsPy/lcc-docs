@@ -2134,7 +2134,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[746]] et/ou [[1118]]. Dans ce cas, téléchargez le mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) qui regroupe les dernières versions de [[153]], [[1118]] et [[1281]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+                "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[746]] et/ou [[1118]]. Dans ce cas, téléchargez [[2030]]."
             ]
         }
     },
@@ -10256,10 +10256,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod nécessite d'installer auparavant le mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) qui regroupe les dernières versions de [[153]], [[1118]] et [[1281]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16194,10 +16192,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod a disparu après avoir été été intégré comme composant du mod [[71]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -27750,6 +27746,32 @@
         "description_meta": {
             "status": "todo",
             "source": "Il s'agit d'un pack complet de portraits. Une fois tous les composants installés, chaque PNJ du jeu se verra attribuer un portrait de haute qualité, spécialement adapté à son apparence, à son environnement et à ses dialogues. Il ajoute également des portraits pour de nombreux mods. Tous les portraits sont générés par IA."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2030,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod regroupe les 'dernières' versions de [[153]], [[1118]] et [[1281]], ainsi que de nombreux composants de l'auteur : Third Path, Slavers in Action, Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2031,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici une sélection de mods pour PSTEE. Ces composants peuvent être sélectionnés individuellement et ne dépendent pas les uns des autres. Faites votre choix !"
         },
         "notes": [],
         "notes_meta": {

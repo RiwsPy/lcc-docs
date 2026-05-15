@@ -2214,12 +2214,12 @@
             "source": "Baldurdash-WeiDU est une version remasterisée de [[2017]]. Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[746]] et [[1118]].|Dans les autres cas, préférez le [[117]]."
         },
         "notes": [
-            "You should install version 1.76 only if you intend to use [[746]] and/or [[1118]]. In this case, download the mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) which includes the latest versions of [[153]], [[1118]] and [[1281]], as well as Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune and other fixes (improved monk class, new NPC kits, new items...)."
+            "You should install version 1.76 only if you intend to use [[746]] and/or [[1118]]. In this case, download [[2030]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[746]] et/ou [[1118]]. Dans ce cas, téléchargez le mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) qui regroupe les dernières versions de [[153]], [[1118]] et [[1281]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+                "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[746]] et/ou [[1118]]. Dans ce cas, téléchargez [[2030]]."
             ]
         }
     },
@@ -10598,14 +10598,10 @@
             "status": "needs_review",
             "source": "NEJ intègre le jeu Icewind Dale sous une forme étendue et améliorée dans Baldur's Gate. Ce mod est un jeu à part entière sans aucun lien avec l'intrigue principale de BG2. En empruntant le portail situé immédiatement au nord de la zone de départ dans le donjon d'Irenicus, celui à côté de la cage de Jaheira, le groupe voyagera dans le temps et l'espace jusqu'à la ville d'Easthaven, il y a environ 100 ans, et rencontrera les héros d'Icewind Dale. Votre tâche est d'influencer le conflit entre les deux écoles de magie différentes, et ainsi de changer l'histoire future.|Jouer à NEJ est différent de jouer à BG : le personnage principal n'est pas votre protagoniste, mais Hrothgar. Ainsi, si vous voulez jouer à l'ensemble du mod, vous devez le suivre. Comme dans IWD original, l'intrigue est prédéterminée. Il n'y a pas de liberté de marche comme dans BG. Vous n'obtenez la quête suivante que si vous avez résolu la précédente. Si vous avez manqué quelque chose, vous ne pouvez pas revenir en arrière. Le seul moyen est de recharger. Bref, NEJ n'accepte qu'une seule procédure de solution et vous êtes obligé(e) de jouer ce mod d'une manière prédéterminée, ce qui ne correspond pas vraiment à l'esprit habituel des mods de BG, et vous ne pouvez pas partir avant de l'avoir terminé."
         },
-        "notes": [
-            "This mod requires prior installation of the [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) mod, which includes the latest versions of [[153]], [[1118]] and [[1281]], as well as Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune and other fixes (improved monk class, new NPC kits, new items...)."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Ce mod nécessite d'installer auparavant le mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) qui regroupe les dernières versions de [[153]], [[1118]] et [[1281]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16687,14 +16683,10 @@
             "status": "needs_review",
             "source": "Ce petit mod donne quelques capacités à certains objets de quête : le masque du roi Strohm III, la pierre gardienne du dragon d'ombre et le symbole d'Amaunator."
         },
-        "notes": [
-            "This mod disappeared after being integrated as part of the [[71]] mod."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Ce mod a disparu après avoir été été intégré comme composant du mod [[71]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -26951,6 +26943,7 @@
     },
     {
         "id": 1911,
+        "name": "Telim'Gar's Insurmountable Challenges",
         "description": "At the location of your choice (Athkatla, Watchtower, or Amkethran), you will encounter a diamond golem who will offer you challenges. Each challenge consists of an “arena” in which you must find and kill the boss to claim victory.|This is a WIP version, offering only 6 of the 12 planned arenas.",
         "description_meta": {
             "status": "done",
@@ -28541,6 +28534,32 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Il s'agit d'un pack complet de portraits. Une fois tous les composants installés, chaque PNJ du jeu se verra attribuer un portrait de haute qualité, spécialement adapté à son apparence, à son environnement et à ses dialogues. Il ajoute également des portraits pour de nombreux mods. Tous les portraits sont générés par IA."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2030,
+        "description": "This mod combines the “latest” versions of [[153]], [[1118]] and [[1281]], as well as numerous components by the author: Third Path, Slavers in Action, Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune and other fixes (improvements to the monk class, new NPC kits, new items, etc.).",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod regroupe les 'dernières' versions de [[153]], [[1118]] et [[1281]], ainsi que de nombreux composants de l'auteur : Third Path, Slavers in Action, Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2031,
+        "description": "This is a collection of mods for PSTEE. The component mods are selectable and do not depend on each other. Pick and choose!",
+        "description_meta": {
+            "status": "done",
+            "source": "Voici une sélection de mods pour PSTEE. Ces composants peuvent être sélectionnés individuellement et ne dépendent pas les uns des autres. Faites votre choix !"
         },
         "notes": [],
         "notes_meta": {

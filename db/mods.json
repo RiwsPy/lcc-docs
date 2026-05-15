@@ -4241,7 +4241,8 @@
         "name": "BG2 GUI skin mod",
         "description": "Ce mod modifie les écrans de menu.",
         "urls": [
-            "http://www.blackwyrmlair.net/~chevar/guimod1.html"
+            "http://www.blackwyrmlair.net/~chevar/guimod1.html",
+            "http://forums.blackwyrmlair.net/index.php?showtopic=742"
         ],
         "categories": [
             "Interface"
@@ -5491,7 +5492,7 @@
         ],
         "team": [],
         "notes": [
-            "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[746]] et/ou [[1118]]. Dans ce cas, téléchargez le mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) qui regroupe les dernières versions de [[153]], [[1118]] et [[1281]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+            "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[746]] et/ou [[1118]]. Dans ce cas, téléchargez [[2030]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -9643,7 +9644,7 @@
         "name": "Cursed Items Revision",
         "description": "Ce mod modifie légèrement les caractéristiques de certains objets maudits, en ajoute quelques-uns et modifie certaines descriptions de manière plus ou moins humoristique. L'auteur préconisant d'en révéler le moins possible, nous n'en diront pas plus...",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=386"
+            "http://forums.blackwyrmlair.net/index.php?showtopic=4321"
         ],
         "categories": [
             "Sort et objet"
@@ -13439,7 +13440,7 @@
         "name": "Eternal Imoen",
         "description": "Dans BG2, l'Imoen avec lequel vous commencez à jouer dans le donjon d'Irenicus n'est pas l'Imoen que vous retrouvez dans Spellhold. C'est très ennuyeux. Ce mod transporte l'Imoen du début dans Spellhold avec une mise à niveau de ses XP lors de la réintégration.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=387"
+            "http://forums.blackwyrmlair.net/index.php?showtopic=5272"
         ],
         "categories": [
             "PNJ (autre)"
@@ -15205,7 +15206,7 @@
         "name": "Game Over Only on Party Dead",
         "description": "CHARNAME est loin d'être votre atout le plus solide, et vous en avez ras le bol de devoir recharger chaque fois qu'il mord la poussière ? Avec ce mod, vos compagnons continueront la lutte en dépit de l'état cadavérique de l'enfant de Bhaal. La fin de la partie n'est sifflée que lorsque l'ensemble de votre groupe a été décimé par l'ennemi.|Quand le protagoniste principal est éliminé du combat (quand ses points de vie sont de 1 ou moins), tout repose sur le reste de l'équipe : soit ils gagnent la bataille, permettant au héros de les rejoindre ensuite, soit la partie prend réellement fin. Dans le premier cas, il n'est pas nécessaire de ramener le personnage principal à la vie, mais notez que sa condition physique sera critique !",
         "urls": [
-            "http://dh.blackwyrmlair.net/bwl_mods_download.php?mod=52"
+            "http://forums.blackwyrmlair.net/index.php?showtopic=4953"
         ],
         "categories": [
             "Gameplay"
@@ -16950,7 +16951,8 @@
         "name": "Herbs and Potions Add-in for BG1",
         "description": "Ce mod ajoute des herbes permettant de faire confectionner des potions par une alchimiste de Nashkel. Les herbes peuvent également enchanter des armes.",
         "urls": [
-            "http://www.blackwyrmlair.net/Mods/herbaddin.php"
+            "http://www.blackwyrmlair.net/Mods/herbaddin.php",
+            "http://forums.blackwyrmlair.net/index.php?showtopic=155"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -16988,7 +16990,8 @@
         "name": "Herbs and Potions Add-in for BG2",
         "description": "Ce mod ajoute des herbes permettant de faire confectionner des potions par une herboriste, tenant un magasin sur la Promenade de Waukyne. Les herbes peuvent également enchanter des armes.",
         "urls": [
-            "http://www.blackwyrmlair.net/Mods/herbaddinbg2.php"
+            "http://www.blackwyrmlair.net/Mods/herbaddinbg2.php",
+            "http://forums.blackwyrmlair.net/index.php?showtopic=235"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -17998,10 +18001,11 @@
     },
     {
         "id": 510,
-        "name": "IWD Victor's Improvements Pack",
+        "name": "IWD Improvements",
         "description": "Ce mod modifie plusieurs règles (caractéristiques des races, armes utilisables par tous), augmente le score de connaissance des mages et augmente le multiplicateur d'attaque sournoise à x6 au niveau 26.",
         "urls": [
-            "http://balduran.blackwyrmlair.net/"
+            "http://balduran.blackwyrmlair.net/",
+            "http://forums.blackwyrmlair.net/index.php?showtopic=1395"
         ],
         "categories": [
             "Gameplay"
@@ -19500,7 +19504,8 @@
             "pl",
             "ru",
             "en",
-            "fr"
+            "fr",
+            "es"
         ],
         "status": [
             "stable"
@@ -23351,7 +23356,7 @@
         "name": "Mad Lum Addition",
         "description": "Ce mod ajoute une option de triche pour utiliser la Machine de Lum le fou. La combinaison cercle-cercle-cercle offre quelques bonus, réutilisable à volonté.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=391"
+            "http://forums.blackwyrmlair.net/index.php?showtopic=5285"
         ],
         "categories": [
             "Gameplay"
@@ -26277,6 +26282,7 @@
         "name": "Never Ending Journey",
         "description": "NEJ intègre le jeu Icewind Dale sous une forme étendue et améliorée dans Baldur's Gate. Ce mod est un jeu à part entière sans aucun lien avec l'intrigue principale de BG2. En empruntant le portail situé immédiatement au nord de la zone de départ dans le donjon d'Irenicus, celui à côté de la cage de Jaheira, le groupe voyagera dans le temps et l'espace jusqu'à la ville d'Easthaven, il y a environ 100 ans, et rencontrera les héros d'Icewind Dale. Votre tâche est d'influencer le conflit entre les deux écoles de magie différentes, et ainsi de changer l'histoire future.|Jouer à NEJ est différent de jouer à BG : le personnage principal n'est pas votre protagoniste, mais Hrothgar. Ainsi, si vous voulez jouer à l'ensemble du mod, vous devez le suivre. Comme dans IWD original, l'intrigue est prédéterminée. Il n'y a pas de liberté de marche comme dans BG. Vous n'obtenez la quête suivante que si vous avez résolu la précédente. Si vous avez manqué quelque chose, vous ne pouvez pas revenir en arrière. Le seul moyen est de recharger. Bref, NEJ n'accepte qu'une seule procédure de solution et vous êtes obligé(e) de jouer ce mod d'une manière prédéterminée, ce qui ne correspond pas vraiment à l'esprit habituel des mods de BG, et vous ne pouvez pas partir avant de l'avoir terminé.",
         "urls": [
+            "http://forums.blackwyrmlair.net/index.php?showforum=79",
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=392"
         ],
         "categories": [
@@ -26290,9 +26296,7 @@
             "Larrienne"
         ],
         "team": [],
-        "notes": [
-            "Ce mod nécessite d'installer auparavant le mod [Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394) qui regroupe les dernières versions de [[153]], [[1118]] et [[1281]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -26304,8 +26308,8 @@
         "last_update": "2015-05",
         "compatibilities": {
             "requires": [
-                "Vlad's Compilation",
-                "ToB"
+                "ToB",
+                2030
             ],
             "conflicts": [
                 226,
@@ -31313,7 +31317,6 @@
         "description": "Fatigués de devoir se taper la moitié de la carte aventure et de mettre une heure pour retourner au Marché de l'Aventurier pour dépenser vos deniers chèrement gagnés ? Désormais, une fois que vous lui aurez parlé cinq fois, Ribald vous donnera une flûte qui vous permettra de convoquer un génie. Celui-ci pourra vous téléporter directement au Marché de l'Aventurier (ou convoquer Ribald) pour commercer, et vous ramener à votre destination d'origine si vous le souhaitez. Si vous le lui demandez, il pourra aussi faire venir d'autres marchands.|Le génie ne peut malheureusement pas être invoqué durant le chapitre 5 (ni à Suldanessalar ou en Enfer). Il ne peut pas non plus être invoqué dans la prison planaire d'Haer'Dalis ou dans le plan démoniaque vers lequel la Sphère planaire vous mène.",
         "urls": [
             "http://forums.blackwyrmlair.net/index.php?showtopic=1629",
-            "http://dragonshoard.blackwyrmlair.net/download/RGenie/Ribalds%20Genie%20V2.7.exe",
             "https://github.com/Plutonium-X/MISC_Genie"
         ],
         "categories": [
@@ -31707,7 +31710,8 @@
             "BGEE",
             "SoD",
             "BG2EE",
-            "IWDEE"
+            "IWDEE",
+            "PSTEE"
         ],
         "authors": [
             "elminster"
@@ -37943,6 +37947,7 @@
         "name": "The Improved Volcano! Pack",
         "description": "Ce mod ajoute le marchand Zodesak dans le village d'Amkethran, près du temple de Waukyne. Il vend des objets et des sorts puissants, le tout à un prix élevé. Comme ce mod a été écrit à la demande de joueurs passionnés, l'auteur n'était pas séduit par son caractère gros-billesque et s'en est détourné.",
         "urls": [
+            "http://forums.blackwyrmlair.net/index.php?showtopic=5525",
             "https://github.com/Black-Wyrm-Lair/Volcano_Pack"
         ],
         "categories": [
@@ -39368,7 +39373,7 @@
         "name": "Throne of Bhaal Tourist",
         "description": "Ce mini mod permet de se rendre dans les zones de SoA à partir de ToB. Pour cela, il vous suffit d'acheter un livre chez Lazarus.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=390",
+            "http://forums.blackwyrmlair.net/index.php?showtopic=5286",
             "https://github.com/Black-Wyrm-Lair/ToB-Tourist"
         ],
         "categories": [
@@ -39639,7 +39644,7 @@
             "EET"
         ],
         "authors": [
-            "Vlad Papper",
+            "Vlad",
             "Domi Sotto",
             "Bill Harper",
             "Arkie"
@@ -39650,12 +39655,13 @@
             "Pour les version EE, il existe une version stand-alone de Sime : [[1538]]."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
         "status": [
-            "stable"
+            "stable",
+            "archived"
         ],
         "last_update": "2022-03",
         "compatibilities": {},
@@ -39677,7 +39683,7 @@
             "BGT"
         ],
         "authors": [
-            "Vlad Papper",
+            "Vlad",
             "Domi Sotto",
             "Bill Harper",
             "King Diamond"
@@ -39775,6 +39781,7 @@
         "description": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins une paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?",
         "urls": [
             "http://www.blackwyrmlair.net/~valiant/",
+            "http://forums.blackwyrmlair.net/index.php?showforum=117",
             "https://github.com/Black-Wyrm-Lair/TowerOfDeception"
         ],
         "categories": [
@@ -41516,19 +41523,19 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a disparu après avoir été été intégré comme composant du mod [[71]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "embed"
+            "embed",
+            "archived"
         ],
         "last_update": "2016-04",
         "compatibilities": {},
+        "embedded_in": 71,
         "tp2": ""
     },
     {
@@ -42131,7 +42138,7 @@
         "name": "WTP Familiars",
         "description": "Ce mod révise le sort Familier en le rééquilibrant et en le rendant plus proche de son homologue PnP. Il ajoute des sons, des portraits et des choix de dialogue supplémentaires ainsi qu'un système de montée de niveau. Les familiers sont maintenant au nombre de neuf (nouvelle entrée : l'araignée est neutre absolu, le lapin est loyal bon) et les mages peuvent choisir entre 3 ou 4 (selon l'alignement) créatures (exception : les mages neutre absolu sont limités à l'araignée). La mort violente du familier a de graves conséquences, et les petites bestioles ne peuvent pas simplement servir de boost pour les points de vie puis être fourrées dans le sac à dos. Elles se feront entendre si vous le faites ! De plus, les familiers ont des capacités innées totalement différentes inspirées des règles PnP.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=388",
+            "http://forums.blackwyrmlair.net/index.php?showtopic=5278",
             "https://github.com/Black-Wyrm-Lair/WTPFamiliars"
         ],
         "categories": [
@@ -54131,7 +54138,7 @@
             "EET"
         ],
         "authors": [
-            "Vlad Papper",
+            "Vlad",
             "Domi Sotto",
             "Bill Harper",
             "Arkie"
@@ -57320,7 +57327,8 @@
             "en"
         ],
         "status": [
-            "missing"
+            "missing",
+            "embed"
         ],
         "last_update": "2016-03",
         "compatibilities": {
@@ -57330,6 +57338,7 @@
                 1118
             ]
         },
+        "embedded_in": 2030,
         "tp2": ""
     },
     {
@@ -65987,7 +65996,7 @@
             "fr"
         ],
         "status": [
-            "archived"
+            "unreleased"
         ],
         "last_update": "2012-09",
         "compatibilities": {},
@@ -70202,5 +70211,76 @@
         "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "hps_portrait_project"
+    },
+    {
+        "id": 2030,
+        "name": "Vlad's Compilation",
+        "description": "Ce mod regroupe les 'dernières' versions de [[153]], [[1118]] et [[1281]], ainsi que de nombreux composants de l'auteur : Third Path, Slavers in Action, Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...).",
+        "urls": [
+            "http://forums.blackwyrmlair.net/index.php?showtopic=5381"
+        ],
+        "categories": [
+            "Gameplay",
+            "Quête"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Vlad"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "de"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2017-07",
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ],
+            "conflicts": [
+                226,
+                936,
+                1062
+            ]
+        },
+        "tp2": "VCv21"
+    },
+    {
+        "id": 2031,
+        "name": "RJPSTEEMods",
+        "description": "Voici une sélection de mods pour PSTEE. Ces composants peuvent être sélectionnés individuellement et ne dépendent pas les uns des autres. Faites votre choix !",
+        "urls": [
+            "http://forums.blackwyrmlair.net/index.php?showtopic=5409"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "PSTEE"
+        ],
+        "authors": [
+            "Ron Joyal"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2020-02",
+        "compatibilities": {},
+        "tp2": "RJPSTEEMods"
     }
 ]
