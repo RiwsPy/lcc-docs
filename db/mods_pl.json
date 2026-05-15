@@ -27389,8 +27389,8 @@
         "id": 2002,
         "description": "",
         "description_meta": {
-            "status": "done",
-            "source": ""
+            "status": "todo",
+            "source": "Mike est un guerrier humain sans kit d'alignement neutre, il a le contenu minimum.|FOR 16, DEX 14, CON 16, INT 17, SAG 6, CHA 12."
         },
         "notes": [],
         "notes_meta": {
@@ -27777,6 +27777,60 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 2032,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose des portraits revisités des personnages oBG2 dans le style de BG1."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2033,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute Elai, un rôdeur demi-elfe d'alignement Loyal Mauvais, au jeu en tant que PNJ que l'on peut recruter. On le trouve dans les ruines du temple, dans les collines d'Umar. Je vous recommande de vous y rendre avant de partir pour Spellhold ; ce n'est pas indispensable, mais vous passerez à côté de certaines choses si vous ne le faites pas... Si vous commencez par ToB, vous pouvez l'invoquer depuis l'Esprit du Destin, comme pour les autres PNJ. Il n'est pas un personnage avec lequel on peut avoir une relation amoureuse, mais il interagit avec le personnage principal et les autres membres du groupe, et vous pouvez le forcer à parler à la manière des packs de flirt FWP pour lui poser des questions. Il dispose d'un kit unique : « Shadovar Scout », qui lui permet notamment d'effectuer des attaques sournoises ; il a accès à des sorts de mage au lieu des sorts de rôdeur.|FOR 15, DEX 16, CON 14, INT 17, SAG 10, CHA 13."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2034,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce kitpack ajoute 3 kits :|Thug : Combattant voleur. Le Thug utilise sa force brute pour prendre ce qu'il veut quand il le veut. C'est un voyou vicieux et un meurtrier.|Mercenaire : Soldat professionnel à louer. Le Mercenaire est un soldat rebelle, doué dans toutes les formes de combat. Il est prêt à servir dans n'importe quelle organisation de guérilla, ou pour n'importe quel particulier si le prix est correct.|Cutthroat : C'est le voleur le plus rusé et le plus impitoyable. Il est passé maître dans le maniement de la dague et de l'épée courte, et sa maîtrise de l'attaque sournoise n'est surpassée que par celle de l'assassin. Aussi rapide et rusé qu'un assassin, mais très limité dans son choix d'armes. Aussi impitoyable et meurtrier qu'un voyou, mais il préfère ne pas recourir à la force brute ni s'engager dans des affrontements en face à face. Le Cutthroat éliminera un ennemi au moment où celui-ci s'y attend le moins"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2035,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "La grenade aveuglante éblouit et paralyse tout ce qui se trouve dans un rayon de 12 mètres. Inspirée de la grenade aveuglante de Counter-Strike."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Elles sont à créer à la console : `flashfla`."
+            ]
         }
     }
 ]

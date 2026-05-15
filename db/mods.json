@@ -17581,7 +17581,6 @@
         "description": "Ce mod ajoute un nouveau marchand dans la Promenade de Waukyne qui vend de nombreuses munitions gros-bill dans le jeu.",
         "urls": [
             "https://forums.beamdog.com/discussion/88763/",
-            "https://www.mediafire.com/file/qch7kudksgkk5w3/houyi.zip/file",
             "https://github.com/trow/houyi-Arrow-Merchant/"
         ],
         "categories": [
@@ -19989,7 +19988,7 @@
         "name": "Item Value Tweaks",
         "description": "Ce petit mod modifie la valeur de nombreux objets pour les rendre plus cohérents avec l'univers du jeu.",
         "urls": [
-            "https://www.angelfire.com/alt/karkadinn/mods.html"
+            "https://github.com/11jo/Unarchived_Mods/blob/main/ItmValueTweaks.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -20007,7 +20006,7 @@
         "safe": 2,
         "languages": [],
         "status": [
-            "missing"
+            "stable"
         ],
         "last_update": "2003-04",
         "compatibilities": {},
@@ -22328,7 +22327,7 @@
         "name": "Level 40 Rule Set in BG:EE",
         "description": "Ce mod vous permet d'atteindre le niveau 40 dans BG:EE. Une fois installé, vous devrez aussi installer le mod [[634]] qui restaure les capacités de haut niveau non présentes dans le jeu.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg1/BG_EE_L40.rar"
+            "https://github.com/11jo/Unarchived_Mods/blob/main/BG_EE_L40.rar"
         ],
         "categories": [
             "Gameplay"
@@ -22345,7 +22344,8 @@
         "safe": 0,
         "languages": [],
         "status": [
-            "missing"
+            "stable",
+            "obsolete"
         ],
         "last_update": "2012-12",
         "compatibilities": {},
@@ -22356,7 +22356,7 @@
         "name": "High Level Abilities",
         "description": "Ce mod vous permet de tirer pleinement partie du mod [[633]]. Il restaure les capacités de haut niveau non présentes dans le jeu.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg1/BG_EE_HLAs106.rar"
+            "https://github.com/11jo/Unarchived_Mods/blob/main/BG_EE_HLAs106.rar"
         ],
         "categories": [
             "Gameplay"
@@ -22375,7 +22375,7 @@
             "en"
         ],
         "status": [
-            "missing"
+            "stable"
         ],
         "last_update": "2014-01",
         "compatibilities": {},
@@ -22928,8 +22928,7 @@
         "name": "Lost Crossroads Spellpack",
         "description": "Ce mod améliore certains sortilèges dans le jeu, pour les rapprocher de leur version AD&D papier ou simplement leur donner plus de logique (par exemple, la Sphère d'Otiluke peut être lancée sur un allié ou le mage lui-même sans qu'il doive rater son jet de sauvegarde). Par ailleurs, il améliore considérablement leurs effets graphiques.",
         "urls": [
-            "http://forums.blackwyrmlair.net/index.php?showtopic=98&st=260&p=47135&",
-            "https://www.mediafire.com/file/oa8qbsz8yeuhp8v/SpellPackB6.exe/file"
+            "http://forums.blackwyrmlair.net/index.php?showtopic=98&st=260#post-47135"
         ],
         "categories": [
             "Sort et objet"
@@ -26953,13 +26952,13 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "de"
         ],
         "status": [
-            "stable"
+            "beta"
         ],
         "last_update": "2010-04",
         "compatibilities": {
@@ -56094,7 +56093,7 @@
         "name": "Disc 255 Fix",
         "description": "Correctif pour les jeux Tutu qui sont confrontés à l'erreur `Insert Disk 255`.",
         "urls": [
-            "https://www.angelfire.com/rpg2/azenmod/index.html#Downloads"
+            "https://github.com/11jo/Unarchived_Mods/blob/main/Disc255_v2.zip"
         ],
         "categories": [
             "Patch non officiel"
@@ -56113,7 +56112,7 @@
             "en"
         ],
         "status": [
-            "missing"
+            "stable"
         ],
         "last_update": "2006-04",
         "compatibilities": {},
@@ -63500,7 +63499,7 @@
         "name": "Interactive Tweaks",
         "description": "Il s'agit d'un pack de tweaks qui s'inspire des autres packs, celui-ci à la particularité d'offrir à l'utilisateur de choisir les valeurs qu'il désire plutôt que de les restreindre à un nombre prédéfinis.",
         "urls": [
-            "https://sasha-altherin.webs.com/baldursgateseriesmods.htm"
+            "https://github.com/11jo/Unarchived_Mods/blob/main/ab_IntTweaks.rar"
         ],
         "categories": [
             "Gameplay"
@@ -63515,12 +63514,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
         "status": [
-            "missing"
+            "stable"
         ],
         "last_update": "2008-12",
         "compatibilities": {},
@@ -63531,7 +63530,7 @@
         "name": "Offhand Weapon Swap",
         "description": "Il s'agit d'un mod de script conçu pour permettre à un personnage maniant deux armes de lâcher son arme de mêlée secondaire afin d'utiliser une arme à distance.",
         "urls": [
-            "https://sasha-altherin.webs.com/offhandweaponswap.htm"
+            "https://github.com/11jo/Unarchived_Mods/blob/main/ab_OffhandWeaponSwap.rar"
         ],
         "categories": [
             "Script et tactique"
@@ -63550,7 +63549,7 @@
         "safe": 1,
         "languages": [],
         "status": [
-            "missing"
+            "stable"
         ],
         "last_update": "2009-08",
         "compatibilities": {},
@@ -69216,7 +69215,7 @@
         "name": "Slart's Fodder Pack",
         "description": "Ce mod ajoute quelques objets d'invocation. Il comprend des animations de créatures originales mettant en scène trois nouveaux nains, un squelette et un marine.",
         "urls": [
-            "https://ire.mainecoon.net/customs/featured_mods.html"
+            "https://github.com/11jo/Unarchived_Mods/blob/main/Slart's%20Fodderpack%201.0.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -69235,7 +69234,7 @@
             "en"
         ],
         "status": [
-            "missing"
+            "stable"
         ],
         "last_update": "2004-03",
         "compatibilities": {},
@@ -69246,7 +69245,7 @@
         "name": "Chicken Change",
         "description": "Fait en sorte qu'un personnage du groupe se transforme, sans raison apparente, en poulet. Une bonne blague du 1er avril.",
         "urls": [
-            "https://ire.mainecoon.net/customs/featured_mods.html"
+            "https://github.com/11jo/Unarchived_Mods/blob/main/CC%20Chicken%20change.tar.gz"
         ],
         "categories": [
             "Gameplay"
@@ -69263,7 +69262,7 @@
         "safe": 0,
         "languages": [],
         "status": [
-            "missing"
+            "stable"
         ],
         "last_update": "2003-03",
         "compatibilities": {},
@@ -69272,9 +69271,9 @@
     {
         "id": 2002,
         "name": "Mike NPC",
-        "description": "",
+        "description": "Mike est un guerrier humain sans kit d'alignement neutre, il a le contenu minimum.|FOR 16, DEX 14, CON 16, INT 17, SAG 6, CHA 12.",
         "urls": [
-            "http://www2.snugcove.com:8081/leutian"
+            "https://github.com/11jo/Unarchived_Mods/blob/main/Mike_Lieutan_NPC.rar"
         ],
         "categories": [
             "PNJ One Day"
@@ -69293,7 +69292,7 @@
             "en"
         ],
         "status": [
-            "missing"
+            "stable"
         ],
         "last_update": "2004-01",
         "compatibilities": {},
@@ -70282,5 +70281,128 @@
         "last_update": "2020-02",
         "compatibilities": {},
         "tp2": "RJPSTEEMods"
+    },
+    {
+        "id": 2032,
+        "name": "BG1 Style Portrait Remakes",
+        "description": "Ce mod propose des portraits revisités des personnages oBG2 dans le style de BG1.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/90651/",
+            "https://www.nexusmods.com/baldursgate2ee/mods/139"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Wombat"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-05",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2033,
+        "name": "Elai NPC",
+        "description": "Ce mod ajoute Elai, un rôdeur demi-elfe d'alignement Loyal Mauvais, au jeu en tant que PNJ que l'on peut recruter. On le trouve dans les ruines du temple, dans les collines d'Umar. Je vous recommande de vous y rendre avant de partir pour Spellhold ; ce n'est pas indispensable, mais vous passerez à côté de certaines choses si vous ne le faites pas... Si vous commencez par ToB, vous pouvez l'invoquer depuis l'Esprit du Destin, comme pour les autres PNJ. Il n'est pas un personnage avec lequel on peut avoir une relation amoureuse, mais il interagit avec le personnage principal et les autres membres du groupe, et vous pouvez le forcer à parler à la manière des packs de flirt FWP pour lui poser des questions. Il dispose d'un kit unique : « Shadovar Scout », qui lui permet notamment d'effectuer des attaques sournoises ; il a accès à des sorts de mage au lieu des sorts de rôdeur.|FOR 15, DEX 16, CON 14, INT 17, SAG 10, CHA 13.",
+        "urls": [
+            "https://github.com/11jo/Unarchived_Mods/blob/main/Elai_Beta_v6_NPC.rar"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Andyr"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2004-01",
+        "compatibilities": {},
+        "tp2": "Elai"
+    },
+    {
+        "id": 2034,
+        "name": "Pierre's KitPack",
+        "description": "Ce kitpack ajoute 3 kits :|Thug : Combattant voleur. Le Thug utilise sa force brute pour prendre ce qu'il veut quand il le veut. C'est un voyou vicieux et un meurtrier.|Mercenaire : Soldat professionnel à louer. Le Mercenaire est un soldat rebelle, doué dans toutes les formes de combat. Il est prêt à servir dans n'importe quelle organisation de guérilla, ou pour n'importe quel particulier si le prix est correct.|Cutthroat : C'est le voleur le plus rusé et le plus impitoyable. Il est passé maître dans le maniement de la dague et de l'épée courte, et sa maîtrise de l'attaque sournoise n'est surpassée que par celle de l'assassin. Aussi rapide et rusé qu'un assassin, mais très limité dans son choix d'armes. Aussi impitoyable et meurtrier qu'un voyou, mais il préfère ne pas recourir à la force brute ni s'engager dans des affrontements en face à face. Le Cutthroat éliminera un ennemi au moment où celui-ci s'y attend le moins",
+        "urls": [],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG",
+            "BG2"
+        ],
+        "authors": [
+            "Pierre"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable",
+            "missing"
+        ],
+        "last_update": "2002-11",
+        "compatibilities": {
+            "requires": [
+                "Kit Editor"
+            ]
+        },
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2035,
+        "name": "Flash Flask",
+        "description": "La grenade aveuglante éblouit et paralyse tout ce qui se trouve dans un rayon de 12 mètres. Inspirée de la grenade aveuglante de Counter-Strike.",
+        "urls": [
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/FlashFlask.zip"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "B'nJahmin"
+        ],
+        "team": [],
+        "notes": [
+            "Elles sont à créer à la console : `flashfla`."
+        ],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2003-02",
+        "compatibilities": {},
+        "tp2": "non-weidu"
     }
 ]
