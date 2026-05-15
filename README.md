@@ -31,6 +31,12 @@ Le fichier `db/mods.json` contient les informations nécessaires à la générat
 ```
 Cela génère le fichier `index.html` dans `docs/` ainsi que les pages traduites (chacune présente dans son dossier associé, ex : `db/fr/index.html` pour la version française).
 
+### Lancez les tests
+
+```
+    uv run pytest tests/ -v
+```
+
 ## Améliorations par rapport à la v1
 
 Cette version propose plusieurs améliorations techniques notables :
