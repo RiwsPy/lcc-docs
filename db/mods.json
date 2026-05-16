@@ -37653,7 +37653,8 @@
         "name": "The Demon in Ust Natha",
         "description": "Ce mod permet aux joueurs de négocier avec le démon du Rituel quelque soit son alignement.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/32261-the-demon-in-ust-natha-mod-for-bg2ee/"
+            "https://www.gibberlings3.net/forums/topic/32261-the-demon-in-ust-natha-mod-for-bg2ee/",
+            "https://github.com/11jo/Unarchived_Mods/releases/tag/0.0.0"
         ],
         "categories": [
             "Quête"
@@ -37673,7 +37674,8 @@
             "en"
         ],
         "status": [
-            "missing"
+            "beta",
+            "archived"
         ],
         "last_update": "2020-12",
         "compatibilities": {},
@@ -69976,7 +69978,7 @@
     {
         "id": 2023,
         "name": "Melinda the Mute",
-        "description": "Une quête de [[226]] en standalone.",
+        "description": "Une quête de [[226]] en stand-alone.",
         "urls": [
             "https://github.com/RoxanneSHS/MelyndaMute"
         ],
@@ -69991,7 +69993,9 @@
             "CBisson"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Copyright issue"
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -69999,7 +70003,8 @@
             "ru"
         ],
         "status": [
-            "stable"
+            "stable",
+            "hidden"
         ],
         "last_update": "2022-05",
         "compatibilities": {},
@@ -70405,5 +70410,182 @@
         "last_update": "2003-02",
         "compatibilities": {},
         "tp2": "non-weidu"
+    },
+    {
+        "id": 2036,
+        "name": "Civil Disobedience",
+        "description": "Une quête de [[226]] en stand-alone.",
+        "urls": [
+            "https://github.com/RoxanneSHS/CivilDisobedience"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CBisson"
+        ],
+        "team": [],
+        "notes": [
+            "Copyright issue"
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "de",
+            "ru"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2022-05",
+        "compatibilities": {},
+        "tp2": "disobedience"
+    },
+    {
+        "id": 2037,
+        "name": "Drow Library",
+        "description": "Une quête de [[226]] en stand-alone.",
+        "urls": [
+            "https://github.com/RoxanneSHS/DrowLibrary"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CBisson"
+        ],
+        "team": [],
+        "notes": [
+            "Copyright issue"
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "de",
+            "ru"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2022-05",
+        "compatibilities": {},
+        "tp2": "Drowlib"
+    },
+    {
+        "id": 2038,
+        "name": "Of Elves and Artefacts",
+        "description": "Une quête de [[226]] en stand-alone.",
+        "urls": [
+            "https://github.com/RoxanneSHS/MalteseArtefact"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CBisson"
+        ],
+        "team": [],
+        "notes": [
+            "Copyright issue"
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2022-05",
+        "compatibilities": {},
+        "tp2": "Maltese"
+    },
+    {
+        "id": 2039,
+        "name": "Speak to the Dead",
+        "description": "Une quête de [[226]] en stand-alone.",
+        "urls": [
+            "https://github.com/RoxanneSHS/SpeakDead"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CBisson"
+        ],
+        "team": [],
+        "notes": [
+            "Copyright issue"
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2024-01",
+        "compatibilities": {},
+        "tp2": "Ryberg"
+    },
+    {
+        "id": 2040,
+        "name": "Velvetfoot",
+        "description": "Une quête de [[226]] en stand-alone.",
+        "urls": [
+            "https://github.com/RoxanneSHS/Velvetfoot"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CBisson"
+        ],
+        "team": [],
+        "notes": [
+            "Copyright issue"
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2022-05",
+        "compatibilities": {},
+        "tp2": "Velvet"
     }
 ]
