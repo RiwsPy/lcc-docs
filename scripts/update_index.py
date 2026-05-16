@@ -89,15 +89,14 @@ def main(**kwargs):
         mod_id_to_name = {mod.id: mod.name for mod in mods}
 
         for mod in mods:
-            if ModStatus.HIDDEN not in mod.status:
-                authors |= set(mod.authors)
-                team |= set(mod.team)
-                if mod.tp2 not in ("n/a", "non-weidu", ""):
-                    tp2_nb += 1
-                if mod.translation_state != "n/a":
-                    translation_count += int(len(mod.languages) - 1)
-                for game in mod.games:
-                    mod_per_game[game] += 1
+            authors |= set(mod.authors)
+            team |= set(mod.team)
+            if mod.tp2 not in ("n/a", "non-weidu", ""):
+                tp2_nb += 1
+            if mod.translation_state != "n/a":
+                translation_count += int(len(mod.languages) - 1)
+            for game in mod.games:
+                mod_per_game[game] += 1
 
         last_added_mods = ModManager.get_last_added_mods(mods, nb=20)
         last_updated_mods = ModManager.get_last_updated_mods(mods, nb=20)
