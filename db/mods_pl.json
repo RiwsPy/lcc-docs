@@ -27909,5 +27909,46 @@
                 "Copyright issue"
             ]
         }
+    },
+    {
+        "id": 2041,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod transforme l'épée magique qui est normalement invoquée par le sort Épée de Mordenkainen en une épée magique extrêmement puissante appelée « Chaos Blade »."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Écrase SWORD01.cre"
+            ]
+        }
+    },
+    {
+        "id": 2042,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose des portraits alternatifs pour Dynaheir, Jaheira, Viconia, et Safana."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2043,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose Alred, le voleur de l'ombre, qui vous vendra 4 nouveaux objets. Il se trouve à Athkatla."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

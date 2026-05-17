@@ -8522,7 +8522,7 @@
     },
     {
         "id": 241,
-        "name": "Cloak of the Shield upgrade",
+        "name": "Cloak of the Shield change",
         "description": "Ce mini mod transforme la Cape du bouclier en une cape plus utile (CA de 2).",
         "urls": [
             "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/CLK20FIX.zip"
@@ -15244,7 +15244,7 @@
         "name": "Garrick: Tales of a Troubadour",
         "description": "Ce mod vise à rendre le personnage de Garrick plus intéressant à jouer, en ajoutant de nouveaux dialogues, de nouvelles situations et rencontres ainsi que des chants supplémentaires propres au barde de Bérégost. Il s'appuie pour cela sur le contenu introduit par le [[105]] et le complète.",
         "urls": [
-            "https://mirandir.baldursgateworld.fr/garrick-tt/fr.html",
+            "https://mirandir.baldursgateworld.fr/garrick-tt/index.html",
             "https://github.com/The-Gate-Project/Garrick_Tales-of-a-Troubadour"
         ],
         "categories": [
@@ -21339,7 +21339,7 @@
         "name": "KimNPC",
         "description": "Incroyablement belle, délicieusement sensuelle... et terriblement chieuse, Kim la pirate fait escale à Athkatla. Saurez-vous l'apprivoiser ? Ce mod ajoute un nouveau PNJ, Kim, et une quête propre ainsi qu'une romance. Vous pouvez la retrouver à proximité de Renal Bloodscalp.|FOR 17, DEX 18, CON 10, INT 14, SAG 7, CHA 16",
         "urls": [
-            "https://akadis.baldursgateworld.fr/Kim/KimFr.html",
+            "https://akadis.baldursgateworld.fr/Kim/KimEn.html",
             "https://www.baldursgateworld.fr/viewforum.php?f=344",
             "https://github.com/11jo/Kim_NPC"
         ],
@@ -25617,7 +25617,7 @@
         "name": "Mystigan the Merchant",
         "description": "Ce nouveau marchand que vous pourrez rencontrer dans le district du Gouvernement propose toutes sortes de contenants (étuis à parchemins, sacs de gemmes et bien d'autres), mais également des fléchettes +2 et autres dagues de jet enchantées.",
         "urls": [
-            "https://akadis.baldursgateworld.fr/Mystigan/MystiganFr.html"
+            "https://akadis.baldursgateworld.fr/Mystigan/MystiganEn.html"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -56211,7 +56211,7 @@
         "name": "Extension de la quête de Jan",
         "description": "Vous ne manquez jamais d'inclure Jan Jansen dans votre groupe. Vous vous délectez de ses répliques abracadabrantes, mais sa quête personnelle vous laisse sur votre faim. Vous avez envie de connaître la fin de l'histoire concernant l'ancienne compagne du voleur illusionniste le plus loufoque d'Athkatla, et de Vaelag, le mari violent de cette dernière ?|L'Extension de la quête de Jan propose une suite à cette quête originale sous la forme de deux très courtes missions agrémentées de dialogues typiques et de rencontres inopinées avec de nouveaux personnages secondaires. En trame de fond, le mod tente modestement de jeter un éclairage nouveau sur certaines des organisations les plus influentes de la cité.|Découvrez la fin de l'histoire sans avoir besoin de recommencer une partie. La difficulté du mod étant adaptée à des personnages de faible niveau, nous vous conseillons malgré tout d'en profiter sur une partie pas trop avancée.|Le mod comporte entre autres 2 nouvelles missions qui peuvent être faite dans l'ordre de votre choix et 2 nouvelles histoires de Jan.",
         "urls": [
-            "https://akadis.baldursgateworld.fr/Jan/JansQuestFr.html",
+            "https://akadis.baldursgateworld.fr/Jan/JansQuestEn.html",
             "https://forums.beamdog.com/discussion/76673/"
         ],
         "categories": [
@@ -70587,5 +70587,91 @@
         "last_update": "2022-05",
         "compatibilities": {},
         "tp2": "Velvet"
+    },
+    {
+        "id": 2041,
+        "name": "Mordenkainen's Sword Mod",
+        "description": "Ce mod transforme l'épée magique qui est normalement invoquée par le sort Épée de Mordenkainen en une épée magique extrêmement puissante appelée « Chaos Blade ».",
+        "urls": [
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/SWORD01.zip"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "MageWzrd8"
+        ],
+        "team": [],
+        "notes": [
+            "Écrase SWORD01.cre"
+        ],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2003-09",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2042,
+        "name": "That1Guys Portrait replacers",
+        "description": "Ce mod propose des portraits alternatifs pour Dynaheir, Jaheira, Viconia, et Safana.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/103"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "That1Guy1121"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2025-05",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2043,
+        "name": "IRC Weapons mod",
+        "description": "Ce mod propose Alred, le voleur de l'ombre, qui vous vendra 4 nouveaux objets. Il se trouve à Athkatla.",
+        "urls": [
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/IRC_Weapons.zip"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "NaeVa"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2004-08",
+        "compatibilities": {},
+        "tp2": "non-weidu"
     }
 ]

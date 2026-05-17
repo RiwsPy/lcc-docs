@@ -3428,9 +3428,9 @@
     },
     {
         "id": 241,
-        "description": "This mini mod transforms the Shield Cloak into a more useful cloak (CA of 2).",
+        "description": "This mod will turn Cloak of the Shield into something much more useful (a cloak with base AC 2).",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mini mod transforme la Cape du bouclier en une cape plus utile (CA de 2)."
         },
         "notes": [
@@ -28698,6 +28698,49 @@
             "source": [
                 "Copyright issue"
             ]
+        }
+    },
+    {
+        "id": 2041,
+        "description": "This mod transforms the magical sword that is normally summoned by Mordenkainen's Sword spell into an extremely powerful magical sword called Chaos Blade.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod transforme l'épée magique qui est normalement invoquée par le sort Épée de Mordenkainen en une épée magique extrêmement puissante appelée « Chaos Blade »."
+        },
+        "notes": [
+            "Overwrite SWORD01.cre"
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Écrase SWORD01.cre"
+            ]
+        }
+    },
+    {
+        "id": 2042,
+        "description": "This mod offers alternative portraits for Dynaheir, Jaheira, Viconia and Safana.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose des portraits alternatifs pour Dynaheir, Jaheira, Viconia, et Safana."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2043,
+        "description": "This mod introduces Alred, the Shadow Thief, who will sell four new items to you. He is located in Athkatla.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose Alred, le voleur de l'ombre, qui vous vendra 4 nouveaux objets. Il se trouve à Athkatla."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]
