@@ -3,6 +3,7 @@ import re
 from typing import Pattern
 
 from iteration_utilities import duplicates
+from pydantic import HttpUrl
 
 from scripts.utils import ModManager, get_languages
 from settings import language_flags
@@ -35,7 +36,7 @@ def check_json(language) -> None:
 
     mod_ids = set(str(mod.id) for mod in mods)
     nb_warnings = 0
-    mod_urls: list[str] = list()
+    mod_urls: list[HttpUrl] = list()
 
     for mod in mods:
         mod_urls.extend(mod.urls)

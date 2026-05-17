@@ -32,12 +32,12 @@ def main(**kwargs) -> None:
         if link.parent and link.parent.name == "li" and isinstance(link, bs4.Tag)
     }
     print(len(compatible_links), "mods found on the list")
-    found_links = set()
+    found_links: set[str] = set()
     missing_eet_mods = set()
 
     for mod in ModManager.get_mod_list():
         for url in mod.urls:
-            url = simplify_url(url)
+            url = simplify_url(url.url)
             if url in compatible_links:
                 found_links.add(url)
                 if GameEnum.EET not in mod.games:
