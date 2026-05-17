@@ -70673,5 +70673,37 @@
         "last_update": "2004-08",
         "compatibilities": {},
         "tp2": "non-weidu"
+    },
+    {
+        "id": 2044,
+        "name": "Quel",
+        "description": "Ce mod ajoute Quel, un marchand gnome qui vend des gadgets magiques originaux dans la Promenade de Waukyne.",
+        "urls": [
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=7215",
+            "https://github.com/11jo/Unarchived_Mods/blob/main/Quel.rar"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE"
+        ],
+        "authors": [
+            "Ruffle_truffle"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2017-12",
+        "compatibilities": {},
+        "tp2": "Quel"
     }
 ]
