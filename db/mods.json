@@ -8788,7 +8788,7 @@
         "safe": 1,
         "languages": [],
         "status": [
-            "stable"
+            "beta"
         ],
         "last_update": "2017-02",
         "compatibilities": {},
@@ -8836,7 +8836,7 @@
     {
         "id": 250,
         "name": "Continuous Viconia Appearance",
-        "description": "",
+        "description": "Ce mini-mod uniformise l'apparence de Viconia dans les différentes aventures.",
         "urls": [
             "https://forums.beamdog.com/discussion/56009/"
         ],
@@ -23868,7 +23868,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "Margarita"
     },
@@ -26998,7 +26998,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-09",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "OfHeirloomsandClasses"
     },
@@ -31728,7 +31728,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2020-12",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "k9roughworld"
     },
@@ -35213,7 +35213,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2023-11",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "Comstore"
     },
@@ -38051,7 +38051,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "WhinHill"
     },
@@ -46893,7 +46893,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-03",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "A7-WaresOfThePlanes"
     },
@@ -48269,7 +48269,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-01",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "Godcall"
     },
@@ -50119,7 +50119,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "mih_fr"
     },
@@ -50151,7 +50151,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-03",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "mih_metamod"
     },
@@ -53029,7 +53029,8 @@
         "safe": 2,
         "languages": [
             "en",
-            "pl"
+            "pl",
+            "cn"
         ],
         "status": [
             "stable"
@@ -62586,7 +62587,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-08",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "EldothSoD"
     },
@@ -64039,7 +64040,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-01",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "DynaheirBG2EE"
     },
@@ -66283,7 +66284,8 @@
             "BGT"
         ],
         "authors": [
-            "JohnBob"
+            "JohnBob",
+            "rivvers"
         ],
         "team": [],
         "notes": [],
@@ -66295,7 +66297,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2025-12",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "JOining_Party_Select"
     },
@@ -69568,7 +69570,7 @@
         ],
         "last_update": "2025-10",
         "compatibilities": {},
-        "tp2": "change_russian_eet_terms"
+        "tp2": "ChangeRussianEETTerms"
     },
     {
         "id": 2011,
@@ -69694,7 +69696,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2022-03",
+        "last_update": "2026-03",
         "compatibilities": {},
         "tp2": "iwdgo"
     },
@@ -69761,7 +69763,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {
             "requires": [
                 "Windows",
@@ -70006,7 +70008,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2022-05",
+        "last_update": "2022-11",
         "compatibilities": {},
         "tp2": "Melynda"
     },
@@ -70095,11 +70097,13 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {
             "requires": [
                 348
@@ -70122,7 +70126,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Xgatt"
@@ -70130,12 +70135,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
         "status": [
-            "stable"
+            "beta"
         ],
         "last_update": "2026-05",
         "compatibilities": {
@@ -70443,7 +70448,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2022-05",
+        "last_update": "2022-11",
         "compatibilities": {},
         "tp2": "disobedience"
     },
@@ -70479,7 +70484,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2022-05",
+        "last_update": "2022-11",
         "compatibilities": {},
         "tp2": "Drowlib"
     },
@@ -70514,7 +70519,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2022-05",
+        "last_update": "2022-11",
         "compatibilities": {},
         "tp2": "Maltese"
     },
@@ -70584,7 +70589,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2022-05",
+        "last_update": "2022-11",
         "compatibilities": {},
         "tp2": "Velvet"
     },
