@@ -1,0 +1,44 @@
+<div id="header">
+    <h1><a href="{{ home_page }}">{{ _(trans["mod_list"]) }}</a></h1>
+    <div class="language-picker">
+        {% for language_url, flag in language_flags.items() %}
+            <a class="button{% if language and language != language_url %} inactive{% endif %}" href="{{ home_page }}{{ language_url }}/" title="{{ language_url }}">{{ flag }}</a>
+        {% endfor %}
+    </div>
+    <hr>
+    <div class="nav-2">
+        <img class="main"
+                src="{{ static }}img/logo_lcc.avif"
+                title="La Couronne de Cuivre"
+                alt="La Couronne de Cuivre"
+                height="215"
+                width="885" />
+        <div class="credits">
+            <div>
+                <p>{{ _(trans["version"]) }}</p>
+                <p id="version"><strong>4.1.0</strong></p>
+            </div>
+            <div>
+                <p>{{ _(trans["mod_nb"]) }}</p>
+                <p><strong>{{ mod_length }}</strong></p>
+            </div>
+            <div>
+                <p>{{ _(trans["author"]) }}</p>
+                <p><a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12382"><strong>Freddy_Gwendo</strong></a> (aka Gwendolyne)</p>
+            </div>
+            <div>
+                <p>{{ _(trans["maintainer"]) }}</p>
+                <p><a href="https://www.baldursgateworld.fr/memberlist.php?mode=viewprofile&u=12905"><strong>rivvers</strong></a></p>
+            </div>
+            <p>
+                <a href="https://www.baldursgateworld.fr/viewtopic.php?t=34779">{{ _(trans["discussion"]) }} CC</a> • <a href="https://www.gibberlings3.net/forums/topic/40557-the-copper-coronet-mods-list/">{{ _(trans["discussion"]) }} G3</a> • <a href="https://github.com/RiwsPy/lcc-docs">GitHub</a>
+            </p>
+        </div>
+    </div>
+</div>
+<div class="breadcrumb">
+    <a href="{{ home_page }}">👉 {{ _(trans["home"]) }}</a>
+    {% if language %}
+        <a href="{{ home_page }}{{ language }}/">{{ language }}</a>
+    {% endif %}
+</div>

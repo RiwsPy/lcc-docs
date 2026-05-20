@@ -1,0 +1,63 @@
+<script src="{{ static }}js/main.js"></script>
+<a id="gotothetop" href="#top" title={{ _(trans["back"]) }}></a>
+<section id="maindiv">
+    <!-- ================== I n t r o d u c t i o n ================== -->
+    <div class="content">
+        <h2 class="background">{{ _(trans["legend"]) }}</h2>
+        <div class="tables">
+            <div class="legend">
+                <div class="legend-item">
+                    <p>
+                        <strong>{{ _(trans["mod_quality"]) }}</strong>
+                    </p>
+                    <ul>
+                        {% for icon_data in attrs_icon_data.safe.values() %}
+                        <li>{{ icon_data.icon }} {{ _(icon_data.label) }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="legend-item">
+                    <p>
+                        <strong>{{ _(trans["translation_state"]) }}</strong>
+                    </p>
+                    <ul>
+                        {% for icon_data in attrs_icon_data.translation_state_auto.values() %}
+                        <li>{{ icon_data.icon }} {{ _(icon_data.label) }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="legend-item">
+                    <p>
+                        <strong>{{ _(trans["weidu_mod"]) }}</strong>
+                    </p>
+                    <ul>
+                        {% for icon_data in attrs_icon_data.is_weidu.values() %}
+                        <li>{{ icon_data.icon }} {{ _(icon_data.label) }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            <!-- <div class="warning">
+                <p class="titre">⚠️ {{ _(trans["wargning_title"]) }} ⚠️</p>
+                <ul>
+                    {% for warning in trans["warnings"] %}
+                        <li>{{ _(warning) }}</li>
+                    {% endfor %}
+                </ul>
+            </div> -->
+        </div>
+    </div>
+</section>
+<section class="table">
+    <h2 id="top" class="background">{{ _(trans["advanced_filters"]) }}</h2>
+    <div id="search">{% include "search.html" %}</div>
+</section>
+<section id="search_text" class="table">
+    <h3>{{ _(trans["search"]) }}</h3>
+    <input id="search-text"
+            type="text"
+            placeholder={{ _(trans["mod_name"]) }}
+            oninput="filterMod()">
+</section>
+
+{% for category, mods in categories.items() %}<section class="table double_sticky">{% include "category.html" %}</section>{% endfor %}

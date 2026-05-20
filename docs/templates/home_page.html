@@ -1,0 +1,55 @@
+<section id="homediv">
+    <div class="content">
+        <h2 class="background">{{ _(trans["introduction"]) }}</h2>
+        <div class="intro">
+            {% for intro in trans["intros"] %}
+                <p>{{ _(intro) }}</p>
+            {% endfor %}
+            <div class="language-block">
+                <div class="language-content">
+                    <p>Select a flag to acces the list in your language</p>
+                    <div class="language-picker">
+                        {% for language_url, flag in language_flags.items() %}
+                            <a class="button" href="{{ home_page }}{{ language_url }}/" title="{{ language_url }}">{{ flag }}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+        <h2 class="background">Some Stats</h2>
+        <div class="stats">
+            <div>
+                <p>{{ _(trans["mod_nb"]) }}</p>
+                <p><strong>{{ mod_length }}</strong></p>
+            </div>
+            <div>
+                <p>WeiDU Mods</p>
+                <p><strong>{{ tp2_nb }}</strong></p>
+            </div>
+            <div>
+                <p>{{ _(trans["authors"]) }}</p>
+                <p><strong>{{ authors_nb }}</strong></p>
+            </div>
+            <div>
+                <p>{{ _(trans["translators"]) }}</p>
+                <p><strong>{{ team_nb }}</strong></p>
+            </div>
+            <div>
+                <p>Translations</p>
+                <p><strong>{{ translation_count }}</strong></p>
+            </div>
+        </div>
+        <div class="stats">
+            <p>Mod per game</p>
+            {% for game, count in mod_per_game.items() %}
+                <div>
+                    <img src="{{ static }}img/ie_games_{{ game.lower() }}.avif" height="66" alt="{{ game }}" title="{{ game }}"/>
+                    <p><strong>{{ count }}</strong></p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% for category, mods in categories.items() %}<section class="table">{% include "category.html" %}</section>{% endfor %}
