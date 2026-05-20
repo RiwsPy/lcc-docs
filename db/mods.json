@@ -13816,7 +13816,7 @@
     },
     {
         "id": 390,
-        "name": "Extension de la quête de Jan remixée",
+        "name": "Jan's Extended Quest Remix",
         "description": "Modification de la quête [[1602]] du même auteur. Cette version supprime les déplacements par téléportation. Les différents lieux du mod sont accessibles par de nouvelles entrées créées dans les rues d'Athkatla.",
         "urls": [
             "https://akadis.baldursgateworld.fr/Jan/JansQuestRemixFr.html"
@@ -13837,15 +13837,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
-            "fr",
-            "en",
-            "de",
-            "ru"
+            "fr"
         ],
         "status": [
-            "stable"
+            "beta"
         ],
         "last_update": "2022-05",
         "compatibilities": {
@@ -15718,7 +15715,7 @@
     {
         "id": 444,
         "name": "Gerri's NPC Portraits Pack",
-        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[72]], [[78]], [[147]], [[1051]], [[287]], [[337]], Jan's Quest, [[761]], [[444]], [[100]], [[1289]], [[1084]], [[1088]], [[1026]], [[1027]], [[1601]], et bien d'autres.",
+        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[72]], [[78]], [[147]], [[1051]], [[287]], [[337]], [[1602]], [[761]], [[866]], [[100]], [[1289]], [[1084]], [[1088]], [[1026]], [[1027]], [[1601]], et bien d'autres.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?threads/neue-mod-npc-portraits.37417/",
             "https://github.com/gboeck/NSC-Portraits"
@@ -56209,7 +56206,7 @@
     },
     {
         "id": 1602,
-        "name": "Extension de la quête de Jan",
+        "name": "Jan's Extended Quest",
         "description": "Vous ne manquez jamais d'inclure Jan Jansen dans votre groupe. Vous vous délectez de ses répliques abracadabrantes, mais sa quête personnelle vous laisse sur votre faim. Vous avez envie de connaître la fin de l'histoire concernant l'ancienne compagne du voleur illusionniste le plus loufoque d'Athkatla, et de Vaelag, le mari violent de cette dernière ?|L'Extension de la quête de Jan propose une suite à cette quête originale sous la forme de deux très courtes missions agrémentées de dialogues typiques et de rencontres inopinées avec de nouveaux personnages secondaires. En trame de fond, le mod tente modestement de jeter un éclairage nouveau sur certaines des organisations les plus influentes de la cité.|Découvrez la fin de l'histoire sans avoir besoin de recommencer une partie. La difficulté du mod étant adaptée à des personnages de faible niveau, nous vous conseillons malgré tout d'en profiter sur une partie pas trop avancée.|Le mod comporte entre autres 2 nouvelles missions qui peuvent être faite dans l'ordre de votre choix et 2 nouvelles histoires de Jan.",
         "urls": [
             "https://akadis.baldursgateworld.fr/Jan/JansQuestEn.html",
