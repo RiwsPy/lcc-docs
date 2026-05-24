@@ -14134,7 +14134,8 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
@@ -14847,7 +14848,8 @@
             "cn",
             "ru",
             "pl",
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
@@ -17765,7 +17767,8 @@
         "languages": [
             "en",
             "pl",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
@@ -19540,7 +19543,8 @@
             "pl",
             "it",
             "ru",
-            "de"
+            "de",
+            "cn"
         ],
         "status": [
             "stable"
@@ -32709,9 +32713,7 @@
         ],
         "authors": [
             "Bob Tokyo",
-            "the bigg",
-            "JohnBob",
-            "Deratiseur"
+            "the bigg"
         ],
         "team": [],
         "notes": [
@@ -70776,7 +70778,8 @@
         "safe": 2,
         "languages": [
             "en",
-            "es"
+            "es",
+            "cn"
         ],
         "status": [
             "stable"
