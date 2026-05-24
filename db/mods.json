@@ -14970,7 +14970,7 @@
         "name": "Frennedan NPC",
         "description": "Le doppelganger du Donjon d'Irenicus devient un personnage recrutable. Il s'agit d'un guerrier sans kit, chaotique neutre.|FOR 18, DEX 19, CON 9, INT 12, SAG 9, CHA 9.",
         "urls": [
-            "https://www.mediafire.com/file/hjwveaa0hbo8n7m/frennedan.zip/file"
+            "https://github.com/11jo/Frennedan"
         ],
         "categories": [
             "PNJ recrutable"
@@ -14980,12 +14980,10 @@
             "BGT"
         ],
         "authors": [
-            "jastey"
+            "Nicolas Peters"
         ],
         "team": [],
-        "notes": [
-            "Faites attention : son écriture laisse à désirer et il est incompatible avec bon nombre de mods."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -14994,9 +14992,9 @@
         "status": [
             "stable"
         ],
-        "last_update": "2009-06",
+        "last_update": "2026-05",
         "compatibilities": {},
-        "tp2": "frennedan"
+        "tp2": "Frennedan_NPC"
     },
     {
         "id": 424,
@@ -28526,9 +28524,7 @@
             "Inferno"
         ],
         "team": [],
-        "notes": [
-            "Voici une autre [version non officielle compatible EE](https://github.com/RoxanneSHS/Magestronghold/)."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -33127,17 +33123,19 @@
     },
     {
         "id": 938,
-        "name": "Shar-Teel NPC",
-        "description": "À ne pas confondre avec [[939]], ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2.",
+        "name": "Sharteel NPC for BG2",
+        "description": "Ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2.",
         "urls": [
-            "https://www.mediafire.com/file/fp1n66gtw7a2490/sharteel.zip/file"
+            "https://github.com/11jo/Sharteel-NPC-BG2"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Nicolas Peters"
@@ -33152,14 +33150,18 @@
         "status": [
             "stable"
         ],
-        "last_update": "2003-10",
-        "compatibilities": {},
-        "tp2": "sharteel"
+        "last_update": "2026-05",
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
+        "tp2": "Sharteel_BG2"
     },
     {
         "id": 939,
         "name": "Sharteel NPC for SoD",
-        "description": "À ne pas confondre avec [[938]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ.",
+        "description": "Ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ.",
         "urls": [
             "https://www.shsforums.net/files/file/1164-sharteel-npc-mod-for-sod/",
             "https://forums.beamdog.com/discussion/62941/",
@@ -33177,13 +33179,14 @@
         ],
         "team": [],
         "notes": [
-            "Il doit être installé avant [[372]].",
             "Choisissez la version github qui est compatible EET."
         ],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
-            "en"
+            "en",
+            "cn",
+            "pl"
         ],
         "status": [
             "beta"
@@ -64032,7 +64035,8 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
@@ -65787,6 +65791,7 @@
         "name": "Baldur's Gate Random Loot",
         "description": "Rend les nouvelles parties plus amusantes et imprévisibles en randomisant plus de 500 objets. Fini le métagaming.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/41125-mod-randomizer-by-korootz-a-new-way-to-replay-bgee/",
             "https://www.nexusmods.com/baldursgate/mods/107",
             "https://github.com/the-overdriven/bg-random-loot/"
         ],
@@ -70707,5 +70712,77 @@
         "last_update": "2017-12",
         "compatibilities": {},
         "tp2": "Quel"
+    },
+    {
+        "id": 2045,
+        "name": "Mage Stronghold",
+        "description": "Version Roxanne de [[811]].",
+        "urls": [
+            "https://github.com/RoxanneSHS/Magestronghold"
+        ],
+        "categories": [
+            "Quête",
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Inferno"
+        ],
+        "team": [],
+        "notes": [
+            "Copyright issue"
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2022-03",
+        "compatibilities": {},
+        "tp2": "magestronghold_eet"
+    },
+    {
+        "id": 2046,
+        "name": "The Ink Gallery",
+        "description": "Bienvenue à The Ink Gallery : un nouvel établissement d'Athkatla, un lieu regorgeant de livres merveilleux. Lisez les ouvrages et laissez-les vous plonger dans des batailles épiques et des combats mortels. Devenez le héros ou l'héroïne de ces livres, ne serait-ce que l'espace d'un instant, et affrontez de puissants ennemis. Mettez votre courage à l'épreuve et apprenez à devenir encore plus fort que vous ne l'êtes déjà. N'oubliez pas, cependant, qu'il y a un prix à payer.|Vous trouverez The Ink Gallery derrière le bâtiment du Conseil des Six ; on y accède soit par les couloirs intérieurs, soit depuis l'extérieur, par la passerelle couverte située juste en dessous de la partie récemment ouverte du quartier.",
+        "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=5",
+            "https://forums.beamdog.com/discussion/90657/",
+            "https://downloads.weaselmods.net/download/the-ink-gallery/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "es"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-05",
+        "compatibilities": {},
+        "tp2": "InkGallery"
     }
 ]

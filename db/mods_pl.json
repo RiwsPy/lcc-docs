@@ -5134,6 +5134,9 @@
     },
     {
         "id": 374,
+        "team": [
+            "Cahir"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -5811,10 +5814,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Faites attention : son écriture laisse à désirer et il est incompatible avec bon nombre de mods."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -11138,10 +11139,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Voici une autre [version non officielle compatible EE](https://github.com/RoxanneSHS/Magestronghold/)."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -12918,7 +12917,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "À ne pas confondre avec [[939]], ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2."
+            "source": "Ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2."
         },
         "notes": [],
         "notes_meta": {
@@ -12928,16 +12927,18 @@
     },
     {
         "id": 939,
+        "team": [
+            "Aristo"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "À ne pas confondre avec [[938]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ."
+            "source": "Ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ."
         },
         "notes": [],
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Il doit être installé avant [[372]].",
                 "Choisissez la version github qui est compatible EET."
             ]
         }
@@ -27957,6 +27958,34 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod ajoute Quel, un marchand gnome qui vend des gadgets magiques originaux dans la Promenade de Waukyne."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2045,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Version Roxanne de [[811]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Copyright issue"
+            ]
+        }
+    },
+    {
+        "id": 2046,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Bienvenue à The Ink Gallery : un nouvel établissement d'Athkatla, un lieu regorgeant de livres merveilleux. Lisez les ouvrages et laissez-les vous plonger dans des batailles épiques et des combats mortels. Devenez le héros ou l'héroïne de ces livres, ne serait-ce que l'espace d'un instant, et affrontez de puissants ennemis. Mettez votre courage à l'épreuve et apprenez à devenir encore plus fort que vous ne l'êtes déjà. N'oubliez pas, cependant, qu'il y a un prix à payer.|Vous trouverez The Ink Gallery derrière le bâtiment du Conseil des Six ; on y accède soit par les couloirs intérieurs, soit depuis l'extérieur, par la passerelle couverte située juste en dessous de la partie récemment ouverte du quartier."
         },
         "notes": [],
         "notes_meta": {

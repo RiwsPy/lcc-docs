@@ -6018,14 +6018,10 @@
             "status": "needs_review",
             "source": "Le doppelganger du Donjon d'Irenicus devient un personnage recrutable. Il s'agit d'un guerrier sans kit, chaotique neutre.|FOR 18, DEX 19, CON 9, INT 12, SAG 9, CHA 9."
         },
-        "notes": [
-            "Beware: its writing leaves much to be desired and it is incompatible with a number of mods."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Faites attention : son écriture laisse à désirer et il est incompatible avec bon nombre de mods."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -11515,14 +11511,10 @@
             "status": "needs_review",
             "source": "Ce mod augmente la durée de la quête de classe liée à la sphère et, donc l'intérêt de jouer un mage. Une grande quête supplémentaire ainsi que plusieurs petites et une sphère peuplée d'apprentis. À noter aussi la présence de 39 nouveaux sorts.|N'hésitez pas à aussi installer le mini mod complémentaire [[812]] (aussi appelé PlanarSphere Return) qui vous permettra de vous téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\"."
         },
-        "notes": [
-            "Here's another [unofficial EE-compatible version](https://github.com/RoxanneSHS/Magestronghold/)."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Voici une autre [version non officielle compatible EE](https://github.com/RoxanneSHS/Magestronghold/)."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -13351,10 +13343,10 @@
     },
     {
         "id": 938,
-        "description": "Not to be confused with [[939]], this mod allows you to recruit the evil chaotic fighter Shar-Teel in BG2. ",
+        "description": "This mod allows you to recruit the evil chaotic fighter Shar-Teel in BG2. ",
         "description_meta": {
             "status": "needs_review",
-            "source": "À ne pas confondre avec [[939]], ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2."
+            "source": "Ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2."
         },
         "notes": [],
         "notes_meta": {
@@ -13364,19 +13356,17 @@
     },
     {
         "id": 939,
-        "description": "Not to be confused with [[938]], this mod allows you to recruit Shar-Teel in the Siege of Dragonspear expansion. You'll find her in one of the prison cells at the Flaming Fist headquarters, with limited dialog during the game (and all in modal form, so no highlighted text).",
+        "description": "This mod allows you to recruit Shar-Teel in the Siege of Dragonspear expansion. You'll find her in one of the prison cells at the Flaming Fist headquarters, with limited dialog during the game (and all in modal form, so no highlighted text).",
         "description_meta": {
             "status": "needs_review",
-            "source": "À ne pas confondre avec [[938]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ."
+            "source": "Ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ."
         },
         "notes": [
-            "It must be installed before [[372]].",
             "Select the GitHub version that is EET-compatible."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Il doit être installé avant [[372]].",
                 "Choisissez la version github qui est compatible EET."
             ]
         }
@@ -28749,6 +28739,34 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute Quel, un marchand gnome qui vend des gadgets magiques originaux dans la Promenade de Waukyne."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2045,
+        "description": "Roxanne version of [[811]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Version Roxanne de [[811]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Copyright issue"
+            ]
+        }
+    },
+    {
+        "id": 2046,
+        "description": "Welcome to The Ink Gallery: a new Athkatlan establishment, and a place of many wonderful books. Read them, and let the tomes present you with epic battles and deadly struggles. Become the main hero/heroine of these books, even if only for a short moment, and face powerful enemies. Test your mettle and learn how to become even stronger than you already are. Remember, however, that there is a fee to be paid.|You may find The Ink Gallery behind the Council of Six building -- it may be reached either through its halls, or from outside, through the covered pathway right below the newly opened section of the area.",
+        "description_meta": {
+            "status": "done",
+            "source": "Bienvenue à The Ink Gallery : un nouvel établissement d'Athkatla, un lieu regorgeant de livres merveilleux. Lisez les ouvrages et laissez-les vous plonger dans des batailles épiques et des combats mortels. Devenez le héros ou l'héroïne de ces livres, ne serait-ce que l'espace d'un instant, et affrontez de puissants ennemis. Mettez votre courage à l'épreuve et apprenez à devenir encore plus fort que vous ne l'êtes déjà. N'oubliez pas, cependant, qu'il y a un prix à payer.|Vous trouverez The Ink Gallery derrière le bâtiment du Conseil des Six ; on y accède soit par les couloirs intérieurs, soit depuis l'extérieur, par la passerelle couverte située juste en dessous de la partie récemment ouverte du quartier."
         },
         "notes": [],
         "notes_meta": {
