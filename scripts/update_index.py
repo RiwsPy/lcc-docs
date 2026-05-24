@@ -83,6 +83,7 @@ def main(**kwargs):
     tp2_nb = 0
     translation_count = 0
     mod_per_game = {game.value: 0 for game in GameEnum}
+    urls = set()
 
     with LANGUAGE_CONFIG.switch_language("en"):
         mods = ModManager.get_mod_list("en")
@@ -97,6 +98,7 @@ def main(**kwargs):
                 translation_count += int(len(mod.languages) - 1)
             for game in mod.games:
                 mod_per_game[game] += 1
+            urls |= set(mod.urls)
 
         last_added_mods = ModManager.get_last_added_mods(mods, nb=20)
         last_updated_mods = ModManager.get_last_updated_mods(mods, nb=20)
@@ -113,6 +115,7 @@ def main(**kwargs):
             mod_id_to_name=mod_id_to_name,
             tp2_nb=tp2_nb,
             translation_count=translation_count,
+            url_count=len(urls),
             mod_per_game=mod_per_game,
             categories={
                 HomeCategory(id=1, value="Last Added Mods"): last_added_mods,
