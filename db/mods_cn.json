@@ -157,8 +157,8 @@
         "id": 11,
         "description": "此模组已过时。此外，它还是一个override模组，请优先选择[[1141]]中的组件“所有人都获得专精的每轮攻击加成”。",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Comme il s'agit d'un mod override, préférez-lui le composant `Tout le monde obtient le bonus d'attaque par round de spécialisation` de [[1141]]."
+            "status": "done",
+            "source": "由于这是一个覆盖型模组，建议优先使用[[1141]]中的组件“所有人都获得武器专精的每轮攻击加值”。"
         },
         "notes": [],
         "notes_meta": {
@@ -923,9 +923,9 @@
     },
     {
         "id": 63,
-        "description": "这个模组最初旨在使法术效果与其描述保持一致（持续时间、射程、伤害等），但后来逐渐演变为对法术进行修改，使其在游戏中更有趣。|它已被许多更新的模组所取代，其中包括 [[982]]。",
+        "description": "这个模组最初是为了让法术与其描述（持续时间、范围、伤害等）保持一致而设计的，后来逐渐演变为对其进行修改，使它们在游玩时更加有趣。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Conçu à l'origine pour rendre les sorts conformes à leurs descriptions (durée, portée, dégâts...), ce mod a peu à peu évolué pour les modifier afin de les rendre plus intéressants à jouer."
         },
         "notes": [],
@@ -1230,11 +1230,10 @@
             "source": "Ce mod ajoute un profil de druide assez puissant qui peut utiliser l'énergie magique flottant dans la nature pour lancer des sorts plus rapidement et plus fréquemment. Il peut aussi lancer des sorts profanes et divins non disponibles pour les autres druides."
         },
         "notes": [
-            "此配置文件已包含在模组 [[530]] 的最新版本中。",
             "EE 版本可通过第二个链接获取。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "La version EE est disponible via le second lien."
             ]
@@ -1615,10 +1614,10 @@
             "source": "Ce mod permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions...)."
         },
         "notes": [
-            "它会覆盖游戏文件。现已过时，已被 [[1141]] 取代。"
+            "它会覆盖游戏文件。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Il écrase les fichiers du jeu."
             ]
@@ -1706,9 +1705,9 @@
         "team": [
             "good0593"
         ],
-        "description": "博德之门Ⅱ修复补丁是目前最全面的修复补丁。它修复了Baldurdash（由Kevin Dorner制作）修复的所有错误，以及另外一百万个错误，确保您拥有一个完全干净的游戏。除非您有充分的理由安装其他修复补丁，否则您应该始终安装这个非官方的修复补丁。请注意，某些模组要求安装它。",
+        "description": "BG2 FixPack 是迄今为止最全面的修复包。它修复了 [[2017]] 所修复的所有错误，外加大量其他错误，确保您拥有一个完美干净的游戏。除非您有极佳的理由去安装另一个修复包，否则这个非官方修复包应是您始终要安装的。请注意，某些模组要求安装它。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Le BG2 FixPack est le fixpack le plus complet à ce jour. Il corrige tous les bugs corrigés par [[2017]] plus un million de bugs supplémentaires, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation."
         },
         "notes": [],
@@ -1761,9 +1760,9 @@
         "team": [
             "Miranda"
         ],
-        "description": "此模组编译了其他几个模组：G3调整包、[[1140]]和Wes Weimer的易用性。它可以对游戏进行一千零一个小调整。您可以进行纯粹的美观性更改（例如在头像上隐藏头盔，使用冰风谷的法术视觉效果……）或规则性更改（移除经验值上限，更改经验值表，穿着盔甲施法），并放宽游戏的某些机制（弹药无限堆叠，多恋情……）。|它现已过时，并被[[1141]]取代。",
+        "description": "这个模组整合了其他几个模组：G3调整包、[[1140]]以及Wes Weimer的安逸模组。它允许对游戏进行无数个小调整。你可以进行纯粹的视觉修改（例如隐藏角色模型上的头盔、使用《冰风谷》的施法视觉效果……）或规则修改（取消经验值上限、更改经验值表格、穿着盔甲施法），并放宽游戏的某些机制（弹药无限堆叠、多重恋情……）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod compilait plusieurs autres mods : les G3 Tweak Pack, [[1140]] et Wes Weimer's Ease of Use. Il permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances...)."
         },
         "notes": [],
@@ -2113,9 +2112,9 @@
     },
     {
         "id": 145,
-        "description": "此项目旨在修正《博德之门》及其扩展中发现的各种错误和故障。尽管尚未完成，但此包整合了Baldurdash（由Kevin Dorner创建）的所有修复程序以及[[336]]的一些调整。",
+        "description": "这个项目旨在修正《博德之门》及其扩展包中发现的各种错误和运行问题。尽管尚未完成，这个修复包整合了 [[2017]] 的所有修正以及 [[336]] 的部分调整。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de [[2017]] et certains ajustements du [[336]]."
         },
         "notes": [
@@ -2233,16 +2232,16 @@
     },
     {
         "id": 153,
-        "description": "Baldurdash-WeiDU 是经典版 Baldurdash（由 Kevin Dorner 制作）的重制版。它有两个版本：|- 经典版|- 1.76 版，该版本与模组 [[746]] 和 [[1118]] 高度兼容。|在其他情况下，请优先选择 [[117]]。",
+        "description": "Baldurdash-WeiDU 是 [[2017]] 的一个重制版本。它有两个版本：|- 经典版本|- 1.76版本，这个版本非常特定于 [[746]] 和 [[1118]] 模组。|在其他情况下，建议优先使用 [[117]]。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Baldurdash-WeiDU est une version remasterisée de [[2017]]. Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[746]] et [[1118]].|Dans les autres cas, préférez le [[117]]."
         },
         "notes": [
-            "只有当您打算使用[[746]]和/或[[1118]]时，才必须安装1.76版本。在这种情况下，请下载[Vlad's Compilation](http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394)模组，它汇集了[[153]]、[[1118]]和[[1281]]的最新版本，以及第三路径、行动中的奴隶+改进的铜冠旅店、半多重堡垒、扭曲符文修复和其他修复（改进武僧职业、新的角色档案、新物品……）。"
+            "您必须仅在打算使用 [[746]] 和/或 [[1118]] 时才安装 1.76 版本。在这种情况下，请下载 [[2030]]。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[746]] et/ou [[1118]]. Dans ce cas, téléchargez [[2030]]."
             ]
@@ -2935,10 +2934,10 @@
             "source": "Ce mod remplace la barre de sélection rapide des sorts par une version bien plus ergonomique qui permet de trier les sorts en fonction de leur nom, de leur type et de leur niveau."
         },
         "notes": [
-            "此版本已不再维护，自2.6补丁起已无法使用。请优先选择[[204]]。"
+            "对于2.6版本，请选择[[204]]。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Pour la version 2.6, optez pour [[204]]."
             ]
@@ -3600,9 +3599,9 @@
     },
     {
         "id": 250,
-        "description": "",
+        "description": "这个小模组统一了维康妮亚在不同冒险中的外观。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mini-mod uniformise l'apparence de Viconia dans les différentes aventures."
         },
         "notes": [],
@@ -4027,9 +4026,9 @@
     },
     {
         "id": 279,
-        "description": "这个小型模组添加了11款受FromSoft《黑暗之魂》三部曲启发的武器，外加另外4款。你可以在游戏中的 various 商店里买到它们。一些是平衡的，另一些则拥有极其极端的优缺点，使其与基础游戏中的武器区分开来。",
+        "description": "这个模组添加了一个包含15种武器的武器包，其中许多武器的灵感大致来源于FromSoft的《黑暗之魂》游戏。你可以在游戏中的各个商店购买它们。有些是平衡的，而另一些则拥有非常极端的优势和劣势，这使它们区别于基础游戏中的武器。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute un pack de 15 armes dont beaucoup s'inspirent librement des jeux Dark Souls de FromSoft. Vous pourrez les acheter dans diverses échoppes du jeu. Certaines sont équilibrées, d'autres disposent d'avantages et d'inconvénients très extrêmes qui les distinguent des armes des jeux de base."
         },
         "notes": [],
@@ -4129,9 +4128,9 @@
     },
     {
         "id": 286,
-        "description": "现已包含在[[1175]]中，这个小型模组曾在塔洛斯神殿中添加了商人阿斯格林，并带来了许多来自《冰风谷1》和《冰风谷2》的新物品。此外，它还改进了盲眼教派和吟游诗人公会。它的26件新物品主要分布在阿斯格林的商店和莉莉丝的尸体上。",
+        "description": "这个小模组在塔洛斯神殿添加了商人阿斯格里姆（Asgrim），带来了不少来自《冰风谷1》和《冰风谷2》的新物品。此外，它还改进了盲目之眼教团（Culte de l'Œil Aveugle）和吟游诗人协会建筑（bâtiment des Ménestrels）。它的26件新物品主要分布在阿斯格里姆的商店和莉莉丝（Lilith）的尸体上。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mini mod ajoutait le marchand Asgrim dans le Temple de Talos, avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2. De plus, il améliorait le Culte de l'Œil Aveugle et le bâtiment des Ménestrels. Ses 26 nouveaux objets étaient principalement répartis dans le magasin d'Asgrim et sur le corps de Lilith."
         },
         "notes": [],
@@ -4827,9 +4826,9 @@
     },
     {
         "id": 336,
-        "description": "这个被称为“达德利维尔”的修复包，旨在修复游戏中所有已被识别但未被 Baldurdash（由凯文·多纳制作）解决的漏洞。它包含了700多个修正和补丁（其中大部分是微小的），此外还有一些修改，旨在提供更接近桌面规则设定的游戏体验。|这些补丁可以在“Dudleyfix BG1 Fixes”部分找到，然后进入“Completed Fixpack”。",
+        "description": "这个被称为“达德利维尔”的修复包，旨在修复游戏中所有已被识别但未被 [[2017]] 解决的漏洞。它包含了700多个修正和补丁（其中大部分是微小的），此外还有一些修改，旨在提供更接近桌面规则设定的游戏体验。|这些补丁可以在“Dudleyfix BG1 Fixes”部分找到，然后进入“Completed Fixpack”。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par [[2017]]. Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\"."
         },
         "notes": [
@@ -5862,9 +5861,9 @@
     },
     {
         "id": 408,
-        "description": "这个模组修改了游戏的多个元素：所有角色都以他们最低的等级被招募（不会根据主角等级进行调整），能力之书被每个职业的特定物品取代，所有珠宝都提供加值（AC、抗性等），靴子增加移动速度加值。它还添加了从博德之门Ⅱ中复制的角色肖像，以及散布在各地的新物品（特别是在敌人身上或商店里）。它增强了某些敌人，使战斗更具挑战性。它修改了几个法术的动画。|最后，该模组增加了弹药容量，提高了经验值上限，允许在升级时获得最大生命值。它还集成了Baldurdash补丁。",
+        "description": "这个模组修改了游戏中的多项元素：所有角色均以其最低等级被招募（不根据主角等级进行调整），属性之书被替换为每个职业特定的物品，所有珠宝都提供加成（防御等级、抗性……），靴子增加移动速度加成。它还添加了从《博德之门II》移植的角色肖像，以及分布在各处的新物品（特别是在敌人身上或商店里）。它强化了某些敌人以增加战斗难度。它修改了一些法术的动画效果。|最后，该模组增加了弹药的堆叠容量，提高了经验值上限，并在升级时获得最大生命值。它还整合了 [[2017]] 补丁。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod modifie plusieurs éléments du jeu : les personnages sont tous recrutés à leur niveau le plus faible (pas d'adaptation au niveau du personnage principal), les tomes de caractéristiques sont remplacés par des objets spécifiques à chaque classe, les bijoux offrent tous des bonus (CA, résistance...), les bottes ajoutent des bonus de vitesse de déplacement. Il ajoute aussi des portraits de personnage repris de BG2, de nouveaux objets répartis un peu partout (notamment sur des adversaires ou dans des magasins). Il améliore certains adversaires pour corser les combats. Il modifie les animations de quelques sorts.|Enfin le mod augmente la capacité de stockage des munitions, augmente la limite d'expérience, permet de gagner le maximum de points de vie au changement de niveau. Il intègre également le patch [[2017]]."
         },
         "notes": [
@@ -6849,10 +6848,10 @@
             "source": "Ce mod ajoute une nouvelle PNJ dans le jeu : la prêtresse Helarine, dotée d'un profil de Garde mortuaire de Kelemvor. Vous la trouverez à l'extérieur de l'auberge du Bras amical (BG:EE) ou dans le cimetière d'Athkatla (BG2:EE)."
         },
         "notes": [
-            "注意：此模组仍处于测试版，其安装程序至少可以说是非常古怪的……"
+            "注意：这个模组的安装步骤相当奇特……"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Attention : ce mod a une procédure d'installation pour le moins bizarre..."
             ]
@@ -7357,9 +7356,9 @@
     },
     {
         "id": 511,
-        "description": "这是一个对dambere.dlg文件的小修正，该文件未被G3 IWD Fixpack文件处理。",
+        "description": "这是对 dambere.dlg 文件的一个小修正，该修正未被 [[522]] 处理过。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit d'une petite correction du fichier dambere.dlg qui n'avait pas été traitée par [[522]]."
         },
         "notes": [
@@ -7993,9 +7992,9 @@
     },
     {
         "id": 557,
-        "description": "该模组允许你使用Isandir的这套肖像集来装扮你的角色。一个可选组件为乌斯特那萨的大多数NPC配备了卓尔精灵的肖像。|该模组包含在[[831]]中。",
+        "description": "这个模组允许您为您的角色使用 Isandir 的这个肖像合集。一个可选组件会为乌斯特·拿萨（Ust Natha）的大多数NPC提供卓尔精灵的肖像。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod vous permet d'utiliser cette collection de portraits d'Isandir pour vos personnages. Un composant optionnel dote la plupart des PNJ de portraits de Drows à Ust Natha."
         },
         "notes": [],
@@ -10772,9 +10771,9 @@
     },
     {
         "id": 752,
-        "description": "混乱善良的精灵战士/盗贼尼基塔，乍一看会让人想起明斯克，她以天真的方式行善……她有一个个人任务，但不可发展浪漫关系。你可以在铜冠旅馆找到她，准备加入你的队伍。她拥有自己的装备。",
+        "description": "尼基塔是一名精灵战士/盗贼，阵营混乱善良，她最初的行为方式会让人联想到明斯克，带着一点天真为了善良而行动……她有一个个人任务，但不可发展恋情。你可以在铜冠旅店找到她，她准备加入你的队伍。她拥有自己的装备。|力量16，敏捷18，体质13，智力11，智慧10，魅力14。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Elfe guerrière/voleuse chaotique bonne, Nikita fait de prime abord penser à Minsc, dans sa façon d'agir pour le bien avec un rien de naïveté... Elle dispose d'une quête personnelle, mais ne sera pas romançable. Vous pourrez la trouver à la Couronne de Cuivre, prête à vous rejoindre. Elle possède son propre équipement.|FOR 16, DEX 18, CON 13, INT 11, SAG 10, CHA 14."
         },
         "notes": [],
@@ -11556,9 +11555,9 @@
     },
     {
         "id": 807,
-        "description": "此模组已消失...",
+        "description": "这个模组允许修改刺客和黑暗卫士的“淬毒武器”技能。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod permet de modifier la compétence Arme empoisonnée des Assassins et des Chevaliers noir."
         },
         "notes": [],
@@ -11887,11 +11886,10 @@
             "source": "Ce mod modifie l'interface de sélection des portraits."
         },
         "notes": [
-            "注意：此组件需要修改某些文件。请务必阅读自带的 readme 文件。",
-            "有一个版本已直接集成在 [[347]] 中。"
+            "注意：它需要对某些文件进行操作。请仔细阅读附带的说明文件。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Attention : il nécessite une manipulation de certains fichiers. Bien lire le readme inclus."
             ]
@@ -12547,11 +12545,10 @@
             "source": "Ce mod réintroduit des éléments supprimés lors de la sortie de PsT : sorts, objets, entrées de bestiaire..."
         },
         "notes": [
-            "该模组会覆盖文件，包括 dialog.tlk 文件，并且无法卸载。因此它会将游戏恢复为法语。请不要安装它，并像躲避瘟疫一样避开它！",
-            "此模组包含在 [[814]] 中。"
+            "这个模组会覆盖文件，其中包括 dialog.tlk 文件。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Ce mod écrase les fichiers, dont le fichier dialog.tlk."
             ]
@@ -13470,9 +13467,9 @@
     },
     {
         "id": 938,
-        "description": "不要与[[939]]混淆，这个模组允许您在博德之门Ⅱ中招募混乱邪恶的女战士莎儿-蒂尔。",
+        "description": "这个模组允许在《博德之门II》中招募混乱邪恶的女战士莎蒂。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2."
         },
         "notes": [],
@@ -13486,9 +13483,9 @@
         "team": [
             "MephistoSatanDevil"
         ],
-        "description": "不要与[[938]]混淆，这个模组允许您在龙矛围攻扩展包中招募莎儿-蒂尔。您会在正义之拳总部监狱的某个牢房里找到她。|她在游戏中的对话有限（而且全部都是模态形式，所以没有高亮文本）。这让她与其他角色区别开来。",
+        "description": "这个模组允许在扩展包《龙矛围攻》中招募莎蒂。你可以在火拳司令部监狱的一间牢房里找到她。|她在游戏中的对话非常有限（并且所有内容都是旁白形式，因此没有高亮文本）。这将使她与其他NPC区别开来。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ."
         },
         "notes": [
@@ -15870,11 +15867,10 @@
             "source": "Ce mod permet aux bardes et aux profils de barde (y compris ceux des mods) d'utiliser les capacités de crochetage de serrures, de trouver/désamorcer les pièges et de pickpocket. Le but du jeu étant de pouvoir se passer de voleur dans le groupe. Du niveau 1 au niveau 5, le barde recevra 10 points de compétence en crochetage de serrures, 10 points en détection/désarmorçage des pièges et 5 points en vol à la tire. Du niveau 6 au niveau 20, il recevra 5 points de compétence dans chacune de ces capacités."
         },
         "notes": [
-            "此模组已过时：已被同一作者制作的 [[962]] 取代。",
             "应作者要求已移除。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Retiré à la demande de l'auteur"
             ]
@@ -16471,9 +16467,11 @@
             "status": "done",
             "source": "Uldar est un barbare demi-orque qui peut rejoindre votre groupe. On le trouve à la Couronne de Cuivre. Dans ToB, on peut l'invoquer dans l'antichambre. Le mod n'a aucune romance, mais fournit beaucoup de dialogues et d'interactions, presque toujours avec plusieurs options de réponse."
         },
-        "notes": [],
+        "notes": [
+			"有一个非官方的增强版移植版本，带有英文版，[在此处](https://github.com/PaulaMigrate/Uldar)。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il existe un portage sur EE non officiel avec une version anglaise [ici](https://github.com/PaulaMigrate/Uldar)."
             ]
@@ -16718,11 +16716,10 @@
             "source": "Voici un kit d'Archer mais disponible aussi bien pour les guerriers que pour les paladins et les voleurs.|Deux différences majeures avec le kit de rôdeur :|Le bonus de dégâts continuent à croître au-delà du niveau 18 (et jusqu'au niveau 50).|Les archers peuvent se spécialiser dans les frondes, les fléchettes, les arcs et les arbalètes."
         },
         "notes": [
-            "此模组自从被整合到模组[[386]]中后就已过时。",
             "可以被Argent77制作的[[531]]替代。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Peut être remplacé par [[531]]."
             ]
@@ -19765,9 +19762,9 @@
     },
     {
         "id": 1376,
-        "description": "此模组允许你在BGEE、SoD、BG2EE、IWDEE和PSTEE中选择1到4个不同的快速存档位置。它与EET不兼容。",
+        "description": "这个模组允许您在1到4个不同的快速存档位之间进行选择。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod vous permet de choisir entre 1 et 4 emplacements de sauvegarde rapide différents."
         },
         "notes": [],
@@ -20028,11 +20025,10 @@
             "source": "Ce mod permet de jouer aux versions EE sans voir les nouveaux PNJ apportés. Il apporte deux fonctionnalités :|La première rend certains nouveaux objets introduits par BG:EE disponibles dans les boutiques, de sorte que vous n'ayez pas à recruter de nouveaux PNJ pour les obtenir.|La seconde vous permet de supprimer les nouveaux PNJ EE (chaque personnage peut être sélectionné unitairement via un composant)."
         },
         "notes": [
-            "注意，第一部分不是 Weidu 组件，需要覆盖相应的物品和商店。第二部分是 Weidu。",
-            "它现已过时，并被 [[252]] 取代。"
+            "注意，第一部分不是 Weidu 组件，需要覆盖相应的物品和商店。第二部分是 Weidu。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Attention, la première partie n'est pas un composant Weidu et il est nécessaire d'overrider les objets et les magasins correspondants. La seconde est Weidu."
             ]
@@ -21765,11 +21761,10 @@
             "source": "Ce mod ajoute un marchand qui propose des objets d'une puissance digne de ToB, il équipe également certains ennemis d'objets d'une puissance similaire. Ces objets sont droppables."
         },
         "notes": [
-            "注意，“更强的敌人”组件会替换生物，而不是打补丁。",
-            "由于其已被整合到 [[285]] 中，此模组已过时。"
+            "注意，“更强的敌人”组件会直接替换生物，而不是对其进行修补。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Attention, le composant `ennemis plus puissant` remplace les créatures au lieu de les patcher."
             ]
@@ -23669,9 +23664,9 @@
     },
     {
         "id": 1652,
-        "description": "一位22级的守序善良人类狂战士。他的超自然等级和属性数据来自博德之门的卷轴和地狱的最终试炼。这是一个《巴尔王座》角色，并且也携带了一些不错的物品。",
+        "description": "一位名叫阿拉贡的人类狂战士，22级，阵营混乱善良。其超凡的等级与属性源自《博德之门》中的属性书与地狱中的最终试炼。这是一个《巴尔王座》角色，并携带了相当数量的优质物品。|力量19，敏捷18，体质19，智力18，智慧20，魅力20。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Un berserker humain légal appelé Aragorn de niveau 22 et d'alignement Chaotique Bon. Ses niveaux surnaturels et ses statistiques proviennent des tomes de BG et des tests finaux en Enfer. C'est un personnage ToB et il porte également un certain nombre de bons objets.|FOR 19, DEX 18, CON 19, INT 18, SAG 20, CHA 20."
         },
         "notes": [],
@@ -25159,11 +25154,10 @@
             "source": "Ce mod permet de jouer \"en solo\" avec tout de même 5 compagnons : chaque fois qu'un combat commence, tous les compagnons sont envoyés dans un labyrinthe. Ils sont libérés quand le combat est fini. Hors combat vous avez accès aux dialogues, quêtes de compagnons et romances."
         },
         "notes": [
-            "您必须拥有5名同伴，模组的脚本才能正常运行。",
-            "此模组包含在[[1245]]中，由同一作者制作。"
+            "您必须拥有5名同伴，模组的脚本才能正常运行。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Vous DEVEZ avoir 5 compagnons pour que le script du mod fonctionne."
             ]
@@ -28367,9 +28361,9 @@
     },
     {
         "id": 1997,
-        "description": "",
+        "description": "这个补丁是必要的，用于防止桑德拉的个人物品在《博德之门1》游戏开始时过于强大。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce patch est nécessaire pour éviter que les objets personnels de Sandrah ne soient trop puissants au début de la partie BG1."
         },
         "notes": [],
@@ -28444,9 +28438,9 @@
     },
     {
         "id": 2002,
-        "description": "",
+        "description": "迈克是一名无宗派的人类战士，阵营中立，他拥有最低限度的内容。|力量16，敏捷14，体质16，智力17，智慧6，魅力12。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Mike est un guerrier humain sans kit d'alignement neutre, il a le contenu minimum.|FOR 16, DEX 14, CON 16, INT 17, SAG 6, CHA 12."
         },
         "notes": [],
@@ -28539,9 +28533,9 @@
     },
     {
         "id": 2009,
-        "description": "",
+        "description": "这个模组在 [[1526]] 之后添加了艾瑞贝斯作为可招募角色。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute Aribeth comme personnage recrutable après [[1526]]."
         },
         "notes": [],
@@ -28552,9 +28546,9 @@
     },
     {
         "id": 2010,
-        "description": "",
+        "description": "用于统一俄语翻译中某些术语的模组。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Mod qui permet d'uniformiser certains termes dans les traductions russes."
         },
         "notes": [],
@@ -28565,9 +28559,9 @@
     },
     {
         "id": 2011,
-        "description": "",
+        "description": "在《博德之门1》中，艾黎以更年轻、更受创伤的形态出现在纳西凯集市。她刚加入集市不久：不久前，割掉她翅膀的奴隶贩子把她卖给了那个集市商人。她被关在一个笼子里，被当作“翼精灵”展出，尽管她的翅膀只剩下伤痕累累的残桩，藏在一件披巾下面。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Dans BG1, Aerie apparaît au Festival de Nashkel sous les traits d'une version plus jeune et plus traumatisée d'elle-même. Elle fait partie de la fête foraine depuis peu : elle a récemment été vendue au forain par les esclavagistes qui lui ont coupé les ailes. Elle est enfermée dans une cage où elle est présentée comme une « elfe ailée », bien que ses ailes ne soient plus que des moignons balafrés, dissimulés sous un châle."
         },
         "notes": [],
@@ -28578,9 +28572,9 @@
     },
     {
         "id": 2012,
-        "description": "",
+        "description": "如果队伍其他成员幸存，主角可以死亡而游戏不会结束。相反，如果队伍全灭，则该角色的所有存档都会被删除！",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Le personnage principal peut mourir sans que le jeu ne se termine si le reste du groupe survit. En revanche, si le groupe meurt, toutes les sauvegardes du personnage sont supprimées !"
         },
         "notes": [],
@@ -28591,9 +28585,9 @@
     },
     {
         "id": 2013,
-        "description": "",
+        "description": "薇奥莱特是来自另一个现实的人工智能，在费伦以紫色神使的形态显现。她是一个在故事关键时刻出现的NPC，拥有网络技术能力。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Violet est une IA issue d'une autre réalité qui se manifeste sous la forme d'un deva violette à Féérune. C'est un PNJ qui apparaît à des moments clés de l'histoire, elle est dotée de pouvoirs cybertechnologiques."
         },
         "notes": [],
@@ -28604,9 +28598,9 @@
     },
     {
         "id": 2014,
-        "description": "",
+        "description": "这个模组很可能是游戏自发布以来最重要的视觉重制。它恢复了所有主要区域（博德之门除外）原本缺失的扩展夜景。现在，当你在夜间开门时，可以看到从建筑内部透出的光线。建筑物现在也有了亮灯的窗户。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod constitue sans doute la plus importante refonte visuelle du jeu depuis sa sortie. Il rétablit les zones de nuit étendues qui manquaient dans toutes les zones principales, à l'exception de Baldur's Gate. Désormais, lorsque vous ouvrez des portes la nuit, la lumière provenant de l'intérieur du bâtiment est visible. Les bâtiments possèdent désormais des fenêtres éclairées."
         },
         "notes": [],
@@ -28617,14 +28611,16 @@
     },
     {
         "id": 2015,
-        "description": "",
+        "description": "这个模组以一个新的牧师宗派的形式，添加了一个“德鲁伊”基础职业的副本，目的是让玩家可以选择德鲁伊与法师或其他职业进行双职业。它还包括了玩家脚本，类似于 [[722]] 模组，允许玩家选择德鲁伊作为其牧师多职业的选项。战士的双职业和多职业是例外：玩家必须使用这些职业的原版版本。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute une copie de la classe de base « Druide » sous la forme d'un nouveau kit de Clerc, afin de permettre au joueur d'opter pour une double classe entre Druide et Mage ou autre. Il intègre également des scripts de joueur, à l'instar du mod [[722]], qui permettent aux joueurs de choisir le Druide comme option pour leurs multiclasses de Clerc. Les doubles et multiclasses de Guerrier font exception : le joueur doit utiliser les versions d'origine de ces classes à la place."
         },
-        "notes": [],
+        "notes": [
+			"对于增强版（EE），请选择 [[396]] 或 [[1338]]。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Pour les versions EE, optez pour [[396]] ou [[1338]]."
             ]
@@ -28632,9 +28628,9 @@
     },
     {
         "id": 2016,
-        "description": "",
+        "description": "Eeex BuffBot 能自动在战斗前施加增益效果。它会分析每个队伍成员的法术书，生成可定制的增益列表，并可通过单击来并行施放所有法术。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Eeex BuffBot automatise l'application des buffs avant le combat. Il analyse le grimoire de chaque membre du groupe, établit une liste de buff personnalisable et lance tous les sorts en parallèle d'un simple clic."
         },
         "notes": [],
@@ -28645,9 +28641,9 @@
     },
     {
         "id": 2017,
-        "description": "",
+        "description": "最早期的修复包之一，修复了几个已知的错误。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Un des premiers fixpack qui corrige plusieurs bugs connus."
         },
         "notes": [],
@@ -28658,9 +28654,9 @@
     },
     {
         "id": 2018,
-        "description": "",
+        "description": "老旧的模组，允许精灵获得90%的抗性，抵抗几乎所有睡眠和魅惑法术，半精灵则获得30%的抗性。|半兽人获得红外视觉。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Vieux mod qui permet aux elfes d'avoir 90% de résistance contre vraiment tous les sorts de sommeil et de charme, les demi-elfes 30%.|Les demi-orcs gagnent l'infravision."
         },
         "notes": [],
@@ -28671,9 +28667,9 @@
     },
     {
         "id": 2019,
-        "description": "",
+        "description": "这个模组提供了大量解决方案，用于更改您角色的宗派或叠加宗派，还可以通过对话和药水系统直接在游戏内创建自定义宗派。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose tout un tas de solutions pour changer le kit de vos personnages ou les cumuler mais aussi d'en créer sur mesure directement depuis le jeu via un système de dialogue et de potion."
         },
         "notes": [],
@@ -28684,9 +28680,9 @@
     },
     {
         "id": 2020,
-        "description": "",
+        "description": "这个模组为武僧职业添加了一个吸血鬼宗派。它畏光，但拥有一枚可以保护其免受阳光伤害的戒指（这会降低其属性）。它还拥有死灵法术能力和自定义的高阶能力。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute un kit de vampire à la classe Moine. Il est sensible à la lumière du soleil, mais il possède un anneau qui peut l'en protéger (qui abaisse ses caractéristiques). Il dispose aussi de capacités nécromantiques et des HLAS personnalisées."
         },
         "notes": [],
@@ -28697,9 +28693,9 @@
     },
     {
         "id": 2021,
-        "description": "",
+        "description": "从2.6版本开始，某些药水的效果不再相互叠加，这个模组允许恢复之前的运作方式。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Depuis la version 2.6, les effets de certaines potions ne se cumulent plus entre elles, ce mod permet de rétablir l'ancien fonctionnement."
         },
         "notes": [],
@@ -28710,9 +28706,9 @@
     },
     {
         "id": 2022,
-        "description": "",
+        "description": "这个Blender附加组件可以自动从生物动画创建精灵。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce module complémentaire de Blender automatise la création de sprites à partir d'animations de créatures."
         },
         "notes": [],
@@ -28723,14 +28719,16 @@
     },
     {
         "id": 2023,
-        "description": "",
+        "description": "[[226]] 的一个独立任务。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Une quête de [[226]] en stand-alone."
         },
-        "notes": [],
+        "notes": [
+			"版权问题"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Copyright issue"
             ]
@@ -28738,9 +28736,9 @@
     },
     {
         "id": 2024,
-        "description": "",
+        "description": "允许扮演一条龙（青铜龙、银龙或金龙），并拥有相应的先天能力。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Permet de jouer un dragon (bronze, argent ou or). Avec les capacités innées correspondantes."
         },
         "notes": [],
@@ -28751,9 +28749,9 @@
     },
     {
         "id": 2025,
-        "description": "",
+        "description": "[[799]] 是一个旨在修正《安姆阴影》灾难性法语翻译的模组。但即使在其1.1版本中，仍然存在许多错误。因此，这个模组提供了额外的修正，它必须在 [[799]] 之后安装，以完善后者的修正工作。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "[[799]] est un mod qui se charge de corriger la traduction française (désastreuse) de Shadows of Amn. Mais même dans sa version 1.1 il reste de nombreuses erreurs. Voici donc des corrections supplémentaires apportées dans ce mod, qui doit s'installer après [[799]] pour compléter les corrections de ce dernier."
         },
         "notes": [],
@@ -28764,9 +28762,9 @@
     },
     {
         "id": 2026,
-        "description": "",
+        "description": "这个模组允许叠加来自不同来源的施法者等级加成。在无限引擎游戏中，默认情况下施法者等级加成是无法叠加的：始终是最后施加的效果生效。这个模组修正了这一点。因此，假设您有一个赋予奥术施法者等级-2惩罚的职业宗派，同时您穿着一件赋予奥术施法者等级+3加成的长袍，并且您还获得了一项赋予奥术施法者等级+1加成的技能，那么最终效果将是叠加后的结果。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod permet de cumuler les bonus au niveau de lancement de sorts provenant de différentes sources. Par défaut, dans les jeux IE, les bonus au niveau de lancement de sorts ne se cumulent pas : c'est toujours le dernier effet appliqué qui prévaut. Ce mod corrige cela. Ainsi, si vous disposiez d'un kit de classe conférant un malus de -2 au niveau de lancement de sorts arcaniques, que vous portiez une robe conférant un bonus de +3 au niveau de lancement de sorts arcaniques et que vous aviez acquis une compétence conférant un bonus de +1 au niveau de lancement de sorts arcaniques."
         },
         "notes": [],
@@ -28777,9 +28775,9 @@
     },
     {
         "id": 2027,
-        "description": "",
+        "description": "这是一个允许您队伍成员以不同速率获得经验值的模组。这是通过一本名为“精通学习者之书”的物品实现的，该物品在游戏开始时就添加到主角的背包中。右键单击该书并选择“研读”，会打开一个对话框，允许读者设置自己的经验值获取修正值，范围从 -100%（不获得经验值）到 +500%（正常速率的六倍），以预设的步长进行调整。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Il s'agit d'un mod qui permet aux membres de votre groupe de gagner des points d'expérience à des rythmes différents. Cela se fait grâce à un objet de type livre — le « Tome of the Masterful Learner » — ajouté à l'inventaire du protagoniste dès le début du jeu. Cliquez avec le bouton droit sur le livre et sélectionnez « Étudier » pour ouvrir une boîte de dialogue qui permet au lecteur de définir son propre modificateur de gain d'XP, allant de -100 % (aucun XP) à +500 % (six fois le taux normal), par paliers prédéfinis."
         },
         "notes": [],
@@ -28790,9 +28788,9 @@
     },
     {
         "id": 2028,
-        "description": "",
+        "description": "这个模组修改了 [[1141]] 中的“变形者平衡调整”组件。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod modifie le composant `Shapeshifter Rebalancing` de [[1141]]."
         },
         "notes": [],
@@ -28803,9 +28801,9 @@
     },
     {
         "id": 2029,
-        "description": "",
+        "description": "这是一个完整的肖像包。安装所有组件后，游戏中的每个NPC都将获得一幅高质量肖像，该肖像特别适配其外貌、环境和对话。它还为许多模组添加了肖像。所有肖像均由人工智能生成。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Il s'agit d'un pack complet de portraits. Une fois tous les composants installés, chaque PNJ du jeu se verra attribuer un portrait de haute qualité, spécialement adapté à son apparence, à son environnement et à ses dialogues. Il ajoute également des portraits pour de nombreux mods. Tous les portraits sont générés par IA."
         },
         "notes": [],
@@ -28816,9 +28814,9 @@
     },
     {
         "id": 2030,
-        "description": "",
+        "description": "这个模组汇集了 [[153]]、[[1118]] 和 [[1281]] 的“最新”版本，以及作者的许多组件：第三条道路、行动中的奴隶贩子、改进的铜冠旅店、半多据点、恢复的扭曲符文以及其他修复（武僧职业增强、NPC新职业、新物品……）。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod regroupe les 'dernières' versions de [[153]], [[1118]] et [[1281]], ainsi que de nombreux composants de l'auteur : Third Path, Slavers in Action, Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
         },
         "notes": [],
@@ -28829,9 +28827,9 @@
     },
     {
         "id": 2031,
-        "description": "",
+        "description": "以下是适用于《异域镇魂曲：增强版》的模组精选。这些组件可以单独选择，彼此不依赖。请自行选择！",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Voici une sélection de mods pour PSTEE. Ces composants peuvent être sélectionnés individuellement et ne dépendent pas les uns des autres. Faites votre choix !"
         },
         "notes": [],
@@ -28842,9 +28840,9 @@
     },
     {
         "id": 2032,
-        "description": "",
+        "description": "这个模组提供了以《博德之门1》风格重新绘制的原版《博德之门II》角色肖像。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose des portraits revisités des personnages oBG2 dans le style de BG1."
         },
         "notes": [],
@@ -28855,9 +28853,9 @@
     },
     {
         "id": 2033,
-        "description": "",
+        "description": "这个模组添加了艾莱（Elai），一名半精灵游侠，阵营守序邪恶，作为可招募的NPC加入游戏。你可以在乌玛丘陵的神殿废墟中找到他。我建议你在前往禁魔监狱之前先去那里；这不是必须的，但如果你不这样做，就会错过一些内容……如果你从《巴尔王座》开始游戏，你可以像召唤其他NPC一样，通过命运之灵召唤他。他不是一个可恋爱的角色，但他会与主角和队伍其他成员互动，你可以通过类似FWP调情包的方式强制他说话来提问。他拥有一个独特的宗派：“沙多瓦侦察兵”（Shadovar Scout），这使他能够进行背刺攻击；他可以使用法师法术而不是游侠法术。|力量15，敏捷16，体质14，智力17，智慧10，魅力13。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute Elai, un rôdeur demi-elfe d'alignement Loyal Mauvais, au jeu en tant que PNJ que l'on peut recruter. On le trouve dans les ruines du temple, dans les collines d'Umar. Je vous recommande de vous y rendre avant de partir pour Spellhold ; ce n'est pas indispensable, mais vous passerez à côté de certaines choses si vous ne le faites pas... Si vous commencez par ToB, vous pouvez l'invoquer depuis l'Esprit du Destin, comme pour les autres PNJ. Il n'est pas un personnage avec lequel on peut avoir une relation amoureuse, mais il interagit avec le personnage principal et les autres membres du groupe, et vous pouvez le forcer à parler à la manière des packs de flirt FWP pour lui poser des questions. Il dispose d'un kit unique : « Shadovar Scout », qui lui permet notamment d'effectuer des attaques sournoises ; il a accès à des sorts de mage au lieu des sorts de rôdeur.|FOR 15, DEX 16, CON 14, INT 17, SAG 10, CHA 13."
         },
         "notes": [],
@@ -28868,9 +28866,9 @@
     },
     {
         "id": 2034,
-        "description": "",
+        "description": "这个宗派包添加了3个宗派：|暴徒：战士/盗贼。暴徒使用其蛮力在想要的时候夺取想要的东西。他是一个恶毒的无赖和杀人犯。|雇佣兵：可雇佣的职业士兵。雇佣兵是一个反叛的士兵，擅长所有形式的战斗。他准备为任何游击组织服务，或者为任何出价合适的个人服务。|割喉者：这是最狡猾、最无情的盗贼。他精通匕首和短剑的使用，其背刺的掌握程度仅次于刺客。和刺客一样快速而狡猾，但武器选择非常有限。和无赖一样无情且好杀，但他更倾向于不诉诸蛮力也不参与正面冲突。割喉者会在敌人最意想不到的时候将其消灭。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce kitpack ajoute 3 kits :|Thug : Combattant voleur. Le Thug utilise sa force brute pour prendre ce qu'il veut quand il le veut. C'est un voyou vicieux et un meurtrier.|Mercenaire : Soldat professionnel à louer. Le Mercenaire est un soldat rebelle, doué dans toutes les formes de combat. Il est prêt à servir dans n'importe quelle organisation de guérilla, ou pour n'importe quel particulier si le prix est correct.|Cutthroat : C'est le voleur le plus rusé et le plus impitoyable. Il est passé maître dans le maniement de la dague et de l'épée courte, et sa maîtrise de l'attaque sournoise n'est surpassée que par celle de l'assassin. Aussi rapide et rusé qu'un assassin, mais très limité dans son choix d'armes. Aussi impitoyable et meurtrier qu'un voyou, mais il préfère ne pas recourir à la force brute ni s'engager dans des affrontements en face à face. Le Cutthroat éliminera un ennemi au moment où celui-ci s'y attend le moins"
         },
         "notes": [],
@@ -28881,14 +28879,16 @@
     },
     {
         "id": 2035,
-        "description": "",
+        "description": "闪光弹会致盲并麻痹半径12米内的所有目标。灵感源自《反恐精英》中的闪光弹。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "La grenade aveuglante éblouit et paralyse tout ce qui se trouve dans un rayon de 12 mètres. Inspirée de la grenade aveuglante de Counter-Strike."
         },
-        "notes": [],
+        "notes": [
+			"它们需要通过控制台创建：`flashfla`。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Elles sont à créer à la console : `flashfla`."
             ]
@@ -28896,14 +28896,16 @@
     },
     {
         "id": 2036,
-        "description": "",
+        "description": "[[226]] 的一个独立任务。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Une quête de [[226]] en stand-alone."
         },
-        "notes": [],
+        "notes": [
+			"版权问题"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Copyright issue"
             ]
@@ -28911,14 +28913,16 @@
     },
     {
         "id": 2037,
-        "description": "",
+        "description": "[[226]] 的一个独立任务。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Une quête de [[226]] en stand-alone."
         },
-        "notes": [],
+        "notes": [
+			"版权问题"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Copyright issue"
             ]
@@ -28926,14 +28930,16 @@
     },
     {
         "id": 2038,
-        "description": "",
+        "description": "[[226]] 的一个独立任务。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Une quête de [[226]] en stand-alone."
         },
-        "notes": [],
+        "notes": [
+			"版权问题"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Copyright issue"
             ]
@@ -28941,14 +28947,16 @@
     },
     {
         "id": 2039,
-        "description": "",
+        "description": "[[226]] 的一个独立任务。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Une quête de [[226]] en stand-alone."
         },
-        "notes": [],
+        "notes": [
+			"版权问题"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Copyright issue"
             ]
@@ -28956,14 +28964,16 @@
     },
     {
         "id": 2040,
-        "description": "",
+        "description": "[[226]] 的一个独立任务。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Une quête de [[226]] en stand-alone."
         },
-        "notes": [],
+        "notes": [
+			"版权问题"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Copyright issue"
             ]
@@ -28971,14 +28981,16 @@
     },
     {
         "id": 2041,
-        "description": "",
+        "description": "这个模组将原本由摩邓肯之剑法术召唤出的魔剑，转变为一把名为“混沌之刃”的极其强大的魔剑。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod transforme l'épée magique qui est normalement invoquée par le sort Épée de Mordenkainen en une épée magique extrêmement puissante appelée « Chaos Blade »."
         },
-        "notes": [],
+        "notes": [
+			"覆盖 SWORD01.cre。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Écrase SWORD01.cre"
             ]
@@ -28986,9 +28998,9 @@
     },
     {
         "id": 2042,
-        "description": "",
+        "description": "这个模组为戴娜黑、贾希拉、维康妮亚和莎法娜提供了替代肖像。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose des portraits alternatifs pour Dynaheir, Jaheira, Viconia, et Safana."
         },
         "notes": [],
@@ -28999,9 +29011,9 @@
     },
     {
         "id": 2043,
-        "description": "",
+        "description": "这个模组提供了影贼奥尔德（Alred），他会向您出售4件新物品。他位于阿斯卡特拉。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose Alred, le voleur de l'ombre, qui vous vendra 4 nouveaux objets. Il se trouve à Athkatla."
         },
         "notes": [],
@@ -29012,9 +29024,9 @@
     },
     {
         "id": 2044,
-        "description": "",
+        "description": "这个模组添加了奎尔（Quel），一个在渥金商场出售原创魔法小器具的侏儒商人。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute Quel, un marchand gnome qui vend des gadgets magiques originaux dans la Promenade de Waukyne."
         },
         "notes": [],
@@ -29025,14 +29037,16 @@
     },
     {
         "id": 2045,
-        "description": "",
+        "description": "[[811]] 的罗克珊版本。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Version Roxanne de [[811]]."
         },
-        "notes": [],
+        "notes": [
+			"版权问题"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Copyright issue"
             ]
@@ -29043,9 +29057,9 @@
         "team": [
             "Scarecrow"
         ],
-        "description": "",
+        "description": "欢迎来到水墨画廊：阿斯卡特拉的一家新店，一个充满奇书的地方。阅读这些书籍，让它们将你带入史诗般的战斗和生死搏杀之中。哪怕只是片刻，成为这些书中的英雄或女英雄，挑战强大的敌人。考验你的勇气，学习如何变得比你以往更加强大。然而，请记住，这是有代价的。|你可以在六人议会大楼后面找到水墨画廊；既可以通过内部的走廊进入，也可以从外部，通过位于该区域最近开放部分正下方的有盖通道进入。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Bienvenue à The Ink Gallery : un nouvel établissement d'Athkatla, un lieu regorgeant de livres merveilleux. Lisez les ouvrages et laissez-les vous plonger dans des batailles épiques et des combats mortels. Devenez le héros ou l'héroïne de ces livres, ne serait-ce que l'espace d'un instant, et affrontez de puissants ennemis. Mettez votre courage à l'épreuve et apprenez à devenir encore plus fort que vous ne l'êtes déjà. N'oubliez pas, cependant, qu'il y a un prix à payer.|Vous trouverez The Ink Gallery derrière le bâtiment du Conseil des Six ; on y accède soit par les couloirs intérieurs, soit depuis l'extérieur, par la passerelle couverte située juste en dessous de la partie récemment ouverte du quartier."
         },
         "notes": [],
