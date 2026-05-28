@@ -101,7 +101,7 @@ def main(**kwargs):
             urls |= set(mod.urls)
 
         last_added_mods = ModManager.get_last_added_mods(mods, nb=20)
-        last_updated_mods = ModManager.get_last_updated_mods(mods, nb=20)
+        last_updated_mods = ModManager.get_last_updated_mods(mods, nb=30)
         without_author_mods = ModManager.get_without_author_mods(mods)
         without_tp2_mods = ModManager.get_without_tp2_mods(mods)
         missing_mods = ModManager.get_missing_mods(mods)
