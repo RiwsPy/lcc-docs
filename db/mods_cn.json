@@ -429,6 +429,9 @@
     },
     {
         "id": 29,
+        "team": [
+            "Lewis Liu"
+        ],
         "description": "阿拉巴斯特沙地是《阿斯卡特拉大地》系列的一个小型任务模组，为安姆阴影的主城添加了新区域和任务。有一个主要任务，还有几个较小的任务，都围绕着标题区域展开，那不过是阿斯卡特拉的公共海滩。所以，去那里吧，帮助你在那里遇到的人，发现这座货币之城的新部分。|该模组添加了7个新任务，引入了新角色、物品和物品图形。",
         "description_meta": {
             "status": "done",
@@ -8066,22 +8069,18 @@
             "status": "done",
             "source": "Ce mod rééquilibre les objets de différentes façons, et vous pouvez choisir de les installer ou non parmi une 20aine de composants. Attention, ce n'est pas noté dans le readme, mais le composant principal rend indisponible ou modifie l'emplacement de certains objets."
         },
-        "notes": [
-            "subtledoctor的版本比G3的（版本）更新。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "La version de subtledoctor est plus à jour que celle de G3."
-            ]
+            "source": []
         }
     },
     {
         "id": 563,
-        "description": "这个模组为[[562]]提供了修复或修改。你可以在[这里](https://www.gibberlings3.net/forums/topic/28894-ir-revised-v13800-2022-january-11th/) 找到列表。",
+        "description": "这个模组为[[562]]提供了修复或修改。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod apporte des corrections ou des modifications à [[562]]. Vous en trouverez la liste [ici](https://www.gibberlings3.net/forums/topic/28894-ir-revised-v13800-2022-january-11th/)."
+            "source": "Ce mod apporte des corrections ou des modifications à [[562]]."
         },
         "notes": [
             "将其解压覆盖在 [[562]] 上。更准确地说，IRR 的 item_rev 文件夹必须覆盖普通的 item_rev 文件夹 - 确认覆盖它提示您覆盖的文件夹及其中的所有文件。检查您 item_rev 目录下的 settings.ini 文件以自定义安装。然后正常安装该模组。"
@@ -11125,6 +11124,9 @@
     },
     {
         "id": 777,
+        "team": [
+            "Yoshimo0417"
+        ],
         "description": "此模组在阿斯卡特拉的下水道中添加了一个新区域：花瓶沙龙。您现在可以使用贫民区中最初无法使用的格栅，进入一个被锁定的下水道部分，并探索其中最黑暗的角落。该模组提供了三个新区域，以及一些小型任务、新物品和新图形。召集您的团队，前往花瓶沙龙，一个对大多数人来说无法进入、但对像您这样的巴尔之子来说却可以进入的特殊场所，那里有特殊的商品。|要体验这些内容，您必须先完成大桥区的一个主要任务。",
         "description_meta": {
             "status": "done",
@@ -14540,6 +14542,10 @@
     },
     {
         "id": 1011,
+        "team": [
+            "c4_angel",
+            "Lewis Liu"
+        ],
         "description": "这个模组通过使对手更聪明来增加游戏中的许多难度，无论是章节末尾的Boss还是普通的小怪，特别是通过群体智能的管理。它还修改了某些法术的行为，并包含一些外观或便利性上的调整。这个模组确实让游戏变得更难，所以请做好准备……它的许多组件都是可选的。",
         "description_meta": {
             "status": "done",
@@ -16468,8 +16474,8 @@
             "source": "Uldar est un barbare demi-orque qui peut rejoindre votre groupe. On le trouve à la Couronne de Cuivre. Dans ToB, on peut l'invoquer dans l'antichambre. Le mod n'a aucune romance, mais fournit beaucoup de dialogues et d'interactions, presque toujours avec plusieurs options de réponse."
         },
         "notes": [
-			"有一个非官方的增强版移植版本，带有英文版，[在此处](https://github.com/PaulaMigrate/Uldar)。"
-		],
+            "有一个非官方的增强版移植版本，带有英文版，[在此处](https://github.com/PaulaMigrate/Uldar)。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -18554,14 +18560,10 @@
             "status": "done",
             "source": "Parfois appelé Weimer's Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité...|À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent).|FOR 18/21, DEX 18, CON 10, INT 18, SAG 10, CHA 16."
         },
-        "notes": [
-            "请选择GitHub链接获取增强版（未翻译）的版本，另一个链接用于获取原版。增强版非官方版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Choisissez le lien github pour la version EE (non traduite) et l'autre lien pour les versions originelles. La version EE n'est pas officielle."
-            ]
+            "source": []
         }
     },
     {
@@ -28617,8 +28619,8 @@
             "source": "Ce mod ajoute une copie de la classe de base « Druide » sous la forme d'un nouveau kit de Clerc, afin de permettre au joueur d'opter pour une double classe entre Druide et Mage ou autre. Il intègre également des scripts de joueur, à l'instar du mod [[722]], qui permettent aux joueurs de choisir le Druide comme option pour leurs multiclasses de Clerc. Les doubles et multiclasses de Guerrier font exception : le joueur doit utiliser les versions d'origine de ces classes à la place."
         },
         "notes": [
-			"对于增强版（EE），请选择 [[396]] 或 [[1338]]。"
-		],
+            "对于增强版（EE），请选择 [[396]] 或 [[1338]]。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28725,8 +28727,8 @@
             "source": "Une quête de [[226]] en stand-alone."
         },
         "notes": [
-			"版权问题"
-		],
+            "版权问题"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28885,8 +28887,8 @@
             "source": "La grenade aveuglante éblouit et paralyse tout ce qui se trouve dans un rayon de 12 mètres. Inspirée de la grenade aveuglante de Counter-Strike."
         },
         "notes": [
-			"它们需要通过控制台创建：`flashfla`。"
-		],
+            "它们需要通过控制台创建：`flashfla`。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28902,8 +28904,8 @@
             "source": "Une quête de [[226]] en stand-alone."
         },
         "notes": [
-			"版权问题"
-		],
+            "版权问题"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28919,8 +28921,8 @@
             "source": "Une quête de [[226]] en stand-alone."
         },
         "notes": [
-			"版权问题"
-		],
+            "版权问题"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28936,8 +28938,8 @@
             "source": "Une quête de [[226]] en stand-alone."
         },
         "notes": [
-			"版权问题"
-		],
+            "版权问题"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28953,8 +28955,8 @@
             "source": "Une quête de [[226]] en stand-alone."
         },
         "notes": [
-			"版权问题"
-		],
+            "版权问题"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28970,8 +28972,8 @@
             "source": "Une quête de [[226]] en stand-alone."
         },
         "notes": [
-			"版权问题"
-		],
+            "版权问题"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -28987,8 +28989,8 @@
             "source": "Ce mod transforme l'épée magique qui est normalement invoquée par le sort Épée de Mordenkainen en une épée magique extrêmement puissante appelée « Chaos Blade »."
         },
         "notes": [
-			"覆盖 SWORD01.cre。"
-		],
+            "覆盖 SWORD01.cre。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -29043,8 +29045,8 @@
             "source": "Version Roxanne de [[811]]."
         },
         "notes": [
-			"版权问题"
-		],
+            "版权问题"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -29073,7 +29075,7 @@
         "description": "这个模组修改了用户界面，以便在物品描述中显示图片，就像《博德之门》系列那样。现有物品的插图由 Parys 制作，一些来自《博德之门》/《博德之门II》的图片被保留下来，用于在不同游戏中相同的物品。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod modifie l'interface utilisateur afin d'afficher des images dans la description des objets, à l'instar de la série BG. Les illustrations des objets existants ont été réalisées par Parys, quelques images provenant de BG/BG2 ayant été récupérées pour les objets identiques dans les différents jeux."
+            "source": "Ce mod modifie l'interface utilisateur afin d'afficher des images dans la description des objets, à l'instar de la série BG. Les illustrations des objets existants ont été réalisées par Parys, quelques images provenant de BG/BG2 ayant été récupérées pour les objets communs aux différents jeux."
         },
         "notes": [],
         "notes_meta": {

@@ -1025,12 +1025,14 @@
             "pl",
             "ru",
             "fr",
-            "cn"
+            "cn",
+            "it",
+            "es"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-01",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "AlabasterSands"
     },
@@ -3138,7 +3140,8 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Aeviannce"
@@ -3148,12 +3151,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "fr"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2022-07",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "A4Auror"
     },
@@ -7190,7 +7194,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "AutoLoot"
     },
@@ -13879,12 +13883,13 @@
             "en",
             "ru",
             "cn",
-            "es"
+            "es",
+            "pl"
         ],
         "status": [
             "archived"
         ],
-        "last_update": "2024-03",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "ExtraExpandedEnhancedEncounters"
     },
@@ -19871,8 +19876,7 @@
         "description": "Ce mod rééquilibre les objets de différentes façons, et vous pouvez choisir de les installer ou non parmi une 20aine de composants. Attention, ce n'est pas noté dans le readme, mais le composant principal rend indisponible ou modifie l'emplacement de certains objets.",
         "urls": [
             "https://www.gibberlings3.net/files/file/969-item-revisions/",
-            "https://github.com/Gibberlings3/ItemRevisions/",
-            "https://github.com/subtledoctor/ItemRevisions/"
+            "https://github.com/Gibberlings3/ItemRevisions/"
         ],
         "categories": [
             "Sort et objet"
@@ -19891,9 +19895,7 @@
             "Ardanis"
         ],
         "team": [],
-        "notes": [
-            "La version de subtledoctor est plus à jour que celle de G3."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -19915,20 +19917,23 @@
     {
         "id": 563,
         "name": "Item Revisions Revised",
-        "description": "Ce mod apporte des corrections ou des modifications à [[562]]. Vous en trouverez la liste [ici](https://www.gibberlings3.net/forums/topic/28894-ir-revised-v13800-2022-january-11th/).",
+        "description": "Ce mod apporte des corrections ou des modifications à [[562]].",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/28894-ir-revised-v13800-2022-january-11th/",
             "https://github.com/BartyMae/IR_Revised"
         ],
         "categories": [
             "Sort et objet"
         ],
         "games": [
+            "BG",
             "BG2",
             "Tutu",
             "BGT",
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Bartimaeus"
@@ -21217,7 +21222,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-10",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "KhalidBG2"
     },
@@ -21550,7 +21555,9 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Rastor"
@@ -22224,7 +22231,11 @@
             "stable"
         ],
         "last_update": "2022-12",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "Lena"
     },
     {
@@ -27356,12 +27367,13 @@
             "ru",
             "fr",
             "kr",
-            "it"
+            "it",
+            "es"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-01",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "ooze"
     },
@@ -34495,10 +34507,13 @@
             "Kit"
         ],
         "games": [
+            "Tutu",
             "BG2",
             "BGT",
+            "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Andyr",
@@ -40322,7 +40337,7 @@
             "https://github.com/Pocket-Plane-Group/Turnabout"
         ],
         "categories": [
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -45837,25 +45852,20 @@
         "name": "Solaufein NPC",
         "description": "Parfois appelé Weimer's Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité...|À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent).|FOR 18/21, DEX 18, CON 10, INT 18, SAG 10, CHA 16.",
         "urls": [
-            "https://weidu.org/",
-            "https://github.com/RoxanneSHS/Solaufein"
+            "https://weidu.org/main.html"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
             "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Wes Weimer"
         ],
         "team": [],
-        "notes": [
-            "Choisissez le lien github pour la version EE (non traduite) et l'autre lien pour les versions originelles. La version EE n'est pas officielle."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -45868,7 +45878,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-12",
+        "last_update": "2009-08",
         "compatibilities": {},
         "tp2": "Solaufein"
     },
@@ -48089,6 +48099,8 @@
             "Quête"
         ],
         "games": [
+            "BG2",
+            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -48110,6 +48122,9 @@
             "conflicts": [
                 226,
                 1032
+            ],
+            "requires": [
+                "ToB"
             ]
         },
         "tp2": "DeadGardens"
@@ -48191,7 +48206,10 @@
             "Quête"
         ],
         "games": [
-            "BG2EE"
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Glittergear"
@@ -48207,7 +48225,11 @@
             "stable"
         ],
         "last_update": "2024-02",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "FowlWish"
     },
     {
@@ -48222,7 +48244,9 @@
             "Quête"
         ],
         "games": [
-            "BG2EE"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Glittergear"
@@ -48655,7 +48679,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-02",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "lca"
     },
@@ -49199,8 +49223,7 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "IWDEE",
-            "PSTEE"
+            "IWDEE"
         ],
         "authors": [
             "tunbridgep"
@@ -49920,7 +49943,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-07",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "c7-fixpack"
     },
@@ -55638,6 +55661,9 @@
         ],
         "games": [
             "BG",
+            "Tutu",
+            "BGEE",
+            "BGT",
             "BG2",
             "BG2EE",
             "EET"
@@ -56172,6 +56198,8 @@
             "Kit"
         ],
         "games": [
+            "BG2",
+            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -56207,6 +56235,7 @@
                 736
             ],
             "requires": [
+                "ToB",
                 146,
                 1062
             ]
@@ -60648,12 +60677,12 @@
             "Pensez à bien prendre les fichiers correspondant à votre jeu : BGEE ou EET. De plus sur BGEE il y a une manipulation à faire, lisez la présentation du mod."
         ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "stable"
+            "missing"
         ],
         "last_update": "2021-04",
         "compatibilities": {},
@@ -60714,12 +60743,12 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "stable"
+            "missing"
         ],
         "last_update": "2020-06",
         "compatibilities": {},
@@ -62143,8 +62172,7 @@
         "name": "Edwina Dialogue Tweaks",
         "description": "Ce mod modifie quatre des options de dialogue de CHARNAME avec Edwina afin de les rendre un peu plus respectueuses.",
         "urls": [
-            "https://america.iegmc.com/bucketfulofsunshine/Edwina-Dialogue-Tweaks.zip",
-            "https://github.com/bucketfulofsunshine/Edwina-Dialogue-Tweaks/"
+            "https://america.iegmc.com/bucketfulofsunshine/Edwina-Dialogue-Tweaks.zip"
         ],
         "categories": [
             "PNJ (autre)"
@@ -62814,7 +62842,7 @@
         "status": [
             "embed"
         ],
-        "last_update": "2016-10",
+        "last_update": "2016-04",
         "compatibilities": {},
         "tp2": "TransparentSidebars"
     },
@@ -63652,7 +63680,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-03",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "dw_iwdspells"
     },
@@ -63888,7 +63916,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04",
+        "last_update": "2026-05",
         "compatibilities": {},
         "tp2": "jarnip"
     },
@@ -65524,7 +65552,9 @@
         "languages": [
             "en",
             "de",
-            "fr"
+            "fr",
+            "cn",
+            "pl"
         ],
         "status": [
             "stable"
@@ -66983,7 +67013,13 @@
             "Utilitaire"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BG2EE",
+            "BGEE",
+            "BGT",
+            "EET",
+            "IWDEE",
+            "Tutu"
         ],
         "authors": [
             "CamDawg"
@@ -66996,7 +67032,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2006-01",
+        "last_update": "2017-11",
         "compatibilities": {},
         "tp2": "BG2_Creature_Inventory_Checker"
     },

@@ -7972,22 +7972,18 @@
             "status": "needs_review",
             "source": "Ce mod rééquilibre les objets de différentes façons, et vous pouvez choisir de les installer ou non parmi une 20aine de composants. Attention, ce n'est pas noté dans le readme, mais le composant principal rend indisponible ou modifie l'emplacement de certains objets."
         },
-        "notes": [
-            "The subtledoctor version is more up-to-date than the G3 version."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "La version de subtledoctor est plus à jour que celle de G3."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
         "id": 563,
-        "description": "This mod brings fixes or modifications to [[562]]. You'll find the list [here](https://www.gibberlings3.net/forums/topic/28894-ir-revised-v13800-2022-january-11th/).",
+        "description": "This mod brings fixes or modifications to [[562]].",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod apporte des corrections ou des modifications à [[562]]. Vous en trouverez la liste [ici](https://www.gibberlings3.net/forums/topic/28894-ir-revised-v13800-2022-january-11th/)."
+            "source": "Ce mod apporte des corrections ou des modifications à [[562]]."
         },
         "notes": [
             "Extract it over [[562]]. Specifically, the IRR item_rev folder should overwrite the normal item_rev folder - confirm to overwrite the folders and any files it requests. Check the settings.ini file in your item_rev directory to customize the installation. Then install the mod as normal."
@@ -18369,14 +18365,10 @@
             "status": "needs_review",
             "source": "Parfois appelé Weimer's Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité...|À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent).|FOR 18/21, DEX 18, CON 10, INT 18, SAG 10, CHA 16."
         },
-        "notes": [
-            "Choose the github link for the EE version (untranslated) and the other link for the original versions. The EE version is not official."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Choisissez le lien github pour la version EE (non traduite) et l'autre lien pour les versions originelles. La version EE n'est pas officielle."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
