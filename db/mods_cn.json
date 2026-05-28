@@ -155,10 +155,10 @@
     },
     {
         "id": 11,
-        "description": "此模组已过时。此外，它还是一个override模组，请优先选择[[1141]]中的组件“所有人都获得专精的每轮攻击加成”。",
+        "description": "由于这是一个覆盖型模组，建议优先使用[[1141]]中的组件“所有人都获得武器专精的每轮攻击加值”。",
         "description_meta": {
             "status": "done",
-            "source": "由于这是一个覆盖型模组，建议优先使用[[1141]]中的组件“所有人都获得武器专精的每轮攻击加值”。"
+            "source": "Comme il s'agit d'un mod override, préférez-lui le composant `Tout le monde obtient le bonus d'attaque par round de spécialisation` de [[1141]]."
         },
         "notes": [],
         "notes_meta": {
@@ -29070,9 +29070,9 @@
     },
     {
         "id": 2047,
-        "description": "",
+        "description": "这个模组修改了用户界面，以便在物品描述中显示图片，就像《博德之门》系列那样。现有物品的插图由 Parys 制作，一些来自《博德之门》/《博德之门II》的图片被保留下来，用于在不同游戏中相同的物品。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod modifie l'interface utilisateur afin d'afficher des images dans la description des objets, à l'instar de la série BG. Les illustrations des objets existants ont été réalisées par Parys, quelques images provenant de BG/BG2 ayant été récupérées pour les objets identiques dans les différents jeux."
         },
         "notes": [],
