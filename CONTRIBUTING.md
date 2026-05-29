@@ -216,7 +216,7 @@ Quelques exemples :
 
 
 ## last_update
-Cette date au format `YYYY-MM` (ou `%Y-%m`) contient la date de la dernière mise à jour du mod.\
+Cette date au format `YYYY-MM-DD` (ou `%Y-%m-%d`) contient la date de la dernière mise à jour du mod.\
 La date doit être comprise entre le 1er Janvier 1999 et la date d'aujourd'hui.
 
 

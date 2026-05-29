@@ -169,7 +169,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - `"beta"` : le mod est sorti mais pas encore stable
  - `"hidden"` : le mod ne s'affiche pas dans la liste
 
-`last_update` : date connue de la dernière mise à jour du mod, champ automatique, format `YYYY-MM`
+`last_update` : date connue de la dernière mise à jour du mod, champ automatique, format `YYYY-MM-DD`
 
 `tp2` : nom du fichier tp2 du mod. Valeurs possibles :
  - `"nom du tp2"` : le vrai nom du tp2 (sans le setup-)

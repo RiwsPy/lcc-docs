@@ -19,7 +19,7 @@ from settings import (
 link_regex = re.compile(r"\[\[[^].]+\]\]")
 external_link_regex = re.compile(r"\[(?P<name>[^\]]+)\]\((?P<url>[^)]+)\)")
 quote_regex = re.compile(r"`[^`]+`")
-YearMonthFormat = Annotated[str, StringConstraints(pattern=r"^(\d{4}-\d{2})?$")]
+DateFormat = Annotated[str, StringConstraints(pattern=r"^(\d{4}-\d{2}-\d{2})?$")]
 
 
 class ModStatus(enum.StrEnum):
@@ -61,7 +61,7 @@ class Mod:
     languages: list[str]
     authors: list[str]
     status: set[ModStatus]
-    last_update: YearMonthFormat
+    last_update: DateFormat
     tp2: str
     compatibilities: dict[Literal["requires", "conflicts"], list[int | str]]
     embedded_in: PositiveInt | None = None
@@ -70,7 +70,7 @@ class Mod:
     urls_extra: list[HttpUrl] | None = None
     notes_extra: list[str] | None = None
 
-    last_update_date_format = "%Y-%m"
+    last_update_date_format = "%Y-%m-%d"
 
     @field_validator("last_update")
     def check_last_update(cls, v):
@@ -83,7 +83,7 @@ class Mod:
             raise e
 
         current_date = datetime.now().strftime(cls.last_update_date_format)
-        if "1999-01" <= v <= current_date:
+        if "1999-01-01" <= v <= current_date:
             return v
         raise ValueError(f"Date not possible, must be between 1999-01 and {current_date}")
 
@@ -194,8 +194,11 @@ class Mod:
             self.last_update
             and self.is_EE
             and (
-                self.last_update < "2016-04"
-                or (self.last_update < "2021-04" and CategoryEnum.INTERFACE in self.categories)
+                self.last_update < "2016-04-01"
+                or (
+                    self.last_update < "2021-04-01"
+                    and CategoryEnum.INTERFACE in self.categories
+                )
             )
         )
 
