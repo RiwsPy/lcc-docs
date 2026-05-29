@@ -321,7 +321,8 @@
         "id": 79
     },
     {
-        "id": 80
+        "id": 80,
+        "name": "Au bonheur du tireur"
     },
     {
         "id": 81
@@ -2390,7 +2391,7 @@
         "notes_extra": [
             "La version française est disponible via le dernier lien."
         ],
-        "last_update": "2024-12"
+        "last_update": "2024-12-01"
     },
     {
         "id": 597,
@@ -2472,7 +2473,8 @@
         "id": 616
     },
     {
-        "id": 617
+        "id": 617,
+        "name": "L'ogre et le gnome, une histoire de Bleu"
     },
     {
         "id": 618
@@ -5060,7 +5062,7 @@
             "Deratiseur"
         ],
         "translation_state": "yes",
-        "last_update": "2025-06",
+        "last_update": "2025-06-01",
         "urls_extra": [
             "https://github.com/Plutonium-X/FORK__Passive-Warrior-HLAs/"
         ],
