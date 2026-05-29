@@ -155,7 +155,7 @@ class TestModCleaner:
 
     def test_clean_last_update(self):
         data = {"last_update": datetime(2042, 12, 1)}
-        expected_value = "2042-12"
+        expected_value = "2042-12-01"
 
         assert ModCleaner(data).clean_last_update() == expected_value
 
