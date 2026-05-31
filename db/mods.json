@@ -4933,6 +4933,7 @@
             "Gameplay"
         ],
         "games": [
+            "BG2",
             "BGT"
         ],
         "authors": [
@@ -25750,7 +25751,8 @@
             "Portrait et son"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BGT"
         ],
         "authors": [
             "SConrad",
@@ -27689,35 +27691,6 @@
         "last_update": "2010-03-30",
         "compatibilities": {},
         "tp2": "p5tweaks"
-    },
-    {
-        "id": 787,
-        "name": "PC Soundsets",
-        "description": "Ce mod ajoute 30 nouveaux jeux de sons pour personnages.",
-        "urls": [
-            "https://www.shsforums.net/files/file/562-pc-soundsets/"
-        ],
-        "categories": [
-            "Portrait et son"
-        ],
-        "games": [
-            "BG2",
-            "BGT"
-        ],
-        "authors": [
-            "SConrad"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "n/a",
-        "safe": 1,
-        "languages": [],
-        "status": [
-            "stable"
-        ],
-        "last_update": "2009-01-19",
-        "compatibilities": {},
-        "tp2": "non-weidu"
     },
     {
         "id": 788,
@@ -29701,7 +29674,7 @@
     {
         "id": 843,
         "name": "Quallo",
-        "description": "Ce très vieux mini mod vous permettra de récupérer \"le sang d'un vieil ami\" d'une manière plus pacifique.",
+        "description": "Ce mini mod vous permettra de récupérer `le sang d'un vieil ami` d'une manière plus pacifique.",
         "urls": [
             "https://www.shsforums.net/files/file/849-quallo114rar/",
             "https://www.shsforums.net/topic/61181-quallo-translation/#entry612663"
@@ -30237,7 +30210,7 @@
     {
         "id": 858,
         "name": "Recargador",
-        "description": "Votre visite de la Promenade de Waukyne ne serait pas complète sans rencontrer Victor Cacgomval, un mage clerc capable de recharger des objets magiques avant qu'ils ne soient réduits en poussière, comme il est possible de faire dans les manuels P&P. ",
+        "description": "Votre visite de la Promenade de Waukyne ne serait pas complète sans rencontrer Victor Cacgomval, un mage clerc capable de recharger des objets magiques avant qu'ils ne soient réduits en poussière, comme il est possible de faire dans les manuels P&P.",
         "urls": [
             "https://www.shsforums.net/files/file/847-recargador-v23/"
         ],
@@ -31555,7 +31528,7 @@
         "description": "Ce mod modifie le gameplay pour Baldur's Gate 2: Throne of Bhaal et s'efforce de rapprocher les classes de roublard (bardes et voleurs) et leurs profils respectifs de leurs homologues P&P d'AD&D. Il comprend plusieurs composants qui peuvent tous être installés séparément et sont complètement indépendants les uns des autres.|RR met à jour les compétences de combat à deux armes des voleurs et des bardes, révise/améliore leurs profils, révise leurs capacités de haut niveau, restaure les ajustements raciaux appropriés pour les capacités de voleur, ainsi que la table de progression des sorts PnP propre aux bardes.|Il empêche les effets des potions de voleur de se cumuler avec la possibilité de les remplacer par des potions de la version papier.|Il rend également beaucoup plus difficile l'affrontement avec la guilde des Voleurs de l'Ombre dans le chapitre 3.|Il ajoute enfin des objets supplémentaires pour les voleurs et les bardes (dans la guilde des voleurs) ainsi qu'une rencontre avec des fidèles de Cyric dans le chapitre 6.",
         "urls": [
             "https://www.shsforums.net/files/file/320-rogue-rebalancing-windows-version/",
-            "https://github.com/FredrikLindgren/rr/"
+            "https://github.com/Spellhold-Studios/Rogue-Rebalancing"
         ],
         "categories": [
             "Gameplay"
@@ -31592,7 +31565,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2018-05-19",
+        "last_update": "2025-10-06",
         "compatibilities": {
             "conflicts": [
                 687
@@ -32726,6 +32699,7 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "BG2",
             "BGT",
             "BG2EE",
@@ -52763,7 +52737,8 @@
             "PNJ (autre)"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BGT"
         ],
         "authors": [
             "the bigg"
@@ -53460,6 +53435,7 @@
         "games": [
             "BG",
             "BG2",
+            "BGT",
             "IWD",
             "IWD2"
         ],
@@ -65465,7 +65441,8 @@
             "Portrait et son"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BGT"
         ],
         "authors": [
             "Xyx"
@@ -65496,7 +65473,8 @@
             "Portrait et son"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BGT"
         ],
         "authors": [
             "Xyx"
@@ -65517,9 +65495,10 @@
     },
     {
         "id": 1887,
-        "name": "PC soundset",
+        "name": "PC soundsets",
         "description": "Ce mod ajoute 30 ensembles de sons entièrement nouveaux et originaux au jeu, que vous pouvez utiliser sur votre PC. Les ensembles de sons ont tous été écrits et enregistrés par des membres de la communauté de modding.",
         "urls": [
+            "https://www.shsforums.net/files/file/562-pc-soundsets/",
             "https://www.shsforums.net/files/file/563-pc-soundsets-osxlinuxfull/",
             "https://github.com/Spellhold-Studios/PC-Soundsets/"
         ],
@@ -65528,7 +65507,8 @@
         ],
         "games": [
             "BG",
-            "BG2"
+            "BG2",
+            "BGT"
         ],
         "authors": [
             "Multiple"
@@ -70885,5 +70865,69 @@
         "last_update": "2026-05-29",
         "compatibilities": {},
         "tp2": "cd_iwd_desc"
+    },
+    {
+        "id": 2048,
+        "name": "BiG World Textpack German",
+        "description": "Ce pack de texte installe toutes les traductions disponibles de plusieurs dizaines de mods, qui ne sont pas incluses dans les mods, et effectue d'autres corrections de texte.",
+        "urls": [
+            "https://www.shsforums.net/files/file/522-big-world-textpack-german/",
+            "https://github.com/Spellhold-Studios/BiG-World-Textpack-German"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Leonardo Watson"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "de"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2023-12-25",
+        "compatibilities": {},
+        "tp2": "n/a"
+    },
+    {
+        "id": 2049,
+        "name": "BiG World Project",
+        "description": "Ce pack de correctifs installe les corrections de bogues de divers mods et résout d'autres problèmes de compatibilité.",
+        "urls": [
+            "https://www.shsforums.net/files/file/521-big-world-fixpack/",
+            "https://github.com/Spellhold-Studios/BiG-World-Fixpack"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Leonardo Watson"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2023-12-25",
+        "compatibilities": {},
+        "tp2": "n/a"
     }
 ]

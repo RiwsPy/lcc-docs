@@ -10802,19 +10802,6 @@
         }
     },
     {
-        "id": 787,
-        "description": "",
-        "description_meta": {
-            "status": "todo",
-            "source": "Ce mod ajoute 30 nouveaux jeux de sons pour personnages."
-        },
-        "notes": [],
-        "notes_meta": {
-            "status": "done",
-            "source": []
-        }
-    },
-    {
         "id": 788,
         "description": "",
         "description_meta": {
@@ -11578,7 +11565,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce très vieux mini mod vous permettra de récupérer \"le sang d'un vieil ami\" d'une manière plus pacifique."
+            "source": "Ce mini mod vous permettra de récupérer `le sang d'un vieil ami` d'une manière plus pacifique."
         },
         "notes": [],
         "notes_meta": {
@@ -11786,7 +11773,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Votre visite de la Promenade de Waukyne ne serait pas complète sans rencontrer Victor Cacgomval, un mage clerc capable de recharger des objets magiques avant qu'ils ne soient réduits en poussière, comme il est possible de faire dans les manuels P&P. "
+            "source": "Votre visite de la Promenade de Waukyne ne serait pas complète sans rencontrer Victor Cacgomval, un mage clerc capable de recharger des objets magiques avant qu'ils ne soient réduits en poussière, comme il est possible de faire dans les manuels P&P."
         },
         "notes": [],
         "notes_meta": {
@@ -27971,6 +27958,32 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod modifie l'interface utilisateur afin d'afficher des images dans la description des objets, à l'instar de la série BG. Les illustrations des objets existants ont été réalisées par Parys, quelques images provenant de BG/BG2 ayant été récupérées pour les objets communs aux différents jeux."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2048,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce pack de texte installe toutes les traductions disponibles de plusieurs dizaines de mods, qui ne sont pas incluses dans les mods, et effectue d'autres corrections de texte."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2049,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce pack de correctifs installe les corrections de bogues de divers mods et résout d'autres problèmes de compatibilité."
         },
         "notes": [],
         "notes_meta": {

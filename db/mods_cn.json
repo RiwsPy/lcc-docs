@@ -11267,19 +11267,6 @@
         }
     },
     {
-        "id": 787,
-        "description": "此模组为角色添加了30套新的声音包。",
-        "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute 30 nouveaux jeux de sons pour personnages."
-        },
-        "notes": [],
-        "notes_meta": {
-            "status": "done",
-            "source": []
-        }
-    },
-    {
         "id": 788,
         "description": "这些语音包可以让游戏完全以法语进行，而不会听到英语语音。声音档案需要从lang目录中提取，因为它们包含fr_FR文件夹。最好先安装翻译模组，尽管安装顺序并不重要。|由于游戏版本管理语音的方式，存在两个语音包：一个用于1.2、1.3、2.0、2.1、2.2和2.3版本；另一个用于2.5版本。",
         "description_meta": {
@@ -12075,8 +12062,8 @@
         "id": 843,
         "description": "这个非常古老的迷你模组将让您以一种更和平的方式获得“一位老朋友的血液”。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce très vieux mini mod vous permettra de récupérer \"le sang d'un vieil ami\" d'une manière plus pacifique."
+            "status": "needs_review",
+            "source": "Ce mini mod vous permettra de récupérer `le sang d'un vieil ami` d'une manière plus pacifique."
         },
         "notes": [
             "增强版版本以及法语翻译版可通过第二个链接获取。"
@@ -12294,7 +12281,7 @@
         "description": "如果没有遇到维克多·卡格瓦尔，你对渥金商场的访问就不算完整，他是一位法师牧师，能够在物品化为尘埃之前为其充能，就像在桌上角色扮演手册中可能做到的那样。",
         "description_meta": {
             "status": "done",
-            "source": "Votre visite de la Promenade de Waukyne ne serait pas complète sans rencontrer Victor Cacgomval, un mage clerc capable de recharger des objets magiques avant qu'ils ne soient réduits en poussière, comme il est possible de faire dans les manuels P&P. "
+            "source": "Votre visite de la Promenade de Waukyne ne serait pas complète sans rencontrer Victor Cacgomval, un mage clerc capable de recharger des objets magiques avant qu'ils ne soient réduits en poussière, comme il est possible de faire dans les manuels P&P."
         },
         "notes": [
             "注意：该模组因利用游戏引擎的一个漏洞而声名狼藉。向它出售魔杖，然后再买回或偷走它们来充能……"
@@ -29005,6 +28992,32 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod modifie l'interface utilisateur afin d'afficher des images dans la description des objets, à l'instar de la série BG. Les illustrations des objets existants ont été réalisées par Parys, quelques images provenant de BG/BG2 ayant été récupérées pour les objets communs aux différents jeux."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2048,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce pack de texte installe toutes les traductions disponibles de plusieurs dizaines de mods, qui ne sont pas incluses dans les mods, et effectue d'autres corrections de texte."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2049,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce pack de correctifs installe les corrections de bogues de divers mods et résout d'autres problèmes de compatibilité."
         },
         "notes": [],
         "notes_meta": {
