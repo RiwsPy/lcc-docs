@@ -146,6 +146,9 @@ def create_page_language(page_html: str, language: str) -> None:
         dir_path /= language
     dir_path.mkdir(parents=True, exist_ok=True)
 
-    logger.info("Generating index page for %s", language or "home")
-    with open(dir_path / "index.html", "w", encoding="utf-8") as f:
+    index_page = dir_path / "index.html"
+    logger.info(
+        f"Generating index page for {language or 'home'}: \x1b]8;;{index_page}\x1b\\{index_page}\x1b]8;;\x1b\\",
+    )
+    with open(index_page, "w", encoding="utf-8") as f:
         f.write(page_html)
