@@ -2171,15 +2171,14 @@
             "Drizzt1180"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a été converti en WeiDU et intégré dans [[977]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
             "embed"
         ],
+        "embedded_in": 977,
         "last_update": "2000-12-01",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -9424,9 +9423,7 @@
             "Creslyn"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a été converti en WeiDU et intégré dans [[977]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -9435,6 +9432,7 @@
         "status": [
             "embed"
         ],
+        "embedded_in": 977,
         "last_update": "2002-03-01",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -16913,7 +16911,11 @@
             "stable"
         ],
         "last_update": "2015-06-26",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "hellrec"
     },
     {
@@ -19989,7 +19991,7 @@
         "name": "Item Value Tweaks",
         "description": "Ce petit mod modifie la valeur de nombreux objets pour les rendre plus cohérents avec l'univers du jeu.",
         "urls": [
-            "https://github.com/11jo/Unarchived_Mods/blob/main/ItmValueTweaks.zip"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/ItmValueTweaks.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -20268,7 +20270,8 @@
         "name": "Jandor NPC",
         "description": "Ce mini mod ajoute un nouveau PNJ : un voleur humain chaotique neutre. Vous le trouverez dans la Guilde des Voleurs de l'ombre.|FOR 11, DEX 18, CON 12, INT 9, SAG 17, CHA 15.",
         "urls": [
-            "https://www.shsforums.net/files/file/802-jandor-npc/"
+            "https://www.shsforums.net/files/file/802-jandor-npc/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/JandorNPC_v2_.7z"
         ],
         "categories": [
             "PNJ One Day"
@@ -22334,7 +22337,7 @@
         "name": "Level 40 Rule Set in BG:EE",
         "description": "Ce mod vous permet d'atteindre le niveau 40 dans BG:EE. Une fois installé, vous devrez aussi installer le mod [[634]] qui restaure les capacités de haut niveau non présentes dans le jeu.",
         "urls": [
-            "https://github.com/11jo/Unarchived_Mods/blob/main/BG_EE_L40.rar"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/BG_EE_L40.rar"
         ],
         "categories": [
             "Gameplay"
@@ -22363,7 +22366,7 @@
         "name": "High Level Abilities",
         "description": "Ce mod vous permet de tirer pleinement partie du mod [[633]]. Il restaure les capacités de haut niveau non présentes dans le jeu.",
         "urls": [
-            "https://github.com/11jo/Unarchived_Mods/blob/main/BG_EE_HLAs106.rar"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/BG_EE_HLAs106.rar"
         ],
         "categories": [
             "Gameplay"
@@ -25994,15 +25997,17 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "pl"
         ],
         "status": [
-            "stable"
+            "archived",
+            "embed"
         ],
         "last_update": "2008-08-01",
         "compatibilities": {},
+        "embedded_in": 1667,
         "tp2": "Najebawszy"
     },
     {
@@ -29350,18 +29355,17 @@
             "Mr. Spells Madman"
         ],
         "team": [],
-        "notes": [
-            "Il est intégré dans [[847]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
             "embed"
         ],
-        "last_update": "2000-03-01",
+        "embedded_in": 847,
+        "last_update": "2000-03-15",
         "compatibilities": {},
-        "tp2": "n/a"
+        "tp2": "non-weidu"
     },
     {
         "id": 834,
@@ -34575,11 +34579,9 @@
             "Creslyn"
         ],
         "team": [],
-        "notes": [
-            "Attention : le kit `Archer of Sylvanus` semble poser de [nombreux problèmes](https://www.baldursgateworld.fr/viewtopic.php?t=17083) avec les classes et les autres profils."
-        ],
+        "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en",
             "cz",
@@ -34662,7 +34664,8 @@
             "fr"
         ],
         "status": [
-            "stable"
+            "stable",
+            "obsolete"
         ],
         "last_update": "2008-06-01",
         "compatibilities": {
@@ -34799,8 +34802,9 @@
     {
         "id": 983,
         "name": "Spell Revisions Revised",
-        "description": "Ce mod apporte des corrections ou des modifications à [[982]]. Vous en trouverez la liste [ici](https://www.gibberlings3.net/forums/topic/29618-sr-revised-v13700-2021-october-26th/).",
+        "description": "Ce mod apporte des corrections ou des modifications à [[982]].",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/29618-sr-revised-v13900-2022-august-8th/",
             "https://github.com/BartyMae/SR_Revised"
         ],
         "categories": [
@@ -34838,7 +34842,7 @@
     {
         "id": 984,
         "name": "Spell Weapons",
-        "description": "Aussi appelé \"Make the Zerth Blade Useful\", ce mod vous donne une fenêtre de 60 secondes après avoir déséquipé l'épée Lame Zerth, pour le ré-équiper sans perdre vos emplacements de sorts supplémentaires. Il fonctionne également sur les armes similaires dans IWD:EE, telles que les dagues de mage et les marteaux de guerre sanctifiés.|Comme il nécessite des fonctionnalités ajoutées dans le moteur EE dans le patch 1.4, il ne peut être utilisé qu'avec des jeux bénéficiant de ces patches, ou ultérieurs.",
+        "description": "Aussi appelé `Make the Zerth Blade Useful`, ce mod vous donne une fenêtre de 60 secondes après avoir déséquipé l'épée Lame Zerth, pour le ré-équiper sans perdre vos emplacements de sorts supplémentaires. Il fonctionne également sur les armes similaires dans IWD:EE, telles que les dagues de mage et les marteaux de guerre sanctifiés.",
         "urls": [
             "https://github.com/UnearthedArcana/spell_weapons"
         ],
@@ -34866,7 +34870,11 @@
             "missing"
         ],
         "last_update": "2017-08-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "v1.4+"
+            ]
+        },
         "tp2": "spell_weapons"
     },
     {
@@ -35969,15 +35977,14 @@
             "PolarBear"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a été converti en WeiDU et intégré dans [[977]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
             "embed"
         ],
+        "embedded_in": 977,
         "last_update": "2001-10-01",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -56142,7 +56149,7 @@
         "name": "Disc 255 Fix",
         "description": "Correctif pour les jeux Tutu qui sont confrontés à l'erreur `Insert Disk 255`.",
         "urls": [
-            "https://github.com/11jo/Unarchived_Mods/blob/main/Disc255_v2.zip"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/Disc255_v2.zip"
         ],
         "categories": [
             "Patch non officiel"
@@ -62721,15 +62728,14 @@
             "Mr2150"
         ],
         "team": [],
-        "notes": [
-            "Il existe une version directement intégrée dans [[347]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
             "embed"
         ],
+        "embedded_in": 347,
         "last_update": "2016-06-23",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -62752,15 +62758,14 @@
             "Adul"
         ],
         "team": [],
-        "notes": [
-            "Il existe une version directement intégrée dans [[347]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
             "embed"
         ],
+        "embedded_in": 347,
         "last_update": "2016-05-29",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -62784,15 +62789,14 @@
             "lefreut"
         ],
         "team": [],
-        "notes": [
-            "Il existe une version directement intégrée dans [[347]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
             "embed"
         ],
+        "embedded_in": 347,
         "last_update": "2016-09-01",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -62815,15 +62819,14 @@
             "elminster"
         ],
         "team": [],
-        "notes": [
-            "Il existe une version directement intégrée dans [[347]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
             "embed"
         ],
+        "embedded_in": 347,
         "last_update": "2017-03-03",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -62847,15 +62850,14 @@
             "AncientCowboy"
         ],
         "team": [],
-        "notes": [
-            "Il existe une version directement intégrée dans [[347]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
             "embed"
         ],
+        "embedded_in": 347,
         "last_update": "2016-04-01",
         "compatibilities": {},
         "tp2": "TransparentSidebars"
@@ -62920,9 +62922,7 @@
             "Bubb"
         ],
         "team": [],
-        "notes": [
-            "Ne fonctionne que pour le patch 2.6."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
@@ -62930,7 +62930,11 @@
             "stable"
         ],
         "last_update": "2019-12-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "EE version == 2.6"
+            ]
+        },
         "tp2": "bubb_disable_stoneskin_color"
     },
     {
@@ -63017,7 +63021,6 @@
         ],
         "team": [],
         "notes": [
-            "Incompatible avec ToB.",
             "La plupart des bugs ont été fixés par [[153]]."
         ],
         "translation_state": "auto",
@@ -63030,7 +63033,11 @@
             "obsolete"
         ],
         "last_update": "2002-06-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "conflicts": [
+                "ToB"
+            ]
+        },
         "tp2": "SPfixpackSoA"
     },
     {
@@ -63461,7 +63468,7 @@
         "name": "Vendedor DLAN",
         "description": "Ce mod ajoute le marchand Eman Rahc dans la promenade de Waukyne. Vous le retrouverez également à Saradush. Il vend de nombreux objets créés par le clan DLAN.",
         "urls": [
-            "https://github.com/The-Gate-Project/Clan_DLAN/tree/main/Clan_DLAN/Vendedor"
+            "https://github.com/The-Gate-Project/Clan_DLAN/raw/refs/heads/main/Clan_DLAN/Vendedor/VendedorDLAN_v6.1.7z"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -63550,7 +63557,7 @@
         "name": "Interactive Tweaks",
         "description": "Il s'agit d'un pack de tweaks qui s'inspire des autres packs, celui-ci à la particularité d'offrir à l'utilisateur de choisir les valeurs qu'il désire plutôt que de les restreindre à un nombre prédéfinis.",
         "urls": [
-            "https://github.com/11jo/Unarchived_Mods/blob/main/ab_IntTweaks.rar"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/ab_IntTweaks.rar"
         ],
         "categories": [
             "Gameplay"
@@ -63581,7 +63588,7 @@
         "name": "Offhand Weapon Swap",
         "description": "Il s'agit d'un mod de script conçu pour permettre à un personnage maniant deux armes de lâcher son arme de mêlée secondaire afin d'utiliser une arme à distance.",
         "urls": [
-            "https://github.com/11jo/Unarchived_Mods/blob/main/ab_OffhandWeaponSwap.rar"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/ab_OffhandWeaponSwap.rar"
         ],
         "categories": [
             "Script et tactique"
@@ -64709,7 +64716,7 @@
         "name": "Near Infinity",
         "description": "Near Infinity (ou NI en abrégé) est un navigateur et éditeur open source multiplateforme pour les ressources des jeux Infinity Engine.",
         "urls": [
-            "https://forums.beamdog.com/discussion/30593/new-versions-of-nearinfinity-available/",
+            "https://forums.beamdog.com/discussion/30593/",
             "https://www.shsforums.net/topic/45358-nearinfinity/",
             "https://github.com/NearInfinityBrowser/NearInfinity"
         ],
@@ -65196,7 +65203,8 @@
             "ru"
         ],
         "status": [
-            "stable"
+            "stable",
+            "hidden"
         ],
         "last_update": "2022-11-23",
         "compatibilities": {},
@@ -65234,7 +65242,8 @@
             "es"
         ],
         "status": [
-            "stable"
+            "stable",
+            "hidden"
         ],
         "last_update": "2024-12-09",
         "compatibilities": {
@@ -65284,7 +65293,8 @@
             "es"
         ],
         "status": [
-            "stable"
+            "stable",
+            "hidden"
         ],
         "last_update": "2024-06-13",
         "compatibilities": {
@@ -69277,7 +69287,7 @@
         "name": "Slart's Fodder Pack",
         "description": "Ce mod ajoute quelques objets d'invocation. Il comprend des animations de créatures originales mettant en scène trois nouveaux nains, un squelette et un marine.",
         "urls": [
-            "https://github.com/11jo/Unarchived_Mods/blob/main/Slart's%20Fodderpack%201.0.zip"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/Slart's%20Fodderpack%201.0.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -69307,7 +69317,7 @@
         "name": "Chicken Change",
         "description": "Fait en sorte qu'un personnage du groupe se transforme, sans raison apparente, en poulet. Une bonne blague du 1er avril.",
         "urls": [
-            "https://github.com/11jo/Unarchived_Mods/blob/main/CC%20Chicken%20change.tar.gz"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/CC%20Chicken%20change.tar.gz"
         ],
         "categories": [
             "Gameplay"
@@ -69335,7 +69345,7 @@
         "name": "Mike NPC",
         "description": "Mike est un guerrier humain sans kit d'alignement neutre, il a le contenu minimum.|FOR 16, DEX 14, CON 16, INT 17, SAG 6, CHA 12.",
         "urls": [
-            "https://github.com/11jo/Unarchived_Mods/blob/main/Mike_Lieutan_NPC.rar"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/Mike_Lieutan_NPC.rar"
         ],
         "categories": [
             "PNJ One Day"
@@ -70385,7 +70395,7 @@
         "name": "Elai NPC",
         "description": "Ce mod ajoute Elai, un rôdeur demi-elfe d'alignement Loyal Mauvais, au jeu en tant que PNJ que l'on peut recruter. On le trouve dans les ruines du temple, dans les collines d'Umar. Je vous recommande de vous y rendre avant de partir pour Spellhold ; ce n'est pas indispensable, mais vous passerez à côté de certaines choses si vous ne le faites pas... Si vous commencez par ToB, vous pouvez l'invoquer depuis l'Esprit du Destin, comme pour les autres PNJ. Il n'est pas un personnage avec lequel on peut avoir une relation amoureuse, mais il interagit avec le personnage principal et les autres membres du groupe, et vous pouvez le forcer à parler à la manière des packs de flirt FWP pour lui poser des questions. Il dispose d'un kit unique : « Shadovar Scout », qui lui permet notamment d'effectuer des attaques sournoises ; il a accès à des sorts de mage au lieu des sorts de rôdeur.|FOR 15, DEX 16, CON 14, INT 17, SAG 10, CHA 13.",
         "urls": [
-            "https://github.com/11jo/Unarchived_Mods/blob/main/Elai_Beta_v6_NPC.rar"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/Elai_Beta_v6_NPC.rar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -70415,7 +70425,7 @@
         "name": "Pierre's KitPack",
         "description": "Ce kitpack ajoute 3 kits :|Thug : Combattant voleur. Le Thug utilise sa force brute pour prendre ce qu'il veut quand il le veut. C'est un voyou vicieux et un meurtrier.|Mercenaire : Soldat professionnel à louer. Le Mercenaire est un soldat rebelle, doué dans toutes les formes de combat. Il est prêt à servir dans n'importe quelle organisation de guérilla, ou pour n'importe quel particulier si le prix est correct.|Cutthroat : C'est le voleur le plus rusé et le plus impitoyable. Il est passé maître dans le maniement de la dague et de l'épée courte, et sa maîtrise de l'attaque sournoise n'est surpassée que par celle de l'assassin. Aussi rapide et rusé qu'un assassin, mais très limité dans son choix d'armes. Aussi impitoyable et meurtrier qu'un voyou, mais il préfère ne pas recourir à la force brute ni s'engager dans des affrontements en face à face. Le Cutthroat éliminera un ennemi au moment où celui-ci s'y attend le moins",
         "urls": [
-            "https://github.com/11jo/Unarchived_Mods/blob/main/Pierres-KitPack.zip"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/Pierres-KitPack.zip"
         ],
         "categories": [
             "Kit"
@@ -70744,7 +70754,7 @@
         "description": "Ce mod ajoute Quel, un marchand gnome qui vend des gadgets magiques originaux dans la Promenade de Waukyne.",
         "urls": [
             "https://athkatla.cob-bg.pl/viewtopic.php?t=7215",
-            "https://github.com/11jo/Unarchived_Mods/blob/main/Quel.rar"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/Quel.rar"
         ],
         "categories": [
             "Forgeron et marchand"

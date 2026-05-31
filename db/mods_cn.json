@@ -901,14 +901,10 @@
             "status": "done",
             "source": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], Arcane Fist, [[271]], [[322]], [[362]], [[380]], [[428]] et [[1154]].|Les Poings arcaniques sont un ancien ordre de sorciers de Faerûn, que l'on aperçoit rarement. Ils ne sont pas vraiment les maîtres du combat à mains nues, ni ceux des arts arcaniques, mais ils deviennent des adversaires redoutables lorsqu'ils combinent les deux. Dès leur plus jeune âge, ils apprennent les techniques nécessaires au combat à mains nues et acquièrent des pouvoirs mystiques. Ce sont généralement des solitaires qui ne se regroupent qu'avec leurs semblables, sauf en cas de grand danger où ils s'allient à des « étrangers ». Il existe trois sectes au sein des Poings arcaniques : l'Ordre de la Lumière, la Confrérie de Bakur et la Loi de la Mort."
         },
-        "notes": [
-            "此模组已被转换为 WeiDU 并集成到 [[977]] 中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod a été converti en WeiDU et intégré dans [[977]]."
-            ]
+            "source": []
         }
     },
     {
@@ -3841,14 +3837,10 @@
             "status": "done",
             "source": "Ce mod ajoute de nombreux objets dans le jeu. Certains, un peu trop puissants, seront cependant difficile à obtenir (comme le bâton de la Gorgone dans la Cité illithild) ou hors de prix."
         },
-        "notes": [
-            "此模组已被转换为 WeiDU 格式并整合到 [[977]] 中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod a été converti en WeiDU et intégré dans [[977]]."
-            ]
+            "source": []
         }
     },
     {
@@ -11929,14 +11921,10 @@
             "status": "done",
             "source": "Il s'agit de fichiers modifiant l'apparence d'Annah : elle porte désormais une armure de cuir verte, un chapeau de lutin, et est armée de trèfles au lieu de poignards.|Les fichiers sont à extraire dans le répertoire override du jeu."
         },
-        "notes": [
-            "它已集成在 [[847]] 中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il est intégré dans [[847]]."
-            ]
+            "source": []
         }
     },
     {
@@ -14054,14 +14042,10 @@
             "status": "done",
             "source": "Ce mod ajoute six nouveaux kits créés par Drizzt1180 ([[1016]], `Blade Master`, [[1646]], `Wushi Ninja`, `Archer of Sylvanus`, [[61]]), ainsi que de nouveaux objets ([[266]]) dans des magasins déjà existants. Tous ces éléments proviennent de packs d'objets et de profils publiés sur le site Sorcerer's Place convertis au format WeiDU pour faciliter leur installation."
         },
-        "notes": [
-            "注意：`Archer of Sylvanus` 这个宗派似乎与职业和其他配置文件存在[许多问题](https://www.baldursgateworld.fr/viewtopic.php?t=17083)。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Attention : le kit `Archer of Sylvanus` semble poser de [nombreux problèmes](https://www.baldursgateworld.fr/viewtopic.php?t=17083) avec les classes et les autres profils."
-            ]
+            "source": []
         }
     },
     {
@@ -14151,8 +14135,8 @@
         ],
         "description": "此模组为[[982]]提供了修正或修改。您可以在[这里](https://www.gibberlings3.net/forums/topic/29618-sr-revised-v13700-2021-october-26th/)找到其列表。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod apporte des corrections ou des modifications à [[982]]. Vous en trouverez la liste [ici](https://www.gibberlings3.net/forums/topic/29618-sr-revised-v13700-2021-october-26th/)."
+            "status": "needs_review",
+            "source": "Ce mod apporte des corrections ou des modifications à [[982]]."
         },
         "notes": [
             "将其解压到[[982]]之上。更准确地说，SRR的spell_rev文件夹需要覆盖常规的spell_rev文件夹 - 确认覆盖文件夹以及所有它要求你覆盖的文件。检查你spell_rev目录下的settings.ini文件以自定义安装。然后正常安装该模组。"
@@ -14168,8 +14152,8 @@
         "id": 984,
         "description": "也被称为“让Zerth剑变得有用”（Make the Zerth Blade Useful），此模组在您卸下Zerth剑后，会提供一个60秒的窗口，让您可以重新装备它而不会失去额外的法术位。它也适用于《冰风谷：增强版》中类似的武器，例如法师匕首和神圣战锤。|由于它需要1.4版本补丁中为EE引擎添加的功能，因此只能使用具有这些补丁或更高版本的游戏。",
         "description_meta": {
-            "status": "done",
-            "source": "Aussi appelé \"Make the Zerth Blade Useful\", ce mod vous donne une fenêtre de 60 secondes après avoir déséquipé l'épée Lame Zerth, pour le ré-équiper sans perdre vos emplacements de sorts supplémentaires. Il fonctionne également sur les armes similaires dans IWD:EE, telles que les dagues de mage et les marteaux de guerre sanctifiés.|Comme il nécessite des fonctionnalités ajoutées dans le moteur EE dans le patch 1.4, il ne peut être utilisé qu'avec des jeux bénéficiant de ces patches, ou ultérieurs."
+            "status": "needs_review",
+            "source": "Aussi appelé `Make the Zerth Blade Useful`, ce mod vous donne une fenêtre de 60 secondes après avoir déséquipé l'épée Lame Zerth, pour le ré-équiper sans perdre vos emplacements de sorts supplémentaires. Il fonctionne également sur les armes similaires dans IWD:EE, telles que les dagues de mage et les marteaux de guerre sanctifiés."
         },
         "notes": [],
         "notes_meta": {
@@ -14618,14 +14602,10 @@
             "status": "done",
             "source": "Ce mod ajoute le profil de Mystique sylvain, un ancien Ordre de rôdeur elfes et demi-elfes de Féérune, spécialisés dans la lutte contre les mages maléfiques et les flagelleurs mentaux, ce qui les oblige à harmoniser leur esprit en plus de leur corps."
         },
-        "notes": [
-            "此模组已被转换为WeiDU并集成到[[977]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod a été converti en WeiDU et intégré dans [[977]]."
-            ]
+            "source": []
         }
     },
     {
@@ -25694,14 +25674,10 @@
             "status": "done",
             "source": "Ce md propose de lancer les dés de caractéristiques dès le début de la création du personnage. Ainsi, vous pouvez laisser ce score influencer sur les autres choix comme la race ou la classe du personnage, au lieu de l'inverse."
         },
-        "notes": [
-            "存在一个直接集成在[[347]]中的版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -25711,14 +25687,10 @@
             "status": "done",
             "source": "Ce mod propose de rajouter un bouton pour basculer entre deux réglages rapides pour la taille de la boîte de dialogue. Un réglage petit (environ 5 lignes de haut), et un réglage grand (taille maximale)."
         },
-        "notes": [
-            "存在一个直接集成在[[347]]中的版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -25728,14 +25700,10 @@
             "status": "done",
             "source": "Ce mod propose de recréer la fenêtre de dialogue comme sur la version 1.3 de EE. C'est-à-dire :|Une seule barre de scroll|Lors d'un scroll vers le haut, l'historique s'affiche dans la même fenêtre|Cela fonctionne même avec une modification de la taille de police"
         },
-        "notes": [
-            "存在一个直接集成在[[347]]中的版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -25745,14 +25713,10 @@
             "status": "done",
             "source": "La console de triche permet aux personnages de se téléporter d'une carte à l'autre, ce mod propose un élargissement de ces zones afin d'inclure de nouvelles cartes originelles de BG."
         },
-        "notes": [
-            "存在一个直接集成在[[347]]中的版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -25762,14 +25726,10 @@
             "status": "done",
             "source": "Si vous souhaitez des barres latérales transparentes pour récupérer davantage d'espace sur votre écran, ce mod est fait pour vous."
         },
-        "notes": [
-            "存在一个直接集成在[[347]]中的版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -25792,14 +25752,10 @@
             "status": "done",
             "source": "Ce mini tweak permet de retirer la coloration des peaux de pierre et de fer."
         },
-        "notes": [
-            "仅适用于2.6版本补丁。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ne fonctionne que pour le patch 2.6."
-            ]
+            "source": []
         }
     },
     {
@@ -25836,13 +25792,11 @@
             "source": "Ce mod de 2002 propose de nombreux correctifs dans SoA. Le détail des correctifs est disponible dans le mod."
         },
         "notes": [
-            "与巴尔王座不兼容。",
             "大多数错误已被[[153]]修复。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Incompatible avec ToB.",
                 "La plupart des bugs ont été fixés par [[153]]."
             ]
         }
