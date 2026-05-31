@@ -16,8 +16,8 @@ class Tp2Manager(ManagerMixin):
     # FIXME: parfois rien : BEGIN @0
     string_value = '[~"](.*?)[~"]'
     string_regex = re.compile(rf"{string_value}")
-    author_name_regex = re.compile(rf"\bAUTHOR\s+{string_value}", flags=re.DOTALL)
-    mod_name_regex = re.compile(rf"\n\bBEGIN\s+{string_value}", flags=re.DOTALL)
+    author_name_regex = re.compile(rf"\bAUTHOR\s*{string_value}", flags=re.DOTALL)
+    mod_name_regex = re.compile(rf"\n\bBEGIN\s*{string_value}", flags=re.DOTALL)
     # On retire les checks s'ils sont suivis par: `? 1 : 0`
     # On retire les checks qui sont précédés par `NOT ` ou par `!`
     game_names_regex = re.compile(
@@ -26,7 +26,7 @@ class Tp2Manager(ManagerMixin):
     )
     # FIXME: saut de ligne non pris en compte pour la traduction FR de `Tsujatha Melalor`
     language_block_regex = re.compile(
-        r"\bLANGUAGE\s+((?:[~\"](.*?)[~\"]\s*)+)", flags=re.DOTALL
+        r"\bLANGUAGE\s*((?:[~\"](.*?)[~\"]\s*)+)", flags=re.DOTALL
     )
     # author (email)
     bracket_author_regex = re.compile(r"\s+\(.*?\)")

@@ -306,6 +306,16 @@ LANGUAGE ~English~
 
         assert Tp2Manager(content).get_languages() == expected_value
 
+    def test_languages_without_space(self):
+        content = """
+LANGUAGE~English~
+~en_US~
+~Modname/lang/en_US/setup.tra~
+"""
+        expected_value = ["English", "en_US"]
+
+        assert Tp2Manager(content).get_languages() == expected_value
+
     # FIXME
     #     def test_languages_multiline(self):
     #         content = """
