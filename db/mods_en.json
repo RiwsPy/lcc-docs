@@ -7837,10 +7837,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Innershade doit être installé avant [[1229]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -14398,7 +14396,7 @@
         "description": "This mod adds a number of new challenges to the game by making opponents more intelligent, whether they be end-of-chapter bosses or just plain crawlers, notably by managing group intelligence. It also modifies the behavior of certain spells and includes a few cosmetic and comfort adjustments. This mod really does make the game more difficult, so get ready... Its many components are all optional.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute de nombreuses difficultés dans le jeu en rendant les adversaires plus intelligents, aussi bien les boss de fin de chapitre que le simple grouilleux, notamment par la gestion de l'intelligence de groupe. Il modifie également le comportement de certains sortilèges et comprend quelques ajustements cosmétiques ou de confort. Ce mod rend le jeu réellement plus difficile, soyez donc prêts... Ses  nombreux composants sont tous optionnels."
+            "source": "Ce mod ajoute de nombreuses difficultés dans le jeu en rendant les adversaires plus intelligents, aussi bien les boss de fin de chapitre que le simple grouilleux, notamment par la gestion de l'intelligence de groupe. Il modifie également le comportement de certains sortilèges et comprend quelques ajustements cosmétiques ou de confort. Ce mod rend le jeu réellement plus difficile, soyez donc prêts... Ses nombreux composants sont tous optionnels."
         },
         "notes": [],
         "notes_meta": {
@@ -15837,10 +15835,10 @@
     },
     {
         "id": 1112,
-        "description": "It's a customized version of [[1111]] v26/v28 taken from Insomniator's [[119]] mod, but it only activates TobEx's corrections and adjustments. Although it's not incompatible with ToBEx, since it installs perfectly after TobEx, prefer the [[119]] mod, which installs a full version of this patch.",
+        "description": "It's a customized version of [[1111]] v26/v28 taken from [[119]] mod, but it only activates [[1111]] corrections and adjustments. Although compatible with [[1111]], prefer the [[119]] mod, which installs a full version of this patch.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'une version personnalisée de [[1111]] v26/v28 tirée du mod [[119]] d'Insomniator, mais qui n'active que les corrections et ajustements de TobEx.|Même s'il n'est pas incompatible avec ToBEx puisqu'il s'installe parfaitement après TobEx, préférez-lui le mod [[119]] qui installe une version complète de ce patch."
+            "source": "Il s'agit d'une version personnalisée de [[1111]] v26/v28 tirée du mod [[119]], mais qui n'active que les corrections et ajustements de [[1111]].|Bien que compatible avec [[1111]], préférez-lui le mod [[119]] qui installe une version complète de ce patch."
         },
         "notes": [],
         "notes_meta": {
@@ -15895,14 +15893,10 @@
             "status": "needs_review",
             "source": "Hommage au manga `Tomoyo After : It's a Wonderful Life`, ce mod ajoute une ville souterraine (dont l'entrée se trouve dans la crypte de la liche aux Portes de la ville). Ceux qui ne sont pas rebutés par une histoire déconnectée de celle de BG2 y trouveront une suite de cartes enchaînées, sur lesquelles vous allez affronter des centaines de monstres qui dropperont une foule d'objets, certains extrêmement puissants. Vous rencontrerez et pourrez engager Tomoyo Sakagami, héroïne du manga Clannad et de ses continuations. Vous n'êtes cependant pas obligé de la garder dans le groupe, elle est muette et n'a aucune incidence sur la suite.|FOR 16, DEX 19, CON 15, INT 18, SAG 13, CHA 17."
         },
-        "notes": [
-            "Choose the github link for the EE version in French and the other two links for the original version in Chinese."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Choisissez le lien github pour la version EE en français et les deux autres liens pour la version originelle en chinois."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16330,14 +16324,10 @@
             "status": "needs_review",
             "source": "Pack de 106 portraits pour BG et BG2."
         },
-        "notes": [
-            "Has been integrated into [[1005]]."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "A été intégré à [[1005]]"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16385,10 +16375,10 @@
     },
     {
         "id": 1152,
-        "description": "This mod modifies the properties of Carsomyr and Ir'revrykal (its evil counterpart introduced in BG2:EE) so that they can be worn by the opposite alignment (e.g. Carsomyr by an evil one). But in this case, the wearer suffers damage and has his or her resistance to magic reduced every two rounds.|The download link can be found in the last posts of the thread.",
+        "description": "This mod modifies the properties of Carsomyr and Ir'revrykal (its evil counterpart introduced in BG2:EE) so that they can be worn by the opposite alignment (e.g. Carsomyr by an evil one). But in this case, the wearer suffers damage and has his or her resistance to magic reduced every two rounds.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod modifie les propriétés de Carsomyr et de Ir'revrykal (son équivalente maléfique introduite dans BG2:EE) pour qu'elles puissent être portées par l'alignement opposé (exemple, Carsomyr par un mauvais). Mais dans le cas, le porteur subit des dégâts et voit sa résistance à la magie diminuée tous les deux rounds.|Le lien de téléchargement se trouve dans les derniers messages du fil."
+            "source": "Ce mod modifie les propriétés de Carsomyr et de Ir'revrykal (son équivalente maléfique introduite dans BG2:EE) pour qu'elles puissent être portées par l'alignement opposé (exemple, Carsomyr par un mauvais). Mais dans le cas, le porteur subit des dégâts et voit sa résistance à la magie diminuée tous les deux rounds."
         },
         "notes": [
             "Unfortunately, the latest version of the mod (1.5) won't install, due to an error in the script."
@@ -16485,14 +16475,10 @@
             "status": "needs_review",
             "source": "Ce mod restaure les options non disponibles lors de la création de personnages qui avaient disparu avec le patch v2.0. Par exemple, si vous choisissez la race halfling, seules les 4 classes sont disponibles dans la sélection des classes, alors les versions précédentes permettaient de voir toutes les options désactivées. Les éléments suivants seront donc de nouveau affichés :|- Classes exclues par votre sélection de race.|- Le montant par défaut des articles de la pile fractionnée est fixé à 1, de manière cohérente.|- Kits exclus par votre sélection de race.|- Alignements exclus par vos sélections de classes/kits.|- Compétences d'armes exclues par votre sélection de classe/kit."
         },
-        "notes": [
-            "There is a version directly integrated into [[347]]."
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -16515,14 +16501,10 @@
             "status": "needs_review",
             "source": "Ce mini-mod cosmétique permet d'attribuer des couleurs spécifiques aux récipients du jeu original, ainsi qu'à ceux des mods que vous aurez installés (et lorsqu'ils en rajoutent). Ainsi, chaque sac à gemmes, chaque étui à parchemins, chaque sac de contenance, ceinture de munitions... possède un couleur spécifique qui vous permettra de le différencier d'un autre. Il ajoute également de nouveaux récipients et corrige quelques bugs de magasins/objets d'autres mods."
         },
-        "notes": [
-            "Prefer the `Unique Containers` component of the mod [[1141]], which, what's more, is compatible with EE games!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Préférez-lui le composant `Récipients uniques` du mod [[1141]], qui, de plus, est compatible avec les jeux EE !"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -17066,14 +17048,10 @@
             "status": "needs_review",
             "source": "Ce mod ajoute sept nouveaux profils, la plupart tirés des classes de prestige de la troisième édition de D&D :|- paladins : Chevalier hospitalier, Chevalier templier et Chevalier religieux.|- guerriers : Archer hors pair (tireur d'élite) et Briseur de hordes.|- rôdeurs : Éclaireur sauvage et Gardien de la forêt."
         },
-        "notes": [
-            "Click on the second link to download the file."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Cliquez sur le deuxième lien pour télécharger le fichier."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -17083,14 +17061,10 @@
             "status": "needs_review",
             "source": "Ce mod ajoute un profil de guerrier, tiré des classes de prestige des races de Féérune, un archer spécialisé dans les frondes."
         },
-        "notes": [
-            "The EET version is available via the github link."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "La version EET est présente via le lien github."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -23889,10 +23863,10 @@
     },
     {
         "id": 1688,
-        "description": "An ambitious project to recreate the eponymous 1944 video game in IWDEE. It included a new user interface, a new setting, new areas, new npcs, new graphics and, of course, a long story. To date, it seems to have been abandoned.",
+        "description": "An ambitious project to recreate the eponymous 1944 video game in IWDEE. It included a new user interface, a new setting, new areas, new npcs, new graphics and, of course, a long story.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Un projet ambitieux qui devait recréer le jeu vidéo éponyme de 1944 dans IWDEE. Il inclure une nouvelle interface utilisateur, un nouveau cadre, de nouvelles zones, de nouveaux pnjs, de nouveaux graphiques et, bien sûr, une longue histoire. A ce jour il semble abandonné."
+            "source": "Un projet ambitieux qui devait recréer le jeu vidéo éponyme de 1944 dans IWDEE. Il inclure une nouvelle interface utilisateur, un nouveau cadre, de nouvelles zones, de nouveaux pnjs, de nouveaux graphiques et, bien sûr, une longue histoire."
         },
         "notes": [],
         "notes_meta": {

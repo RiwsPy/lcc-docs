@@ -13878,7 +13878,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en",
             "ru",
@@ -13887,7 +13887,7 @@
             "pl"
         ],
         "status": [
-            "archived"
+            "stable"
         ],
         "last_update": "2026-05-21",
         "compatibilities": {},
@@ -16929,7 +16929,8 @@
             "PNJ recrutable"
         ],
         "games": [
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Lava Del'Vortel"
@@ -16939,12 +16940,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2024-08-24",
+        "last_update": "2026-05-30",
         "compatibilities": {},
         "tp2": "hephernaanbg2"
     },
@@ -19360,21 +19362,15 @@
         "name": "Infinity Animations",
         "description": "Ce mod modifie le jeu Baldur's Gate II : Trône de Bhaal de façon à ce qu'il dispose d'animations supplémentaires de créatures et de personnages.|Infinity Animations prend en charge les types d'animation très divers des jeux Baldur's Gate I, Baldur's Gate II, Icewind Dale I, Icewind Dale II, Planescape: Torment et Neverwinter Nights. En bonus, le mod rétablit l'intégralité des animations de personnages de Baldur's Gate I, et permet à certaines animations qui n'en avaient pas jusqu'à présent de disposer dorénavant d'un paperdoll (silhouette dans l'écran des personnages).|Point important pour les joueurs installant plusieurs mods conséquents (appelés « mega-mods »), Infinity Animations résout les conflits de slots d'animation (plusieurs mods utilisant les mêmes slots pour des animations différentes, le dernier installé écrase les modifications effectuées par les précédents) et rétablit les animations de base que les mega-mods ont modifiées.|Enfin, il comporte des composants optionnels qui introduisent de nombreuses nouvelles animations dans le jeu, ainsi que leurs jeux de sons associés (soundsets). Bien que le nombre d'animations supportées ne soit pas « infini », comme le nom du mod l'indique, il devrait toutefois être assez important pour répondre aux besoins actuels (et probablement futurs) de tout le monde.",
         "urls": [
-            "https://www.shsforums.net/files/file/859-ia-infinity-animations-core-mod-weidu-beta-5/",
-            "https://github.com/GwendolyneFreddy/Infinity-Animations",
-            "https://github.com/Spellhold-Studios/backup-IA-v6"
+            "https://www.shsforums.net/files/file/859-infinity-animations/",
+            "https://github.com/Spellhold-Studios/Infinity-Animations"
         ],
         "categories": [
             "Cosmétique"
         ],
         "games": [
-            "Tutu",
             "BG2",
-            "BGT",
-            "BGEE",
-            "SoD",
-            "BG2EE",
-            "IWDEE"
+            "BGT"
         ],
         "authors": [
             "Erephine",
@@ -19388,14 +19384,17 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en",
-            "fr"
+            "en"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2021-06-04",
-        "compatibilities": {},
+        "last_update": "2024-07-12",
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "infinityanimations"
     },
     {
@@ -19537,9 +19536,7 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Innershade doit être installé avant [[1229]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -24125,7 +24122,11 @@
             "stable"
         ],
         "last_update": "2024-10-27",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "merskstore"
     },
     {
@@ -27940,7 +27941,11 @@
             "stable"
         ],
         "last_update": "2022-11-24",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "Paladins-of-Faerun"
     },
     {
@@ -35757,7 +35762,7 @@
     {
         "id": 1011,
         "name": "Sword Coast Stratagems",
-        "description": "Ce mod ajoute de nombreuses difficultés dans le jeu en rendant les adversaires plus intelligents, aussi bien les boss de fin de chapitre que le simple grouilleux, notamment par la gestion de l'intelligence de groupe. Il modifie également le comportement de certains sortilèges et comprend quelques ajustements cosmétiques ou de confort. Ce mod rend le jeu réellement plus difficile, soyez donc prêts... Ses  nombreux composants sont tous optionnels.",
+        "description": "Ce mod ajoute de nombreuses difficultés dans le jeu en rendant les adversaires plus intelligents, aussi bien les boss de fin de chapitre que le simple grouilleux, notamment par la gestion de l'intelligence de groupe. Il modifie également le comportement de certains sortilèges et comprend quelques ajustements cosmétiques ou de confort. Ce mod rend le jeu réellement plus difficile, soyez donc prêts... Ses nombreux composants sont tous optionnels.",
         "urls": [
             "https://www.gibberlings3.net/mods/tweaks/scs/",
             "https://github.com/Gibberlings3/SwordCoastStratagems"
@@ -38769,7 +38774,11 @@
             "stable"
         ],
         "last_update": "2023-12-05",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "TheUndying"
     },
     {
@@ -38940,6 +38949,7 @@
         "description": "C'est un pack de Kits qui comporte actuellement 17 kits + 11 déclinaisons pour multi-classes. Il contient également plus de 30 objets, dont 6 insignes de Chasseur, 12 Runes de Caryll et 17 autres objets divers. Fortement inspiré par les jeux Soulsborne de FromSoft et probablement d'autres sources.||NOTE : Les tables de capacités pour ces kits sont créées au moment de l'installation. Chaque kit clone la table de la classe de base (si elle existe). Cela signifie que toute modification de classe installée au préalable sera incluse dans les kits du mod.||Ce mod dispose de plusieurs kits originaux et plutôt sympas !",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/36122-the-workshop-kitpack-v516-soulsborne-inspired-kit-and-item-pack/",
+            "https://forums.beamdog.com/discussion/86749/",
             "https://github.com/D2-mods/The-Workshop-Kitpack"
         ],
         "categories": [
@@ -38976,7 +38986,6 @@
         "description": "Ce mod comprend de petites quêtes et batailles, trop petites pour être publiées sous forme de mods séparés. Ces composants vont du sérieux à l'absurde, du respect strict des règles à la tricherie pure et simple. Parmi eux :|- Mprolla, le spammeur : Si vous n'avez pas encore compris la blague, ce composant n'est probablement pas pour vous. En tout cas, il est inspiré par un gars (Mike Prolla) qui avait l'habitude de spammer et de troller sur toutes les communautés de modding d'Infinity Engine il y a très longtemps. Dans le mod, Mprolla est un bouffon de niveau 25 que vous pouvez trouver (bien) caché dans la Promenade de Waukyne. Lorsque vous le verrez, après une scène où il perd son cerveau, il commencera à vous narguer, jusqu'à ce qu'il vous combatte ouvertement. Ce combat est une véritable fête du slip. Toutes ses railleries sont de véritables citations. L'élément optionnel `Mprolla, le tricheur` fait également partie de ce composant : il rend le combat plus difficile en ajoutant de la triche.|- Bataille à grande échelle : Amn est assiégé par une armée d'orques et doit se résoudre à la défaite en raison de leur nombre écrasant. Les mages cagoulés et les soldats amiens ont besoin de l'aide d'aventuriers expérimentés pour porter un coup décisif aux assaillants. Après avoir accepté, vous êtes projeté(e) dans une zone pas plus grande que celle des embuscades standard, mais qui contient bien plus d'une centaine d'orques, et d'autres surgissent sans cesse jusqu'à ce que vous tuiez leur commandant. De votre côté, vous avez quelques soldats amniens et mages cagoulés. Qui va gagner ? Le mod [[865]] est requis.|- Duel de mage : dans la cité drow, vous rencontrez un mage drow sans nom près de la tour de Deirex (il utilise l'avatar elfe) ; si un mage masculin lui parle, il peut dire (au hasard) qu'il a peur que vous soyez venu prendre sa place à Sorcere. Avec ce composant installé, vous obtiendrez toujours cette phrase si vous lui parlez (son nom est maintenant Laniz) avec un mage (pur ou multiclasse), un barde ou un ensorceleur, et il vous provoquera en duel. Vous pouvez accepter ou refuser.",
         "urls": [
             "https://www.shsforums.net/files/file/96-the-bigg-house-the-bigg-quest-pack/",
-            "https://github.com/vbigiani/tb-quest/",
             "https://github.com/Spellhold-Studios/The-Bigg-Quest-Pack/"
         ],
         "categories": [
@@ -39259,7 +39268,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2022-10-01",
+        "last_update": "2022-10-02",
         "compatibilities": {},
         "tp2": "COPPER"
     },
@@ -39372,7 +39381,7 @@
             "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/juggolem_fix.zip"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "BG2",
@@ -39473,7 +39482,7 @@
     {
         "id": 1112,
         "name": "TobEx AfterLife",
-        "description": "Il s'agit d'une version personnalisée de [[1111]] v26/v28 tirée du mod [[119]] d'Insomniator, mais qui n'active que les corrections et ajustements de TobEx.|Même s'il n'est pas incompatible avec ToBEx puisqu'il s'installe parfaitement après TobEx, préférez-lui le mod [[119]] qui installe une version complète de ce patch.",
+        "description": "Il s'agit d'une version personnalisée de [[1111]] v26/v28 tirée du mod [[119]], mais qui n'active que les corrections et ajustements de [[1111]].|Bien que compatible avec [[1111]], préférez-lui le mod [[119]] qui installe une version complète de ce patch.",
         "urls": [
             "https://www.shsforums.net/files/file/1274-tobex-afterlife/",
             "https://github.com/Spellhold-Studios/TobEx-AfterLife"
@@ -39490,7 +39499,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [
             "en"
@@ -39499,7 +39508,12 @@
             "embed"
         ],
         "last_update": "2025-07-17",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
+        "embedded_in": 119,
         "tp2": "TobEx_AfterLife"
     },
     {
@@ -39614,8 +39628,7 @@
         "name": "Tomoyo and the Underground City",
         "description": "Hommage au manga `Tomoyo After : It's a Wonderful Life`, ce mod ajoute une ville souterraine (dont l'entrée se trouve dans la crypte de la liche aux Portes de la ville). Ceux qui ne sont pas rebutés par une histoire déconnectée de celle de BG2 y trouveront une suite de cartes enchaînées, sur lesquelles vous allez affronter des centaines de monstres qui dropperont une foule d'objets, certains extrêmement puissants. Vous rencontrerez et pourrez engager Tomoyo Sakagami, héroïne du manga Clannad et de ses continuations. Vous n'êtes cependant pas obligé de la garder dans le groupe, elle est muette et n'a aucune incidence sur la suite.|FOR 16, DEX 19, CON 15, INT 18, SAG 13, CHA 17.",
         "urls": [
-            "https://trow.cc/board/showtopic=13751&st=0",
-            "https://www.shsforums.net/files/file/1270-dnt-tomoyo-and-the-underground-city/",
+            "https://trow.cc/board/showtopic=13751",
             "https://github.com/Plutonium-X/FIGHT_Tomoyo"
         ],
         "categories": [
@@ -39631,9 +39644,7 @@
             "vira"
         ],
         "team": [],
-        "notes": [
-            "Choisissez le lien github pour la version EE en français et les deux autres liens pour la version originelle en chinois."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -40734,15 +40745,14 @@
             "Rodman49"
         ],
         "team": [],
-        "notes": [
-            "A été intégré à [[1005]]"
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
             "embed"
         ],
+        "embedded_in": 1005,
         "last_update": "2019-06-01",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -40851,7 +40861,7 @@
     {
         "id": 1152,
         "name": "Unbiased Ir'revrykal",
-        "description": "Ce mod modifie les propriétés de Carsomyr et de Ir'revrykal (son équivalente maléfique introduite dans BG2:EE) pour qu'elles puissent être portées par l'alignement opposé (exemple, Carsomyr par un mauvais). Mais dans le cas, le porteur subit des dégâts et voit sa résistance à la magie diminuée tous les deux rounds.|Le lien de téléchargement se trouve dans les derniers messages du fil.",
+        "description": "Ce mod modifie les propriétés de Carsomyr et de Ir'revrykal (son équivalente maléfique introduite dans BG2:EE) pour qu'elles puissent être portées par l'alignement opposé (exemple, Carsomyr par un mauvais). Mais dans le cas, le porteur subit des dégâts et voit sa résistance à la magie diminuée tous les deux rounds.",
         "urls": [
             "https://forums.beamdog.com/discussion/32456/#Comment_819740"
         ],
@@ -41124,15 +41134,14 @@
             "Adul"
         ],
         "team": [],
-        "notes": [
-            "Il existe une version directement intégrée dans [[347]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
             "embed"
         ],
+        "embedded_in": 347,
         "last_update": "2016-06-03",
         "compatibilities": {},
         "tp2": "non-weidu"
@@ -41197,9 +41206,7 @@
             "Miloch"
         ],
         "team": [],
-        "notes": [
-            "Préférez-lui le composant `Récipients uniques` du mod [[1141]], qui, de plus, est compatible avec les jeux EE !"
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -41211,8 +41218,10 @@
             "ru"
         ],
         "status": [
-            "obsolete"
+            "obsolete",
+            "embed"
         ],
+        "embedded_in": 1141,
         "last_update": "2009-12-02",
         "compatibilities": {},
         "tp2": "contain"
@@ -42446,7 +42455,7 @@
         "last_update": "2018-12-31",
         "compatibilities": {},
         "embedded_in": 1048,
-        "tp2": ""
+        "tp2": "WarShaman"
     },
     {
         "id": 1198,
@@ -42567,9 +42576,7 @@
             "the only dragon"
         ],
         "team": [],
-        "notes": [
-            "Cliquez sur le deuxième lien pour télécharger le fichier."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -42607,9 +42614,7 @@
             "Adul"
         ],
         "team": [],
-        "notes": [
-            "La version EET est présente via le lien github."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -42620,7 +42625,11 @@
             "stable"
         ],
         "last_update": "2025-01-08",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "WarslingSniperKit"
     },
     {
@@ -54111,7 +54120,11 @@
             "missing"
         ],
         "last_update": "2013-09-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "WychowanekGoriona"
     },
     {
@@ -59058,7 +59071,7 @@
     {
         "id": 1688,
         "name": "Return To Menzoberranzan",
-        "description": "Un projet ambitieux qui devait recréer le jeu vidéo éponyme de 1944 dans IWDEE. Il inclure une nouvelle interface utilisateur, un nouveau cadre, de nouvelles zones, de nouveaux pnjs, de nouveaux graphiques et, bien sûr, une longue histoire. A ce jour il semble abandonné.",
+        "description": "Un projet ambitieux qui devait recréer le jeu vidéo éponyme de 1944 dans IWDEE. Il inclure une nouvelle interface utilisateur, un nouveau cadre, de nouvelles zones, de nouveaux pnjs, de nouveaux graphiques et, bien sûr, une longue histoire.",
         "urls": [
             "https://forums.beamdog.com/discussion/36940"
         ],
@@ -59079,7 +59092,7 @@
             "en"
         ],
         "status": [
-            "archived"
+            "unreleased"
         ],
         "last_update": "2014-11-21",
         "compatibilities": {},
@@ -69507,7 +69520,8 @@
             "fr"
         ],
         "status": [
-            "stable"
+            "stable",
+            "hidden"
         ],
         "last_update": "2024-10-27",
         "compatibilities": {},

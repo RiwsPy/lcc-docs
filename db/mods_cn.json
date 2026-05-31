@@ -6888,6 +6888,9 @@
     },
     {
         "id": 479,
+        "team": [
+            "Yoshimo0417"
+        ],
         "description": "这个模组将一个龙矛围攻的角色带回博德之门Ⅱ：增强版：魔鬼赫费尔南。因为真正的邪恶永不消亡。你准备好冒一个巨大的风险，让这个邪恶的木偶师加入你的队伍了吗？你真的能相信他的动机和计划吗？也许会变得更强……但你能学会看穿他的谎言和承诺吗？或者你认为他真的想帮忙，还是觉得每天经历的所有事件都很有趣？这是你的选择。|该模组包含“友谊”对话、新区域、物品和遭遇，对于那些已经厌倦了博德之门Ⅱ原始内容的玩家来说可能会耳目一新。由于这个模组使用了龙矛围攻的参考资料，玩三部曲可能会很有帮助。",
         "description_meta": {
             "status": "done",
@@ -7931,14 +7934,10 @@
             "status": "done",
             "source": "Après [[1027]], Lava récidive avec un nouvel opus de la série Colours of Infinity. Suivez un chemin au milieu des arbres pour découvrir un tout nouveau village à visiter : Innershade. Il connaît quelques problèmes ces derniers temps : certaines personnes ont disparu, et l'agresseur n'a jamais été vu. Vous devez arrêter les responsables, si vous le pouvez. Résoudre le problème ne suffira peut-être pas ; se débarasser de l'agresseur n'est que l'une des façons de gérer cette situation. La seconde, consiste à comprendre les motivations et le passé qui sont devenus un lourd fardeau. C'est à vous d'en juger."
         },
-        "notes": [
-            "Innershade 必须在 [[1229]] 之前安装。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Innershade doit être installé avant [[1229]]."
-            ]
+            "source": []
         }
     },
     {
@@ -14549,7 +14548,7 @@
         "description": "这个模组通过使对手更聪明来增加游戏中的许多难度，无论是章节末尾的Boss还是普通的小怪，特别是通过群体智能的管理。它还修改了某些法术的行为，并包含一些外观或便利性上的调整。这个模组确实让游戏变得更难，所以请做好准备……它的许多组件都是可选的。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod ajoute de nombreuses difficultés dans le jeu en rendant les adversaires plus intelligents, aussi bien les boss de fin de chapitre que le simple grouilleux, notamment par la gestion de l'intelligence de groupe. Il modifie également le comportement de certains sortilèges et comprend quelques ajustements cosmétiques ou de confort. Ce mod rend le jeu réellement plus difficile, soyez donc prêts... Ses  nombreux composants sont tous optionnels."
+            "source": "Ce mod ajoute de nombreuses difficultés dans le jeu en rendant les adversaires plus intelligents, aussi bien les boss de fin de chapitre que le simple grouilleux, notamment par la gestion de l'intelligence de groupe. Il modifie également le comportement de certains sortilèges et comprend quelques ajustements cosmétiques ou de confort. Ce mod rend le jeu réellement plus difficile, soyez donc prêts... Ses nombreux composants sont tous optionnels."
         },
         "notes": [],
         "notes_meta": {
@@ -16020,8 +16019,8 @@
         "id": 1112,
         "description": "这是Insomniator的模组[[119]]中[[1111]] v26/v28的一个定制版本，但它只激活TobEx的修复和调整。|尽管它与TobEx不冲突，因为它可以在TobEx之后完美安装，但最好还是选择[[119]]模组，因为它安装的是此补丁的完整版本。",
         "description_meta": {
-            "status": "done",
-            "source": "Il s'agit d'une version personnalisée de [[1111]] v26/v28 tirée du mod [[119]] d'Insomniator, mais qui n'active que les corrections et ajustements de TobEx.|Même s'il n'est pas incompatible avec ToBEx puisqu'il s'installe parfaitement après TobEx, préférez-lui le mod [[119]] qui installe une version complète de ce patch."
+            "status": "needs_review",
+            "source": "Il s'agit d'une version personnalisée de [[1111]] v26/v28 tirée du mod [[119]], mais qui n'active que les corrections et ajustements de [[1111]].|Bien que compatible avec [[1111]], préférez-lui le mod [[119]] qui installe une version complète de ce patch."
         },
         "notes": [],
         "notes_meta": {
@@ -16075,14 +16074,10 @@
             "status": "done",
             "source": "Hommage au manga `Tomoyo After : It's a Wonderful Life`, ce mod ajoute une ville souterraine (dont l'entrée se trouve dans la crypte de la liche aux Portes de la ville). Ceux qui ne sont pas rebutés par une histoire déconnectée de celle de BG2 y trouveront une suite de cartes enchaînées, sur lesquelles vous allez affronter des centaines de monstres qui dropperont une foule d'objets, certains extrêmement puissants. Vous rencontrerez et pourrez engager Tomoyo Sakagami, héroïne du manga Clannad et de ses continuations. Vous n'êtes cependant pas obligé de la garder dans le groupe, elle est muette et n'a aucune incidence sur la suite.|FOR 16, DEX 19, CON 15, INT 18, SAG 13, CHA 17."
         },
-        "notes": [
-            "请选择 github 链接获取法文 EE 版，另外两个链接获取中文原版。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Choisissez le lien github pour la version EE en français et les deux autres liens pour la version originelle en chinois."
-            ]
+            "source": []
         }
     },
     {
@@ -16516,14 +16511,10 @@
             "status": "done",
             "source": "Pack de 106 portraits pour BG et BG2."
         },
-        "notes": [
-            "已被整合到[[1005]]中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "A été intégré à [[1005]]"
-            ]
+            "source": []
         }
     },
     {
@@ -16571,10 +16562,10 @@
     },
     {
         "id": 1152,
-        "description": "此模组修改了 Carsomyr 和 Ir'revrykal（在BG2:EE中引入的其邪恶对应物）的属性，使其能被对立阵营的角色佩戴（例如，邪恶阵营佩戴 Carsomyr）。但在这种情况下，佩戴者每两个回合会受到伤害并看到其魔法抗性降低。下载链接在主题的最后几条消息中。",
+        "description": "此模组修改了 Carsomyr 和 Ir'revrykal（在BG2:EE中引入的其邪恶对应物）的属性，使其能被对立阵营的角色佩戴（例如，邪恶阵营佩戴 Carsomyr）。但在这种情况下，佩戴者每两个回合会受到伤害并看到其魔法抗性降低。",
         "description_meta": {
             "status": "done",
-            "source": "Ce mod modifie les propriétés de Carsomyr et de Ir'revrykal (son équivalente maléfique introduite dans BG2:EE) pour qu'elles puissent être portées par l'alignement opposé (exemple, Carsomyr par un mauvais). Mais dans le cas, le porteur subit des dégâts et voit sa résistance à la magie diminuée tous les deux rounds.|Le lien de téléchargement se trouve dans les derniers messages du fil."
+            "source": "Ce mod modifie les propriétés de Carsomyr et de Ir'revrykal (son équivalente maléfique introduite dans BG2:EE) pour qu'elles puissent être portées par l'alignement opposé (exemple, Carsomyr par un mauvais). Mais dans le cas, le porteur subit des dégâts et voit sa résistance à la magie diminuée tous les deux rounds."
         },
         "notes": [
             "不幸的是，该模组的最新版本（1.5）无法安装，脚本中存在错误。"
@@ -16674,14 +16665,10 @@
             "status": "done",
             "source": "Ce mod restaure les options non disponibles lors de la création de personnages qui avaient disparu avec le patch v2.0. Par exemple, si vous choisissez la race halfling, seules les 4 classes sont disponibles dans la sélection des classes, alors les versions précédentes permettaient de voir toutes les options désactivées. Les éléments suivants seront donc de nouveau affichés :|- Classes exclues par votre sélection de race.|- Le montant par défaut des articles de la pile fractionnée est fixé à 1, de manière cohérente.|- Kits exclus par votre sélection de race.|- Alignements exclus par vos sélections de classes/kits.|- Compétences d'armes exclues par votre sélection de classe/kit."
         },
-        "notes": [
-            "存在一个直接整合在[[347]]中的版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -16704,14 +16691,10 @@
             "status": "done",
             "source": "Ce mini-mod cosmétique permet d'attribuer des couleurs spécifiques aux récipients du jeu original, ainsi qu'à ceux des mods que vous aurez installés (et lorsqu'ils en rajoutent). Ainsi, chaque sac à gemmes, chaque étui à parchemins, chaque sac de contenance, ceinture de munitions... possède un couleur spécifique qui vous permettra de le différencier d'un autre. Il ajoute également de nouveaux récipients et corrige quelques bugs de magasins/objets d'autres mods."
         },
-        "notes": [
-            "请优先选择模组[[1141]]中的“独特容器”组件，此外，该组件还兼容增强版（EE）游戏！"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Préférez-lui le composant `Récipients uniques` du mod [[1141]], qui, de plus, est compatible avec les jeux EE !"
-            ]
+            "source": []
         }
     },
     {
@@ -17254,14 +17237,10 @@
             "status": "done",
             "source": "Ce mod ajoute sept nouveaux profils, la plupart tirés des classes de prestige de la troisième édition de D&D :|- paladins : Chevalier hospitalier, Chevalier templier et Chevalier religieux.|- guerriers : Archer hors pair (tireur d'élite) et Briseur de hordes.|- rôdeurs : Éclaireur sauvage et Gardien de la forêt."
         },
-        "notes": [
-            "点击第二个链接以下载文件。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Cliquez sur le deuxième lien pour télécharger le fichier."
-            ]
+            "source": []
         }
     },
     {
@@ -17271,14 +17250,10 @@
             "status": "done",
             "source": "Ce mod ajoute un profil de guerrier, tiré des classes de prestige des races de Féérune, un archer spécialisé dans les frondes."
         },
-        "notes": [
-            "通过GitHub链接可以获取到EET版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "La version EET est présente via le lien github."
-            ]
+            "source": []
         }
     },
     {
@@ -24160,10 +24135,10 @@
     },
     {
         "id": 1688,
-        "description": "这是一个雄心勃勃的项目，旨在用《冰风谷：增强版》重制1944年的同名电子游戏。它将包含一个新的用户界面、一个新的框架、新的区域、新的NPC、新的图形，当然，还有一个长长的故事。迄今为止，该项目似乎已被放弃。",
+        "description": "这是一个雄心勃勃的项目，旨在用《冰风谷：增强版》重制1944年的同名电子游戏。它将包含一个新的用户界面、一个新的框架、新的区域、新的NPC、新的图形，当然，还有一个长长的故事。",
         "description_meta": {
             "status": "done",
-            "source": "Un projet ambitieux qui devait recréer le jeu vidéo éponyme de 1944 dans IWDEE. Il inclure une nouvelle interface utilisateur, un nouveau cadre, de nouvelles zones, de nouveaux pnjs, de nouveaux graphiques et, bien sûr, une longue histoire. A ce jour il semble abandonné."
+            "source": "Un projet ambitieux qui devait recréer le jeu vidéo éponyme de 1944 dans IWDEE. Il inclure une nouvelle interface utilisateur, un nouveau cadre, de nouvelles zones, de nouveaux pnjs, de nouveaux graphiques et, bien sûr, une longue histoire."
         },
         "notes": [],
         "notes_meta": {
