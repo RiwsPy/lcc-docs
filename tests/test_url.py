@@ -38,6 +38,17 @@ class TestUrl:
 
         assert HttpUrl(url).is_direct_archive is expected_value
 
+    def test_is_direct_archive_github(self):
+        url = "https://github.com/toto/mod/raw/refs/file.exe"
+        expected_value = True
+
+        assert HttpUrl(url).is_direct_archive is expected_value
+
+        url = "https://github.com/toto/mod/blob/main/file.exe"
+        expected_value = False
+
+        assert HttpUrl(url).is_direct_archive is expected_value
+
     def test_tld(self):
         url = "https://toto.com"
         expected_value = "com"
