@@ -141,6 +141,7 @@ class CategoryEnum(StrEnum):
 
 class DomainImageEnum(StrEnum):
     ARTISAN = "artisans-32.avif"
+    BALDURS_GATE = "baldurs-gate-32.png"
     BEAMDOG = "beamdog.png"
     BGFORGE = "bgforge.svg"
     BWL = "bwl.gif"
@@ -165,6 +166,7 @@ class DomainImageEnum(StrEnum):
 
 image_data: dict[DomainImageEnum | str, dict[str, str | int]] = {
     DomainImageEnum.ARTISAN: {"title": "The Artisan Corner", "width": 32, "height": 32},
+    DomainImageEnum.BALDURS_GATE: {"title": "Baldur's Gate", "width": 32, "height": 32},
     DomainImageEnum.BEAMDOG: {"title": "Beamdog", "width": 32, "height": 32},
     DomainImageEnum.BGFORGE: {"title": "BG Forge", "width": 32, "height": 32},
     DomainImageEnum.BWL: {"title": "The Black Wyrm's Lair", "width": 32, "height": 29},
