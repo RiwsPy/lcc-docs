@@ -13,7 +13,7 @@ mod_kwargs = {
     "description": "description",
     "team": [],
     "languages": [],
-    "games": [],
+    "games": set(),
     "notes": [],
     "compatibilities": dict(),
     "safe": 2,
