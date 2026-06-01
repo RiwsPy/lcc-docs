@@ -23,7 +23,7 @@ class ReadmeCleaner(ModCleaner):
         ]
 
     def clean_games(self):
-        self.data["games"] = [
+        self.data["games"] = {
             self.shield_game_mapping.get(game, game) for game in self.data["games"]
-        ]
+        }
         return super().clean_games()

@@ -94,9 +94,9 @@ class ModCleaner(CleanModMixin):
 
         return next_name.strip().strip('"')
 
-    def clean_games(self) -> list[str]:
+    def clean_games(self) -> set[str]:
         if not self.data.get("games"):
-            return list()
+            return set()
 
         def clean_game(game: str) -> str:
             if not game:
@@ -119,14 +119,9 @@ class ModCleaner(CleanModMixin):
                 # print(f"{game} not found in `GameEnum`")
                 return ""
 
-        # TODO: sorted
-        return list(
-            set(
-                cleaned_game
-                for game in set(self.data["games"])
-                if (cleaned_game := clean_game(game))
-            )
-        )
+        return {
+            cleaned_game for game in self.data["games"] if (cleaned_game := clean_game(game))
+        }
 
     def clean_authors(self) -> list[str]:
         def clean_author(author: str) -> str:

@@ -33,21 +33,21 @@ class TestModCleaner:
     def test_games(self):
         # TODO: mock
         data = {"games": ["eet"]}
-        expected_value = ["EET"]
+        expected_value = {"EET"}
 
         assert ModCleaner(data).clean_games() == expected_value
 
     def test_games_duplicate(self):
         # TODO: mock
         data = {"games": ["eet", "Eet", "eet"]}
-        expected_value = ["EET"]
+        expected_value = {"EET"}
 
         assert ModCleaner(data).clean_games() == expected_value
 
     def test_games_unknown(self):
         # TODO: mock
         data = {"games": ["_"]}
-        expected_value = list()
+        expected_value = set()
 
         assert ModCleaner(data).clean_games() == expected_value
 
@@ -241,13 +241,13 @@ class TestReadmeCleaner:
 
     def test_games(self):
         data = {"games": ["BGEE"]}
-        expected_value = ["BGEE"]
+        expected_value = {"BGEE"}
 
         assert ReadmeCleaner(data).clean_games() == expected_value
 
     def test_games_unknown(self):
         data = {"games": ["_"]}
-        expected_value = list()
+        expected_value = set()
 
         assert ReadmeCleaner(data).clean_games() == expected_value
 
@@ -259,6 +259,6 @@ class TestReadmeCleaner:
         )
 
         data = {"games": ["Game1"]}
-        expected_value = ["BG2EE"]
+        expected_value = {"BG2EE"}
 
         assert ReadmeCleaner(data).clean_games() == expected_value

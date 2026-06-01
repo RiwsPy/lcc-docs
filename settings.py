@@ -83,32 +83,32 @@ class GameEnum(StrEnum):
     PSTEE = "PSTEE"
 
     @classmethod
-    def pst(cls) -> list:
-        return [cls.PST, cls.PSTEE]
+    def pst(cls) -> set:
+        return {cls.PST, cls.PSTEE}
 
     @classmethod
-    def iwd(cls) -> list:
-        return [cls.IWD, cls.IWD2, cls.IWDEE]
+    def iwd(cls) -> set:
+        return {cls.IWD, cls.IWD2, cls.IWDEE}
 
     @classmethod
-    def bg2(cls) -> list:
-        return [cls.BG2, cls.BGT, cls.BG2EE, cls.EET]
+    def bg2(cls) -> set:
+        return {cls.BG2, cls.BGT, cls.BG2EE, cls.EET}
 
     @classmethod
-    def bg1(cls) -> list:
-        return [cls.BG, cls.TUTU, cls.BGT, cls.BGEE, cls.SOD, cls.EET]
+    def bg1(cls) -> set:
+        return {cls.BG, cls.TUTU, cls.BGT, cls.BGEE, cls.SOD, cls.EET}
 
     @classmethod
-    def BG_EE(cls) -> tuple:
-        return (cls.BGEE, cls.BG2EE, cls.EET, cls.SOD)
+    def BG_EE(cls) -> set:
+        return {cls.BGEE, cls.BG2EE, cls.EET, cls.SOD}
 
     @classmethod
-    def IWD_EE(cls) -> tuple:
-        return (cls.IWDEE,)
+    def IWD_EE(cls) -> set:
+        return {cls.IWDEE}
 
     @classmethod
-    def EE(cls) -> tuple:
-        return cls.BG_EE() + cls.IWD_EE() + (cls.PSTEE,)
+    def EE(cls) -> set:
+        return cls.BG_EE() | cls.IWD_EE() | {cls.PSTEE}
 
 
 class CategoryEnum(StrEnum):

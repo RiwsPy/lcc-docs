@@ -55,7 +55,7 @@ class Mod:
     notes: list[str]
     description: str
     team: list[str]
-    games: list[GameEnum]
+    games: set[GameEnum]
     safe: Literal[0, 1, 2]
     translation_state: TranslationStateEnum
     languages: list[str]
@@ -184,7 +184,7 @@ class Mod:
 
     @property
     def is_EE(self) -> bool:
-        return bool(set(self.games) & set(GameEnum.EE()))
+        return bool(self.games & GameEnum.EE())
 
     @property
     def is_outdated(self) -> bool:
