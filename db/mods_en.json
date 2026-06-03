@@ -4146,12 +4146,14 @@
             "source": "Ce petit mod ajoute environ 45 objets inspirés des séries Icewind Dale et de Planescape: Torment, disséminés dans les magasins et sur le corps de vos ennemis. Il modifie également quelques objets existants (amélioration graphique pour les rendre plus distinguable...), ajoute un nouveau marchand dans votre antichambre, fait apparaître Deirdre et Joluv dans l'auberge d'Amkethran, permet à Cromwell et Cespenar de forger de nouveaux objets...|Dans Baldur's Gate, il ajoute 13 objets, un sac de contenance dans la boutique de Winthrop; un anneau de l'Académie d'Ulcaster...|Installez-le de préférence après tous les mods qui ajoutent ou modifient des sorts."
         },
         "notes": [
-            "Use the github link for EE versions."
+            "Use the github link for EE versions.",
+            "Untested on PSTEE."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Utilisez le lien github pour les versions EE."
+                "Utilisez le lien github pour les versions EE.",
+                "Le mod n'a pas été testé sous PSTEE."
             ]
         }
     },

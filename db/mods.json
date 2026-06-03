@@ -10311,7 +10311,8 @@
         "name": "Daulmakan's Item Pack",
         "description": "Ce petit mod ajoute environ 45 objets inspirés des séries Icewind Dale et de Planescape: Torment, disséminés dans les magasins et sur le corps de vos ennemis. Il modifie également quelques objets existants (amélioration graphique pour les rendre plus distinguable...), ajoute un nouveau marchand dans votre antichambre, fait apparaître Deirdre et Joluv dans l'auberge d'Amkethran, permet à Cromwell et Cespenar de forger de nouveaux objets...|Dans Baldur's Gate, il ajoute 13 objets, un sac de contenance dans la boutique de Winthrop; un anneau de l'Académie d'Ulcaster...|Installez-le de préférence après tous les mods qui ajoutent ou modifient des sorts.",
         "urls": [
-            "https://www.shsforums.net/files/file/824-item-pack-v18/",
+            "https://daulmakans-mods.netlify.app/item_pack",
+            "https://www.shsforums.net/files/file/824-item-pack/",
             "https://www.gibberlings3.net/forums/topic/37067-item-pack-v19/",
             "https://github.com/Dau1makan/Item-Pack/"
         ],
@@ -10323,14 +10324,18 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "BG2EE"
+            "BG2EE",
+            "EET",
+            "PST",
+            "PSTEE"
         ],
         "authors": [
             "Daulmakan"
         ],
         "team": [],
         "notes": [
-            "Utilisez le lien github pour les versions EE."
+            "Utilisez le lien github pour les versions EE.",
+            "Le mod n'a pas été testé sous PSTEE."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -11762,6 +11767,7 @@
         "name": "Drows",
         "description": "Ce mod modifie les portraits des PNJ du groupe en elfes noirs après qu'Adalon ait lancé un sort de métamorphose sur le groupe. Le changement de portraits durera jusqu'à ce qu'elle vous retransforme ou que vous la tuiez, ou jusqu'à ce que vous soyez découvert soit par Ardulace, soit par le Seigneur Démon, Phaere ou Solaufein. Bien évidemment, ils retrouveront leur portrait initial lorsque vous atteindrez la sortie de l'Ombreterre.",
         "urls": [
+            "https://daulmakans-mods.netlify.app/drows",
             "https://www.shsforums.net/files/file/944-drows/",
             "https://github.com/Dau1makan/Drows"
         ],

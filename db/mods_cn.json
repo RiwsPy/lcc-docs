@@ -4206,9 +4206,10 @@
             "请使用EE版本的github链接。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Utilisez le lien github pour les versions EE."
+                "Utilisez le lien github pour les versions EE.",
+                "Le mod n'a pas été testé sous PSTEE."
             ]
         }
     },
