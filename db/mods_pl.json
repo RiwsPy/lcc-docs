@@ -21361,10 +21361,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Le mod requiert ToB ainsi que le mod [[530]] v5 ou plus."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -26144,7 +26142,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de diamant qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous devez trouver et tuer le boss pour valider la victoire.|Ceci est un version Wip, ne proposant que 6 arènes sur les 12 prévues."
+            "source": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de diamant qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous devez trouver et tuer le boss pour valider la victoire.|Ceci est un version Wip, ne proposant que 8 arènes sur les 11 prévues."
         },
         "notes": [],
         "notes_meta": {
@@ -27984,6 +27982,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce pack de correctifs installe les corrections de bogues de divers mods et résout d'autres problèmes de compatibilité."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2050,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici 11 portraits pour vos personnages maléfiques (et quatre pour les personnages normaux, parmi lesquels figure un nain Bon)."
         },
         "notes": [],
         "notes_meta": {

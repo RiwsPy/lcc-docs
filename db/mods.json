@@ -25415,8 +25415,8 @@
             "IWDEE"
         ],
         "authors": [
-            "Crevs Daak",
-            "FlameWing"
+            "FlameWing",
+            "Crevs Daak"
         ],
         "team": [],
         "notes": [
@@ -28402,7 +28402,7 @@
         "name": "Pickpocket Options",
         "description": "Ce petit mod ajoute la capacité \"search body\" qui oblige les créatures inconscientes à laisser tomber leur équipement.",
         "urls": [
-            "https://www.shsforums.net/topic/31945-pickpocket-options/page-2"
+            "https://www.shsforums.net/topic/31945-pickpocket-options/page-2#post_id_379581"
         ],
         "categories": [
             "Gameplay"
@@ -34400,14 +34400,16 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
         "status": [
-            "stable"
+            "stable",
+            "embed"
         ],
         "last_update": "2023-05-06",
+        "embedded_in": 1587,
         "compatibilities": {
             "conflicts": [
                 1587
@@ -51658,7 +51660,7 @@
         ],
         "last_update": "2020-12-30",
         "compatibilities": {},
-        "tp2": "OHLMISST"
+        "tp2": "OhlMisSt"
     },
     {
         "id": 1463,
@@ -54621,9 +54623,7 @@
             "Sikret"
         ],
         "team": [],
-        "notes": [
-            "Le mod requiert ToB ainsi que le mod [[530]] v5 ou plus."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -54636,6 +54636,7 @@
         "last_update": "2008-03-01",
         "compatibilities": {
             "requires": [
+                "ToB",
                 530
             ]
         },
@@ -55388,6 +55389,7 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "EET"
         ],
         "authors": [
@@ -55722,7 +55724,7 @@
         "description": "Ce mod importe de nouveaux objets, sorts et kits de SoD dans BG2EE. Il est une réécriture du mod [[973]] du même auteur afin de le rendre plus modulaire et faciliter les compatibilités avec les autres mods.",
         "urls": [
             "https://www.gibberlings3.net/forums/forum/214-sod-to-bg2ee-item-upgrade/",
-            "https://github.com/DaerosTrollkiller/Trollkillers-Item-Spell-Kitpack"
+            "https://github.com/dark0dave/sod-items-to-bg2ee-eet"
         ],
         "categories": [
             "Sort et objet"
@@ -55732,7 +55734,8 @@
             "EET"
         ],
         "authors": [
-            "Daeros Trollkiller"
+            "Daeros Trollkiller",
+            "dark0dave"
         ],
         "team": [],
         "notes": [],
@@ -55744,7 +55747,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2024-08-09",
+        "last_update": "2026-06-01",
         "compatibilities": {
             "conflicts": [
                 973
@@ -62855,7 +62858,9 @@
             "EET"
         ],
         "authors": [
-            "MephistoSatanDevil"
+            "MephistoSatanDevil",
+            "Shohy",
+            "Esceen"
         ],
         "team": [],
         "notes": [],
@@ -62870,7 +62875,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-28",
+        "last_update": "2026-06-02",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -66277,7 +66282,7 @@
     {
         "id": 1911,
         "name": "Défis insurmontables de Telim'Gar",
-        "description": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de diamant qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous devez trouver et tuer le boss pour valider la victoire.|Ceci est un version Wip, ne proposant que 6 arènes sur les 12 prévues.",
+        "description": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de diamant qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous devez trouver et tuer le boss pour valider la victoire.|Ceci est un version Wip, ne proposant que 8 arènes sur les 11 prévues.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34557",
             "https://forums.beamdog.com/discussion/90555/",
@@ -66305,7 +66310,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-05-12",
+        "last_update": "2026-06-02",
         "compatibilities": {},
         "tp2": "Derats_Defis"
     },
@@ -70244,7 +70249,7 @@
         "name": "The HPS Portraits Project",
         "description": "Il s'agit d'un pack complet de portraits. Une fois tous les composants installés, chaque PNJ du jeu se verra attribuer un portrait de haute qualité, spécialement adapté à son apparence, à son environnement et à ses dialogues. Il ajoute également des portraits pour de nombreux mods. Tous les portraits sont générés par IA.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/41267-the-hps-portraits-project-v10/",
+            "https://www.gibberlings3.net/forums/topic/41267-the-hps-portraits-project/",
             "https://github.com/HoldenBG/HPS-Portraits-Project-1.0"
         ],
         "categories": [
@@ -70266,7 +70271,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-26",
+        "last_update": "2026-06-01",
         "compatibilities": {},
         "tp2": "hps_portrait_project"
     },
@@ -70929,5 +70934,34 @@
         "last_update": "2023-12-25",
         "compatibilities": {},
         "tp2": "n/a"
+    },
+    {
+        "id": 2050,
+        "name": "Evil portrait pack",
+        "description": "Voici 11 portraits pour vos personnages maléfiques (et quatre pour les personnages normaux, parmi lesquels figure un nain Bon).",
+        "urls": [
+            "https://www.shsforums.net/topic/29274-portait-pack-available/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Deathsangel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-09-08",
+        "compatibilities": {},
+        "tp2": "non-weidu"
     }
 ]

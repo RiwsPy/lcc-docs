@@ -22232,14 +22232,10 @@
             "status": "done",
             "source": "Ce mod ajoute 4 objets dans le jeu, chacun protégés par un groupe d'ennemis coriaces. Les objets sont puissants mais imposent également des malus pour les équilibrer."
         },
-        "notes": [
-            "该模组需要ToB以及[[530]] v5或更高版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Le mod requiert ToB ainsi que le mod [[530]] v5 ou plus."
-            ]
+            "source": []
         }
     },
     {
@@ -27127,10 +27123,10 @@
     },
     {
         "id": 1911,
-        "description": "在您选定的地点（阿斯卡特拉、观察者堡垒或安姆克萨兰），您将遇到一尊钻石魔像，它会向您提出挑战。每项挑战都是一个“竞技场”，您需要在其中找到并击杀首领以取得胜利。| 这是一个尚未完成的版本，目前仅包含计划中12个竞技场里的6个。",
+        "description": "在您选定的地点（阿斯卡特拉、观察者堡垒或安姆克萨兰），您将遇到一尊钻石魔像，它会向您提出挑战。每项挑战都是一个“竞技场”，您需要在其中找到并击杀首领以取得胜利。| 这是一个尚未完成的版本，目前仅包含计划中11个竞技场里的8个。",
         "description_meta": {
             "status": "done",
-            "source": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de diamant qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous devez trouver et tuer le boss pour valider la victoire.|Ceci est un version Wip, ne proposant que 6 arènes sur les 12 prévues."
+            "source": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de diamant qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous devez trouver et tuer le boss pour valider la victoire.|Ceci est un version Wip, ne proposant que 8 arènes sur les 11 prévues."
         },
         "notes": [],
         "notes_meta": {
@@ -29018,6 +29014,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce pack de correctifs installe les corrections de bogues de divers mods et résout d'autres problèmes de compatibilité."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2050,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici 11 portraits pour vos personnages maléfiques (et quatre pour les personnages normaux, parmi lesquels figure un nain Bon)."
         },
         "notes": [],
         "notes_meta": {
