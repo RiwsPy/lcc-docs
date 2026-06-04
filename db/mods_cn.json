@@ -4203,10 +4203,11 @@
             "source": "Ce petit mod ajoute environ 45 objets inspirés des séries Icewind Dale et de Planescape: Torment, disséminés dans les magasins et sur le corps de vos ennemis. Il modifie également quelques objets existants (amélioration graphique pour les rendre plus distinguable...), ajoute un nouveau marchand dans votre antichambre, fait apparaître Deirdre et Joluv dans l'auberge d'Amkethran, permet à Cromwell et Cespenar de forger de nouveaux objets...|Dans Baldur's Gate, il ajoute 13 objets, un sac de contenance dans la boutique de Winthrop; un anneau de l'Académie d'Ulcaster...|Installez-le de préférence après tous les mods qui ajoutent ou modifient des sorts."
         },
         "notes": [
-            "请使用EE版本的github链接。"
+                "对于增强版（EE），请使用 GitHub 链接。",
+                "该模组尚未在《异域镇魂曲：增强版》下进行过测试。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Utilisez le lien github pour les versions EE.",
                 "Le mod n'a pas été testé sous PSTEE."
@@ -12061,9 +12062,9 @@
     },
     {
         "id": 843,
-        "description": "这个非常古老的迷你模组将让您以一种更和平的方式获得“一位老朋友的血液”。",
+        "description": "这个小模组将允许您以一种更为和平的方式取回“一位老友的血”。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mini mod vous permettra de récupérer `le sang d'un vieil ami` d'une manière plus pacifique."
         },
         "notes": [
@@ -14121,9 +14122,9 @@
             "long-168",
             "MephistoSatanDevil"
         ],
-        "description": "此模组为[[982]]提供了修正或修改。您可以在[这里](https://www.gibberlings3.net/forums/topic/29618-sr-revised-v13700-2021-october-26th/)找到其列表。",
+        "description": "这个模组为 [[982]] 带来了修正。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod apporte des corrections ou des modifications à [[982]]."
         },
         "notes": [
@@ -14138,9 +14139,9 @@
     },
     {
         "id": 984,
-        "description": "也被称为“让Zerth剑变得有用”（Make the Zerth Blade Useful），此模组在您卸下Zerth剑后，会提供一个60秒的窗口，让您可以重新装备它而不会失去额外的法术位。它也适用于《冰风谷：增强版》中类似的武器，例如法师匕首和神圣战锤。|由于它需要1.4版本补丁中为EE引擎添加的功能，因此只能使用具有这些补丁或更高版本的游戏。",
+        "description": "这个模组也被称为“让泽斯之刃变得有用”，它在您卸下泽斯之刃后提供60秒的时间窗口，让您可以在不丢失额外法术位的情况下重新装备它。它也适用于《冰风谷：增强版》中的类似武器，例如法师匕首和圣地战锤。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Aussi appelé `Make the Zerth Blade Useful`, ce mod vous donne une fenêtre de 60 secondes après avoir déséquipé l'épée Lame Zerth, pour le ré-équiper sans perdre vos emplacements de sorts supplémentaires. Il fonctionne également sur les armes similaires dans IWD:EE, telles que les dagues de mage et les marteaux de guerre sanctifiés."
         },
         "notes": [],
@@ -15985,9 +15986,9 @@
     },
     {
         "id": 1112,
-        "description": "这是Insomniator的模组[[119]]中[[1111]] v26/v28的一个定制版本，但它只激活TobEx的修复和调整。|尽管它与TobEx不冲突，因为它可以在TobEx之后完美安装，但最好还是选择[[119]]模组，因为它安装的是此补丁的完整版本。",
+        "description": "这是取自 [[119]] 模组的 [[1111]] v26/v28 定制版本，但仅启用了 [[1111]] 的修正和调整。|虽然与 [[1111]] 兼容，但建议优先使用 [[119]] 模组，因为它会安装此补丁的完整版本。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit d'une version personnalisée de [[1111]] v26/v28 tirée du mod [[119]], mais qui n'active que les corrections et ajustements de [[1111]].|Bien que compatible avec [[1111]], préférez-lui le mod [[119]] qui installe une version complète de ce patch."
         },
         "notes": [],
@@ -25779,7 +25780,7 @@
             "大多数错误已被[[153]]修复。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "La plupart des bugs ont été fixés par [[153]]."
             ]
