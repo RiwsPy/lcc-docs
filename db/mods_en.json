@@ -391,10 +391,10 @@
     },
     {
         "id": 27,
-        "description": "Originally created for Baldur's Gate 2 with the mod [[1601]], this mod has been rewritten so as not to require [[1062]]. It adds new content: quests (some of them very short), monsters, items and new areas.",
+        "description": "Originally created for Baldur's Gate 2 with the mod [[1062]], this mod has been rewritten to run as standalone. It adds new content: quests (some of them very short), monsters, items and new areas.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Créé à l'origine pour Baldur's Gate 2 avec le mod [[1601]], ce mod a été réécrit pour ne pas nécessiter [[1062]]. Il ajoute du nouveau contenu : des quêtes (dont certaines très courtes), des monstres, des objets et de nouvelles zones."
+            "source": "Créé à l'origine pour Baldur's Gate 2 avec le mod [[1062]], ce mod a été réécrit pour fonctionner en stand-alone. Il ajoute du nouveau contenu : des quêtes (dont certaines très courtes), des monstres, des objets et de nouvelles zones."
         },
         "notes": [],
         "notes_meta": {
@@ -4189,10 +4189,10 @@
     },
     {
         "id": 294,
-        "description": "This mod replaces the Return Cape animation with the more discreet [[1601]] one, restores BG1 graphics for the Varscona longsword, and allows Sarevok to catch up any levels he may be behind the main character in ToB (levels are skipped one by one to allow him to choose his high-level skills).",
+        "description": "This mod replaces the Return Cape animation with the more discreet [[1062]] one, restores BG1 graphics for the Varscona longsword, and allows Sarevok to catch up any levels he may be behind the main character in ToB (levels are skipped one by one to allow him to choose his high-level skills).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod remplace l'animation de la Cape de renvoi par celle, plus discrète, de [[1601]], restaure le graphisme de BG1 pour l'épée longue Varscona, et permet à Sarevok de rattraper ses niveaux de retard éventuels sur le personnage principal dans ToB (les niveaux se passent un à un pour permettre de choisir ses compétences de haut niveau)."
+            "source": "Ce mod remplace l'animation de la Cape de renvoi par celle, plus discrète, de [[1062]], restaure le graphisme de BG1 pour l'épée longue Varscona, et permet à Sarevok de rattraper ses niveaux de retard éventuels sur le personnage principal dans ToB (les niveaux se passent un à un pour permettre de choisir ses compétences de haut niveau)."
         },
         "notes": [],
         "notes_meta": {
@@ -6303,10 +6303,10 @@
     },
     {
         "id": 444,
-        "description": "No more engaging dialogs with faceless characters! This mod adds portraits to many of the game's NPCs, as well as to those of the main other mods if detected: [[72]], [[78]], [[147]], [[1051]], [[287]], [[337]], [[1602]], [[761]], [[866]], [[100]], [[1289]], [[1084]], [[1088]], [[1026]], [[1027]], [[1601]], and many more.",
+        "description": "No more engaging dialogs with faceless characters! This mod adds portraits to many of the game's NPCs, as well as to those of the main other mods if detected: [[72]], [[78]], [[147]], [[1051]], [[287]], [[337]], [[1602]], [[761]], [[866]], [[100]], [[1289]], [[1084]], [[1088]], [[1026]], [[1027]], [[1062]], and many more.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[72]], [[78]], [[147]], [[1051]], [[287]], [[337]], [[1602]], [[761]], [[866]], [[100]], [[1289]], [[1084]], [[1088]], [[1026]], [[1027]], [[1601]], et bien d'autres."
+            "source": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[72]], [[78]], [[147]], [[1051]], [[287]], [[337]], [[1602]], [[761]], [[866]], [[100]], [[1289]], [[1084]], [[1088]], [[1026]], [[1027]], [[1062]], et bien d'autres."
         },
         "notes": [
             "Warning: Although it installs perfectly on EET, the portraits have not been resized to EE format, so their quality may leave you wanting more..."
@@ -9899,10 +9899,10 @@
     },
     {
         "id": 699,
-        "description": "This mod is not a profile mod per se. It was mainly created because [[1601]] was filling all available profile slots while players wanted to use kits from other mods to play it. The Mod Kit Remover removes all mod kits from the character creation screen, with options to remove module kits only or Bioware and module kits. All kits will remain installed for use by previously created NPCs and PCs. All changes made by other mods to Bioware kits will remain intact, and kits from other WeiDU mods can be installed and selected during character creation. In short, you can install lots of kits while keeping the default ones selectable and intact.",
+        "description": "This mod is not a profile mod per se. It was mainly created because [[1062]] was filling all available profile slots while players wanted to use kits from other mods to play it. The Mod Kit Remover removes all mod kits from the character creation screen, with options to remove module kits only or Bioware and module kits. All kits will remain installed for use by previously created NPCs and PCs. All changes made by other mods to Bioware kits will remain intact, and kits from other WeiDU mods can be installed and selected during character creation. In short, you can install lots of kits while keeping the default ones selectable and intact.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod n'est pas un mod de profil à proprement parler. Il a été principalement créé parce que [[1601]] remplissait tous les emplacements de profil disponibles alors que les joueurs souhaitaient utiliser des profils d'autres mods pour y jouer. Le Mod Kit Remover supprime tous les profils de mod de l'écran de création de personnage.|Des options permettent de supprimer uniquement les profils de modules ou Bioware et les profils de modules. Tous les profils resteront installés pour être utilisés par les PNJ et les PC créés précédemment. Toutes les modifications apportées par d'autres mods aux profils de Bioware resteront intactes, et les profils d'autres mods WeiDU peuvent être installés et sélectionnés lors de la création du personnage. Bref, vous pouvez installer plein de profils tout en gardant sélectionnables et intacts les profils par défaut."
+            "source": "Ce mod n'est pas un mod de profil à proprement parler. Il a été principalement créé parce que [[1062]] remplissait tous les emplacements de profil disponibles alors que les joueurs souhaitaient utiliser des profils d'autres mods pour y jouer. Le Mod Kit Remover supprime tous les profils de mod de l'écran de création de personnage.|Des options permettent de supprimer uniquement les profils de modules ou Bioware et les profils de modules. Tous les profils resteront installés pour être utilisés par les PNJ et les PC créés précédemment. Toutes les modifications apportées par d'autres mods aux profils de Bioware resteront intactes, et les profils d'autres mods WeiDU peuvent être installés et sélectionnés lors de la création du personnage. Bref, vous pouvez installer plein de profils tout en gardant sélectionnables et intacts les profils par défaut."
         },
         "notes": [],
         "notes_meta": {
@@ -14956,10 +14956,10 @@
     },
     {
         "id": 1051,
-        "description": "Originally, BP enabled the 3 major mods ([[1601]], [[936]] and [[1118]]) to be played in a single package. Over time, all these mods were recoded in WeiDU format. BP's own additions having been so successful, its author converted it to WeiDU, and today BP allows you to significantly improve the AI of all your opponents, as well as your group, and to spice up many encounters. You'll notice that new (and naturally challenging) encounters have also been added: the lich on the docks, Orcus the demon prince... as well as the reworking of certain components from [[1021]] and the restoration of [[74]] in David Gaider's version.",
+        "description": "Originally, BP enabled the 3 major mods ([[1062]], [[936]] and [[1118]]) to be played in a single package. Over time, all these mods were recoded in WeiDU format. BP's own additions having been so successful, its author converted it to WeiDU, and today BP allows you to significantly improve the AI of all your opponents, as well as your group, and to spice up many encounters. You'll notice that new (and naturally challenging) encounters have also been added: the lich on the docks, Orcus the demon prince... as well as the reworking of certain components from [[1021]] and the restoration of [[74]] in David Gaider's version.",
         "description_meta": {
             "status": "needs_review",
-            "source": "À l'origine, BP permettait de pouvoir jouer aux 3 grands mods ([[1601]], [[936]] et [[1118]]) en un seul et même package. Au fil du temps, tous ces mods ont été recodés au format WeiDU. Les ajouts propres de BP ayant eu tellement de succès, son auteur le convertit à son tour en WeiDU, et BP permet aujourd'hui d'améliorer très sensiblement l'IA de tous vos adversaires, ainsi que de votre groupe, tout comme de corser de nombreuses rencontres. Vous remarquerez ainsi que de nouvelles rencontres (naturellement ardues) ont également été ajoutées : la liche sur les docks, Orcus le prince-démon... ainsi que des reprises de certains composants de [[1021]] et la restauration d'[[74]] dans la version de David Gaider."
+            "source": "À l'origine, BP permettait de pouvoir jouer aux 3 grands mods ([[1062]], [[936]] et [[1118]]) en un seul et même package. Au fil du temps, tous ces mods ont été recodés au format WeiDU. Les ajouts propres de BP ayant eu tellement de succès, son auteur le convertit à son tour en WeiDU, et BP permet aujourd'hui d'améliorer très sensiblement l'IA de tous vos adversaires, ainsi que de votre groupe, tout comme de corser de nombreuses rencontres. Vous remarquerez ainsi que de nouvelles rencontres (naturellement ardues) ont également été ajoutées : la liche sur les docks, Orcus le prince-démon... ainsi que des reprises de certains composants de [[1021]] et la restauration d'[[74]] dans la version de David Gaider."
         },
         "notes": [],
         "notes_meta": {
@@ -15107,18 +15107,18 @@
     },
     {
         "id": 1062,
-        "description": "This gigantic add-on adds 10 new NPCs (some from BG1), 180 new items, 170 new spells, some 40 additional creatures, 78 new kits, 5 major quests and a gigantic quest. Installation with Throne of Bhaal required.",
+        "description": "This gigantic add-on adds 10 new NPCs (some from BG1), 180 new items, 170 new spells, some 40 additional creatures, 78 new kits, 5 major quests and a gigantic quest.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque. Vous devez disposer d'une installation avec Throne of Bhaal."
+            "source": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque."
         },
         "notes": [
-            "For EE versions, see [[1601]]."
+            "For EE versions, see [[2051]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Pour les versions EE, regardez [[1601]]."
+                "Pour les versions EE, regardez [[2051]]."
             ]
         }
     },
@@ -18029,10 +18029,10 @@
     {
         "id": 1274,
         "name": "Jazon the revenant",
-        "description": "Jazon the revenant is a mute undead warrior who can follow you as a 7th member of the party. He is level 8 and will never progress, but he types hard and resists everything (strength and constitution 19, undead immunities, 75% resistance to everything and fast regeneration). His weapon is not magical at first, but evolves as the protagonist progresses. If he's killed, he drops his heart, which you can use after a night's sleep to re-invoke him. You'll find his heart in a tomb: in the Athkatla Graveyard District in BG2, in the Valley of Shadows in IWDEE.|STR 19, DEX 10, CON 19, INT 8, WIS 8, CHA 6.",
+        "description": "Jazon the revenant is a mute undead warrior who can follow you as a 7th member of the party. He is level 8 and will never progress, but he types hard and resists everything (strength and constitution 19, undead immunities, 75% resistance to everything and fast regeneration). His weapon is not magical at first, but evolves as the protagonist progresses. If he's killed, Charname regains his heart which you can use after a night's sleep to re-invoke him. You'll find his heart in a tomb: in the Athkatla Graveyard District in BG2, in the Valley of Shadows in IWDEE.|STR 19, DEX 10, CON 19, INT 8, WIS 8, CHA 6.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Jazon le revenant est un guerrier mort-vivant muet qui peut vous suivre comme 7ème membre du groupe. Il est de niveau 8 et ne progressera jamais, par contre il tape dur et résiste à tout (force et constitution 19, immunités de mort vivant, 75% de résistance à tout et régénération rapide). Son arme n'est pas magique au début mais évolue en fonction de la progression du protagoniste. S'il est tué, il droppe son cœur, que vous pouvez utiliser après une nuit de sommeil pour le ré-invoquer. Vous trouverez son coeur dans une tombe : dans le cimetière d'Athkatla dans BG2, dans la vallée des ombres de IWDEE.|FOR 19, DEX 10, CON 19, INT 8, SAG 8, CHA 6."
+            "source": "Jazon le revenant est un guerrier mort-vivant muet qui peut vous suivre comme 7ème membre du groupe. Il est de niveau 8 et ne progressera jamais, par contre il tape dur et résiste à tout (force et constitution 19, immunités de mort vivant, 75% de résistance à tout et régénération rapide). Son arme n'est pas magique au début mais évolue en fonction de la progression du protagoniste. S'il est tué, charname regagne son cœur, que vous pouvez utiliser après une nuit de sommeil pour le ré-invoquer. Vous trouverez son coeur dans une tombe : dans le cimetière d'Athkatla dans BG2, dans la vallée des ombres de IWDEE.|FOR 19, DEX 10, CON 19, INT 8, SAG 8, CHA 6."
         },
         "notes": [],
         "notes_meta": {
@@ -22626,18 +22626,20 @@
     },
     {
         "id": 1601,
-        "description": "This gigantic add-on adds 10 new NPCs (some from BG1), 180 new items, 170 new spells, some 40 additional creatures, 78 new kits, 5 major quests and a gigantic quest. You need to have Throne of Bhaal installed.",
+        "description": "This gigantic add-on adds 10 new NPCs (some from BG1), 180 new items, 170 new spells, some 40 additional creatures, 78 new kits, 5 major quests and a gigantic quest.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque. Vous devez disposer d'une installation avec Throne of Bhaal."
+            "source": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque."
         },
         "notes": [
-            "This version is for EE games: you must first download and unarchive the original [[1062]] WITHOUT installing it. Then run `Setup-TDDz.exe` to install the mod on your EE game."
+            "This version is for EE games: you must first download and unarchive the original [[1062]] WITHOUT installing it. Then run `Setup-TDDz.exe` to install the mod on your EE game.",
+            "Choose [[2051]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Cette version est pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale [[1062]] SANS l'installer. Puis lancer le fichier `Setup-TDDz.exe` pour installer le mod sur votre jeu EE."
+                "Cette version est pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale [[1062]] SANS l'installer. Puis lancer le fichier `Setup-TDDz.exe` pour installer le mod sur votre jeu EE.",
+                "Privilégiez [[2051]]."
             ]
         }
     },
@@ -28709,6 +28711,45 @@
         "description_meta": {
             "status": "done",
             "source": "Voici 11 portraits pour vos personnages maléfiques (et quatre pour les personnages normaux, parmi lesquels figure un nain Bon)."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2050,
+        "description": "This little mod provides a clean closure to Skie Silvershield's murder from SoD.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce petit mod apporte une conclusion satisfaisante au meurtre de Skie Silvershield qui s'est déroulé dans SoD."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2051,
+        "description": "This gigantic add-on adds 10 new NPCs (some from BG1), 180 new items, 170 new spells, some 40 additional creatures, 78 new kits, 5 major quests and a gigantic quest.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2052,
+        "description": "This package contains all areas from Planescape: Torment, rescaled to 75% of their original scale using python. It should work for any of the other Enhanced Edition games.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce pack contient tous les cartes de Planescape: Torment, redimensionnés à 75 % de leur taille d'origine à l'aide du language Python."
         },
         "notes": [],
         "notes_meta": {
