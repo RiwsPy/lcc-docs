@@ -71011,7 +71011,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "fr",
@@ -71023,9 +71023,9 @@
             "cn"
         ],
         "status": [
-            "stable"
+            "beta"
         ],
-        "last_update": "2025-05-19",
+        "last_update": "2026-04-15",
         "compatibilities": {
             "conflicts": [
                 736,
