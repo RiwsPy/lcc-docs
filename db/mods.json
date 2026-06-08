@@ -31925,6 +31925,7 @@
             "Tutu",
             "BGT",
             "BGEE",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -46832,12 +46833,13 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-12-28",
+        "last_update": "2026-06-06",
         "compatibilities": {},
         "tp2": "Derats_Illo"
     },
@@ -71077,5 +71079,109 @@
         "last_update": "2025-02-26",
         "compatibilities": {},
         "tp2": "PlanescapeAreas"
+    },
+    {
+        "id": 2053,
+        "name": "Dax Tweaks",
+        "description": "Voici des ajustements mineurs qui figuraient dans le mod [[1061]], qui ont été déplacés ici par souci de simplicité.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41319-dax-tweaks/",
+            "https://github.com/Maltodaxtrin/Dax-Tweaks"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Daxtreme"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-06-08",
+        "compatibilities": {},
+        "tp2": "DaxTweaks"
+    },
+    {
+        "id": 2054,
+        "name": "Portraits for Cowled Menace",
+        "description": "Voici les portraits utilisés dans le mod [[1061]], qui ont été déplacés ici par souci de simplicité.",
+        "urls": [
+            "https://github.com/Maltodaxtrin/Portraits-for-Cowled-Menace"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Daxtreme"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-06-05",
+        "compatibilities": {
+            "requires": [
+                1061
+            ]
+        },
+        "tp2": "PortraitsCM"
+    },
+    {
+        "id": 2055,
+        "name": "GabrielNYC's Item Pack",
+        "description": "Ce pack contient deux objets: l'Anneau des élus de Mask et l'Œil de l'assassin.",
+        "urls": [
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/g_item_pack.zip"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "GabrielNYC"
+        ],
+        "team": [],
+        "notes": [
+            "Les fichiers sont au format iap."
+        ],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable",
+            "obsolete"
+        ],
+        "last_update": "2003-06-10",
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
+        "tp2": "non-weidu"
     }
 ]

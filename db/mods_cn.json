@@ -18882,6 +18882,9 @@
     },
     {
         "id": 1320,
+        "team": [
+            "eva2000as"
+        ],
         "description": "一个商人，出售近百种一次性使用的纹身，这些纹身作用如同卷轴，但为“++”版本。|你还记得《异度风景：苦难》中的纹身吗？这里有同样的，还有很多其他的。你可以在以下地点找到商人：|- 博德之门Ⅱ：在盗贼公会外面，南边的遮阳庭院|- 黑暗之渊2：在商人圈旁边|- 冰风谷增强版：在库达哈的库伦锻造厂旁边",
         "description_meta": {
             "status": "done",
@@ -29055,12 +29058,53 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce pack contient tous les cartes de Planescape: Torment, redimensionnés à 75 % de leur taille d'origine à l'aide du language Python."
+            "source": "Ce pack contient tous les cartes de Planescape: Torment, redimensionnés à 75 % de leur taille d'origine à l'aide du language Python. Il est compatible avec toutes les autres versions de jeu EE."
         },
         "notes": [],
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 2053,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici des ajustements mineurs qui figuraient dans le mod [[1061]], qui ont été déplacés ici par souci de simplicité."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2054,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici les portraits utilisés dans le mod [[1061]], qui ont été déplacés ici par souci de simplicité."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2055,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce pack contient deux objets: l'Anneau des élus de Mask et l'Œil de l'assassin."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Les fichiers sont au format iap."
+            ]
         }
     }
 ]

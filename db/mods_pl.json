@@ -28022,12 +28022,53 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce pack contient tous les cartes de Planescape: Torment, redimensionnés à 75 % de leur taille d'origine à l'aide du language Python."
+            "source": "Ce pack contient tous les cartes de Planescape: Torment, redimensionnés à 75 % de leur taille d'origine à l'aide du language Python. Il est compatible avec toutes les autres versions de jeu EE."
         },
         "notes": [],
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 2053,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici des ajustements mineurs qui figuraient dans le mod [[1061]], qui ont été déplacés ici par souci de simplicité."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2054,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Voici les portraits utilisés dans le mod [[1061]], qui ont été déplacés ici par souci de simplicité."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2055,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce pack contient deux objets: l'Anneau des élus de Mask et l'Œil de l'assassin."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Les fichiers sont au format iap."
+            ]
         }
     }
 ]

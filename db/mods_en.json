@@ -28749,12 +28749,55 @@
         "description": "This package contains all areas from Planescape: Torment, rescaled to 75% of their original scale using python. It should work for any of the other Enhanced Edition games.",
         "description_meta": {
             "status": "done",
-            "source": "Ce pack contient tous les cartes de Planescape: Torment, redimensionnés à 75 % de leur taille d'origine à l'aide du language Python."
+            "source": "Ce pack contient tous les cartes de Planescape: Torment, redimensionnés à 75 % de leur taille d'origine à l'aide du language Python. Il est compatible avec toutes les autres versions de jeu EE."
         },
         "notes": [],
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 2053,
+        "description": "Here are some minor adjustments that were included in mod [[1061]] and have been moved here for the sake of simplicity.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Voici des ajustements mineurs qui figuraient dans le mod [[1061]], qui ont été déplacés ici par souci de simplicité."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2054,
+        "description": "Here are the portraits used in mod [[1061]], which have been moved here for the sake of simplicity.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Voici les portraits utilisés dans le mod [[1061]], qui ont été déplacés ici par souci de simplicité."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2055,
+        "description": "This pack contains two items: Ring of Mask’s Favored and Assassin’s Eye.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce pack contient deux objets: l'Anneau des élus de Mask et l'Œil de l'assassin."
+        },
+        "notes": [
+            "The files are in iap format."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Les fichiers sont au format iap."
+            ]
         }
     }
 ]
