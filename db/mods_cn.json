@@ -207,6 +207,9 @@
     },
     {
         "id": 15,
+        "team": [
+            "Lzw104522773"
+        ],
         "description": "此迷你模组主要允许善良阵营的玩家完成大桥区的谋杀任务，而无需杀死艾达隆来获取它的血液。邪恶阵营的玩家也可以尝试他们的运气：他们将会有很小的机会欺骗这头银龙。有了血液，现在就有可能找出制革商的幕后黑手，并在神殿中净化盔甲。",
         "description_meta": {
             "status": "done",
@@ -225,14 +228,10 @@
             "status": "done",
             "source": "Ce mod ajoute l'étoile du matin d'action dans la liste des trésors aléatoires disponibles."
         },
-        "notes": [
-            "与 2.5+ 版本不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Incompatible avec les versions 2.5+."
-            ]
+            "source": []
         }
     },
     {
@@ -29105,6 +29104,45 @@
             "source": [
                 "Les fichiers sont au format iap."
             ]
+        }
+    },
+    {
+        "id": 2056,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod permet aux mages, clercs et roublards d'utiliser les arbalètes qu'elles soient légères ou lourdes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2057,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2058,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod est un pack d'animation pour créatures. Il contient notamment le golem d'adamantine, le golem de mithril et le flagelleur mental."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]

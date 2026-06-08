@@ -195,6 +195,9 @@
     },
     {
         "id": 15,
+        "team": [
+            "damian"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -215,10 +218,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Incompatible avec les versions 2.5+."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28069,6 +28070,45 @@
             "source": [
                 "Les fichiers sont au format iap."
             ]
+        }
+    },
+    {
+        "id": 2056,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod permet aux mages, clercs et roublards d'utiliser les arbalètes qu'elles soient légères ou lourdes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2057,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2058,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod est un pack d'animation pour créatures. Il contient notamment le golem d'adamantine, le golem de mithril et le flagelleur mental."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]

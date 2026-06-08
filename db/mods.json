@@ -486,6 +486,7 @@
         "description": "Ce mini mod permet aux joueurs d'alignement bon principalement, de terminer la quête des meurtres du district du Pont sans avoir à tuer Adalon pour récupérer son sang. Les joueurs d'alignement mauvais peuvent également tenter leur chance : ils auront alors une petite chance de duper le dragon d'argent. Muni du sang, il sera désormais possible de débusquer les commanditaires du tanneur et de nettoyer l'armure dans un temple.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/adalons-blood-silberdrachenblutmod.5/",
+            "https://www.gibberlings3.net/forums/topic/36018-adalons-blood-mod-get-silver-dragons-blood-without-killing-adalon/",
             "https://github.com/Gitjas/Adalons_Blood"
         ],
         "categories": [
@@ -540,9 +541,7 @@
             "elminster"
         ],
         "team": [],
-        "notes": [
-            "Incompatible avec les versions 2.5+."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -550,7 +549,11 @@
             "obsolete"
         ],
         "last_update": "2019-12-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "EE version < 2.5"
+            ]
+        },
         "tp2": "non-weidu"
     },
     {
@@ -23192,7 +23195,8 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
@@ -71183,5 +71187,107 @@
             ]
         },
         "tp2": "non-weidu"
+    },
+    {
+        "id": 2056,
+        "name": "Universal Xbows",
+        "description": "Ce mod permet aux mages, clercs et roublards d'utiliser les arbalètes qu'elles soient légères ou lourdes.",
+        "urls": [
+            "https://github.com/streetwraith/universal-xbows"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "streetwraith"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2025-08-20",
+        "compatibilities": {},
+        "tp2": "universal-xbows"
+    },
+    {
+        "id": 2057,
+        "name": "EET Fixpack",
+        "description": "",
+        "urls": [
+            "https://github.com/EE-Mod-Setup/EET_Fixpack"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "obsolete",
+            "hidden"
+        ],
+        "last_update": "2021-06-22",
+        "compatibilities": {},
+        "tp2": "EET_Fix"
+    },
+    {
+        "id": 2058,
+        "name": "Artisan animations",
+        "description": "Ce mod est un pack d'animation pour créatures. Il contient notamment le golem d'adamantine, le golem de mithril et le flagelleur mental.",
+        "urls": [
+            "https://github.com/TheArtisanBG/IE-Animations"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2025-07-08",
+        "compatibilities": {},
+        "tp2": "artisan_animations"
     }
 ]
