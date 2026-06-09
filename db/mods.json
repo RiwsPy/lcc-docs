@@ -2606,7 +2606,8 @@
             "es",
             "fr",
             "it",
-            "ru"
+            "ru",
+            "pl"
         ],
         "status": [
             "stable"
@@ -3003,7 +3004,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-21",
+        "last_update": "2026-05-31",
         "compatibilities": {},
         "tp2": "Aura_BG1_2_EET"
     },
@@ -5782,7 +5783,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-26",
+        "last_update": "2026-05-31",
         "compatibilities": {},
         "tp2": "BardicWonders"
     },
@@ -9859,7 +9860,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04-28",
+        "last_update": "2026-05-29",
         "compatibilities": {},
         "tp2": "d2-mira"
     },
@@ -9894,7 +9895,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04-28",
+        "last_update": "2026-06-02",
         "compatibilities": {},
         "tp2": "d2-weapon"
     },
@@ -17180,7 +17181,8 @@
             "en",
             "pl",
             "ru",
-            "es"
+            "es",
+            "cn"
         ],
         "status": [
             "stable"
@@ -23243,7 +23245,7 @@
         "name": "Macholy's Living-Mod",
         "description": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Celui-ci fournit un système de règles permettant aux personnages de se nourrir et de boire. Sans cela, leur constitution diminuera avec le temps.",
         "urls": [
-            "https://trow.cc/board/showtopic=20348&hl=Macholy"
+            "https://trow.cc/board/showtopic=20348"
         ],
         "categories": [
             "Gameplay"
@@ -23309,7 +23311,6 @@
         "name": "Macholy's Teammates fight scripts",
         "description": "Ce mod revisite des scripts de combat, les agrémentant de quelques touches rapides et modes semi-automatiques.",
         "urls": [
-            "https://www.shsforums.net/files/file/742-macholys-teammates-fight-scripts-v31/",
             "https://trow.cc/board/showtopic=15651"
         ],
         "categories": [
@@ -23503,7 +23504,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-12-27",
+        "last_update": "2026-05-31",
         "compatibilities": {
             "conflicts": [
                 521,
@@ -25036,7 +25037,7 @@
             "BGT"
         ],
         "authors": [
-            "Mordan Dragon Slayer"
+            "Mordan"
         ],
         "team": [],
         "notes": [],
@@ -30562,8 +30563,7 @@
         "name": "Relationship",
         "description": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Il ajoute un nouveau système qui définit la relation entre le protagoniste et les membres du groupe. À tout moment, vous pouvez entamer une relation d'amitié avec n'importe quel PNJ du jeu. Dans le jeu original, de nombreux ennemis appellent leurs alliés à l'aide. Maintenant, si votre relation avec l'allié de l'ennemi est assez bonne, il n'aidera pas votre ennemi à vous attaquer.|Le mod comprend également une mise à jour du comportement des dragons, des familiers, des spectateurs et de nombreuses autres créatures.",
         "urls": [
-            "https://www.shsforums.net/files/file/745-relationship/",
-            "https://trow.cc/board/showtopic=15430&hl=Macholy"
+            "https://trow.cc/board/showtopic=15430"
         ],
         "categories": [
             "Gameplay"
@@ -31192,7 +31192,8 @@
             "EET"
         ],
         "authors": [
-            "Erebusant"
+            "Moonfruit",
+            "Tyrus"
         ],
         "team": [],
         "notes": [
@@ -32994,7 +32995,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-28",
+        "last_update": "2026-05-31",
         "compatibilities": {},
         "tp2": "shadowadept"
     },
@@ -33155,7 +33156,8 @@
         "translation_state": "auto",
         "safe": 1,
         "languages": [
-            "de"
+            "de",
+            "fr"
         ],
         "status": [
             "stable"
@@ -33843,7 +33845,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04-18",
+        "last_update": "2026-06-01",
         "compatibilities": {},
         "tp2": "Sirene_BG2"
     },
@@ -36065,7 +36067,7 @@
             "BGT"
         ],
         "authors": [
-            "TS25"
+            "Badgert"
         ],
         "team": [],
         "notes": [],
@@ -37265,7 +37267,8 @@
         "name": "The Bigg Character Pack.",
         "description": "Il s'agit d'une collection de portraits et de sons tirés de personnages des jeux Valve :|- Alyx Vance (de Half Life 2) : une jeune fille d'une vingtaine d'années, au caractère bien trempé et à la forte tête.|- Jane Doe \"le soldat\" (de Team Fortress 2) : un homme d'une trentaine d'années, obsédé par les combats et chaotique neutre.|- The Heavy weapons guy (de Team Fortress 2 : un homme chaotique bon qui aime rire, les sandwiches, la boxe et les mitrailleuses Gatling.",
         "urls": [
-            "https://www.shsforums.net/files/file/915-the-bigg-character-pack/"
+            "https://www.shsforums.net/files/file/915-the-bigg-character-pack/",
+            "https://github.com/vbigiani/tb-characters"
         ],
         "categories": [
             "Portrait et son"
@@ -37279,13 +37282,15 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "auto",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": [
             "stable"
         ],
-        "last_update": "2015-09-27",
+        "last_update": "2015-10-11",
         "compatibilities": {},
         "tp2": "tb#characters"
     },
@@ -37701,7 +37706,7 @@
             "beta",
             "archived"
         ],
-        "last_update": "2020-12-01",
+        "last_update": "2020-12-16",
         "compatibilities": {},
         "tp2": "The Demon and the Dragon"
     },
@@ -41165,6 +41170,7 @@
             "EET"
         ],
         "authors": [
+            "Gort",
             "Magus"
         ],
         "team": [],
@@ -42490,7 +42496,7 @@
         ],
         "last_update": "2024-02-05",
         "compatibilities": {},
-        "tp2": "C0Warlock"
+        "tp2": "Artisans_Warlock"
     },
     {
         "id": 1199,
@@ -42593,7 +42599,7 @@
         "description": "Ce mod ajoute un profil de guerrier, tiré des classes de prestige des races de Féérune, un archer spécialisé dans les frondes.",
         "urls": [
             "https://www.shsforums.net/files/file/935-warsling-sniper-kit-for-fighters/",
-            "https://github.com/11jo/WarslingSniperKit"
+            "https://github.com/11jo/Warsling_Sniper"
         ],
         "categories": [
             "Kit"
@@ -44158,7 +44164,7 @@
         "authors": [
             "aVENGER",
             "Wisp",
-            "TotoR115"
+            "TotoR"
         ],
         "team": [],
         "notes": [],
@@ -46937,7 +46943,7 @@
             "EET"
         ],
         "authors": [
-            "TotoR115"
+            "TotoR"
         ],
         "team": [],
         "notes": [],
@@ -47107,7 +47113,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-05-29",
+        "last_update": "2026-06-01",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -48091,7 +48097,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-05-28",
+        "last_update": "2026-06-09",
         "compatibilities": {},
         "tp2": "zbpod"
     },
@@ -48689,7 +48695,7 @@
         ],
         "last_update": "2026-05-27",
         "compatibilities": {},
-        "tp2": "lca"
+        "tp2": "LCA"
     },
     {
         "id": 1372,
@@ -48799,7 +48805,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-02",
+        "last_update": "2026-06-02",
         "compatibilities": {},
         "tp2": "infinity_ui"
     },
@@ -50430,7 +50436,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-24",
+        "last_update": "2026-05-29",
         "compatibilities": {},
         "tp2": "ZS_ShadowdancerOverhaul"
     },
@@ -51000,7 +51006,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2023-08-28",
+        "last_update": "2026-05-29",
         "compatibilities": {},
         "tp2": "d2-party-adder"
     },
@@ -51575,7 +51581,8 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "pl"
         ],
         "status": [
             "stable"
@@ -52963,7 +52970,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-03-21",
+        "last_update": "2026-05-30",
         "compatibilities": {
             "requires": [
                 "SoD"
@@ -53344,8 +53351,7 @@
         "name": "YLItems pack",
         "description": "Ce mod ajoute un marchand aux Cinq Chopes (SoA) et aux Archives de Lazarus (ToB). Celui-ci vend des objets puissants mais pour y accéder, votre réputation doit être très élevée. Notez que ce marchand ne vous présentera ses marchandises qu'une seule et unique fois. Quelques composants supplémentaires sont également proposés.",
         "urls": [
-            "https://trow.cc/board/index.php?showtopic=10173",
-            "https://www.shsforums.net/files/file/1268-ylitems-pack/"
+            "https://trow.cc/board/index.php?showtopic=10173"
         ],
         "categories": [
             "Sort et objet"
@@ -54682,7 +54688,8 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
@@ -55658,7 +55665,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-07-20",
+        "last_update": "2026-06-01",
         "compatibilities": {},
         "tp2": "SearchGuild"
     },
@@ -55762,7 +55769,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-06-01",
+        "last_update": "2026-06-08",
         "compatibilities": {
             "conflicts": [
                 973
@@ -63696,7 +63703,16 @@
         "translation_state": "n/a",
         "safe": 2,
         "languages": [
-            "en"
+            "cn",
+            "cz",
+            "de",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "kr",
+            "pl",
+            "ru"
         ],
         "status": [
             "stable"
@@ -66264,7 +66280,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2025-12-13",
+        "last_update": "2026-06-07",
         "compatibilities": {},
         "tp2": "SoAExtended"
     },
@@ -66346,6 +66362,7 @@
         "games": [
             "BGEE",
             "BG2EE",
+            "SoD",
             "EET",
             "BGT"
         ],
@@ -66750,7 +66767,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-01-02",
+        "last_update": "2026-06-09",
         "compatibilities": {},
         "tp2": "TheForgottenEdge"
     },
@@ -66881,7 +66898,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-04-01",
+        "last_update": "2025-04-20",
         "compatibilities": {},
         "tp2": "SCI-Divine-Soul"
     },
@@ -66917,7 +66934,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-04-01",
+        "last_update": "2024-12-24",
         "compatibilities": {},
         "tp2": "SCI-Blades+Bolts"
     },
@@ -70041,7 +70058,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-05-23",
+        "last_update": "2026-06-03",
         "compatibilities": {
             "requires": [
                 "Python",
@@ -70853,7 +70870,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-24",
+        "last_update": "2026-06-02",
         "compatibilities": {},
         "tp2": "InkGallery"
     },
@@ -70918,7 +70935,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2023-12-25",
+        "last_update": "2023-12-24",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -70947,7 +70964,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2008-09-08",
+        "last_update": "2007-09-10",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
@@ -71233,9 +71250,6 @@
             "Patch non officiel"
         ],
         "games": [
-            "BGEE",
-            "SoD",
-            "BG2EE",
             "EET"
         ],
         "authors": [
