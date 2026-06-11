@@ -63862,15 +63862,18 @@
         "description": "Mod de tweaks qui propose des ajustements sur le sommeil, l'action libre, le soin des morts-vivants devient impossible, quelques corrections d'animation ainsi que quelques scripts pour les personnages.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/40540-assorted-adjustments-babbys-first-mod/",
-            "https://www.nexusmods.com/baldursgate2ee/mods/119"
+            "https://www.nexusmods.com/baldursgate2ee/mods/119",
+            "https://github.com/ScrierOne/Assorted-Adjustments"
         ],
         "categories": [
             "Gameplay"
         ],
         "games": [
             "BGEE",
+            "SoD",
             "BG2EE",
-            "IWDEE"
+            "IWDEE",
+            "EET"
         ],
         "authors": [
             "ScrierOne"
@@ -63885,7 +63888,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-10-04",
+        "last_update": "2026-06-11",
         "compatibilities": {},
         "tp2": "assortedadjustments"
     },
@@ -71303,5 +71306,106 @@
         "last_update": "2025-07-08",
         "compatibilities": {},
         "tp2": "artisan_animations"
+    },
+    {
+        "id": 2059,
+        "name": "Ultimate Saints",
+        "description": "Ce mod ajoute un kit pour Moine basé sur le thème Saint Seiya / Les Chevaliers du Zodiaque.",
+        "urls": [
+            "https://trow.cc/board/showtopic=29757",
+            "https://github.com/trow/JJSDS"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "lms170712"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-06-11",
+        "compatibilities": {},
+        "tp2": "JJSDS"
+    },
+    {
+        "id": 2060,
+        "name": "Nightmare ajustment",
+        "description": "",
+        "urls": [
+            "https://github.com/ZhalekXishailri/NightmareAdjustment"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Dracoqwerty"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "beta",
+            "hidden"
+        ],
+        "last_update": "2022-12-20",
+        "compatibilities": {},
+        "tp2": "nightmareadjustment"
+    },
+    {
+        "id": 2061,
+        "name": "Anvil Monk Overhaul",
+        "description": "Ce mod rééquilibre la classe de Moine, en s'inpirant des mods [[784]] et [[530]]. En revisitant leurs HLA, la progression du niveau d'enchantement des poings ainsi que la possibilité de mettre des points au maniement de deux armes.",
+        "urls": [
+            "https://github.com/ZhalekXishailri/AnvilMonkOverhaul"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Dracoqwerty"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2022-07-24",
+        "compatibilities": {},
+        "tp2": "anvilmnkoverhaul"
     }
 ]
