@@ -71406,5 +71406,41 @@
         "last_update": "2022-07-24",
         "compatibilities": {},
         "tp2": "anvilmnkoverhaul"
+    },
+    {
+        "id": 2062,
+        "name": "Blizzard in Baator",
+        "description": "Le passé de Sans Nom recèle encore de nombreux secrets. Certains pourraient même bouleverser sa nature. Celui qui concerne son identité d'origine le mènera dans une dangereuse mission de sauvetage à travers une toute nouvelle région de Sigil, puis dans les profondeurs des Neuf Enfers, jusqu'au 8e niveau – les Terres gelées de Cania – et peut-être même… au-delà ? L'hiver inhospitalier n'est pas le seul danger qui l'y attend. Il peut être encore plus dangereux de se retrouver pris au piège entre les Seigneurs des Neuf Enfers dans leur guerre froide éternelle – Blizzard in Baator.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/39952-story-modplanescape-torment-enhanced-edition-blizzard-in-baator-act-1/",
+            "https://www.nexusmods.com/planescapetormentenhancededition/mods/20",
+            "https://github.com/BallDamage312/blizzard-in-baator"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "PSTEE"
+        ],
+        "authors": [
+            "FallDamage312",
+            "Wrathu",
+            "szef",
+            "Alicja Wojciechowska"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "pl"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-06-13",
+        "compatibilities": {},
+        "tp2": "blizzardinbaator"
     }
 ]
