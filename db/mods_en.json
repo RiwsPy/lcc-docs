@@ -28886,5 +28886,31 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2063,
+        "description": "This mod allows you to complete all three quests involving Arkion, Nemphre, and Ordulinian in a bloodless way, restoring classic BG1 functionality.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod vous permet de mener à bien les trois quêtes impliquant Arkion, Nemphre et Ordulinian sans effusion de sang, rétablissant ainsi le fonctionnement classique de BG1."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2064,
+        "description": "This mod is based on the concept of the [[1892]] mod. Instead, the mage can summon a planar helper that possesses rogue-like skills and the ability to disarm traps over a wide area.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod reprend le concept du mod [[1892]]. À la place, le mage peut invoquer une créature planaire qui possède des compétences de roublard et la particularité de désarmer les pièges sur une large zone."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

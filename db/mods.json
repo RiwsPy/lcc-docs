@@ -69571,6 +69571,7 @@
             "Patch non officiel"
         ],
         "games": [
+            "BGEE",
             "EET"
         ],
         "authors": [
@@ -71442,5 +71443,72 @@
         "last_update": "2026-06-13",
         "compatibilities": {},
         "tp2": "blizzardinbaator"
+    },
+    {
+        "id": 2063,
+        "name": "Necromancers Quest Restored",
+        "description": "Ce mod vous permet de mener à bien les trois quêtes impliquant Arkion, Nemphre et Ordulinian sans effusion de sang, rétablissant ainsi le fonctionnement classique de BG1.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41337-necromancers-quest-restored-nqr/",
+            "https://github.com/Dziadekkk/NecromancersQuestRestored"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "Dziadek"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "pl"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-06-16",
+        "compatibilities": {},
+        "tp2": "NecromancersQuestRestored"
+    },
+    {
+        "id": 2064,
+        "name": "Extraplanar Keywarden",
+        "description": "Ce mod reprend le concept du mod [[1892]]. À la place, le mage peut invoquer une créature planaire qui possède des compétences de roublard et la particularité de désarmer les pièges sur une large zone.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41338-mod-release-extraplanar-keywarden-%E2%80%94-spell-that-lets-mages-deal-with-traps-without-a-thief-in-the-party/",
+            "https://github.com/PelagiusOrdos/Extraplanar-Keywarden-spell-that-lets-mages-deal-with-traps-without-a-thief-in-the-party-BG2-mod-"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "PelagiusOrdos"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-06-15",
+        "compatibilities": {},
+        "tp2": "ak#ghost"
     }
 ]

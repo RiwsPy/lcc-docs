@@ -22912,7 +22912,7 @@
         },
         "notes": [
             "这个版本适用于增强版游戏：你必须先下载并解压原始版本的[[1062]]，但不要安装它。然后运行 Setup-TDDz.exe文件，将模组安装到你的增强版游戏上。",
-                "请优先使用[[2051]]。"
+            "请优先使用[[2051]]。"
         ],
         "notes_meta": {
             "status": "done",
@@ -29106,8 +29106,8 @@
             "source": "Ce pack contient deux objets: l'Anneau des élus de Mask et l'Œil de l'assassin."
         },
         "notes": [
-			"这些文件是iap格式的。"
-			],
+            "这些文件是iap格式的。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -29199,6 +29199,32 @@
         "description_meta": {
             "status": "done",
             "source": "Le passé de Sans Nom recèle encore de nombreux secrets. Certains pourraient même bouleverser sa nature. Celui qui concerne son identité d'origine le mènera dans une dangereuse mission de sauvetage à travers une toute nouvelle région de Sigil, puis dans les profondeurs des Neuf Enfers, jusqu'au 8e niveau – les Terres gelées de Cania – et peut-être même… au-delà ? L'hiver inhospitalier n'est pas le seul danger qui l'y attend. Il peut être encore plus dangereux de se retrouver pris au piège entre les Seigneurs des Neuf Enfers dans leur guerre froide éternelle – Blizzard in Baator."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2063,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod vous permet de mener à bien les trois quêtes impliquant Arkion, Nemphre et Ordulinian sans effusion de sang, rétablissant ainsi le fonctionnement classique de BG1."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2064,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod reprend le concept du mod [[1892]]. À la place, le mage peut invoquer une créature planaire qui possède des compétences de roublard et la particularité de désarmer les pièges sur une large zone."
         },
         "notes": [],
         "notes_meta": {
