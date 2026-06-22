@@ -534,10 +534,10 @@
     },
     {
         "id": 37,
-        "description": "A great adventure awaits you! Kill slimes, slay dragons, plunder ancient shrines, win women... Or finish the game itself. Which will it be? The messenger who initiates the quest can be found in the government quarter, near the door at the bottom of the map (only in chapter 3).|In the author's own opinion, he's not a serious mod. No doubt that's why she took it off the net...",
+        "description": "A great adventure awaits you! Kill slimes, slay dragons, plunder ancient shrines, win women... Or finish the game itself. Which will it be? The messenger who initiates the quest can be found in the government quarter, near the door at the bottom of the map (only in chapter 3).|In the author's own opinion, he's not a serious mod.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Une grande aventure vous attend ! Tuez des limons, assassinez des dragons, pillez d'anciens sanctuaires, gagnez des femmes... Ou finissez le jeu proprement dit. Que choisirez-vous ? Le messager qui initie la quête se trouve dans le quartier du gouvernement, près de la porte en bas de la carte (uniquement dans le chapitre 3).|De l'avis même de son auteur, ce n'est pas un mod sérieux. Sans doute la raison pour laquelle elle l'a retiré du net..."
+            "source": "Une grande aventure vous attend ! Tuez des limons, assassinez des dragons, pillez d'anciens sanctuaires, gagnez des femmes... Ou finissez le jeu proprement dit. Que choisirez-vous ? Le messager qui initie la quête se trouve dans le quartier du gouvernement, près de la porte en bas de la carte (uniquement dans le chapitre 3).|De l'avis même de son auteur, ce n'est pas un mod sérieux."
         },
         "notes": [],
         "notes_meta": {
@@ -17878,14 +17878,10 @@
             "status": "needs_review",
             "source": "Ce petit mod propose un nouveau type d'objet les « weapon oils ». Il s'agit de potions consommables qui permettent d'appliquer un effet supplémentaire aux armes."
         },
-        "notes": [
-            "Replaced by [[1835]] by the same author."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Remplacé par [[1835]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -20546,9 +20542,9 @@
     },
     {
         "id": 1453,
-        "description": "The battler occupies a special place in dwarven society and culture. He is a fearless fighter, capable of creating within himself a mad rage that enhances his fighting ability and deforms his physical features. When enraged, his face contorts and his teeth grind. Spittle escapes from his mouth and runs down his beard. His eyes enlarge, swell and become bloodshot. His size increases as his muscles swell and his body expands. His fighting ability becomes impressive, enabling him to fight longer and harder than any other dwarf. In his rage, he's almost impossible to stop. A dangerous foe, he's a threat to friends and foes alike.|The mod also modifies Korgan to make him a Battlerager.",
+        "description": "The Battlerager fills a particular niche in dwarf society and culture. He is a fearless warrior, able to create an insane rage within himself which increases his fighting ability and distorts his physical features. While enraged, a Battlerager's face becomes twisted and his teeth grind together. Spittle flies from his mouth and dribbles down his beard. His eyes enlarge, bulge, and become bloodshot. Size increases as his muscles swell and his body expands. His fighting ability becomes awesome, allowing him to fight longer and harder than any other dwarf. While in his rage, he is almost unstoppable. A dangerous enemy, he is a menace to friend and foe alike.|The mod also modifies Korgan to make him a Battlerager.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Le batailleur occupe une place particulière dans la société et la culture naines. C'est un guerrier intrépide, capable de créer en lui une rage folle qui augmente sa capacité de combat et déforme ses traits physiques. Lorsqu'il est enragé, son visage se déforme et ses dents grincent. Des crachats s'échappent de sa bouche et coulent le long de sa barbe. Ses yeux s'agrandissent, se gonflent et deviennent injectés de sang. Sa taille augmente au fur et à mesure que ses muscles se gonflent et que son corps s'étend. Sa capacité de combat devient impressionnante, lui permettant de se battre plus longtemps et plus durement que n'importe quel autre nain. Dans sa rage, il est presque impossible de l'arrêter. Ennemi dangereux, il est une menace pour ses amis comme pour ses ennemis.|Le mod modifie aussi Korgan pour qu'il soit un Battlerager."
         },
         "notes": [],
@@ -28906,6 +28902,19 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod reprend le concept du mod [[1892]]. À la place, le mage peut invoquer une créature planaire qui possède des compétences de roublard et la particularité de désarmer les pièges sur une large zone."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2065,
+        "description": "Poisoned Pathways adds new content to the game after you encountered Renfeld. The mod is inspired by the module `Into the Nest of Vipers` by Matthew G. Adkins, published in Dungeon magazine #75.",
+        "description_meta": {
+            "status": "done",
+            "source": " Poisoned Pathways est un mod qui ajoute un nouveau contenu au jeu après la rencontre avec Renfeld. Ce mod s'inpire du module `Into the Nest of Vipers` de Matthew G. Adkins, publié dans le Dungeon magazine #75."
         },
         "notes": [],
         "notes_meta": {

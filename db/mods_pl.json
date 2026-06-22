@@ -507,7 +507,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Une grande aventure vous attend ! Tuez des limons, assassinez des dragons, pillez d'anciens sanctuaires, gagnez des femmes... Ou finissez le jeu proprement dit. Que choisirez-vous ? Le messager qui initie la quête se trouve dans le quartier du gouvernement, près de la porte en bas de la carte (uniquement dans le chapitre 3).|De l'avis même de son auteur, ce n'est pas un mod sérieux. Sans doute la raison pour laquelle elle l'a retiré du net..."
+            "source": "Une grande aventure vous attend ! Tuez des limons, assassinez des dragons, pillez d'anciens sanctuaires, gagnez des femmes... Ou finissez le jeu proprement dit. Que choisirez-vous ? Le messager qui initie la quête se trouve dans le quartier du gouvernement, près de la porte en bas de la carte (uniquement dans le chapitre 3).|De l'avis même de son auteur, ce n'est pas un mod sérieux."
         },
         "notes": [],
         "notes_meta": {
@@ -17424,10 +17424,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Remplacé par [[1835]] du même auteur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28192,6 +28190,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod reprend le concept du mod [[1892]]. À la place, le mage peut invoquer une créature planaire qui possède des compétences de roublard et la particularité de désarmer les pièges sur une large zone."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2065,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": " Poisoned Pathways est un mod qui ajoute un nouveau contenu au jeu après la rencontre avec Renfeld. Ce mod s'inpire du module `Into the Nest of Vipers` de Matthew G. Adkins, publié dans le Dungeon magazine #75."
         },
         "notes": [],
         "notes_meta": {

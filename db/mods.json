@@ -1291,9 +1291,10 @@
     {
         "id": 37,
         "name": "Almateria's Quest 2",
-        "description": "Une grande aventure vous attend ! Tuez des limons, assassinez des dragons, pillez d'anciens sanctuaires, gagnez des femmes... Ou finissez le jeu proprement dit. Que choisirez-vous ? Le messager qui initie la quête se trouve dans le quartier du gouvernement, près de la porte en bas de la carte (uniquement dans le chapitre 3).|De l'avis même de son auteur, ce n'est pas un mod sérieux. Sans doute la raison pour laquelle elle l'a retiré du net...",
+        "description": "Une grande aventure vous attend ! Tuez des limons, assassinez des dragons, pillez d'anciens sanctuaires, gagnez des femmes... Ou finissez le jeu proprement dit. Que choisirez-vous ? Le messager qui initie la quête se trouve dans le quartier du gouvernement, près de la porte en bas de la carte (uniquement dans le chapitre 3).|De l'avis même de son auteur, ce n'est pas un mod sérieux.",
         "urls": [
-            "https://almrep.blogspot.com/p/almaquest-2.html"
+            "https://almrep.blogspot.com/p/almaquest-2.html",
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/AlmaQuest2v3_WIN.zip"
         ],
         "categories": [
             "Quête"
@@ -1312,14 +1313,15 @@
         "languages": [
             "en",
             "de",
-            "es"
+            "es",
+            "pl"
         ],
         "status": [
-            "missing"
+            "stable"
         ],
         "last_update": "2012-01-01",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "Almaquest2"
     },
     {
         "id": 38,
@@ -4403,7 +4405,9 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE",
+            "PSTEE"
         ],
         "authors": [
             "Magus"
@@ -4424,8 +4428,12 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-02-28",
-        "compatibilities": {},
+        "last_update": "2026-06-16",
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "tnt"
     },
     {
@@ -7198,7 +7206,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-24",
+        "last_update": "2026-06-20",
         "compatibilities": {},
         "tp2": "AutoLoot"
     },
@@ -14993,7 +15001,9 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Nicolas Peters"
@@ -16959,7 +16969,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-30",
+        "last_update": "2026-06-16",
         "compatibilities": {},
         "tp2": "hephernaanbg2"
     },
@@ -17794,7 +17804,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-09",
+        "last_update": "2026-06-14",
         "compatibilities": {},
         "tp2": "isnf"
     },
@@ -37550,7 +37560,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2023-11-06",
+        "last_update": "2026-06-21",
         "compatibilities": {},
         "tp2": "thecalling"
     },
@@ -44767,7 +44777,6 @@
         "description": "Ce petit mod propose un nouveau type d'objet les « weapon oils ». Il s'agit de potions consommables qui permettent d'appliquer un effet supplémentaire aux armes.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38730-kaelyns-weapon-oils-zs_weaponoils-do-not-use-deprecated/",
-            "https://www.nexusmods.com/baldursgate2ee/mods/105",
             "https://github.com/szaumoor/ZS_WeaponOils"
         ],
         "categories": [
@@ -44782,9 +44791,7 @@
             "Kaelyn"
         ],
         "team": [],
-        "notes": [
-            "Remplacé par [[1835]] du même auteur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -44793,6 +44800,7 @@
         "status": [
             "embed"
         ],
+        "embedded_in": 1835,
         "last_update": "2025-08-25",
         "compatibilities": {},
         "tp2": "ZS_WeaponOils"
@@ -48096,7 +48104,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-06-09",
+        "last_update": "2026-06-20",
         "compatibilities": {},
         "tp2": "zbpod"
     },
@@ -48312,7 +48320,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-18",
+        "last_update": "2026-06-20",
         "compatibilities": {},
         "tp2": "Godcall"
     },
@@ -50430,12 +50438,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-29",
+        "last_update": "2026-06-19",
         "compatibilities": {},
         "tp2": "ZS_ShadowdancerOverhaul"
     },
@@ -51394,7 +51403,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-10-13",
+        "last_update": "2026-06-16",
         "compatibilities": {},
         "tp2": "Battlerager"
     },
@@ -53079,7 +53088,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-29",
+        "last_update": "2026-06-19",
         "compatibilities": {},
         "tp2": "BookOfTorment"
     },
@@ -54915,7 +54924,8 @@
         "name": "38 Subraces for BG:EE",
         "description": "Voici un mod qui propose des sous-races pour les personnages.",
         "urls": [
-            "https://forums.beamdog.com/discussion/16668/"
+            "https://forums.beamdog.com/discussion/16668/",
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/SUBRACE.rar"
         ],
         "categories": [
             "Gameplay"
@@ -54929,10 +54939,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 0,
-        "languages": [],
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
         "status": [
-            "missing"
+            "stable"
         ],
         "last_update": "2013-03-11",
         "compatibilities": {},
@@ -55768,7 +55780,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-06-08",
+        "last_update": "2026-06-21",
         "compatibilities": {
             "conflicts": [
                 973
@@ -56435,7 +56447,11 @@
             "missing"
         ],
         "last_update": "2008-04-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "Nikita"
     },
     {
@@ -63887,7 +63903,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-11",
+        "last_update": "2026-06-13",
         "compatibilities": {},
         "tp2": "assortedadjustments"
     },
@@ -63955,7 +63971,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-28",
+        "last_update": "2026-06-20",
         "compatibilities": {},
         "tp2": "jarnip"
     },
@@ -66347,7 +66363,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-06-02",
+        "last_update": "2026-06-14",
         "compatibilities": {},
         "tp2": "Derats_Defis"
     },
@@ -66382,7 +66398,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-05-20",
+        "last_update": "2026-06-19",
         "compatibilities": {},
         "tp2": "JOining_Party_Select"
     },
@@ -70061,7 +70077,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-06-03",
+        "last_update": "2026-06-09",
         "compatibilities": {
             "requires": [
                 "Python",
@@ -71440,9 +71456,9 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-13",
+        "last_update": "2026-06-20",
         "compatibilities": {},
-        "tp2": "blizzardinbaator"
+        "tp2": "BlizzardinBaator"
     },
     {
         "id": 2063,
@@ -71507,8 +71523,43 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-15",
+        "last_update": "2026-06-14",
         "compatibilities": {},
         "tp2": "ak#ghost"
+    },
+    {
+        "id": 2065,
+        "name": "Poisoned Pathways",
+        "description": " Poisoned Pathways est un mod qui ajoute un nouveau contenu au jeu après la rencontre avec Renfeld. Ce mod s'inpire du module `Into the Nest of Vipers` de Matthew G. Adkins, publié dans le Dungeon magazine #75.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41353-mod-poisoned-pathways-a-quest-mod-for-bg2ee/",
+            "https://forums.beamdog.com/discussion/90716/",
+            "https://github.com/AciferBG/Poisoned-Pathways"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Acifer"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "de",
+            "es"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-06-20",
+        "compatibilities": {},
+        "tp2": "Poisoned_pathways"
     }
 ]
