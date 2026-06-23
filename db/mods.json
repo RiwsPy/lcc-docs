@@ -101,7 +101,8 @@
         "description": "Ce mod rééquilibre les quatre compétences de \"style d'arme\" pour les rendre plus conformes à leur fonctionnement dans AD&D 3.5 et Pathfinder, et pour corriger le déséquilibre assez important entre les styles d'armes dans BG2, dans lequel investir 2 étoiles dans tout autre style que \"2 armes\" était plutôt inutile et le double maniement presque toujours la construction optimale pour un guerrier. Il propose les 5 composants optionnels suivants :|- Rééquilibrage des styles de combat (3.5 Édition) : deux étoiles suffisent à obtenir la spécialisation maximale, presque toutes les classes peuvent placer au moins un point de compétence dans chaque style.|- Styles d'armes étendus pour les non-guerriers : permet aux voleurs et aux bardes d'investir 2 points dans le style à deux armes et le style à une arme.|- Les bâtons ne peuvent pas effectuer d'attaques sournoises.|- Les rôdeurs n'ont pas de pénalité de toucher en main gauche.|- Mise à jour de la cape de Montolio : pour être en harmonie avec le composant précédent.",
         "urls": [
             "https://forums.beamdog.com/discussion/69412/",
-            "https://www.shsforums.net/files/file/1205-35-edition-weapon-style-rebalance/"
+            "https://www.shsforums.net/topic/59719-mod-35-edition-weapon-style-rebalance/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/3.5weaponstyle.rar"
         ],
         "categories": [
             "Gameplay"
@@ -772,7 +773,7 @@
         "name": "Afaaq, the Djinni Companion",
         "description": "Ce mod ajoute un djinn se comportant comme un septième membre du groupe. Il dialogue avec le personnage principal et les membres du groupe (partie en travaux) et donne son avis dans les autres dialogues, comme un PNJ classique. Il propose également plusieurs quêtes faisant découvrir de nouveaux lieux. Il est assimilé à un guerrier-mage.|FOR 15, DEX 16, CON 13, INT 15, SAG 16, CHA 11.",
         "urls": [
-            "https://www.shsforums.net/files/file/1217-afaaq-the-djinni-companion/",
+            "https://www.shsforums.net/topic/60047-afaaq-the-djinni-companion/",
             "https://forums.beamdog.com/discussion/41108/",
             "https://github.com/Argent77/DjinniCompanion"
         ],
@@ -932,7 +933,7 @@
         "name": "Ajoc's Mini Mod",
         "description": "Créé à l'origine pour Baldur's Gate 2 avec le mod [[1062]], ce mod a été réécrit pour fonctionner en stand-alone. Il ajoute du nouveau contenu : des quêtes (dont certaines très courtes), des monstres, des objets et de nouvelles zones.",
         "urls": [
-            "https://www.shsforums.net/files/file/119-ajocs-minimod/",
+            "https://www.shsforums.net/topic/26126-ajocs-minimod/",
             "https://github.com/Spellhold-Studios/AjocMod/"
         ],
         "categories": [
@@ -1264,7 +1265,7 @@
         "name": "Almateria's IWD2 Fixpack",
         "description": "Ce mod apporte de nombreux correctifs au jeu.",
         "urls": [
-            "https://www.shsforums.net/files/file/1085-almaterias-iwd2-fixpack/",
+            "https://www.shsforums.net/topic/57384-almaterias-iwd2-fixpack/",
             "https://github.com/Spellhold-Studios/Almateria-IWD2-Fixpack/"
         ],
         "categories": [
@@ -1330,7 +1331,7 @@
         "name": "Almateria's Restoration Project",
         "description": "Pouvant être également installé indépendamment d'[[1157]], ce mod a toutefois pour vocation de restaurer du contenu non exploité par ce dernier ; dans ce sens il est donc intéressant de le coupler à [[1157]].",
         "urls": [
-            "https://www.shsforums.net/files/file/1053-almaterias-restoration-project/",
+            "https://www.shsforums.net/topic/60092-almaterias-restoration-project-overwiev/",
             "https://github.com/Spellhold-Studios/Almateria-Restoration-Project/"
         ],
         "categories": [
@@ -1412,7 +1413,8 @@
         "name": "Mana Based Spell System",
         "description": "En gros, ce mod implémente un système de basé sur le mana dans BG2. Vous pouvez mémoriser des sorts à tout moment en appuyant sur la touche `V`. Vous pouvez voir combien de points de mana il vous reste en appuyant sur `N`. Lorsque vos points de mana tombent en dessous de 0, vous subissez une pénalité et ne pourrez plus lancer de sorts jusqu'à ce que vous vous reposiez. Les sorts retirent autant de points de mana égales que leur niveau d'incantation. De légères modifications sont également apportées aux sorts existants.|Le lancement de sorts de très bas niveau est maintenant autorisé à Athkatla tant qu'il ne constitue pas une perturbation suffisamment importante pour que le Conseil des Six s'en alarme.",
         "urls": [
-            "https://www.shsforums.net/files/file/524-mana-based-spell-system/"
+            "https://www.shsforums.net/files/file/524-mana-based-spell-system/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/PO_SpellSystem.zip"
         ],
         "categories": [
             "Gameplay"
@@ -1776,7 +1778,7 @@
         "name": "Animal Companions",
         "description": "Ce petit mod permet aux rôdeurs (et aux druides si vous le souhaitez) d'obtenir un animal compagnon qui les suivra pendant tout le jeu (un peu comme un familier). À partir du niveau 3, ils peuvent partir à sa recherche.|Type d'animaux possibles : ours, loup, panthère, léopard, chien, araignée, wiverne, marmotte, lapin.",
         "urls": [
-            "https://www.shsforums.net/files/file/1064-animal-companions/",
+            "https://www.shsforums.net/topic/56242-animal-companions/",
             "https://github.com/thisisulb/AnimalCompanions"
         ],
         "categories": [
@@ -2099,7 +2101,8 @@
         "name": "Arcane Archer",
         "description": "Ce mod adapte la classe de prestige d'Archer-mage de D&D3 comme profil de guerrier pour Baldur's Gate II. Réservé aux elfes, il permet de créer des flèches uniques dont la puissance augmente au fil des niveaux.",
         "urls": [
-            "https://www.shsforums.net/files/file/994-arcane-archer/"
+            "https://www.shsforums.net/topic/53558-arcane-archer/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/ArcaneArcher.zip"
         ],
         "categories": [
             "Kit"
@@ -2264,7 +2267,8 @@
         "name": "Archive of Icendoan",
         "description": "Ce mod regroupe 3 petits mods créés par Icendoan :|- [[1980]] qui donne une peau de pierre permanente aux personnages, impactant radicalement les combats.|- #!Lightening : un composant délire qui installe une baguette se comportant comme un sac de contenance... ET oui, les fautes d'orthographe, ça craint...|- #!Brage ([[190]]) : ajoute Brage comme PNJ recrutable dans BG. Il est complètement silencieux, mais a une petite quête. Ce mod a été créé en 40 minutes pour fêter le 10e anniversaire de BG1.",
         "urls": [
-            "https://www.shsforums.net/files/file/726-archive-of-icendoan/"
+            "https://www.shsforums.net/topic/38859-archive-of-icendoan/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Icen_Archive.zip"
         ],
         "categories": [
             "Gameplay"
@@ -2425,7 +2429,7 @@
         "name": "Arnel Nalia Romance Revision",
         "description": "Ce mod ajoute une romance complète avec Nalia, y compris les dialogues de l'arbre de vie, l'enlèvement de Nalia par Bodhi et d'autres quêtes liées à l'amour. Il ajoute également de nouvelles quêtes et interactions avec les personnages. Il est recommandé d'avoir Minsc dans l'équipe...",
         "urls": [
-            "https://www.shsforums.net/files/file/94-sir-billybobs-revisions-arnels-nalia-romance/",
+            "https://www.shsforums.net/topic/61119-arnels-nalia-romance-revision-updated-to-v200-ee-compatible/",
             "https://github.com/Spellhold-Studios/Arnel-Nalia-Romance-Revision"
         ],
         "categories": [
@@ -2506,7 +2510,7 @@
         "urls": [
             "https://artisans-corner.com/house-rules/",
             "https://theartisanbg.github.io/The-Artisans-Corner/housetweaks",
-            "https://www.shsforums.net/files/file/1232-artemius-house-tweaks-for-ee/",
+            "https://www.shsforums.net/topic/60105-artemius-house-tweaks-for-ee/",
             "https://github.com/TheArtisanBG/House-Rule-Tweaks/"
         ],
         "categories": [
@@ -2689,7 +2693,7 @@
         "description": "Ce mod ajoute un nouveau PNJ recrutable, la barbare demi-orque Ashar qui se trouve près de l'entrée de la Couronne de Cuivre, juste après la mort du propriétaire de la taverne, Lehtinan. Ayant subi l'esclavage, Ashar est une femme agressive, simple, mais aussi un peu confuse. N'hésitez pas à lui dire ce que vous voulez, lors de vos entretiens, il n'y a pas de réponses \"correctes\" ou \"incorrectes\". Cependant, n'oubliez pas que vos paroles et vos actes peuvent avoir un grand impact sur son caractère. Le mod propose environ 20 dialogues avec le personnage principal, une petite romance, ainsi que de nombreuses interactions, commentaires et plaisanteries avec tous les PNJ officiels.",
         "urls": [
             "https://athkatla.cob-bg.pl/viewtopic.php?t=6982",
-            "https://www.shsforums.net/files/file/1203-ashar-npc/",
+            "https://www.shsforums.net/topic/59654-mod-ashar-npc/",
             "https://forums.beamdog.com/discussion/68262/",
             "https://www.nexusmods.com/baldursgate2ee/mods/37/"
         ],
@@ -3141,7 +3145,7 @@
         "name": "Auror Kit for the Ranger Class",
         "description": "Ce mod ajoute une archère unique avec une habilité exceptionnelle de contrôle de la glace et de l'hiver.",
         "urls": [
-            "https://www.shsforums.net/files/file/687-auror-kit-for-the-ranger-class/",
+            "https://www.shsforums.net/topic/37463-auror-kit-for-the-ranger-class/",
             "https://github.com/The-Gate-Project/A4Auror"
         ],
         "categories": [
@@ -4288,7 +4292,7 @@
         "name": "BG2 Improved GUI",
         "description": "Ce mod est une véritable perle : il ajoute de nouvelles fonctionnalités et améliore grandement l'affichage des informations dans le jeu original.|Vous pourrez entre autres : afficher le panneau de butin rapide (comme dans les jeux EE) - notamment regrouper les objets identiques et les récupérer en un seul clic, surligner en vert les parchemins de sorts non retranscrits dans le livre de sorts, ne pas afficher le bouton \"Retranscrire\" sur les parchemins de sorts déjà connus ou d'écoles d'opposition, afficher les points de vie au-dessus du groupe et des PNJ, afficher les informations sur le TAC0 et les dégâts dans l'écran d'inventaire, griser le portrait des personnages quand on fait glisser un objet qu'ils ne peuvent pas utiliser, plier et déplier la description des quêtes dans le journal, afficher la carte en niveaux de gris quand le jeu est en pause, autoriser l'équipement d'arme ou de bouclier dans la main secondaire (expérimental), afficher les effets actifs d'un PNJ avec le clic droit, préciser les messages de TAC0 et de dégâts, ne pas effacer les sorts draines, afficher les points de vie et l'action en cours sur le portrait du personnage...",
         "urls": [
-            "https://www.shsforums.net/files/file/1265-bg2-improved-gui/",
+            "https://www.shsforums.net/topic/60986-bg2-improved-gui/",
             "https://github.com/Spellhold-Studios/BG2-Improved-GUI"
         ],
         "categories": [
@@ -4651,7 +4655,8 @@
         "name": "BG:EE Kitpack",
         "description": "Ce mod ajoute 21 nouveaux profils et en modifie certains.",
         "urls": [
-            "https://www.shsforums.net/files/file/1026-bgee-kitpack/"
+            "https://www.shsforums.net/topic/55638-mod-bgee-kitpack/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/kitpack-v1.62.zip"
         ],
         "categories": [
             "Kit"
@@ -4755,7 +4760,8 @@
         "name": "Recoloured BG:EE GUI",
         "description": "Ce mod modifie la couleur bleu du fond de l'interface de BG:EE en marron.",
         "urls": [
-            "https://www.shsforums.net/files/file/1027-recoloured-bgee-gui/"
+            "https://www.shsforums.net/topic/55641-mod-bgee-recoloured-skin/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Recoloured-BGEE-GUI-v1.11.7z"
         ],
         "categories": [
             "Interface"
@@ -4784,7 +4790,7 @@
         "name": "BGSpawn System",
         "description": "Ce mod propose une gestion alternative de l'apparition aléatoire des créatures dans les zones de la Côté des Épées. Il remplace les créatures aléatoires (mais figées zone par zone) par un système complètement nouveau basé sur le niveau et le nombre de membres du groupe. Vous pouvez choisir l'intervalle entre les apparitions de créatures. En option, vous pouvez aussi installer une nouvelle créature, le Seigneur Loup vampirique (repris du Loup d'Ulcaster de [[1011]]), parmi ces créatures aléatoires.",
         "urls": [
-            "https://www.shsforums.net/files/file/740-bgspawn/",
+            "https://www.shsforums.net/topic/39639-bgspawn/",
             "https://github.com/Spellhold-Studios/BGSpawn"
         ],
         "categories": [
@@ -40899,7 +40905,8 @@
         "name": "Unarmed Adjustments",
         "description": "Ce petit mod modifie les attaques à mains nues des moines et des métamorphes. Le premier composant modifie les attaques de poing du moine afin qu'elles soient considérées comme magiques à partir du niveau 6 au lieu du niveau 9. Le second modifie les griffes du loup-garou du druide métamorphe pour qu'elles infligent des dégâts tranchants au lieu de perforants. De plus, les griffes du grand loup-garou sont désormais considérées comme étant de +4 au lieu de +2. Cela ne s'applique qu'à leur valeur d'enchantement, et ne changera pas leurs bonus de dégâts ou de TAC0.",
         "urls": [
-            "https://www.shsforums.net/files/file/764-unarmed-adjustments/"
+            "https://www.shsforums.net/topic/39949-unarmed-adjustments/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/ua.zip"
         ],
         "categories": [
             "Gameplay"
@@ -41259,7 +41266,8 @@
         "name": "Unique Containers",
         "description": "Ce mini-mod cosmétique permet d'attribuer des couleurs spécifiques aux récipients du jeu original, ainsi qu'à ceux des mods que vous aurez installés (et lorsqu'ils en rajoutent). Ainsi, chaque sac à gemmes, chaque étui à parchemins, chaque sac de contenance, ceinture de munitions... possède un couleur spécifique qui vous permettra de le différencier d'un autre. Il ajoute également de nouveaux récipients et corrige quelques bugs de magasins/objets d'autres mods.",
         "urls": [
-            "https://www.shsforums.net/files/file/789-unique-containers-v3/"
+            "https://www.shsforums.net/topic/40775-unique-containers-v3/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/contain_v3.rar"
         ],
         "categories": [
             "Sort et objet"
@@ -41335,7 +41343,8 @@
         "name": "Universal Clear Fog of War",
         "description": "Ce mod est une modernisation de l'ancien mod [[239]]. Comme son nom l'indique, il supprime le brouillard de guerre dans toutes les zones.",
         "urls": [
-            "https://www.shsforums.net/files/file/878-universal-clear-fog-of-war/"
+            "https://www.shsforums.net/files/file/878-universal-clear-fog-of-war/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/UFCOW.rar"
         ],
         "categories": [
             "Gameplay"
@@ -41678,7 +41687,8 @@
         "name": "Valorious' Manual for the Incompetent and the Mundane Adventurer",
         "description": "Ce mod ajoute dans le jeu des livres qui ajoutent un point de compétence martial dans un style d'arme choisi.",
         "urls": [
-            "https://www.shsforums.net/files/file/1088-valorious-manual-for-the-incompetent-and-the-mundane-adventurer/"
+            "https://www.shsforums.net/topic/57445-valorious-manual-for-the-incompetent-and-the-mundane-adventurer/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/A4PB_v.1.0.2.rar"
         ],
         "categories": [
             "Sort et objet"
@@ -42526,7 +42536,7 @@
         "urls": [
             "https://artisans-corner.com/warlock/",
             "https://theartisanbg.github.io/The-Artisans-Corner/warlock",
-            "https://www.shsforums.net/files/file/1233-warlock-mod-for-bgee-bg2ee-and-iwdee/",
+            "https://www.shsforums.net/topic/60111-warlock-mod-for-bgee-bg2ee-and-iwdee/",
             "https://forums.beamdog.com/discussion/69177/",
             "https://github.com/TheArtisanBG/Warlock/"
         ],
@@ -42657,7 +42667,7 @@
         "name": "Warsling Sniper Kit",
         "description": "Ce mod ajoute un profil de guerrier, tiré des classes de prestige des races de Féérune, un archer spécialisé dans les frondes.",
         "urls": [
-            "https://www.shsforums.net/files/file/935-warsling-sniper-kit-for-fighters/",
+            "https://www.shsforums.net/topic/46480-warsling-sniper-kit-for-fighters/",
             "https://github.com/11jo/Warsling_Sniper"
         ],
         "categories": [
@@ -42763,8 +42773,9 @@
         "name": "Way of the Fist",
         "description": "Ce mod ajoute un nouveau profil de moine, avec un système de points ki qui gère le nombre de capacités qu'il peut utiliser en un temps donné.",
         "urls": [
-            "https://www.shsforums.net/files/file/1157-way-of-the-fist/",
-            "https://forums.beamdog.com/discussion/62445/"
+            "https://www.shsforums.net/topic/59038-mod-way-of-the-fist/",
+            "https://forums.beamdog.com/discussion/62445/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/WayoftheFist_1.3.zip"
         ],
         "categories": [
             "Kit"
@@ -43425,7 +43436,7 @@
         "name": "Wizard Slayer Rebalancing",
         "description": "Ce mod est largement inspiré par d'autres mods antérieurs de rééquilibrage du Tueur de magiciens, tout particulièrement [[457]], [[614]], [[76]] et \"Kitanya's fixes\" (par SixOfSpades). Cette version est un peu plus classique et essaie de ne pas trop s'éloigner du concept d'origine du profil. En bref, elle tente d'insister sur les points forts du Tueur de magiciens tout en ajoutant quelques uns des meilleurs traits des mods cités plus haut. Au final, le profil devrait être un peu plus équilibré et amusant à jouer, tout en restant pour l'essentiel fidèle au concept original de Bioware.|Ce mod revisite donc le profil de Tueur de magiciens avec l'ajout de nouvelles capacités anti-mages, de deux nouvelles HLA (Réflexion de sorts et Fléau des Arcanes remplacent Résistance à la magie et Cri de guerre) et la possibilité de laisser votre Tueur de magiciens utiliser plus d'objets magiques que d'ordinaire.",
         "urls": [
-            "https://www.shsforums.net/files/file/960-wizard-slayer-rebalancing-v113-windows-version/",
+            "https://www.shsforums.net/topic/49205-wizard-slayer-rebalancing-v113/",
             "https://forums.beamdog.com/discussion/24181/",
             "https://github.com/Spellhold-Studios/Wizard-Slayer-Rebalancing/"
         ],
@@ -43601,7 +43612,7 @@
         "name": "Worldmap",
         "description": "Ce mod est absolument indispensable avec n'importe quel gros mod ajoutant des lieux sur la carte du monde ([[148]], [[1062]], [[226]], [[936]], [[287]], [[761]], [[1084]], [[1064]]...). Il permet de disposer d'une carte du monde unique, plus grande et plus jolie.|Il doit être installé au minimum après tous les mods susceptibles d'ajouter des emplacements dans la carte du monde. Attention à éviter de désinstaller ou réinstaller ce mod, cela pourrait tout simplement détruire votre partie.|Il vous est fortement conseillé de choisir l'option `Temps de voyages originaux` et la petite carte (si on vous pose la question). Les temps de voyages \"revus\" comportent des bugs non résolus, et la grande carte est plus lourde à charger sans présenter d'avantages (mais si vous installez un mod qui requiert la grande carte, cette dernière sera installée d'office sans qu'on vous pose la question).",
         "urls": [
-            "https://www.shsforums.net/files/file/308-bp-bgt-worldmap/",
+            "https://www.shsforums.net/topic/25536-worldmap-mod/",
             "https://github.com/Spellhold-Studios/BP-BGT-Worldmap"
         ],
         "categories": [
@@ -43653,7 +43664,8 @@
         "name": "Worship the Unseeing Eye",
         "description": "Ce mini mod vous donne l'opportunité d'adorer l'Œil Aveugle. Répondez \"Oui\" lorsque Gaal, le prédicateur du quartier du Temple, vous demande si vous voulez l'adorer. C'est aussi simple que ça !",
         "urls": [
-            "https://www.shsforums.net/files/file/157-worship-the-unseeing-eye/"
+            "https://www.shsforums.net/topic/12665-worship-the-unseeing-eye-mod-released/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/WtUE_v2.exe"
         ],
         "categories": [
             "Quête"
@@ -44424,7 +44436,7 @@
         "name": "iiSpell System Adjustment",
         "description": "Ce petit mod change le mécanisme de lancement des sorts en permettant aux utilisateurs de magie profane et divine de regagner des sorts sans avoir besoin de se reposer. Il autorise ainsi une nouvelle façon de jouer : les mages et les prêtres peuvent être joués comme une classe de sorcier plus flexible, et de nouvelles tactiques sont possibles, car les sorts peuvent devenir disponibles au milieu d'une bataille.|Vous pouvez personnaliser le délai pour récupérer un sort, de ne récupérer un sort que si l'incantation a réussi ou même si elle a échoué (par exemple si elle a été interrompue). Le tout par niveau de sort. De la même manière, des composants optionnels vous permettent de déterminer de la même manière quel montant d'XP vous gagnez en lançant des sorts.|Notez que ce mod peut sérieusement affecter le jeu et s'applique également aux lanceurs de sorts ennemis. Avec un mod comme [[1011]], les mages ennemis utiliseront - inconsciemment - cette récupération de sorts à leur avantage.",
         "urls": [
-            "https://www.shsforums.net/files/file/961-iispellsystemadjustments/",
+            "https://www.shsforums.net/topic/49924-iispellsystemadjustments/",
             "https://github.com/btigi/iiSpellSystemAdjustments"
         ],
         "categories": [
@@ -44531,7 +44543,8 @@
         "name": "ktweaks",
         "description": "Ce mod ajoute plusieurs ajustements pour le jeu : ajout de quelques armes normales et +1 dans la Forge de Grondemarteau, ajout d'armes +2 dans BG1, et les disperse aléatoirement ; augmente les dégâts faits par les dagues de jets, marteaux et lances...",
         "urls": [
-            "https://www.shsforums.net/files/file/812-ktweaks/"
+            "https://www.shsforums.net/topic/41551-ktweaks/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/ktweaks_v106.rar"
         ],
         "categories": [
             "Gameplay"
@@ -45467,7 +45480,7 @@
         "name": "Korgan's Redemption",
         "description": "Ce mod d'expansion donne une possibilité de rédemption à Korgan si Mazzy fait partie du groupe.",
         "urls": [
-            "https://www.shsforums.net/files/file/933-korgans-redemption/",
+            "https://www.shsforums.net/topic/46432-korgans-redemption/",
             "https://github.com/Spellhold-Studios/Korgan-Redemption"
         ],
         "categories": [
@@ -45507,7 +45520,7 @@
         "name": "Lucy the Wyvern",
         "description": "Ce mini mod d'expansion ajoute une petite surprise au dialogue de Lucy, la wiverne rencontrée dans le Marché de l'Aventurier. Pour le déclencher, il suffit d'entamer le dialogue avec le PJ.",
         "urls": [
-            "https://www.shsforums.net/files/file/635-lucy-the-wyvern",
+            "https://www.shsforums.net/topic/33667-lucy-the-wyvern/",
             "https://github.com/Spellhold-Studios/Lucy-the-Wyvern"
         ],
         "categories": [
@@ -45665,7 +45678,8 @@
         "name": "Nalia Mod",
         "description": "Ce mod modifie la classe de Nalia pour la différencier d'Imoen : elle n'est plus une magicienne/voleuse, mais une voleuse/magicienne qui améliore sa classe de voleur pendant le jeu. Dorénavant, vous bénéficierez d'un voleur digne de ce nom dans BG2 !",
         "urls": [
-            "https://www.shsforums.net/files/file/144-nalia-mod/"
+            "https://www.shsforums.net/files/file/144-nalia-mod/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/nalia_mod_v3.exe"
         ],
         "categories": [
             "PNJ (autre)"
@@ -48552,7 +48566,8 @@
         "name": "The One Drizzt",
         "description": "Ce mod vous permet de jouer avec Drizzt dans votre groupe tout en ayant un niveau similaire aux autres personnages pour éviter de rendre le jeu trop facile.",
         "urls": [
-            "https://www.shsforums.net/files/file/975-the-one-drizzt-v141/"
+            "https://www.shsforums.net/topic/51069-the-one-drizzt-v141/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/TheOneDrizzt_1.41.rar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -48911,7 +48926,7 @@
         "name": "Quick Save Slots Tweaks",
         "description": "Ce mod vous permet de choisir entre 1 et 4 emplacements de sauvegarde rapide différents.",
         "urls": [
-            "https://www.shsforums.net/files/file/1141-quick-save-slots-tweaks/",
+            "https://www.shsforums.net/topic/58653-mod-quick-save-slots-tweaks/",
             "https://forums.beamdog.com/discussion/49757/",
             "https://github.com/GwendolyneFreddy/Quick_Save_Slots_Tweaks"
         ],
@@ -50300,8 +50315,8 @@
         "name": "The 500 - The 1000",
         "description": "L'économie de Baldur's Gate est brisée : à peine sorti de Château-Suif, l'argent cessera d'être un facteur pour le reste du jeu. Des tentatives ont été faites pour y remédier en équilibrant les prix et les objets, mais c'est trop difficile et subjectif. Ce mod tranche le nœud gordien : à chaque aube, le groupe perdra de l'or.",
         "urls": [
-            "https://www.shsforums.net/files/file/1152-the-500/",
-            "https://www.shsforums.net/files/file/1153-the-1000-the-restless-edition/"
+            "https://www.shsforums.net/topic/58847-mod-the-500/",
+            "https://www.shsforums.net/topic/58851-mod-the-1000-the-restless-edition/"
         ],
         "categories": [
             "Gameplay"
@@ -50756,7 +50771,7 @@
         "name": "Convenience Script Mod",
         "description": "Ce mod ajoute un script qui fournit des fonctionnalités d'attaque de base ainsi que des touches de raccourcis pour activer certaines fonctions confort. Les fonctions confort ne peuvent être activées qu'en dehors des combats. Par exemple la touche `B` permet d'incanter instantanément pendant 1 round, notamment pour simplifier les préparations.|Plus de détails dans le README.",
         "urls": [
-            "https://www.shsforums.net/files/file/1131-convenience-script/",
+            "https://www.shsforums.net/topic/58183-convenience-script/",
             "https://forums.beamdog.com/discussion/40051/",
             "https://github.com/pcurrivan/ConvenienceScript"
         ],
@@ -50829,7 +50844,8 @@
         "name": "BG More Faster Better",
         "description": "Ce mod augmente la vitesse de déplacement des membres du groupe qui portent des bottes. Des bottes de base peuvent être achetées dans certains magasins pour équiper les membres du groupe. Ce mod ajoute également une centaine de portraits et de voix.",
         "urls": [
-            "https://www.shsforums.net/files/file/1074-bg-more-faster-better/"
+            "https://www.shsforums.net/topic/56532-bg-more-faster-better/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/BG_More_Faster_Better.zip"
         ],
         "categories": [
             "Gameplay",
@@ -50948,7 +50964,8 @@
         "name": "Show HP on NPC",
         "description": "Par défaut, le fait d'appuyer sur la touche TAB n'affiche les HP que sur les membres du groupe, ce tweak modifie le fichier exécutable principal pour afficher les HP sur les autres PNJ également.",
         "urls": [
-            "https://www.shsforums.net/files/file/1255-show-hp-on-npc/"
+            "https://www.shsforums.net/topic/60653-show-hp-on-npc/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/showhp_v2.zip"
         ],
         "categories": [
             "Patch non officiel"
@@ -52023,7 +52040,7 @@
         "name": "NPC Opine Again",
         "description": "Ce mod permet d'entendre plus régulièrement les personnages du groupe lorsque la réputation du groupe diffère de leur alignement moral, avant le point de rupture.",
         "urls": [
-            "https://www.shsforums.net/files/file/1178-npc-opine-again/"
+            "https://www.shsforums.net/topic/59233-mod-npc-opine-again/"
         ],
         "categories": [
             "Gameplay"
@@ -52124,7 +52141,8 @@
         "name": "Caelar's Fall",
         "description": "Il s'agit d'une démo d'un mod destiné à faire de Caelar Argent un PNJ joignable.|Pour que Caelar Argent vous rejoigne, vous devez tuer Belhifet avant elle.",
         "urls": [
-            "https://www.shsforums.net/files/file/1212-caelars-fall/"
+            "https://www.shsforums.net/topic/59976-mod-caelars-fall/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Caelar_fall_v0.03.zip"
         ],
         "categories": [
             "PNJ recrutable"
@@ -52785,7 +52803,7 @@
         "name": "One-handed crossbows",
         "description": "Ce mod propose de modifier les arbalètes légères pour les rendre utilisable à une main et ainsi pouvoir les cumuler avec un bouclier.",
         "urls": [
-            "https://www.shsforums.net/files/file/1158-one-handed-crossbows-for-bgee-and-sod/"
+            "https://www.shsforums.net/topic/59042-mod-one-handed-crossbows-for-bgee-and-sod/"
         ],
         "categories": [
             "Gameplay"
@@ -53180,7 +53198,8 @@
         "name": "Bad Stats Away",
         "description": "Améliore les mauvais score de caractéristiques des personnages recrutables de façon à avoir environ 90 points de caractéristiques. Lisez le readme pour en savoir plus sur la méthodologie.",
         "urls": [
-            "https://www.shsforums.net/files/file/962-bad-stats-away-v13/"
+            "https://www.shsforums.net/topic/50055-bad-stats-away-v13/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/BSA.zip"
         ],
         "categories": [
             "PNJ (autre)"
@@ -53312,7 +53331,7 @@
         "name": "BGT Spawn Tweak",
         "description": "Ce petit mod pour Baldur's Gate Trilogy vous permet de modifier les paramètres des points de spawn de la zone afin de changer la difficulté des rencontres.",
         "urls": [
-            "https://www.shsforums.net/files/file/1256-bgt-spawn-tweak/",
+            "https://www.shsforums.net/topic/60654-bgt-spawn-tweak/",
             "https://github.com/Spellhold-Studios/BGT-Spawn-Tweak"
         ],
         "categories": [
@@ -53579,7 +53598,7 @@
         "name": "Initiative",
         "description": "Ce mod introduit un système d'initiative adapté du jeu papier AD&D aux jeux Infinity Engine. Il fonctionne comme suit : 2 secondes après le début d'un combat, une gamme aléatoire de bonus et de pénalités est appliquée au groupe, aux alliés et aux ennemis. Ils affectent les vitesses de déplacement, d'arme et d'incantation, les accélérant ou les ralentissant, parfois légèrement, parfois radicalement. Les changements durent un round, suivi de 2 secondes de « temps libre », et ainsi de suite jusqu'à la fin du combat.",
         "urls": [
-            "https://www.shsforums.net/files/file/1156-initiative/"
+            "https://www.shsforums.net/topic/59025-initiative-mod/"
         ],
         "categories": [
             "Gameplay"
@@ -54071,7 +54090,7 @@
         "description": "Ce petit mod Weidu permet de créer un fichier out.txt qui liste toutes les interactions avec un PNJ Bioware.",
         "urls": [
             "https://www.shsforums.net/topic/40412-interjection-lister-utility/",
-            "https://www.shsforums.net/files/file/765-interjection-lister-utility/"
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/tools/sc_intjlister.rar"
         ],
         "categories": [
             "Utilitaire"
@@ -56086,7 +56105,7 @@
         "urls": [
             "https://trow.cc/board/showtopic=6204",
             "https://www.gibberlings3.net/forums/topic/37103-bard-song-switching-icewind-mode-for-bgee-series-v47/",
-            "https://www.shsforums.net/files/file/743-bard-song-switching-icewind-mode-for-bg2-and-ee-series/",
+            "https://www.shsforums.net/topic/39299-mod-bard-song-switching-icewind-mode-v47/",
             "https://github.com/shohysie/Bardsong_Switching"
         ],
         "categories": [
@@ -67529,7 +67548,7 @@
         "name": "PS:T Unfinished Business",
         "description": "Planescape: Torment Unfinished Business reprend le contenu presque achevé qui accompagnait le jeu PST, le peaufine, corrige les bugs et le finalise afin que vous puissiez découvrir et profiter du nouveau contenu dans votre jeu !",
         "urls": [
-            "https://www.shsforums.net/files/file/648-pst-unfinished-business-v412/",
+            "https://www.shsforums.net/topic/60053-pst-unfinished-business-reloaded/",
             "https://github.com/Spellhold-Studios/PST-Unfinished-Business/"
         ],
         "categories": [
@@ -68177,7 +68196,7 @@
         "name": "Mirror Game Maps",
         "description": "Cet outil vous permet d'inverser horizontalement n'importe quelle carte des jeux Infinity Engine. Il a été codé comme un mod WeiDU, afin de pouvoir être exécuté sur n'importe quelle plateforme prise en charge par WeiDU.",
         "urls": [
-            "https://www.shsforums.net/files/file/1163-mirror-game-maps/",
+            "https://www.shsforums.net/topic/59064-mirror-game-maps/",
             "https://github.com/Argent77/Mirror-Game-Maps/"
         ],
         "categories": [
@@ -68780,7 +68799,8 @@
         "name": "Delfosse Fonts",
         "description": "Une nouvelle police d'écriture pour les dialogues et le texte flottant notamment, des screens sont disponibles [ici](https://www.shsforums.net/topic/56710-bigger-fonts-for-baldurs-gate/). Disponible en 16, 18 et 20px.",
         "urls": [
-            "https://www.shsforums.net/files/file/1087-delfosse-fontszip/"
+            "https://www.shsforums.net/topic/56710-bigger-fonts-for-baldurs-gate/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Delfosse-Fonts.zip"
         ],
         "categories": [
             "Interface"
