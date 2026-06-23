@@ -4248,7 +4248,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doir être installé conjointement avec le mod [SpellFix Visual Effects](https://www.shsforums.net/files/file/1271-spellfix-visual-effects/)."
+            "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doit être installé conjointement avec le mod [SpellFix Visual Effects](https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/)."
         },
         "notes": [],
         "notes_meta": {
@@ -5033,10 +5033,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Préférez-lui [[1111]] qui intègre ces correctifs et bien d'autres !"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16227,10 +16225,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Une requête a été passé à shs pour l'héberger sur leur github, à suivre."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16264,13 +16260,12 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Quelque chose de maléfique a émergé du Plan astral, d'anciennes puissances sombres se regroupent pour revire. El même les divinités maléfiques tremblent... Aurez vous la volonté et la puissance de vous impliquer sans finir en poussière ?|Ce mod propose 38 nouvelles zones, de nombreux nouveaux monstres et de nouvelles animations. La campagne de Vecna suit les événements du module Die Vecne Die!.|Comme son écriture laissait à désirer, un [correctif des textes](https://www.shsforums.net/files/file/1095-vecna-v23-text-overhaul/) a été publié. Extrayez-le dans le répertoire Language du mod et écrasez les fichiers existants AVANT d'installer le mod."
+            "source": "Quelque chose de maléfique a émergé du Plan astral, d'anciennes puissances sombres se regroupent pour revire. El même les divinités maléfiques tremblent... Aurez vous la volonté et la puissance de vous impliquer sans finir en poussière ?|Ce mod propose 38 nouvelles zones, de nombreux nouveaux monstres et de nouvelles animations. La campagne de Vecna suit les événements du module Die Vecne Die!.|Comme son écriture laissait à désirer, un [correctif des textes](https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Vecna-v23-Text-Overhaul-v1.1.7z) a été publié. Extrayez-le dans le répertoire Language du mod et écrasez les fichiers existants AVANT d'installer le mod."
         },
         "notes": [],
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Cependant, il est réputé bogué. À installer à vos risques et périls.",
                 "Choisissez le lien github pour la version EE et le lien shs pour les versions originelles."
             ]
         }
@@ -16444,10 +16439,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Le lien github propose la dernière version compatible avec les versions 2.6 et EET."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -20301,10 +20294,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Seul le lien github permet de télécharger le mod."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28227,6 +28218,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Il s'agit d'une version stand-alone de [[1286]], supprimant tous les éléments non liés à Bodhi du mod original."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2068,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod contient les animations de l'ours (géant) ainsi que l'ours-garou de `Diablo II: Lord of Destruction`."
         },
         "notes": [],
         "notes_meta": {

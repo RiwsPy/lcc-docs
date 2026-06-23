@@ -4443,10 +4443,10 @@
     },
     {
         "id": 308,
-        "description": "这个模组的主要目标是为玩家添加传送能力，让他们可以前往博德之门Ⅱ和巴尔王座的所有官方地图。|此外，它还在游戏中添加了许多其他法术。|注意：必须与[SpellFix Visual Effects](https://www.shsforums.net/files/file/1271-spellfix-visual-effects/)模组一同安装。",
+        "description": "这个模组的主要目标是为玩家添加传送能力，让他们可以前往博德之门Ⅱ和巴尔王座的所有官方地图。|此外，它还在游戏中添加了许多其他法术。|注意：必须与[SpellFix Visual Effects](https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/)模组一同安装。",
         "description_meta": {
             "status": "done",
-            "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doir être installé conjointement avec le mod [SpellFix Visual Effects](https://www.shsforums.net/files/file/1271-spellfix-visual-effects/)."
+            "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doit être installé conjointement avec le mod [SpellFix Visual Effects](https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/)."
         },
         "notes": [],
         "notes_meta": {
@@ -5260,14 +5260,10 @@
             "status": "done",
             "source": "Ascension64, l'auteur de [[148]], a réalisé deux corrections de défauts du moteur de jeu de Baldur's Gate II. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières. Celle-ci concerne l'aptitude à parler aux personnages sous l'effet d'un charme, qui était possible dans BG, mais avait été supprimée par les développeurs dans le second opus."
         },
-        "notes": [
-            "推荐使用 [[1111]]，它集成了这些修复以及更多内容！"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Préférez-lui [[1111]] qui intègre ces correctifs et bien d'autres !"
-            ]
+            "source": []
         }
     },
     {
@@ -11496,6 +11492,9 @@
     },
     {
         "id": 804,
+        "team": [
+            "delete"
+        ],
         "description": "多产的Lava为您介绍一位年轻、健谈、爱玩且有点疯癫的半身人吟游诗人。她虽然不是很强壮，但应该能为您的队伍增添乐趣。ToB部分尚未充分开发，在SoA部分有一个新的任务。侏儒、矮人和半身人都可以追求她的恋情，没有职业和阵营的限制。您将在友善之臂的旅店里找到她。",
         "description_meta": {
             "status": "done",
@@ -16861,14 +16860,10 @@
             "status": "done",
             "source": "Ce mod fait la part belle aux morts-vivants dans la Saga. Vous pouvez devenir mort-vivant, en accueillir dans votre groupe, embaucher Bodhi après l'avoir tuée..."
         },
-        "notes": [
-            "已向shs提交请求，希望他们能将其托管在他们的GitHub上，有待后续跟进。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Une requête a été passé à shs pour l'héberger sur leur github, à suivre."
-            ]
+            "source": []
         }
     },
     {
@@ -16899,19 +16894,17 @@
     },
     {
         "id": 1179,
-        "description": "有邪恶之物从星界浮现，古老的黑暗力量正在集结图谋复仇。就连邪恶的神祇也为之颤抖……你是否有足够的意志和力量介入，最终不至于化为尘土？|这个模组提供了38个新区域、许多新怪物和新动画。维克娜的战役遵循着“杀死维克娜！”模组的事件。|由于其文本编写不尽如人意，一个[文本修正补丁](https://www.shsforums.net/files/file/1095-vecna-v23-text-overhaul/)已被发布。将其解压到模组的Language目录中，并在安装模组之前覆盖现有文件。",
+        "description": "有邪恶之物从星界浮现，古老的黑暗力量正在集结图谋复仇。就连邪恶的神祇也为之颤抖……你是否有足够的意志和力量介入，最终不至于化为尘土？|这个模组提供了38个新区域、许多新怪物和新动画。维克娜的战役遵循着“杀死维克娜！”模组的事件。|由于其文本编写不尽如人意，一个[文本修正补丁](https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Vecna-v23-Text-Overhaul-v1.1.7z)已被发布。将其解压到模组的Language目录中，并在安装模组之前覆盖现有文件。",
         "description_meta": {
             "status": "done",
-            "source": "Quelque chose de maléfique a émergé du Plan astral, d'anciennes puissances sombres se regroupent pour revire. El même les divinités maléfiques tremblent... Aurez vous la volonté et la puissance de vous impliquer sans finir en poussière ?|Ce mod propose 38 nouvelles zones, de nombreux nouveaux monstres et de nouvelles animations. La campagne de Vecna suit les événements du module Die Vecne Die!.|Comme son écriture laissait à désirer, un [correctif des textes](https://www.shsforums.net/files/file/1095-vecna-v23-text-overhaul/) a été publié. Extrayez-le dans le répertoire Language du mod et écrasez les fichiers existants AVANT d'installer le mod."
+            "source": "Quelque chose de maléfique a émergé du Plan astral, d'anciennes puissances sombres se regroupent pour revire. El même les divinités maléfiques tremblent... Aurez vous la volonté et la puissance de vous impliquer sans finir en poussière ?|Ce mod propose 38 nouvelles zones, de nombreux nouveaux monstres et de nouvelles animations. La campagne de Vecna suit les événements du module Die Vecne Die!.|Comme son écriture laissait à désirer, un [correctif des textes](https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Vecna-v23-Text-Overhaul-v1.1.7z) a été publié. Extrayez-le dans le répertoire Language du mod et écrasez les fichiers existants AVANT d'installer le mod."
         },
         "notes": [
-            "然而，该模组据称存在缺陷。请自行承担风险进行安装。",
             "请选择GitHub链接获取EE版本，选择shs链接获取原始版本。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Cependant, il est réputé bogué. À installer à vos risques et périls.",
                 "Choisissez le lien github pour la version EE et le lien shs pour les versions originelles."
             ]
         }
@@ -17087,14 +17080,10 @@
             "status": "done",
             "source": "Ce mod ajout une mule de bât qui vous accompagnera partout, transportant vos objets sans jamais défaillir."
         },
-        "notes": [
-            "GitHub链接提供了与2.6版本和EET兼容的最新版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Le lien github propose la dernière version compatible avec les versions 2.6 et EET."
-            ]
+            "source": []
         }
     },
     {
@@ -21104,14 +21093,10 @@
             "status": "done",
             "source": "L'idée principale de ce mod est de permettre au joueur d'engager des mercenaires de races et de types différents, qui n'existent pas en tant que PNJ recrutables.|Pour l'instant, ces mercenaires ne parlent pas avec le protagoniste, seuls les dialogues d'embauche existent."
         },
-        "notes": [
-            "只有Github链接可以下载此模组。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Seul le lien github permet de télécharger le mod."
-            ]
+            "source": []
         }
     },
     {
@@ -29256,6 +29241,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Il s'agit d'une version stand-alone de [[1286]], supprimant tous les éléments non liés à Bodhi du mod original."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2068,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod contient les animations de l'ours (géant) ainsi que l'ours-garou de `Diablo II: Lord of Destruction`."
         },
         "notes": [],
         "notes_meta": {

@@ -4386,10 +4386,10 @@
     },
     {
         "id": 308,
-        "description": "The main aim of this mod is to add teleportation capabilities to players, enabling them to travel to all official BG2 and ToB maps. It also adds many other spells to the game. Please note: it must be installed in conjunction with the [SpellFix Visual Effects](https://www.shsforums.net/files/file/1271-spellfix-visual-effects/) mod.",
+        "description": "The main aim of this mod is to add teleportation capabilities to players, enabling them to travel to all official BG2 and ToB maps. It also adds many other spells to the game. Please note: it must be installed in conjunction with the [SpellFix Visual Effects](https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/) mod.",
         "description_meta": {
             "status": "needs_review",
-            "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doir être installé conjointement avec le mod [SpellFix Visual Effects](https://www.shsforums.net/files/file/1271-spellfix-visual-effects/)."
+            "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doit être installé conjointement avec le mod [SpellFix Visual Effects](https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/)."
         },
         "notes": [],
         "notes_meta": {
@@ -5198,14 +5198,10 @@
             "status": "needs_review",
             "source": "Ascension64, l'auteur de [[148]], a réalisé deux corrections de défauts du moteur de jeu de Baldur's Gate II. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières. Celle-ci concerne l'aptitude à parler aux personnages sous l'effet d'un charme, qui était possible dans BG, mais avait été supprimée par les développeurs dans le second opus."
         },
-        "notes": [
-            "Prefer [[1111]], which incorporates these fixes and more!"
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Préférez-lui [[1111]] qui intègre ces correctifs et bien d'autres !"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16666,14 +16662,10 @@
             "status": "needs_review",
             "source": "Ce mod fait la part belle aux morts-vivants dans la Saga. Vous pouvez devenir mort-vivant, en accueillir dans votre groupe, embaucher Bodhi après l'avoir tuée..."
         },
-        "notes": [
-            "A request has been made to shs to host it on their github, to be continued."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Une requête a été passé à shs pour l'héberger sur leur github, à suivre."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -16704,19 +16696,17 @@
     },
     {
         "id": 1179,
-        "description": "Something evil has emerged from the Astral Plane, and ancient dark powers are gathering to rise again. Even the evil deities are trembling... This mod features 38 new areas, numerous new monsters and new animations. The Vecna campaign follows the events of the Die Vecne Die! mod. As its writing left something to be desired, a [text patch](https://www.shsforums.net/files/file/1095-vecna-v23-text-overhaul/) has been released. Extract it into the Language directory of the mod and overwrite the existing files BEFORE installing the mod.",
+        "description": "Something evil has emerged from the Astral Plane, and ancient dark powers are gathering to rise again. Even the evil deities are trembling... This mod features 38 new areas, numerous new monsters and new animations. The Vecna campaign follows the events of the Die Vecne Die! mod. As its writing left something to be desired, a [text patch](https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Vecna-v23-Text-Overhaul-v1.1.7z) has been released. Extract it into the Language directory of the mod and overwrite the existing files BEFORE installing the mod.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Quelque chose de maléfique a émergé du Plan astral, d'anciennes puissances sombres se regroupent pour revire. El même les divinités maléfiques tremblent... Aurez vous la volonté et la puissance de vous impliquer sans finir en poussière ?|Ce mod propose 38 nouvelles zones, de nombreux nouveaux monstres et de nouvelles animations. La campagne de Vecna suit les événements du module Die Vecne Die!.|Comme son écriture laissait à désirer, un [correctif des textes](https://www.shsforums.net/files/file/1095-vecna-v23-text-overhaul/) a été publié. Extrayez-le dans le répertoire Language du mod et écrasez les fichiers existants AVANT d'installer le mod."
+            "source": "Quelque chose de maléfique a émergé du Plan astral, d'anciennes puissances sombres se regroupent pour revire. El même les divinités maléfiques tremblent... Aurez vous la volonté et la puissance de vous impliquer sans finir en poussière ?|Ce mod propose 38 nouvelles zones, de nombreux nouveaux monstres et de nouvelles animations. La campagne de Vecna suit les événements du module Die Vecne Die!.|Comme son écriture laissait à désirer, un [correctif des textes](https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Vecna-v23-Text-Overhaul-v1.1.7z) a été publié. Extrayez-le dans le répertoire Language du mod et écrasez les fichiers existants AVANT d'installer le mod."
         },
         "notes": [
-            "However, it is known to be buggy. Install at your own risk.",
             "Choose the github link for the EE version and the shs link for the original versions."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Cependant, il est réputé bogué. À installer à vos risques et périls.",
                 "Choisissez le lien github pour la version EE et le lien shs pour les versions originelles."
             ]
         }
@@ -16892,14 +16882,10 @@
             "status": "needs_review",
             "source": "Ce mod ajout une mule de bât qui vous accompagnera partout, transportant vos objets sans jamais défaillir."
         },
-        "notes": [
-            "The github link shows the latest version compatible with versions 2.6 and EET."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Le lien github propose la dernière version compatible avec les versions 2.6 et EET."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -20832,14 +20818,10 @@
             "status": "needs_review",
             "source": "L'idée principale de ce mod est de permettre au joueur d'engager des mercenaires de races et de types différents, qui n'existent pas en tant que PNJ recrutables.|Pour l'instant, ces mercenaires ne parlent pas avec le protagoniste, seuls les dialogues d'embauche existent."
         },
-        "notes": [
-            "The mod can only be downloaded via the github link."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Seul le lien github permet de télécharger le mod."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28937,6 +28919,19 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Il s'agit d'une version stand-alone de [[1286]], supprimant tous les éléments non liés à Bodhi du mod original."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2068,
+        "description": "This mod contains the (giant) bear and the werebear animation from `Diablo II: Lord of Destruction`.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod contient les animations de l'ours (géant) ainsi que l'ours-garou de `Diablo II: Lord of Destruction`."
         },
         "notes": [],
         "notes_meta": {
