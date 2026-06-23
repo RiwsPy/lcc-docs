@@ -22097,10 +22097,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Voir [[752]] pour une version plus aboutie du mod."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28202,7 +28200,33 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": " Poisoned Pathways est un mod qui ajoute un nouveau contenu au jeu après la rencontre avec Renfeld. Ce mod s'inpire du module `Into the Nest of Vipers` de Matthew G. Adkins, publié dans le Dungeon magazine #75."
+            "source": "Poisoned Pathways est un mod qui ajoute un nouveau contenu au jeu après la rencontre avec Renfeld. Ce mod s'inpire du module `Into the Nest of Vipers` de Matthew G. Adkins, publié dans le Dungeon magazine #75."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2066,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose une petite série d'ajustements pour vos jeux."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2067,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Il s'agit d'une version stand-alone de [[1286]], supprimant tous les éléments non liés à Bodhi du mod original."
         },
         "notes": [],
         "notes_meta": {

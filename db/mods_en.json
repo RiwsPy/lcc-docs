@@ -22701,14 +22701,10 @@
             "status": "needs_review",
             "source": "Une elfe aventurière guerrière/voleuse d'alignement chaotique bon qui a eu la vie dure et qui est « associée » aux Voleurs de l'Ombre. Son passé est entouré de mystère.|FOR 16, DEX 19, CON 13, INT 11, SAG 10, CHA 14."
         },
-        "notes": [
-            "See [[752]] for a more complete version of the mod."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Voir [[752]] pour une version plus aboutie du mod."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28914,7 +28910,33 @@
         "description": "Poisoned Pathways adds new content to the game after you encountered Renfeld. The mod is inspired by the module `Into the Nest of Vipers` by Matthew G. Adkins, published in Dungeon magazine #75.",
         "description_meta": {
             "status": "done",
-            "source": " Poisoned Pathways est un mod qui ajoute un nouveau contenu au jeu après la rencontre avec Renfeld. Ce mod s'inpire du module `Into the Nest of Vipers` de Matthew G. Adkins, publié dans le Dungeon magazine #75."
+            "source": "Poisoned Pathways est un mod qui ajoute un nouveau contenu au jeu après la rencontre avec Renfeld. Ce mod s'inpire du module `Into the Nest of Vipers` de Matthew G. Adkins, publié dans le Dungeon magazine #75."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2066,
+        "description": "This mod offers a small selection of tweaks for your games.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose une petite série d'ajustements pour vos jeux."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2067,
+        "description": "This is a stand-alone version of [[1286]], removing all elements unrelated to Bodhi from the original mod.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Il s'agit d'une version stand-alone de [[1286]], supprimant tous les éléments non liés à Bodhi du mod original."
         },
         "notes": [],
         "notes_meta": {

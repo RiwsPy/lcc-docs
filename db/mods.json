@@ -31179,7 +31179,11 @@
             "stable"
         ],
         "last_update": "2025-10-26",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "EE version >= 2.0"
+            ]
+        },
         "tp2": "HiddenGameplayOptions"
     },
     {
@@ -31263,7 +31267,7 @@
         "name": "Revised Forgotten Wars Item Pack",
         "description": "Ce mod offre un pack d'objets très puissants.",
         "urls": [
-            "https://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=30367"
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/RFWIP.rar"
         ],
         "categories": [
             "Sort et objet"
@@ -45602,7 +45606,8 @@
         "last_update": "2025-05-08",
         "compatibilities": {
             "conflicts": [
-                1806
+                1806,
+                2067
             ]
         },
         "tp2": "AllThingsMazzy"
@@ -46930,7 +46935,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-13",
+        "last_update": "2026-06-22",
         "compatibilities": {},
         "tp2": "A7-WaresOfThePlanes"
     },
@@ -56435,17 +56440,17 @@
             "CoM_Solaufein"
         ],
         "team": [],
-        "notes": [
-            "Voir [[752]] pour une version plus aboutie du mod."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
             "en"
         ],
         "status": [
-            "missing"
+            "embed",
+            "hidden"
         ],
+        "embedded_in": 752,
         "last_update": "2008-04-01",
         "compatibilities": {
             "requires": [
@@ -71530,7 +71535,7 @@
     {
         "id": 2065,
         "name": "Poisoned Pathways",
-        "description": " Poisoned Pathways est un mod qui ajoute un nouveau contenu au jeu après la rencontre avec Renfeld. Ce mod s'inpire du module `Into the Nest of Vipers` de Matthew G. Adkins, publié dans le Dungeon magazine #75.",
+        "description": "Poisoned Pathways est un mod qui ajoute un nouveau contenu au jeu après la rencontre avec Renfeld. Ce mod s'inpire du module `Into the Nest of Vipers` de Matthew G. Adkins, publié dans le Dungeon magazine #75.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/41353-mod-poisoned-pathways-a-quest-mod-for-bg2ee/",
             "https://forums.beamdog.com/discussion/90716/",
@@ -71561,5 +71566,86 @@
         "last_update": "2026-06-20",
         "compatibilities": {},
         "tp2": "Poisoned_pathways"
+    },
+    {
+        "id": 2066,
+        "name": "Argent's Miscellaneous Tweaks",
+        "description": "Ce mod propose une petite série d'ajustements pour vos jeux.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41350-mod-argents-miscellaneous-tweaks",
+            "https://github.com/Argent77/A7-MiscTweaks"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "Tutu",
+            "BGT",
+            "PST",
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE",
+            "PSTEE"
+        ],
+        "authors": [
+            "Argent77"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "de"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-06-20",
+        "compatibilities": {},
+        "tp2": "A7-MiscTweaks"
+    },
+    {
+        "id": 2067,
+        "name": "Bodhi of the Fallen Leaves",
+        "description": "Il s'agit d'une version stand-alone de [[1286]], supprimant tous les éléments non liés à Bodhi du mod original.",
+        "urls": [
+            "https://trow.cc/board/showtopic=54052",
+            "https://github.com/trow/BodhiNPC"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Ratatoskr",
+            "BCaesar",
+            "MephistoSatanDevil"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "cn",
+            "ru"
+        ],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-06-19",
+        "compatibilities": {
+            "conflicts": [
+                1286
+            ]
+        },
+        "tp2": "BodhiNPC"
     }
 ]

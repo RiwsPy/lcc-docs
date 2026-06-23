@@ -22983,14 +22983,10 @@
             "status": "done",
             "source": "Une elfe aventurière guerrière/voleuse d'alignement chaotique bon qui a eu la vie dure et qui est « associée » aux Voleurs de l'Ombre. Son passé est entouré de mystère.|FOR 16, DEX 19, CON 13, INT 11, SAG 10, CHA 14."
         },
-        "notes": [
-            "查看 [[752]] 以获取该模组的更完善版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Voir [[752]] pour une version plus aboutie du mod."
-            ]
+            "source": []
         }
     },
     {
@@ -29233,7 +29229,33 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": " Poisoned Pathways est un mod qui ajoute un nouveau contenu au jeu après la rencontre avec Renfeld. Ce mod s'inpire du module `Into the Nest of Vipers` de Matthew G. Adkins, publié dans le Dungeon magazine #75."
+            "source": "Poisoned Pathways est un mod qui ajoute un nouveau contenu au jeu après la rencontre avec Renfeld. Ce mod s'inpire du module `Into the Nest of Vipers` de Matthew G. Adkins, publié dans le Dungeon magazine #75."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2066,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose une petite série d'ajustements pour vos jeux."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2067,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Il s'agit d'une version stand-alone de [[1286]], supprimant tous les éléments non liés à Bodhi du mod original."
         },
         "notes": [],
         "notes_meta": {
