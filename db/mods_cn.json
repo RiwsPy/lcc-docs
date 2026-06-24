@@ -8639,19 +8639,18 @@
     },
     {
         "id": 603,
+        "team": [
+            "archenemy"
+        ],
         "description": "杀狼是一位真正中立战士，如果你达到一定等级，他会加入你的队伍。他有自己的商店，但一旦他加入你的队伍，你就无法再访问。你可以在五酒壶旅店的楼上找到他，如果你与他分开，他会回到那里。他商店里的大部分物品都没有被识别，因为它们来自《辐射》游戏。如果你知道它们是什么，那就买下它们，否则，就享受发现它们用途的乐趣吧！|力量 18，敏捷 18，体质 16，智力 13，智慧 10，魅力 10。",
         "description_meta": {
             "status": "done",
             "source": "Killing Wolf est un guerrier neutre strict qui rejoindra votre groupe si vous avez un certain niveau. Il a son propre magasin, mais vous ne pourrez plus y accéder dès qu'il intégrera votre groupe. Vous le trouverez à l'étage de l'auberge des Cinq Chopes, où il retournera si vous vous en séparez. La plupart des articles de sa boutique ne sont pas identifiés parce qu'ils proviennent du jeu Fallout. Si vous savez ce qu'ils sont, alors achetez-les, sinon, amusez-vous à découvrir ce qu'ils font !|FOR 18, DEX 18, CON 16, INT 13, SAG 10, CHA 10."
         },
-        "notes": [
-            "存在该模组面向增强版（EE）的非官方移植版本，可在[此处](https://github.com/eva2000as/KWolfNPC/) 获取：，此版本亦提供了中文翻译。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe un portage non officiel de ce mod vers les versions EE disponible [ici](https://github.com/eva2000as/KWolfNPC/), elle propose également la traduction chinoise."
-            ]
+            "source": []
         }
     },
     {
@@ -12068,14 +12067,10 @@
             "status": "done",
             "source": "Ce mini mod vous permettra de récupérer `le sang d'un vieil ami` d'une manière plus pacifique."
         },
-        "notes": [
-            "增强版版本以及法语翻译版可通过第二个链接获取。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "La version EE et avec la traduction française est disponible via le second lien."
-            ]
+            "source": []
         }
     },
     {
@@ -12385,14 +12380,10 @@
             "status": "done",
             "source": "Ce mod a été conçu pour apporter diverses améliorations aux règles de BG2. Parmi les composants : un profil (Sword Angel) ; un rééquilibrage des métamorphes de façon plus raisonnable que celle de [[349]] ; le raffinement des armures avec la prise en compte du poids, l'échec sur les sorts profanes et les compétences de voleur ; et enfin des HLAs entièrement remodelées pour les rendre plus uniques à chaque classe et profil."
         },
-        "notes": [
-            "最初发布在 [Spellhold Studios](https://www.shsforums.net/files/category/31-refinements/) 论坛上，此模组现由一位独立模组制作者在 GitHub 上维护。然而，这个新版本不再与 BG1Tutu 兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "À l'origine publié dans le forum [Spellhold Studios](https://www.shsforums.net/files/category/31-refinements/), ce mod est désormais maintenu sur GitHub par un moddeur indépendant. Cependant, cette nouvelle version n'est plus compatible avec BG1Tutu."
-            ]
+            "source": []
         }
     },
     {
@@ -28990,19 +28981,6 @@
         "description_meta": {
             "status": "done",
             "source": "Ce pack de texte installe toutes les traductions disponibles de plusieurs dizaines de mods, qui ne sont pas incluses dans les mods, et effectue d'autres corrections de texte."
-        },
-        "notes": [],
-        "notes_meta": {
-            "status": "done",
-            "source": []
-        }
-    },
-    {
-        "id": 2049,
-        "description": "这是为您的邪恶角色准备的11张肖像（以及为普通角色准备的4张肖像，其中包括一名善良阵营的矮人）。",
-        "description_meta": {
-            "status": "done",
-            "source": "Voici 11 portraits pour vos personnages maléfiques (et quatre pour les personnages normaux, parmi lesquels figure un nain Bon)."
         },
         "notes": [],
         "notes_meta": {
