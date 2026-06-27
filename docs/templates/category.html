@@ -1,0 +1,16 @@
+<details class="category_container" data-name="{{ _(category.value) }}" open>
+    <summary class="no-summary-style category_name h2-style" data-count="{{ mods|length }}" id="{{ category.id }}">{{ _(category.value) }}</summary>
+    <div class="category">
+        <div class="row game">
+            <p>{{ _(trans["mod"]) }}</p>
+            <p></p>
+            <p>{{ _(trans["compatibilities"]) }}</p>
+            <p>{{ _(trans["authors"]) }}</p>
+            <p>{{ _(trans["translators"]) }}</p>
+            <img src="{{ static }}img/download.png" title="Téléchargement" alt="Image de téléchargement" width="42" height="42">
+        </div>
+        {% for mod in mods %}
+            {% include "mod.html" %}
+        {% endfor %}
+    </div>
+</details>
