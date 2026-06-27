@@ -13760,7 +13760,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-03-18",
+        "last_update": "2026-06-26",
         "compatibilities": {},
         "tp2": "expandedclasses"
     },
@@ -71764,5 +71764,36 @@
             ]
         },
         "tp2": "Bear_Animations_D2"
+    },
+    {
+        "id": 2069,
+        "name": "Slayer Portrait Change",
+        "description": "Ce mod modifie le portrait de votre personnage lorsqu'il se transforme en Écorcheur. Le portrait reviendra à son état initial une fois la transformation terminée.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41374-mod-bg2ee-slayer-portrait-change/",
+            "https://forums.beamdog.com/discussion/90733/",
+            "https://github.com/LCA-EET/BG2EE-Slayer-Portrait-Change"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "lcamod"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-06-27",
+        "compatibilities": {},
+        "tp2": "SPC"
     }
 ]

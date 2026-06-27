@@ -28913,5 +28913,18 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2069,
+        "description": "This mod changes your character's in-game portait when they are transformed into the Slayer. The portrait will be reverted back to what it was once the transformation is undone.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod modifie le portrait de votre personnage lorsqu'il se transforme en Écorcheur. Le portrait reviendra à son état initial une fois la transformation terminée."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]
