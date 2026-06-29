@@ -4074,8 +4074,8 @@
         "id": 283,
         "description": "一个来自视觉小说《安息》的、倾向于夸大其词的战士的语音包（英文）。",
         "description_meta": {
-            "status": "done",
-            "source": "Pack de voix (en anglais) pour un guerrier ayant une tendance à dramatiser les choses, tiré du visual novel Requiescence."
+            "status": "needs_review",
+            "source": "Pack de voix (en anglais) pour un guerrier ayant une tendance à dramatiser les choses, tiré du visual novel [Requiescence](https://argent-games.itch.io/requiescence). Voix de [TrentFace](https://www.castingcall.club/m/trentface)."
         },
         "notes": [],
         "notes_meta": {
@@ -29251,6 +29251,32 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod modifie le portrait de votre personnage lorsqu'il se transforme en Écorcheur. Le portrait reviendra à son état initial une fois la transformation terminée."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2070,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Pack de portrait issu du jeu `Raid: Shadow Legends`. Retravaillés pour être proches des portraits officiels."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2071,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Utilise des extraits vocaux de Kayne, interprété par Harlan Guthrie, tirés du podcast [Malevolent](https://www.malevolent.ca/). Recommandé pour incarner un personnage maléfique et excentrique. Certaines répliques s'adressent directement au joueur et comporte des propos grossiers."
         },
         "notes": [],
         "notes_meta": {

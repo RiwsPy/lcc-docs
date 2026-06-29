@@ -4015,10 +4015,10 @@
     },
     {
         "id": 283,
-        "description": "Voice pack for a fighter with a tendency to dramatize things, from the Requiescence visual novel.",
+        "description": "Voice pack for a fighter with a tendency to dramatize things, from the [Requiescence](https://argent-games.itch.io/requiescence) visual novel. Voiced by [TrentFace](https://www.castingcall.club/m/trentface).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Pack de voix (en anglais) pour un guerrier ayant une tendance à dramatiser les choses, tiré du visual novel Requiescence."
+            "source": "Pack de voix (en anglais) pour un guerrier ayant une tendance à dramatiser les choses, tiré du visual novel [Requiescence](https://argent-games.itch.io/requiescence). Voix de [TrentFace](https://www.castingcall.club/m/trentface)."
         },
         "notes": [],
         "notes_meta": {
@@ -28920,6 +28920,32 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod modifie le portrait de votre personnage lorsqu'il se transforme en Écorcheur. Le portrait reviendra à son état initial une fois la transformation terminée."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2070,
+        "description": "A set of portraits from the game `Raid: Shadow Legends`. Revised to be compatible with the official portraits.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Pack de portrait issu du jeu `Raid: Shadow Legends`. Retravaillés pour être proches des portraits officiels."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2071,
+        "description": "Uses voice clips of Kayne, voiced by Harlan Guthrie, from the podcast [Malevolent](https://www.malevolent.ca/). Recommended for a manic evil character type. Contains a lot of fourth wall breaking/addressing the player and some strong language.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Utilise des extraits vocaux de Kayne, interprété par Harlan Guthrie, tirés du podcast [Malevolent](https://www.malevolent.ca/). Recommandé pour incarner un personnage maléfique et excentrique. Certaines répliques s'adressent directement au joueur et comporte des propos grossiers."
         },
         "notes": [],
         "notes_meta": {

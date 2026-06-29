@@ -10035,7 +10035,7 @@
     {
         "id": 283,
         "name": "Damian Soundset",
-        "description": "Pack de voix (en anglais) pour un guerrier ayant une tendance à dramatiser les choses, tiré du visual novel Requiescence.",
+        "description": "Pack de voix (en anglais) pour un guerrier ayant une tendance à dramatiser les choses, tiré du visual novel [Requiescence](https://argent-games.itch.io/requiescence). Voix de [TrentFace](https://www.castingcall.club/m/trentface).",
         "urls": [
             "https://forums.beamdog.com/discussion/61522/",
             "https://teatime.itch.io/damian-soundset-mod-for-baldurs-gate-2"
@@ -10054,7 +10054,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
@@ -10063,7 +10063,7 @@
         ],
         "last_update": "2025-05-10",
         "compatibilities": {},
-        "tp2": "non-weidu"
+        "tp2": "damian"
     },
     {
         "id": 284,
@@ -71795,5 +71795,72 @@
         "last_update": "2026-06-27",
         "compatibilities": {},
         "tp2": "SPC"
+    },
+    {
+        "id": 2070,
+        "name": "Raid: Shadow Legends Portrait Pack",
+        "description": "Pack de portrait issu du jeu `Raid: Shadow Legends`. Retravaillés pour être proches des portraits officiels.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/88362/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "amyae"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2024-03-16",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2071,
+        "name": "Kayne Malevolent Soundset",
+        "description": "Utilise des extraits vocaux de Kayne, interprété par Harlan Guthrie, tirés du podcast [Malevolent](https://www.malevolent.ca/). Recommandé pour incarner un personnage maléfique et excentrique. Certaines répliques s'adressent directement au joueur et comporte des propos grossiers.",
+        "urls": [
+            "https://teatime.itch.io/kayne-soundset",
+            "https://forums.beamdog.com/discussion/89376/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2",
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "amyae"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2025-05-08",
+        "compatibilities": {},
+        "tp2": "kayne"
     }
 ]
