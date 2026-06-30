@@ -420,6 +420,7 @@
         "description": "Ce mod permet de débloquer les succès des jeux EE disponibles seulement via le client Steam. Il détecte les succès déverrouillés et les affichent dans le journal pour tout joueur sans avoir besoin d'utiliser le client Steam. De plus, il est possible d'acheter un trophée des succès qui suit l'état de succès débloqués. En plus des succès officiels de Steam, le mod débloque également un petit nombre de succès inutilisés pour SoD qui sont implémentés dans le jeu mais non enregistrés par Steam.|Le mod peut être installé à tout moment. Il n'est pas nécessaire de démarrer une nouvelle partie. Les succès qui ont déjà été débloqués avant l'installation du mod seront détectés et ajoutés au journal.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/33035-achievements-for-everyone/",
+            "https://forums.beamdog.com/discussion/82630/",
             "https://github.com/Argent77/A7-Achievements"
         ],
         "categories": [
@@ -16147,7 +16148,7 @@
         "name": "Golem Construction for Spellcasters",
         "description": "Ce mod permet aux lanceurs de sorts de fabriquer leur propre golem. Les golems ont une durée de vie limitée, mais suivent leur concepteur partout dans le jeu. Une petite partie du mod n'est accessible que dans BG2:EE.",
         "urls": [
-            "https://www.shsforums.net/topic/58696-general-discussion/",
+            "https://www.shsforums.net/forum/652-golem-construction-ee/",
             "https://forums.beamdog.com/discussion/60602/",
             "https://github.com/Argent77/A7-GolemConstruction"
         ],
@@ -23656,6 +23657,7 @@
         "description": "Le jeu contient un grand nombre de magasins pour répondre à vos besoins. Cependant, retourner dans un magasin peut prendre beaucoup de temps, ou n'est parfois même pas possible. Ce mod vous permet d'acquérir un artefact magique qui vous donnera le moyen d'aller dans n'importe quel magasin que vous avez visité dans le passé. Mettre la main sur cet artefact unique nécessite de réaliser une petite quête.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32357-magic-store-of-vergadain-visit-any-store-anywhere-and-anytime",
+            "https://forums.beamdog.com/discussion/81331",
             "https://github.com/Argent77/A7-MagicStore"
         ],
         "categories": [
@@ -31249,7 +31251,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-10-26",
+        "last_update": "2026-06-25",
         "compatibilities": {
             "requires": [
                 "EE version >= 2.0"
@@ -32947,6 +32949,7 @@
         "description": "Ce mod vise à corriger l'absence de réglage de la luminosité dans BG:EE et BG2:EE. Il propose une vingtaine de pré-réglages parmi lesquels il faudra en choisir un. Il suffit de réinstaller le mod pour en choisir un autre. Le [readme du mod](https://argent77.github.io/A7-LightingPackEE/index.html) indique aussi quels fichiers modifier pour ajuster le réglage à sa guise après installation.",
         "urls": [
             "https://www.shsforums.net/topic/57097-mod-shader-pack-lighting-adjustments-for-the-enhanced-editions/",
+            "https://forums.beamdog.com/discussion/36828",
             "https://github.com/Argent77/A7-LightingPackEE"
         ],
         "categories": [
@@ -45257,7 +45260,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-04",
+        "last_update": "2026-06-28",
         "compatibilities": {},
         "tp2": "derats_jazon"
     },
@@ -46962,7 +46965,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-06",
+        "last_update": "2026-06-25",
         "compatibilities": {},
         "tp2": "Derats_Illo"
     },
@@ -47142,6 +47145,7 @@
         "name": "DLC Merger",
         "description": "Ce mod permet de fusionner des DLC comme \"Siege of Dragonspear\" avec le contenu principal du jeu.",
         "urls": [
+            "https://forums.beamdog.com/discussion/71305",
             "https://github.com/Argent77/A7-DlcMerger"
         ],
         "categories": [
@@ -47167,12 +47171,13 @@
             "de",
             "br",
             "cn",
-            "es"
+            "es",
+            "fr"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-03-01",
+        "last_update": "2026-06-30",
         "compatibilities": {},
         "tp2": "DlcMerger"
     },
@@ -71714,16 +71719,16 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en",
             "cn",
             "ru"
         ],
         "status": [
-            "beta"
+            "stable"
         ],
-        "last_update": "2026-06-19",
+        "last_update": "2026-06-27",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -71862,5 +71867,36 @@
         "last_update": "2025-05-08",
         "compatibilities": {},
         "tp2": "kayne"
+    },
+    {
+        "id": 2072,
+        "name": "G3 Debugging Suite",
+        "description": "Ce mod averti le moddeur sur des éventuelles erreurs présents dans son jeu. Il ne modifie aucun fichier et ne laisse aucune trace dans les logs WeiDU ; il peut donc être utilisé à n'importe quelle étape de l'installation, autant de fois que nécessaire.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/forum/127-g3-debugging-suite-for-bg2/",
+            "https://github.com/Gibberlings3/G3_Debugging_Suite"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "CamDawg"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2017-10-10",
+        "compatibilities": {},
+        "tp2": "G3_Debugging_Suite"
     }
 ]

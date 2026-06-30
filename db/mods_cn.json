@@ -29283,5 +29283,18 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2072,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod averti le moddeur sur des éventuelles erreurs présents dans son jeu. Il ne modifie aucun fichier et ne laisse aucune trace dans les logs WeiDU ; il peut donc être utilisé à n'importe quelle étape de l'installation, autant de fois que nécessaire."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

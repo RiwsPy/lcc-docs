@@ -28952,5 +28952,18 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2072,
+        "description": "This mod alerts the modder to any errors that may be present in their game. It doesn't actually alter any game files and leaves no entry in the WeiDU log, so that it can be used at any point in the install order, as many times as needed.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod averti le moddeur sur des éventuelles erreurs présents dans son jeu. Il ne modifie aucun fichier et ne laisse aucune trace dans les logs WeiDU ; il peut donc être utilisé à n'importe quelle étape de l'installation, autant de fois que nécessaire."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]
