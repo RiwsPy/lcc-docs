@@ -7999,7 +7999,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Mosbi"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -71297,9 +71299,7 @@
             "GabrielNYC"
         ],
         "team": [],
-        "notes": [
-            "Les fichiers sont au format iap."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -71312,7 +71312,8 @@
         "last_update": "2003-06-10",
         "compatibilities": {
             "requires": [
-                "ToB"
+                "ToB",
+                "IEEP"
             ]
         },
         "tp2": "non-weidu"
@@ -71898,5 +71899,141 @@
         "last_update": "2017-10-10",
         "compatibilities": {},
         "tp2": "G3_Debugging_Suite"
+    },
+    {
+        "id": 2073,
+        "name": "Badge9781's Custom Items",
+        "description": "Ce mod contient une douzaine d'armes personnalisées, une armure complète et deux nouveaux casques. Les descriptions des objets laissent toutefois à désirer...",
+        "urls": [
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/badge_items.zip"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Badge9781"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "obsolete"
+        ],
+        "last_update": "2002-10-27",
+        "compatibilities": {
+            "requires": [
+                "IEEP"
+            ]
+        },
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2074,
+        "name": "Davoran's Spell Pack",
+        "description": "Inspiré par un fil de discussion sur un forum, l'auteur a créé ces sorts au nom de l'un de ses personnages de Donjons et Dragons les plus utilisés, le conjureur fou Davoran Karsh. Ce pack comprend deux nouveaux sorts.",
+        "urls": [
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/DavoransSpellPack1.zip"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "ShadowDaemon"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "obsolete"
+        ],
+        "last_update": "2002-02-03",
+        "compatibilities": {
+            "requires": [
+                "IEEP"
+            ]
+        },
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2075,
+        "name": "Kelno's Item Pack",
+        "description": "Deux katanas +3, une armure de plates +5 (maudite), un casque de qualité moyenne et une bonne amulette de mage/sorcier qui leur permet de lancer quelques sorts.",
+        "urls": [
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/KelnosItemPack.zip"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Brightblade"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "obsolete"
+        ],
+        "last_update": "2002-05-12",
+        "compatibilities": {
+            "requires": [
+                "IEEP"
+            ]
+        },
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2076,
+        "name": "ShadowDaemon's Custom Spells",
+        "description": "4 nouveaux sorts géniaux pour votre plus grand plaisir. Voici ces nouveaux sorts : « Sang du martyr », « Force d’un dieu ancien », « Étreinte collective » et « Missile magique amélioré ».",
+        "urls": [
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/ShadowDaemonsCustomSpells.zip"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "ShadowDaemon"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "obsolete"
+        ],
+        "last_update": "2002-01-17",
+        "compatibilities": {
+            "requires": [
+                "IEEP"
+            ]
+        },
+        "tp2": "non-weidu"
     }
 ]

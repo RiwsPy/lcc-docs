@@ -28735,14 +28735,10 @@
             "status": "needs_review",
             "source": "Ce pack contient deux objets: l'Anneau des élus de Mask et l'Œil de l'assassin."
         },
-        "notes": [
-            "The files are in iap format."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Les fichiers sont au format iap."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28959,6 +28955,58 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod averti le moddeur sur des éventuelles erreurs présents dans son jeu. Il ne modifie aucun fichier et ne laisse aucune trace dans les logs WeiDU ; il peut donc être utilisé à n'importe quelle étape de l'installation, autant de fois que nécessaire."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2073,
+        "description": "This mod add about a dozen custom weapons, a complete suit of armour and two new helmets. The item descriptions leave something to be desired, however...",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod contient une douzaine d'armes personnalisées, une armure complète et deux nouveaux casques. Les descriptions des objets laissent toutefois à désirer..."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2074,
+        "description": "Inspired by a message board string, the author created these spells in the name of one of his most comonly used D&D characters, The Crazy Conjurer Davoran Karsh. The pack includes two new spells.",
+        "description_meta": {
+            "status": "done",
+            "source": "Inspiré par un fil de discussion sur un forum, l'auteur a créé ces sorts au nom de l'un de ses personnages de Donjons et Dragons les plus utilisés, le conjureur fou Davoran Karsh. Ce pack comprend deux nouveaux sorts."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2075,
+        "description": "Two +3 katanas, a +5 set of plate (cursed), a mediocre helm, and a good mage/sorcerer amulet that lets them cast some spells.",
+        "description_meta": {
+            "status": "done",
+            "source": "Deux katanas +3, une armure de plates +5 (maudite), un casque de qualité moyenne et une bonne amulette de mage/sorcier qui leur permet de lancer quelques sorts."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2076,
+        "description": "4 nifty new spells for your enjoyment. The new spells are: Blood of the Martyr, Force of an Ancient God, Group Hug and Improved Magic Missile.",
+        "description_meta": {
+            "status": "done",
+            "source": "4 nouveaux sorts géniaux pour votre plus grand plaisir. Voici ces nouveaux sorts : « Sang du martyr », « Force d’un dieu ancien », « Étreinte collective » et « Missile magique amélioré »."
         },
         "notes": [],
         "notes_meta": {

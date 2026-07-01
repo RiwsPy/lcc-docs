@@ -28044,10 +28044,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Les fichiers sont au format iap."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28264,6 +28262,58 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod averti le moddeur sur des éventuelles erreurs présents dans son jeu. Il ne modifie aucun fichier et ne laisse aucune trace dans les logs WeiDU ; il peut donc être utilisé à n'importe quelle étape de l'installation, autant de fois que nécessaire."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2073,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod contient une douzaine d'armes personnalisées, une armure complète et deux nouveaux casques. Les descriptions des objets laissent toutefois à désirer..."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2074,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Inspiré par un fil de discussion sur un forum, l'auteur a créé ces sorts au nom de l'un de ses personnages de Donjons et Dragons les plus utilisés, le conjureur fou Davoran Karsh. Ce pack comprend deux nouveaux sorts."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2075,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Deux katanas +3, une armure de plates +5 (maudite), un casque de qualité moyenne et une bonne amulette de mage/sorcier qui leur permet de lancer quelques sorts."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2076,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "4 nouveaux sorts géniaux pour votre plus grand plaisir. Voici ces nouveaux sorts : « Sang du martyr », « Force d’un dieu ancien », « Étreinte collective » et « Missile magique amélioré »."
         },
         "notes": [],
         "notes_meta": {
