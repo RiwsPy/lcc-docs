@@ -1484,14 +1484,10 @@
             "status": "done",
             "source": "Créé pour BG avec son extension Tales of the Sword Coast, ce mod ajoute un nouveau forgeron situé à l'Auberge de Brasamical : Thorengrim Poingmarteau. Celui vend de nouveaux objets et, à l'instar de Cromwell, peut en améliorer 11 autres. Outre son aspect marchand, ce mod ajoute 3 nouvelles rencontres : des ogres dans le Camp des Bandits, un duergar et sa ménagerie dans les mines de Nashkel, et enfin des marins saouls qui tenteront de vous détrousser à la Porte de Baldur."
         },
-        "notes": [
-            "此模组已不再提供，因为它已被整合到模组 [[285]] 中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ce mod n'est plus disponible car il a été intégré dans le mod [[285]]."
-            ]
+            "source": []
         }
     },
     {
@@ -12186,14 +12182,10 @@
             "status": "done",
             "source": "Ce mod rend disponibles 33 profils du module de conversion [[881]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres."
         },
-        "notes": [
-            "对于增强版，请使用 [github 链接](https://github.com/Plutonium-X/KIT_RTT/) 。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Utilisez [ce lien](https://github.com/Plutonium-X/KIT_RTT/) pour les versions EE."
-            ]
+            "source": []
         }
     },
     {
@@ -19624,9 +19616,9 @@
             "有多种可选版本：[显性版本](https://github.com/LCA-EET/LCA_Explicit)|[不含 EET 的 EE 版本](https://github.com/LCA-EET/LCA_EE)|[语音包](https://github.com/LCA-EET/LCA_VoicePack)|请阅读 readme 文件以了解更多信息。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Il y a plusieurs options disponibles|[Version explicite](https://github.com/LCA-EET/LCA_Explicit)|[Version EE sans EET](https://github.com/LCA-EET/LCA_EE)|[Pack de voix](https://github.com/LCA-EET/LCA_VoicePack)|Lisez les readme pour en savoir plus."
+                "Il existe un patch pour un contenu explicite : [[2078]]."
             ]
         },
         "team": [
@@ -29338,6 +29330,149 @@
         "description_meta": {
             "status": "todo",
             "source": "4 nouveaux sorts géniaux pour votre plus grand plaisir. Voici ces nouveaux sorts : « Sang du martyr », « Force d’un dieu ancien », « Étreinte collective » et « Missile magique amélioré »."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2077,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un tout petit mod qui ajoute sept répliques entre Boo et Wilson. Au fil des échanges, Boo apprend peu à peu à mieux connaître Wilson et tire quelques leçons du meilleur ours du monde."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2078,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Une extension du mod [[1371]] qui ajoute des dialogues et des cinématiques à caractère sexuellement explicite. Ce mod n'est absolument pas destiné à tout le monde, en particulier aux personnes de moins de 18 ans."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2079,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Version non officielle de [[851]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2080,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Version non officielle de [[58]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2081,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Version non officielle de [[152]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2082,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Rend le mod [[285]] plus équilibré."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2083,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2084,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2085,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2086,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod est un projet en cours visant à remanier les HLA."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2087,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose des modifications génériques d'objets (comme les prix, un nouveau concept de vitesse d'attaque pour les armes, des modifications des probabilités de coup critique etc) et de l'équipement supplémentaire."
         },
         "notes": [],
         "notes_meta": {

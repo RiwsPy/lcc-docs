@@ -1415,10 +1415,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ce mod n'est plus disponible car il a été intégré dans le mod [[285]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -11685,10 +11683,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Utilisez [ce lien](https://github.com/Plutonium-X/KIT_RTT/) pour les versions EE."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -18886,7 +18882,7 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Il y a plusieurs options disponibles|[Version explicite](https://github.com/LCA-EET/LCA_Explicit)|[Version EE sans EET](https://github.com/LCA-EET/LCA_EE)|[Pack de voix](https://github.com/LCA-EET/LCA_VoicePack)|Lisez les readme pour en savoir plus."
+                "Il existe un patch pour un contenu explicite : [[2078]]."
             ]
         }
     },
@@ -28314,6 +28310,149 @@
         "description_meta": {
             "status": "todo",
             "source": "4 nouveaux sorts géniaux pour votre plus grand plaisir. Voici ces nouveaux sorts : « Sang du martyr », « Force d’un dieu ancien », « Étreinte collective » et « Missile magique amélioré »."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2077,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un tout petit mod qui ajoute sept répliques entre Boo et Wilson. Au fil des échanges, Boo apprend peu à peu à mieux connaître Wilson et tire quelques leçons du meilleur ours du monde."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2078,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Une extension du mod [[1371]] qui ajoute des dialogues et des cinématiques à caractère sexuellement explicite. Ce mod n'est absolument pas destiné à tout le monde, en particulier aux personnes de moins de 18 ans."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2079,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Version non officielle de [[851]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2080,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Version non officielle de [[58]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2081,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Version non officielle de [[152]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2082,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Rend le mod [[285]] plus équilibré."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2083,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2084,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2085,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2086,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod est un projet en cours visant à remanier les HLA."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2087,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose des modifications génériques d'objets (comme les prix, un nouveau concept de vitesse d'attaque pour les armes, des modifications des probabilités de coup critique etc) et de l'équipement supplémentaire."
         },
         "notes": [],
         "notes_meta": {

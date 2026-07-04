@@ -1461,14 +1461,10 @@
             "status": "needs_review",
             "source": "Créé pour BG avec son extension Tales of the Sword Coast, ce mod ajoute un nouveau forgeron situé à l'Auberge de Brasamical : Thorengrim Poingmarteau. Celui vend de nouveaux objets et, à l'instar de Cromwell, peut en améliorer 11 autres. Outre son aspect marchand, ce mod ajoute 3 nouvelles rencontres : des ogres dans le Camp des Bandits, un duergar et sa ménagerie dans les mines de Nashkel, et enfin des marins saouls qui tenteront de vous détrousser à la Porte de Baldur."
         },
-        "notes": [
-            "This mod is no longer available, having been integrated into the [[285]] mod."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Ce mod n'est plus disponible car il a été intégré dans le mod [[285]]."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -12051,14 +12047,10 @@
             "status": "needs_review",
             "source": "Ce mod rend disponibles 33 profils du module de conversion [[881]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres."
         },
-        "notes": [
-            "Use [this link](https://github.com/Plutonium-X/KIT_RTT/) for the EE version."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Utilisez [ce lien](https://github.com/Plutonium-X/KIT_RTT/) pour les versions EE."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -19350,12 +19342,12 @@
             "source": "Ce mod permet de recruter Corwin dans SoA, et Caelar dans ToB. Les joueurs peuvent soit continuer la romance qu'ils ont commencée avec Corwin dans SoD, soit commencer une nouvelle romance avec elle après son arrivée à Athkatla. Le mod ajoute plus de 200 nouveaux dialogues répartis sur les quatre jeux de la saga. De plus, il y a des dizaines de nouveaux objets, quêtes et scènes à apprécier."
         },
         "notes": [
-            "There are several options available|[Explicit version](https://github.com/LCA-EET/LCA_Explicit)|[EE version without EET](https://github.com/LCA-EET/LCA_EE)|[Voice pack](https://github.com/LCA-EET/LCA_VoicePack)|Read the readme to find out more."
+            "There is a patch for explicit content: [[2078]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Il y a plusieurs options disponibles|[Version explicite](https://github.com/LCA-EET/LCA_Explicit)|[Version EE sans EET](https://github.com/LCA-EET/LCA_EE)|[Pack de voix](https://github.com/LCA-EET/LCA_VoicePack)|Lisez les readme pour en savoir plus."
+                "Il existe un patch pour un contenu explicite : [[2078]]."
             ]
         }
     },
@@ -29007,6 +28999,149 @@
         "description_meta": {
             "status": "done",
             "source": "4 nouveaux sorts géniaux pour votre plus grand plaisir. Voici ces nouveaux sorts : « Sang du martyr », « Force d’un dieu ancien », « Étreinte collective » et « Missile magique amélioré »."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2077,
+        "description": "A tiny mod that adds seven banters for Boo and Wilson. Over the course, Boo gradually gets to know Wilson and learns a thing or two from the best bear in the world.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Un tout petit mod qui ajoute sept répliques entre Boo et Wilson. Au fil des échanges, Boo apprend peu à peu à mieux connaître Wilson et tire quelques leçons du meilleur ours du monde."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2078,
+        "description": "An expansion of mod [[1371]] to add some sexually explicit dialogs and cutscenes. This mod is definitely not for everyone, especially those below 18 years of age.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Une extension du mod [[1371]] qui ajoute des dialogues et des cinématiques à caractère sexuellement explicite. Ce mod n'est absolument pas destiné à tout le monde, en particulier aux personnes de moins de 18 ans."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2079,
+        "description": "Unofficial version of [[851]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Version non officielle de [[851]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2080,
+        "description": "Unofficial version of [[58]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Version non officielle de [[58]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2081,
+        "description": "Unofficial version of [[152]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Version non officielle de [[152]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2082,
+        "description": "Making [[285]] mod more balanced.",
+        "description_meta": {
+            "status": "done",
+            "source": "Rend le mod [[285]] plus équilibré."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2083,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2084,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2085,
+        "description": "",
+        "description_meta": {
+            "status": "done",
+            "source": ""
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2086,
+        "description": "This mod is an ongoing project to rework HLAs.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod est un projet en cours visant à remanier les HLA."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2087,
+        "description": "This mod offers general changes to items (such as prices, a new attack speed system for weapons, adjustments to critical hit, etc.) and additional equipment.",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose des modifications génériques d'objets (comme les prix, un nouveau concept de vitesse d'attaque pour les armes, des modifications des probabilités de coup critique etc) et de l'équipement supplémentaire."
         },
         "notes": [],
         "notes_meta": {

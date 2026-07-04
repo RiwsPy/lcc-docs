@@ -2986,7 +2986,7 @@
     },
     {
         "id": 83,
-        "name": "Aura NPC for Baldur's Gate: Enhanced Edition",
+        "name": "Aura NPC",
         "description": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Dans BG1, vous la trouverez dans le centre de Bérégost, dans BG2 vous la trouverez dans la Promenade de Waukyne après avoir participé à un évènement dans la maison de Jan. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir.|FOR 8, DEX 16, CON 13, INT 19, SAG 14, CHA 15.",
         "urls": [
             "https://artisans-corner.com/aura-npc/",
@@ -3699,15 +3699,14 @@
             "CoM_Solaufein"
         ],
         "team": [],
-        "notes": [
-            "Ce mod n'est plus disponible car il a été intégré dans le mod [[285]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [],
         "status": [
             "embed"
         ],
+        "embedded_in": 285,
         "last_update": "",
         "compatibilities": {},
         "tp2": ""
@@ -30082,9 +30081,7 @@
             "the bigg"
         ],
         "team": [],
-        "notes": [
-            "Utilisez [ce lien](https://github.com/Plutonium-X/KIT_RTT/) pour les versions EE."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -30097,7 +30094,7 @@
         ],
         "last_update": "2025-10-01",
         "compatibilities": {},
-        "tp2": "kitrtt;rttkit"
+        "tp2": "kitrtt"
     },
     {
         "id": 852,
@@ -37294,7 +37291,8 @@
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/beaurin",
             "https://forums.beamdog.com/discussion/71836/",
-            "https://www.gibberlings3.net/files/file/998-beaurin-legacy/"
+            "https://www.gibberlings3.net/files/file/998-beaurin-legacy/",
+            "https://github.com/jessicq/BaldursGateMods/tree/master/TheBeaurinLegacy"
         ],
         "categories": [
             "PNJ recrutable"
@@ -44125,7 +44123,8 @@
         "name": "Zakrion",
         "description": "Ce mod ajoute Zakrion, un duelliste humain neutre strict, près de l'épave du navire le long de la Côte des Épées. Il dispose de portraits personnalisés, d'un set de voix, de banters, d'une voie de l'amitié et d'une \"semi-romance\".|FOR 16, DEX 17, CON 15, INT 10, SAG 12, CHA 14.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1020-zakrion/"
+            "https://www.gibberlings3.net/files/file/1020-zakrion/",
+            "https://github.com/jessicq/BaldursGateMods/tree/master/Zakrion_BG1"
         ],
         "categories": [
             "PNJ recrutable"
@@ -44147,9 +44146,9 @@
         "status": [
             "stable"
         ],
-        "last_update": "2023-11-05",
+        "last_update": "2026-03-06",
         "compatibilities": {},
-        "tp2": "Zakrion"
+        "tp2": "Zakrion_BG1"
     },
     {
         "id": 1243,
@@ -48802,7 +48801,7 @@
         ],
         "team": [],
         "notes": [
-            "Il y a plusieurs options disponibles|[Version explicite](https://github.com/LCA-EET/LCA_Explicit)|[Version EE sans EET](https://github.com/LCA-EET/LCA_EE)|[Pack de voix](https://github.com/LCA-EET/LCA_VoicePack)|Lisez les readme pour en savoir plus."
+            "Il existe un patch pour un contenu explicite : [[2078]]."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -48814,7 +48813,11 @@
             "stable"
         ],
         "last_update": "2026-05-27",
-        "compatibilities": {},
+        "compatibilities": {
+            "conflicts": [
+                948
+            ]
+        },
         "tp2": "LCA"
     },
     {
@@ -66138,7 +66141,8 @@
         "name": "Zakrion for BG2",
         "description": "Ce mod ajoute Zakrion, un duelliste humain neutre strict. Vous le trouverez à la Bonté Marine après la rencontre avec les pirates. Il dispose de portraits, d'un set de voix, de quêtes, d'une voie de l'amitié, de nombreux banters et d'une romance.|FOR 16, DEX 17, CON 15, INT 10, SAG 12, CHA 14.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1040-zakrion-for-bg2/"
+            "https://www.gibberlings3.net/files/file/1040-zakrion-for-bg2/",
+            "https://github.com/jessicq/BaldursGateMods/tree/master/Zakrion_BG2"
         ],
         "categories": [
             "PNJ recrutable"
@@ -72035,5 +72039,393 @@
             ]
         },
         "tp2": "non-weidu"
+    },
+    {
+        "id": 2077,
+        "name": "Interspecies Friendship",
+        "description": "Un tout petit mod qui ajoute sept répliques entre Boo et Wilson. Au fil des échanges, Boo apprend peu à peu à mieux connaître Wilson et tire quelques leçons du meilleur ours du monde.",
+        "urls": [
+            "https://trow.cc/board/showtopic=54082",
+            "https://forums.beamdog.com/discussion/90659/",
+            "https://github.com/MephistoSatanDevil/InterspeciesFriendship"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "MephistoSatanDevil"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "cn",
+            "fr",
+            "ru"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-07-02",
+        "compatibilities": {},
+        "tp2": "InterspeciesFriendship"
+    },
+    {
+        "id": 2078,
+        "name": "Love Conquers All Explicit",
+        "description": "Une extension du mod [[1371]] qui ajoute des dialogues et des cinématiques à caractère sexuellement explicite. Ce mod n'est absolument pas destiné à tout le monde, en particulier aux personnes de moins de 18 ans.",
+        "urls": [
+            "https://github.com/LCA-EET/LCA_Explicit"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Daniel Valle"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2025-12-21",
+        "compatibilities": {
+            "requires": [
+                1371
+            ]
+        },
+        "tp2": "lca_explicit"
+    },
+    {
+        "id": 2079,
+        "name": "Return to Trademeet Kitpack",
+        "description": "Version non officielle de [[851]].",
+        "urls": [
+            "https://www.shsforums.net/topic/15292-rtt-kit-pack-v12/",
+            "https://github.com/Plutonium-X/KIT_RTT"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "al17",
+            "the bigg"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "fr",
+            "it"
+        ],
+        "status": [
+            "hidden",
+            "stable"
+        ],
+        "last_update": "2024-10-28",
+        "compatibilities": {},
+        "tp2": "rttkit"
+    },
+    {
+        "id": 2080,
+        "name": "Arath NPC",
+        "description": "Version non officielle de [[58]].",
+        "urls": [
+            "https://github.com/RoxanneSHS/ArathEET"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "K'aeloree"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2020-12-13",
+        "compatibilities": {},
+        "tp2": "arath_eet"
+    },
+    {
+        "id": 2081,
+        "name": "BS Balduran's Seatower",
+        "description": "Version non officielle de [[152]].",
+        "urls": [
+            "https://github.com/RoxanneSHS/Balduran-s-Sea-Tower"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "Multiple"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "beta",
+            "hidden"
+        ],
+        "last_update": "2022-11-23",
+        "compatibilities": {},
+        "tp2": "SeaTower"
+    },
+    {
+        "id": 2082,
+        "name": "Dark Horizons Tweaks",
+        "description": "Rend le mod [[285]] plus équilibré.",
+        "urls": [
+            "https://github.com/RoxanneSHS/DarkHorizonsTweaks"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG",
+            "Tutu",
+            "BG2",
+            "BGT",
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en",
+            "de",
+            "ru"
+        ],
+        "status": [
+            "obsolete",
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2022-11-23",
+        "compatibilities": {
+            "requires": [
+                285
+            ]
+        },
+        "tp2": "DH_Tweaks"
+    },
+    {
+        "id": 2083,
+        "name": "Iron mods",
+        "description": "",
+        "urls": [
+            "https://github.com/RoxanneSHS/IronmodsEET"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [],
+        "authors": [
+            "Roxanne",
+            "tipun"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2022-04-10",
+        "compatibilities": {},
+        "tp2": "Ironmodders"
+    },
+    {
+        "id": 2084,
+        "name": "BGEE Fix",
+        "description": "",
+        "urls": [
+            "https://github.com/EE-Mod-Setup/BGEE_Fix"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": [
+            "obsolete",
+            "hidden"
+        ],
+        "last_update": "2019-11-03",
+        "compatibilities": {},
+        "tp2": "BGEE_Fix"
+    },
+    {
+        "id": 2085,
+        "name": "Dark Horizons Fix",
+        "description": "",
+        "urls": [
+            "https://github.com/11jo/DarkHorizon-Fix"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "JohnBob"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "hidden"
+        ],
+        "last_update": "2026-04-26",
+        "compatibilities": {},
+        "tp2": "DarkHorizon-wed"
+    },
+    {
+        "id": 2086,
+        "name": "Universal HLAs",
+        "description": "Ce mod est un projet en cours visant à remanier les HLA.",
+        "urls": [
+            "https://github.com/TheArtisanBG/Artisan-HLAs"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-05-27",
+        "compatibilities": {
+            "requires": [
+                348
+            ],
+            "conflicts": [
+                962
+            ]
+        },
+        "tp2": "Artisans_HLAs"
+    },
+    {
+        "id": 2087,
+        "name": "The Artisan's Armory",
+        "description": "Ce mod propose des modifications génériques d'objets (comme les prix, un nouveau concept de vitesse d'attaque pour les armes, des modifications des probabilités de coup critique etc) et de l'équipement supplémentaire.",
+        "urls": [
+            "https://github.com/TheArtisanBG/The-Artisan-s-Armory"
+        ],
+        "categories": [
+            "Sort et objet",
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-05-28",
+        "compatibilities": {
+            "conflicts": [
+                418
+            ]
+        },
+        "tp2": "Artisans_Armory"
     }
 ]
