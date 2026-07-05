@@ -545,9 +545,9 @@
     },
     {
         "id": 37,
-        "description": "一场伟大的冒险在等着你！杀死泥怪，刺杀巨龙，洗劫古代圣地，赢得女人……或者干脆正常地通关游戏。你会选择什么？发起这个任务的信使在行政区，靠近地图下方的门（仅限第三章）。|就连作者自己也认为这不是一个严肃的模组。这大概就是她将其从网上撤下的原因……",
+        "description": "一场宏大的冒险在等着你！杀掉软泥怪、刺杀巨龙、掠夺远古圣所、赢取佳人……或者老老实实通关游戏。你会怎么选？触发任务的信使在行政区（Government District），就在地图下方的大门附近（仅限第三章）。|就连作者自己也承认，这并非一个正经模组。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Une grande aventure vous attend ! Tuez des limons, assassinez des dragons, pillez d'anciens sanctuaires, gagnez des femmes... Ou finissez le jeu proprement dit. Que choisirez-vous ? Le messager qui initie la quête se trouve dans le quartier du gouvernement, près de la porte en bas de la carte (uniquement dans le chapitre 3).|De l'avis même de son auteur, ce n'est pas un mod sérieux."
         },
         "notes": [],
@@ -4068,9 +4068,9 @@
     },
     {
         "id": 283,
-        "description": "一个来自视觉小说《安息》的、倾向于夸大其词的战士的语音包（英文）。",
+        "description": "声音包（英语），为一名倾向于把事情戏剧化的战士而设，取材自视觉小说《安息》（[Requiescence](https://argent-games.itch.io/requiescence)）。配音来自[TrentFace](https://www.castingcall.club/m/trentface)。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Pack de voix (en anglais) pour un guerrier ayant une tendance à dramatiser les choses, tiré du visual novel [Requiescence](https://argent-games.itch.io/requiescence). Voix de [TrentFace](https://www.castingcall.club/m/trentface)."
         },
         "notes": [],
@@ -16883,10 +16883,10 @@
             "source": "Quelque chose de maléfique a émergé du Plan astral, d'anciennes puissances sombres se regroupent pour revire. El même les divinités maléfiques tremblent... Aurez vous la volonté et la puissance de vous impliquer sans finir en poussière ?|Ce mod propose 38 nouvelles zones, de nombreux nouveaux monstres et de nouvelles animations. La campagne de Vecna suit les événements du module Die Vecne Die!.|Comme son écriture laissait à désirer, un [correctif des textes](https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Vecna-v23-Text-Overhaul-v1.1.7z) a été publié. Extrayez-le dans le répertoire Language du mod et écrasez les fichiers existants AVANT d'installer le mod."
         },
         "notes": [
-            "请选择GitHub链接获取EE版本，选择shs链接获取原始版本。"
+            "请选择GitHub链接以获取增强版（EE）版本，选择SHS链接以获取原始版本。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Choisissez le lien github pour la version EE et le lien shs pour les versions originelles."
             ]
@@ -19613,10 +19613,10 @@
             "source": "Ce mod permet de recruter Corwin dans SoA, et Caelar dans ToB. Les joueurs peuvent soit continuer la romance qu'ils ont commencée avec Corwin dans SoD, soit commencer une nouvelle romance avec elle après son arrivée à Athkatla. Le mod ajoute plus de 200 nouveaux dialogues répartis sur les quatre jeux de la saga. De plus, il y a des dizaines de nouveaux objets, quêtes et scènes à apprécier."
         },
         "notes": [
-            "有多种可选版本：[显性版本](https://github.com/LCA-EET/LCA_Explicit)|[不含 EET 的 EE 版本](https://github.com/LCA-EET/LCA_EE)|[语音包](https://github.com/LCA-EET/LCA_VoicePack)|请阅读 readme 文件以了解更多信息。"
+            "该模组有一个针对露骨内容的补丁：[[2078]]。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Il existe un patch pour un contenu explicite : [[2078]]."
             ]
@@ -29157,9 +29157,9 @@
     },
     {
         "id": 2063,
-        "description": "",
+        "description": "这个模组让你能够在不流血的情况下完成涉及阿基恩（Arkion）、内芙蕾（Nemphre）和奥杜利尼安（Ordulinian）的三项任务，从而恢复《博德之门1》的经典运作方式。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod vous permet de mener à bien les trois quêtes impliquant Arkion, Nemphre et Ordulinian sans effusion de sang, rétablissant ainsi le fonctionnement classique de BG1."
         },
         "notes": [],
@@ -29170,9 +29170,9 @@
     },
     {
         "id": 2064,
-        "description": "",
+        "description": "这个模组沿用了[[1892]]号模组的设计概念。作为替代，法师可以召唤一个具有游荡者技能、并能在较大范围内解除陷阱的异界生物。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod reprend le concept du mod [[1892]]. À la place, le mage peut invoquer une créature planaire qui possède des compétences de roublard et la particularité de désarmer les pièges sur une large zone."
         },
         "notes": [],
@@ -29183,9 +29183,9 @@
     },
     {
         "id": 2065,
-        "description": "",
+        "description": "“毒径”（Poisoned Pathways）是一个模组，在为游戏增加了与伦菲尔德（Renfeld）相遇之后的新内容。该模组的灵感来源于马修·G·阿德金斯（Matthew G. Adkins）发表在《地牢》杂志第75期上的模组模块《蛇巢深处》（Into the Nest of Vipers）。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Poisoned Pathways est un mod qui ajoute un nouveau contenu au jeu après la rencontre avec Renfeld. Ce mod s'inpire du module `Into the Nest of Vipers` de Matthew G. Adkins, publié dans le Dungeon magazine #75."
         },
         "notes": [],
@@ -29196,9 +29196,9 @@
     },
     {
         "id": 2066,
-        "description": "",
+        "description": "这个模组为您的游戏提供了一系列小幅调整。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose une petite série d'ajustements pour vos jeux."
         },
         "notes": [],
@@ -29209,9 +29209,9 @@
     },
     {
         "id": 2067,
-        "description": "",
+        "description": "这是[[1286]]号模组的独立版本，移除了原模组中所有与芭荻（Bodhi）无关的内容。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Il s'agit d'une version stand-alone de [[1286]], supprimant tous les éléments non liés à Bodhi du mod original."
         },
         "notes": [],
@@ -29222,9 +29222,9 @@
     },
     {
         "id": 2068,
-        "description": "",
+        "description": "这个模组包含了来自《暗黑破坏神II：毁灭之王》（Diablo II: Lord of Destruction）的（巨）熊以及熊人的动画。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod contient les animations de l'ours (géant) ainsi que l'ours-garou de `Diablo II: Lord of Destruction`."
         },
         "notes": [],
@@ -29235,9 +29235,9 @@
     },
     {
         "id": 2069,
-        "description": "",
+        "description": "这个模组会在你的角色转变为“杀戮者”时改变其肖像，转变结束后肖像会恢复原状。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod modifie le portrait de votre personnage lorsqu'il se transforme en Écorcheur. Le portrait reviendra à son état initial une fois la transformation terminée."
         },
         "notes": [],
@@ -29248,9 +29248,9 @@
     },
     {
         "id": 2070,
-        "description": "",
+        "description": "这个肖像包来自游戏《突袭：暗影传说》（Raid: Shadow Legends）。经过重新加工，以贴近官方肖像的风格。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Pack de portrait issu du jeu `Raid: Shadow Legends`. Retravaillés pour être proches des portraits officiels."
         },
         "notes": [],
@@ -29261,9 +29261,9 @@
     },
     {
         "id": 2071,
-        "description": "",
+        "description": "这个声音包使用了哈兰·格思里（Harlan Guthrie）在播客《恶行》（[Malevolent](https://www.malevolent.ca/)）中为凯恩（Kayne）配音的音频片段。推荐用于扮演邪恶且古怪的角色。部分台词直接对玩家说话，并带有粗俗用语。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Utilise des extraits vocaux de Kayne, interprété par Harlan Guthrie, tirés du podcast [Malevolent](https://www.malevolent.ca/). Recommandé pour incarner un personnage maléfique et excentrique. Certaines répliques s'adressent directement au joueur et comporte des propos grossiers."
         },
         "notes": [],
@@ -29274,9 +29274,9 @@
     },
     {
         "id": 2072,
-        "description": "",
+        "description": "这个模组用于提醒模组制作者其游戏中可能存在的错误。它不会修改任何文件，也不会在WeiDU日志中留下任何痕迹，因此可以在安装过程的任何阶段按需多次使用。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod averti le moddeur sur des éventuelles erreurs présents dans son jeu. Il ne modifie aucun fichier et ne laisse aucune trace dans les logs WeiDU ; il peut donc être utilisé à n'importe quelle étape de l'installation, autant de fois que nécessaire."
         },
         "notes": [],
@@ -29287,9 +29287,9 @@
     },
     {
         "id": 2073,
-        "description": "",
+        "description": "这个模组包含了十余种自定义武器、一套全身甲以及两款新头盔。不过物品描述还有待完善……",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod contient une douzaine d'armes personnalisées, une armure complète et deux nouveaux casques. Les descriptions des objets laissent toutefois à désirer..."
         },
         "notes": [],
@@ -29300,9 +29300,9 @@
     },
     {
         "id": 2074,
-        "description": "",
+        "description": "受论坛上一个讨论帖的启发，作者以自己在《龙与地下城》中最常用的角色之一——疯狂咒法师达沃兰·卡什（Davoran Karsh）——的名义创作了这些法术。该法术包包含两个新法术。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Inspiré par un fil de discussion sur un forum, l'auteur a créé ces sorts au nom de l'un de ses personnages de Donjons et Dragons les plus utilisés, le conjureur fou Davoran Karsh. Ce pack comprend deux nouveaux sorts."
         },
         "notes": [],
@@ -29313,9 +29313,9 @@
     },
     {
         "id": 2075,
-        "description": "",
+        "description": "两把+3武士刀、一套+5板甲（诅咒）、一个品质中等的头盔以及一条不错的法师/术士护符，能让佩戴者施展若干法术。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Deux katanas +3, une armure de plates +5 (maudite), un casque de qualité moyenne et une bonne amulette de mage/sorcier qui leur permet de lancer quelques sorts."
         },
         "notes": [],
@@ -29326,9 +29326,9 @@
     },
     {
         "id": 2076,
-        "description": "",
+        "description": "为给您带来更多乐趣，新增了4个很棒的法术。这些新法术分别是：“殉道者之血”、“远古神力”、“集体拥抱”和“高等魔法飞弹”。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "4 nouveaux sorts géniaux pour votre plus grand plaisir. Voici ces nouveaux sorts : « Sang du martyr », « Force d’un dieu ancien », « Étreinte collective » et « Missile magique amélioré »."
         },
         "notes": [],
@@ -29339,9 +29339,9 @@
     },
     {
         "id": 2077,
-        "description": "",
+        "description": "一个非常小的模组，为布布（Boo）和威尔逊（Wilson）增加了七句互动台词。随着对话的展开，布布逐渐加深对威尔逊的了解，并从这位世界上最棒的熊身上学到了不少东西。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Un tout petit mod qui ajoute sept répliques entre Boo et Wilson. Au fil des échanges, Boo apprend peu à peu à mieux connaître Wilson et tire quelques leçons du meilleur ours du monde."
         },
         "notes": [],
@@ -29352,9 +29352,9 @@
     },
     {
         "id": 2078,
-        "description": "",
+        "description": "这是[[1371]]号模组的一个扩展包，增加了含有露骨性内容的对话和过场动画。该模组完全不适用于所有人，尤其不适合未满18岁的人群。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Une extension du mod [[1371]] qui ajoute des dialogues et des cinématiques à caractère sexuellement explicite. Ce mod n'est absolument pas destiné à tout le monde, en particulier aux personnes de moins de 18 ans."
         },
         "notes": [],
@@ -29365,9 +29365,9 @@
     },
     {
         "id": 2079,
-        "description": "",
+        "description": "[[851]]号模组的非官方版本。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Version non officielle de [[851]]."
         },
         "notes": [],
@@ -29378,9 +29378,9 @@
     },
     {
         "id": 2080,
-        "description": "",
+        "description": "[[58]]号模组的非官方版本。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Version non officielle de [[58]]."
         },
         "notes": [],
@@ -29391,9 +29391,9 @@
     },
     {
         "id": 2081,
-        "description": "",
+        "description": "[[152]]号模组的非官方版本。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Version non officielle de [[152]]."
         },
         "notes": [],
@@ -29404,9 +29404,9 @@
     },
     {
         "id": 2082,
-        "description": "",
+        "description": "让[[285]]号模组变得更加平衡。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Rend le mod [[285]] plus équilibré."
         },
         "notes": [],
@@ -29456,9 +29456,9 @@
     },
     {
         "id": 2086,
-        "description": "",
+        "description": "这个模组是一个正在进行中的项目，旨在重制高等职业能力（HLA）。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod est un projet en cours visant à remanier les HLA."
         },
         "notes": [],
@@ -29469,9 +29469,9 @@
     },
     {
         "id": 2087,
-        "description": "",
+        "description": "这个模组提供了对物品的通用修改（例如价格、新的武器攻击速度概念、暴击几率的调整等）以及额外的装备。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose des modifications génériques d'objets (comme les prix, un nouveau concept de vitesse d'attaque pour les armes, des modifications des probabilités de coup critique etc) et de l'équipement supplémentaire."
         },
         "notes": [],
