@@ -239,9 +239,9 @@
         "name": "A Frosty Journey: The IWDEE Kitpack",
         "description": "Ce mod ajoute 34 nouveaux profils :|- guerriers : Gnome de choc, Mercenaire, Myrmidon et Rat de tunnel.|- rôdeurs : Tueur de géant.|- paladins : Chevalier du feu mystique, Serviteur de la forêt et Guerrier sanctifié de la souffrance.|- moines : Frères et sœurs de la Flamme pure, Enfant de la Voix passive, Disciple du Visage immuable, Disciple du Phénix, Disciple de la Salamandre, Disciple du Bâton Blanc, Disciple de la Voie du souplesse, Moine de l'Ordre ancien, Moine de l'Ordre de la longue mort, Moine du Vent Scintillant, Moine de la Main étincelante, Moine des Frères pleureurs, Zélateur des Grands écrits.|- voleurs : Petit rat, Dératiseur, Éclaireur, Voltigeur, Tueur de vermines.|- clercs : Marcheterre de Grumbar, Gardien des glaces d'Ulutiu, Prêtre des glaces d'Aurile, Soigne-feuilles, Prêtre de Luthic, Chaman de Gruumsh, Soigne-bois.|- druides : Essaimeur.",
         "urls": [
-            "https://www.shsforums.net/files/file/1099-a-frosty-journey-the-iwdee-kitpack/",
             "https://forums.beamdog.com/discussion/36181/",
-            "https://github.com/GwendolyneFreddy/A_Frosty_Journey_IWDEE_Kitpack/"
+            "https://github.com/GwendolyneFreddy/A_Frosty_Journey_IWDEE_Kitpack/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/k9IwdeeKit-2.93.rar"
         ],
         "categories": [
             "Kit"
@@ -565,7 +565,7 @@
         "name": "Adrian NPC",
         "description": "Adrian Sianodel est un mage demi-elfe loyal mauvais vieux de 33 ans, que vous rencontrerez à la fin du donjon d'Irenicus. Il dispose d'une quête personnelle et romancera les PJs féminins humaines ou demi-elfes sans restriction d'alignement ni de classe. Votre PJ devra toutefois disposer d'un minimum de 12 en charisme. Les mangeurs de feuilles ne sont pas spécialement sa tasse de thé.",
         "urls": [
-            "https://www.shsforums.net/files/file/1007-adrian/",
+            "https://www.shsforums.net/forum/627-adrian/",
             "https://github.com/Spellhold-Studios/Adrian-NPC"
         ],
         "categories": [
@@ -637,7 +637,6 @@
         "name": "Adventures in Papperland",
         "description": "Ce mini mod n'est rien d'autre qu'une plaisanterie. Il vous permet de rencontrer et de discuter avec un groupe légendaire, les Beatles. Vous les trouverez dans l'auberge des Cinq Chopes.",
         "urls": [
-            "https://www.shsforums.net/files/file/139-adventures-in-papperland/",
             "https://github.com/Spellhold-Studios/Adventures-in-Papperland"
         ],
         "categories": [
@@ -1197,7 +1196,6 @@
         "name": "Allison",
         "description": "Cette jeune elfe druide, enjouée et haute en couleurs vous demande de l'aide au Bosquet des Druides, et vous propose même de vous rejoindre pour mettre fin au règne de Faldorn. Elle possède de nombreux banters avec les différents PNJ du jeu.|FOR 14, DEX 14, CON 7, INT 12, SAG 18, CHA 12.",
         "urls": [
-            "https://www.shsforums.net/files/file/1260-allison-one-day-npc/",
             "https://github.com/Spellhold-Studios/Allison-One-Day-NPC/"
         ],
         "categories": [
@@ -1414,7 +1412,6 @@
         "name": "Mana Based Spell System",
         "description": "En gros, ce mod implémente un système de basé sur le mana dans BG2. Vous pouvez mémoriser des sorts à tout moment en appuyant sur la touche `V`. Vous pouvez voir combien de points de mana il vous reste en appuyant sur `N`. Lorsque vos points de mana tombent en dessous de 0, vous subissez une pénalité et ne pourrez plus lancer de sorts jusqu'à ce que vous vous reposiez. Les sorts retirent autant de points de mana égales que leur niveau d'incantation. De légères modifications sont également apportées aux sorts existants.|Le lancement de sorts de très bas niveau est maintenant autorisé à Athkatla tant qu'il ne constitue pas une perturbation suffisamment importante pour que le Conseil des Six s'en alarme.",
         "urls": [
-            "https://www.shsforums.net/files/file/524-mana-based-spell-system/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/PO_SpellSystem.zip"
         ],
         "categories": [
@@ -2067,7 +2064,7 @@
         "name": "Arath NPC mod for Baldur's Gate 2: SoA & ToB",
         "description": "Un nouveau druide humain, avec du contenu pour SoA et ToB. Ce personnage est présenté comme complexe dans ses opinions et croyances. Hédoniste, il peut s'intéresser aux PJ masculins comme féminins, et est relativement direct dans ses manières même s'il n'arrivera pas toujours à ses fins. Il a une aversion pour les morts-vivants et toutes les créatures non naturelles. Une nouvelle quête (chapitre 6) est également au programme, ainsi qu'une voie de l'amitié, des réactions à la quête du PJ, banters... Vous le rencontrerez durant la quête des esclavagistes au chapitre 2.|FOR 13, DEX 11, CON 13, INT 13, SAG 16, CHA 15.",
         "urls": [
-            "https://www.shsforums.net/files/file/1001-arath/",
+            "https://www.shsforums.net/forum/624-arath/",
             "https://github.com/Spellhold-Studios/Arath-NPC"
         ],
         "categories": [
@@ -2332,7 +2329,6 @@
         "name": "Ariena the Half Orc",
         "description": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, le The Mod for the Wicked. Combattante des tunnels demi-orque, Ariena est dotée d'une voix à la Angela Gossow d'Arch Enemy avec déjà pas mal de banters, d'une sorte de quête et d'un langage broken english amusant. Son petit dialogue avec Salvanas à la Couronne vaut le détour...|FOR 18, DEX 15, CON 17, INT 7, SAG 11, CHA 10.",
         "urls": [
-            "https://www.shsforums.net/files/file/511-ariena-version-22/",
             "https://github.com/Spellhold-Studios/Ariena-NPC/"
         ],
         "categories": [
@@ -3181,7 +3177,6 @@
         "name": "Aurora NPC for BG2:TOB",
         "description": "La célèbre Aurora du mod [[89]] peut désormais vous rejoindre dans votre quête dans ToB ! Dans ToB, vous pourrez désormais la convoquer dans l'Antichambre afin qu'elle combatte à vos côtés. Aurora est une guerrière éclairée qui joutera avec passion les enfants de Bhaal. Elle ne semble pas regretter d'avoir été rappelée à sa « retraite » pour jouer un rôle plus actif. De nombreuses interjections, des banters et des dialogues avec le PJ sont au programme de la version ToB de ce mod.",
         "urls": [
-            "https://www.shsforums.net/files/file/1039-aurora-tob-npc/",
             "https://github.com/Spellhold-Studios/Aurora-NPC/"
         ],
         "categories": [
@@ -3217,7 +3212,7 @@
         "name": "Aurora's Shoes and Boots",
         "description": "Si vous avez toujours rêvé d'acheter des bottes roses à Imoen, de connaître les derniers potins auprès des marchands d'Athkatla, d'en apprendre davantage sur la vie quotidienne dans cette ville, ce module est fait pour vous. Aurora's Shoes and Boots ajoute plus de 2 douzaines de paires de bottes, aussi utiles que stylées. Ajoutez à cela la présence d'Aurora, guerrière à la retraite de son état, qui piquera votre curiosité avec les derniers potins des nobles et autres gens du commun. Vous ferez également la connaissance de Tomthal, un gnome atteint d'un mystérieux mal, et de Karaea, sa sœur bien-aimée, tous deux vendeurs également. Plusieurs objets sont également disséminés à travers le jeu de façon aléatoire.",
         "urls": [
-            "https://www.shsforums.net/files/file/831-auroras-shoes-and-boots/",
+            "https://www.shsforums.net/forum/418-auroras-shoes/",
             "https://github.com/Sampsca/Auroras-Shoes-and-Boots"
         ],
         "categories": [
@@ -3259,7 +3254,6 @@
         "name": "Authentic Mischievous Fairy Dragon",
         "description": "Ce mod vous propose de prendre comme familier un dragon fée, un peu renforcé et surtout plus proche dans l'esprit de l'original d'AD&D : il dispose d'un potentiel de farces et mauvais tours assez important. Vous allez certainement vous amuser, vos adversaires beaucoup moins... Ce familier n'apparaîtra que pour un magicien chaotique bon, si bien sûr il ne possède pas encore de familier.",
         "urls": [
-            "https://www.shsforums.net/files/file/141-authentic-mischievous-fairy-dragon/",
             "https://github.com/Plutonium-X/MISC_Fairy"
         ],
         "categories": [
@@ -4839,7 +4833,6 @@
         "name": "Baldurs Gate Trilogie NPC Sound",
         "description": "Le niveau sonore des doublages des personnages diffère entre Baldur's Gate et Baldur's Gate II. Du coup, il est difficile de trouver un réglage qui permettent de bien entendre ceux issus de BG2 sans se faire éclater les tympans par ceux recopiés depuis BG. Ce mod passe au crible tous les sons importés de Baldur's Gate et ajuste leur niveau sonore à celui de Baldur's Gate II.|Conçu à l'origine sur la base du niveau sonore du doublage en allemand, il devrait aussi convenir pour le français.",
         "urls": [
-            "https://www.shsforums.net/files/file/561-bgt-npcsound-weidu-v3/",
             "https://github.com/Spellhold-Studios/BGT-NPCSound/"
         ],
         "categories": [
@@ -4869,7 +4862,6 @@
         "name": "BGT Tweak Pack",
         "description": "Ce mod spécifique à BGT et compagnon officiel de ce dernier, permet de modifier certains comportements du jeu, notamment dans la partie Baldur's Gate et Légende de l'Île perdue. Vous pouvez notamment explorer automatiquement les villes, rendre aléatoires les pièges dans la caverne des pirates, ajouter des sacs de contenance sur la Côte des Épées, ajouter davantage de scalps de bandits, modifier les effets de la pénurie de fer sur les objets susceptibles de se briser, restaurer l'XP de BG2 pour le crochetage des serrures, le désamorçage des pièges et l'apprentissage des sorts, ajouter des armes exotiques dans la forge de Taerom, importer davantage d'objets depuis Baldur's Gate vers Shadows of Amn...",
         "urls": [
-            "https://www.shsforums.net/files/file/67-bgt-tweak-pack/",
             "https://github.com/Spellhold-Studios/BGT-Tweak-Pack"
         ],
         "categories": [
@@ -4953,7 +4945,6 @@
         "name": "BP-Balancer",
         "description": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]].",
         "urls": [
-            "https://www.shsforums.net/files/file/493-bp-balancer/",
             "https://github.com/Spellhold-Studios/BP-Balancer/"
         ],
         "categories": [
@@ -5083,7 +5074,6 @@
         "name": "Bag Bonus",
         "description": "Ce mini mod ajoute une boîte à potions et une ceinture à de munitions dans l'échoppe de Deirdre au Marché de l'Aventurier.",
         "urls": [
-            "https://www.shsforums.net/files/file/146-bag-bonus/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/BagBonus_v1.0.4.zip"
         ],
         "categories": [
@@ -6645,7 +6635,6 @@
         "name": "Bolsa",
         "description": "Bolsa est un nouveau marchand qui vend des sacs variés pour l'inventaire (potions et munitions), mais aussi le Bâton de Magus, une sorte de bâton du mage boosté aux stéroïdes (en plus d'objets classiques).",
         "urls": [
-            "https://www.shsforums.net/files/file/772-bolsa/",
             "https://github.com/Spellhold-Studios/Bolsa"
         ],
         "categories": [
@@ -7938,7 +7927,8 @@
             "it"
         ],
         "status": [
-            "stable"
+            "stable",
+            "missing"
         ],
         "last_update": "2010-07-04",
         "compatibilities": {},
@@ -8148,7 +8138,7 @@
         "name": "Chloe NPC",
         "description": "Ce mod ajoute une kensaï demi-déesse neutre stricte, avec un kit de voix et des armes spécifiques, qui romance exclusivement les personnages féminins. Des interactions ont été écrites avec chaque personnage, mais la romance n'existe pour l'instant que pour SoA. Des quêtes relatives à Chloé complètent l'ensemble.|FOR 13, DEX 25, CON 16, INT 12, SAG 12, CHA 14.",
         "urls": [
-            "https://www.shsforums.net/files/file/848-chloe-v15/",
+            "https://www.shsforums.net/forum/11-chloe/",
             "https://github.com/Spellhold-Studios/Chloe-NPC/"
         ],
         "categories": [
@@ -8418,7 +8408,7 @@
         "description": "Décliné en une série de volets et d'ajouts divers, ce mod propose de démarrer l'aventure au niveau 1 dans une citadelle dont il faut nettoyer les occupants maléfiques. Suit un deuxième chapitre, et peu à peu le module se complète. Il s'agit également d'inclure de nombreuses règles respectueuses du système AD&D 2.",
         "urls": [
             "https://classicadventuresmod.com/",
-            "https://www.shsforums.net/files/file/916-classic-adventures-053/"
+            "https://www.shsforums.net/forum/259-classic-adventures/"
         ],
         "categories": [
             "Conversion"
@@ -9942,7 +9932,7 @@
         "name": "Dace NPC",
         "description": "Dace Linton est une chasseuse de primes chaotique neutre trentenaire. Vous la trouverez dans la partie basse de la Promenade de Waukyne d'où elle vous interpellera si vous quittez ou pénétrez dans le lieu. Elle dispose de contenu pour SoA et ToB avec notamment une romance disponible pour les PJ masculins et féminins sans restriction de race, une voie de l'amitié sur le même principe, de nombreux banters et interjections, de nouvelles musiques, des objets personnels et un petit cadeau pour le PJ dans ToB.",
         "urls": [
-            "https://www.shsforums.net/files/file/1038-dace/",
+            "https://www.shsforums.net/forum/572-dace/",
             "https://github.com/Spellhold-Studios/Dace-NPC"
         ],
         "categories": [
@@ -10072,7 +10062,7 @@
         "name": "Darian NPC",
         "description": "Archer elfe loyal bon de la race des Avariels, Darian se trouve à Athkatla suite à des rumeurs d'emprisonnement d'un de ses compatriotes, mais les choses ne se passent pas comme il s'y attendait. D'un abord méfiant, notamment à l'égard des petites personnes, nains et autres rase-mottes, ce cœur noble sera difficile à apprivoiser. Seules les elfes, demi-elfes et humaines d'alignement bon parviendront peut-être à percer sa coquille. Il développera également une amitié avec Aerie. Il dispose de contenu pour SoA et ToB. Retrouvez-le à l'extérieur de la Couronne de Cuivre.|FOR 12, DEX 19, CON 14, INT 11, SAG 17, CHA 12.",
         "urls": [
-            "https://www.shsforums.net/files/file/948-darian/",
+            "https://www.shsforums.net/forum/422-darian/",
             "https://github.com/Spellhold-Studios/Darian-NPC/"
         ],
         "categories": [
@@ -10313,7 +10303,6 @@
         "name": "Darron",
         "description": "Ce mod ajoute Darron, un marchand chargé de négocier les biens spéciaux des Voleurs de l'Ombre. Vous pouvez le trouver dans le sous-sol de la guilde des voleurs dans le quartier du port.",
         "urls": [
-            "https://www.shsforums.net/files/file/842-darron/",
             "https://github.com/Spellhold-Studios/Darron"
         ],
         "categories": [
@@ -10507,7 +10496,6 @@
         "name": "Deeper Shadows of Amn",
         "description": "Ce mod rend certaines rencontres beaucoup plus difficiles. Un nouveau garde apparaît dans le mausolée de Kangaxx qui, lui-même, devient un adversaire plus dangereux (beaucoup plus). La quête pour libérer les esclaves de la Couronne de Cuivre devient un peu plus difficile. Le Roi de la crypte devient un adversaire beaucoup plus coriace. Le Dragon d'ombre devient spectral.|Le mod ajoute par ailleurs de nouvelles rencontres : Un nouveau dragon rouge, Grothgar, apparaît. Un gnome guerrier/illusionniste recherche Valygar et attaquera tous ceux qui se trouvent sur son chemin. Un nouveau Seigneur de l'ombre fait son apparition dans Athkatla.",
         "urls": [
-            "https://www.shsforums.net/files/file/120-deeper-shadows-of-amn/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/DSoA_v2.2.4.zip"
         ],
         "categories": [
@@ -10644,7 +10632,6 @@
         "name": "Demon Summoning Ritual",
         "description": "Aussi appelé `Unholy Gate Opening Ritual Book`, ce mod ajoute un livre permettant de convoquer un démon aléatoire. Il est en possession de Tolgerias dans la sphère planaire. Son utilisation est dangereuse.",
         "urls": [
-            "https://www.shsforums.net/files/file/140-demon-summoning-ritual/",
             "https://github.com/Spellhold-Studios/Demon-Summoning-Ritual"
         ],
         "categories": [
@@ -10979,7 +10966,7 @@
     {
         "id": 308,
         "name": "Dimension Gate: Or How TV Bunny searched TV Remote Control",
-        "description": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doit être installé conjointement avec le mod [SpellFix Visual Effects](https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/).",
+        "description": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doit être installé conjointement avec le mod [[2089]].",
         "urls": [
             "https://www.shsforums.net/topic/61056-mod-dimension-gate-or-how-tv-bunny-searched-tv-remote-control/",
             "https://github.com/Spellhold-Studios/Miscellaneous/releases/download/large/Dimension_Gate_1.3.rar"
@@ -11280,7 +11267,6 @@
         "name": "Domains of Dread",
         "description": "Ce mod ajoute une nouvelle quête assez difficile : Adressez-vous à la personne complètement folle dans le Marché de l'Aventurier. Il vous posera une demande et votre réponse ouvrira une série de combats assez compliqué. Seuls les survivants recevront la récompense.",
         "urls": [
-            "https://www.shsforums.net/files/file/135-domains-of-dread/",
             "https://github.com/The-Gate-Project/Domains-of-Dread/"
         ],
         "categories": [
@@ -11911,7 +11897,6 @@
         "name": "Druidic Sorcerer Kit",
         "description": "Ce mod ajoute un nouveau profil de druide, le sorcier druidique. Maniant à la fois les capacités naturelles d'un druide et les pouvoirs mystérieux d'un sorcier, c'est l'une des classes les plus puissantes que vous puissiez jouer.",
         "urls": [
-            "https://www.shsforums.net/files/file/132-druidic-sorcerer-kit/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/TOB_Druidic_Sorcerer_Kit_Weidu_v1.9.rar"
         ],
         "categories": [
@@ -13383,7 +13368,7 @@
         "name": "Epic Endeavours",
         "description": "Cette conversion totale de Shadows of Amn respecte les règles d'AD&D 2 mais mélange les genres en multipliant les clins d'œil à des jeux ou à des films.|L'histoire se déroule dans un monde imaginaire n'ayant aucun rapport avec les Royaumes Oubliés. Vous êtes à la tête d'une petite unité de commandos devant accomplir une série de missions, certaines particulièrement originales, visant à empêcher un fou furieux de régner sur votre monde. Le jeu se déroule au fil des missions qu'on vous confie, avant de partir pour le grand combat final.|Le mod rajoute de nombreuses nouvelles créatures et de nouveaux objets, 60 cartes, 13 grandes quêtes, 20 heures environ de temps de jeu rajouté, et un combat final assez redoutable à ce qu'il parait, avec 200 créatures à combattre...",
         "urls": [
-            "https://www.shsforums.net/files/file/45-epic-endeavors/",
+            "https://www.shsforums.net/forum/184-epic-endeavours/",
             "https://github.com/Spellhold-Studios/Epic-Endeavours/"
         ],
         "categories": [
@@ -13705,7 +13690,6 @@
         "name": "Exnem's Addon",
         "description": "Ce mod regroupe au format WeiDU tous les objets et sorts d'Exnem, soit 21 nouveaux sorts et 88 nouveaux objets. Le premier composant installe les objets et les sorts, un deuxième en répartit quelques-uns dans l'inventaire de créatures existantes, et le troisième répartit les autres dans différents conteneurs du jeu.",
         "urls": [
-            "https://www.shsforums.net/files/file/93-sir-billybobs-revisions-exnem-items-minimod/",
             "https://github.com/Spellhold-Studios/Exnem-Vault/"
         ],
         "categories": [
@@ -13771,7 +13755,6 @@
         "name": "Expanded Thief Stronghold",
         "description": "Ce mod étend la quête de la forteresse du voleur pour la rendre plus intéressante. Vous y retrouverez au passage des personnages de Baldur's Gate comme Lis Noir, Narlen Marchombre...",
         "urls": [
-            "https://www.shsforums.net/files/file/757-expanded-thief-stronghold/",
             "https://github.com/Spellhold-Studios/Expanded-Thief-Stronghold"
         ],
         "categories": [
@@ -14208,7 +14191,7 @@
         "name": "Faren",
         "description": "\"Logé\" à la prison de Franc-Marché, ce guerrier/voleur neutre strict est peu loquace sur son passé. Il aurait grandi à Franc-Marché, faisant un temps parti de sa milice, et voyagé vers Luskan avec quelques aventuriers. Femme, homme, quelle que soit la race ou la classe, Faren ne fait pas de jaloux : sa romance est accessible à tous. Il dispose également de contenu pour des joueurs ne recherchant pas ce type de relations. Des banters sont possibles avec [[228]] et [[394]], en sus des PNJ Bioware. Le mod couvre les parties SoA et ToB.|FOR 16, DEX 17, CON 16, INT 10, SAG 12, CHA 10.",
         "urls": [
-            "https://www.shsforums.net/files/file/1125-faren/",
+            "https://www.shsforums.net/forum/521-faren/",
             "https://github.com/Spellhold-Studios/Faren-NPC/"
         ],
         "categories": [
@@ -14576,7 +14559,7 @@
         "name": "Fishing for Trouble",
         "description": "Elminster en personne vous charge d'enquêter sur la disparition des habitants d'un village au sud d'Athkatla. Vous partez sur le champ et tombez nez-à-nez avec un démon qui a élu domicile dans le phare du village. Ce dernier vous promet d'éclairer votre lanterne contre une petite faveur. Ainsi débute votre aventure annoncée comme toute sauf linéaire et qui vous mènera au travers d'une 100aine de nouvelles cartes (dont 5 majeures) sur la trace de nouvelles quêtes, dans lesquelles vous croiserez plus de 200 PNJ, 17 magasins, 4 cinématiques... un mod pour renouveler l'expérience BG2.",
         "urls": [
-            "https://www.shsforums.net/files/file/1084-fishing-for-trouble/",
+            "https://www.shsforums.net/forum/550-fishing-for-trouble/",
             "https://forums.beamdog.com/discussion/79451/",
             "https://github.com/Spellhold-Studios/FishingForTrouble"
         ],
@@ -15982,7 +15965,7 @@
         "name": "GhostDog's PS:T UI",
         "description": "Combiné avec [[1216]], ce mod permet de jouer à PST dans une résolution de l'interface supérieure à 640x480. Pour ce faire, il corrige de nombreux écrans de jeu, notamment le menu Démarrer, les écrans de création de personnage, le journal, l'inventaire, les sorts et les magasins, entre autres, ainsi qu'un certain nombre d'autres composants, comme la barre inférieure de l'interface utilisateur qui a été optimisée, les infobulles et les messages en jeu (qui s'affichent désormais correctement), la boîte de dialogue et la carte du monde. De plus, il permet d'augmenter la taille des polices du jeu.",
         "urls": [
-            "https://www.shsforums.net/files/file/683-ghostdogs-PST-ui-mod-v22/",
+            "https://www.shsforums.net/forum/571-ghostdogs-pst-ui/",
             "https://github.com/Spellhold-Studios/GhostDog-PST-UI/"
         ],
         "categories": [
@@ -16394,7 +16377,6 @@
         "name": "Haer'Dalis Romance",
         "description": "Ce mod permettra aux PJ de tout poil (quelle que soit leur race, leur classe ou leur alignement) de romancer le tieffelin, ou tout du moins d'essayer. Une vingtaine de lovetalks, des discussions surprises, des dialogues à l'initiative du PJ, conflit de romance avec Anomen... Le mod dispose de contenu pour SoA et ToB.",
         "urls": [
-            "https://www.shsforums.net/files/file/984-haerdalis-romance/",
             "https://github.com/Spellhold-Studios/HaerDalis-Romance/"
         ],
         "categories": [
@@ -16538,7 +16520,8 @@
             "es"
         ],
         "status": [
-            "stable"
+            "stable",
+            "missing"
         ],
         "last_update": "2020-08-02",
         "compatibilities": {},
@@ -16814,7 +16797,6 @@
         "name": "Heart of the Wood",
         "description": "Ce mod ajoute une baguette druidique magique qui invoque de puissants monstres et créatures de la forêt (dont certains nouveaux issus du bestiaire monstrueux) pour aider votre druide au combat, bien que le nombre total de points de vie des créatures invoquées soit limité à 13. Cet objet peut être obtenu auprès de Kyland Lind (Bosquet des druides). Vous devez bien sûr le tuer au préalable pour l'obtenir.",
         "urls": [
-            "https://www.shsforums.net/files/file/134-heart-of-the-wood-item/",
             "https://github.com/Spellhold-Studios/Heart-of-the-Wood"
         ],
         "categories": [
@@ -17251,7 +17233,7 @@
         "name": "Hidden Kits",
         "description": "Ce mod ajoute 7 profils que vous pourrez obtenir en vous multi-classant au niveau 12 : Archmage (mage), Eldritch Phantom (voleur), Prelate (clerc), Shadow Blade (voleur), Spell Steel (mage), Sylvan Justiciar (rôdeur) et Sylvan Warden (druide).|L'expérience nécessaire pour les finaliser est considérable, mais leurs avantages sont à la mesure de la chose. Ils requièrent également des compétences pré-requises. Outre les avantages et inconvénients de chacun, leur plus importante caractéristique réside dans la capacité d'augmenter votre classe inactive lorsque vous montez de niveau.|Outre le PJ, 12 PNJ de Bioware pourront bénéficier de ces mystérieux kits : Aerie the Archmage, Anomen the Prelate, Imoen the Eldritch, PhantomJaheira the Sylvan Warden, Jan the Eldritch Phantom, Korgan the Shadow Blade, Mazzy the Prelate, Minsc the Sylvan Justiciar, Sarevok the Spell Steel, Valygar the Sylvan Justiciar, Viconia the Prelate, Yoshimo the Shadow Blade.",
         "urls": [
-            "https://www.shsforums.net/files/file/623-hidden-kits/",
+            "https://www.shsforums.net/forum/548-hidden-kits/",
             "https://github.com/Spellhold-Studios/Hidden-Kits/"
         ],
         "categories": [
@@ -17690,7 +17672,7 @@
         "name": "Hubelpot the Vegetable Merchant NPC",
         "description": "Il y des gens destinés à un avenir grandiose, d'autres remplis de pouvoir et de talents, enfin d'autres plus sexy-que-moi-tu-meurs. Mais tous ont besoin d'un bon cuistot : d'où l'utilité de notre druide marchand de légumes Hubelpot. Vous pouvez le trouver dans le magasin de fruits et légumes d'Enge sur la promenade de Waukyne. Hubelpot propose une trentaine de plaisanteries, aucune ne brise le 4e mur et aucune ne comporte le mot \"navet\". Il interagit avec tous les PNJ Bioware à l'exception de Sarevok. Dans ToB, il est encore assez silencieux, ne parlant que lorsqu'il est appelé, avec Volo et à la fin de ToB. Il dispose aussi d'une quête riche en rebondissements, avec une récompense inhabituelle.|FOR 12, DEX 8, CON 10, INT 10, SAG 14, CHA 13.",
         "urls": [
-            "https://www.shsforums.net/files/file/31-hubelpot-the-vegetable-merchant/",
+            "https://www.shsforums.net/forum/156-hubelpot/",
             "https://github.com/Spellhold-Studios/Hubelpot-NPC"
         ],
         "categories": [
@@ -17775,7 +17757,8 @@
             "fr"
         ],
         "status": [
-            "stable"
+            "stable",
+            "missing"
         ],
         "last_update": "2009-08-17",
         "compatibilities": {},
@@ -18855,7 +18838,6 @@
         "name": "Improved Asylum",
         "description": "Ce mod modifie le donjon de Spellhold pour le rendre plus amusant, plus difficile et stimulant pour les joueurs confirmés. Il comprend trois composants qui peuvent être installés ensemble ou séparément.",
         "urls": [
-            "https://www.shsforums.net/files/file/1261-improved-asylum/",
             "https://github.com/Spellhold-Studios/Improved-Asylum"
         ],
         "categories": [
@@ -19084,7 +19066,6 @@
         "name": "Improved HaerDalis Swords",
         "description": "Ce mini mod permet d'améliorer les épées d'Haer'Dalis en Ombreterre.",
         "urls": [
-            "https://www.shsforums.net/files/file/804-improved-haerdalis-swords/",
             "https://github.com/Spellhold-Studios/HaerDalis-Swords"
         ],
         "categories": [
@@ -19446,13 +19427,10 @@
         ],
         "authors": [
             "Erephine",
-            "Sam",
             "Miloch"
         ],
         "team": [],
-        "notes": [
-            "Ne pas oublier de télécharger [tous les fichiers d'animation](https://www.shsforums.net/files/category/98-infinity-animations/) et les décompresser dans le dossier \"infinityanimations/content\" avant d'installer le mod."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -20303,7 +20281,6 @@
         "name": "Jan's Alchemy",
         "description": "Ce petit mod dote Jan de la capacité de fabriquer des potions, grâce à un livre de mixtures. 8 nouvelles potions sont au programme.",
         "urls": [
-            "https://www.shsforums.net/files/file/801-jans-alchemy/",
             "https://github.com/Spellhold-Studios/Jan-Alchemy/"
         ],
         "categories": [
@@ -20341,7 +20318,6 @@
         "name": "Jandor NPC",
         "description": "Ce mini mod ajoute un nouveau PNJ : un voleur humain chaotique neutre. Vous le trouverez dans la Guilde des Voleurs de l'ombre.|FOR 11, DEX 18, CON 12, INT 9, SAG 17, CHA 15.",
         "urls": [
-            "https://www.shsforums.net/files/file/802-jandor-npc/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/JandorNPC_v2_.7z"
         ],
         "categories": [
@@ -20813,7 +20789,6 @@
         "name": "Difficult Brown Dragon",
         "description": "Ce petit mod ajoute une nouvelle menace après avoir tué Faldorn : un dragon brun s'installe dans la région. Il doit être vaincu, mais c'est un combat difficile ! Il possède des objets magiques nouveaux...",
         "urls": [
-            "https://www.shsforums.net/files/file/126-difficult-brown-dragon/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/KRs_Difficult_Brown_Dragon_Weidu_v1.3.rar"
         ],
         "categories": [
@@ -21348,7 +21323,6 @@
         "name": "Kido NPC",
         "description": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido est un barde de kit bouffon et d'alignement chaotique mauvais. Il dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec [[66]]. Retrouvez-le dans l'auberge des Cinq Chopes.|FOR 11, DEX 17, CON 13, INT 16, SAG 8, CHA 15.",
         "urls": [
-            "https://www.shsforums.net/files/file/241-kido-version-70/",
             "https://github.com/Spellhold-Studios/Kido-NPC/"
         ],
         "categories": [
@@ -21382,7 +21356,6 @@
         "name": "Killing Wolf NPC",
         "description": "Killing Wolf est un guerrier neutre strict qui rejoindra votre groupe si vous avez un certain niveau. Il a son propre magasin, mais vous ne pourrez plus y accéder dès qu'il intégrera votre groupe. Vous le trouverez à l'étage de l'auberge des Cinq Chopes, où il retournera si vous vous en séparez. La plupart des articles de sa boutique ne sont pas identifiés parce qu'ils proviennent du jeu Fallout. Si vous savez ce qu'ils sont, alors achetez-les, sinon, amusez-vous à découvrir ce qu'ils font !|FOR 18, DEX 18, CON 16, INT 13, SAG 10, CHA 10.",
         "urls": [
-            "https://www.shsforums.net/files/file/136-killing-wolf-npc/",
             "https://github.com/eva2000as/KWolfNPC"
         ],
         "categories": [
@@ -21489,7 +21462,6 @@
         "name": "King Dutka's Thief",
         "description": "Ce mini mod ajoute un sortilège profane permettant de convoquer un voleur qui désarme les pièges. Il ne combattra pas pour vous !",
         "urls": [
-            "https://www.shsforums.net/files/file/124-king-dutkas-thief/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/King_Dutkas_Thief_v1.1.rar"
         ],
         "categories": [
@@ -21934,7 +21906,8 @@
             "es"
         ],
         "status": [
-            "stable"
+            "stable",
+            "missing"
         ],
         "last_update": "2010-03-27",
         "compatibilities": {},
@@ -22911,7 +22884,6 @@
         "name": "Lord of the Rings Item Pack",
         "description": "Ce mini mod remplace certains objets du jeu par d'autres issus de l'univers du Seigneur des Anneaux.",
         "urls": [
-            "https://www.shsforums.net/files/file/338-lord-of-the-rings-item-pack/",
             "http://www.shedplant.net/assets/bg2mods/LotR_Item_Pack1.03.exe"
         ],
         "categories": [
@@ -23343,7 +23315,7 @@
     {
         "id": 661,
         "name": "Macholy's Nameless Melody Inn",
-        "description": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise dans le [BWP Textpack English](https://www.shsforums.net/files/file/979-big-world-textpack-english/).",
+        "description": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost.",
         "urls": [
             "https://trow.cc/board/showtopic=14514",
             "https://forums.beamdog.com/discussion/88763/"
@@ -23833,7 +23805,6 @@
         "name": "Mang0's Hip Hop Mod",
         "description": "Créé pour célébrer l'anniversaire du forum G3, ce mini mod délire apporte une toute nouvelle ambiance hip-hop à Baldur's Gate II. Irenicus, Bodhi, Mélissane et les membres de la main sont renommés Ice Cube, Dr. Dre, MC Ren et Eazy-E. Les têtes de pierre au début de ToB récitent maintenant les paroles de Gangsta Nation de Westside Connection. Le Puce devient 50 Cent. Les arbalètes et les carreaux sont aussi renommés.",
         "urls": [
-            "https://www.shsforums.net/files/file/1057-almaresurrections-mang0s-hip-hop-mod/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/hiphop.zip"
         ],
         "categories": [
@@ -23970,7 +23941,6 @@
         "name": "Mawgul NPC",
         "description": "Mawgul est un Guerrier/Mage elfe neutre absolu, servant de Heaum disposant d'un équipement très puissant, ainsi que de capacités spéciales semblables à celles des prêtres de Helm. Ce mod a peu de contenu.|FOR 10, DEX 19, CON 10, INT 18, SAG 16, CHA 17.",
         "urls": [
-            "https://www.shsforums.net/files/file/767-mawgul-npc-v22/",
             "https://github.com/Plutonium-X/1D_NPC_Mawgul"
         ],
         "categories": [
@@ -24221,7 +24191,6 @@
         "name": "Mhoram",
         "description": "Ce mini-mod ajoute un scalde elfe, poète du grand Nord disposant d'une quête optionnelle dans le quartier du Pont.|FOR 16, DEX 18, CON 15, INT 10, SAG 14, CHA 16.",
         "urls": [
-            "https://www.shsforums.net/files/file/769-mhoram-npc-v23/",
             "https://github.com/Plutonium-X/1D_NPC_Mhoram"
         ],
         "categories": [
@@ -25100,7 +25069,6 @@
         "name": "Mordan's Christmas Minimod",
         "description": "Créé à l'occasion d'un concours de modding sur TeamBG, ce mini mod amusant a pour but de faire découvrir un objet utile. Il comprend même une nouvelle zone. Pour lancer l'intrigue, rendez-vous à l'Auberge du Bonrepos et suivez les indices...",
         "urls": [
-            "https://www.shsforums.net/files/file/129-mordans-christmas-minimod/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/MordanXmas_v1.0.3.zip"
         ],
         "categories": [
@@ -25312,7 +25280,6 @@
         "name": "Mortis Mini mod",
         "description": "Ce mod ajoute deux magasins (l'un dans le donjon d'Irenicus derrière la cellule de Jaheira et l'autre dans les ruines de l'ombre - temple d'Amaunator) qui vendent des potions vous permettant de vous transformer en diverses créatures : limon, vampire, minotaure, spectateur... C'est un mod ténébreux basé sur les morts-vivants, les liches, etc. Les potions sont seulement utilisables par des humains de classe guerrier, clerc, mage ou voleur.",
         "urls": [
-            "https://www.shsforums.net/files/file/145-mortis/",
             "https://github.com/Plutonium-X/MISC_Mortis"
         ],
         "categories": [
@@ -25567,7 +25534,6 @@
         "name": "MunchMod",
         "description": "Arkvisti le Colporteur, un vieil elfe errant qui parcourt Féérune, a de nombreuses marchandises à proposer aux riches clients. Ses artefacts ne sont pas bon marché, mais ils sont uniques et en valent le prix !|Par ailleurs, le forgeron de Franc-Marché recherche des composants rares pour forger la légendaire Lance du Phénix et le Défenseur de mithril. Et Cromwell peut forger un nouvel objet...",
         "urls": [
-            "https://www.shsforums.net/files/file/128-munchmod/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/MunchMod_v3.3.zip"
         ],
         "categories": [
@@ -26104,7 +26070,6 @@
         "name": "Nanstein",
         "description": "Nanstein est un nouveau forgeron qui apparaît face à Cromwell sur les docks. Il peut transformer les objets légendaires en d'autres qui pourraient être plus utiles en fonction du style de jeu, ou du moins plus originaux. Par exemple, une armure de dragon rouge se trouvera changée en robe de mage qui protège contre le feu. Le fléau de l'éternité se trouvera changé en flèches élémentaires. Je ne vous conseillerais pas de l'attaquer, vous n'obtiendriez aucun des objets qu'il forge... et vous mourriez.",
         "urls": [
-            "https://www.shsforums.net/files/file/770-nanstein-v13/",
             "https://github.com/The-Gate-Project/Nanstein"
         ],
         "categories": [
@@ -27263,7 +27228,6 @@
         "name": "1pp: animation fixes for IWD: TotLM",
         "description": "Ce mod corrige certains dysfonctionnement apparus dans l'extension [[1129]] : il restaure les animations d'attente pendant les combats, il corrige les sons d'attaque et permet d'utiliser les animations de personnages de BG1 dans Heart of Winter et [[1129]].",
         "urls": [
-            "https://www.shsforums.net/files/file/972-1pp-animation-fixes-for-iwd-totlm/",
             "https://github.com/Spellhold-Studios/1pp-IWD-Fixes/"
         ],
         "categories": [
@@ -28398,7 +28362,6 @@
         "name": "Phaere NPC Portraits for BG2",
         "description": "Ce mod remplace des portraits de PNJ de BG2 par des créations de Phaere : Aerie, Edwin, Haer'Dalis, Imoen, Jaheira, Mazzy, Minsc, Sarevok et Viconia.",
         "urls": [
-            "https://www.shsforums.net/files/file/1259-phaere-npc-portraits-for-bg2/",
             "https://github.com/Spellhold-Studios/Phaere-NPC-Portraits-BG2"
         ],
         "categories": [
@@ -28597,7 +28560,6 @@
         "name": "The Planar Sphere Mod",
         "description": "Ce mod augmente la durée de la quête de classe liée à la sphère et, donc l'intérêt de jouer un mage. Une grande quête supplémentaire ainsi que plusieurs petites et une sphère peuplée d'apprentis. À noter aussi la présence de 39 nouveaux sorts.|N'hésitez pas à aussi installer le mini mod complémentaire [[812]] (aussi appelé PlanarSphere Return) qui vous permettra de vous téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
         "urls": [
-            "https://www.shsforums.net/files/file/131-planarsphere/",
             "https://forums.beamdog.com/discussion/75761/",
             "https://github.com/11jo/PlanarSphere"
         ],
@@ -28635,7 +28597,6 @@
         "name": "Planar Sphere Teleporter",
         "description": "Publié à l'origine sur [ce site](http://mods.jo-ge.net/bg/index.htm), ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
         "urls": [
-            "https://www.shsforums.net/files/file/130-planarsphere-return/",
             "https://github.com/Plutonium-X/MISC_Planar-teleport"
         ],
         "categories": [
@@ -29771,7 +29732,6 @@
         "name": "Quallo",
         "description": "Ce mini mod vous permettra de récupérer `le sang d'un vieil ami` d'une manière plus pacifique.",
         "urls": [
-            "https://www.shsforums.net/files/file/849-quallo114rar/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/quallo115.rar"
         ],
         "categories": [
@@ -29925,7 +29885,7 @@
         "name": "Qwinn's Planescape: Torment Tweak Pack",
         "description": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[833]], [[1091]], repos quelle que soit la zone (non recommandé), [[1115]] (non recommandé) et [Dustman Robe](https://sorcerers.net/Games/Torment/Platter/index.php?page=mods).",
         "urls": [
-            "https://www.shsforums.net/files/file/649-qwinns-pst-tweak-pack-v412/",
+            "https://www.shsforums.net/forum/554-pst-tweaks/",
             "https://github.com/Spellhold-Studios/PST-Tweak-Pack/"
         ],
         "categories": [
@@ -29963,7 +29923,6 @@
         "name": "RPG Dungeon Item Pack",
         "description": "Cette version moderne du \"Pack d'objets de Rastor\" réduit la puissance de certains objets, et augmente celle d'autres qui en manquent.",
         "urls": [
-            "https://www.shsforums.net/files/file/1262-rpg-item-pack/",
             "https://github.com/Spellhold-Studios/RPG-Dungeon-Item-Pack"
         ],
         "categories": [
@@ -29995,7 +29954,6 @@
         "name": "RPG Dungeon Kit Pack",
         "description": "Ce mod modifie certains profils existants et en ajoute d'autres :|- guerrier : Archer arcanique (aussi doué avec son arc qu'avec la magie et possédant des qualités redoutables pour dissiper toutes les illusions), Hellion (adorant le Prince des Enfers, il peut invoquer de puissantes créatures démoniaques durant le combat) et Soldat.|- Ice Knight (rôdeur).|- Spell Weaver (sorcier entropiste).|- Wild Jester et Buffoon (bardes ou voleurs, au choix).|- Spellsword (guerrier/entropiste).",
         "urls": [
-            "https://www.shsforums.net/files/file/1263-rpg-dungeon-kit-pack/",
             "https://github.com/Spellhold-Studios/RPG-Dungeon-Kit-Pack"
         ],
         "categories": [
@@ -30329,7 +30287,8 @@
             "it"
         ],
         "status": [
-            "stable"
+            "stable",
+            "missing"
         ],
         "last_update": "2010-03-27",
         "compatibilities": {},
@@ -31035,7 +30994,6 @@
         "name": "Restored Textscreen Music",
         "description": "Si vous regrettez la sublime musique de BG1 que vous pouviez entendre lors du tout premier écran de texte racontant le début de votre histoire, ainsi que pendant les rêves, ce mod vous permet de la restaurer. À réserver aux utilisateurs de BGT et de Tutu qui sont prêts à télécharger 18 Mo juste pour l'écran d'introduction.",
         "urls": [
-            "https://www.shsforums.net/files/file/74-restored-textscreen-music-core-installation-package-9/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/TxtMusic.7z"
         ],
         "categories": [
@@ -31558,7 +31516,6 @@
         "name": "Roar NPC",
         "description": "Ce mini mod ajoute un PNJ dans les Collines d'Umar. Il s'agit d'un moine loyal neutre qui ne parle pas beaucoup.|FOR 14, DEX 18, CON 16, INT 11, SAG 15, CHA 6.",
         "urls": [
-            "https://www.shsforums.net/files/file/696-roar111rar/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/roar111.rar"
         ],
         "categories": [
@@ -31863,7 +31820,6 @@
         "name": "Ruad Ro'fhessa Item Upgrade",
         "description": "Ce mod ajoute un forgeron nain dans SoA, puis dans ToB, capable d'assembler des objets à la manière de Cromwell. À la différence du mod [[1329]], la plupart des objets en question demandent un certain sacrifice, tel que le cœur de Yoshimo ou le manche de Vague.",
         "urls": [
-            "https://www.shsforums.net/files/file/790-ruad-rofhessa-item-upgrade/",
             "https://github.com/Spellhold-Studios/Ruad-Rofhessa-Item-Upgrade"
         ],
         "categories": [
@@ -32796,7 +32752,7 @@
         "name": "Semi Multi Clerics",
         "description": "Ce mod ajoute une marchande, la Dame des Mystères, adoratrice de Mystra, qui vend un manuel de magie donnant accès à une trentaine de sorts divins, dont un inédit. Seuls les lanceurs de sorts profanes peuvent en bénéficier au prix de -2 en Dextérité et Constitution. En d'autres termes, grâce à ce mod, à vous les multi-classes sorcier/prêtre, barde/prêtre, guerrier/mage/prêtre (classe de base guerrier/mage et lecture du livre d'où un gain d'XP conséquent), kensaï/mage (clerc), ensorceleur (clerc) ou scalde (clerc), par exemple... et le très fameux guerrier/mage/voleur/prêtre. Attention cependant, il y a des restrictions : toutes les infos sont dans le readme. Vous la trouverez au nord du Marché de l'Aventurier sur la Promenade de Waukyne, et dans l'Antichambre. Sur BGEE et IWDEE, le vendeur se trouvera près de la tour d'Orrick, chez Perleflamme Cheveuxd'Elfe à Bérégost ou au Bazar Magique de la Porte de Baldur.",
         "urls": [
-            "https://www.shsforums.net/files/category/33-smm-rm/",
+            "https://www.shsforums.net/forum/158-smm-rm/",
             "https://github.com/Spellhold-Studios/Semi-Multi-Clerics/"
         ],
         "categories": [
@@ -33876,7 +33832,6 @@
         "name": "Sir Renal",
         "description": "Ce mod ajout un marchand, Sir Renal, chargé de négocier les transactions effectuées par l'Ordre du Cœur radieux. Outre les services classiques d'un temple, il possède plusieurs objets utiles pour combattre les forces du mal. Vous le trouverez dans le quartier général de l'Ordre.",
         "urls": [
-            "https://www.shsforums.net/files/file/854-sir-renal-v25/",
             "https://github.com/The-Gate-Project/Sir_Renal"
         ],
         "categories": [
@@ -35618,7 +35573,6 @@
         "name": "Super Firkraag",
         "description": "Destiné aux joueurs confirmés, ce mod devrait faire de Firkraag l'utilisateur de magie et le dragon incroyablement puissant qu'il devrait être. Son auteur se vante d'avoir lancé un défi à tous les tricheurs pour trouver le moyen de le battre...",
         "urls": [
-            "https://www.shsforums.net/files/file/1257-super-firkraag/",
             "https://github.com/Spellhold-Studios/Super-Firkraag"
         ],
         "categories": [
@@ -36020,7 +35974,6 @@
         "name": "Sylmar Battlefield",
         "description": "Ce mod ajoute un combat et une quête stratégique au contenu de Baldur's Gate II: Shadows of Amn. Aidez une nation d'elfes dont les lieux sacrés de sépulture ont été envahis. Combattez aux côtés de l'armée elfique et testez votre sens tactique contre des hordes d'orques qui attaquent continuellement et même contre des démons mortels et cauchemardesques, tout en gardant le commandant elfe en vie et en préservant leurs terres sacrées.|Attention : ce mod est difficile, les orcs et autres créatures évoluant en fonction de votre niveau.",
         "urls": [
-            "https://www.shsforums.net/files/file/564-sylmar-battlefield-v1025/",
             "https://github.com/Spellhold-Studios/Sylmar-Battlefield/"
         ],
         "categories": [
@@ -36618,7 +36571,7 @@
         "name": "Tashia NPC",
         "description": "Ce mod ajoute un nouveau PNJ, une jeune elfe ensorceleuse neutre bonne issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue.|FOR 11, DEX 19, CON 15, INT 15, SAG 14, CHA 12.",
         "urls": [
-            "https://www.shsforums.net/files/file/33-tashia/",
+            "https://www.shsforums.net/forum/10-tashia/",
             "https://github.com/Spellhold-Studios/Tashia-NPC/"
         ],
         "categories": [
@@ -36859,7 +36812,6 @@
         "name": "Teddy NPC",
         "description": "Ce mod ajoute un nouveau PNJ recrutable dans BG2 : Teddy, un demi-orque barbare neutre bon. Vous le trouverez près de la forteresse de'Arnise. Il n'a que très peu de dialogues.|FOR 19, DEX 12, CON 19, INT 6, SAG 12, CHA 8.",
         "urls": [
-            "https://www.shsforums.net/files/file/699-teddy112rar/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/teddy112.rar"
         ],
         "categories": [
@@ -37085,7 +37037,6 @@
         "name": "Tethyr Forest Patch",
         "description": "La grotte de la forêt de Téthyr est modifiée par le mod [[226]]. Les mods [[1118]] et [[1032]] utilisent également la grotte originale en termes de quêtes et de scripts. Ce mod crée donc une nouvelle entrée dans la grotte, disponible lorsque vous jouez avec tous les mods sans utiliser la console.",
         "urls": [
-            "https://www.shsforums.net/files/file/855-tethyr-forest-patch-version-3b-112609/",
             "https://github.com/Spellhold-Studios/Tethyr-Forest-Patch/"
         ],
         "categories": [
@@ -37127,7 +37078,6 @@
         "name": "Thael NPC",
         "description": "Ce mod ajoute un nouveau PNJ : un elfe mage/voleur. Il dispose de dialogues avec les PNJ de Bioware, avec le PJ, et d'une quête principale qui débute dans SoA et se poursuit dans ToB. Thael se trouve sur la Promenade de Waukyne, tout près du cirque. Il possède une mystérieuse épée courte, Velvevlos, acquise dans des circonstances non moins particulières ; ce puissant artefact ayant une grande influence sur lui.|Au contact des terribles énergies magiques que renferme Velvelos, Thael a subi quelques mutations. L'une d'entre elles, « Pouvoir Mutant », est très utile en combat. Vous pouvez y accéder dans la partie réservée aux capacités spéciales des personnages.|FOR 16, DEX 20, CON 16, INT 18, SAG 9, CHA 10.",
         "urls": [
-            "https://www.shsforums.net/files/file/776-thael-npc-v-232/",
             "https://github.com/Plutonium-X/1D_NPC_Thael"
         ],
         "categories": [
@@ -37331,7 +37281,7 @@
         "name": "The Big Picture",
         "description": "À l'origine, BP permettait de pouvoir jouer aux 3 grands mods ([[1062]], [[936]] et [[1118]]) en un seul et même package. Au fil du temps, tous ces mods ont été recodés au format WeiDU. Les ajouts propres de BP ayant eu tellement de succès, son auteur le convertit à son tour en WeiDU, et BP permet aujourd'hui d'améliorer très sensiblement l'IA de tous vos adversaires, ainsi que de votre groupe, tout comme de corser de nombreuses rencontres. Vous remarquerez ainsi que de nouvelles rencontres (naturellement ardues) ont également été ajoutées : la liche sur les docks, Orcus le prince-démon... ainsi que des reprises de certains composants de [[1021]] et la restauration d'[[74]] dans la version de David Gaider.",
         "urls": [
-            "https://www.shsforums.net/files/file/546-the-big-picture-v181/",
+            "https://www.shsforums.net/forum/192-big-picture/",
             "https://github.com/Spellhold-Studios/Big-Picture/"
         ],
         "categories": [
@@ -37434,7 +37384,7 @@
         "name": "The Bigg Tweaks Pack",
         "description": "Ce mod contient un certain nombre de réglages et de correctifs, la plupart destinés à rendre le jeu moins frustrant :|- Diminution de la durée de l'effet aveuglement du sort Beauté de la nature.|- Correction du sort emprisonnement : désormais, le personnage emprisonné ne sera pas considéré comme mort et ne quittera plus le groupe. Il n'y aura plus de GAME OVER pour le joueur principal, sauf en solo. Ses romances pourront continuer...|- Suppression de Drop Weapons in Panic.|- Souhaits et souhaits limités illimités.|- Souhait et souhait limité revisités pour ne plus prendre en compte les conditions de sagesse.|- Amélioration du système de difficulté : vous pouvez régler la difficulté du scénario via un dialogue, sans modifier les dégâts infligés comme vous le feriez en utilisant la barre de difficulté.|- Et bien d'autres...",
         "urls": [
-            "https://www.shsforums.net/files/file/95-the-bigg-house-the-bigg-tweaks/",
+            "https://www.shsforums.net/forum/252-the-bigg-tweaks/",
             "https://github.com/Spellhold-Studios/The-Bigg-Tweaks/"
         ],
         "categories": [
@@ -37728,7 +37678,6 @@
         "name": "The Darkest Day",
         "description": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque.",
         "urls": [
-            "https://www.shsforums.net/files/file/323-the-darkest-day-v114/",
             "https://forums.beamdog.com/discussion/86795/",
             "https://github.com/Spellhold-Studios/The-Darkest-Day/"
         ],
@@ -38011,7 +37960,6 @@
         "name": "Holy Hand Grenade",
         "description": "Ce petit mod délire vous permettra d'obtenir la Sainte grenade si vous possédez toujours la pierre de lumière lorsque vous quittez l'Ombreterre. C'est une arme redoutable contre certaines créatures...",
         "urls": [
-            "https://www.shsforums.net/files/file/143-holy-hand-grenade/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/HolyHandGrenade_v1.3.zip"
         ],
         "categories": [
@@ -38271,7 +38219,6 @@
         "name": "Magnificient Magic Shop",
         "description": "Ce petit mod ajoute trois magasins dans le jeu et plus de 20 objets assez puissants, dont un livre permettant de conjurer des échoppes dans lesquelles aller s'approvisionner.",
         "urls": [
-            "https://www.shsforums.net/files/file/809-magnificient-magic-shop/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/tzshop01_v6.zip"
         ],
         "categories": [
@@ -38785,7 +38732,6 @@
         "name": "Tortured Soul Quest",
         "description": "À ne pas confondre avec le méga mod [[1118]], ce mod ajoute une petite quête, à la fin de laquelle vous obtenez un objet inédit qui vous permet d'invoquer Baenwuld le Tueur de magicien à volonté. Celui-ci peut-être libéré de son esclavage pour rejoindre votre groupe. Pour la démarrer, utilisez la baguette 'droppée' par un nouvel adversaire dans l'une des cryptes du cimetière d'Athkatla.|FOR 19, DEX 17, CON 19, INT 12, SAG 15, CHA 17.",
         "urls": [
-            "https://www.shsforums.net/files/file/149-the-tortured-soul-quest/",
             "https://github.com/Plutonium-X/1D_NPC_Tortured"
         ],
         "categories": [
@@ -38894,7 +38840,6 @@
         "name": "The Unusual Oddities Shop",
         "description": "Ce mod ajoute sur les quais un magasin à la vendeuse peu ordinaire. Vous la trouverez en face du temple d'Oghma. Certains de ses articles vous paraîtront trop puissants, voire impossible à utiliser, mais ils auront au moins le mérite de la diversité.",
         "urls": [
-            "https://www.shsforums.net/files/file/1264-the-unusual-oddities-shop/",
             "https://github.com/Spellhold-Studios/Unusual-Oddities-Shop"
         ],
         "categories": [
@@ -39858,6 +39803,7 @@
         "description": "Touchstone est un elfe sauvage guerrier qui semble ne pouvoir s'exprimer en langue commune qu'avec efforts, mais qui tentera cependant de se lier avec vous. Pas de romance néanmoins, il est annoncé comme étant sociable, même si apparemment il n'a pas énormément d'interactions avec les personnages du jeu. Vous le trouverez sur les Docks d'Athkatla. Un composant optionnel permet de lui attribuer un kit de guerrier elfe sauvage.|FOR 16, DEX 17, CON 14, INT 12, SAG 12, CHA 12.",
         "urls": [
             "https://www.shsforums.net/topic/56148-touchstone-a-mod-from-rabain/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Touchstone-v1.1.zip",
             "https://github.com/RoxanneSHS/Touchstone"
         ],
         "categories": [
@@ -40247,7 +40193,6 @@
         "name": "Trovador REO",
         "description": "Volo n'est pas le seul à connaître des histoires qui valent la peine d'être racontées. De nombreux troubadours et bardes parcourent Féérune au péril de leur vie pour égayer les tavernes. Ce mod ajoute un troubadour très spécial, qui, pour quelques pièces d'or, vous racontera des histoires inédites, et même les origines de certains personnages, comme le mystérieux Riojano, ou Artemis Entreri. Vous pouvez le retrouver sur la Promenade de Waukyne. Il ajoute également une boutique avec des objets curieux.",
         "urls": [
-            "https://www.shsforums.net/files/file/853-trovador-reo/",
             "https://github.com/Spellhold-Studios/Trovador-REO"
         ],
         "categories": [
@@ -40769,7 +40714,8 @@
             "es"
         ],
         "status": [
-            "stable"
+            "stable",
+            "missing"
         ],
         "last_update": "2010-05-23",
         "compatibilities": {},
@@ -41383,7 +41329,6 @@
         "name": "Universal Clear Fog of War",
         "description": "Ce mod est une modernisation de l'ancien mod [[239]]. Comme son nom l'indique, il supprime le brouillard de guerre dans toutes les zones.",
         "urls": [
-            "https://www.shsforums.net/files/file/878-universal-clear-fog-of-war/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/UFCOW.rar"
         ],
         "categories": [
@@ -42325,7 +42270,6 @@
         "name": "W_GUI",
         "description": "Ce mod propose une nouvelle interface qui remodèle complètement la quasi-totalité des écrans du jeu. Il est compatible avec [[1216]] et [[1191]] pour lesquels il comporte des écrans de début spécifiques.",
         "urls": [
-            "https://www.shsforums.net/files/file/990-w-gui/",
             "https://github.com/Spellhold-Studios/W_GUI/"
         ],
         "categories": [
@@ -44684,7 +44628,6 @@
         "name": "wonnimchunha's Portrait Mod",
         "description": "Ce mod installe 12 portraits de qualité professionnelle remplaçant ceux de PNJ existants : Aerie, Ajantis, Anomen, Branwen, Cernd, Coran, Edwin, Haer'Dalis, Imoen, Safana, Xan et Yoshimo. Chaque portrait est installé individuellement, vous pouvez donc choisir les portraits que vous utilisez, et vous avez également la possibilité d'utiliser les portraits pour votre propre PC.",
         "urls": [
-            "https://www.shsforums.net/files/file/813-wonnimchunhas-portrait-mod-v1/",
             "https://github.com/Spellhold-Studios/wonnimchunha-Portrait-Mod/"
         ],
         "categories": [
@@ -45720,7 +45663,6 @@
         "name": "Nalia Mod",
         "description": "Ce mod modifie la classe de Nalia pour la différencier d'Imoen : elle n'est plus une magicienne/voleuse, mais une voleuse/magicienne qui améliore sa classe de voleur pendant le jeu. Dorénavant, vous bénéficierez d'un voleur digne de ce nom dans BG2 !",
         "urls": [
-            "https://www.shsforums.net/files/file/144-nalia-mod/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/nalia_mod_v3.exe"
         ],
         "categories": [
@@ -46016,7 +45958,6 @@
         "name": "The RPG Solaufein Flirt Pack for BG2",
         "description": "En complément du mod [[1294]] permettant de recruter le fameux drow à Ust Natha, voici la suite de la romance disponible pour la mener à son terme, avec de nombreuses idées compilées dans ce mod achevé, notamment la possibilité de l'aider dans ses choix (il quitte tout de même l'Ombreterre pour vous suivre...).",
         "urls": [
-            "https://www.shsforums.net/files/file/1258-solaufein-flirt-pack-for-the-solaufein-romance-mod/",
             "https://github.com/Spellhold-Studios/Solaufein-Flirt-Pack"
         ],
         "categories": [
@@ -55849,6 +55790,7 @@
         "name": "Baldurian Bar Hop(ping)",
         "description": "Ce mod ajoute des rencontres fantaisistes dans les tavernes de la ville de Baldur's Gate. Participez à un concours de boisson avec des nains, défiez un barde amateur dans un concours amical, provoquez une bagarre dans une taverne…",
         "urls": [
+            "https://forums.beamdog.com/discussion/90742/",
             "https://github.com/bucketfulofsunshine/baldurian-bar-hop"
         ],
         "categories": [
@@ -56842,7 +56784,8 @@
             "de"
         ],
         "status": [
-            "stable"
+            "stable",
+            "missing"
         ],
         "last_update": "2009-05-21",
         "compatibilities": {},
@@ -62400,7 +62343,7 @@
         "name": "mixedtweaks",
         "description": "Ce tweakpack possèdent plusieurs composants assez variés, des modifications de comportements des pnj, à des améliorations visuelles des objets de quêtes en passant par l'ajout de gain d'expérience lors des quêtes. Il propose aussi de nouveaux scripts pour vos coéquipiers.",
         "urls": [
-            "https://forums.beamdog.com/discussion/82314/#Comment_1217781"
+            "https://forums.beamdog.com/discussion/82314/#Comment_1224545"
         ],
         "categories": [
             "Gameplay"
@@ -62433,8 +62376,7 @@
         "name": "Krondor",
         "description": "Krondor est un nain bourru mais bon enfant, avec qui il est agréable de passer du temps. C'est un prêtre de Heaum loyal bon. Il a un compagnon animal (Wolfie, un worg) qui intervient dans plusieurs de ses dialogues. Il encourage le personnage joueur à suivre la voie du bien dans toutes les quêtes, un peu comme Keldorn ou Mazzy. Il a un fort accent et est un peu bourru, mais très sympathique. Vous pouvez le retrouver dans les Collines d'Umar.|FOR 18/00, DEX 16, CON 15, INT 13, SAG 18, CHA 10.",
         "urls": [
-            "https://www.insimilion.pl/plik/baldurs-gate-2,112/krondor,112",
-            "http://gamingnerdsrus.co/forum/index.php?action=downloads;sa=view;down=199"
+            "https://www.insimilion.pl/plik/baldurs-gate-2,112/krondor,112"
         ],
         "categories": [
             "PNJ recrutable"
@@ -65527,7 +65469,6 @@
         "name": "BiG World Textpack English",
         "description": "Ce pack de texte installe toutes les traductions disponibles de plusieurs dizaines de mods, qui ne sont pas incluses dans les mods, et effectue d'autres corrections de texte.",
         "urls": [
-            "https://www.shsforums.net/files/file/979-big-world-textpack-english/",
             "https://github.com/Spellhold-Studios/BiG-World-Textpack-English/"
         ],
         "categories": [
@@ -71062,7 +71003,6 @@
         "name": "BiG World Textpack German",
         "description": "Ce pack de texte installe toutes les traductions disponibles de plusieurs dizaines de mods, qui ne sont pas incluses dans les mods, et effectue d'autres corrections de texte.",
         "urls": [
-            "https://www.shsforums.net/files/file/522-big-world-textpack-german/",
             "https://github.com/Spellhold-Studios/BiG-World-Textpack-German"
         ],
         "categories": [
@@ -72437,5 +72377,103 @@
             ]
         },
         "tp2": "Artisans_Armory"
+    },
+    {
+        "id": 2088,
+        "name": "BG:EE Simple Customize Mod",
+        "description": "Il s'agit d'un petit mod qui vous offre de nombreuses possibilités de personnalisation. Il peut également vous donner une idée du fonctionnement d'un mod WeiDU avec BG:EE.",
+        "urls": [
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Simple-Customize-Mod.zip"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Cuv"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2012-12-03",
+        "compatibilities": {},
+        "tp2": "bgee_customize"
+    },
+    {
+        "id": 2089,
+        "name": "SpellFix Visual Effects",
+        "description": "Correctif du mod [[308]].",
+        "urls": [
+            "https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/",
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/SpellFix_Visual_Effects_v1.0.rar"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "Gamemacik"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2021-05-09",
+        "compatibilities": {
+            "requires": [
+                308
+            ]
+        },
+        "tp2": "SpellFix_Visual_Effects"
+    },
+    {
+        "id": 2090,
+        "name": "Convenient Ammunition for IWDEE",
+        "description": "Un petit pack qui ajoute des carquois de projectiles illimité dans un nouveau magasin.",
+        "urls": [
+            "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/ConvenientAmmoforIWDEEv12.zip"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Smeagolheart"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2014-11-15",
+        "compatibilities": {},
+        "tp2": "ConvinientAmmoforIWDEE"
     }
 ]

@@ -4246,7 +4246,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doit être installé conjointement avec le mod [SpellFix Visual Effects](https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/)."
+            "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doit être installé conjointement avec le mod [[2089]]."
         },
         "notes": [],
         "notes_meta": {
@@ -7543,10 +7543,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ne pas oublier de télécharger [tous les fichiers d'animation](https://www.shsforums.net/files/category/98-infinity-animations/) et les décompresser dans le dossier \"infinityanimations/content\" avant d'installer le mod."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -9075,7 +9073,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise dans le [BWP Textpack English](https://www.shsforums.net/files/file/979-big-world-textpack-english/)."
+            "source": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost."
         },
         "notes": [],
         "notes_meta": {
@@ -15077,10 +15075,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Choisissez le lien github pour la version EE et l'autre lien pour les versions originelles."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28458,6 +28454,45 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod propose des modifications génériques d'objets (comme les prix, un nouveau concept de vitesse d'attaque pour les armes, des modifications des probabilités de coup critique etc) et de l'équipement supplémentaire."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2088,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Il s'agit d'un petit mod qui vous offre de nombreuses possibilités de personnalisation. Il peut également vous donner une idée du fonctionnement d'un mod WeiDU avec BG:EE."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2089,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Correctif du mod [[308]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2090,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un petit pack qui ajoute des carquois de projectiles illimité dans un nouveau magasin."
         },
         "notes": [],
         "notes_meta": {

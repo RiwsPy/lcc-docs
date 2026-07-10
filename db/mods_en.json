@@ -4382,10 +4382,10 @@
     },
     {
         "id": 308,
-        "description": "The main aim of this mod is to add teleportation capabilities to players, enabling them to travel to all official BG2 and ToB maps. It also adds many other spells to the game. Please note: it must be installed in conjunction with the [SpellFix Visual Effects](https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/) mod.",
+        "description": "The main aim of this mod is to add teleportation capabilities to players, enabling them to travel to all official BG2 and ToB maps. It also adds many other spells to the game. Please note: it must be installed in conjunction with the [[2089]] mod.",
         "description_meta": {
             "status": "needs_review",
-            "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doit être installé conjointement avec le mod [SpellFix Visual Effects](https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/)."
+            "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doit être installé conjointement avec le mod [[2089]]."
         },
         "notes": [],
         "notes_meta": {
@@ -7761,14 +7761,10 @@
             "status": "needs_review",
             "source": "Ce mod modifie le jeu Baldur's Gate II : Trône de Bhaal de façon à ce qu'il dispose d'animations supplémentaires de créatures et de personnages.|Infinity Animations prend en charge les types d'animation très divers des jeux Baldur's Gate I, Baldur's Gate II, Icewind Dale I, Icewind Dale II, Planescape: Torment et Neverwinter Nights. En bonus, le mod rétablit l'intégralité des animations de personnages de Baldur's Gate I, et permet à certaines animations qui n'en avaient pas jusqu'à présent de disposer dorénavant d'un paperdoll (silhouette dans l'écran des personnages).|Point important pour les joueurs installant plusieurs mods conséquents (appelés « mega-mods »), Infinity Animations résout les conflits de slots d'animation (plusieurs mods utilisant les mêmes slots pour des animations différentes, le dernier installé écrase les modifications effectuées par les précédents) et rétablit les animations de base que les mega-mods ont modifiées.|Enfin, il comporte des composants optionnels qui introduisent de nombreuses nouvelles animations dans le jeu, ainsi que leurs jeux de sons associés (soundsets). Bien que le nombre d'animations supportées ne soit pas « infini », comme le nom du mod l'indique, il devrait toutefois être assez important pour répondre aux besoins actuels (et probablement futurs) de tout le monde."
         },
-        "notes": [
-            "Don't forget to download [all animation files](https://www.shsforums.net/files/category/98-infinity-animations/) and unzip them in the \"infinityanimations/content\" folder before installing the mod."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Ne pas oublier de télécharger [tous les fichiers d'animation](https://www.shsforums.net/files/category/98-infinity-animations/) et les décompresser dans le dossier \"infinityanimations/content\" avant d'installer le mod."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -9342,10 +9338,10 @@
     },
     {
         "id": 661,
-        "description": "This mod takes place in BG and ends in BG2 and ToB. If you're interested in this mod, you'll find a draft English translation in the [BWP Textpack English](https://www.shsforums.net/files/file/979-big-world-textpack-english/).",
+        "description": "This mod takes place in BG and ends in BG2 and ToB. The quest is set in motion by a strange traveller you meet at the Jovial Juggler’s tavern in Beregost.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise dans le [BWP Textpack English](https://www.shsforums.net/files/file/979-big-world-textpack-english/)."
+            "source": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost."
         },
         "notes": [
             "The beamdog link offers an EET-compatible version."
@@ -15508,14 +15504,10 @@
             "status": "needs_review",
             "source": "Ce mod ajoute deux PNJ, Callisto T'sarran (elfe femme berserker neutre mauvaise) et [[1488]] (elfe guerrière/mage loyale neutre). De nouvelles rencontres en rapport avec la quête de Callisto (anciennement [[303]]), sept nouveaux magasins, trois nouvelles quêtes, banters et interjections sont également au programme."
         },
-        "notes": [
-            "Choose the github link for the EE version and the other link for the original versions."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Choisissez le lien github pour la version EE et l'autre lien pour les versions originelles."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -29142,6 +29134,45 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod propose des modifications génériques d'objets (comme les prix, un nouveau concept de vitesse d'attaque pour les armes, des modifications des probabilités de coup critique etc) et de l'équipement supplémentaire."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2088,
+        "description": "This is a simple mod that does a great deal of customization for you. It can also give you an idea of how a WeiDU mod can work with BG:EE.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Il s'agit d'un petit mod qui vous offre de nombreuses possibilités de personnalisation. Il peut également vous donner une idée du fonctionnement d'un mod WeiDU avec BG:EE."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2089,
+        "description": "[[308]] patch.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Correctif du mod [[308]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2090,
+        "description": "A small pack that adds quivers of unlimited projectiles to a new shop.",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un petit pack qui ajoute des carquois de projectiles illimité dans un nouveau magasin."
         },
         "notes": [],
         "notes_meta": {

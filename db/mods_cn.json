@@ -4441,8 +4441,8 @@
         "id": 308,
         "description": "这个模组的主要目标是为玩家添加传送能力，让他们可以前往博德之门Ⅱ和巴尔王座的所有官方地图。|此外，它还在游戏中添加了许多其他法术。|注意：必须与[SpellFix Visual Effects](https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/)模组一同安装。",
         "description_meta": {
-            "status": "done",
-            "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doit être installé conjointement avec le mod [SpellFix Visual Effects](https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/)."
+            "status": "needs_review",
+            "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doit être installé conjointement avec le mod [[2089]]."
         },
         "notes": [],
         "notes_meta": {
@@ -7869,14 +7869,10 @@
             "status": "done",
             "source": "Ce mod modifie le jeu Baldur's Gate II : Trône de Bhaal de façon à ce qu'il dispose d'animations supplémentaires de créatures et de personnages.|Infinity Animations prend en charge les types d'animation très divers des jeux Baldur's Gate I, Baldur's Gate II, Icewind Dale I, Icewind Dale II, Planescape: Torment et Neverwinter Nights. En bonus, le mod rétablit l'intégralité des animations de personnages de Baldur's Gate I, et permet à certaines animations qui n'en avaient pas jusqu'à présent de disposer dorénavant d'un paperdoll (silhouette dans l'écran des personnages).|Point important pour les joueurs installant plusieurs mods conséquents (appelés « mega-mods »), Infinity Animations résout les conflits de slots d'animation (plusieurs mods utilisant les mêmes slots pour des animations différentes, le dernier installé écrase les modifications effectuées par les précédents) et rétablit les animations de base que les mega-mods ont modifiées.|Enfin, il comporte des composants optionnels qui introduisent de nombreuses nouvelles animations dans le jeu, ainsi que leurs jeux de sons associés (soundsets). Bien que le nombre d'animations supportées ne soit pas « infini », comme le nom du mod l'indique, il devrait toutefois être assez important pour répondre aux besoins actuels (et probablement futurs) de tout le monde."
         },
-        "notes": [
-            "不要忘记下载[所有动画文件](https://www.shsforums.net/files/category/98-infinity-animations/)，并在安装模组前将它们解压到 \"infinityanimations/content\" 文件夹中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ne pas oublier de télécharger [tous les fichiers d'animation](https://www.shsforums.net/files/category/98-infinity-animations/) et les décompresser dans le dossier \"infinityanimations/content\" avant d'installer le mod."
-            ]
+            "source": []
         }
     },
     {
@@ -9457,8 +9453,8 @@
         "id": 661,
         "description": "此模组的故事发生在博德之门，并在博德之门Ⅱ和巴尔王座中结束。任务由在贝尔苟斯特（Bérégost）的欢乐卖艺人旅店遇到的一个奇怪旅行者发起。|如果您对此模组感兴趣，您可以在[BWP英文文本包](https://www.shsforums.net/files/file/979-big-world-textpack-english/)中找到英文翻译草稿。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise dans le [BWP Textpack English](https://www.shsforums.net/files/file/979-big-world-textpack-english/)."
+            "status": "needs_review",
+            "source": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost."
         },
         "notes": [
             "Beamdog 的链接提供了一个兼容 EET 的版本。"
@@ -15706,14 +15702,10 @@
             "status": "done",
             "source": "Ce mod ajoute deux PNJ, Callisto T'sarran (elfe femme berserker neutre mauvaise) et [[1488]] (elfe guerrière/mage loyale neutre). De nouvelles rencontres en rapport avec la quête de Callisto (anciennement [[303]]), sept nouveaux magasins, trois nouvelles quêtes, banters et interjections sont également au programme."
         },
-        "notes": [
-            "请选择 github 链接获取 EE 版，另一个链接获取原版。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Choisissez le lien github pour la version EE et l'autre lien pour les versions originelles."
-            ]
+            "source": []
         }
     },
     {
@@ -29476,6 +29468,45 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod propose des modifications génériques d'objets (comme les prix, un nouveau concept de vitesse d'attaque pour les armes, des modifications des probabilités de coup critique etc) et de l'équipement supplémentaire."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2088,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Il s'agit d'un petit mod qui vous offre de nombreuses possibilités de personnalisation. Il peut également vous donner une idée du fonctionnement d'un mod WeiDU avec BG:EE."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2089,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Correctif du mod [[308]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2090,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un petit pack qui ajoute des carquois de projectiles illimité dans un nouveau magasin."
         },
         "notes": [],
         "notes_meta": {
