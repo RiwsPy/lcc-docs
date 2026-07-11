@@ -4439,9 +4439,9 @@
     },
     {
         "id": 308,
-        "description": "这个模组的主要目标是为玩家添加传送能力，让他们可以前往博德之门Ⅱ和巴尔王座的所有官方地图。|此外，它还在游戏中添加了许多其他法术。|注意：必须与[SpellFix Visual Effects](https://www.shsforums.net/topic/61055-mod-spellfix-visual-effects/)模组一同安装。",
+        "description": "这个模组的主要目标是让玩家获得传送能力，能够前往《博德之门2》和《巴尔王座》的所有官方地图。|此外，它还在游戏中增加了许多其他法术。|注意：此模组必须与[[2089]]号模组一同安装。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doit être installé conjointement avec le mod [[2089]]."
         },
         "notes": [],
@@ -9451,9 +9451,9 @@
     },
     {
         "id": 661,
-        "description": "此模组的故事发生在博德之门，并在博德之门Ⅱ和巴尔王座中结束。任务由在贝尔苟斯特（Bérégost）的欢乐卖艺人旅店遇到的一个奇怪旅行者发起。|如果您对此模组感兴趣，您可以在[BWP英文文本包](https://www.shsforums.net/files/file/979-big-world-textpack-english/)中找到英文翻译草稿。",
+        "description": "这个模组的故事始于《博德之门1》，在《博德之门2》与《巴尔王座》中完结。任务由在贝尔苟斯特（Bérégost）的“欢乐卖艺人”旅店（Jongleur jovial）中遇到的一位陌生旅者触发。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost."
         },
         "notes": [
@@ -29473,9 +29473,9 @@
     },
     {
         "id": 2088,
-        "description": "",
+        "description": "这是一个小模组，为您提供了丰富的自定义选项。它也能帮助您了解一个适用于《博德之门：增强版》（BG:EE）的WeiDU模组是如何运作的。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Il s'agit d'un petit mod qui vous offre de nombreuses possibilités de personnalisation. Il peut également vous donner une idée du fonctionnement d'un mod WeiDU avec BG:EE."
         },
         "notes": [],
@@ -29486,9 +29486,9 @@
     },
     {
         "id": 2089,
-        "description": "",
+        "description": "[[308]]号模组的修正补丁。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Correctif du mod [[308]]."
         },
         "notes": [],
@@ -29499,9 +29499,9 @@
     },
     {
         "id": 2090,
-        "description": "",
+        "description": "一个小型模组包，在一家新商店中添加了无限弹药箭袋。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Un petit pack qui ajoute des carquois de projectiles illimité dans un nouveau magasin."
         },
         "notes": [],
