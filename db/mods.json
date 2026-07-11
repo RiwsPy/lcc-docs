@@ -7902,10 +7902,10 @@
     },
     {
         "id": 222,
-        "name": "Charli vendedor",
+        "name": "Charli",
         "description": "Ce mod vous permet d'acheter rapidement quelques sacs de contenance supplémentaires, ainsi que d'autres objets d'origine douteuse, à ce marchand près de l'entrée de la Couronne de Cuivre.",
         "urls": [
-            "https://www.shsforums.net/files/file/771-charli-v23/"
+            "https://github.com/The-Gate-Project/Clan_DLAN/tree/main/Clan_DLAN/Charli"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -7927,8 +7927,7 @@
             "it"
         ],
         "status": [
-            "stable",
-            "missing"
+            "stable"
         ],
         "last_update": "2010-07-04",
         "compatibilities": {},
@@ -16495,7 +16494,7 @@
         "name": "Hanna PNJ",
         "description": "Rôdeuse de son état, Hanna dispose d'une quête personnelle, de banters et d'interactions avec les PNJ du jeu. Vous la trouverez à Franc-Marché (SoA), et pourrez l'invoquer dans l'Antichambre (ToB). Ce mod améliore également un certain nombre de rencontres, dont celle avec Irenicus, le château de'Arnise, le dragon d'Irenicus et quelques autres.",
         "urls": [
-            "https://www.shsforums.net/files/file/821-hanna-pnj/"
+            "https://github.com/The-Gate-Project/Clan_REO/tree/main/Clan_REO/Hanna"
         ],
         "categories": [
             "PNJ One Day"
@@ -16520,8 +16519,7 @@
             "es"
         ],
         "status": [
-            "stable",
-            "missing"
+            "stable"
         ],
         "last_update": "2020-08-02",
         "compatibilities": {},
@@ -17737,7 +17735,7 @@
         "name": "Huple NPC",
         "description": "Huple est un soldat de l'armée de Amn. Il vous accompagnera lors de votre périple dans les mines de Nashkel ainsi que dans quelques quêtes autour de ce lieu. Huple a une confiance aveugle dans l'ordre, la justice et la loi. Il transporte avec lui un symposium de lois et de décrets. Et, lors de nombreux dialogues, il confrontera son point de vue avec le vôtre et celui de vos compagnons.|FOR 17, DEX 10, CON 16, INT 8, SAG 18, CHA 17.",
         "urls": [
-            "https://www.shsforums.net/files/file/773-huple-npc-v12/"
+            "https://github.com/The-Gate-Project/Clan_DLAN/tree/main/Clan_DLAN/Huple"
         ],
         "categories": [
             "PNJ recrutable"
@@ -17757,8 +17755,7 @@
             "fr"
         ],
         "status": [
-            "stable",
-            "missing"
+            "stable"
         ],
         "last_update": "2009-08-17",
         "compatibilities": {},
@@ -21885,7 +21882,7 @@
         "name": "La Música de los Reinos",
         "description": "Ce mod ajoute un nouveau magasin d'instruments de musique sur la Promenade de Waukyne. Vous y découvrirez entre autres une flûte, le luth de la vaillance et de l'horreur, une lyre de progression, la harpe de la fortune, le cor de combat de Bernad. Si vous le souhaitez, vous pourrez accepter un défi musical en rencontrant le chantre noir, de nuit, sur la Promenade de Waukyne. Enfin, l'armurier Maheer pourra améliorer les nouveaux cors magiques.|Bref, si vous le pouvoir de la musique et des instruments magiques vous intéresse, ce mod est pour vous.",
         "urls": [
-            "https://www.shsforums.net/files/file/850-la-musica-de-los-reinos-v21/"
+            "https://github.com/The-Gate-Project/Clan_REO/tree/main/Clan_REO/Musica-de-los-Reinos"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -21906,8 +21903,7 @@
             "es"
         ],
         "status": [
-            "stable",
-            "missing"
+            "stable"
         ],
         "last_update": "2010-03-27",
         "compatibilities": {},
@@ -30262,7 +30258,7 @@
         "name": "Recargador",
         "description": "Votre visite de la Promenade de Waukyne ne serait pas complète sans rencontrer Victor Cacgomval, un mage clerc capable de recharger des objets magiques avant qu'ils ne soient réduits en poussière, comme il est possible de faire dans les manuels P&P.",
         "urls": [
-            "https://www.shsforums.net/files/file/847-recargador-v23/"
+            "https://github.com/The-Gate-Project/Clan_REO/tree/main/Clan_REO/Recargador"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -30287,8 +30283,7 @@
             "it"
         ],
         "status": [
-            "stable",
-            "missing"
+            "stable"
         ],
         "last_update": "2010-03-27",
         "compatibilities": {},
@@ -40692,7 +40687,7 @@
         "name": "Uldar NPC",
         "description": "Uldar est un barbare demi-orque qui peut rejoindre votre groupe. On le trouve à la Couronne de Cuivre. Dans ToB, on peut l'invoquer dans l'antichambre. Le mod n'a aucune romance, mais fournit beaucoup de dialogues et d'interactions, presque toujours avec plusieurs options de réponse.",
         "urls": [
-            "https://www.shsforums.net/files/file/766-uldar-npc-v-077/"
+            "https://github.com/The-Gate-Project/Clan_DLAN/tree/main/Clan_DLAN/Uldar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -40714,8 +40709,7 @@
             "es"
         ],
         "status": [
-            "stable",
-            "missing"
+            "stable"
         ],
         "last_update": "2010-05-23",
         "compatibilities": {},
@@ -49405,17 +49399,20 @@
             "ikonomov"
         ],
         "team": [],
-        "notes": [
-            "EE : L'auteur ne le maintient plus et il ne fonctionne pas avec le patch 2.6."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": [
-            "archived"
+            "archived",
+            "obsolete"
         ],
         "last_update": "2022-10-17",
-        "compatibilities": {},
+        "compatibilities": {
+            "conflicts": [
+                "EE version >= 2.6"
+            ]
+        },
         "tp2": "BG1_Remove_HiS_Sounds;BG2_Remove_HiS_Sounds"
     },
     {
@@ -56759,7 +56756,7 @@
         "name": "Celestiales",
         "description": "Ce mod corrige les animations des armes des anges et planétaires.",
         "urls": [
-            "https://www.shsforums.net/files/file/778-celestiales-v-12/"
+            "https://github.com/The-Gate-Project/Clan_DLAN/tree/main/Clan_DLAN/Celestiales"
         ],
         "categories": [
             "Cosmétique"
@@ -56784,8 +56781,7 @@
             "de"
         ],
         "status": [
-            "stable",
-            "missing"
+            "stable"
         ],
         "last_update": "2009-05-21",
         "compatibilities": {},
