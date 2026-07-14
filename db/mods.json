@@ -33213,6 +33213,9 @@
         "compatibilities": {
             "requires": [
                 "ToB"
+            ],
+            "conflicts": [
+                2091
             ]
         },
         "tp2": "Sharteel_BG2"
@@ -62979,7 +62982,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-02",
+        "last_update": "2026-07-08",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -65147,7 +65150,7 @@
             "Attention, l'ordre d'installation des mods est particulièrement important."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "de",
             "en",
@@ -71673,7 +71676,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-06",
+        "last_update": "2026-07-11",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -72471,5 +72474,43 @@
         "last_update": "2014-11-15",
         "compatibilities": {},
         "tp2": "ConvinientAmmoforIWDEE"
+    },
+    {
+        "id": 2091,
+        "name": "Shar-Teel BG2EE",
+        "description": "Le mod « Shar-Teel for BG2EE » fait exactement ce que son titre laisse entendre : il permet aux joueurs de rencontrer et de recruter Shar-Teel au cours de la campagne de Baldur's Gate II : Enhanced Edition.|Le mod propose une relation de « companions with benefits » avec le personnage principal, à condition que le PJ soit un homme dont l'alignement n'est pas Bon (Mauvais ou Loyal/Chaotique/Neutre strict), et dont la Force et le Charisme sont supérieurs ou égaux à 10.|Vous pouvez la rencontrer dans l'Antre de Bodhi, quel que soit votre camp : Bodhi ou les Voleurs de l'Ombre. Sachez toutefois que le chemin que vous avez emprunté influence ses répliques et son équipement, car elle peut débuter soit en tant que « Deathly Reaver » (bénéficie d'un bonus contre les humains, d'une immunité au drain de niveau et peut lancer Toucher vampirique), soit en tant que « Hot-Blooded Reaver » (bénéficie d'un bonus contre les morts-vivants, d'un bonus important aux jets de sauvegarde contre la mort et peut se lancer Hâte). Quel que soit votre choix, elle bénéficie également d'une autre capacité mineure qui reflète son aversion pour les hommes.",
+        "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=78",
+            "https://forums.beamdog.com/discussion/90755/",
+            "https://downloads.weaselmods.net/download/shar-teel-bg2ee/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-07-12",
+        "compatibilities": {
+            "conflicts": [
+                48,
+                938
+            ]
+        },
+        "tp2": "SharTeelBG2EE"
     }
 ]
