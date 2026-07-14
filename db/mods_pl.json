@@ -28510,5 +28510,20 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2092,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose un script qui permet de changer l'apparence de votre personnage en appuyant sur une touche. Vous pouvez ainsi choisir que votre personnage ressemble à un clerc, à un mage, à un guerrier ou à un roublard quelque soit sa classe d'origine."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Le premier lien contient la version BG, le second la version IWD."
+            ]
+        }
     }
 ]

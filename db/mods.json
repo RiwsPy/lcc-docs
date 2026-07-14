@@ -3703,7 +3703,7 @@
         "embedded_in": 285,
         "last_update": "",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "CoMForge"
     },
     {
         "id": 103,
@@ -41625,7 +41625,7 @@
         "last_update": "2016-04-20",
         "compatibilities": {},
         "embedded_in": 71,
-        "tp2": ""
+        "tp2": "PlotItems"
     },
     {
         "id": 1173,
@@ -59903,7 +59903,8 @@
             "en"
         ],
         "status": [
-            "archived"
+            "archived",
+            "unreleased"
         ],
         "last_update": "2015-10-31",
         "compatibilities": {},
@@ -66449,8 +66450,7 @@
             "BGEE",
             "BG2EE",
             "SoD",
-            "EET",
-            "BGT"
+            "EET"
         ],
         "authors": [
             "JohnBob",
@@ -66466,7 +66466,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-06-19",
+        "last_update": "2026-07-14",
         "compatibilities": {},
         "tp2": "JOining_Party_Select"
     },
@@ -72512,5 +72512,40 @@
             ]
         },
         "tp2": "SharTeelBG2EE"
+    },
+    {
+        "id": 2092,
+        "name": "Idobek's Morphing Script",
+        "description": "Ce mod propose un script qui permet de changer l'apparence de votre personnage grâce à votre clavier. Vous pouvez ainsi choisir que votre personnage ressemble à un clerc, à un mage, à un guerrier ou à un roublard quelque soit sa classe d'origine.",
+        "urls": [
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/BG1IKMorph.zip",
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/IWDIKMorph.zip"
+        ],
+        "categories": [
+            "Script et tactique"
+        ],
+        "games": [
+            "BG",
+            "IWD"
+        ],
+        "authors": [
+            "Idobek"
+        ],
+        "team": [],
+        "notes": [
+            "Le premier lien contient la version BG, le second la version IWD."
+        ],
+        "translation_state": "auto",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable",
+            "obsolete"
+        ],
+        "last_update": "2004-03-06",
+        "compatibilities": {},
+        "tp2": "IKMorph"
     }
 ]

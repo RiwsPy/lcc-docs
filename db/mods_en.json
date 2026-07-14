@@ -29188,5 +29188,22 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2092,
+        "description": "This mod includes a script that allows you to change your character’s appearance using your keyboard. You can choose to make your character look like a cleric, a mage, a fighter or a thief, regardless of their original class.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose un script qui permet de changer l'apparence de votre personnage en appuyant sur une touche. Vous pouvez ainsi choisir que votre personnage ressemble à un clerc, à un mage, à un guerrier ou à un roublard quelque soit sa classe d'origine."
+        },
+        "notes": [
+            "The first link contains the BG version, the second the IWD version."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Le premier lien contient la version BG, le second la version IWD."
+            ]
+        }
     }
 ]
