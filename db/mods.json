@@ -41417,7 +41417,8 @@
         "name": "Unofficial Item Pack",
         "description": "Ce mod donne des capacités à une trentaine objets qui n'en avaient pas (comme l'œil de spectateur, le sang de kuo-toa...), ajoute de nouveaux objets, importe des objets de SoD dans l'échoppe de Ribald, etc.",
         "urls": [
-            "https://forums.beamdog.com/discussion/56567/"
+            "https://forums.beamdog.com/discussion/56567/",
+            "https://github.com/threetimesdavey/unofficialitempack"
         ],
         "categories": [
             "Sort et objet"
@@ -41427,7 +41428,8 @@
             "EET"
         ],
         "authors": [
-            "Edvin"
+            "Edvin",
+            "DaveTheBrave"
         ],
         "team": [],
         "notes": [],
@@ -41435,18 +41437,15 @@
         "safe": 1,
         "languages": [
             "en",
-            "cz"
+            "cz",
+            "it"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2021-07-02",
-        "compatibilities": {
-            "conflicts": [
-                1061
-            ]
-        },
-        "tp2": "Unofficial Item Pack"
+        "last_update": "2026-07-15",
+        "compatibilities": {},
+        "tp2": "unofficialitempack"
     },
     {
         "id": 1167,
@@ -64015,6 +64014,7 @@
         "name": "Jarnip",
         "description": "Ce mod ajoute un nouveau marchand bonus nommé Jarnip au Marché de l'Aventurier. Tout comme ses collègues Joluv et Deidre, Jarnip vend toute une gamme d'objets magiques uniques qui vous aideront dans vos aventures à Amn.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/41412-item-mod-jarnips-wares-a-new-bonus-merchant-in-the-adventurers-mart/",
             "https://github.com/Carsomyr6/Jarnip/"
         ],
         "categories": [
