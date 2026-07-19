@@ -72547,5 +72547,119 @@
         "last_update": "2004-03-06",
         "compatibilities": {},
         "tp2": "IKMorph"
+    },
+    {
+        "id": 2093,
+        "name": "Planescape Torment AI voices",
+        "description": "PST AI Voices ajoute au jeu des doublages générés par IA grâce à une technologie moderne de synthèse vocale. Chaque réplique, chaque description du narrateur, chaque menace murmurée… tout est prononcé à voix haute avec une voix unique, spécialement conçue pour chaque personnage.",
+        "urls": [
+            "https://www.nexusmods.com/planescapetormentenhancededition/mods/16"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "PSTEE"
+        ],
+        "authors": [
+            "Neverdrak"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-02-21",
+        "compatibilities": {},
+        "tp2": "PST_AI_Voices"
+    },
+    {
+        "id": 2094,
+        "name": "HD Area Backgrounds",
+        "description": "Les fonds des zones ont été agrandis par l'IA pour atteindre une résolution 5 fois supérieure (par exemple, une résolution d'environ 20 000 pixels pour les cartes de grande superficie), puis redimensionnés pour s'adapter au jeu. Il ne s'agit pas d'une amélioration spectaculaire, mais cela permet de récupérer certains détails au niveau des pixels à partir des fichiers compressés d'origine. Les 40 principales zones du jeu sont traitées.",
+        "urls": [
+            "https://www.nexusmods.com/planescapetormentenhancededition/mods/8"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "PSTEE"
+        ],
+        "authors": [
+            "NexusBob42"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2023-05-06",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2095,
+        "name": "HD Videos",
+        "description": "Les vidéos ont été converties en résolution 4K à l'aide de l'IA, puis reconverties au format vidéo natif du jeu.",
+        "urls": [
+            "https://www.nexusmods.com/planescapetormentenhancededition/mods/6"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "PSTEE"
+        ],
+        "authors": [
+            "NexusBob42"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2022-12-30",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2096,
+        "name": "Truly Enhanced Soundtrack",
+        "description": "Ce mod remplace les éléments audio de l'édition « Enhanced Edition », issus de fichiers MP3 réencodés avec une perte importante et un son trop fort, par de la musique sans perte issue des CD, dont les nuances ont été ajustées pour correspondre à la version originale de 1999.",
+        "urls": [
+            "https://www.nexusmods.com/planescapetormentenhancededition/mods/10"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "PSTEE"
+        ],
+        "authors": [
+            "syrnyky"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2025-12-28",
+        "compatibilities": {},
+        "tp2": "non-weidu"
     }
 ]

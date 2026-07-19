@@ -28516,7 +28516,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod propose un script qui permet de changer l'apparence de votre personnage en appuyant sur une touche. Vous pouvez ainsi choisir que votre personnage ressemble à un clerc, à un mage, à un guerrier ou à un roublard quelque soit sa classe d'origine."
+            "source": "Ce mod propose un script qui permet de changer l'apparence de votre personnage grâce à votre clavier. Vous pouvez ainsi choisir que votre personnage ressemble à un clerc, à un mage, à un guerrier ou à un roublard quelque soit sa classe d'origine."
         },
         "notes": [],
         "notes_meta": {
@@ -28524,6 +28524,58 @@
             "source": [
                 "Le premier lien contient la version BG, le second la version IWD."
             ]
+        }
+    },
+    {
+        "id": 2093,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "PST AI Voices ajoute au jeu des doublages générés par IA grâce à une technologie moderne de synthèse vocale. Chaque réplique, chaque description du narrateur, chaque menace murmurée… tout est prononcé à voix haute avec une voix unique, spécialement conçue pour chaque personnage."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2094,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Les fonds des zones ont été agrandis par l'IA pour atteindre une résolution 5 fois supérieure (par exemple, une résolution d'environ 20 000 pixels pour les cartes de grande superficie), puis redimensionnés pour s'adapter au jeu. Il ne s'agit pas d'une amélioration spectaculaire, mais cela permet de récupérer certains détails au niveau des pixels à partir des fichiers compressés d'origine. Les 40 principales zones du jeu sont traitées."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2095,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Les vidéos ont été converties en résolution 4K à l'aide de l'IA, puis reconverties au format vidéo natif du jeu."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2096,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod remplace les éléments audio de l'édition « Enhanced Edition », issus de fichiers MP3 réencodés avec une perte importante et un son trop fort, par de la musique sans perte issue des CD, dont les nuances ont été ajustées pour correspondre à la version originale de 1999."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]
