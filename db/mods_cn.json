@@ -29509,5 +29509,85 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2091,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Le mod « Shar-Teel for BG2EE » fait exactement ce que son titre laisse entendre : il permet aux joueurs de rencontrer et de recruter Shar-Teel au cours de la campagne de Baldur's Gate II : Enhanced Edition.|Le mod propose une relation de « companions with benefits » avec le personnage principal, à condition que le PJ soit un homme dont l'alignement n'est pas Bon (Mauvais ou Loyal/Chaotique/Neutre strict), et dont la Force et le Charisme sont supérieurs ou égaux à 10.|Vous pouvez la rencontrer dans l'Antre de Bodhi, quel que soit votre camp : Bodhi ou les Voleurs de l'Ombre. Sachez toutefois que le chemin que vous avez emprunté influence ses répliques et son équipement, car elle peut débuter soit en tant que « Deathly Reaver » (bénéficie d'un bonus contre les humains, d'une immunité au drain de niveau et peut lancer Toucher vampirique), soit en tant que « Hot-Blooded Reaver » (bénéficie d'un bonus contre les morts-vivants, d'un bonus important aux jets de sauvegarde contre la mort et peut se lancer Hâte). Quel que soit votre choix, elle bénéficie également d'une autre capacité mineure qui reflète son aversion pour les hommes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2092,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose un script qui permet de changer l'apparence de votre personnage grâce à votre clavier. Vous pouvez ainsi choisir que votre personnage ressemble à un clerc, à un mage, à un guerrier ou à un roublard quelque soit sa classe d'origine."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Le premier lien contient la version BG, le second la version IWD."
+            ]
+        }
+    },
+    {
+        "id": 2093,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "PST AI Voices ajoute au jeu des doublages générés par IA grâce à une technologie moderne de synthèse vocale. Chaque réplique, chaque description du narrateur, chaque menace murmurée… tout est prononcé à voix haute avec une voix unique, spécialement conçue pour chaque personnage."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2094,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Les fonds des zones ont été agrandis par l'IA pour atteindre une résolution 5 fois supérieure (par exemple, une résolution d'environ 20 000 pixels pour les cartes de grande superficie), puis redimensionnés pour s'adapter au jeu. Il ne s'agit pas d'une amélioration spectaculaire, mais cela permet de récupérer certains détails au niveau des pixels à partir des fichiers compressés d'origine. Les 40 principales zones du jeu sont traitées."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2095,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Les vidéos ont été converties en résolution 4K à l'aide de l'IA, puis reconverties au format vidéo natif du jeu."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2096,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod remplace les éléments audio de l'édition « Enhanced Edition », issus de fichiers MP3 réencodés avec une perte importante et un son trop fort, par de la musique sans perte issue des CD, dont les nuances ont été ajustées pour correspondre à la version originale de 1999."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

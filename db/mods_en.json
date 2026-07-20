@@ -29175,5 +29175,87 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2091,
+        "description": "Shar-Teel for BG2EE does exactly what the mod's title suggests: it allows players to meet and recruit Shar-Teel during Baldur's Gate II: Enhanced Edition's campaign. The character comes with all dialogues (with the PC, other companions, and interjections).|The mod also comes with a 'companions with benefits' relationship with the main character, provided the PC is a male of any non-good alignment (evil or lawful/chaotic/true neutral), with Strength and Charisma 10+.|You may meet her in Bodhi's Lair, no matter who you aligned with: Bodhi or the Shadow Thieves. Know, however, that the path you took affects her dialogue and her kit, as she may start either as a Deathly Reaver (gains a bonus vs. humans, level drain immunity, and may cast Vampiric Touch) or as a Hot-Blooded Reaver (gains a bonus vs. undead, a great bonus to saving throws vs. death, and may cast Haste on herself). Regardless of your choice, she also gains another minor ability that matches her dislike of men.",
+        "description_meta": {
+            "status": "done",
+            "source": "Le mod « Shar-Teel for BG2EE » fait exactement ce que son titre laisse entendre : il permet aux joueurs de rencontrer et de recruter Shar-Teel au cours de la campagne de Baldur's Gate II : Enhanced Edition.|Le mod propose une relation de « companions with benefits » avec le personnage principal, à condition que le PJ soit un homme dont l'alignement n'est pas Bon (Mauvais ou Loyal/Chaotique/Neutre strict), et dont la Force et le Charisme sont supérieurs ou égaux à 10.|Vous pouvez la rencontrer dans l'Antre de Bodhi, quel que soit votre camp : Bodhi ou les Voleurs de l'Ombre. Sachez toutefois que le chemin que vous avez emprunté influence ses répliques et son équipement, car elle peut débuter soit en tant que « Deathly Reaver » (bénéficie d'un bonus contre les humains, d'une immunité au drain de niveau et peut lancer Toucher vampirique), soit en tant que « Hot-Blooded Reaver » (bénéficie d'un bonus contre les morts-vivants, d'un bonus important aux jets de sauvegarde contre la mort et peut se lancer Hâte). Quel que soit votre choix, elle bénéficie également d'une autre capacité mineure qui reflète son aversion pour les hommes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2092,
+        "description": "This mod includes a script that allows you to change your character’s appearance using your keyboard. You can choose to make your character look like a cleric, a mage, a fighter or a thief, regardless of their original class.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose un script qui permet de changer l'apparence de votre personnage grâce à votre clavier. Vous pouvez ainsi choisir que votre personnage ressemble à un clerc, à un mage, à un guerrier ou à un roublard quelque soit sa classe d'origine."
+        },
+        "notes": [
+            "The first link contains the BG version, the second the IWD version."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Le premier lien contient la version BG, le second la version IWD."
+            ]
+        }
+    },
+    {
+        "id": 2093,
+        "description": "PST AI Voices adds AI-generated voice acting to the game using modern text-to-speech technology. Every line of dialogue, every narrator description, every whispered threat in the Hive — spoken aloud with a unique voice crafted for each character.",
+        "description_meta": {
+            "status": "done",
+            "source": "PST AI Voices ajoute au jeu des doublages générés par IA grâce à une technologie moderne de synthèse vocale. Chaque réplique, chaque description du narrateur, chaque menace murmurée… tout est prononcé à voix haute avec une voix unique, spécialement conçue pour chaque personnage."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2094,
+        "description": "World area art backgrounds were AI upscaled with deep neural networks to 5x resolution (for example, approx 20K resolution for large area maps) and then resized back down to fit the game. This is not a drastic improvement but helps recover some pixel and sub-pixel details from the original compressed files. This covers 40 of the main area backgrounds in the game.",
+        "description_meta": {
+            "status": "done",
+            "source": "Les fonds des zones ont été agrandis par l'IA pour atteindre une résolution 5 fois supérieure (par exemple, une résolution d'environ 20 000 pixels pour les cartes de grande superficie), puis redimensionnés pour s'adapter au jeu. Il ne s'agit pas d'une amélioration spectaculaire, mais cela permet de récupérer certains détails au niveau des pixels à partir des fichiers compressés d'origine. Les 40 principales zones du jeu sont traitées."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2095,
+        "description": "Videos upscaled to 4K resolution with AI deep learning neural nets and then repackaged into the game’s native video format.",
+        "description_meta": {
+            "status": "done",
+            "source": "Les vidéos ont été converties en résolution 4K à l'aide de l'IA, puis reconverties au format vidéo natif du jeu."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2096,
+        "description": "Replaces Enhanced Edition's loud 2x lossy re-encoded MP3-sourced assets with Lossless CD-sourced music, nuanced to match the original 1999 release.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod remplace les éléments audio de l'édition « Enhanced Edition », issus de fichiers MP3 réencodés avec une perte importante et un son trop fort, par de la musique sans perte issue des CD, dont les nuances ont été ajustées pour correspondre à la version originale de 1999."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]
