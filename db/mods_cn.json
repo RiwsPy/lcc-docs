@@ -6723,7 +6723,7 @@
             "source": "Ce mod est un portage pour BGT du mod [[467]]."
         },
         "notes": [
-            "注意：此模组与[[1011]]的一个组件（该组件调整了乌卡斯废墟）不兼容，并且会与[[25]]的某些对话产生冲突，使其失去意义。此外，它在《博德之门三部曲》中引入了重大的矛盾，即在未受铁危机影响的《博德之门Ⅱ》部分使用了相同的价格。例如，里巴尔出售一根火杖（最多20发）售价61000枚金币，而未受影响的维克娜长袍仅售25000枚金币！考虑到此模组对《博德之门Ⅱ》部分的影响，它因此失去了大部分价值。"
+            "注意：此模组与[[1011]]的一个组件（该组件调整了巫尔卡斯特废墟）不兼容，并且会与[[25]]的某些对话产生冲突，使其失去意义。此外，它在《博德之门三部曲》中引入了重大的矛盾，即在未受铁矿危机影响的《博德之门Ⅱ》部分使用了相同的价格。例如，里巴尔出售一根火杖（最多20发）售价61000枚金币，而未受影响的维克娜长袍仅售25000枚金币！考虑到此模组对《博德之门Ⅱ》部分的影响，它因此失去了大部分价值。"
         ],
         "notes_meta": {
             "status": "done",
@@ -6777,7 +6777,7 @@
     },
     {
         "id": 472,
-        "description": "最初为了解决与+3黑剃刀长剑的不兼容问题而创建，这个模组阻止了由法术产生的加速效果堆叠。",
+        "description": "这个模组最初是为了解决与“黑刃长剑+3”（Rasoirnoir）的不兼容问题而创建的，它能够防止由法术产生的“高等加速术”效果叠加。",
         "description_meta": {
             "status": "done",
             "source": "Créé à l'origine pour palier une incompatibilité avec l'épée longue +3 Rasoirnoir, ce mod empêche l'empilage des effets de hâte améliorée générés par les sorts."
@@ -6790,7 +6790,7 @@
     },
     {
         "id": 473,
-        "description": "受冰风谷的狂怒模式启发，这个模组与[[470]]非常相似。它通过增加敌人的生命值（HP x 3 + 50）来使敌人更难被杀死，同时也让他们更难被命中（AC -5）和战斗技巧更高（THAC0 -5）。就连一个普通的暴徒也变得危险！",
+        "description": "受冰风谷的狂怒模式启发，这个模组与[[470]]非常相似。它通过增加敌人的生命值（HP×3 + 50）来使敌人更难被杀死，同时也让他们更难被命中（AC -5）和战斗技巧更高（THAC0 -5）。就连一个普通的暴徒也变得危险！",
         "description_meta": {
             "status": "done",
             "source": "S'inspirant du mode Heart of Fury d'Icewind Dale, ce mod est très semblable à [[470]]. Il rend les adversaires plus difficiles à tuer en augmentant leurs points de vie (HP x 3 + 50), mais aussi en les rendant plus difficiles à toucher (-5 à la CA) et plus compétents au combat (-5 au TAC0). Même un simple grouilleux devient dangereux !"
@@ -10768,7 +10768,7 @@
     },
     {
         "id": 753,
-        "description": "宁德·安布 lcrown 是来自深水城的一个天真无邪的年轻女子。如今她正被追捕，她直言不讳，拥有强大的魔法能力和一个膨胀的自我。你能忍受她吗？她的魅力会让你冻僵吗？她过去生活中的某些事件似乎与她黑暗的性格不无关系……无论是通过浪漫关系还是友谊，邪恶阵营的女巫宁德将向你揭示她和拉萨尔历史黑暗的一面。只有当你选择与艾朗·林维尔结盟时，你才能在芭荻的巢穴中找到她。她的浪漫关系只对魅力值超过13的玩家角色开放，但没有任何种族/职业限制。此模组还在阿斯卡特拉增加了一次新的遭遇，与BioWare的NPC有拌嘴，并与芭荻、拉萨尔和艾朗·林维尔进行有利可图的交易。|力量 9, 敏捷 15, 体质 10, 智力 16, 智慧 16, 魅力 15。",
+        "description": "宁德·安布尔克朗（Ninde Amblecrown）是一位来自深水城的年轻天真女子。如今遭人追捕，她口无遮拦、拥有强大的魔法能力以及极度的自负。你能忍受得了她吗？她的魅力会令你无动于衷吗？她过往经历中的某些事件似乎与她阴暗的性情不无关系……无论是通过恋情还是友谊，这位邪恶阵营的女巫宁德都会让你了解到她以及拉萨尔（Lassal）那段黑暗的历史。你只有在选择与艾朗·林维尔（Aran Linvail）结盟后，才能在芭荻（Bodhi）的老巢中找到她。她的恋情只对魅力值超过13的主角开放，不受种族或职业限制。该模组还增加了在阿斯卡特拉（Athkatla）的新遭遇、与BioWare NPC的插话对话，以及与芭荻、拉萨尔和艾朗·林维尔之间的大量互动。|属性：力量9，敏捷15，体质10，智力16，智慧16，魅力15。",
         "description_meta": {
             "status": "done",
             "source": "Ninde Amblecrown est une jeune ingénue d'Eauprofonde. Aujourd'hui pourchassée, elle n'a pas la langue dans sa poche, dispose de formidables capacités magiques et d'un ego démesuré. Arriverez-vous à la supporter ? Ces charmes vous laisseront-ils de glace ? Des événements de sa vie passée ne semblent pas étrangers à son tempérament sombre... Que ce soit par l'entremise d'une romance ou d'une amitié, Ninde, sorcière d'alignement mauvais, vous fera découvrir le pan obscur de son histoire ainsi que celle de Lassal. Vous ne pourrez la dénicher dans l'antre de Bodhi que si vous avez choisi de vous allier à Aran Linvail. Sa romance n'est possible que pour un PJ disposant de plus de 13 en charisme, aucune restriction de race / classe n'est cependant à observer. Ce mod ajute également une nouvelle rencontre dans Athkatla, des banters avec les PNJ de Bioware et de juteux échanges avec Bodhi, Lassal et Aran Linvail.|FOR 9, DEX 15, CON 10, INT 16, SAG 16, CHA 15."
@@ -10945,7 +10945,7 @@
     },
     {
         "id": 765,
-        "description": "当你离开幽暗地域，去寻找瑞恩·蓝瑟恩时，此模组允许你招募崔斯特·杜垩登。|力量17，敏捷20，体质17，智力15，智慧14，魅力15。",
+        "description": "当你离开幽暗地域，去寻找莱恩之灯时，此模组允许你招募崔斯特·杜垩登。|力量17，敏捷20，体质17，智力15，智慧14，魅力15。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod vous permet de recruter Drizzt Do‘Urden lorsque vous quittez l'Ombreterre et partez à la recherche du Rhynn Lanthorn.|FOR 17, DEX 20, CON 17, INT 15, SAG 14, CHA 15."
@@ -11275,7 +11275,7 @@
     },
     {
         "id": 789,
-        "description": "此模组使墓园区那位中立 strict 半卓尔德鲁伊派娜成为了一个可招募的NPC，拥有闲谈和插话。她配备了来自模组[[1048]]的宗派“蜂群主宰”。|力量10，敏捷18，体质15，智力14，智慧16，魅力15",
+        "description": "这个模组让墓园区（Cemetery District）那位真绝对中立的半卓尔精灵德鲁伊佩娜（Pai'Na）成为可招募的NPC，并带有插话对话和互动内容。她拥有来自[[1048]]号模组的“蜂群之主”（Hivemaster）宗派。|属性：力量10，敏捷18，体质15，智力14，智慧16，魅力15。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod fait de Pai'Na, la druidesse semi-drow neutre stricte du district du cimetière, un PNJ recrutable avec des banters et des interjections. Elle est dotée du kit Hivemaster du mod [[1048]].|FOR 10, DEX 18, CON 15, INT 14, SAG 16, CHA 15"
@@ -11635,7 +11635,7 @@
     },
     {
         "id": 814,
-        "description": "这是一个由许多模组作者多年来完成的修正集合，并转换为兼容性更好的WeiDU格式。它还添加了大量额外的修正。除了Qwinn做的新修正外，三个非WeiDU模组的修正也已整合到此模组中：[Platter's Fixpack 1.37](https://sorcerers.net/Games/Torment/Platter/index.php)，Platter是主要作者，但也包含其他几位贡献者的工作。Platter的Fixpack Beta 1.38的修正也包括在内 |[[874]]，作者Cilantro，别名Kung Fu Man（他恢复了在PST最后一个版本中被删除的几个法术、物品和其他内容）。|\"SKARDAVNELNATE'S All-Inclusive Fixpack\"，作者SKARDAVNELNATE。|请注意，即使此模组只包含错误修正，但其中许多修正的结果是恢复了游戏中原始不可用的内容。|它包含三个组件：第一个包含主要修正，第二个包含英语拼写和语法修正，第三个为原本只有音频/声音对话的过场动画添加了字幕。",
+        "description": "这个模组汇集了多年来众多模组制作者所制作的修正，并将其转换为兼容性更强的WeiDU格式。此外，它还加入了许多额外的修正。除了Qwinn所做的全新修正之外，该模组还整合了来自三个非WeiDU模组的修正内容：[Platter's Fixpack 1.37](https://sorcerers.net/Games/Torment/Platter/index.php)（主要由Platter制作，但也包含了其他几位贡献者的成果）；同样由Platter制作的Fixpack Beta 1.38中的修正内容；[[874]]号，作者是Cilantro（又名Kung Fu Man，该模组恢复了《异度风景：苦难》最终版本中被移除的若干法术、物品等内容）；以及SKARDAVNELNATE制作的“SKARDAVNELNATE'S All-Inclusive Fixpack”。|请注意，尽管该模组仅包含错误修正，但其中多项修正的结果是恢复了原版游戏中无法获得的内容。|它包含三个组件：第一个是主要修正，第二个是英语拼写和语法修正，第三个是为之前仅有音频/语音对话的过场动画对话添加字幕。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod rassemble les corrections réalisées par de nombreux moddeurs au fil des années, et converties au format WeiDU, plus compatible. Il ajoute également un bon nombre de corrections supplémentaires. En plus des nouvelles corrections faites par Qwinn, les corrections issues de trois mods non-WeiDU ont été intégrées dans ce mod: [Platter's Fixpack 1.37](https://sorcerers.net/Games/Torment/Platter/index.php), dont Platter est l'auteur principal, mais qui contient aussi les travaux de plusieurs autres contributeurs. Les corrections du Fixpack Beta 1.38, toujours de Platter, sont également incluses |[[874]], par Cilantro, alias Kung Fu Man (qui restaure plusieurs sorts, objets et autres, qui avaient été supprimés de la dernière version de PST).|\"SKARDAVNELNATE'S All-Inclusive Fixpack\", par SKARDAVNELNATE.|Notez que même si ce mod ne contient que des corrections de bogues, plusieurs de ces corrections ont pour résultat de restaurer du contenu non disponible dans le jeu original.|Il comprend trois composants : le premier comporte les principales corrections, le deuxième les corrections d'orthographe et de grammaire anglaise, le troisième rajoute des sous-titres aux dialogues des cinématiques qui étaient auparavant uniquement sous forme de dialogue audio/sonore."
@@ -11732,7 +11732,7 @@
             "source": "Ce mod ajoute trois nouveaux kits dans le jeu :|`Courtesan` (voleur), `Serial Killer` (voleur) et `Geisha` (barde)."
         },
         "notes": [
-            "部分内容较为直白，特别是针对 `妓女` 宗派的内容。"
+            "部分内容较为直白，特别是针对 `艺伎` 宗派的内容。"
         ],
         "notes_meta": {
             "status": "done",
@@ -11743,7 +11743,7 @@
     },
     {
         "id": 822,
-        "description": "此模组确保玩家召唤的天界生物（提婆和星界神使）更贴近桌面版规则，即大多数时候是强大而可怕的存在。此外，提婆的类型将取决于召唤地点：星界提婆、摩梵尼提婆或单子提婆。",
+        "description": "此模组确保玩家召唤的天界生物（使徒和星界神使）更贴近桌面版规则，即大多数时候是强大而可怕的存在。此外，使徒的类型将取决于召唤地点：星界使徒、摩梵尼使徒或单子使徒。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod rend les célestes (Déva et Planétaires) invoqués par le joueur beaucoup plus proches de la version papier, c'est-à-dire la plupart du temps des êtres surpuissants et effrayants. Par ailleurs, le type de déva dépendra du lieu d'invocation : Déva astrale, Déva movanique ou Déva monadique."
@@ -21141,7 +21141,7 @@
     },
     {
         "id": 1479,
-        "description": "此模组为盗贼引入了一个新的宗派。其灵感部分来自《神域：蒸汽与魔法奥秘》这款游戏。发明家是致力于研究和手工艺的盗贼。随着经验增长，他们可以创造出越来越复杂的发明，考虑到王国的现实，这些发明可被称为合成派和前卫派。他们常常受到冈德教义的启发，可以将旅途中遇到的一切都制成真正的技术杰作。只有侏儒可以成为发明家。",
+        "description": "此模组为盗贼引入了一个新的宗派。其灵感部分来自《奥秘：蒸汽与魔法》这款游戏。发明家是致力于研究和手工艺的盗贼。随着经验增长，他们可以创造出越来越复杂的发明，考虑到王国的现实，这些发明可被称为合成派和前卫派。他们常常受到冈德教义的启发，可以将旅途中遇到的一切都制成真正的技术杰作。只有侏儒可以成为发明家。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod introduit un nouveau kit pour le voleur. Il est légèrement inspiré du jeu Arcanum : Of Steamworks and Magick Obscura. Les inventeurs sont des voleurs qui se sont consacrés à l'étude des sciences et de l'artisanat. Avec l'expérience, ils peuvent créer et développer des inventions de plus en plus complexes, que l'on peut qualifier de synthétiques et d'avant-gardistes compte tenu des réalités du royaume. Souvent inspirés par les doctrines de Gond, ils peuvent créer de véritables chefs-d'œuvre techniques à partir de tout ce qu'ils rencontrent au cours de leurs voyages. Seuls les gnomes peuvent devenir des inventeurs."
@@ -22969,7 +22969,7 @@
     },
     {
         "id": 1608,
-        "description": "此模组在博德之门：增强版中引入了奥菲希亚·洛琳斯，一位来自匕首谷的半精灵北地诗人。她自封为战士和说书人，前往那西凯帮助结束铁危机。尽管她用挑逗性的漫不经心掩盖了大部分弱点，但她内心深处渴望在世间行善，并充分体验生活。|力量 16，敏捷 17，体质 16，智力 14，智慧 10，魅力 16。",
+        "description": "此模组在博德之门：增强版中引入了奥菲希亚·洛琳斯，一位来自匕首谷的半精灵北地诗人。她自封为战士和说书人，前往那西凯帮助结束铁矿危机。尽管她用挑逗性的漫不经心掩盖了大部分弱点，但她内心深处渴望在世间行善，并充分体验生活。|力量 16，敏捷 17，体质 16，智力 14，智慧 10，魅力 16。",
         "description_meta": {
             "status": "done",
             "source": "Ce mod introduit Ophysia Lorines dans Baldur's Gate : EE, une Scalde demi-elfe originaire de Daggerford. Guerrière et conteuse autoproclamée, elle s'est rendue à Nashkel pour aider à mettre un terme à la crise du fer. Bien qu'elle masque la plupart de ses vulnérabilités par une nonchalance aguicheuse, elle est animée par un désir profond de faire le bien dans le monde et de vivre pleinement sa vie.|FOR 16, DEX 17, CON 16, INT 14, SAG 10, CHA 16."
@@ -23526,7 +23526,7 @@
     },
     {
         "id": 1649,
-        "description": "许多原创角色，如死亡骑士、葛立安、科拉克、斯莱兹、乌卡斯泰、梅林、德拉迪尔、艾克-莱特克等等，以及其他许多角色。请注意，他们的战斗技能并非固定，需要由您自己选择。",
+        "description": "许多原创角色，如死亡骑士、葛立安、科拉克、斯莱兹、巫尔卡斯特泰、梅林、德拉迪尔、艾克-莱特克等等，以及其他许多角色。请注意，他们的战斗技能并非固定，需要由您自己选择。",
         "description_meta": {
             "status": "done",
             "source": "De nombreux personnages originaux comme Chevalier de la mort, Gorion, Korax, Slythe, Ulcaster, Merlin, Dradeel, Aec'Letec, et plein d'autres. À noter que leurs compétences martiales ne sont pas fixées, c'est à vous de les choisir."
@@ -29512,9 +29512,9 @@
     },
     {
         "id": 2091,
-        "description": "",
+        "description": "“莎儿-蒂尔（Shar-Teel） for BG2EE”模组正如其名，让玩家在《博德之门II：增强版》的战役中能够遇到并招募莎儿-蒂尔。|该模组提供与主角的“附带好处的同伴”关系，但前提是主角必须为男性，且阵营不能是善良（即邪恶或守序/混乱/真正中立均可），同时力量和魅力属性均需达到10或以上。|你可以在芭荻（Bodhi）的老巢遇到她，无论你选择站在芭荻一边还是影贼（Voleurs de l'Ombre）一边。不过，你所选择的路线会影响她的对话和装备，因为她可以以“死亡掠夺者”（Deathly Reaver，对 humans 有额外加成，免疫等级吸取，可施展吸血鬼之触）或“热血掠夺者”（Hot-Blooded Reaver，对不死生物有额外加成，对死亡豁免有显著加值，可对自身施展加速术）的身份登场。无论你选择哪个版本，她还拥有另一项次要能力，能体现她对男性的厌恶。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Le mod « Shar-Teel for BG2EE » fait exactement ce que son titre laisse entendre : il permet aux joueurs de rencontrer et de recruter Shar-Teel au cours de la campagne de Baldur's Gate II : Enhanced Edition.|Le mod propose une relation de « companions with benefits » avec le personnage principal, à condition que le PJ soit un homme dont l'alignement n'est pas Bon (Mauvais ou Loyal/Chaotique/Neutre strict), et dont la Force et le Charisme sont supérieurs ou égaux à 10.|Vous pouvez la rencontrer dans l'Antre de Bodhi, quel que soit votre camp : Bodhi ou les Voleurs de l'Ombre. Sachez toutefois que le chemin que vous avez emprunté influence ses répliques et son équipement, car elle peut débuter soit en tant que « Deathly Reaver » (bénéficie d'un bonus contre les humains, d'une immunité au drain de niveau et peut lancer Toucher vampirique), soit en tant que « Hot-Blooded Reaver » (bénéficie d'un bonus contre les morts-vivants, d'un bonus important aux jets de sauvegarde contre la mort et peut se lancer Hâte). Quel que soit votre choix, elle bénéficie également d'une autre capacité mineure qui reflète son aversion pour les hommes."
         },
         "notes": [],
@@ -29525,14 +29525,16 @@
     },
     {
         "id": 2092,
-        "description": "",
+        "description": "这个模组提供了一个脚本，让你可以通过键盘改变角色的外观。这样一来，无论角色原本是什么职业，你都可以让其看起来像牧师、法师、战士或游荡者。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose un script qui permet de changer l'apparence de votre personnage grâce à votre clavier. Vous pouvez ainsi choisir que votre personnage ressemble à un clerc, à un mage, à un guerrier ou à un roublard quelque soit sa classe d'origine."
         },
-        "notes": [],
+        "notes": [
+			"第一个链接包含《博德之门》版本，第二个链接包含《冰风谷》版本。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Le premier lien contient la version BG, le second la version IWD."
             ]
@@ -29540,9 +29542,9 @@
     },
     {
         "id": 2093,
-        "description": "",
+        "description": "PST AI Voices模组借助现代语音合成技术，为游戏加入了AI生成的配音。每一句台词、每一段叙述者的描述、每一声低语的威胁……全部都通过专为每个角色设计的独特声音被大声念出。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "PST AI Voices ajoute au jeu des doublages générés par IA grâce à une technologie moderne de synthèse vocale. Chaque réplique, chaque description du narrateur, chaque menace murmurée… tout est prononcé à voix haute avec une voix unique, spécialement conçue pour chaque personnage."
         },
         "notes": [],
@@ -29553,9 +29555,9 @@
     },
     {
         "id": 2094,
-        "description": "",
+        "description": "游戏区域背景图经由AI放大至5倍分辨率（例如大面积地图达到约20000像素），再缩放至适配游戏的尺寸。这并非脱胎换骨的提升，但能从原始压缩文件中恢复出一些像素级的细节。游戏中的40个主要区域都已进行了处理。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Les fonds des zones ont été agrandis par l'IA pour atteindre une résolution 5 fois supérieure (par exemple, une résolution d'environ 20 000 pixels pour les cartes de grande superficie), puis redimensionnés pour s'adapter au jeu. Il ne s'agit pas d'une amélioration spectaculaire, mais cela permet de récupérer certains détails au niveau des pixels à partir des fichiers compressés d'origine. Les 40 principales zones du jeu sont traitées."
         },
         "notes": [],
@@ -29566,9 +29568,9 @@
     },
     {
         "id": 2095,
-        "description": "",
+        "description": "过场动画已通过AI转换为4K分辨率，随后重新转换为游戏原生视频格式。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Les vidéos ont été converties en résolution 4K à l'aide de l'IA, puis reconverties au format vidéo natif du jeu."
         },
         "notes": [],
@@ -29579,9 +29581,9 @@
     },
     {
         "id": 2096,
-        "description": "",
+        "description": "这个模组将《增强版》中那些来自重度有损压缩且音量过高的MP3文件的音频内容，替换为源自CD的无损音乐，并对其动态进行了调整，以贴合1999年原版的风格。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod remplace les éléments audio de l'édition « Enhanced Edition », issus de fichiers MP3 réencodés avec une perte importante et un son trop fort, par de la musique sans perte issue des CD, dont les nuances ont été ajustées pour correspondre à la version originale de 1999."
         },
         "notes": [],
