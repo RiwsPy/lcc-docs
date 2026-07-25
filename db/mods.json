@@ -2620,7 +2620,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-12-17",
+        "last_update": "2026-07-25",
         "compatibilities": {},
         "tp2": "ac_quest"
     },
@@ -3642,7 +3642,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-07-13",
+        "last_update": "2026-07-24",
         "compatibilities": {
             "conflicts": [
                 261
@@ -43032,7 +43032,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "fr",
@@ -62982,7 +62982,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-08",
+        "last_update": "2026-07-23",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -66466,7 +66466,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-07-14",
+        "last_update": "2026-07-18",
         "compatibilities": {},
         "tp2": "JOining_Party_Select"
     },
@@ -72661,5 +72661,74 @@
         "last_update": "2025-12-28",
         "compatibilities": {},
         "tp2": "non-weidu"
+    },
+    {
+        "id": 2097,
+        "name": "Hotfix for Totemic Druid Spirit Wolf Crash",
+        "description": "Certains fichiers liés à l'invocation du loup spirituel du druide totémique ont été corrompus dans la version 2.6 d'IWD:EE, ce qui provoquait un plantage du jeu lorsque le loup attaquait des cibles.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/81943/"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Tresset"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2021-04-23",
+        "compatibilities": {
+            "requires": [
+                "EE version == 2.6"
+            ]
+        },
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2098,
+        "name": "The Life and Heroism of Jimothy the Raccoon",
+        "description": "Le très apprécié Jimothy, ce célèbre raton laveur qui a conquis nos cœurs, a récemment été aperçu à Toril ! Ce mod ajoute une nouvelle quête, au cours de laquelle vous aurez l'occasion de rencontrer notre petit héros, d'écouter les anecdotes que les nobles du quartier du Gouvernement d'Athkatla ont à raconter à son sujet, mais… ce n'est pas tout. Des nuages sombres s'amoncellent au-dessus du quartier. Jimothy et vous parviendrez-vous à tenir le mal à distance ?",
+        "urls": [
+            "https://www.weaselmods.net/showthread.php?tid=5175",
+            "https://forums.beamdog.com/discussion/90768/",
+            "https://downloads.weaselmods.net/download/the-life-and-heroism-of-jimothy-the-raccoon/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-07-25",
+        "compatibilities": {
+            "requires": [
+                "EE version >= 2.6"
+            ]
+        },
+        "tp2": "Jimothy"
     }
 ]

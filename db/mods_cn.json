@@ -1453,6 +1453,9 @@
     },
     {
         "id": 100,
+        "team": [
+            "MephistoSatanDevil"
+        ],
         "description": "如果你对博德之门Ⅰ中的互动选项不满意，这个模组应该能满足你。它是其同名模组 [[1289]] 的对应作品。||它为游戏中不可招募的角色增加了许多短暂或更深入的恋爱可能性，无论男女，有时还附带了小型任务。注意：该模组的一部分内容为“成人”内容。",
         "description_meta": {
             "status": "done",
@@ -29531,8 +29534,8 @@
             "source": "Ce mod propose un script qui permet de changer l'apparence de votre personnage grâce à votre clavier. Vous pouvez ainsi choisir que votre personnage ressemble à un clerc, à un mage, à un guerrier ou à un roublard quelque soit sa classe d'origine."
         },
         "notes": [
-			"第一个链接包含《博德之门》版本，第二个链接包含《冰风谷》版本。"
-		],
+            "第一个链接包含《博德之门》版本，第二个链接包含《冰风谷》版本。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -29585,6 +29588,32 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod remplace les éléments audio de l'édition « Enhanced Edition », issus de fichiers MP3 réencodés avec une perte importante et un son trop fort, par de la musique sans perte issue des CD, dont les nuances ont été ajustées pour correspondre à la version originale de 1999."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2097,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Certains fichiers liés à l'invocation du loup spirituel du druide totémique ont été corrompus dans la version 2.6 d'IWD:EE, ce qui provoquait un plantage du jeu lorsque le loup attaquait des cibles."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2098,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Le très apprécié Jimothy, ce célèbre raton laveur qui a conquis nos cœurs, a récemment été aperçu à Toril ! Ce mod ajoute une nouvelle quête, au cours de laquelle vous aurez l'occasion de rencontrer notre petit héros, d'écouter les anecdotes que les nobles du quartier du Gouvernement d'Athkatla ont à raconter à son sujet, mais… ce n'est pas tout. Des nuages sombres s'amoncellent au-dessus du quartier. Jimothy et vous parviendrez-vous à tenir le mal à distance ?"
         },
         "notes": [],
         "notes_meta": {
