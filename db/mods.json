@@ -524,7 +524,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-02-05",
+        "last_update": "2026-07-25",
         "compatibilities": {},
         "tp2": "c#sb_silber"
     },
@@ -2620,7 +2620,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-12-17",
+        "last_update": "2026-07-25",
         "compatibilities": {},
         "tp2": "ac_quest"
     },
@@ -3642,7 +3642,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-07-13",
+        "last_update": "2026-07-24",
         "compatibilities": {
             "conflicts": [
                 261
@@ -4139,7 +4139,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2013-01-06",
+        "last_update": "2011-07-14",
         "compatibilities": {},
         "tp2": "BG1varFIX"
     },
@@ -6867,7 +6867,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-01-17",
+        "last_update": "2026-07-14",
         "compatibilities": {},
         "tp2": "c#brandock"
     },
@@ -12413,12 +12413,14 @@
         "translation_state": "n/a",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn",
+            "es"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-10",
+        "last_update": "2026-07-26",
         "compatibilities": {
             "conflicts": [
                 1410
@@ -12698,7 +12700,11 @@
             "stable"
         ],
         "last_update": "2023-12-04",
-        "compatibilities": {},
+        "compatibilities": {
+            "conflicts": [
+                1380
+            ]
+        },
         "tp2": "edwinromance"
     },
     {
@@ -26081,15 +26087,14 @@
             "Mhoram"
         ],
         "team": [],
-        "notes": [
-            "Le lien github permet de télécharger une version compatible EE avec de nouveaux objets créés par Deratiseur."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
             "es",
             "en",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
@@ -28349,7 +28354,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-03",
+        "last_update": "2026-07-09",
         "compatibilities": {},
         "tp2": "Petsy"
     },
@@ -37661,13 +37666,12 @@
         "languages": [
             "en",
             "fr",
-            "cn",
-            "pl"
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-19",
+        "last_update": "2026-07-27",
         "compatibilities": {},
         "tp2": "cowledmenace"
     },
@@ -41443,7 +41447,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-15",
+        "last_update": "2026-07-16",
         "compatibilities": {},
         "tp2": "unofficialitempack"
     },
@@ -42397,7 +42401,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2022-12-19",
+        "last_update": "2026-07-13",
         "compatibilities": {},
         "tp2": "Walahnan"
     },
@@ -43032,7 +43036,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "fr",
@@ -43631,7 +43635,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-12-15",
+        "last_update": "2026-07-22",
         "compatibilities": {
             "conflicts": [
                 153
@@ -47170,7 +47174,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-06-30",
+        "last_update": "2026-07-20",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -48674,7 +48678,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04-18",
+        "last_update": "2026-07-23",
         "compatibilities": {
             "requires": [
                 "Windows"
@@ -48751,7 +48755,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-27",
+        "last_update": "2026-07-10",
         "compatibilities": {
             "conflicts": [
                 948
@@ -49076,7 +49080,11 @@
             "stable"
         ],
         "last_update": "2024-10-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "conflicts": [
+                357
+            ]
+        },
         "tp2": "EdwinBromance"
     },
     {
@@ -50227,7 +50235,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-15",
+        "last_update": "2026-07-15",
         "compatibilities": {},
         "tp2": "mih_fr"
     },
@@ -50259,7 +50267,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-15",
+        "last_update": "2026-07-09",
         "compatibilities": {},
         "tp2": "mih_metamod"
     },
@@ -50502,7 +50510,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-19",
+        "last_update": "2026-07-26",
         "compatibilities": {},
         "tp2": "ZS_ShadowdancerOverhaul"
     },
@@ -54068,7 +54076,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-02-19",
+        "last_update": "2026-07-20",
         "compatibilities": {},
         "tp2": "XPexchange"
     },
@@ -55811,7 +55819,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-02",
+        "last_update": "2026-07-20",
         "compatibilities": {},
         "tp2": "baldurianbarhop"
     },
@@ -55827,8 +55835,10 @@
             "Sort et objet"
         ],
         "games": [
+            "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Daeros Trollkiller",
@@ -55844,7 +55854,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-06-21",
+        "last_update": "2026-07-25",
         "compatibilities": {
             "conflicts": [
                 973
@@ -55878,12 +55888,13 @@
         "safe": 2,
         "languages": [
             "en",
-            "cn"
+            "cn",
+            "fr"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-02-12",
+        "last_update": "2026-07-20",
         "compatibilities": {},
         "tp2": "Shohy's_Custom_Platform"
     },
@@ -62982,7 +62993,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-08",
+        "last_update": "2026-07-26",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -63970,7 +63981,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-30",
+        "last_update": "2026-07-11",
         "compatibilities": {},
         "tp2": "assortedadjustments"
     },
@@ -64039,7 +64050,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-04",
+        "last_update": "2026-07-13",
         "compatibilities": {},
         "tp2": "jarnip"
     },
@@ -66466,7 +66477,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-07-14",
+        "last_update": "2026-07-18",
         "compatibilities": {},
         "tp2": "JOining_Party_Select"
     },
@@ -67857,7 +67868,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-22",
+        "last_update": "2026-07-24",
         "compatibilities": {},
         "tp2": "standard-awesome-modpack"
     },
@@ -68812,7 +68823,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2014-06-29",
+        "last_update": "2024-08-09",
         "compatibilities": {},
         "tp2": "Delfosse-Fonts"
     },
@@ -69943,7 +69954,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-05-24",
+        "last_update": "2026-07-19",
         "compatibilities": {
             "requires": [
                 "Windows",
@@ -70148,7 +70159,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-06-09",
+        "last_update": "2026-07-27",
         "compatibilities": {
             "requires": [
                 "Python",
@@ -71051,12 +71062,13 @@
         "translation_state": "auto",
         "safe": 1,
         "languages": [
-            "en"
+            "en",
+            "ru"
         ],
         "status": [
             "beta"
         ],
-        "last_update": "2026-06-05",
+        "last_update": "2026-07-06",
         "compatibilities": {
             "conflicts": [
                 960
@@ -71189,7 +71201,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-08",
+        "last_update": "2026-07-27",
         "compatibilities": {},
         "tp2": "DaxTweaks"
     },
@@ -71529,7 +71541,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-16",
+        "last_update": "2026-06-14",
         "compatibilities": {},
         "tp2": "NecromancersQuestRestored"
     },
@@ -71593,12 +71605,13 @@
         "languages": [
             "en",
             "de",
-            "es"
+            "es",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-27",
+        "last_update": "2026-07-22",
         "compatibilities": {},
         "tp2": "Poisoned_pathways"
     },
@@ -71640,7 +71653,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-02",
+        "last_update": "2026-07-19",
         "compatibilities": {},
         "tp2": "A7-MiscTweaks"
     },
@@ -71676,7 +71689,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-11",
+        "last_update": "2026-07-25",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -72017,7 +72030,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-02",
+        "last_update": "2026-07-27",
         "compatibilities": {},
         "tp2": "InterspeciesFriendship"
     },
@@ -72050,7 +72063,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-12-21",
+        "last_update": "2026-07-10",
         "compatibilities": {
             "requires": [
                 1371
@@ -72107,8 +72120,6 @@
             "PNJ recrutable"
         ],
         "games": [
-            "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -72504,7 +72515,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-12",
+        "last_update": "2026-07-16",
         "compatibilities": {
             "conflicts": [
                 48,
@@ -72661,5 +72672,74 @@
         "last_update": "2025-12-28",
         "compatibilities": {},
         "tp2": "non-weidu"
+    },
+    {
+        "id": 2097,
+        "name": "Hotfix for Totemic Druid Spirit Wolf Crash",
+        "description": "Certains fichiers liés à l'invocation du loup spirituel du druide totémique ont été corrompus dans la version 2.6 d'IWD:EE, ce qui provoquait un plantage du jeu lorsque le loup attaquait des cibles.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/81943/"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Tresset"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2021-04-23",
+        "compatibilities": {
+            "requires": [
+                "EE version == 2.6"
+            ]
+        },
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2098,
+        "name": "The Life and Heroism of Jimothy the Raccoon",
+        "description": "Le très apprécié Jimothy, ce célèbre raton laveur qui a conquis nos cœurs, a récemment été aperçu à Toril ! Ce mod ajoute une nouvelle quête, au cours de laquelle vous aurez l'occasion de rencontrer notre petit héros, d'écouter les anecdotes que les nobles du quartier du Gouvernement d'Athkatla ont à raconter à son sujet, mais… ce n'est pas tout. Des nuages sombres s'amoncellent au-dessus du quartier. Jimothy et vous parviendrez-vous à tenir le mal à distance ?",
+        "urls": [
+            "https://www.weaselmods.net/showthread.php?tid=5175",
+            "https://forums.beamdog.com/discussion/90768/",
+            "https://downloads.weaselmods.net/download/the-life-and-heroism-of-jimothy-the-raccoon/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-07-25",
+        "compatibilities": {
+            "requires": [
+                "EE version >= 2.6"
+            ]
+        },
+        "tp2": "Jimothy"
     }
 ]

@@ -1453,6 +1453,9 @@
     },
     {
         "id": 100,
+        "team": [
+            "MephistoSatanDevil"
+        ],
         "description": "如果你对博德之门Ⅰ中的互动选项不满意，这个模组应该能满足你。它是其同名模组 [[1289]] 的对应作品。||它为游戏中不可招募的角色增加了许多短暂或更深入的恋爱可能性，无论男女，有时还附带了小型任务。注意：该模组的一部分内容为“成人”内容。",
         "description_meta": {
             "status": "done",
@@ -10559,6 +10562,9 @@
     },
     {
         "id": 738,
+        "team": [
+            "eva2000as"
+        ],
         "description": "纳恩斯坦是一个出现在码头克伦威尔面前的新铁匠。他可以将传奇物品变成其他可能根据游戏风格更有用，或者至少更独特的物品。例如，一件红龙盔甲会被变成一件防火的法师长袍。永恒连枷会被变成元素箭。我不建议您攻击他，您得不到他锻造的任何物品……而且您会死。",
         "description_meta": {
             "status": "done",
@@ -17563,6 +17569,9 @@
     },
     {
         "id": 1229,
+        "team": [
+            "MephistoSatanDevil"
+        ],
         "description": "该模组对于任何添加世界地图地点的大型模组（[[148]], [[1062]], [[226]], [[936]], [[287]], [[761]], [[1084]], [[1064]]...）都是绝对必备的。它能提供唯一、更宏大且更精美的世界地图。|此模组必须至少在所有可能添加世界地图位置的模组之后安装。注意避免卸载或重新安装此模组，否则很可能直接损坏您的游戏存档。|强烈建议选择“原始旅行时间”选项和小地图（如果系统询问）。“修订版”旅行时间存在未修复的程序错误，而大地图加载更缓慢且无明显优势（但若您安装的某个模组要求使用大地图，则系统会默认直接安装而不会询问）。",
         "description_meta": {
             "status": "done",
@@ -29174,6 +29183,9 @@
     },
     {
         "id": 2065,
+        "team": [
+            "Abdel-613"
+        ],
         "description": "“毒径”（Poisoned Pathways）是一个模组，在为游戏增加了与伦菲尔德（Renfeld）相遇之后的新内容。该模组的灵感来源于马修·G·阿德金斯（Matthew G. Adkins）发表在《地牢》杂志第75期上的模组模块《蛇巢深处》（Into the Nest of Vipers）。",
         "description_meta": {
             "status": "done",
@@ -29531,8 +29543,8 @@
             "source": "Ce mod propose un script qui permet de changer l'apparence de votre personnage grâce à votre clavier. Vous pouvez ainsi choisir que votre personnage ressemble à un clerc, à un mage, à un guerrier ou à un roublard quelque soit sa classe d'origine."
         },
         "notes": [
-			"第一个链接包含《博德之门》版本，第二个链接包含《冰风谷》版本。"
-		],
+            "第一个链接包含《博德之门》版本，第二个链接包含《冰风谷》版本。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -29585,6 +29597,32 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod remplace les éléments audio de l'édition « Enhanced Edition », issus de fichiers MP3 réencodés avec une perte importante et un son trop fort, par de la musique sans perte issue des CD, dont les nuances ont été ajustées pour correspondre à la version originale de 1999."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2097,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Certains fichiers liés à l'invocation du loup spirituel du druide totémique ont été corrompus dans la version 2.6 d'IWD:EE, ce qui provoquait un plantage du jeu lorsque le loup attaquait des cibles."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2098,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Le très apprécié Jimothy, ce célèbre raton laveur qui a conquis nos cœurs, a récemment été aperçu à Toril ! Ce mod ajoute une nouvelle quête, au cours de laquelle vous aurez l'occasion de rencontrer notre petit héros, d'écouter les anecdotes que les nobles du quartier du Gouvernement d'Athkatla ont à raconter à son sujet, mais… ce n'est pas tout. Des nuages sombres s'amoncellent au-dessus du quartier. Jimothy et vous parviendrez-vous à tenir le mal à distance ?"
         },
         "notes": [],
         "notes_meta": {
