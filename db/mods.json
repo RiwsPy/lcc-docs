@@ -12420,7 +12420,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-26",
+        "last_update": "2026-08-01",
         "compatibilities": {
             "conflicts": [
                 1410
@@ -21814,7 +21814,7 @@
         "description": "L'interplan est un magasin qui vend près de 100 objets originaux et plus d'une centaine de nouveaux sorts. Il peut aussi combiner plusieurs dizaines de potions. Il se trouve sur la Promenade de Waukyne dans BG2, et est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=31563",
-            "https://github.com/Deratiseur/Interplan/"
+            "https://github.com/Deratiseur/Interplan"
         ],
         "categories": [
             "Forgeron et marchand",
@@ -21835,12 +21835,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "fr"
+            "fr",
+            "en"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-08-23",
+        "last_update": "2026-08-03",
         "compatibilities": {},
         "tp2": "derats_magasin_2"
     },
@@ -45180,7 +45181,7 @@
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34466",
             "https://forums.beamdog.com/discussion/88526/",
-            "https://github.com/Deratiseur/Jazon/"
+            "https://github.com/Deratiseur/Jazon"
         ],
         "categories": [
             "PNJ One Day"
@@ -45205,7 +45206,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-28",
+        "last_update": "2026-07-29",
         "compatibilities": {},
         "tp2": "derats_jazon"
     },
@@ -61747,7 +61748,7 @@
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34676",
             "https://forums.beamdog.com/discussion/89435/",
-            "https://github.com/Deratiseur/Gilbertus/"
+            "https://github.com/Deratiseur/Gilbertus"
         ],
         "categories": [
             "PNJ One Day"
@@ -61774,7 +61775,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-06",
+        "last_update": "2026-07-29",
         "compatibilities": {},
         "tp2": "Derats_KriBinn"
     },
@@ -71533,14 +71534,15 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "pl"
         ],
         "status": [
-            "stable"
+            "embed"
         ],
+        "embedded_in": 2101,
         "last_update": "2026-06-14",
         "compatibilities": {},
         "tp2": "NecromancersQuestRestored"
@@ -71689,7 +71691,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-25",
+        "last_update": "2026-08-03",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -72741,5 +72743,219 @@
             ]
         },
         "tp2": "Jimothy"
+    },
+    {
+        "id": 2099,
+        "name": "Zx items",
+        "description": "Des objets personnalisés plus ou moins fidèles à ceux de BG2EE ToB/WK pour la fin de partie, à créer à la console.",
+        "urls": [
+            "https://github.com/domingosvk/bg2ee-zx-items"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "domingosvk"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-06-05",
+        "compatibilities": {},
+        "tp2": "zx-items"
+    },
+    {
+        "id": 2100,
+        "name": "Zz items",
+        "description": "Ce mod contient un casque, une armure et une arme, tous très puissants pour réaliser des tests.",
+        "urls": [
+            "https://github.com/domingosvk/ie-ee-zz-items"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "domingosvk"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-06-05",
+        "compatibilities": {},
+        "tp2": "zz-items"
+    },
+    {
+        "id": 2101,
+        "name": "Rogue Double Dealing",
+        "description": "Une série de modifications qui rendent la présence d'un roublard réellement indispensable. Il contient la quête [[2063]].",
+        "urls": [
+            "https://github.com/Dziadekkk/RogueDoubleDealing"
+        ],
+        "categories": [
+            "Sort et objet",
+            "Quête"
+        ],
+        "games": [
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "Dziadek"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "pl"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-07-27",
+        "compatibilities": {},
+        "tp2": "RogueDoubleDealing"
+    },
+    {
+        "id": 2102,
+        "name": "StickLuaFunctions",
+        "description": "StickLuaFunctions est un mod basé sur [[348]]. Il propose des fonctions Lua réutilisables et des hooks pour les autres mods.",
+        "urls": [
+            "https://github.com/xbigxiangx-dot/StickLuaFunctions"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "xbigxiangx-dot"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-07-29",
+        "compatibilities": {
+            "requires": [
+                348
+            ],
+            "conflicts": [
+                "EE version == 2.7"
+            ]
+        },
+        "tp2": "StickLuaFunctions"
+    },
+    {
+        "id": 2103,
+        "name": "StickTweak",
+        "description": "StickTweak est un mod de tweaks. Il inclus des modifications des compétences martiales, sort, objet, créature, et d'autres.",
+        "urls": [
+            "https://github.com/xbigxiangx-dot/StickTweak"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "xbigxiangx-dot"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-07-27",
+        "compatibilities": {
+            "requires": [
+                2102
+            ],
+            "conflicts": [
+                "EE version == 2.7"
+            ]
+        },
+        "tp2": "StickTweak"
+    },
+    {
+        "id": 2104,
+        "name": "StickMultiKit",
+        "description": "StickMultiKit est un mod basé sur [[348]] qui autorise les personnages multi-classés et jumelés à posséder plusieurs kits.",
+        "urls": [
+            "https://github.com/xbigxiangx-dot/StickMultiKit"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "xbigxiangx-dot"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-08-01",
+        "compatibilities": {
+            "requires": [
+                2102
+            ],
+            "conflicts": [
+                "EE version == 2.7"
+            ]
+        },
+        "tp2": "StickMultiKit"
     }
 ]
