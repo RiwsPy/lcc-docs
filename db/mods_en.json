@@ -8701,6 +8701,9 @@
     },
     {
         "id": 616,
+        "team": [
+            "Dragonian"
+        ],
         "description": "L'interplan is a store selling a wide range of original items and over a hundred new spells. It can also combine several dozens of potions. It can be found on the Waukeen's Promenade in BG2, and is accessible via an item in the Yetis Cave in IWD:EE.",
         "description_meta": {
             "status": "needs_review",
@@ -10443,14 +10446,10 @@
             "status": "needs_review",
             "source": "Nanstein est un nouveau forgeron qui apparaît face à Cromwell sur les docks. Il peut transformer les objets légendaires en d'autres qui pourraient être plus utiles en fonction du style de jeu, ou du moins plus originaux. Par exemple, une armure de dragon rouge se trouvera changée en robe de mage qui protège contre le feu. Le fléau de l'éternité se trouvera changé en flèches élémentaires. Je ne vous conseillerais pas de l'attaquer, vous n'obtiendriez aucun des objets qu'il forge... et vous mourriez."
         },
-        "notes": [
-            "The github link allows you to download an EE-compatible version with new items created by Deratiseur."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Le lien github permet de télécharger une version compatible EE avec de nouveaux objets créés par Deratiseur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -29277,6 +29276,84 @@
         "description_meta": {
             "status": "done",
             "source": "Le très apprécié Jimothy, ce célèbre raton laveur qui a conquis nos cœurs, a récemment été aperçu à Toril ! Ce mod ajoute une nouvelle quête, au cours de laquelle vous aurez l'occasion de rencontrer notre petit héros, d'écouter les anecdotes que les nobles du quartier du Gouvernement d'Athkatla ont à raconter à son sujet, mais… ce n'est pas tout. Des nuages sombres s'amoncellent au-dessus du quartier. Jimothy et vous parviendrez-vous à tenir le mal à distance ?"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2099,
+        "description": "Proper-ish BG2EE ToB/WK late-game custom items for a personal SoA/ToB campaign, to be created at the console",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Des objets personnalisés plus ou moins fidèles à ceux de BG2EE ToB/WK pour la fin de partie, à créer à la console."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2100,
+        "description": "This mod contains a helmet, armor and a weapon, all of which are very powerful for carrying out tests.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod contient un casque, une armure et une arme, tous très puissants pour réaliser des tests."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2101,
+        "description": "A set of tweaks that make having a rogue actually necessary. It includes quest [[2063]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Une série de modifications qui rendent la présence d'un roublard réellement indispensable. Il contient la quête [[2063]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2102,
+        "description": "StickLuaFunctions is an [[348]]-based mod. It provides reusable Lua functions and hook listeners for other mods.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "StickLuaFunctions est un mod basé sur [[348]]. Il propose des fonctions Lua réutilisables et des hooks pour les autres mods."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2103,
+        "description": "StickTweak is a tweak collection. It includes weapon-style, spell, item, creature, and other gameplay tweaks.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "StickTweak est un mod de tweaks. Il inclus des modifications des compétences martiales, sort, objet, créature, et d'autres."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2104,
+        "description": "StickMultiKit is an [[348]]-based mod that allows multiclass or dual-class characters to have multiple kits.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "StickMultiKit est un mod basé sur [[348]] qui autorise les personnages multi-classés et jumelés à posséder plusieurs kits."
         },
         "notes": [],
         "notes_meta": {

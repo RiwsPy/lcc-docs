@@ -10140,10 +10140,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Le lien github permet de télécharger une version compatible EE avec de nouveaux objets créés par Deratiseur."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28597,6 +28595,84 @@
         "description_meta": {
             "status": "todo",
             "source": "Le très apprécié Jimothy, ce célèbre raton laveur qui a conquis nos cœurs, a récemment été aperçu à Toril ! Ce mod ajoute une nouvelle quête, au cours de laquelle vous aurez l'occasion de rencontrer notre petit héros, d'écouter les anecdotes que les nobles du quartier du Gouvernement d'Athkatla ont à raconter à son sujet, mais… ce n'est pas tout. Des nuages sombres s'amoncellent au-dessus du quartier. Jimothy et vous parviendrez-vous à tenir le mal à distance ?"
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2099,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Des objets personnalisés plus ou moins fidèles à ceux de BG2EE ToB/WK pour la fin de partie, à créer à la console."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2100,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod contient un casque, une armure et une arme, tous très puissants pour réaliser des tests."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2101,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Une série de modifications qui rendent la présence d'un roublard réellement indispensable. Il contient la quête [[2063]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2102,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "StickLuaFunctions est un mod basé sur [[348]]. Il propose des fonctions Lua réutilisables et des hooks pour les autres mods."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2103,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "StickTweak est un mod de tweaks. Il inclus des modifications des compétences martiales, sort, objet, créature, et d'autres."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2104,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "StickMultiKit est un mod basé sur [[348]] qui autorise les personnages multi-classés et jumelés à posséder plusieurs kits."
         },
         "notes": [],
         "notes_meta": {
