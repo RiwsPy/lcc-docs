@@ -72957,5 +72957,178 @@
             ]
         },
         "tp2": "StickMultiKit"
+    },
+    {
+        "id": 2105,
+        "name": "Candlekeep Memories",
+        "description": "",
+        "urls": [
+            "https://github.com/RoxanneSHS/CandlekeepMemories"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CBisson",
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru",
+            "de"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2022-05-04",
+        "compatibilities": {},
+        "tp2": "Candlemem"
+    },
+    {
+        "id": 2106,
+        "name": "Have Ice?",
+        "description": "",
+        "urls": [
+            "https://github.com/RoxanneSHS/HaveIce"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CBisson",
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru",
+            "de"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2022-05-04",
+        "compatibilities": {},
+        "tp2": "CtBIce"
+    },
+    {
+        "id": 2107,
+        "name": "Liberation of Hlondeth",
+        "description": "",
+        "urls": [
+            "https://github.com/RoxanneSHS/Hlondeth"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CBisson",
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2022-05-04",
+        "compatibilities": {},
+        "tp2": "CtBLiberate"
+    },
+    {
+        "id": 2108,
+        "name": "Holly the Elf",
+        "description": "",
+        "urls": [
+            "https://github.com/RoxanneSHS/HollytheElf"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CBisson",
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru",
+            "de"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2022-05-04",
+        "compatibilities": {},
+        "tp2": "HollyElf"
+    },
+    {
+        "id": 2109,
+        "name": "Master Vampire",
+        "description": "",
+        "urls": [
+            "https://github.com/RoxanneSHS/MasterVampire"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CBisson",
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2022-08-17",
+        "compatibilities": {},
+        "tp2": "CtBVamp"
     }
 ]
