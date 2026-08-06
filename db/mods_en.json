@@ -1098,10 +1098,10 @@
     },
     {
         "id": 77,
-        "description": "This is a pack of two Korean mods for BGT (translated into English): install the profile first, since Askaria needs it.|- Chaos Knight kit: this mod adds the Chaos Knight profile and Jacob, a recruitable NPC near the manor of Beregost, inspired by Dota in WoW3.|- Askaria Quest NPC: On the second floor of the Feldpost Inn in Beregost, Askaria asks for help against bandits. Once they've been eliminated, she'll join you to find her parents.",
+        "description": "This is a pack of two mods: install the profile first, since Askaria needs it.|- Chaos Knight kit: this mod adds the Chaos Knight profile and Jacob, a recruitable NPC near the manor of Beregost, inspired by Dota in WoW3.|- Askaria Quest NPC: On the second floor of the Feldpost Inn in Beregost, Askaria asks for help against bandits. Once they've been eliminated, she'll join you to find her parents.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit d'un pack de deux mods coréens pour BGT (traduits en anglais) : installez d'abord le profil, puisque Askaria en a besoin.|- Chaos Knight kit : ce mod ajoute le profil de Chevalier du Chaos et Jacob, un PNJ recrutable près du manoir de Bérégost, inspiré de Dota dans WoW3.|- Askaria Quest NPC : Au premier étage de l'Auberge de Feldpost à Bérégost, Askaria de l'aide contre des bandits. Une fois ces derniers éliminés, elle vous rejoindra pour retrouver ses parents."
+            "source": "Il s'agit d'un pack de deux mods : installez d'abord le profil, puisque Askaria en a besoin.|- Chaos Knight kit : ce mod ajoute le profil de Chevalier du Chaos et Jacob, un PNJ recrutable près du manoir de Bérégost, inspiré de Dota dans WoW3.|- Askaria Quest NPC : Au premier étage de l'Auberge de Feldpost à Bérégost, Askaria de l'aide contre des bandits. Une fois ces derniers éliminés, elle vous rejoindra pour retrouver ses parents."
         },
         "notes": [
             "The EE (and translated) version is available via the github link.",
@@ -1495,10 +1495,10 @@
     },
     {
         "id": 105,
-        "description": "This mod provides character interaction on a par with Baldur's Gate II. Due to the different technical capabilities of Baldur's Gate and its little brother, the mod can only work with Baldur's Gate II, making it mandatory to install BG1Tutu or Baldur's Gate Trilogy in order to enjoy it, or an EE game.|It develops relationships between the main character and his teammates or between members of the party for all Baldur's Gate recruitable characters, as well as romances for Ajantis, Branwen, Coran, Dynahéir, Shar-Teel and Xan. To take full advantage of this, you'll also need to download and install the [[106]] mod (to be installed after BG1 NPC Project).",
+        "description": "This mod provides character interaction on a par with Baldur's Gate II. Due to the different technical capabilities of Baldur's Gate and its little brother, the mod can only work with Baldur's Gate II, making it mandatory to install BG1Tutu or [[148]] in order to enjoy it, or an EE game.|It develops relationships between the main character and his teammates or between members of the party for all Baldur's Gate recruitable characters, as well as romances for Ajantis, Branwen, Coran, Dynahéir, Shar-Teel and Xan. To take full advantage of this, you'll also need to download and install the [[106]] mod (to be installed after BG1 NPC Project).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod apporte une interaction des personnages tout à fait comparable à celle de Baldur's Gate II. En raison des différences de capacités techniques de Baldur's Gate et de son petit frère, le mod ne peut fonctionner qu'avec Baldur's Gate II, ce qui rend obligatoire l'installation de BG1Tutu ou de Baldur's Gate Trilogy afin d'en profiter, ou d'un jeu EE.|Il développe les relations entre le personnage principal et ses équipiers ou entre membres du groupe pour tous les personnages recrutables de Baldur's Gate, ainsi que des romances pour Ajantis, Branwen, Coran, Dynahéir, Shar-Teel et Xan. Certains personnages ont aussi une quête personnelle à accomplir, et tous ajoutent aussi leur grain de sel dans les discussions avec les personnages que le groupe rencontre.|Pour en bénéficier pleinement, il vous faudra également télécharger et installer le mod [[106]] (à installer après BG1 NPC Project)."
+            "source": "Ce mod apporte une interaction des personnages tout à fait comparable à celle de Baldur's Gate II. En raison des différences de capacités techniques de Baldur's Gate et de son petit frère, le mod ne peut fonctionner qu'avec Baldur's Gate II, ce qui rend obligatoire l'installation de BG1Tutu ou de [[148]] afin d'en profiter, ou d'un jeu EE.|Il développe les relations entre le personnage principal et ses équipiers ou entre membres du groupe pour tous les personnages recrutables de Baldur's Gate, ainsi que des romances pour Ajantis, Branwen, Coran, Dynahéir, Shar-Teel et Xan. Certains personnages ont aussi une quête personnelle à accomplir, et tous ajoutent aussi leur grain de sel dans les discussions avec les personnages que le groupe rencontre.|Pour en bénéficier pleinement, il vous faudra également télécharger et installer le mod [[106]] (à installer après BG1 NPC Project)."
         },
         "notes": [],
         "notes_meta": {
@@ -1508,10 +1508,10 @@
     },
     {
         "id": 106,
-        "description": "This mod adds music associated with exchanges and romances with [[25]] characters. Version 6 is now officially compatible with BG:EE and still works with BGT and BG1Tutu. It offers a choice between long (original) and short (new in v6) versions of the music.",
+        "description": "This mod adds music associated with exchanges and romances with [[105]] characters. It offers two versions for each musics: long (original) or short.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute des musiques associées aux échanges et aux romances avec les personnages du [[25]]. La version 6 est désormais officiellement compatible avec BG:EE et fonctionne toujours avec BGT et BG1Tutu. Elle propose un choix entre des versions longues (originales) ou courtes (nouvelles en v6) des musiques."
+            "source": "Ce mod ajoute des musiques associées aux échanges et aux romances avec les personnages du [[105]]. Il propose deux versions pour les musiques : une version longue (originale) ou courte."
         },
         "notes": [],
         "notes_meta": {
@@ -1933,10 +1933,10 @@
     },
     {
         "id": 135,
-        "description": "This BGT-specific mod is the official companion to the game, allowing you to modify certain game behaviors, particularly in the Baldur's Gate and Legend of the Lost Isle sections. In particular, you can automatically explore towns, randomize traps in the Pirate's Cave, add sacks on the Sword Coast, add more bandit scalps, modify the effects of iron scarcity on breakable items, restore BG2 XP for lock picking, trap defusing and spell learning, add exotic weapons in Taerom's forge, import more items from Baldur's Gate to Shadows of Amn...",
+        "description": "This mod allowing you to modify certain game behaviors, particularly in the Baldur's Gate and Legend of the Lost Isle sections. In particular, you can automatically explore towns, randomize traps in the Pirate's Cave, add sacks on the Sword Coast, add more bandit scalps, modify the effects of iron scarcity on breakable items, restore BG2 XP for lock picking, trap defusing and spell learning, add exotic weapons in Taerom's forge, import more items from Baldur's Gate to Shadows of Amn...",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod spécifique à BGT et compagnon officiel de ce dernier, permet de modifier certains comportements du jeu, notamment dans la partie Baldur's Gate et Légende de l'Île perdue. Vous pouvez notamment explorer automatiquement les villes, rendre aléatoires les pièges dans la caverne des pirates, ajouter des sacs de contenance sur la Côte des Épées, ajouter davantage de scalps de bandits, modifier les effets de la pénurie de fer sur les objets susceptibles de se briser, restaurer l'XP de BG2 pour le crochetage des serrures, le désamorçage des pièges et l'apprentissage des sorts, ajouter des armes exotiques dans la forge de Taerom, importer davantage d'objets depuis Baldur's Gate vers Shadows of Amn..."
+            "source": "Ce mod permet de modifier certains comportements du jeu, notamment dans la partie Baldur's Gate et Légende de l'Île perdue. Vous pouvez notamment explorer automatiquement les villes, rendre aléatoires les pièges dans la caverne des pirates, ajouter des sacs de contenance sur la Côte des Épées, ajouter davantage de scalps de bandits, modifier les effets de la pénurie de fer sur les objets susceptibles de se briser, restaurer l'XP de BG2 pour le crochetage des serrures, le désamorçage des pièges et l'apprentissage des sorts, ajouter des armes exotiques dans la forge de Taerom, importer davantage d'objets depuis Baldur's Gate vers Shadows of Amn..."
         },
         "notes": [
             "If you're planning to install [[133]], don't install BGT Tweak Pack's \"Modify Random Enemy Creation\" component, as both modify the same thing."
@@ -5271,10 +5271,10 @@
     },
     {
         "id": 372,
-        "description": "The equivalent of BGT for EE games. It allows you to play BGEE, SoD and BG2EE back-to-back.",
+        "description": "The equivalent of [[148]] for EE games. It allows you to play BGEE, SoD and BG2EE back-to-back.",
         "description_meta": {
             "status": "needs_review",
-            "source": "L'équivalent de BGT pour les jeux EE. Il permet de jouer à la suite les volets BGEE, SoD et BG2EE."
+            "source": "L'équivalent de [[148]] pour les jeux EE. Il permet de jouer à la suite les volets BGEE, SoD et BG2EE."
         },
         "notes": [
             "An optional launcher is also available: [[1389]]."
@@ -13781,14 +13781,10 @@
             "status": "needs_review",
             "source": "Ce mod modifie les banters (interactions) des PNJ de Siege of Dragonspear du style \"à la volée\" utilisé dans SoD au format de dialogue avec pause utilisé dans BG1 et BG2."
         },
-        "notes": [
-            "Please note: This mod is not compatible with EET."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : Ce mod n'est pas compatible avec EET."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -17578,10 +17574,10 @@
     },
     {
         "id": 1246,
-        "description": "This mod, compatible with BGT and Tutu, offers some twenty modifications to the game, ranging from cosmetic alterations to a new script for the bard, as well as the addition of sounds for the creeping mound (you read that right), the ability to define the size of projectile containers and the application of rules from the paper edition of Dungeons & Dragons in the video-game universe.",
+        "description": "This mod offers some twenty modifications to the game, ranging from cosmetic alterations to a new script for the bard, as well as the addition of sounds for the creeping mound (you read that right), the ability to define the size of projectile containers and the application of rules from the paper edition of Dungeons & Dragons in the video-game universe.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod, compatible avec BGT et Tutu, propose une vingtaine de modifications du jeu, allant d'altérations cosmétiques à un nouveau script pour le barde, en passant par l'ajout de sons pour le tertre rampant (vous avez bien lu), la possibilité de définir soi-même la taille des contenants à projectiles ou l'application de règles issues de l'édition papier de Donjons et Dragons dans l'univers vidéo-ludique."
+            "source": "Ce mod propose une vingtaine de modifications du jeu, allant d'altérations cosmétiques à un nouveau script pour le barde, en passant par l'ajout de sons pour le tertre rampant (vous avez bien lu), la possibilité de définir soi-même la taille des contenants à projectiles ou l'application de règles issues de l'édition papier de Donjons et Dragons dans l'univers vidéo-ludique."
         },
         "notes": [],
         "notes_meta": {
@@ -21323,10 +21319,10 @@
     },
     {
         "id": 1511,
-        "description": "This little mod for Baldur's Gate Trilogy lets you change the spawn point settings in the area to change the difficulty of encounters.",
+        "description": "This little mod for [[148]] lets you change the spawn point settings in the area to change the difficulty of encounters.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce petit mod pour Baldur's Gate Trilogy vous permet de modifier les paramètres des points de spawn de la zone afin de changer la difficulté des rencontres."
+            "source": "Ce petit mod pour [[148]] vous permet de modifier les paramètres des points de spawn de la zone afin de changer la difficulté des rencontres."
         },
         "notes": [],
         "notes_meta": {

@@ -2761,7 +2761,7 @@
     {
         "id": 77,
         "name": "Askaria Npc and Quest & ChaosKnight Kit and Npc",
-        "description": "Il s'agit d'un pack de deux mods coréens pour BGT (traduits en anglais) : installez d'abord le profil, puisque Askaria en a besoin.|- Chaos Knight kit : ce mod ajoute le profil de Chevalier du Chaos et Jacob, un PNJ recrutable près du manoir de Bérégost, inspiré de Dota dans WoW3.|- Askaria Quest NPC : Au premier étage de l'Auberge de Feldpost à Bérégost, Askaria de l'aide contre des bandits. Une fois ces derniers éliminés, elle vous rejoindra pour retrouver ses parents.",
+        "description": "Il s'agit d'un pack de deux mods : installez d'abord le profil, puisque Askaria en a besoin.|- Chaos Knight kit : ce mod ajoute le profil de Chevalier du Chaos et Jacob, un PNJ recrutable près du manoir de Bérégost, inspiré de Dota dans WoW3.|- Askaria Quest NPC : Au premier étage de l'Auberge de Feldpost à Bérégost, Askaria de l'aide contre des bandits. Une fois ces derniers éliminés, elle vous rejoindra pour retrouver ses parents.",
         "urls": [
             "https://www.shsforums.net/topic/51321-askaria-quest-chaosknight-kit-mod-v13/",
             "https://github.com/The-Gate-Project/Askaria-Quest_ChaosKnight-kit"
@@ -3775,7 +3775,7 @@
     {
         "id": 105,
         "name": "The BG1NPC Project",
-        "description": "Ce mod apporte une interaction des personnages tout à fait comparable à celle de Baldur's Gate II. En raison des différences de capacités techniques de Baldur's Gate et de son petit frère, le mod ne peut fonctionner qu'avec Baldur's Gate II, ce qui rend obligatoire l'installation de BG1Tutu ou de Baldur's Gate Trilogy afin d'en profiter, ou d'un jeu EE.|Il développe les relations entre le personnage principal et ses équipiers ou entre membres du groupe pour tous les personnages recrutables de Baldur's Gate, ainsi que des romances pour Ajantis, Branwen, Coran, Dynahéir, Shar-Teel et Xan. Certains personnages ont aussi une quête personnelle à accomplir, et tous ajoutent aussi leur grain de sel dans les discussions avec les personnages que le groupe rencontre.|Pour en bénéficier pleinement, il vous faudra également télécharger et installer le mod [[106]] (à installer après BG1 NPC Project).",
+        "description": "Ce mod apporte une interaction des personnages tout à fait comparable à celle de Baldur's Gate II. En raison des différences de capacités techniques de Baldur's Gate et de son petit frère, le mod ne peut fonctionner qu'avec Baldur's Gate II, ce qui rend obligatoire l'installation de BG1Tutu ou de [[148]] afin d'en profiter, ou d'un jeu EE.|Il développe les relations entre le personnage principal et ses équipiers ou entre membres du groupe pour tous les personnages recrutables de Baldur's Gate, ainsi que des romances pour Ajantis, Branwen, Coran, Dynahéir, Shar-Teel et Xan. Certains personnages ont aussi une quête personnelle à accomplir, et tous ajoutent aussi leur grain de sel dans les discussions avec les personnages que le groupe rencontre.|Pour en bénéficier pleinement, il vous faudra également télécharger et installer le mod [[106]] (à installer après BG1 NPC Project).",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/bg1npc/",
             "https://github.com/Gibberlings3/BG1NPC"
@@ -3821,7 +3821,7 @@
     {
         "id": 106,
         "name": "BG1 NPC Project Music Pack",
-        "description": "Ce mod ajoute des musiques associées aux échanges et aux romances avec les personnages du [[25]]. La version 6 est désormais officiellement compatible avec BG:EE et fonctionne toujours avec BGT et BG1Tutu. Elle propose un choix entre des versions longues (originales) ou courtes (nouvelles en v6) des musiques.",
+        "description": "Ce mod ajoute des musiques associées aux échanges et aux romances avec les personnages du [[105]]. Il propose deux versions pour les musiques : une version longue (originale) ou courte.",
         "urls": [
             "https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/",
             "https://github.com/Gibberlings3/bg1npcmusic"
@@ -3841,10 +3841,11 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": [
-            "stable"
+            "stable",
+            "archived"
         ],
         "last_update": "2015-02-01",
         "compatibilities": {
@@ -4860,7 +4861,7 @@
     {
         "id": 135,
         "name": "BGT Tweak Pack",
-        "description": "Ce mod spécifique à BGT et compagnon officiel de ce dernier, permet de modifier certains comportements du jeu, notamment dans la partie Baldur's Gate et Légende de l'Île perdue. Vous pouvez notamment explorer automatiquement les villes, rendre aléatoires les pièges dans la caverne des pirates, ajouter des sacs de contenance sur la Côte des Épées, ajouter davantage de scalps de bandits, modifier les effets de la pénurie de fer sur les objets susceptibles de se briser, restaurer l'XP de BG2 pour le crochetage des serrures, le désamorçage des pièges et l'apprentissage des sorts, ajouter des armes exotiques dans la forge de Taerom, importer davantage d'objets depuis Baldur's Gate vers Shadows of Amn...",
+        "description": "Ce mod permet de modifier certains comportements du jeu, notamment dans la partie Baldur's Gate et Légende de l'Île perdue. Vous pouvez notamment explorer automatiquement les villes, rendre aléatoires les pièges dans la caverne des pirates, ajouter des sacs de contenance sur la Côte des Épées, ajouter davantage de scalps de bandits, modifier les effets de la pénurie de fer sur les objets susceptibles de se briser, restaurer l'XP de BG2 pour le crochetage des serrures, le désamorçage des pièges et l'apprentissage des sorts, ajouter des armes exotiques dans la forge de Taerom, importer davantage d'objets depuis Baldur's Gate vers Shadows of Amn...",
         "urls": [
             "https://github.com/Spellhold-Studios/BGT-Tweak-Pack"
         ],
@@ -13213,7 +13214,7 @@
     {
         "id": 372,
         "name": "Enhanced Edition Trilogy",
-        "description": "L'équivalent de BGT pour les jeux EE. Il permet de jouer à la suite les volets BGEE, SoD et BG2EE.",
+        "description": "L'équivalent de [[148]] pour les jeux EE. Il permet de jouer à la suite les volets BGEE, SoD et BG2EE.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27756-download-links/",
             "https://github.com/Gibberlings3/EET"
@@ -13223,6 +13224,7 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -34421,6 +34423,7 @@
         "name": "SoD Dialogue Banters",
         "description": "Ce mod modifie les banters (interactions) des PNJ de Siege of Dragonspear du style \"à la volée\" utilisé dans SoD au format de dialogue avec pause utilisé dans BG1 et BG2.",
         "urls": [
+            "https://forums.beamdog.com/discussion/66674/",
             "https://github.com/The-Gate-Project/SoD-Dialog-Banters"
         ],
         "categories": [
@@ -34433,9 +34436,7 @@
             "AstroBryGuy"
         ],
         "team": [],
-        "notes": [
-            "Attention : Ce mod n'est pas compatible avec EET."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [
@@ -34445,7 +34446,11 @@
             "archived"
         ],
         "last_update": "2022-08-07",
-        "compatibilities": {},
+        "compatibilities": {
+            "conflicts": [
+                372
+            ]
+        },
         "tp2": "SoDDialogBanters"
     },
     {
@@ -44201,7 +44206,7 @@
     {
         "id": 1246,
         "name": "aTweaks",
-        "description": "Ce mod, compatible avec BGT et Tutu, propose une vingtaine de modifications du jeu, allant d'altérations cosmétiques à un nouveau script pour le barde, en passant par l'ajout de sons pour le tertre rampant (vous avez bien lu), la possibilité de définir soi-même la taille des contenants à projectiles ou l'application de règles issues de l'édition papier de Donjons et Dragons dans l'univers vidéo-ludique.",
+        "description": "Ce mod propose une vingtaine de modifications du jeu, allant d'altérations cosmétiques à un nouveau script pour le barde, en passant par l'ajout de sons pour le tertre rampant (vous avez bien lu), la possibilité de définir soi-même la taille des contenants à projectiles ou l'application de règles issues de l'édition papier de Donjons et Dragons dans l'univers vidéo-ludique.",
         "urls": [
             "https://www.shsforums.net/forum/598-atweaks/",
             "https://github.com/TotoR115/aTweaks"
@@ -53326,7 +53331,7 @@
     {
         "id": 1511,
         "name": "BGT Spawn Tweak",
-        "description": "Ce petit mod pour Baldur's Gate Trilogy vous permet de modifier les paramètres des points de spawn de la zone afin de changer la difficulté des rencontres.",
+        "description": "Ce petit mod pour [[148]] vous permet de modifier les paramètres des points de spawn de la zone afin de changer la difficulté des rencontres.",
         "urls": [
             "https://www.shsforums.net/topic/60654-bgt-spawn-tweak/",
             "https://github.com/Spellhold-Studios/BGT-Spawn-Tweak"
@@ -53352,6 +53357,9 @@
         ],
         "last_update": "2022-10-01",
         "compatibilities": {
+            "requires": [
+                148
+            ],
             "conflicts": [
                 133,
                 135
