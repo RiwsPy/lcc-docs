@@ -28781,5 +28781,59 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2113,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod permet d'invoquer un djinn qui améliore les objets de BG1 et dispose d'une boutique proposant des objets rares ainsi que quelques objets spéciaux. On peut invoquer le djinn 30 fois par jour. La bouteille permettant d'invoquer le djinn s'achète au Bras amical."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2114,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose une extension au personnage de Kagain, plusieurs dizaines d'interactions, de banters avec les PNJ Bioware et également une mini-quête."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2115,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod modifie certains objets présents (chaque objet peut-être sélectionné individuellement) et en ajoute quelques nouveaux qui ont pour origine d'autres jeux D&D."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Ce mod écrase les objets modifiés sélectionnés."
+            ]
+        }
+    },
+    {
+        "id": 2116,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose un fond de carte de jeu en allemand."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

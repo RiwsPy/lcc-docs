@@ -29460,5 +29460,61 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2113,
+        "description": "This mod allows you to summon a djinn who upgrades BG1 items and runs a shop selling rare items as well as a few special items. You can summon the djinn 30 times a day. The bottle used to summon the djinn can be bought at the Friendly Arm.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod permet d'invoquer un djinn qui améliore les objets de BG1 et dispose d'une boutique proposant des objets rares ainsi que quelques objets spéciaux. On peut invoquer le djinn 30 fois par jour. La bouteille permettant d'invoquer le djinn s'achète au Bras amical."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2114,
+        "description": "This mod offers an expansion to Kagain, dozens of interactions and banter exchanges with Bioware NPCs, as well as a mini-quest.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose une extension au personnage de Kagain, plusieurs dizaines d'interactions, de banters avec les PNJ Bioware et également une mini-quête."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2115,
+        "description": "This mod modifies some existing items (each item can be selected individually) and adds a few new ones taken from other D&D games.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod modifie certains objets présents (chaque objet peut-être sélectionné individuellement) et en ajoute quelques nouveaux qui ont pour origine d'autres jeux D&D."
+        },
+        "notes": [
+            "This mod overwrites the selected modified objects."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Ce mod écrase les objets modifiés sélectionnés."
+            ]
+        }
+    },
+    {
+        "id": 2116,
+        "description": "This mod provides a game map background in German.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose un fond de carte de jeu en allemand."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

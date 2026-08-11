@@ -5335,7 +5335,7 @@
     },
     {
         "id": 372,
-        "description":"这是适用于增强版（EE）游戏的[[148]]模组的等效版本。它允许你将《博德之门：增强版》（BGEE）、《龙矛围攻》（SoD）和《博德之门II：增强版》（BG2EE）三部曲连贯地游玩。",
+        "description": "这是适用于增强版（EE）游戏的[[148]]模组的等效版本。它允许你将《博德之门：增强版》（BGEE）、《龙矛围攻》（SoD）和《博德之门II：增强版》（BG2EE）三部曲连贯地游玩。",
         "description_meta": {
             "status": "done",
             "source": "L'équivalent de [[148]] pour les jeux EE. Il permet de jouer à la suite les volets BGEE, SoD et BG2EE."
@@ -29797,6 +29797,60 @@
         "description_meta": {
             "status": "done",
             "source": "Ce mod propose une variante au kit de Kensai, issu de différientes versions de AD&D 1 et 2."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2113,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod permet d'invoquer un djinn qui améliore les objets de BG1 et dispose d'une boutique proposant des objets rares ainsi que quelques objets spéciaux. On peut invoquer le djinn 30 fois par jour. La bouteille permettant d'invoquer le djinn s'achète au Bras amical."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2114,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose une extension au personnage de Kagain, plusieurs dizaines d'interactions, de banters avec les PNJ Bioware et également une mini-quête."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2115,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod modifie certains objets présents (chaque objet peut-être sélectionné individuellement) et en ajoute quelques nouveaux qui ont pour origine d'autres jeux D&D."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Ce mod écrase les objets modifiés sélectionnés."
+            ]
+        }
+    },
+    {
+        "id": 2116,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose un fond de carte de jeu en allemand."
         },
         "notes": [],
         "notes_meta": {
