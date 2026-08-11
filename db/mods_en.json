@@ -29516,5 +29516,35 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2117,
+        "description": "This mod causes Gorion's Ward to automatically transform into the Slayer upon the death of their romance partner.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod fait en sorte que l'enfant de Gorion se transforme automatiquement en Écorcheur à la mort de son partenaire amoureux."
+        },
+        "notes": [
+            "For modded characters, edit the `params.txt` file prior to installation. You can also adjust the chance of a transform through editing the numerator and denominator parameters in `params.txt`."
+        ],
+        "notes_meta": {
+            "status": "done",
+            "source": [
+                "Pour les personnages modifiés, modifiez le fichier `params.txt` avant l'installation. Vous pouvez également ajuster la probabilité de transformation en modifiant les paramètres du numérateur et du dénominateur dans le fichier `params.txt`."
+            ]
+        }
+    },
+    {
+        "id": 2118,
+        "description": "This mod provides for stat continuity for Baldur's Gate Enhanced Edition Trilogy (EET) characters. Stat continuity means that a character will have the same stats in BG2 / ToB that they had at the end of BG1 / SoD. For example, if you gave Minsc a strength boost in BG1, that strength boost will be reflected when he joins your party in Irenicus' dungeon.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod assure la continuité des caractéristiques des personnages de la trilogie Baldur's Gate Enhanced Edition (EET). La continuité des caractéristiques signifie qu'un personnage aura dans BG2 / ToB les mêmes caractéristiques que celles qu'il possédait à la fin de BG1 / SoD. Par exemple, si vous avez augmenté la force de Minsc dans BG1, cette augmentation sera prise en compte lorsqu'il rejoindra votre groupe dans le donjon d'Irenicus."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

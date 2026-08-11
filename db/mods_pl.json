@@ -28835,5 +28835,33 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2117,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod fait en sorte que l'enfant de Gorion se transforme automatiquement en Écorcheur à la mort de son partenaire amoureux."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Pour les personnages modifiés, modifiez le fichier `params.txt` avant l'installation. Vous pouvez également ajuster la probabilité de transformation en modifiant les paramètres du numérateur et du dénominateur dans le fichier `params.txt`."
+            ]
+        }
+    },
+    {
+        "id": 2118,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod assure la continuité des caractéristiques des personnages de la trilogie Baldur's Gate Enhanced Edition (EET). La continuité des caractéristiques signifie qu'un personnage aura dans BG2 / ToB les mêmes caractéristiques que celles qu'il possédait à la fin de BG1 / SoD. Par exemple, si vous avez augmenté la force de Minsc dans BG1, cette augmentation sera prise en compte lorsqu'il rejoindra votre groupe dans le donjon d'Irenicus."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

@@ -2332,6 +2332,7 @@
         "name": "Ariena the Half Orc",
         "description": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, le The Mod for the Wicked. Combattante des tunnels demi-orque, Ariena est dotée d'une voix à la Angela Gossow d'Arch Enemy avec déjà pas mal de banters, d'une sorte de quête et d'un langage broken english amusant. Son petit dialogue avec Salvanas à la Couronne vaut le détour...|FOR 18, DEX 15, CON 17, INT 7, SAG 11, CHA 10.",
         "urls": [
+            "https://www.shsforums.net/forum/149-mod-for-the-wicked/",
             "https://github.com/Spellhold-Studios/Ariena-NPC/"
         ],
         "categories": [
@@ -5244,6 +5245,7 @@
         "name": "Baldur's Gate Graphical Overhaul",
         "description": "Ce mod énorme ajoute les zones nocturnes qui manquent dans toutes les zones principales sauf Baldur's Gate et ajoute les minimaps nocturnes manquantes dans toutes les zones principales. Il corrige également des défauts graphiques dans les différentes cartes du jeu (fenêtres qui s'affichent la nuit et pas le jour - ou vice versa, porte mal ajustée, défaut dans les images de nuit, etc.). Il donne à tous les braseros muraux leurs flammes manquantes. Enfin, presque toutes les vilaines taches bleues et violettes ont été supprimées des rues. Il a été réalisé en collaboration avec Overhaul Studios.",
         "urls": [
+            "https://www.shsforums.net/forum/641-bg-graphics-overhaul/",
             "https://www.gibberlings3.net/forums/topic/27768-baldurs-gate-graphics-overhaul-for-eet",
             "https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul"
         ],
@@ -6385,6 +6387,7 @@
         "name": "Black Raven Monk Kit",
         "description": "Ce mod ajoute un nouveau profil de moine : le moine de l'Ordre du Corbeau noir, qui gagne des bonus permanent chaque fois qu'il libère des esclaves.",
         "urls": [
+            "https://forums.beamdog.com/discussion/77063/",
             "https://github.com/OlvynChuru/Black-Raven-Monk-Kit"
         ],
         "categories": [
@@ -6921,6 +6924,7 @@
         "name": "Branwen NPC for BGII",
         "description": "Ce mod se veut être un tutoriel pour les moddeurs en herbe désirant créer un PNJ, et de ce fait inclut un PNJ complet avec du contenu pour SoA et ToB, des banters, des interjections, une voie de l'amitié, etc...",
         "urls": [
+            "https://forums.pocketplane.net/index.php/topic,28623.0.html",
             "https://github.com/Pocket-Plane-Group/Branwen_for_BGII"
         ],
         "categories": [
@@ -9056,7 +9060,7 @@
         "name": "Coran NPC MOD for Baldur's Gate II",
         "description": "Coran est un PNJ créé en un week-end pour les joueurs qui, comme l'auteure du mod, ne pouvaient pas se lasser de la compagnie de cet excellent archer et coureur de jupons, ayant joué avec lui dans Baldur's Gate. Maintenant, Coran vous tiendra compagnie dans SoA et ToB avec quelques plaisanteries légères avec toutes les barmaids Athkatla, et un flacon d'Elverquisst ! Il enchaîne les conversations amicales avec le personnage principal, les dialogues initiés par le joueur et les dialogues avec tous les personnages de Bioware. Vous le trouverez près de l'entrée des portes d'Atkatla. Dans ToB, vous pouvez le convoquer grâce à l'Esprit du Destin.",
         "urls": [
-            "https://www.pocketplane.net/one-day-npcs/",
+            "https://forums.pocketplane.net/index.php?topic=27655.0",
             "https://github.com/Pocket-Plane-Group/Coran_for_BGII"
         ],
         "categories": [
@@ -10442,7 +10446,7 @@
         "name": "Dee Summoning Spell",
         "description": "Ce mod n'est rien d'autre qu'une grosse farce qui convoque l'un des modérateurs de Beamdog dans le jeu. Vous trouverez le sort de convocation dans l'échoppe de Lazarus à Saradush.",
         "urls": [
-            "https://forums.beamdog.com/discussion/comment/775476/#Comment_775476"
+            "https://forums.beamdog.com/discussion/26958/"
         ],
         "categories": [
             "Sort et objet"
@@ -15875,7 +15879,8 @@
         "compatibilities": {
             "requires": [
                 594,
-                598
+                598,
+                "ToB"
             ]
         },
         "tp2": "GRoA"
@@ -15917,7 +15922,7 @@
         "name": "Ghareth NPC",
         "description": "Il s'agit d'un guerrier/mage humain d'alignement loyal neutre. C'est un ancien mage cagoulé qui s'est désenchanté de leur règne autoritaire et qui est prêt à aider le groupe à les affronter. Plutôt fourni pour un PNJ One Day car il possède 20 banters et son kit de voix.|FOR 11, DEX 15, CON 17, INT 15, SAG 11, CHA 13.",
         "urls": [
-            "https://www.pocketplane.net/one-day-npcs/"
+            "https://forums.pocketplane.net/index.php?topic=14555.0"
         ],
         "categories": [
             "PNJ One Day"
@@ -16397,6 +16402,7 @@
         "name": "Haer'Dalis Romance",
         "description": "Ce mod permettra aux PJ de tout poil (quelle que soit leur race, leur classe ou leur alignement) de romancer le tieffelin, ou tout du moins d'essayer. Une vingtaine de lovetalks, des discussions surprises, des dialogues à l'initiative du PJ, conflit de romance avec Anomen... Le mod dispose de contenu pour SoA et ToB.",
         "urls": [
+            "https://www.shsforums.net/forum/604-haerdalis-romance/",
             "https://github.com/Spellhold-Studios/HaerDalis-Romance/"
         ],
         "categories": [
@@ -19759,6 +19765,7 @@
         "description": "Ce mod vous permet d'utiliser cette collection de portraits d'Isandir pour vos personnages. Un composant optionnel dote la plupart des PNJ de portraits de Drows à Ust Natha.",
         "urls": [
             "https://www.shsforums.net/topic/57517-mod-isandirs-portrait-pack/",
+            "https://forums.beamdog.com/discussion/33490/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/ISANDIRS_PORTRAIT_PACK.7z"
         ],
         "categories": [
@@ -21344,6 +21351,7 @@
         "name": "Kido NPC",
         "description": "En version bêta déjà jouable, ce mod fait partie d'un projet plus ambitieux, \"The Mod for the Wicked\". Bouffon et adorateur de Cyric (si, si...), Kido est un barde de kit bouffon et d'alignement chaotique mauvais. Il dispose d'une quête, d'un soundset carrément invraisemblable (il chante plus mal qu'un Star Académicien) et de nombreux dialogues, y compris avec [[66]]. Retrouvez-le dans l'auberge des Cinq Chopes.|FOR 11, DEX 17, CON 13, INT 16, SAG 8, CHA 15.",
         "urls": [
+            "https://www.shsforums.net/forum/149-mod-for-the-wicked/",
             "https://github.com/Spellhold-Studios/Kido-NPC/"
         ],
         "categories": [
@@ -22217,6 +22225,7 @@
         "description": "Ce mod rétablit le graphisme des boucliers de Baldur's Gate original dans les jeux EE.",
         "urls": [
             "https://www.shsforums.net/topic/56956-mod-legacy-shields-for-bg2-ee/",
+            "https://forums.beamdog.com/discussion/26363/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Legacy-Shields.zip"
         ],
         "categories": [
@@ -34982,6 +34991,7 @@
         "description": "Ce mod permet aux magiciens de lancer sorts en armures légères (cuir, besantine, cuirasse).",
         "urls": [
             "https://www.shsforums.net/topic/56957-mod-spellcasting-in-light-armor/",
+            "https://forums.beamdog.com/discussion/26366/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Casting-in-light-armor.zip"
         ],
         "categories": [
@@ -37704,6 +37714,7 @@
         "name": "The Darkest Day",
         "description": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque.",
         "urls": [
+            "https://www.shsforums.net/topic/38117-the-darkest-day-112-forumthread/",
             "https://forums.beamdog.com/discussion/86795/",
             "https://github.com/Spellhold-Studios/The-Darkest-Day/"
         ],
@@ -39290,7 +39301,7 @@
         "name": "Tiax NPC MOD for Baldur's Gate II",
         "description": "Vous vous souvenez certainement de ce prêtre/voleur dément et mégalomane ? L'occasion de (re)faire sa connaissance.|FOR 9, DEX 16, CON 16, INT 10, SAG 13, CHA 9.",
         "urls": [
-            "https://www.pocketplane.net/one-day-npcs/",
+            "https://forums.pocketplane.net/index.php?topic=23660.0",
             "https://github.com/Pocket-Plane-Group/Tiax_for_BGII"
         ],
         "categories": [
@@ -47755,6 +47766,7 @@
         "name": "Minsc Friendship",
         "description": "Ce mod ajoute une série de dialogues à Minsc, le fameux rôdeur, et développe ses expériences et ses difficultés.",
         "urls": [
+            "https://www.shsforums.net/forum/668-minsc-friendship/",
             "https://github.com/Spellhold-Studios/Minsc-Friendship"
         ],
         "categories": [
@@ -49189,6 +49201,7 @@
         "name": "BG1 NPC in SoA&ToB",
         "description": "Ce mod ambitieux ajoute une nouvelle zone dans Athkatla (Water Gardens) où se réunissent toutes les personnes riches et célèbres d'Athkatla. Que font-ils là-bas ? Ils papotent, ils se détentent et boivent. Des milliers de lignes de dialogues qui changent à chaque conversation. Des variations selon l'heure du jour (ou de la nuit).|Ce mod permet également aux moddeurs d'ajouter eux-mêmes des composants pour des PNJ issus de BG1, ils ont de nouvelles répliques et parfois même de nouvelles quêtes ou des romances entre eux. Il y a aussi quelques surprises.",
         "urls": [
+            "https://www.shsforums.net/topic/50964-bg1-npcs-for-soa-tob/",
             "https://forums.beamdog.com/discussion/82463/",
             "https://github.com/Spellhold-Studios/BG1-NPCs-for-SoA-ToB"
         ],
@@ -51668,6 +51681,7 @@
         "name": "The G3 Community Item Pack",
         "description": "Un mod pour former les moddeurs en herbe. Une chose recommandée à faire en premier, est un pack d'objets. Cela permet d'acquérir un peu d'expérience dans la création d'objets, de créatures et de magasins, ainsi que dans l'écriture de scripts et de dialogues. C'est ce que l'on trouve ici. Un mod sous la forme d'un tutoriel en direct et d'un projet collaboratif.",
         "urls": [
+            "https://www.gibberlings3.net/files/file/1043-g3-community-item-pack/",
             "https://github.com/Gibberlings3/G3_Community_Item_Pack"
         ],
         "categories": [
@@ -67186,6 +67200,7 @@
         "name": "BG2 creature inventory checker",
         "description": "Cet utilitaire est un outil qui permet de trouver, par exemple, les créatures ayant une arme dans leur emplacement d'arme mais ne l'étant pas équipées, ou une créature avec une armure dans un emplacement de bouclier. L'utilitaire recherchera tous les fichiers de créatures présents dans le jeu et signalera les erreurs dans le fichier DEBUG.",
         "urls": [
+            "https://gibberlings3.github.io/Documentation/readmes/readme-bg2_creature_inventory_checker.html",
             "https://github.com/Gibberlings3/BG2_Creature_Inventory_Checker/"
         ],
         "categories": [
@@ -71789,7 +71804,7 @@
             "EET"
         ],
         "authors": [
-            "lcamod"
+            "Fosie"
         ],
         "team": [],
         "notes": [],
@@ -73398,5 +73413,71 @@
         "last_update": "2021-04-18",
         "compatibilities": {},
         "tp2": "ja#worldmap_deu"
+    },
+    {
+        "id": 2117,
+        "name": "Forced Slayer Transform",
+        "description": "Ce mod fait en sorte que l'enfant de Gorion se transforme automatiquement en Écorcheur à la mort de son partenaire amoureux.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41377-mod-bg2ee-forced-slayer-transform/",
+            "https://forums.beamdog.com/discussion/90735/",
+            "https://github.com/LCA-EET/ForcedSlayerTransform"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Fosie"
+        ],
+        "team": [],
+        "notes": [
+            "Pour les personnages modifiés, modifiez le fichier `params.txt` avant l'installation. Vous pouvez également ajuster la probabilité de transformation en modifiant les paramètres du numérateur et du dénominateur dans le fichier `params.txt`."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-06-27",
+        "compatibilities": {},
+        "tp2": "ForcedSlayerTransform"
+    },
+    {
+        "id": 2118,
+        "name": "EET Stat Continuity",
+        "description": "Ce mod assure la continuité des caractéristiques des personnages de la trilogie Baldur's Gate Enhanced Edition (EET). La continuité des caractéristiques signifie qu'un personnage aura dans BG2 / ToB les mêmes caractéristiques que celles qu'il possédait à la fin de BG1 / SoD. Par exemple, si vous avez augmenté la force de Minsc dans BG1, cette augmentation sera prise en compte lorsqu'il rejoindra votre groupe dans le donjon d'Irenicus.",
+        "urls": [
+            "https://github.com/LCA-EET/EET_Stat_Continuity"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "Fosie"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2025-01-14",
+        "compatibilities": {},
+        "tp2": "eet_stat_continuity"
     }
 ]
