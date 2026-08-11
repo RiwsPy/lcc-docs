@@ -1118,9 +1118,9 @@
     },
     {
         "id": 77,
-        "description": "这是一个包含两个韩语模组的BGT模组包（已翻译成英文）：请先安装职业包，因为 Askaria 需要它。|- 混沌骑士宗派：此模组添加了混沌骑士职业包和雅各布——一个可在贝尔苟斯特庄园附近招募的NPC，灵感来源于魔兽争霸3中的Dota。|- Askaria 任务NPC：在贝尔苟斯特的 Feldpost 旅店一楼，Askaria 请求你帮助对抗强盗。一旦这些强盗被消灭，她会加入你，以寻找她的父母。",
+        "description": "这是一个包含两个模组的整合包：请先安装宗派部分，因为阿斯卡莉亚需要它。|- 混沌骑士宗派：该模组新增了混沌骑士宗派，以及雅各布这位可招募NPC，他出现在贝尔苟斯特的宅邸附近，灵感来源于《魔兽争霸3》中的Dota。 |- 阿斯卡莉亚任务NPC：在贝尔苟斯特的费尔德的旅店二楼，阿斯卡莉亚会请求你帮助她对付强盗。消灭强盗后，她会加入你，一同寻找她的父母。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit d'un pack de deux mods : installez d'abord le profil, puisque Askaria en a besoin.|- Chaos Knight kit : ce mod ajoute le profil de Chevalier du Chaos et Jacob, un PNJ recrutable près du manoir de Bérégost, inspiré de Dota dans WoW3.|- Askaria Quest NPC : Au premier étage de l'Auberge de Feldpost à Bérégost, Askaria de l'aide contre des bandits. Une fois ces derniers éliminés, elle vous rejoindra pour retrouver ses parents."
         },
         "notes": [
@@ -1521,9 +1521,9 @@
     },
     {
         "id": 105,
-        "description": "这个模组带来了与博德之门II完全可比的角色互动。由于博德之门及其“弟弟”在技术能力上的差异，该模组只能在博德之门II上运行，因此必须安装 BG1Tutu 或博德之门三部曲才能使用它，或者安装一个 EE 版游戏。||它发展了主角与其队友或队伍成员之间的关系，涵盖了博德之门中所有可招募的角色，并为阿詹提斯、布朗温、科朗、戴娜黑、莎儿-蒂尔和撒恩提供了恋爱线。一些角色还有个人任务要完成，并且所有角色在与队伍遇到的角色的对话中也会发表自己的看法。||要充分利用它，您还需要下载并安装模组 [[106]]（在 BG1 NPC Project 之后安装）。",
+        "description": "这个模组为《博德之门》带来了与《博德之门II》完全相当的角色互动体验。由于《博德之门》与其续作在技术能力上的差异，该模组只能在《博德之门II》上运行，因此必须安装BG1Tutu或[[148]]（即EET）才能使用，或者直接使用增强版（EE）游戏。|它扩展了主角与队友之间、以及队友彼此之间的人际关系，涵盖所有《博德之门》的可招募角色，并为阿詹提斯（Ajantis）、布朗温（Branwen）、科朗（Coran）、戴娜黑（Dynahéir）、莎儿-蒂尔（Shar-Teel）和撒恩（Xan）添加了恋爱线。某些角色还拥有个人任务，并且所有角色都会在队伍遇到其他NPC时加入插话。|为获得完整体验，你还需要下载并安装[[106]]模组（需在BG1 NPC Project之后安装）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod apporte une interaction des personnages tout à fait comparable à celle de Baldur's Gate II. En raison des différences de capacités techniques de Baldur's Gate et de son petit frère, le mod ne peut fonctionner qu'avec Baldur's Gate II, ce qui rend obligatoire l'installation de BG1Tutu ou de [[148]] afin d'en profiter, ou d'un jeu EE.|Il développe les relations entre le personnage principal et ses équipiers ou entre membres du groupe pour tous les personnages recrutables de Baldur's Gate, ainsi que des romances pour Ajantis, Branwen, Coran, Dynahéir, Shar-Teel et Xan. Certains personnages ont aussi une quête personnelle à accomplir, et tous ajoutent aussi leur grain de sel dans les discussions avec les personnages que le groupe rencontre.|Pour en bénéficier pleinement, il vous faudra également télécharger et installer le mod [[106]] (à installer après BG1 NPC Project)."
         },
         "notes": [],
@@ -1534,9 +1534,9 @@
     },
     {
         "id": 106,
-        "description": "此模组为与[[25]]中角色的对话和恋情添加了相关音乐。第6版现已正式兼容博德之门：增强版，并继续支持博德之门三部曲和BG1Tutu。它提供了在长版（原版）和短版（第6版新增）音乐之间进行选择。",
+        "description": "这个模组为与[[105]]模组中角色的对话和恋爱内容添加了背景音乐。音乐提供两个版本：长版（原版）或短版。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute des musiques associées aux échanges et aux romances avec les personnages du [[105]]. Il propose deux versions pour les musiques : une version longue (originale) ou courte."
         },
         "notes": [],
@@ -1967,9 +1967,9 @@
     },
     {
         "id": 135,
-        "description": "这个模组是博德之门三部曲的专属官方配套模组，可以修改游戏中的某些行为，尤其是在博德之门和失落的传奇部分。你可以自动探索城市，让海盗洞穴中的陷阱随机化，在剑湾海岸添加储物袋，增加更多匪徒的头皮，修改铁短缺对可能损坏物品的影响，恢复博德之门Ⅱ中撬锁、解除陷阱和学习法术的经验值，在泰罗姆的铁匠铺添加异域武器，从博德之门向安姆阴影导入更多物品……",
+        "description": "这个模组允许修改游戏中的某些行为，尤其是在《博德之门》和《剑湾传奇》（Légende de l'Île perdue）部分。具体包括：自动探索城市、使海盗洞穴中的陷阱随机化、在剑湾（Côte des Épées）增加容器袋、增加更多强盗头皮、修改铁短缺对易碎物品的影响、恢复《博德之门II》中开锁、解除陷阱和法术学习的经验值、在泰罗姆（Taerom）的铁匠铺添加异种武器、从《博德之门》导入更多物品到《安姆阴影》（Shadows of Amn）等。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod permet de modifier certains comportements du jeu, notamment dans la partie Baldur's Gate et Légende de l'Île perdue. Vous pouvez notamment explorer automatiquement les villes, rendre aléatoires les pièges dans la caverne des pirates, ajouter des sacs de contenance sur la Côte des Épées, ajouter davantage de scalps de bandits, modifier les effets de la pénurie de fer sur les objets susceptibles de se briser, restaurer l'XP de BG2 pour le crochetage des serrures, le désamorçage des pièges et l'apprentissage des sorts, ajouter des armes exotiques dans la forge de Taerom, importer davantage d'objets depuis Baldur's Gate vers Shadows of Amn..."
         },
         "notes": [
@@ -5335,9 +5335,9 @@
     },
     {
         "id": 372,
-        "description": "这是适用于增强版游戏的BGT的等价物。它允许您连续游玩《博德之门增强版》、《龙矛围攻》和《博德之门II增强版》。",
+        "description":"这是适用于增强版（EE）游戏的[[148]]模组的等效版本。它允许你将《博德之门：增强版》（BGEE）、《龙矛围攻》（SoD）和《博德之门II：增强版》（BG2EE）三部曲连贯地游玩。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "L'équivalent de [[148]] pour les jeux EE. Il permet de jouer à la suite les volets BGEE, SoD et BG2EE."
         },
         "notes": [
@@ -11491,7 +11491,7 @@
         "team": [
             "delete"
         ],
-        "description": "多产的Lava为您介绍一位年轻、健谈、爱玩且有点疯癫的半身人吟游诗人。她虽然不是很强壮，但应该能为您的队伍增添乐趣。ToB部分尚未充分开发，在SoA部分有一个新的任务。侏儒、矮人和半身人都可以追求她的恋情，没有职业和阵营的限制。您将在友善之臂的旅店里找到她。",
+        "description": "多产的作者Lava为你带来一位年轻的半身人吟游诗人，她话多、爱玩、还有点疯疯癫癫。她不太强壮，但应该能为你的队伍增添不少活力。《巴尔王座》部分的内容尚不完善，而在《安姆阴影》中则有一段新任务。侏儒、矮人和半身人可以与她发展恋情，不受职业和阵营限制。你可以在“海之恩赐”（taverne de la Bonté marine）找到她。",
         "description_meta": {
             "status": "done",
             "source": "Le prolifique Lava vous présente une jeune petite-personne barde, bavarde, joueuse et un brin déjantée. Elle n'est pas très costaud mais devrait égayer votre groupe. La partie ToB n'est pas encore très développée, une nouvelle quête étant disponible dans la partie SoA. Les gnomes, nains et petites-personnes pourront accéder à sa romance, sans restriction de classes, ni d'alignements. Vous la trouverez dans la taverne de la Bonté marine."
@@ -17792,9 +17792,9 @@
     },
     {
         "id": 1246,
-        "description": "这个模组兼容博德之门三部曲和Tutu，提供了约二十项游戏修改，从外观改动到吟游诗人的新脚本，再到为爬行土堆添加声音（你没看错），允许玩家自定义投射物容器的尺寸，或将桌面版龙与地下城的规则应用到电子游戏中。",
+        "description": "这个模组提供了二十来项游戏修改，从外观调整到为吟游诗人添加新脚本，还包括为蔓生怪（你没看错）增加音效、允许自定义弹药容器的大小，以及将纸质版《龙与地下城》的规则应用于电子游戏世界。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod propose une vingtaine de modifications du jeu, allant d'altérations cosmétiques à un nouveau script pour le barde, en passant par l'ajout de sons pour le tertre rampant (vous avez bien lu), la possibilité de définir soi-même la taille des contenants à projectiles ou l'application de règles issues de l'édition papier de Donjons et Dragons dans l'univers vidéo-ludique."
         },
         "notes": [],
@@ -21612,9 +21612,9 @@
     },
     {
         "id": 1511,
-        "description": "这个为博德之门三部曲制作的小模组，允许你修改区域的刷新点设置，以改变遭遇战的难度。",
+        "description": "这个适用于[[148]]的小模组，允许你修改区域刷新点的参数，从而调整遭遇战的难度。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce petit mod pour [[148]] vous permet de modifier les paramètres des points de spawn de la zone afin de changer la difficulté des rencontres."
         },
         "notes": [],
@@ -29767,9 +29767,9 @@
     },
     {
         "id": 2110,
-        "description": "",
+        "description": "这个模组为野蛮人宗派提供了一个变体，该变体源自AD&D第一版和第二版的不同版本。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose une variante au kit de Barbare, issu de différientes versions de AD&D 1 et 2."
         },
         "notes": [],
@@ -29780,9 +29780,9 @@
     },
     {
         "id": 2111,
-        "description": "",
+        "description": "这个模组为游荡者提供了物品，特别是一些刀剑和戒指。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose des objets pour les roublards, notamments quelques lames et anneaux."
         },
         "notes": [],
@@ -29793,9 +29793,9 @@
     },
     {
         "id": 2112,
-        "description": "",
+        "description": "这个模组为剑圣（Kensai）宗派提供了一个变体，该变体源自AD&D第一版和第二版的不同版本。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose une variante au kit de Kensai, issu de différientes versions de AD&D 1 et 2."
         },
         "notes": [],
