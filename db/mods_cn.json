@@ -9721,9 +9721,9 @@
             "请选择 github 链接获取 EE 版本（并已翻译成法语），另一个链接则用于获取原始版本。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Choisissez le lien github pour la version EE (et traduite en français) et l'autre lien pour la version originelle."
+                "Choisissez le premier lien pour la version originelle et le second pour la version EE."
             ]
         }
     },
@@ -9820,9 +9820,9 @@
             "请选择 github 链接获取 BG2EE/EET 版本。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "Choisissez le lien github pour la version BG2EE/EET."
+                "Choisissez le premier lien pour la version originelle et le second pour la version EE."
             ]
         }
     },
@@ -15033,9 +15033,9 @@
             "博德之门Ⅱ/博德之门三部曲版本可在shs论坛下载。博德之门Ⅱ：增强版/增强版三部曲版本可通过GitHub链接下载。"
         ],
         "notes_meta": {
-            "status": "done",
+            "status": "needs_review",
             "source": [
-                "La version BG2/BGT est téléchargeable sur le forum shs. La version BG2EE/EET se télécharge via le lien GitHub."
+                "Choisissez le premier lien pour la version originelle et le second pour la version EE."
             ]
         }
     },

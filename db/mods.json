@@ -16437,7 +16437,8 @@
         "description": "Ce mod ajoute un loup, votre fidèle compagnon. Selon votre partie, vous pourrez trouver Haiass dans l'auberge de Château-Suif (BGT), sur la promenade de Waukyne (SoA) ou l'appeler dans l'Antichambre (ToB).",
         "urls": [
             "https://www.shsforums.net/topic/40623-haiass/",
-            "https://forums.beamdog.com/discussion/77705/"
+            "https://forums.beamdog.com/discussion/77705/",
+            "https://github.com/The-Gate-Project/Clan_DLAN/tree/main/Clan_DLAN/Haiass-el-Lobo"
         ],
         "categories": [
             "PNJ One Day"
@@ -23971,6 +23972,7 @@
         "name": "Mawgul NPC",
         "description": "Mawgul est un Guerrier/Mage elfe neutre absolu, servant de Heaum disposant d'un équipement très puissant, ainsi que de capacités spéciales semblables à celles des prêtres de Helm. Ce mod a peu de contenu.|FOR 10, DEX 19, CON 10, INT 18, SAG 16, CHA 17.",
         "urls": [
+            "https://github.com/The-Gate-Project/Clan_DLAN/tree/main/Clan_DLAN/Mawgul",
             "https://github.com/Plutonium-X/1D_NPC_Mawgul"
         ],
         "categories": [
@@ -23987,7 +23989,7 @@
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien github pour la version EE (et traduite en français) et l'autre lien pour la version originelle."
+            "Choisissez le premier lien pour la version originelle et le second pour la version EE."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -24221,6 +24223,7 @@
         "name": "Mhoram",
         "description": "Ce mini-mod ajoute un scalde elfe, poète du grand Nord disposant d'une quête optionnelle dans le quartier du Pont.|FOR 16, DEX 18, CON 15, INT 10, SAG 14, CHA 16.",
         "urls": [
+            "https://github.com/The-Gate-Project/Clan_DLAN/tree/main/Clan_DLAN/Mhoram",
             "https://github.com/Plutonium-X/1D_NPC_Mhoram"
         ],
         "categories": [
@@ -24237,7 +24240,7 @@
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien github pour la version BG2EE/EET."
+            "Choisissez le premier lien pour la version originelle et le second pour la version EE."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -31860,8 +31863,7 @@
             "EET"
         ],
         "authors": [
-            "Moonfruit",
-            "Freddy_Gwendo"
+            "Moonfruit"
         ],
         "team": [],
         "notes": [],
@@ -36323,7 +36325,8 @@
         "name": "Taim NPC",
         "description": "Ce petit mod sans dialogues, ni quêtes, n'a qu'un seul intérêt : enrôler un voleur d'alignement bon dans son équipe et avec de bonnes stats. À vous de voir...|FOR 18, DEX 18, CON 18, INT 11, SAG 12, CHA 10.",
         "urls": [
-            "https://www.shsforums.net/topic/24668-taim-npc/"
+            "https://www.shsforums.net/topic/24668-taim-npc/",
+            "https://github.com/The-Gate-Project/Clan_DLAN/tree/main/Clan_DLAN/Taim"
         ],
         "categories": [
             "PNJ One Day"
@@ -37114,6 +37117,7 @@
         "name": "Thael NPC",
         "description": "Ce mod ajoute un nouveau PNJ : un elfe mage/voleur. Il dispose de dialogues avec les PNJ de Bioware, avec le PJ, et d'une quête principale qui débute dans SoA et se poursuit dans ToB. Thael se trouve sur la Promenade de Waukyne, tout près du cirque. Il possède une mystérieuse épée courte, Velvevlos, acquise dans des circonstances non moins particulières ; ce puissant artefact ayant une grande influence sur lui.|Au contact des terribles énergies magiques que renferme Velvelos, Thael a subi quelques mutations. L'une d'entre elles, « Pouvoir Mutant », est très utile en combat. Vous pouvez y accéder dans la partie réservée aux capacités spéciales des personnages.|FOR 16, DEX 20, CON 16, INT 18, SAG 9, CHA 10.",
         "urls": [
+            "https://github.com/The-Gate-Project/Clan_DLAN/tree/main/Clan_DLAN/Thael",
             "https://github.com/Plutonium-X/1D_NPC_Thael"
         ],
         "categories": [
@@ -37130,7 +37134,7 @@
         ],
         "team": [],
         "notes": [
-            "La version BG2/BGT est téléchargeable sur le forum shs. La version BG2EE/EET se télécharge via le lien GitHub."
+            "Choisissez le premier lien pour la version originelle et le second pour la version EE."
         ],
         "translation_state": "auto",
         "safe": 2,
