@@ -170,11 +170,11 @@ AUTHOR_PSEUDOS: dict[str, tuple[str]] = {
 }
 
 
-def get_languages() -> set[str]:
+def get_languages() -> list[str]:
     # auto-discover languages
     with os.scandir(DB_PATH) as it:
-        return {
+        return sorted(
             f.name.removeprefix("mods_").removesuffix(".json")
             for f in it
             if f.is_file() and f.name.endswith(".json") and f.name.startswith("mods_")
-        }
+        )

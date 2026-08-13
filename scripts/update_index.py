@@ -48,7 +48,7 @@ def main(**kwargs):
 
     resize_image_from_width(24)
 
-    languages = get_languages() & language_flags.keys()
+    languages = set(get_languages()) & language_flags.keys()
     used_language_flags = {k: v for k, v in language_flags.items() if k in languages}
     authors = set()
     team = set()
