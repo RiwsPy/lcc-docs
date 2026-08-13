@@ -3866,7 +3866,7 @@
         "name": "BG1 NPCs at Beginning",
         "description": "Ce mod rapproche 11 PNJ éloignés de la route directe vers Nashkel (Ajantis, Alora, Coran, Eldoth, Faldorn, Kivan, Quayle, Safana, Shar-Teel, Tiax, Viconia) pour faciliter leur recrutement au début du jeu afin de pouvoir davantage varier les équipes. Vous trouverez plus de détails [ici](https://www.anomaly-studios.fr/mods/bg1npcbeg/lisezmoi.html).|Si vous souhaitez installer [[25]], [[1011]] et/ou [[1141]], veuillez installer ces modules avant BG1 NPCs at Beginning. Cela évitera à ce dernier de vous proposer de déplacer des PNJ qui ont déjà été déplacés par un de ces 3 mods avant lui, si vous avez choisi de le faire.",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?t=24228",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=25115",
             "https://www.anomaly-studios.fr/mods/"
         ],
         "categories": [
@@ -7238,8 +7238,6 @@
         "name": "Bubb's Spell Menu",
         "description": "Ce mod remplace la barre de sélection rapide des sorts par une version bien plus ergonomique qui permet de trier les sorts en fonction de leur nom, de leur type et de leur niveau.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68958/",
-            "https://www.gibberlings3.net/forums/topic/35838-ui-bubbs-spell-menu-v51/",
             "https://github.com/Bubb13/Bubbs-Spell-Menu-Normal"
         ],
         "categories": [
@@ -7256,19 +7254,21 @@
             "Bubb"
         ],
         "team": [],
-        "notes": [
-            "Pour la version 2.6, optez pour [[204]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": [
-            "archived"
+            "archived",
+            "embed",
+            "obsolete",
+            "hidden"
         ],
         "last_update": "2018-02-27",
+        "embedded_in": 204,
         "compatibilities": {
-            "conflicts": [
-                "EE version >= 2.6"
+            "requires": [
+                "EE version < 2.6"
             ]
         },
         "tp2": "n/a"
@@ -7279,7 +7279,7 @@
         "description": "Si la vue des sorts en liste de la version normale de ce mod ne vous plaît pas, cette version pourrait bien vous plaire. Elle émule les emplacements de la sélection de sorts par défaut et les organise de telle sorte que tous les sorts soient visibles en même temps.",
         "urls": [
             "https://forums.beamdog.com/discussion/68958/",
-            "https://www.gibberlings3.net/forums/topic/35838-ui-bubbs-spell-menu-v51/",
+            "https://www.gibberlings3.net/forums/topic/35838-ui-bubbs-spell-menu-v52/",
             "https://github.com/Bubb13/Bubbs-Spell-Menu-Extended"
         ],
         "categories": [
@@ -7313,10 +7313,8 @@
         "last_update": "2026-05-11",
         "compatibilities": {
             "requires": [
-                348
-            ],
-            "conflicts": [
-                "EE version != 2.6.6"
+                348,
+                "EE version >= 2.6"
             ]
         },
         "tp2": "bubb_spell_menu_extended"
@@ -7698,7 +7696,7 @@
         "name": "Change TNO animation to Dustman Disguise",
         "description": "Ce mod attribue à Sans Nom l'apparence des Hommes poussière. Il s'agit d'une modification esthétique qui n'affectera en rien le jeu.|Utilisez le lien Beamdog pour PST:EE.",
         "urls": [
-            "https://sorcerers.net/Games/Torment/Platter/index.php?page=mods",
+            "https://sorcerers.net/Games/Torment/Platter/mods/readmerobe.htm",
             "https://forums.beamdog.com/discussion/64430/"
         ],
         "categories": [
@@ -7709,7 +7707,7 @@
             "PSTEE"
         ],
         "authors": [
-            "DJKajuru"
+            "Platter"
         ],
         "team": [],
         "notes": [],
@@ -7721,6 +7719,7 @@
         ],
         "last_update": "2017-04-18",
         "compatibilities": {},
+        "embedded_in": 847,
         "tp2": "non-weidu"
     },
     {
@@ -8389,7 +8388,7 @@
         "name": "Cities Explored",
         "description": "Ce mod supprime le brouillard de guerre dans les principales zones urbaines en extérieur, comme dans Baldur's Gate 2.",
         "urls": [
-            "https://sorcerers.net/Games/Torment/Platter/index.php?page=mods"
+            "https://sorcerers.net/Games/Torment/Platter/mods/readmecityex.htm"
         ],
         "categories": [
             "Cosmétique"
@@ -12435,7 +12434,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-01",
+        "last_update": "2026-08-12",
         "compatibilities": {
             "conflicts": [
                 1410
@@ -14372,7 +14371,7 @@
         "name": "Finch NPC Mod",
         "description": "Finch est une prêtresse de Dénéir, gnome neutre bonne de son état, érudite et toujours le nez dans ses parchemins et ses ouvrages. Des interactions avec chaque personnages, un kit de voix, plus une quête personnelle. Et elle n'hésitera pas à raconter ses lectures trépidantes à défaut d'avoir mené une vie d'aventure.|FOR 13, DEX 13, CON 16, INT 15, SAG 16, CHA 10.",
         "urls": [
-            "https://www.pocketplane.net/bg1tutu-enhancements/",
+            "https://forums.pocketplane.net/index.php?topic=18513.0",
             "https://forums.beamdog.com/discussion/33019/",
             "https://github.com/Pocket-Plane-Group/Finch_NPC"
         ],
@@ -19400,7 +19399,7 @@
         "name": "Indira NPC",
         "description": "Ce mod ajoute un nouveau PNJ, une demi-elfe guerrier-mage, loyale bonne, que l'on peut trouver dans les ruines du Pont de Flammevin. Elle a des interactions piquantes avec la plupart des autres personnages.|FOR 14, DEX 17, CON 15, INT 16, SAG 7, CHA 13.",
         "urls": [
-            "https://www.pocketplane.net/bg1tutu-enhancements/",
+            "https://forums.pocketplane.net/index.php?topic=16098.0",
             "https://github.com/Pocket-Plane-Group/Indira_NPC"
         ],
         "categories": [
@@ -19414,7 +19413,7 @@
             "EET"
         ],
         "authors": [
-            "Erg"
+            "Ghreyfain"
         ],
         "team": [],
         "notes": [],
@@ -29915,7 +29914,7 @@
     {
         "id": 847,
         "name": "Qwinn's Planescape: Torment Tweak Pack",
-        "description": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[833]], [[1091]], repos quelle que soit la zone (non recommandé), [[1115]] (non recommandé) et [Dustman Robe](https://sorcerers.net/Games/Torment/Platter/index.php?page=mods).",
+        "description": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[833]], [[1091]], repos quelle que soit la zone (non recommandé), [[1115]] (non recommandé) et [[216]].",
         "urls": [
             "https://www.shsforums.net/forum/554-pst-tweaks/",
             "https://github.com/Spellhold-Studios/PST-Tweak-Pack/"
@@ -30948,7 +30947,8 @@
         "name": "Restored BG1 Casting Sounds",
         "description": "Ce mod restaure les sons d'incantation dans BG2 par ceux utilisés dans BG1. Un composant permet aussi de restaurer les sons des coups de combat. Si vous choisissez de restaurer à la fois les sons d'incantation et les effets spéciaux, les sorts comme Cantique bénéficieront de sons spéciaux, comme dans BG1, plutôt que les sons d'incantation conventionnels pour leur école. Si vous ne sélectionnez que les sons d'incantation, cette restauration n'aura pas lieu.|Bien qu'il ait été conçu pour être installé sur Tutu, ce mod fonctionne en fait avec n'importe quelle version de BG2. Cependant, préférez-lui l'excellent [[551]].",
         "urls": [
-            "https://www.pocketplane.net/bg1Tutu/"
+            "https://www.pocketplane.net/bg1Tutu/",
+            "https://forums.pocketplane.net/index.php?topic=16746.0"
         ],
         "categories": [
             "Patch non officiel"
@@ -36780,7 +36780,6 @@
         "description": "Ce mod installe le marchand nain Kurtz Goldenaxe à l'extérieur de Brasamical. Il vend des armures colorées et de nouvelles armures magiques et très chères.",
         "urls": [
             "https://forums.beamdog.com/discussion/13314/",
-            "https://www.gibberlings3.net/forums/topic/28534-team-bg-armor-and-weapons-pack-support",
             "https://america.iegmc.com/com/BGeeARv105.rar"
         ],
         "categories": [
@@ -36816,7 +36815,6 @@
         "description": "Ce mod installe le marchand nain Maltz à l'extérieur de Brasamical. Il vend des armes colorées, dont certaines de BG2, et de nouvelles armures magiques et très chères.",
         "urls": [
             "https://forums.beamdog.com/discussion/14154/",
-            "https://www.gibberlings3.net/forums/topic/28534-team-bg-armor-and-weapons-pack-support",
             "https://america.iegmc.com/com/BGeeWv105.rar"
         ],
         "categories": [
@@ -38181,7 +38179,7 @@
         "name": "The Lure of the Sirine's Call",
         "description": "Ce mini-mod a pour cadre la zone au sud de Château-Suif et complète la quête de Sil et du phare abandonné sur la Côte des Épées. Il implique des sirènes (comme son nom l'indique), des pirates, des grottes remplies de trésors et d'autres nombreux périls. Bien que parfaite pour un druide, cette quête peut être jouée par toutes les classes sans perdre de contenu.",
         "urls": [
-            "https://www.pocketplane.net/bg1tutu-enhancements/",
+            "https://forums.pocketplane.net/index.php?topic=17901.0",
             "https://baldurs-gate.de/index.php?threads/44510/",
             "https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call"
         ],
@@ -43757,7 +43755,7 @@
         "name": "Xan's friendship path for BG1",
         "description": "Ce mod vous permet de vous lier d'amitié avec le célèbre elfe morose. Il comporte seize conversations distinctes, ainsi que cinq dialogues qui surviennent après certains évènements clés.",
         "urls": [
-            "https://www.pocketplane.net/bg1tutu-enhancements/",
+            "https://forums.pocketplane.net/index.php?topic=24286.0",
             "https://github.com/Pocket-Plane-Group/Xan_BG1_Friendship"
         ],
         "categories": [
@@ -47025,7 +47023,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-22",
+        "last_update": "2026-08-12",
         "compatibilities": {},
         "tp2": "A7-WaresOfThePlanes"
     },
@@ -64571,13 +64569,13 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "fr"
         ],
         "status": [
             "hidden",
-            "stable"
+            "beta"
         ],
         "last_update": "2024-02-01",
         "compatibilities": {},
@@ -64604,14 +64602,14 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "fr",
             "en"
         ],
         "status": [
             "hidden",
-            "stable"
+            "beta"
         ],
         "last_update": "2024-05-01",
         "compatibilities": {},
@@ -64740,7 +64738,7 @@
         ],
         "status": [
             "hidden",
-            "stable"
+            "beta"
         ],
         "last_update": "2024-02-01",
         "compatibilities": {},
@@ -64772,7 +64770,7 @@
         ],
         "status": [
             "hidden",
-            "stable"
+            "beta"
         ],
         "last_update": "2024-05-01",
         "compatibilities": {},
@@ -69359,7 +69357,7 @@
             "en"
         ],
         "status": [
-            "stable"
+            "missing"
         ],
         "last_update": "2010-07-23",
         "compatibilities": {},
@@ -69453,7 +69451,7 @@
             "en"
         ],
         "status": [
-            "stable"
+            "missing"
         ],
         "last_update": "2010-07-23",
         "compatibilities": {},
@@ -70107,7 +70105,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-25",
+        "last_update": "2026-08-12",
         "compatibilities": {
             "requires": [
                 "v2.0+"
