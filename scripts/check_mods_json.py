@@ -56,7 +56,7 @@ def check_json(language) -> None:
 
     # check urls
     duplicate_urls_counter = Counter(duplicates(mod_urls))
-    for url, nb_occurence in duplicate_urls_counter.items():
+    for url, nb_occurence in sorted(duplicate_urls_counter.items()):
         print(f"🟡 {language} Url duplicates: {url} → ({nb_occurence + 1})")
         nb_warnings += nb_occurence
 
