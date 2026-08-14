@@ -3111,7 +3111,7 @@
         "name": "Auril's Bane",
         "description": "Cet énorme mod combine les deux anciens mods Project Auril et Winter's Bane. Il ajoute un tas d'objets, de sorts et de créatures, quelques quêtes et de nouvelles fonctionnalités et correctifs.|Évitez son composant `Correction d'IWD par Grog` en faveur de [[522]]. Par ailleurs, le composant principal possède également sa propre version de la quête `la Voix de Durdel Anatha`, ce qui le rend incompatible avec le composant du même nom du mod [[1158]].",
         "urls": [
-            "https://sorcerers.net/community/resources/aurils-bane.530/"
+            "https://sorcerers.net/community/resources/530/"
         ],
         "categories": [
             "Quête",
@@ -6615,7 +6615,7 @@
         "description": "Ce mod est avant tout un hommage à deux illustres membres du défunt forum Boards o' Magick en les immortalisant dans BG2, mais pas que. Il ajoute deux nouveaux personnages, le diablotin Bion et le marchand Taluntain, qui vous permettront d'accéder à des objets auparavant assez quelconques... Vous les trouverez sur la Promenade de Waukyne dans la partie SoA du jeu, et à Amkethran dans la partie ToB.",
         "urls": [
             "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/BoM_Item_pack.rar",
-            "https://sorcerers.net/community/resources/boards-o-magick-item-pack.85/download?version=93"
+            "https://sorcerers.net/community/resources/85"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -19822,7 +19822,7 @@
         "description": "Ishlilka est une tueuse de magiciens nouvellement formée qui est venue dans cette partie de la Côte des Épées pour prouver qu'elle est digne de son père et de sa bande de mercenaires réputés. Noble de cœur, et seule face à un ennemi étrange, elle prend volontiers votre cause en échange de votre aide. Vous la trouverez à l'auberge du Bras amical. Le mod propose une voie de l'amitié, une romance et une quête pour SoD.",
         "urls": [
             "https://forums.beamdog.com/discussion/63679/",
-            "https://sorcerers.net/community/resources/ishlilka-for-bg1-sod-1-3.97/updates",
+            "https://sorcerers.net/community/resources/97",
             "https://github.com/The-Gate-Project/Ishlilka_The-Wizard-Slayer"
         ],
         "categories": [
@@ -56610,7 +56610,7 @@
         "name": "Natural Selection",
         "description": "Ce mod a pour but d'améliorer la classe et les kits du druide et d'en faire une alternative viable à la présence d'un clerc dans votre groupe en y ajoutant de nouveaux sorts. Chaque partie du mod est optionnelle afin de permettre un maximum de flexibilité.",
         "urls": [
-            "https://sorcerers.net/community/threads/new-bg2-mod-overview-natural-selection.24038/",
+            "https://sorcerers.net/community/threads/24038/",
             "https://baldur.cob-bg.pl/download/bg2/tweaks/Natural_Selection.zip"
         ],
         "categories": [
@@ -73533,5 +73533,73 @@
         "last_update": "2008-01-28",
         "compatibilities": {},
         "tp2": "xpertai"
+    },
+    {
+        "id": 2120,
+        "name": "Region of Terror EE",
+        "description": "",
+        "urls": [
+            "https://github.com/RoxanneSHS/RoT"
+        ],
+        "categories": [
+            "Quête",
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Gilgamesh",
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "stable",
+            "hidden"
+        ],
+        "last_update": "2024-02-16",
+        "compatibilities": {},
+        "tp2": "RoTerror"
+    },
+    {
+        "id": 2121,
+        "name": "Icewind Dale II - Special Edition",
+        "description": "Icewind Dale II Édition spéciale, comprenant de nombreuses corrections, modifications et du contenu supplémentaire.",
+        "urls": [
+            "https://sorcerers.net/community/resources/131/",
+            "https://www.nexusmods.com/icewinddale2/mods/4"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "IWD2"
+        ],
+        "authors": [
+            "Ergopad"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2024-11-15",
+        "compatibilities": {
+            "requires": [
+                1216
+            ]
+        },
+        "tp2": "IWD2-SpecialEdition"
     }
 ]
