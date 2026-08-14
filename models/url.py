@@ -17,7 +17,7 @@ class Image:
 
 class HttpUrl(PydHttpUrl):
     domain_to_image: dict[str, DomainImageEnum] = {
-        "artisans-corner.com": DomainImageEnum.ARTISAN,
+        "theartisanbg.github.io": DomainImageEnum.ARTISAN,
         "baldurs-gate.de": DomainImageEnum.BALDURS_GATE,
         "baldursgateworld.fr": DomainImageEnum.CC,
         "anomaly-studios.fr": DomainImageEnum.CC,
