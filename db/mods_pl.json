@@ -227,7 +227,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Adrian Sianodel est un mage demi-elfe loyal mauvais vieux de 33 ans, que vous rencontrerez à la fin du donjon d'Irenicus. Il dispose d'une quête personnelle et romancera les PJs féminins humaines ou demi-elfes sans restriction d'alignement ni de classe. Votre PJ devra toutefois disposer d'un minimum de 12 en charisme. Les mangeurs de feuilles ne sont pas spécialement sa tasse de thé."
+            "source": "Adrian Sianodel est un mage demi-elfe loyal mauvais vieux de 33 ans, que vous rencontrerez à la fin du donjon d'Irenicus. Il dispose d'une quête personnelle et romancera les PJs féminins humaines ou demi-elfes sans restriction d'alignement ni de classe. Votre PJ devra toutefois disposer d'un minimum de 12 en charisme. Les mangeurs de feuilles ne sont pas spécialement sa tasse de thé.|FOR 12, DEX 16, CON 10, INT 17, SAG 16, CHA 14."
         },
         "notes": [],
         "notes_meta": {
@@ -1223,7 +1223,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "La célèbre Aurora du mod [[89]] peut désormais vous rejoindre dans votre quête dans ToB ! Dans ToB, vous pourrez désormais la convoquer dans l'Antichambre afin qu'elle combatte à vos côtés. Aurora est une guerrière éclairée qui joutera avec passion les enfants de Bhaal. Elle ne semble pas regretter d'avoir été rappelée à sa « retraite » pour jouer un rôle plus actif. De nombreuses interjections, des banters et des dialogues avec le PJ sont au programme de la version ToB de ce mod."
+            "source": "La célèbre Aurora du mod [[89]] peut désormais vous rejoindre dans votre quête dans ToB ! Dans ToB, vous pourrez désormais la convoquer dans l'Antichambre afin qu'elle combatte à vos côtés. Aurora est une guerrière éclairée qui joutera avec passion les enfants de Bhaal. Elle ne semble pas regretter d'avoir été rappelée à sa « retraite » pour jouer un rôle plus actif. De nombreuses interjections, des banters et des dialogues avec le PJ sont au programme de la version ToB de ce mod.|FOR 15, DEX 16, CON 15, INT 12, SAG 10, CHA 13."
         },
         "notes": [],
         "notes_meta": {
@@ -7693,7 +7693,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Isra est une paladine, suivante de Sunie Cheveux-de-flamme, que vous pouvez rencontrer dans l'Antre des Sept Vaux sur la Promenade de Waukyne. Vous devrez accomplir quelques quêtes pour pouvoir la recruter - soignez votre réputation pour pouvoir en bénéficier (14 et plus). Isra romancera les PJ bons disposant d'un charisme supérieur à 13, sans restriction de race, de classe ou de sexe. Elle n'intégrera d'ailleurs pas votre groupe si votre PJ est d'alignement mauvais."
+            "source": "Isra est une paladine, suivante de Sunie Cheveux-de-flamme, que vous pouvez rencontrer dans l'Antre des Sept Vaux sur la Promenade de Waukyne. Vous devrez accomplir quelques quêtes pour pouvoir la recruter - soignez votre réputation pour pouvoir en bénéficier (14 et plus). Isra romancera les PJ bons disposant d'un charisme supérieur à 13, sans restriction de race, de classe ou de sexe. Elle n'intégrera d'ailleurs pas votre groupe si votre PJ est d'alignement mauvais.|FOR 16, DEX 12, CON 17, INT 13, SAG 14, CHA 17."
         },
         "notes": [],
         "notes_meta": {
@@ -14959,10 +14959,12 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion.",
-                "Le lien [athkatla](https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507) propose un fix."
+                "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion."
             ]
-        }
+        },
+        "notes_extra": [
+            "Le lien [athkatla](https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507) propose un fix."
+        ]
     },
     {
         "id": 1085,
@@ -28855,6 +28857,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod assure la continuité des caractéristiques des personnages de la trilogie Baldur's Gate Enhanced Edition (EET). La continuité des caractéristiques signifie qu'un personnage aura dans BG2 / ToB les mêmes caractéristiques que celles qu'il possédait à la fin de BG1 / SoD. Par exemple, si vous avez augmenté la force de Minsc dans BG1, cette augmentation sera prise en compte lorsqu'il rejoindra votre groupe dans le donjon d'Irenicus."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2119,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Script personnalisable pour n'importe quel personnage."
         },
         "notes": [],
         "notes_meta": {

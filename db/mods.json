@@ -563,7 +563,7 @@
     {
         "id": 17,
         "name": "Adrian NPC",
-        "description": "Adrian Sianodel est un mage demi-elfe loyal mauvais vieux de 33 ans, que vous rencontrerez à la fin du donjon d'Irenicus. Il dispose d'une quête personnelle et romancera les PJs féminins humaines ou demi-elfes sans restriction d'alignement ni de classe. Votre PJ devra toutefois disposer d'un minimum de 12 en charisme. Les mangeurs de feuilles ne sont pas spécialement sa tasse de thé.",
+        "description": "Adrian Sianodel est un mage demi-elfe loyal mauvais vieux de 33 ans, que vous rencontrerez à la fin du donjon d'Irenicus. Il dispose d'une quête personnelle et romancera les PJs féminins humaines ou demi-elfes sans restriction d'alignement ni de classe. Votre PJ devra toutefois disposer d'un minimum de 12 en charisme. Les mangeurs de feuilles ne sont pas spécialement sa tasse de thé.|FOR 12, DEX 16, CON 10, INT 17, SAG 16, CHA 14.",
         "urls": [
             "https://www.shsforums.net/forum/627-adrian/",
             "https://github.com/Spellhold-Studios/Adrian-NPC"
@@ -593,7 +593,11 @@
             "stable"
         ],
         "last_update": "2023-06-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "adrian"
     },
     {
@@ -3180,7 +3184,7 @@
     {
         "id": 88,
         "name": "Aurora NPC for BG2:TOB",
-        "description": "La célèbre Aurora du mod [[89]] peut désormais vous rejoindre dans votre quête dans ToB ! Dans ToB, vous pourrez désormais la convoquer dans l'Antichambre afin qu'elle combatte à vos côtés. Aurora est une guerrière éclairée qui joutera avec passion les enfants de Bhaal. Elle ne semble pas regretter d'avoir été rappelée à sa « retraite » pour jouer un rôle plus actif. De nombreuses interjections, des banters et des dialogues avec le PJ sont au programme de la version ToB de ce mod.",
+        "description": "La célèbre Aurora du mod [[89]] peut désormais vous rejoindre dans votre quête dans ToB ! Dans ToB, vous pourrez désormais la convoquer dans l'Antichambre afin qu'elle combatte à vos côtés. Aurora est une guerrière éclairée qui joutera avec passion les enfants de Bhaal. Elle ne semble pas regretter d'avoir été rappelée à sa « retraite » pour jouer un rôle plus actif. De nombreuses interjections, des banters et des dialogues avec le PJ sont au programme de la version ToB de ce mod.|FOR 15, DEX 16, CON 15, INT 12, SAG 10, CHA 13.",
         "urls": [
             "https://github.com/Spellhold-Studios/Aurora-NPC/"
         ],
@@ -3192,7 +3196,8 @@
             "BGT"
         ],
         "authors": [
-            "Bookwyrme"
+            "Bookwyrme",
+            "K'aeloree"
         ],
         "team": [],
         "notes": [],
@@ -4837,7 +4842,7 @@
     },
     {
         "id": 134,
-        "name": "Baldurs Gate Trilogie NPC Sound",
+        "name": "Baldurs Gate Trilogy NPC Sound",
         "description": "Le niveau sonore des doublages des personnages diffère entre Baldur's Gate et Baldur's Gate II. Du coup, il est difficile de trouver un réglage qui permettent de bien entendre ceux issus de BG2 sans se faire éclater les tympans par ceux recopiés depuis BG. Ce mod passe au crible tous les sons importés de Baldur's Gate et ajuste leur niveau sonore à celui de Baldur's Gate II.|Conçu à l'origine sur la base du niveau sonore du doublage en allemand, il devrait aussi convenir pour le français.",
         "urls": [
             "https://github.com/Spellhold-Studios/BGT-NPCSound/"
@@ -4846,7 +4851,6 @@
             "Conversion"
         ],
         "games": [
-            "Tutu",
             "BGT"
         ],
         "authors": [
@@ -4949,7 +4953,7 @@
     },
     {
         "id": 137,
-        "name": "BP-Balancer",
+        "name": "Big Picture Balancer",
         "description": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[287]], [[761]], [[1084]], [[1064]].",
         "urls": [
             "https://github.com/Spellhold-Studios/BP-Balancer/"
@@ -6173,7 +6177,11 @@
             "stable"
         ],
         "last_update": "2024-12-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "btl"
     },
     {
@@ -6201,7 +6209,7 @@
             "Vous devez le lancer avant tout autre mod."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "de",
@@ -8189,7 +8197,7 @@
             "https://www.gibberlings3.net/files/file/882-cirerreks-ai-scripts-sequencer-memory/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -8216,7 +8224,7 @@
         ],
         "last_update": "2019-02-02",
         "compatibilities": {},
-        "tp2": "seqmem-v2"
+        "tp2": "seqmem"
     },
     {
         "id": 230,
@@ -9859,7 +9867,11 @@
             "stable"
         ],
         "last_update": "2024-12-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "imnesvale"
     },
     {
@@ -14072,8 +14084,7 @@
             "EET"
         ],
         "authors": [
-            "berelinde",
-            "jastey"
+            "berelinde"
         ],
         "team": [],
         "notes": [],
@@ -14223,7 +14234,8 @@
             "BG2EE"
         ],
         "authors": [
-            "Miss Sakaki"
+            "Miss Sakaki",
+            "Feuille"
         ],
         "team": [],
         "notes": [],
@@ -14593,8 +14605,7 @@
             "EET"
         ],
         "authors": [
-            "Yovaneth",
-            "abg1"
+            "Yovaneth"
         ],
         "team": [],
         "notes": [],
@@ -14609,7 +14620,11 @@
             "stable"
         ],
         "last_update": "2025-05-21",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "FishingForTrouble"
     },
     {
@@ -17725,7 +17740,11 @@
             "stable"
         ],
         "last_update": "2024-12-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "hubelpot"
     },
     {
@@ -17881,8 +17900,7 @@
             "EET"
         ],
         "authors": [
-            "K'aeloree",
-            "Lava Del'Vortel"
+            "K'aeloree"
         ],
         "team": [],
         "notes": [],
@@ -17903,6 +17921,9 @@
         "compatibilities": {
             "conflicts": [
                 155
+            ],
+            "requires": [
+                "ToB version 26498"
             ]
         },
         "tp2": "iepbanters"
@@ -19872,7 +19893,7 @@
     {
         "id": 560,
         "name": "Isra NPC for BGII",
-        "description": "Isra est une paladine, suivante de Sunie Cheveux-de-flamme, que vous pouvez rencontrer dans l'Antre des Sept Vaux sur la Promenade de Waukyne. Vous devrez accomplir quelques quêtes pour pouvoir la recruter - soignez votre réputation pour pouvoir en bénéficier (14 et plus). Isra romancera les PJ bons disposant d'un charisme supérieur à 13, sans restriction de race, de classe ou de sexe. Elle n'intégrera d'ailleurs pas votre groupe si votre PJ est d'alignement mauvais.",
+        "description": "Isra est une paladine, suivante de Sunie Cheveux-de-flamme, que vous pouvez rencontrer dans l'Antre des Sept Vaux sur la Promenade de Waukyne. Vous devrez accomplir quelques quêtes pour pouvoir la recruter - soignez votre réputation pour pouvoir en bénéficier (14 et plus). Isra romancera les PJ bons disposant d'un charisme supérieur à 13, sans restriction de race, de classe ou de sexe. Elle n'intégrera d'ailleurs pas votre groupe si votre PJ est d'alignement mauvais.|FOR 16, DEX 12, CON 17, INT 13, SAG 14, CHA 17.",
         "urls": [
             "https://www.shsforums.net/forum/638-isra/",
             "https://github.com/Spellhold-Studios/Isra-NPC-BG2/"
@@ -20138,8 +20159,7 @@
             "EET"
         ],
         "authors": [
-            "K'aeloree",
-            "jastey"
+            "K'aeloree"
         ],
         "team": [],
         "notes": [],
@@ -26327,8 +26347,7 @@
             "EET"
         ],
         "authors": [
-            "K'aeloree",
-            "jastey"
+            "K'aeloree"
         ],
         "team": [],
         "notes": [],
@@ -26647,8 +26666,7 @@
         "authors": [
             "Deva",
             "K'aeloree",
-            "Rhaella",
-            "Freddy_Gwendo"
+            "Rhaella"
         ],
         "team": [],
         "notes": [],
@@ -26661,7 +26679,11 @@
             "stable"
         ],
         "last_update": "2024-12-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "ninde"
     },
     {
@@ -26902,6 +26924,7 @@
         "games": [
             "BGT",
             "BGEE",
+            "SoD",
             "EET"
         ],
         "authors": [
@@ -30603,9 +30626,7 @@
             "EET"
         ],
         "authors": [
-            "Gilgamesh",
-            "Ikki",
-            "Wiskas"
+            "Gilgamesh"
         ],
         "team": [],
         "notes": [],
@@ -30622,7 +30643,11 @@
             "stable"
         ],
         "last_update": "2024-12-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "RoT"
     },
     {
@@ -31152,7 +31177,11 @@
             "stable"
         ],
         "last_update": "2025-10-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "rtt"
     },
     {
@@ -33180,7 +33209,11 @@
             "stable"
         ],
         "last_update": "2024-12-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "SoS"
     },
     {
@@ -37727,8 +37760,7 @@
         ],
         "games": [
             "BG2",
-            "BGT",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Max Schnur",
@@ -38136,7 +38168,11 @@
             "stable"
         ],
         "last_update": "2024-12-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "jz"
     },
     {
@@ -38251,7 +38287,11 @@
             "stable"
         ],
         "last_update": "2025-04-02",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "luxleysoa"
     },
     {
@@ -38549,8 +38589,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion.",
-            "Le lien [athkatla](https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507) propose un fix."
+            "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -38683,7 +38722,11 @@
             "stable"
         ],
         "last_update": "2024-12-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "snakes"
     },
     {
@@ -41687,8 +41730,7 @@
             "EET"
         ],
         "authors": [
-            "Tempest",
-            "K'aeloree"
+            "Tempest"
         ],
         "team": [],
         "notes": [],
@@ -43909,7 +43951,9 @@
         ],
         "authors": [
             "K'aeloree",
-            "Lava Del'Vortel"
+            "Riviera",
+            "Bookwyrme",
+            "berelinde"
         ],
         "team": [],
         "notes": [],
@@ -44013,9 +44057,7 @@
         "authors": [
             "Pixel Kaiser",
             "K'aeloree",
-            "AionZ",
-            "Lava Del'Vortel",
-            "Freddy_Gwendo"
+            "Lava Del'Vortel"
         ],
         "team": [],
         "notes": [],
@@ -44028,7 +44070,11 @@
             "stable"
         ],
         "last_update": "2024-12-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "yeslicknpc"
     },
     {
@@ -45557,8 +45603,7 @@
             "EET"
         ],
         "authors": [
-            "berelinde",
-            "Freddy_Gwendo"
+            "berelinde"
         ],
         "team": [],
         "notes": [],
@@ -46106,7 +46151,8 @@
         "last_update": "2023-12-06",
         "compatibilities": {
             "requires": [
-                74
+                74,
+                "ToB version 26498"
             ],
             "conflicts": [
                 863
@@ -52892,12 +52938,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
         "status": [
-            "stable"
+            "beta"
         ],
         "last_update": "2025-09-18",
         "compatibilities": {},
@@ -73481,5 +73527,33 @@
         "last_update": "2025-01-14",
         "compatibilities": {},
         "tp2": "eet_stat_continuity"
+    },
+    {
+        "id": 2119,
+        "name": "XpertAI",
+        "description": "Script personnalisable pour n'importe quel personnage.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/17988-xpertai/"
+        ],
+        "categories": [
+            "Script et tactique"
+        ],
+        "games": [
+            "IWD"
+        ],
+        "authors": [
+            "Ivann Alverado"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-01-28",
+        "compatibilities": {},
+        "tp2": "xpertai"
     }
 ]
