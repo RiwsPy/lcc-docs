@@ -75,7 +75,7 @@ def current_language() -> str:
 
 
 TEMPLATE_TRANSLATIONS = {
-    "title": _g("Liste des mods pour IE - La Couronne de Cuivre"),
+    "title": _g("Liste des mods pour BG - La Couronne de Cuivre"),
     "mod": _g("Mod"),
     "home": _g("Accueil"),
     "compatibilities": _g("Compatibilités"),
