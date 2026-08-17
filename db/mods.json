@@ -2699,6 +2699,7 @@
         "urls": [
             "https://athkatla.cob-bg.pl/viewtopic.php?t=6982",
             "https://www.shsforums.net/topic/59654-mod-ashar-npc/",
+            "https://www.gibberlings3.net/forums/topic/29185-npc-mod-ashar/",
             "https://forums.beamdog.com/discussion/68262/",
             "https://www.nexusmods.com/baldursgate2ee/mods/37/"
         ],
@@ -3338,6 +3339,7 @@
         "description": "AutoDescription est un mod, pour BG2, BGT, BGEE, BG2EE et EET, développé sur La Couronne de Cuivre, qui génère et remplace automatiquement la description \"technique\" des objets et des sortilèges.||Cela comporte plusieurs avantages:|- Les descriptions sont normalisées, ce qui les rend plus facile à lire- La description s'adapte aux éventuelles modifications réalisées par les mods et les harmonise avec le reste du jeu- En comparant les descriptions avant/après, on peut détecter d'éventuels bugs, erreurs ou incompatibilités entre mods et sur le jeu de base.- Si des mods non-traduits sont installés, les statistiques des objets de ces mods seront automatiquement traduites et harmonisées.||À l'origine, ce mod a été pensé pour être utilisé par les joueurs, en étant installé après tous les mods ajoutant ou altérant des objets.En effet, AutoDescription s'adapte à tous les mods installés par l'utilisateur, si les capacités de certains objets sont altérées, celles-ci seront mises à jour afin que leur description corresponde à la réalité et dans votre langue d'origine.||[En pratique, il s'avère qu'AutoDescription peut aussi être utilisé dans le développement de mods, à divers niveaux...](https://github.com/Selphira/AutoDescription/blob/master/readme.md)||Côté traducteurs, il permet de traduire automatiquement les statistiques contenues dans les descriptions de la plupart des objets, évitant ainsi une tâche souvent pénible et redondante.||Côté développeurs, il peut mettre en évidence certains problèmes, incohérences ou bugs dans les objets en traduisant les effets avec fiabilité. A cet effet, quelques erreurs et avertissements sont remontés dans un fichier de log. Le mod n'étant pas destiné à cela à la base, la liste des erreurs remontées par ce biais est encore faible, mais elle s'étoffera au fil du temps.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33168",
+            "https://www.gibberlings3.net/forums/topic/36297-autodescription/",
             "https://github.com/Selphira/AutoDescription"
         ],
         "categories": [
@@ -3445,6 +3447,7 @@
         "description": "Ayden est avant tout un mod PNJ, mais il est livré avec un ensemble de composants supplémentaires :|- Profil de Warlock pour la classe des voleurs, basée sur la classe Warlock de la troisième édition de D&D. |- Ayden NPC : un PNJ recrutable avec ses propres dialogues, badinages et quêtes.|- Marche dans l'ombre : une capacité permettant de réduire la vitesse de déplacement.|- L'abri d'Ayden : un plan de poche où le groupe peut se reposer et stocker des objets.|- Création d'objets : un système simple de création d'objets, sous forme de dialogue avec le PNJ.|- Baguettes pour les voleurs : permet l'utilisation des baguettes pour tous les profils de voleur.|- Compétences des voleurs : tous les profils de voleurs peuvent utiliser des masses et des lances.",
         "urls": [
             "https://keneth-dev.github.io/bgee-ayden/",
+            "https://www.gibberlings3.net/forums/topic/34019-v2619-ayden-project-bgee-bgsod/",
             "https://forums.beamdog.com/discussion/82847/"
         ],
         "categories": [
@@ -4457,6 +4460,7 @@
         "name": "BG2EE AI Denoised Areas",
         "description": "Ce mod améliore grandement la qualité graphique des zones du jeu. L'auteur a soumis toutes les cartes du jeu (les fichiers images) à une IA d'amélioration graphique, pour un résultat plus vibrant et bien plus net, en particulier lors de l'utilisation du zoom (Des images de comparaison sont disponibles sur la page GitHub ou dans le fil de discussion du mod sur les forums Beamdog).",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/35513-beta-ee-ai-denoised-areas/",
             "https://forums.beamdog.com/discussion/83893/",
             "https://github.com/WillScarlettOhara/BG2EE_AI_Denoised_Areas"
         ],
@@ -9915,7 +9919,8 @@
         "name": "D2 Weapon",
         "description": "Ce mod ajoute un pack de 15 armes dont beaucoup s'inspirent librement des jeux Dark Souls de FromSoft. Vous pourrez les acheter dans diverses échoppes du jeu. Certaines sont équilibrées, d'autres disposent d'avantages et d'inconvénients très extrêmes qui les distinguent des armes des jeux de base.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/33091-d2-weapon-a-souls-inspired-weapon-pack-a-mod-for-bgee-bg2ee-and-iwdee/",
+            "https://www.gibberlings3.net/forums/topic/33091-d2-weapon-v32-souls-inspired-weapon-pack-bgeebg2eeiwdeepsteeeet/",
+            "https://forums.beamdog.com/discussion/82719/",
             "https://github.com/D2-mods/D2-Weapon/"
         ],
         "categories": [
@@ -10645,7 +10650,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-07",
+        "last_update": "2026-08-09",
         "compatibilities": {},
         "tp2": "delainy"
     },
@@ -12076,6 +12081,7 @@
         "name": "Dusk NPC for BGII",
         "description": "Ce mod propose un nouveau PNJ : Dusk, le tueur de sorciers. Ardusk Aldant, également connu sous le nom de Dusk, est un guerrier du Cormyr, formé dans l'Ordre des Dragons Pourpres. Après un long voyage jusqu'à Athkatla, Dusk est devenu un notable tueur de sorciers qui ne demande qu'à vivre en paix. Mais un sombre personnage attaque la paisible promenade de Waukyne.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/36621-npc-mod-dusk-aldant-the-wizard-slayer/",
             "https://forums.beamdog.com/discussion/87246/",
             "https://github.com/RamosPabloA/NPC_Dusk_MOD"
         ],
@@ -13510,6 +13516,7 @@
         "name": "Eternal Imoen",
         "description": "Dans BG2, l'Imoen avec lequel vous commencez à jouer dans le donjon d'Irenicus n'est pas l'Imoen que vous retrouvez dans Spellhold. C'est très ennuyeux. Ce mod transporte l'Imoen du début dans Spellhold avec une mise à niveau de ses XP lors de la réintégration.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/27713-eternal-imoen/",
             "http://forums.blackwyrmlair.net/index.php?showtopic=5272"
         ],
         "categories": [
@@ -13533,7 +13540,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2016-05-01",
+        "last_update": "2015-12-28",
         "compatibilities": {},
         "tp2": "EternalImoen"
     },
@@ -17618,9 +17625,7 @@
             "Seifer"
         ],
         "team": [],
-        "notes": [
-            "Choisissez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -18197,7 +18202,7 @@
         "name": "Icewind Dale II Bonus Merchant",
         "description": "Ce mod ajoute un nouveau marchand dans IWD2. Il s'agit de Ribald Barterman qui vend plusieurs objets extraits de BG2. Vous le trouverez à Targos (poste de commerce Galaway) et à Kuldahar (forgeron Conway).|Vous pourrez ainsi vous procurer des armes très bourrines, à des prix très élevés : Le fléau de l'éternité, la lame de lune de Solaufein, l'Égaliseur, l'armure de Jan, celle de Keldorn, celle de Valygar, le katana de Valygar, l'arc court de Gesen, l'épée courte d'Arvoreen, etc. Tout ça disponible dans IWD2, adapté aux règles D&D3.",
         "urls": [
-            "https://weidu.org/iwd2.html",
+            "https://weidu.org/iwd2.html#merchant",
             "https://github.com/Pocket-Plane-Group/iwd2_bonus_merchant"
         ],
         "categories": [
@@ -19811,7 +19816,7 @@
             "stable",
             "embed"
         ],
-        "last_update": "2014-12-20",
+        "last_update": "2014-08-02",
         "compatibilities": {},
         "embedded_in": 831,
         "tp2": "isandir"
@@ -19821,6 +19826,7 @@
         "name": "Ishlilka the Wizard Slayer",
         "description": "Ishlilka est une tueuse de magiciens nouvellement formée qui est venue dans cette partie de la Côte des Épées pour prouver qu'elle est digne de son père et de sa bande de mercenaires réputés. Noble de cœur, et seule face à un ennemi étrange, elle prend volontiers votre cause en échange de votre aide. Vous la trouverez à l'auberge du Bras amical. Le mod propose une voie de l'amitié, une romance et une quête pour SoD.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/28634-ishlilka-for-bg1-sod-alpha-release/",
             "https://forums.beamdog.com/discussion/63679/",
             "https://sorcerers.net/community/resources/97",
             "https://github.com/The-Gate-Project/Ishlilka_The-Wizard-Slayer"
@@ -21438,6 +21444,7 @@
         "urls": [
             "https://akadis.baldursgateworld.fr/Kim/KimEn.html",
             "https://www.baldursgateworld.fr/viewforum.php?f=344",
+            "https://www.gibberlings3.net/forums/topic/16810-kim-bg2-npc-mod/",
             "https://github.com/11jo/Kim_NPC"
         ],
         "categories": [
@@ -21882,7 +21889,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-03",
+        "last_update": "2026-08-05",
         "compatibilities": {},
         "tp2": "derats_magasin_2"
     },
@@ -22765,7 +22772,7 @@
         "name": "Light of Selune",
         "description": "En plus d'apporter de nombreux nouveaux objets (environ 145) et 4 nouveaux marchands (deux à Targos, un dans le Village itinérant et un à Kuldahar), le mod met à jour les classes du rôdeur et du barde afin de les faire correspondre à l'édition 3.5 des règles AD&D (utilisées pour IWD2), améliore la quasi totalité des armures et des boucliers originaux, de même qu'il corrige la prise en charge des dégâts des arcs et ajoute un pré-requis de Force pour pouvoir les utiliser. Les pièges enfin ont été améliorés afin d'être plus coriaces et plus pernicieux (augmentation des dégâts).",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?t=31236"
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/LightOfSelune.zip"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -22781,13 +22788,12 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en",
-            "fr"
+            "en"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2018-05-01",
+        "last_update": "2009-12-01",
         "compatibilities": {},
         "tp2": "LOS"
     },
@@ -24355,9 +24361,10 @@
     },
     {
         "id": 689,
-        "name": "Custom dll Fixes And Tweaks",
-        "description": "Ce mod apporte des modifications de règles à IWD2 : les paladins de Mystra peuvent se multi-classer en mage et sorcier, les paladins de Helm en Clerc de Helm, les moines peuvent porter des robes et conserver leur bonus de sagesse à la CA, les codes de triches sont implantés, possibilité de sauvegarder les points de compétence entre plusieurs montées de niveau... Pour plus d'information, lire [ceci](https://sorcerers.net/community/threads/bug-fixing.26533/).|Vous pouvez personnaliser l'installation en modifiant les paramètres du fichier config.txt.",
+        "name": "Custom dll Fixes & Changes",
+        "description": "Ce mod apporte des modifications de règles à IWD2 : les paladins de Mystra peuvent se multi-classer en mage et sorcier, les paladins de Helm en Clerc de Helm, les moines peuvent porter des robes et conserver leur bonus de sagesse à la CA, les codes de triches sont implantés, possibilité de sauvegarder les points de compétence entre plusieurs montées de niveau...|Vous pouvez personnaliser l'installation en modifiant les paramètres du fichier config.txt.",
         "urls": [
+            "https://sorcerers.net/community/threads/26533/",
             "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/IWD2Custom.rar"
         ],
         "categories": [
@@ -24584,6 +24591,7 @@
         "name": "D2 Misc kits",
         "description": "Mod contenant 3 kits :||- Kensaizerker (Kit de guerrier) - EE et BG2o|- Adepte de l'épée (Kit de moine) - EE uniquement|- Bouffon cinglant (Kit de barde) - EE et BG2o||Fichier \"config.ini\" présent dans le répertoire du mod :|Mettez la valeur d'un kit à = 0 pour ne pas l'installer",
         "urls": [
+            "https://forums.beamdog.com/discussion/86615/",
             "https://github.com/D2-mods/Misc-kits"
         ],
         "categories": [
@@ -24603,20 +24611,20 @@
             "Dan_P"
         ],
         "team": [],
-        "notes": [
-            "Fait parti d'un kitpack plus important : [[1097]]"
-        ],
+        "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "fr"
         ],
         "status": [
-            "stable"
+            "stable",
+            "embed"
         ],
         "last_update": "2025-07-29",
         "compatibilities": {},
+        "embedded_in": 1097,
         "tp2": "d2-randomkits"
     },
     {
@@ -25875,7 +25883,7 @@
         "name": "NPCs Enhanced... um, for Everyone!",
         "description": "Ce mod se veut le successeur du fantastique mod [[638]] qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[314]], [[976]], ou encore [[922]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que L1NPCs, mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier).",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/27526-npc_ee-new-class-and-kit-options-for-bgee-and-bg2ee-npcs/",
+            "https://www.gibberlings3.net/forums/topic/27526-subtlemods-npc_ee-in-game-customization-for-npcs/",
             "https://forums.beamdog.com/discussion/43305/",
             "https://github.com/UnearthedArcana/NPC_EE/"
         ],
@@ -26494,7 +26502,7 @@
     },
     {
         "id": 749,
-        "name": "New travel system between Baldur's Gate City areas",
+        "name": "BG Travel Mod",
         "description": "Ce mini mod modifie le système de déplacement dans la ville de La Porte de Baldur et entre les deux parties de l'île de Balduran, en remplaçant l'utilisation de la carte du monde par des accès intégrés à chaque zone (comme celles à l'intérieur de donjons ou de bâtiments). La nouvelle façon de voyager est plus naturelle. Le groupe sort d'une zone pour apparaître à un endroit parallèle du lieu le plus proche, et pas toujours sur le même point d'entrée fixe qu'auparavant. L'autre avantage de ce système est l'accès à deux petites zones de La Porte de Baldur, qui étaient autrement inaccessibles (un composant optionnel permet de n'installer que le déplacement pour ces deux zones).|Le voyage s'effectue instantanément, sans l'utilisation de la carte principale, et le groupe ne peut aller que dans un endroit limitrophe. Par exemple, si vous voulez aller de la taverne du Chant de l'Elfe à la Salle des merveilles, vous devez traverser toutes les zones entre les sections est et ouest de la ville, en passant par la porte intérieure de la ville. La carte principale n'apparaît que si vous passez par la porte est de la ville.|ASTUCE : La route à travers les égouts peut considérablement accélérer les déplacements dans La Porte de Baldur.",
         "urls": [
             "https://athkatla.cob-bg.pl/viewtopic.php?t=5135",
@@ -31724,7 +31732,7 @@
         "name": "RoorenArt's Portrait Pack",
         "description": "Il s'agit d'une collection de 47 portraits pour les PNJ de Baldur's Gate et de Baldur's Gate II, éditions originales et améliorées, dont un portrait alternatif pour Edwin quand il est maudit. Vous pouvez voir un aperçu de ces portraits sur DeviantArt. Un composant permet de les installer comme portraits de joueur sur n'importe quel jeu Infinity Engine (sauf PsT et PsT:EE). Ces portraits ont été créés par RoorenArt. Vous pouvez suivre son travail sur [DeviantArt](https://www.deviantart.com/roorenart) ou sur son site [roorenart.com](https://roorenart.com/), où elle accepte également des commandes.",
         "urls": [
-            "https://www.gibberlings3.net/mods/other/portraitpacks/",
+            "https://www.gibberlings3.net/files/file/1029-roorenarts-portrait-pack/",
             "https://github.com/Gibberlings3/roorenart_bg2"
         ],
         "categories": [
@@ -35116,6 +35124,7 @@
         "description": "Ce mod permet de jouer un nouveau profil de personnage, un chaman métamorphe, le porteur d'esprit, qui entretient un lien plus étroit et plus personnel avec un petit nombre choisi, mais puissants, d'esprits animaux. Quand ils fait appel à ces esprits pendant sa Danse chamanique, il ne leur demande pas de se battre pour eux, mais les invite à intégrer son propre corps pour l'aider à se métamorphoser directement dans la forme de l'esprit animal choisi (yack, tigre et grue).",
         "urls": [
             "https://www.shsforums.net/topic/59433-mod-spiritwalker-a-shaman-shapeshifter-kit/",
+            "https://www.gibberlings3.net/forums/topic/28977-mod-spiritwalker-a-shaman-shapeshifter-kit-for-bgeesodbg2eeeet/",
             "https://github.com/thisisulb/SpiritwalkerKit"
         ],
         "categories": [
@@ -36706,7 +36715,8 @@
         "name": "Tchos' Planescape: Torment portrait replacement mod",
         "description": "Ce mod remplace les portraits de personnages en 3D dans le jeu par des portraits de haute qualité peints à la main, comme ceux des autres jeux du moteur Infinity Engine, comme Baldur's Gate et Icewind Dale. Ces remplacements se font là où ils apparaissent dans la section PC/PNC du journal, dans les écrans de statistiques et dans les paperdolls d'inventaire. Idéalement, les futures versions de ce mod incluront des remplacements pour les portraits en bas de l'écran de jeu, ainsi que des remplacements pour le reste des membres du groupe recrutables, et peut-être des PNJ plus généraux.",
         "urls": [
-            "https://tchosgames.blogspot.com/2011/04/planescape-torment-portrait-mod.html"
+            "https://tchosgames.blogspot.com/2011/04/planescape-torment-portrait-mod.html",
+            "https://www.gibberlings3.net/forums/topic/22197-release-tchos-planescape-torment-portrait-replacement-mod/"
         ],
         "categories": [
             "Cosmétique"
@@ -42959,10 +42969,10 @@
     },
     {
         "id": 1209,
-        "name": "Weimar's Undead Targos",
+        "name": "Undead Targos Mod",
         "description": "Targos est à présent envahie par des morts-vivants et quelques gobelins. Dur, mais passionnant (il faut le faire au niveau 1, ou alors commencer une nouvelle partie en mode Heart of Fury). Ce mod rajoute également de la difficulté dans le combat contre Torak, le leader du clan de la truc tordue, car il est accompagné de nouveaux compagnons...",
         "urls": [
-            "https://weidu.org/iwd2.html"
+            "https://weidu.org/iwd2.html#targos"
         ],
         "categories": [
             "Script et tactique"
@@ -45320,6 +45330,7 @@
         "name": "Caster Crafting",
         "description": "Un mod meta qui permet entre autre de copier des sorts entre livre de mage, écrire des parchemins ou préparer des potions. Lisez la documentation pour en savoir plus.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/37726-beta-caster-crafting/",
             "https://github.com/BardezAnAvatar/BGEE-Caster-Crafting"
         ],
         "categories": [
@@ -46272,6 +46283,7 @@
         "description": "Version améliorée du mod original de Coutelier, ce mod ajoute du contenu pour Aerie :|- quelques rencontres sans prétention avec des PNJ.|- Aerie peut obtenir son propre familier.|- une voie de l'amitié alternative à la romance, aussi disponible pour les joueurs non éligibles pour la romance.|- de nouvelles interactions avec les autres PNJ, notamment avec Imoen.|- un nouveau portrait et une nouvelle coloration de sa peau et de ses cheveux.|- une quête spécifique pour Aerie et une mini quête pour Minsc.|La quête principale commence après que vous ayez libéré Hendak et qu'il ait repris la gestion de la Couronne de Cuivre.",
         "urls": [
             "https://skitias-stories.com/mods-view.php?name=Wings",
+            "https://www.gibberlings3.net/forums/topic/33427-wings/",
             "https://forums.beamdog.com/discussion/83120/",
             "https://github.com/Skitia/Wings"
         ],
@@ -46391,6 +46403,7 @@
         "name": "Isaac's missile storm",
         "description": "Ce mod ajoute la série de sorts \"Tempête de projectiles d'Isaac\".",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/37115-isaacs-missile-storm-v08/",
             "https://github.com/shohysie/Isaac-s_Missile_Storm"
         ],
         "categories": [
@@ -46846,9 +46859,11 @@
     },
     {
         "id": 1317,
-        "name": "IEEE-Halforc-Voice-Classic-",
+        "name": "IEEE Halforc Voice Classic",
         "description": "Il s'agit d'une voix personnalisée pour un personnage joueur. La voix est celle d'un demi-orc classique (Fan-Fiction).",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/38457-voice-mod-ieee-halforc-voice-classic/",
+            "https://forums.beamdog.com/discussion/88582/",
             "https://github.com/Incrementis/IEEE-Halforc-Voice-Classic-"
         ],
         "categories": [
@@ -46883,6 +46898,8 @@
         "name": "IEEE-Dwarven-Voice-Classic-",
         "description": "Il s'agit d'une voix personnalisée pour un personnage joueur. La voix est celle d'un nain classique (Fan-Fiction).",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/38284-voice-mod-ieee-dwarven-voice-classic/",
+            "https://forums.beamdog.com/discussion/88512/",
             "https://github.com/Incrementis/IEEE-Dwarven-Voice-Classic-"
         ],
         "categories": [
@@ -49099,7 +49116,7 @@
         "name": "Viconia Romance Expanded",
         "description": "Viconia Romance Expanded est le premier d'une série de mods qui étendent soigneusement les romances originales de BG2. Ce mod permet de créer des romances pour toutes les races et tous les sexes, et propose un chemin de romance unique pour les noms de personnages féminins.  Apprenez comment la société drow traite les relations entre personnes du même sexe, surmontez de nouveaux obstacles relationnels et tombez amoureux à nouveau !",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/37854-v106-viconia-romance-expanded-for-bg2ee-phaere-expanded/",
+            "https://www.gibberlings3.net/forums/topic/37854-v107-viconia-romance-expanded-for-bg2ee-phaere-expanded/",
             "https://forums.beamdog.com/discussion/88256/",
             "https://github.com/Otherwisely/BG2-Romance-Expanded"
         ],
@@ -49635,6 +49652,7 @@
         "name": "BGEE Bag Sort",
         "description": "L'objectif de cet outil est de décompresser/parser un fichier de sauvegarde de jeu (.sav), de réorganiser les objets d'un sac de contenance (ressource .sto) et de recompresser le tout dans un fichier de jeu .sav valide.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/33900-bag-sort-mod-to-organize-items-in-a-bag-of-holding-by-category-alphabetize-with-a-non-mod-implementation-i-did-in-link/",
             "https://github.com/ahungry/bgee-bag-sort"
         ],
         "categories": [
@@ -49733,6 +49751,7 @@
         "name": "Random Graion Magic",
         "description": "Ce mod propose diverses améliorations des sorts par Graion Dilach pour les jeux sur l'Infinity Engine.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/36797-random-graion-magic/",
             "https://github.com/GraionDilach/RandomGraionMagic"
         ],
         "categories": [
@@ -49987,7 +50006,9 @@
         "id": 1406,
         "name": "Improved Monk",
         "description": "Ce mod propose d'améliorer les moines kittés ou non (avec choix de composant). Il gagne de nouvelles compétences au fil des niveaux comme la capacité de soigner, d'utiliser Poussière scintillante ou Grande Malédiction, de devenir invisible… À haut niveau, ce moine peut apprendre et utiliser les compétences de Balthazar.",
-        "urls": [],
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38590-improvedmonk-balthazar-mode-armed-monk/"
+        ],
         "categories": [
             "Kit"
         ],
@@ -50452,7 +50473,9 @@
         "id": 1420,
         "name": "Shaman Hauler",
         "description": "Dans Baldur's Gate, les Shamans ne peuvent pas se déplacer en dansant, et il n'y a pas de bête de somme dans le jeu qui puisse les porter. En revanche, rien n'interdit de les faire porter par des coéquipiers. Pour cela, le Shaman a accès a une nouvelle capacité qui autorise un de ses coéquipiers de porter le Shaman. Celui-ci se voit à son tour offrir une nouvelle capacité lui permettant de déposer le Shaman. Certaines conditions doivent être respectées comme la force du coéquipier, sa proximité etc",
-        "urls": [],
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/37114-shaman-hauler/"
+        ],
         "categories": [
             "Gameplay"
         ],
@@ -53241,6 +53264,7 @@
         "name": "Embed portraits",
         "description": "Permet de remplacer les portraits qui apparaissent sur l'écran de création de personnage par des portraits personnalisés, tout en conservant la division des sexes.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/34846-portraits-embedder/",
             "https://github.com/m-architek/PortraitsEmbedder"
         ],
         "categories": [
@@ -61679,7 +61703,7 @@
         "name": "Icewind Dale II Ease of Use Mod",
         "description": "Il s'agit d'une collection de mods utiles dans IWD2 assemblés par Wes Weimer.",
         "urls": [
-            "https://weidu.org/iwd2.html",
+            "https://weidu.org/iwd2.html#iwd2-ease",
             "https://github.com/Pocket-Plane-Group/iwd2_ease_of_use/"
         ],
         "categories": [
@@ -62164,6 +62188,7 @@
         "name": "Voices Voices Extravaganza SOD - AI dialog voiceovers",
         "description": "Mod Weidu qui ajoute des voix off en anglais générées par l'IA pour tous les personnages de SoD.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/39790-sod-voices-voices-extravaganza-sod-ai-dialog-voiceovers/",
             "https://forums.beamdog.com/discussion/89385/",
             "https://www.nexusmods.com/baldursgate/mods/98/",
             "https://github.com/ColossusChang/VoicesVoicesExtravaganza-SOD/"
@@ -64066,6 +64091,7 @@
         "name": "Tutoril's Historical Encyclopedias",
         "description": "Ce mod est une fanfiction ! Il contient des encyclopédies de séries de livres d'histoire du jeu afin d'éviter d'avoir à rechercher les parties du livre d'histoire. De plus, les encyclopédies disposent d'une « séquence de lecture » (comme pour un rêve ou le début d'un chapitre) qui accompagne le texte avec une musique et une voix.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/39496-item-mod-tutorils-historical-encyclopedias/",
             "https://forums.beamdog.com/discussion/89334/",
             "https://github.com/Incrementis/Tutorils-Historical-Encyclopedias-"
         ],
@@ -68316,6 +68342,7 @@
         "name": "Enhanced Widescreen",
         "description": "Enhanced Widescreen vise à remplacer le mod original [[1216]] pour certains jeux Infinity Engine.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/39349-mod-enhanced-widescreen-v103/",
             "https://github.com/Bubb13/EnhancedWidescreen/"
         ],
         "categories": [
@@ -68651,14 +68678,13 @@
             "https://www.nexusmods.com/baldursgate/mods/12/"
         ],
         "categories": [
-            "Sort et objet"
+            "Cosmétique"
         ],
         "games": [
-            "BGEE",
-            "BG2EE"
+            "BGEE"
         ],
         "authors": [
-            "spyrowawelski"
+            "Ian"
         ],
         "team": [],
         "notes": [],
@@ -69174,6 +69200,7 @@
         "name": "BGPartner",
         "description": "BGPartner affiche des superpositions sur les créatures sélectionnées par l'utilisateur, détaillant leurs caractéristiques et leurs effets actifs.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/39363-bgpartner-released/",
             "https://forums.beamdog.com/discussion/89270/",
             "https://github.com/gatperdut/bg-partner"
         ],
@@ -73667,5 +73694,96 @@
         "last_update": "2026-07-15",
         "compatibilities": {},
         "tp2": "DeathSell"
+    },
+    {
+        "id": 2124,
+        "name": "Color Studded Armors",
+        "description": "17 variantes de couleurs d'armures de besantines sont disponibles à l'auberge de Feldepost.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/18"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Ian"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2021-06-27",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2125,
+        "name": "Eric's BG1 Portrait Pack",
+        "description": "Un pack de portraits dessinés à la main.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38959-erics-bg1-portrait-pack/",
+            "https://www.nexusmods.com/baldursgate/mods/85"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Eric"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2024-12-08",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2126,
+        "name": "The Butcher animation",
+        "description": "Ce fichier contient l'animation de Butcher issue de Heroes of the Storm, certains de ses fichiers audio ainsi qu'un programme d'installation général permettant de les intégrer au jeu. Ce mod ne contient aucun contenu jouable ; il s'agit simplement d'une ressource de modding.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/28941-modresource-the-butcher-hots-animation-for-ees-classic/",
+            "https://github.com/thisisulb/ModResource_ButcherAnimation"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Ulb"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2017-08-12",
+        "compatibilities": {},
+        "tp2": "BUTCHERANIMATION"
     }
 ]

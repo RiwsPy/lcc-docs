@@ -6822,10 +6822,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Choisissez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -9456,7 +9454,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod apporte des modifications de règles à IWD2 : les paladins de Mystra peuvent se multi-classer en mage et sorcier, les paladins de Helm en Clerc de Helm, les moines peuvent porter des robes et conserver leur bonus de sagesse à la CA, les codes de triches sont implantés, possibilité de sauvegarder les points de compétence entre plusieurs montées de niveau... Pour plus d'information, lire [ceci](https://sorcerers.net/community/threads/bug-fixing.26533/).|Vous pouvez personnaliser l'installation en modifiant les paramètres du fichier config.txt."
+            "source": "Ce mod apporte des modifications de règles à IWD2 : les paladins de Mystra peuvent se multi-classer en mage et sorcier, les paladins de Helm en Clerc de Helm, les moines peuvent porter des robes et conserver leur bonus de sagesse à la CA, les codes de triches sont implantés, possibilité de sauvegarder les points de compétence entre plusieurs montées de niveau...|Vous pouvez personnaliser l'installation en modifiant les paramètres du fichier config.txt."
         },
         "notes": [],
         "notes_meta": {
@@ -9553,10 +9551,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Fait parti d'un kitpack plus important : [[1097]]"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -28924,6 +28920,45 @@
         "description_meta": {
             "status": "todo",
             "source": "Deux nouveaux marchands ont rejoint la guilde de Bodhi. Ces commerçants devaient servir à contrebalancer la boutique des Voleurs de l'Ombre."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2124,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "17 variantes de couleurs d'armures de besantines sont disponibles à l'auberge de Feldepost."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2125,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un pack de portraits dessinés à la main."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2126,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce fichier contient l'animation de Butcher issue de Heroes of the Storm, certains de ses fichiers audio ainsi qu'un programme d'installation général permettant de les intégrer au jeu. Ce mod ne contient aucun contenu jouable ; il s'agit simplement d'une ressource de modding."
         },
         "notes": [],
         "notes_meta": {

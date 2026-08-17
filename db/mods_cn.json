@@ -7139,14 +7139,10 @@
             "status": "done",
             "source": "Ce mod ajoute un squelette d'alignement loyal bon en tant que PNJ membre du groupe. Vous pourrez le trouver dans la crypte de Franc-Marché. Il dispose d'un kit spécifique à son état, d'HLA et de sorts en partie issus d'IWD2, ainsi que d'une IA spécifique si vous choisissez de l'activer.|FOR 17, DEX 13, CON 18, INT 13, SAG 16, CHA 9."
         },
-        "notes": [
-            "对于《博德之门Ⅱ》/《博德之门三部曲》版本，请选择shs链接；对于《博德之门Ⅱ增强版》/《增强版三部曲》版本，请使用github链接。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Choisissez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
-            ]
+            "source": []
         }
     },
     {
@@ -9856,8 +9852,8 @@
         "id": 689,
         "description": "此模组为IWD2带来了规则修改和新宗派，适用于战斗者：Mystra的圣武士可以多重职业为法师和术士，Helm的圣武士可以成为Helm的牧师，武僧可以穿长袍并保持其智慧对AC的加值，作弊码已植入，可以在多次升级之间保存技能点……欲了解更多信息，请阅读[这个](https://sorcerers.net/community/threads/bug-fixing.26533/)。|您可以通过修改config.txt文件的设置来自定义安装。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod apporte des modifications de règles à IWD2 : les paladins de Mystra peuvent se multi-classer en mage et sorcier, les paladins de Helm en Clerc de Helm, les moines peuvent porter des robes et conserver leur bonus de sagesse à la CA, les codes de triches sont implantés, possibilité de sauvegarder les points de compétence entre plusieurs montées de niveau... Pour plus d'information, lire [ceci](https://sorcerers.net/community/threads/bug-fixing.26533/).|Vous pouvez personnaliser l'installation en modifiant les paramètres du fichier config.txt."
+            "status": "needs_review",
+            "source": "Ce mod apporte des modifications de règles à IWD2 : les paladins de Mystra peuvent se multi-classer en mage et sorcier, les paladins de Helm en Clerc de Helm, les moines peuvent porter des robes et conserver leur bonus de sagesse à la CA, les codes de triches sont implantés, possibilité de sauvegarder les points de compétence entre plusieurs montées de niveau...|Vous pouvez personnaliser l'installation en modifiant les paramètres du fichier config.txt."
         },
         "notes": [],
         "notes_meta": {
@@ -9954,14 +9950,10 @@
             "status": "done",
             "source": "Mod contenant 3 kits :||- Kensaizerker (Kit de guerrier) - EE et BG2o|- Adepte de l'épée (Kit de moine) - EE uniquement|- Bouffon cinglant (Kit de barde) - EE et BG2o||Fichier \"config.ini\" présent dans le répertoire du mod :|Mettez la valeur d'un kit à = 0 pour ne pas l'installer"
         },
-        "notes": [
-            "属于一个更大的模组包：[[1097]]"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Fait parti d'un kitpack plus important : [[1097]]"
-            ]
+            "source": []
         }
     },
     {
@@ -29944,6 +29936,45 @@
         "description_meta": {
             "status": "todo",
             "source": "Deux nouveaux marchands ont rejoint la guilde de Bodhi. Ces commerçants devaient servir à contrebalancer la boutique des Voleurs de l'Ombre."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2124,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "17 variantes de couleurs d'armures de besantines sont disponibles à l'auberge de Feldepost."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2125,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un pack de portraits dessinés à la main."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2126,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce fichier contient l'animation de Butcher issue de Heroes of the Storm, certains de ses fichiers audio ainsi qu'un programme d'installation général permettant de les intégrer au jeu. Ce mod ne contient aucun contenu jouable ; il s'agit simplement d'une ressource de modding."
         },
         "notes": [],
         "notes_meta": {
