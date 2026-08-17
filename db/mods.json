@@ -73601,5 +73601,71 @@
             ]
         },
         "tp2": "IWD2-SpecialEdition"
+    },
+    {
+        "id": 2122,
+        "name": "Jugglers of Re'Vuost",
+        "description": "Ce mod ajoute une troupe de jongleurs pour animer la foire de Nashkel. Danse orientale, arts martiaux, blagues, funambules, manèges et quelques vers de poésie. Sans oublier des marchandises exotiques et des récits de contrées lointaines.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/82193/",
+            "https://www.nexusmods.com/baldursgate/mods/114"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "Ruffle_truffle"
+        ],
+        "team": [],
+        "notes": [
+            "Le premier lien contient la version originale en polonais, le second la version anglaise."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "pl",
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-02-21",
+        "compatibilities": {},
+        "tp2": "Bateleur"
+    },
+    {
+        "id": 2123,
+        "name": "Death Merchants",
+        "description": "Deux nouveaux marchands ont rejoint la guilde de Bodhi. Ces commerçants devaient servir à contrebalancer la boutique des Voleurs de l'Ombre.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/126"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Issahssaire88"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-07-15",
+        "compatibilities": {},
+        "tp2": "DeathSell"
     }
 ]

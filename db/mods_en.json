@@ -29579,5 +29579,35 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2122,
+        "description": "This mod adds a troupe of Jugglers to enhance the Nashkel Fair. Oriental dancing, martial arts, jokes, tightrope walking, a funfair, and a bit of poetry. Plus, exotic goods and tales of far-flung lands.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod ajoute une troupe de jongleurs pour animer la foire de Nashkel. Danse orientale, arts martiaux, blagues, funambules, manèges et quelques vers de poésie. Sans oublier des marchandises exotiques et des récits de contrées lointaines."
+        },
+        "notes": [
+            "The first link contains the original Polish version; the second contains the English version."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Le premier lien contient la version originale en polonais, le second la version anglaise."
+            ]
+        }
+    },
+    {
+        "id": 2123,
+        "description": "Two new merchants in Bodhi's guild. These traders were likely intended to serve as a counterweight to the Shadow Thieves' shop.",
+        "description_meta": {
+            "status": "done",
+            "source": "Deux nouveaux marchands ont rejoint la guilde de Bodhi. Ces commerçants devaient servir à contrebalancer la boutique des Voleurs de l'Ombre."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]
