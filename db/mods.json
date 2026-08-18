@@ -5983,6 +5983,7 @@
         "name": "Bestial Animations",
         "description": "Ce très vieux mod permettait de contourner la contrainte du moteur du jeu qui disposait d'un nombre limité d'animations de créatures qu'il pouvait utiliser. Il ajoutait donc de nombreuses animations des jeux IWD, IWD2 et BG1 dans BG2. Cependant, sa nature très technique (en gros, il utilisait les armes dont les créatures étaient équipées pour modifier leur apparence) le rend difficile à utiliser.",
         "urls": [
+            "http://forums.blackwyrmlair.net/index.php?showforum=65",
             "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=15"
         ],
         "categories": [
@@ -13217,8 +13218,9 @@
     {
         "id": 371,
         "name": "Enhanced Creatures for BG1Tutu",
-        "description": "Toujours en version alpha, ce mod avait pour ambition de rendre le jeu plus difficile en augmentant les caractéristiques des créatures et en les dotant de scripts intelligents.",
+        "description": "Ce mod a pour ambition de rendre le jeu plus difficile en augmentant les caractéristiques des créatures et en les dotant de scripts intelligents.",
         "urls": [
+            "http://forums.blackwyrmlair.net/index.php?showforum=91",
             "http://dragonshoard.blackwyrmlair.net/download.php"
         ],
         "categories": [
@@ -13236,10 +13238,12 @@
         "safe": 0,
         "languages": [],
         "status": [
-            "beta"
+            "beta",
+            "embed"
         ],
         "last_update": "2005-12-01",
         "compatibilities": {},
+        "embedded_in": 1431,
         "tp2": "Enhanced_Creatures"
     },
     {
@@ -13758,7 +13762,7 @@
     {
         "id": 386,
         "name": "Expanded Classes and Kits",
-        "description": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins : [[1162]], Kensai, Revolutionary.|- Moines : Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage, Demon Summoner.|- Sorciers : [[862]].|- Clercs : Cleric/Druid, Seer, Healer.|- Druides : Seer, Healer.|- Voleurs : [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief, Hedge Wizard.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief|- Rôdeur : Wildhaunt|- Barde : Folkherder.",
+        "description": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [[2128]], [[2129]], [[2127]]|- Paladins : [[1162]], Kensai, Revolutionary|- Moines : Kensai, Stalker, Assassin, [[2129]], [[2127]], Guerrier/Moine|- Mages : [[31]], [[862]], [[2131]], War Mage, Demon Summoner|- Sorciers : [[862]]|- Clercs : Clerc/Druide, Seer, Healer|- Druides : Seer, Healer|- Voleurs : [[1370]], [[1162]], Kensai, [[2130]]|- Clerc/Mage : Druide/Mage, Clerc/Druide/Mage|- Mage/Voleur : Druide/Voleur, Hedge Wizard|- Guerrier/Mage/Voleur : Guerrier/Clerc/Druide/Mage/Voleur|- Rôdeur : Wildhaunt|- Barde : Folkherder",
         "urls": [
             "https://forums.beamdog.com/discussion/77859/"
         ],
@@ -41410,7 +41414,7 @@
         ],
         "status": [
             "obsolete",
-            "archived"
+            "embed"
         ],
         "last_update": "2019-05-18",
         "compatibilities": {},
@@ -73816,5 +73820,185 @@
         "last_update": "2018-12-26",
         "compatibilities": {},
         "tp2": "BUTCHERANIMATION"
+    },
+    {
+        "id": 2127,
+        "name": "Sword Dancer Kit",
+        "description": "À la fois magicien et artiste, le « danseur d'épée » est un guerrier qui utilise ses pouvoirs télékinétiques pour influencer ses mouvements au combat. Ses pouvoirs proviennent moins de sa force physique que de la magie, ce qui lui permet de frapper plus souvent, au prix d'une force réduite à chaque coup. Les danseurs d'épée misent sur la vitesse de leurs armes pour déstabiliser et neutraliser leurs adversaires, et préfèrent utiliser des armes plus légères et plus rapides, plus faciles à manier grâce à la télékinésie.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/75696/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "semiticgoddess"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "embed",
+            "stable"
+        ],
+        "last_update": "2019-12-18",
+        "compatibilities": {},
+        "embedded_in": 386,
+        "tp2": "SwordDancerKit"
+    },
+    {
+        "id": 2128,
+        "name": "Shapeshifter Kit",
+        "description": "Le métamorphe est un personnage qui a volontairement accepté de contracter la lycanthropie, mais qui, grâce à un entraînement intensif, a appris à maîtriser cette malédiction et a acquis la capacité de se transformer en loup-garou.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/69127/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "semiticgoddess"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "embed",
+            "stable"
+        ],
+        "last_update": "2019-02-14",
+        "compatibilities": {},
+        "embedded_in": 386,
+        "tp2": "ShapeshifterFighterKit"
+    },
+    {
+        "id": 2129,
+        "name": "Simplified Psionicist Kit",
+        "description": "Un psionique utilise son esprit pour contrôler et manipuler le monde qui l'entoure. Généralement autodidactes, les psioniques entraînent leur cerveau et affinent leurs pouvoirs latents, acquérant ainsi des capacités qui sont étrangères même aux sorciers et aux prêtres. Un psionique peut faire léviter des objets, créer de l'énergie à partir de rien, et même prendre le contrôle de l'esprit d'autres êtres sensibles d'une simple pensée.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/76756/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "semiticgoddess"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "embed",
+            "stable"
+        ],
+        "last_update": "2019-09-29",
+        "compatibilities": {},
+        "embedded_in": 386,
+        "tp2": "SimplifiedPsionicistKit"
+    },
+    {
+        "id": 2130,
+        "name": "Shapechanger Kit",
+        "description": "On sait peu de choses sur l'origine des pouvoirs d'un métamorphe. Considérés tantôt comme les descendants de doppelgangers, tantôt comme ceux de lycanthropes, ou encore comme une sorte d'êtres extraplanaires, les métamorphes ont le pouvoir de transformer radicalement leur corps, non seulement en formes humanoïdes, mais aussi en formes extraterrestres étrangères au plan matériel. Les métamorphes sont passés maîtres dans l'art du déguisement, mais leur véritable pouvoir réside dans leur capacité à prendre l'apparence de créatures plus puissantes.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/74379/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "semiticgoddess"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "embed",
+            "stable"
+        ],
+        "last_update": "2019-02-02",
+        "compatibilities": {},
+        "embedded_in": 386,
+        "tp2": "ShapechangerKit"
+    },
+    {
+        "id": 2131,
+        "name": "Plasma Wizard Kit",
+        "description": "Alors que les autres mages se plongent dans les livres et explorent en profondeur les savoirs anciens et récents, le mage du plasma se concentre sur la maîtrise des éléments et de l'énergie qui régit l'univers. Il lance peut-être moins de sorts conventionnels que les autres mages, mais il a la capacité de lancer à volonté un nombre illimité de sorts d'évocation simples et, à des niveaux plus élevés, il peut le faire plusieurs fois au cours d'un même round.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/77517/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "semiticgoddess"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "embed",
+            "stable"
+        ],
+        "last_update": "2019-11-26",
+        "compatibilities": {},
+        "embedded_in": 386,
+        "tp2": "PlasmaWizardKit"
     }
 ]

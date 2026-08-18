@@ -5254,10 +5254,10 @@
     },
     {
         "id": 371,
-        "description": "Still in alpha version, this mod was intended to make the game more difficult by increasing creature characteristics and equipping them with intelligent scripts.",
+        "description": "This mod intends to make the game more difficult by increasing creature characteristics and equipping them with intelligent scripts.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Toujours en version alpha, ce mod avait pour ambition de rendre le jeu plus difficile en augmentant les caractéristiques des créatures et en les dotant de scripts intelligents."
+            "source": "Ce mod a pour ambition de rendre le jeu plus difficile en augmentant les caractéristiques des créatures et en les dotant de scripts intelligents."
         },
         "notes": [],
         "notes_meta": {
@@ -5473,10 +5473,10 @@
     },
     {
         "id": 386,
-        "description": "This is a kit compilation created by semiticgoddess:|- Fighters: [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins: [[1162]], Kensai, Revolutionary.|- Monks: Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages: [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage, Demon Summoner.|- Sorcerers: [[862]].|- Clerics: Cleric/Druid, Seer, Healer.|- Druids: Seer, Healer.|- Thieves: [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage: Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief: Druid/Thief.|- Fighter/Mage/Thief: Fighter/Cleric/Druid/Mage/Thief|- Ranger: Wildhaunt|- Bard: Folkherder.",
+        "description": "This is a kit compilation created by semiticgoddess:|- Fighters: [[1196]], [[1162]], [[2128]], [[2128]], [[2127]]|- Paladins: [[1162]], Kensai, Revolutionary|- Monks: Kensai, Stalker, Assassin, [[2129]], [[2127]], Fighter/Monk|- Mages: [[31]], [[862]], [[2131]], War Mage, Demon Summoner|- Sorcerers: [[862]]|- Clerics: Cleric/Druid, Seer, Healer|- Druids: Seer, Healer|- Thieves: [[1370]], [[1162]], Kensai, [[2130]]|- Cleric/Mage: Druid/Mage, Cleric/Druid/Mage|- Mage/Thief: Druid/Thief|- Fighter/Mage/Thief: Fighter/Cleric/Druid/Mage/Thief|- Ranger: Wildhaunt|- Bard: Folkherder",
         "description_meta": {
             "status": "needs_review",
-            "source": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [Shapeshifter](https://forums.beamdog.com/discussion/69127/), [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), [Sword Dancer](https://forums.beamdog.com/discussion/75696/).|- Paladins : [[1162]], Kensai, Revolutionary.|- Moines : Kensai, Stalker, Assassin, [Simplified Psionicist](https://forums.beamdog.com/discussion/76756/), Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[31]], [[862]], [Plasma Wizard](https://forums.beamdog.com/discussion/77517/), War Mage, Demon Summoner.|- Sorciers : [[862]].|- Clercs : Cleric/Druid, Seer, Healer.|- Druides : Seer, Healer.|- Voleurs : [[1370]], [[1162]], Kensai, [Shapechanger](https://forums.beamdog.com/discussion/74379/).|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief, Hedge Wizard.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief|- Rôdeur : Wildhaunt|- Barde : Folkherder."
+            "source": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [[2128]], [[2129]], [[2127]]|- Paladins : [[1162]], Kensai, Revolutionary|- Moines : Kensai, Stalker, Assassin, [[2129]], [[2127]], Guerrier/Moine|- Mages : [[31]], [[862]], [[2131]], War Mage, Demon Summoner|- Sorciers : [[862]]|- Clercs : Clerc/Druide, Seer, Healer|- Druides : Seer, Healer|- Voleurs : [[1370]], [[1162]], Kensai, [[2130]]|- Clerc/Mage : Druide/Mage, Clerc/Druide/Mage|- Mage/Voleur : Druide/Voleur, Hedge Wizard|- Guerrier/Mage/Voleur : Guerrier/Clerc/Druide/Mage/Voleur|- Rôdeur : Wildhaunt|- Barde : Folkherder"
         },
         "notes": [],
         "notes_meta": {
@@ -29634,6 +29634,71 @@
         "description_meta": {
             "status": "done",
             "source": "Ce fichier contient l'animation de Butcher issue de Heroes of the Storm, certains de ses fichiers audio ainsi qu'un programme d'installation général permettant de les intégrer au jeu. Ce mod ne contient aucun contenu jouable ; il s'agit simplement d'une ressource de modding."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2127,
+        "description": "Part magician and part artist, a Sword Dancer is a warrior who uses telekinetic powers to influence their movements in combat. A Sword Dancer's powers come less from muscle and more from magic, allowing them to strike more often at the expense of reducing the force of each blow. Sword Dancers rely on the speed of their weapons to disrupt and disable their opponents, and prefer to use lighter and quicker weapons, which are easier to move using telekinesis.",
+        "description_meta": {
+            "status": "done",
+            "source": "À la fois magicien et artiste, le « danseur d'épée » est un guerrier qui utilise ses pouvoirs télékinétiques pour influencer ses mouvements au combat. Ses pouvoirs proviennent moins de sa force physique que de la magie, ce qui lui permet de frapper plus souvent, au prix d'une force réduite à chaque coup. Les danseurs d'épée misent sur la vitesse de leurs armes pour déstabiliser et neutraliser leurs adversaires, et préfèrent utiliser des armes plus légères et plus rapides, plus faciles à manier grâce à la télékinésie."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2128,
+        "description": "The Shapeshifter is a character who has willingly allowed himself to become infected with lycanthropy, but due to intense training has learned to control his affliction and gained the ability to transform into a werewolf.",
+        "description_meta": {
+            "status": "done",
+            "source": "Le métamorphe est un personnage qui a volontairement accepté de contracter la lycanthropie, mais qui, grâce à un entraînement intensif, a appris à maîtriser cette malédiction et a acquis la capacité de se transformer en loup-garou."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2129,
+        "description": "A Psionicist uses his mind to control and manipulate the world around him. Generally self-taught, Psionicists train their brains and sharpen their latent powers, gaining powers that are alien even to wizards and priests. A psionicist may levitate objects, create energy from nothing, and even seize control of the minds of other sentient beings with nothing more than a thought.",
+        "description_meta": {
+            "status": "done",
+            "source": "Un psionique utilise son esprit pour contrôler et manipuler le monde qui l'entoure. Généralement autodidactes, les psioniques entraînent leur cerveau et affinent leurs pouvoirs latents, acquérant ainsi des capacités qui sont étrangères même aux sorciers et aux prêtres. Un psionique peut faire léviter des objets, créer de l'énergie à partir de rien, et même prendre le contrôle de l'esprit d'autres êtres sensibles d'une simple pensée."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2130,
+        "description": "Little is known about the source of a Shapechanger's powers. Alternately theorized to be the descendants of doppelgangers, lycanthropes, or some type of extraplanar being, Shapechangers have the power to radically transform their bodies--not just into humanoid forms, but also alien forms foreign to the Material plane. Shapechangers are adept at disguising themselves, but their true power lies in the ability to take on the forms of more powerful creatures.",
+        "description_meta": {
+            "status": "done",
+            "source": "On sait peu de choses sur l'origine des pouvoirs d'un métamorphe. Considérés tantôt comme les descendants de doppelgangers, tantôt comme ceux de lycanthropes, ou encore comme une sorte d'êtres extraplanaires, les métamorphes ont le pouvoir de transformer radicalement leur corps, non seulement en formes humanoïdes, mais aussi en formes extraterrestres étrangères au plan matériel. Les métamorphes sont passés maîtres dans l'art du déguisement, mais leur véritable pouvoir réside dans leur capacité à prendre l'apparence de créatures plus puissantes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2131,
+        "description": "Where other mages immerse themselves in the library and delve deep into lore both ancient and recent, the Plasma Wizard focuses on mastery of the elements and the energy that governs the universe. He may cast fewer conventional spells than other mages, but has the ability to cast an unlimited number of simple evocation spells at will, and at higher levels can do so multiple times in a single round.",
+        "description_meta": {
+            "status": "done",
+            "source": "Alors que les autres mages se plongent dans les livres et explorent en profondeur les savoirs anciens et récents, le mage du plasma se concentre sur la maîtrise des éléments et de l'énergie qui régit l'univers. Il lance peut-être moins de sorts conventionnels que les autres mages, mais il a la capacité de lancer à volonté un nombre illimité de sorts d'évocation simples et, à des niveaux plus élevés, il peut le faire plusieurs fois au cours d'un même round."
         },
         "notes": [],
         "notes_meta": {
