@@ -11597,8 +11597,8 @@
         "id": 812,
         "description": "最初发布于[此网站](http://mods.jo-ge.net/bg/index.htm)，此小型模组添加了一个物品，由Lavok给予，允许您直接传送到领域面（并返回您所在的位置），就像“前厅”能力一样。",
         "description_meta": {
-            "status": "done",
-            "source": "Publié à l'origine sur [ce site](http://mods.jo-ge.net/bg/index.htm), ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\"."
+            "status": "needs_review",
+            "source": "Ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\"."
         },
         "notes": [
             "请选择 github 的链接获取 EE 版本。"
@@ -29333,6 +29333,9 @@
     },
     {
         "id": 2078,
+        "team": [
+            "DiabloIORI"
+        ],
         "description": "这是[[1371]]号模组的一个扩展包，增加了含有露骨性内容的对话和过场动画。该模组完全不适用于所有人，尤其不适合未满18岁的人群。",
         "description_meta": {
             "status": "done",

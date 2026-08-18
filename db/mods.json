@@ -3260,9 +3260,10 @@
     },
     {
         "id": 90,
-        "name": "Authentic Mischievous Fairy Dragon",
+        "name": "Enhanced Fairy Dragon",
         "description": "Ce mod vous propose de prendre comme familier un dragon fée, un peu renforcé et surtout plus proche dans l'esprit de l'original d'AD&D : il dispose d'un potentiel de farces et mauvais tours assez important. Vous allez certainement vous amuser, vos adversaires beaucoup moins... Ce familier n'apparaîtra que pour un magicien chaotique bon, si bien sûr il ne possède pas encore de familier.",
         "urls": [
+            "http://mods.jo-ge.net/bg/index.htm",
             "https://github.com/Plutonium-X/MISC_Fairy"
         ],
         "categories": [
@@ -28545,6 +28546,7 @@
         "name": "Pirate Kit",
         "description": "Création originale d'Huxaltec, ce profil de voleur (très bien documenté et inspiré) est exclusivement réservé au personnage principal et permet d'incarner un pirate de la Côte des Épées. Un don régional, selon l'origine géographique du pirate (choisie à l'installation du kit), lui octroie certains avantages. Comme tout pirate qui se respecte, il a son propre perroquet (capable d'aller chercher des trésors aléatoires une fois par jour) et stocke son trésor dans un coffre qu'il emporte partout.",
         "urls": [
+            "https://weiducommando.forumgaming.fr/t389-sortie-du-pirate-kit-mod-version-1-1",
             "https://www.baldursgateworld.fr/viewtopic.php?t=31643",
             "https://github.com/Plutonium-X/KIT_Pirate"
         ],
@@ -28649,8 +28651,9 @@
     {
         "id": 812,
         "name": "Planar Sphere Teleporter",
-        "description": "Publié à l'origine sur [ce site](http://mods.jo-ge.net/bg/index.htm), ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
+        "description": "Ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
         "urls": [
+            "http://mods.jo-ge.net/bg/index.htm",
             "https://github.com/Plutonium-X/MISC_Planar-teleport"
         ],
         "categories": [
@@ -28663,7 +28666,7 @@
             "EET"
         ],
         "authors": [
-            "Jochen Gehring"
+            "Jog"
         ],
         "team": [],
         "notes": [
@@ -31983,7 +31986,7 @@
         "name": "Chantelame runique",
         "description": "Runiczny Pieśniarz Klingi, de son vrai nom, ce mod installe un kit de guerrier appelé Chantelame runique, uniquement pour les guerriers elfes. Il acquiert au fil des niveaux la capacité de lancer des mots de pouvoir.",
         "urls": [
-            "https://www.shsforums.net/topic/57056-bwpv14/#entry565797",
+            "https://baldur.cob-bg.pl/node/943",
             "https://baldur.cob-bg.pl/download/bg2/kits/Runiczny_v2.0.zip",
             "https://github.com/Plutonium-X/KIT_Runic/"
         ],
@@ -33039,7 +33042,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-21",
+        "last_update": "2026-08-02",
         "compatibilities": {},
         "tp2": "SotSC"
     },
@@ -34897,7 +34900,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-12-10",
+        "last_update": "2026-08-17",
         "compatibilities": {
             "conflicts": [
                 297,
@@ -36735,7 +36738,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2011-04-01",
+        "last_update": "2011-04-09",
         "compatibilities": {},
         "tp2": "Tchos-PST-portrait"
     },
@@ -36837,7 +36840,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2017-01-24",
+        "last_update": "2014-11-30",
         "compatibilities": {},
         "tp2": "BGeeAR"
     },
@@ -36872,7 +36875,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2017-01-24",
+        "last_update": "2014-09-08",
         "compatibilities": {},
         "tp2": "BGeeW"
     },
@@ -43278,6 +43281,7 @@
         "name": "Wild Mage Additions",
         "description": "Ce mod ajoute un profil d'entropiste, le Tisseur de sorts, qui combine les talents d'un sorcier et d'un mage, bénéficiant de la spontanéité d'incantation du sorcier, sans être pénalisé par la restriction du nombre de sorts mémorisés. Il est en revanche limité par le nombre de sorts pouvant être lancés en 24h, et par sa vitesse de progression. À cet effet, le mod ajoute 27 nouveaux sorts (3 pour chaque niveau), et le tout à l'air bien fun.",
         "urls": [
+            "http://mods.jo-ge.net/bg/shaper.htm",
             "https://bgforge.net/wild-mage-additions/",
             "https://github.com/BGforgeNet/bg2-wildmage"
         ],
@@ -43295,6 +43299,7 @@
             "IWDEE"
         ],
         "authors": [
+            "Jog",
             "Magus"
         ],
         "team": [],
@@ -46465,12 +46470,13 @@
             "pl",
             "ru",
             "es",
-            "cn"
+            "cn",
+            "br"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-02",
+        "last_update": "2026-08-01",
         "compatibilities": {},
         "tp2": "Autumns_Twilight"
     },
@@ -46575,7 +46581,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-26",
+        "last_update": "2026-08-05",
         "compatibilities": {},
         "tp2": "XzarAndMontaron"
     },
@@ -46642,7 +46648,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-12-13",
+        "last_update": "2026-08-05",
         "compatibilities": {},
         "tp2": "GroveOfChaos"
     },
@@ -47264,7 +47270,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-07-20",
+        "last_update": "2026-08-14",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -48755,7 +48761,8 @@
             "BGEE",
             "SoD",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Yunie"
@@ -48771,7 +48778,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-23",
+        "last_update": "2026-08-05",
         "compatibilities": {
             "requires": [
                 "Windows"
@@ -49185,6 +49192,7 @@
         "name": "Baeloth for BG2EE",
         "description": "Ce mod fournit une continuation pour notre adorable Baeloth dans BG2EE et EET. Baeloth a été capturé par les sorciers rouges et est prêt à conclure un marché en échange de sa liberté. Trouvez Baeloth à la Couronne de Cuivre !",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/37426-baeloth-in-bg2/",
             "https://github.com/dark0dave/BaeBG2"
         ],
         "categories": [
@@ -49207,7 +49215,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-09-12",
+        "last_update": "2026-08-11",
         "compatibilities": {},
         "tp2": "zdbae"
     },
@@ -50033,7 +50041,7 @@
             "embed",
             "archived"
         ],
-        "last_update": "2024-12-01",
+        "last_update": "2025-08-13",
         "compatibilities": {},
         "embedded_in": 1791,
         "tp2": "improvedMonk"
@@ -50333,7 +50341,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-15",
+        "last_update": "2026-08-08",
         "compatibilities": {},
         "tp2": "mih_fr"
     },
@@ -50348,6 +50356,8 @@
             "Gameplay"
         ],
         "games": [
+            "BG2",
+            "BGT",
             "BGEE",
             "BG2EE",
             "EET"
@@ -50365,7 +50375,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-09",
+        "last_update": "2026-08-08",
         "compatibilities": {},
         "tp2": "mih_metamod"
     },
@@ -50499,7 +50509,7 @@
             "embed",
             "archived"
         ],
-        "last_update": "2024-06-01",
+        "last_update": "2025-08-13",
         "compatibilities": {},
         "embedded_in": 1791,
         "tp2": "shaman_hauler"
@@ -50858,9 +50868,9 @@
         "status": [
             "stable"
         ],
-        "last_update": "2023-03-17",
+        "last_update": "2026-08-11",
         "compatibilities": {},
-        "tp2": "Enhanced_Creatures"
+        "tp2": "enhanced_creatures"
     },
     {
         "id": 1432,
@@ -51538,7 +51548,7 @@
             "en"
         ],
         "status": [
-            "stable"
+            "missing"
         ],
         "last_update": "2024-10-14",
         "compatibilities": {},
@@ -51556,6 +51566,7 @@
             "Kit"
         ],
         "games": [
+            "BGEE",
             "BG2EE"
         ],
         "authors": [
@@ -51571,7 +51582,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-16",
+        "last_update": "2026-08-10",
         "compatibilities": {},
         "tp2": "Battlerager"
     },
@@ -51602,7 +51613,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-10-13",
+        "last_update": "2026-08-12",
         "compatibilities": {},
         "tp2": "Adventurer"
     },
@@ -54218,6 +54229,7 @@
         "name": "Kalah",
         "description": "Ce mod modifie la quête du cirque en y ajoutant de petites épreuves. Le résultat de ces épreuves influencent la difficulté du combat final. Un autre composant rend à Aerie métamorphosée son apparence originellement prévue par les développeurs (spoil : ce n'est pas un ogre).",
         "urls": [
+            "https://athkatla.cob-bg.pl/viewtopic.php?p=84091",
             "https://baldur.cob-bg.pl/node/1936",
             "https://github.com/Plutonium-X/QUETE_KALAH/"
         ],
@@ -61974,7 +61986,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-10-13",
+        "last_update": "2026-08-10",
         "compatibilities": {},
         "tp2": "Samourai"
     },
@@ -63094,7 +63106,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-26",
+        "last_update": "2026-08-11",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -63855,7 +63867,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "JohnBob"
@@ -63910,7 +63923,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-04",
+        "last_update": "2026-07-29",
         "compatibilities": {},
         "tp2": "dw_iwdspells"
     },
@@ -64082,7 +64095,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-11",
+        "last_update": "2026-08-09",
         "compatibilities": {},
         "tp2": "assortedadjustments"
     },
@@ -64134,8 +64147,6 @@
             "Forgeron et marchand"
         ],
         "games": [
-            "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -64152,7 +64163,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-13",
+        "last_update": "2026-08-17",
         "compatibilities": {},
         "tp2": "jarnip"
     },
@@ -64312,7 +64323,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-22",
+        "last_update": "2026-08-15",
         "compatibilities": {},
         "tp2": "DynaheirBG2EE"
     },
@@ -65112,7 +65123,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-08-08",
+        "last_update": "2026-08-17",
         "compatibilities": {},
         "tp2": "dragondruid"
     },
@@ -68791,7 +68802,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-02-28",
+        "last_update": "2026-08-08",
         "compatibilities": {},
         "tp2": "z9ip0"
     },
@@ -69731,6 +69742,7 @@
         "name": "Auror Kit for the Ranger Class",
         "description": "Ce mod est une version plus puissante et antérieure à [[87]].",
         "urls": [
+            "https://www.shsforums.net/topic/37463-auror-kit-for-the-ranger-class/",
             "https://github.com/Plutonium-X/KIT_Aurore"
         ],
         "categories": [
@@ -71077,7 +71089,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-02",
+        "last_update": "2026-08-02",
         "compatibilities": {},
         "tp2": "InkGallery"
     },
@@ -71649,7 +71661,7 @@
             "embed"
         ],
         "embedded_in": 2101,
-        "last_update": "2026-06-14",
+        "last_update": "2026-07-27",
         "compatibilities": {},
         "tp2": "NecromancersQuestRestored"
     },
@@ -71720,7 +71732,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-22",
+        "last_update": "2026-08-06",
         "compatibilities": {},
         "tp2": "Poisoned_pathways"
     },
@@ -71798,7 +71810,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-03",
+        "last_update": "2026-08-08",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -72139,7 +72151,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-27",
+        "last_update": "2026-08-08",
         "compatibilities": {},
         "tp2": "InterspeciesFriendship"
     },
@@ -72167,7 +72179,8 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
@@ -72628,7 +72641,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-16",
+        "last_update": "2026-07-31",
         "compatibilities": {
             "conflicts": [
                 48,
@@ -72847,7 +72860,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-25",
+        "last_update": "2026-07-30",
         "compatibilities": {
             "requires": [
                 "EE version >= 2.6"
@@ -72945,7 +72958,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-27",
+        "last_update": "2026-07-29",
         "compatibilities": {},
         "tp2": "RogueDoubleDealing"
     },
@@ -72978,7 +72991,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-07-29",
+        "last_update": "2026-08-11",
         "compatibilities": {
             "requires": [
                 348
@@ -73018,7 +73031,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-27",
+        "last_update": "2026-07-29",
         "compatibilities": {
             "requires": [
                 2102
@@ -73100,7 +73113,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2022-05-04",
+        "last_update": "2022-11-22",
         "compatibilities": {},
         "tp2": "Candlemem"
     },
@@ -73135,7 +73148,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2022-05-04",
+        "last_update": "2022-11-22",
         "compatibilities": {},
         "tp2": "CtBIce"
     },
@@ -73169,7 +73182,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2022-05-04",
+        "last_update": "2022-11-22",
         "compatibilities": {},
         "tp2": "CtBLiberate"
     },
@@ -73204,7 +73217,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2022-05-04",
+        "last_update": "2022-11-22",
         "compatibilities": {},
         "tp2": "HollyElf"
     },
@@ -73238,7 +73251,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2022-08-17",
+        "last_update": "2022-11-22",
         "compatibilities": {},
         "tp2": "CtBVamp"
     },
@@ -73301,7 +73314,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-10",
+        "last_update": "2026-08-16",
         "compatibilities": {},
         "tp2": "Thieves"
     },
@@ -73557,7 +73570,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2008-01-28",
+        "last_update": "2009-07-30",
         "compatibilities": {},
         "tp2": "xpertai"
     },
@@ -73748,7 +73761,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-12-08",
+        "last_update": "2024-12-10",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
@@ -73782,7 +73795,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2017-08-12",
+        "last_update": "2018-12-26",
         "compatibilities": {},
         "tp2": "BUTCHERANIMATION"
     }
