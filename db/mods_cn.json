@@ -5318,9 +5318,9 @@
     },
     {
         "id": 371,
-        "description": "此模组仍处于Alpha版，其目标是通过增强生物的特性并为它们配备智能脚本来使游戏更具挑战性。",
+        "description": "这个模组旨在通过提升生物属性并为其配备智能脚本来增加游戏难度。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod a pour ambition de rendre le jeu plus difficile en augmentant les caractéristiques des créatures et en les dotant de scripts intelligents."
         },
         "notes": [],
@@ -5540,9 +5540,9 @@
     },
     {
         "id": 386,
-        "description": "这是由semiticgoddess创建档案的汇编：|- 战士：[[1196]], [[1162]], [变形者](https://forums.beamdog.com/discussion/69127/), [简化心灵术士](https://forums.beamdog.com/discussion/76756/), [剑舞者](https://forums.beamdog.com/discussion/75696/).|- 圣武士：[[1162]], 剑圣, 革命者.|- 武僧：剑圣, 潜行者, 刺客, [简化心灵术士](https://forums.beamdog.com/discussion/76756/), 耀光舞者, 天穹舞者, 战士/武僧.|- 法师：[[31]], [[862]], [等离子法师](https://forums.beamdog.com/discussion/77517/), 战争法师, 恶魔召唤师.|- 术士：[[862]].|- 牧师：牧师/德鲁伊, 先知, 治疗者.|- 德鲁伊：先知, 治疗者.|- 盗贼：[[1370]], [[1162]], 剑圣, [变形者](https://forums.beamdog.com/discussion/74379/).|- 牧师/法师：德鲁伊/法师, 牧师/德鲁伊/法师.|- 法师/盗贼：德鲁伊/盗贼, 狂乱法师.|- 战士/法师/盗贼：战士/牧师/德鲁伊/法师/盗贼|- 游侠：荒野游魂|- 吟游诗人：民谣牧人.",
+        "description": "该模组为semiticgoddess创作的宗派合集，具体包含：|- 战士：[[1196]]、[[1162]]、[[2128]]、[[2129]]、[[2127]]|- 圣武士：[[1162]]、剑圣（Kensai）、革命者（Revolutionary）|- 武僧：剑圣、潜行者（Stalker）、刺客（Assassin）、[[2129]]、[[2127]]、战士/武僧|- 法师：[[31]]、[[862]]、[[2131]]、战争法师（War Mage）、恶魔召唤师（Demon Summoner）|- 术士：[[862]]|- 牧师：牧师/德鲁伊、先知（Seer）、医者（Healer）|- 德鲁伊：先知（Seer）、医者（Healer）|- 盗贼：[[1370]]、[[1162]]、剑圣（Kensai）、[[2130]]|- 牧师/法师：德鲁伊/法师、牧师/德鲁伊/法师|- 法师/盗贼：德鲁伊/盗贼、篱笆法师（Hedge Wizard）|- 战士/法师/盗贼：战士/牧师/德鲁伊/法师/盗贼|- 游侠：荒野幽魂（Wildhaunt）|- 吟游诗人：民间牧者（Folkherder）",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[1196]], [[1162]], [[2128]], [[2129]], [[2127]]|- Paladins : [[1162]], Kensai, Revolutionary|- Moines : Kensai, Stalker, Assassin, [[2129]], [[2127]], Guerrier/Moine|- Mages : [[31]], [[862]], [[2131]], War Mage, Demon Summoner|- Sorciers : [[862]]|- Clercs : Clerc/Druide, Seer, Healer|- Druides : Seer, Healer|- Voleurs : [[1370]], [[1162]], Kensai, [[2130]]|- Clerc/Mage : Druide/Mage, Clerc/Druide/Mage|- Mage/Voleur : Druide/Voleur, Hedge Wizard|- Guerrier/Mage/Voleur : Guerrier/Clerc/Druide/Mage/Voleur|- Rôdeur : Wildhaunt|- Barde : Folkherder"
         },
         "notes": [],
@@ -9850,9 +9850,9 @@
     },
     {
         "id": 689,
-        "description": "此模组为IWD2带来了规则修改和新宗派，适用于战斗者：Mystra的圣武士可以多重职业为法师和术士，Helm的圣武士可以成为Helm的牧师，武僧可以穿长袍并保持其智慧对AC的加值，作弊码已植入，可以在多次升级之间保存技能点……欲了解更多信息，请阅读[这个](https://sorcerers.net/community/threads/bug-fixing.26533/)。|您可以通过修改config.txt文件的设置来自定义安装。",
+        "description": "这个模组为《冰风谷II》带来了规则修改：密斯特拉（Mystra）的圣武士可以兼职为法师和术士，海姆（Helm）的圣武士可以兼职为海姆的牧师，武僧可以穿着长袍并保留其感知对AC的加值，内置了作弊代码，还可以在多次升级之间保存技能点……|您可以通过修改config.txt文件中的参数来自定义安装。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod apporte des modifications de règles à IWD2 : les paladins de Mystra peuvent se multi-classer en mage et sorcier, les paladins de Helm en Clerc de Helm, les moines peuvent porter des robes et conserver leur bonus de sagesse à la CA, les codes de triches sont implantés, possibilité de sauvegarder les points de compétence entre plusieurs montées de niveau...|Vous pouvez personnaliser l'installation en modifiant les paramètres du fichier config.txt."
         },
         "notes": [],
@@ -11595,9 +11595,9 @@
     },
     {
         "id": 812,
-        "description": "最初发布于[此网站](http://mods.jo-ge.net/bg/index.htm)，此小型模组添加了一个物品，由Lavok给予，允许您直接传送到领域面（并返回您所在的位置），就像“前厅”能力一样。",
+        "description": "这个小模组添加了一件由拉沃克（Lavok）给予的物品，能让你直接传送到位面球体（Sphère planaire）内部（并可从那里返回你原来的位置），功能类似于“前厅”（Antichambre）能力。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\"."
         },
         "notes": [
@@ -27916,7 +27916,7 @@
     },
     {
         "id": 1974,
-        "description": "纳什凯尔嘉年华的商人出售24种装饰性头盔变体、6种彩色锁子甲变体以及6种彩色全身板甲变体。",
+        "description": "纳西凯嘉年华的商人出售24种装饰性头盔变体、6种彩色锁子甲变体以及6种彩色全身板甲变体。",
         "description_meta": {
             "status": "done",
             "source": "Le marchand du carnaval de Nashkel vend 24 variantes de casques décoratifs, 6 variantes de cottes de mailles et 6 variantes d'armures complètes en couleurs."
@@ -29920,14 +29920,14 @@
     },
     {
         "id": 2122,
-        "description": "",
+        "description": "这个模组为纳西凯集市增添了一支杂耍艺人团，包括东方舞蹈、武术、笑话、走钢丝表演、旋转木马以及诗歌吟诵。此外还有异国商品和遥远地域的传说故事。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute une troupe de jongleurs pour animer la foire de Nashkel. Danse orientale, arts martiaux, blagues, funambules, manèges et quelques vers de poésie. Sans oublier des marchandises exotiques et des récits de contrées lointaines."
         },
-        "notes": [],
+        "notes": ["第一个链接包含波兰语原版，第二个链接包含英语版本。"],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Le premier lien contient la version originale en polonais, le second la version anglaise."
             ]
@@ -29935,9 +29935,9 @@
     },
     {
         "id": 2123,
-        "description": "",
+        "description": "两位新商人加入了芭荻（Bodhi）的公会。这些商人本是为了平衡影贼（Voleurs de l'Ombre）商店而设的。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Deux nouveaux marchands ont rejoint la guilde de Bodhi. Ces commerçants devaient servir à contrebalancer la boutique des Voleurs de l'Ombre."
         },
         "notes": [],
@@ -29948,9 +29948,9 @@
     },
     {
         "id": 2124,
-        "description": "",
+        "description": "在菲尔德的旅店（l'auberge de Feldepost）可以购买到17种不同颜色的环甲。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "17 variantes de couleurs d'armures de besantines sont disponibles à l'auberge de Feldepost."
         },
         "notes": [],
@@ -29961,9 +29961,9 @@
     },
     {
         "id": 2125,
-        "description": "",
+        "description": "一套手绘肖像包。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Un pack de portraits dessinés à la main."
         },
         "notes": [],
@@ -29974,9 +29974,9 @@
     },
     {
         "id": 2126,
-        "description": "",
+        "description": "这个文件包含了来自《风暴英雄》（Heroes of the Storm）中“屠夫”（Butcher）的动画、其部分音频文件，以及一个用于将它们整合到游戏中的通用安装程序。该模组不包含任何可玩内容，仅作为模组制作资源使用。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce fichier contient l'animation de Butcher issue de Heroes of the Storm, certains de ses fichiers audio ainsi qu'un programme d'installation général permettant de les intégrer au jeu. Ce mod ne contient aucun contenu jouable ; il s'agit simplement d'une ressource de modding."
         },
         "notes": [],
@@ -29987,9 +29987,9 @@
     },
     {
         "id": 2127,
-        "description": "",
+        "description": "既是法师又是艺术家，“剑舞者”是一种利用心灵传动能力来影响战斗动作的战士。他们的力量更多来源于魔法而非肉体力量，这使得他们能以更低的单次打击威力为代价，进行更频繁的攻击。剑舞者依靠武器的速度来扰乱和压制对手，并偏好使用更轻更快、便于通过心灵传动来操控的武器。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "À la fois magicien et artiste, le « danseur d'épée » est un guerrier qui utilise ses pouvoirs télékinétiques pour influencer ses mouvements au combat. Ses pouvoirs proviennent moins de sa force physique que de la magie, ce qui lui permet de frapper plus souvent, au prix d'une force réduite à chaque coup. Les danseurs d'épée misent sur la vitesse de leurs armes pour déstabiliser et neutraliser leurs adversaires, et préfèrent utiliser des armes plus légères et plus rapides, plus faciles à manier grâce à la télékinésie."
         },
         "notes": [],
@@ -30000,9 +30000,9 @@
     },
     {
         "id": 2128,
-        "description": "",
+        "description": "变形者是一个自愿感染了狼人症的角色，但通过严格训练，他学会了驾驭这一诅咒，并获得了变身为狼人的能力。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Le métamorphe est un personnage qui a volontairement accepté de contracter la lycanthropie, mais qui, grâce à un entraînement intensif, a appris à maîtriser cette malédiction et a acquis la capacité de se transformer en loup-garou."
         },
         "notes": [],
@@ -30013,9 +30013,9 @@
     },
     {
         "id": 2129,
-        "description": "",
+        "description": "灵能者运用自身心智来控制和影响周遭世界。他们通常是自学成才，通过训练大脑并精炼其潜在力量，从而获得即使是法师和牧师也感到陌生的能力。灵能者能够使物体浮空、凭空创造能量，甚至仅凭一个念头就能控制其他有意识生物的心灵。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Un psionique utilise son esprit pour contrôler et manipuler le monde qui l'entoure. Généralement autodidactes, les psioniques entraînent leur cerveau et affinent leurs pouvoirs latents, acquérant ainsi des capacités qui sont étrangères même aux sorciers et aux prêtres. Un psionique peut faire léviter des objets, créer de l'énergie à partir de rien, et même prendre le contrôle de l'esprit d'autres êtres sensibles d'une simple pensée."
         },
         "notes": [],
@@ -30026,9 +30026,9 @@
     },
     {
         "id": 2130,
-        "description": "",
+        "description": "关于变形者力量的起源，人们知之甚少。他们有时被视为变形怪的后裔，有时被视为兽化人的后代，又或者被当作某种异界存在。变形者拥有从根本上改变自己身体的能力，不仅能变化为类人形态，还能变成主物质位面之外的异型形态。变形者精于伪装之术，但他们真正的力量在于能够化身为更强大生物的外貌。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "On sait peu de choses sur l'origine des pouvoirs d'un métamorphe. Considérés tantôt comme les descendants de doppelgangers, tantôt comme ceux de lycanthropes, ou encore comme une sorte d'êtres extraplanaires, les métamorphes ont le pouvoir de transformer radicalement leur corps, non seulement en formes humanoïdes, mais aussi en formes extraterrestres étrangères au plan matériel. Les métamorphes sont passés maîtres dans l'art du déguisement, mais leur véritable pouvoir réside dans leur capacité à prendre l'apparence de créatures plus puissantes."
         },
         "notes": [],
@@ -30039,9 +30039,9 @@
     },
     {
         "id": 2131,
-        "description": "",
+        "description": "与其他潜心钻研典籍、深入探索古今知识的法师不同，等离子法师专注于掌控宇宙中的元素与能量。他们施展的传统法术或许比别的法师少，但他们能够无限次地随意施展简单的塑能系法术，并且在达到更高等级后，还能在同一轮内多次施展这些法术。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Alors que les autres mages se plongent dans les livres et explorent en profondeur les savoirs anciens et récents, le mage du plasma se concentre sur la maîtrise des éléments et de l'énergie qui régit l'univers. Il lance peut-être moins de sorts conventionnels que les autres mages, mais il a la capacité de lancer à volonté un nombre illimité de sorts d'évocation simples et, à des niveaux plus élevés, il peut le faire plusieurs fois au cours d'un même round."
         },
         "notes": [],
