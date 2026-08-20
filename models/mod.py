@@ -83,9 +83,10 @@ class Mod:
             raise e
 
         current_date = datetime.now().strftime(cls.last_update_date_format)
-        if "1999-01-01" <= v <= current_date:
+        min_date = "1999-01-01"
+        if min_date <= v <= current_date:
             return v
-        raise ValueError(f"Date not possible, must be between 1999-01 and {current_date}")
+        raise ValueError(f"Date not possible, must be between {min_date} and {current_date}")
 
     @property
     def translation_state_auto(self) -> TranslationStateEnum:
