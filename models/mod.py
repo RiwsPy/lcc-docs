@@ -292,15 +292,5 @@ class Mod:
         ]
 
     @property
-    def is_bws_compatible(self) -> bool:
-        return (
-            GameEnum.EET in self.games
-            and self.translation_state_auto
-            in (TranslationStateEnum.YES, TranslationStateEnum.NA, TranslationStateEnum.TODO)
-            and self.tp2 not in ("non-weidu", "n/a")
-            and bool(self.status & {ModStatus.STABLE, ModStatus.EMBED, ModStatus.HIDDEN})
-        )
-
-    @property
     def games_ordered(self) -> list[GameEnum]:
         return [game for game in GameEnum if game in self.games]
