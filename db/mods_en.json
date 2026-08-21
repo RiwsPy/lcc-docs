@@ -749,14 +749,10 @@
             "status": "needs_review",
             "source": "Ce mod permet de ressusciter les pnjs tombés au combat sous la forme de mort-vivants."
         },
-        "notes": [
-            "The author has removed the download link. It has been recovered and posted on the github link."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "L'auteur a supprimé le lien de téléchargement. Il a été récupéré et mis en ligne sur le lien github."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -1816,14 +1812,10 @@
             "status": "needs_review",
             "source": "Ce mod permet de stocker automatiquement le score de caractéristiques lors de la création d'un personnage en appuyant sur le nouveau bouton \"autoroll\". Ce dernier permet de lancer les dés automatiquement jusqu'à ce que vous obteniez le score souhaité.|Son installation nécessite une manipulation du fichier UI.menu décrite sur la page de téléchargement."
         },
-        "notes": [
-            "There is a version directly integrated into [[347]]."
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -1906,15 +1898,13 @@
         },
         "notes": [
             "Warning: Some players have reported that the combination of this mod and [[1011]] (more intelligent monsters) could prove a formidable challenge!",
-            "If you're planning to install BGSpawn, don't install the [[135]] component `Modify random enemy creation` as they all modify the same thing.",
-            "Please note: only the GitHub version is also EET-compatible. What's more, it's the latest update."
+            "If you're planning to install BGSpawn, don't install the [[135]] component `Modify random enemy creation` as they all modify the same thing."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
                 "Attention : Certains joueurs ont signalé que la combinaison de ce mod et de [[1011]] (monstres plus intelligents) pourrait s'avérer un redoutable défi !",
-                "Si vous envisagez d'installer BGSpawn, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]] puisqu'ils modifient la même chose.",
-                "Attention : seule la version de GitHub est aussi compatible EET. En plus, c'est la dernière mise à jour."
+                "Si vous envisagez d'installer BGSpawn, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]] puisqu'ils modifient la même chose."
             ]
         }
     },
@@ -8238,14 +8228,10 @@
             "status": "needs_review",
             "source": "Ce mod modifie l'affichage des journaux en permettant notamment de filter les informations."
         },
-        "notes": [
-            "There is a version directly integrated into [[347]]."
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -9961,14 +9947,10 @@
             "status": "needs_review",
             "source": "Essentiellement destiné aux moddeurs, ce mod ajoute de nouveaux boutons dans les écrans de lancement et d'options du jeu, qui permettent d'afficher les paramètres de mod, à condition qu'ils aient été définis comme complément de l'UI."
         },
-        "notes": [
-            "There is a version directly integrated into [[347]]."
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -13739,14 +13721,10 @@
             "status": "needs_review",
             "source": "Ce mod a pour but de rendre plus facile et moins longue l'exécution de tâches courantes dans la gestion des magasins et des sacs d'objets, comme vendre ou le déplacer des piles entières d'objets. Par exemple :|- Un simple clic sur un objet dans le volet Vente d'un magasin ou dans l'un ou l'autre volet d'un sac sélectionne la pile entière.|- Le montant par défaut des articles de la pile fractionnée est fixé à 1, de manière cohérente."
         },
-        "notes": [
-            "There is a version directly integrated into [[347]]."
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -16268,10 +16246,14 @@
             "status": "needs_review",
             "source": "Ce mod organise des combats d'arène contre de puissantes créatures extra planaires. Le but est simple : vaincre ou mourir ! Le combat contre le grand maître est le seul qui peut vous rapporter des objets.|Quelques puissants objets sont également en vente."
         },
-        "notes": [],
+        "notes": [
+            "This mod overrides the STATS.ids file."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Le mod override le fichier STATS.IDS."
+            ]
         }
     },
     {
@@ -18580,14 +18562,10 @@
             "status": "needs_review",
             "source": "Ce petit mod propose des composants optionnels qui modifie les sorts de soins ainsi que les potions de guérison selon les règles AD&D. Il permet aussi d'augmenter le coût de résurrection dans les temples ainsi que l'identification d'objet dans les magasins."
         },
-        "notes": [
-            "The last update was in 2017. It is unclear whether this mod will work with the latest patches."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "La dernière mise à jour date de 2017. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -18809,10 +18787,10 @@
     },
     {
         "id": 1336,
-        "description": "Enjoy Xan BG2 NPC gameplay with an original French soundset.",
+        "description": "Enjoy [[1233]] with an original French soundset.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Profitez du jeu de Xan BG2 NPC avec un soundset français original."
+            "source": "Profitez du jeu de [[1233]] avec un soundset français original."
         },
         "notes": [],
         "notes_meta": {
@@ -19027,13 +19005,11 @@
             "source": "Ce programme permet d'injecter une librairie C pour améliorer l'aléatoire de l'InfinityEngine. Lisez le README pour plus d'informations."
         },
         "notes": [
-            "Compatible only with Windows.",
             "For EE versions, use [[1351]]."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Compatible qu'avec Windows.",
                 "Pour les versions EE, privilégiez [[1351]]."
             ]
         }
@@ -19600,14 +19576,10 @@
             "status": "needs_review",
             "source": "Ce mod rétablit l'interface des livres de Mage et de Prêtre d'avant la version 2.0."
         },
-        "notes": [
-            "There is a version directly integrated into [[347]]."
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -22915,10 +22887,10 @@
     },
     {
         "id": 1628,
-        "description": "Like Kulyok's Xan BG2 NPC mod soundset and actor? Take them with you into your BG1 gaming experience. Two different soundsets to try.",
+        "description": "Like [[1233]] mod soundset and actor? Take them with you into your BG1 gaming experience. Two different soundsets to try.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Vous aimez le soundset et l'acteur du mod Xan BG2 NPC de Kulyok ? Emportez-les avec vous dans votre expérience de jeu sur BG1. Deux Soundsets différents à essayer."
+            "source": "Vous aimez le soundset et l'acteur du mod [[1233]] ? Emportez-les avec vous dans votre expérience de jeu sur BG1. Deux Soundsets différents à essayer."
         },
         "notes": [],
         "notes_meta": {
@@ -29699,6 +29671,19 @@
         "description_meta": {
             "status": "done",
             "source": "Alors que les autres mages se plongent dans les livres et explorent en profondeur les savoirs anciens et récents, le mage du plasma se concentre sur la maîtrise des éléments et de l'énergie qui régit l'univers. Il lance peut-être moins de sorts conventionnels que les autres mages, mais il a la capacité de lancer à volonté un nombre illimité de sorts d'évocation simples et, à des niveaux plus élevés, il peut le faire plusieurs fois au cours d'un même round."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2132,
+        "description": "The mod adds a Shrine of Siamorphe to Athkatla's Government District - and it is a perfect place for a place of worship of a deity of nobles and nobility in general. The Shrine, however, comes with more than just the usual temple services. The priest sells items that were inspired by Siamorphe or somehow connected to her portfolio. This mod greatly focuses on this new kind of items, and while it's not the only type of content provided by the mod, it is Siamorphe's Weaponry's main feature.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod ajoute un sanctuaire dédié à Siamorphe dans le quartier du Gouvernement d'Athkatla — un lieu idéal pour le culte d'une divinité vénérée par les nobles et la noblesse en général. Cependant, ce sanctuaire ne se limite pas aux services religieux habituels. Le prêtre y vend des objets inspirés par Siamorphe ou liés d'une manière ou d'une autre à son domaine de compétence. Ce mod met largement l'accent sur ce nouveau type d'objets, et bien qu'il ne s'agisse pas du seul contenu proposé par le mod, c'est la principale caractéristique de « Siamorphe's Weaponry »."
         },
         "notes": [],
         "notes_meta": {

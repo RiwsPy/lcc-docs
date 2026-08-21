@@ -1839,16 +1839,14 @@
             "temnix"
         ],
         "team": [],
-        "notes": [
-            "L'auteur a supprimé le lien de téléchargement. Il a été récupéré et mis en ligne sur le lien github."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "stable"
+            "archived"
         ],
         "last_update": "2023-07-20",
         "compatibilities": {},
@@ -4612,9 +4610,7 @@
             "Faydark"
         ],
         "team": [],
-        "notes": [
-            "Il existe une version directement intégrée dans [[347]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -4623,6 +4619,7 @@
         ],
         "last_update": "2016-04-17",
         "compatibilities": {},
+        "embedded_in": 347,
         "tp2": "non-weidu"
     },
     {
@@ -4818,8 +4815,7 @@
         "team": [],
         "notes": [
             "Attention : Certains joueurs ont signalé que la combinaison de ce mod et de [[1011]] (monstres plus intelligents) pourrait s'avérer un redoutable défi !",
-            "Si vous envisagez d'installer BGSpawn, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]] puisqu'ils modifient la même chose.",
-            "Attention : seule la version de GitHub est aussi compatible EET. En plus, c'est la dernière mise à jour."
+            "Si vous envisagez d'installer BGSpawn, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]] puisqu'ils modifient la même chose."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -17647,7 +17643,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-02-18",
+        "last_update": "2026-08-18",
         "compatibilities": {},
         "tp2": "Horace"
     },
@@ -20762,9 +20758,7 @@
             "Mr2150"
         ],
         "team": [],
-        "notes": [
-            "Il existe une version directement intégrée dans [[347]]."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -20781,6 +20775,7 @@
         ],
         "last_update": "2016-06-26",
         "compatibilities": {},
+        "embedded_in": 347,
         "tp2": "non-weidu"
     },
     {
@@ -24937,9 +24932,7 @@
             "AncientCowboy"
         ],
         "team": [],
-        "notes": [
-            "Il existe une version directement intégrée dans [[347]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [
@@ -24950,6 +24943,7 @@
         ],
         "last_update": "2016-07-15",
         "compatibilities": {},
+        "embedded_in": 347,
         "tp2": "ModOptions"
     },
     {
@@ -34441,9 +34435,7 @@
             "Adul"
         ],
         "team": [],
-        "notes": [
-            "Il existe une version directement intégrée dans [[347]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -34452,6 +34444,7 @@
         ],
         "last_update": "2018-09-29",
         "compatibilities": {},
+        "embedded_in": 347,
         "tp2": "non-weidu"
     },
     {
@@ -39285,7 +39278,7 @@
             "EET"
         ],
         "authors": [
-            "wildgirlmods"
+            "WildGirl"
         ],
         "team": [],
         "notes": [],
@@ -40969,9 +40962,11 @@
             "lijing_hi"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Le mod override le fichier STATS.IDS."
+        ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "cn",
             "en"
@@ -46955,6 +46950,7 @@
         "name": "PnPTweaks",
         "description": "Ce petit mod propose des composants optionnels qui modifie les sorts de soins ainsi que les potions de guérison selon les règles AD&D. Il permet aussi d'augmenter le coût de résurrection dans les temples ainsi que l'identification d'objet dans les magasins.",
         "urls": [
+            "https://forums.beamdog.com/discussion/65923/",
             "https://github.com/BluePear/PnPTweaks"
         ],
         "categories": [
@@ -46968,9 +46964,7 @@
             "BluePear"
         ],
         "team": [],
-        "notes": [
-            "La dernière mise à jour date de 2017. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -47611,7 +47605,7 @@
     {
         "id": 1336,
         "name": "Xan's French Soundset for BG2",
-        "description": "Profitez du jeu de Xan BG2 NPC avec un soundset français original.",
+        "description": "Profitez du jeu de [[1233]] avec un soundset français original.",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/",
             "https://github.com/The-Gate-Project/Xan-BG2_French-Soundset"
@@ -48104,6 +48098,7 @@
         "name": "Thalantyr Item Upgrade Mod Extensions",
         "description": "Ce mod est une extension du mod [[1047]] qui ajoute de nouveaux objets combinables par Thalantyr.",
         "urls": [
+            "https://forums.beamdog.com/discussion/87771/",
             "https://github.com/BardezAnAvatar/BGEE-Thalantyr-Ex"
         ],
         "categories": [
@@ -48127,7 +48122,11 @@
             "stable"
         ],
         "last_update": "2025-12-10",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                1047
+            ]
+        },
         "tp2": "mod-thalantyr-ex"
     },
     {
@@ -48155,7 +48154,6 @@
         ],
         "team": [],
         "notes": [
-            "Compatible qu'avec Windows.",
             "Pour les versions EE, privilégiez [[1351]]."
         ],
         "translation_state": "n/a",
@@ -48165,7 +48163,11 @@
             "stable"
         ],
         "last_update": "2023-07-08",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "Windows"
+            ]
+        },
         "tp2": "n/a"
     },
     {
@@ -49561,9 +49563,7 @@
             "Kilivitz"
         ],
         "team": [],
-        "notes": [
-            "Il existe une version directement intégrée dans [[347]]."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -49572,6 +49572,7 @@
         ],
         "last_update": "2017-02-15",
         "compatibilities": {},
+        "embedded_in": 347,
         "tp2": "non-weidu"
     },
     {
@@ -57351,7 +57352,7 @@
     {
         "id": 1628,
         "name": "Alternate Xan Soundset",
-        "description": "Vous aimez le soundset et l'acteur du mod Xan BG2 NPC de Kulyok ? Emportez-les avec vous dans votre expérience de jeu sur BG1. Deux Soundsets différents à essayer.",
+        "description": "Vous aimez le soundset et l'acteur du mod [[1233]] ? Emportez-les avec vous dans votre expérience de jeu sur BG1. Deux Soundsets différents à essayer.",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
@@ -71622,6 +71623,7 @@
         "name": "Blizzard in Baator",
         "description": "Le passé de Sans Nom recèle encore de nombreux secrets. Certains pourraient même bouleverser sa nature. Celui qui concerne son identité d'origine le mènera dans une dangereuse mission de sauvetage à travers une toute nouvelle région de Sigil, puis dans les profondeurs des Neuf Enfers, jusqu'au 8e niveau – les Terres gelées de Cania – et peut-être même… au-delà ? L'hiver inhospitalier n'est pas le seul danger qui l'y attend. Il peut être encore plus dangereux de se retrouver pris au piège entre les Seigneurs des Neuf Enfers dans leur guerre froide éternelle – Blizzard in Baator.",
         "urls": [
+            "https://grimuar.pl/en/blizzardinbaator/blizzard-in-baator-launch-act-i-is-now-available/",
             "https://www.gibberlings3.net/forums/topic/39952-story-modplanescape-torment-enhanced-edition-blizzard-in-baator-act-1/",
             "https://www.nexusmods.com/planescapetormentenhancededition/mods/20",
             "https://github.com/BallDamage312/blizzard-in-baator"
@@ -74000,5 +74002,38 @@
         "compatibilities": {},
         "embedded_in": 386,
         "tp2": "PlasmaWizardKit"
+    },
+    {
+        "id": 2132,
+        "name": "Siamorphe’s Weaponry",
+        "description": "Ce mod ajoute un sanctuaire dédié à Siamorphe dans le quartier du Gouvernement d'Athkatla — un lieu idéal pour le culte d'une divinité vénérée par les nobles et la noblesse en général. Cependant, ce sanctuaire ne se limite pas aux services religieux habituels. Le prêtre y vend des objets inspirés par Siamorphe ou liés d'une manière ou d'une autre à son domaine de compétence. Ce mod met largement l'accent sur ce nouveau type d'objets, et bien qu'il ne s'agisse pas du seul contenu proposé par le mod, c'est la principale caractéristique de « Siamorphe's Weaponry ».",
+        "urls": [
+            "https://www.weaselmods.net/forumdisplay.php?fid=5",
+            "https://forums.beamdog.com/discussion/90805/",
+            "https://downloads.weaselmods.net/download/siamorphes-weaponry/"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-08-20",
+        "compatibilities": {},
+        "tp2": "SiamorphesWeaponry"
     }
 ]

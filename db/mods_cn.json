@@ -766,14 +766,10 @@
             "status": "done",
             "source": "Ce mod permet de ressusciter les pnjs tombés au combat sous la forme de mort-vivants."
         },
-        "notes": [
-            "作者已删除下载链接。它已被找回并发布在 github 链接上。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "L'auteur a supprimé le lien de téléchargement. Il a été récupéré et mis en ligne sur le lien github."
-            ]
+            "source": []
         }
     },
     {
@@ -1850,14 +1846,10 @@
             "status": "done",
             "source": "Ce mod permet de stocker automatiquement le score de caractéristiques lors de la création d'un personnage en appuyant sur le nouveau bouton \"autoroll\". Ce dernier permet de lancer les dés automatiquement jusqu'à ce que vous obteniez le score souhaité.|Son installation nécessite une manipulation du fichier UI.menu décrite sur la page de téléchargement."
         },
-        "notes": [
-            "存在一个直接集成在[[347]]中的版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -1940,15 +1932,13 @@
         },
         "notes": [
             "注意：一些玩家报告说，这个模组与[[1011]]（更聪明的怪物）的组合可能会成为一个极其可怕的挑战！",
-            "如果您打算安装BGSpawn，请不要安装[[135]]中的‘修改随机敌人生成’组件，因为它们修改的是相同的内容。",
-            "注意：只有GitHub版本也兼容增强版三部曲（EET）。此外，那是最新更新。"
+            "如果您打算安装BGSpawn，请不要安装[[135]]中的‘修改随机敌人生成’组件，因为它们修改的是相同的内容。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
                 "Attention : Certains joueurs ont signalé que la combinaison de ce mod et de [[1011]] (monstres plus intelligents) pourrait s'avérer un redoutable défi !",
-                "Si vous envisagez d'installer BGSpawn, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]] puisqu'ils modifient la même chose.",
-                "Attention : seule la version de GitHub est aussi compatible EET. En plus, c'est la dernière mise à jour."
+                "Si vous envisagez d'installer BGSpawn, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[135]] puisqu'ils modifient la même chose."
             ]
         }
     },
@@ -8352,14 +8342,10 @@
             "status": "done",
             "source": "Ce mod modifie l'affichage des journaux en permettant notamment de filter les informations."
         },
-        "notes": [
-            "存在一个直接集成在 [[347]] 中的版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -10079,14 +10065,10 @@
             "status": "done",
             "source": "Essentiellement destiné aux moddeurs, ce mod ajoute de nouveaux boutons dans les écrans de lancement et d'options du jeu, qui permettent d'afficher les paramètres de mod, à condition qu'ils aient été définis comme complément de l'UI."
         },
-        "notes": [
-            "有一个版本已直接整合进 [[347]]。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -13901,14 +13883,10 @@
             "status": "done",
             "source": "Ce mod a pour but de rendre plus facile et moins longue l'exécution de tâches courantes dans la gestion des magasins et des sacs d'objets, comme vendre ou le déplacer des piles entières d'objets. Par exemple :|- Un simple clic sur un objet dans le volet Vente d'un magasin ou dans l'un ou l'autre volet d'un sac sélectionne la pile entière.|- Le montant par défaut des articles de la pile fractionnée est fixé à 1, de manière cohérente."
         },
-        "notes": [
-            "有一个版本已直接集成在 [[347]] 中。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -16475,8 +16453,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Le mod override le fichier STATS.IDS."
+            ]
         }
     },
     {
@@ -18828,14 +18808,10 @@
             "status": "done",
             "source": "Ce petit mod propose des composants optionnels qui modifie les sorts de soins ainsi que les potions de guérison selon les règles AD&D. Il permet aussi d'augmenter le coût de résurrection dans les temples ainsi que l'identification d'objet dans les magasins."
         },
-        "notes": [
-            "最后更新于2017年。该模组不确定是否与最新补丁兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "La dernière mise à jour date de 2017. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
-            ]
+            "source": []
         }
     },
     {
@@ -19073,8 +19049,8 @@
         "id": 1336,
         "description": "享受带有原创法语音效包的撒恩 BG2 NPC 游戏体验。",
         "description_meta": {
-            "status": "done",
-            "source": "Profitez du jeu de Xan BG2 NPC avec un soundset français original."
+            "status": "needs_review",
+            "source": "Profitez du jeu de [[1233]] avec un soundset français original."
         },
         "notes": [],
         "notes_meta": {
@@ -19301,13 +19277,11 @@
             "source": "Ce programme permet d'injecter une librairie C pour améliorer l'aléatoire de l'InfinityEngine. Lisez le README pour plus d'informations."
         },
         "notes": [
-            "仅兼容 Windows。",
             "对于 EE 版本，请优先选择 [[1351]]。"
         ],
         "notes_meta": {
             "status": "done",
             "source": [
-                "Compatible qu'avec Windows.",
                 "Pour les versions EE, privilégiez [[1351]]."
             ]
         }
@@ -19891,14 +19865,10 @@
             "status": "done",
             "source": "Ce mod rétablit l'interface des livres de Mage et de Prêtre d'avant la version 2.0."
         },
-        "notes": [
-            "存在一个直接集成在 [[347]] 中的版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Il existe une version directement intégrée dans [[347]]."
-            ]
+            "source": []
         }
     },
     {
@@ -23222,8 +23192,8 @@
         "id": 1628,
         "description": "您喜欢Kulyok的《博德之门Ⅱ》NPC模组中Xan的语音包和配音演员吗？现在您可以在您的《博德之门Ⅰ》游戏体验中带上它们。有两种不同的语音包可供尝试。",
         "description_meta": {
-            "status": "done",
-            "source": "Vous aimez le soundset et l'acteur du mod Xan BG2 NPC de Kulyok ? Emportez-les avec vous dans votre expérience de jeu sur BG1. Deux Soundsets différents à essayer."
+            "status": "needs_review",
+            "source": "Vous aimez le soundset et l'acteur du mod [[1233]] ? Emportez-les avec vous dans votre expérience de jeu sur BG1. Deux Soundsets différents à essayer."
         },
         "notes": [],
         "notes_meta": {
@@ -29925,7 +29895,9 @@
             "status": "done",
             "source": "Ce mod ajoute une troupe de jongleurs pour animer la foire de Nashkel. Danse orientale, arts martiaux, blagues, funambules, manèges et quelques vers de poésie. Sans oublier des marchandises exotiques et des récits de contrées lointaines."
         },
-        "notes": ["第一个链接包含波兰语原版，第二个链接包含英语版本。"],
+        "notes": [
+            "第一个链接包含波兰语原版，第二个链接包含英语版本。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -30043,6 +30015,19 @@
         "description_meta": {
             "status": "done",
             "source": "Alors que les autres mages se plongent dans les livres et explorent en profondeur les savoirs anciens et récents, le mage du plasma se concentre sur la maîtrise des éléments et de l'énergie qui régit l'univers. Il lance peut-être moins de sorts conventionnels que les autres mages, mais il a la capacité de lancer à volonté un nombre illimité de sorts d'évocation simples et, à des niveaux plus élevés, il peut le faire plusieurs fois au cours d'un même round."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2132,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute un sanctuaire dédié à Siamorphe dans le quartier du Gouvernement d'Athkatla — un lieu idéal pour le culte d'une divinité vénérée par les nobles et la noblesse en général. Cependant, ce sanctuaire ne se limite pas aux services religieux habituels. Le prêtre y vend des objets inspirés par Siamorphe ou liés d'une manière ou d'une autre à son domaine de compétence. Ce mod met largement l'accent sur ce nouveau type d'objets, et bien qu'il ne s'agisse pas du seul contenu proposé par le mod, c'est la principale caractéristique de « Siamorphe's Weaponry »."
         },
         "notes": [],
         "notes_meta": {

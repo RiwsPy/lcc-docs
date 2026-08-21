@@ -4958,7 +4958,10 @@
         "team": [
             "Eleima"
         ],
-        "translation_state": "todo"
+        "translation_state": "todo",
+        "notes_extra": [
+            "Regardez [[1233]] pour un set de voix en français."
+        ]
     },
     {
         "id": 1234
@@ -7856,5 +7859,8 @@
     },
     {
         "id": 2131
+    },
+    {
+        "id": 2132
     }
 ]
