@@ -14938,7 +14938,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-01-05",
+        "last_update": "2026-08-24",
         "compatibilities": {},
         "tp2": "Foundling"
     },
@@ -16396,7 +16396,8 @@
         "name": "Grog's Custom AI Scripts",
         "description": "Il s'agit d'une collection de scripts intelligents pour IWD : Mage, Clerc, Druide, Clerc/Mage, Clerc/Rôdeur, Paladin, script générique, Guerrier, Anti-lanceur de sorts, Anti-mort-vivant, Barde, Voleur en mode furtif...",
         "urls": [
-            "https://sorcerers.net/Games/IWD/index_mods.php"
+            "https://sorcerers.net/Games/IWD/index_mods.php",
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/ab_scripts.zip"
         ],
         "categories": [
             "Script et tactique"
@@ -16413,11 +16414,11 @@
         "safe": 1,
         "languages": [],
         "status": [
-            "missing"
+            "stable"
         ],
-        "last_update": "2005-01-01",
+        "last_update": "2005-02-10",
         "compatibilities": {},
-        "tp2": "p3e"
+        "tp2": "non-weidu"
     },
     {
         "id": 462,
@@ -24878,7 +24879,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-07-30",
+        "last_update": "2026-08-23",
         "compatibilities": {},
         "tp2": "FoxMonster"
     },
@@ -25188,7 +25189,7 @@
         ],
         "last_update": "2023-01-01",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "morenco"
     },
     {
         "id": 713,
@@ -41651,14 +41652,16 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
-        "safe": 1,
+        "translation_state": "n/a",
+        "safe": 0,
         "languages": [],
         "status": [
-            "missing"
+            "missing",
+            "embed"
         ],
         "last_update": "2009-06-01",
         "compatibilities": {},
+        "embedded_in": 1141,
         "tp2": "usabilityfixer"
     },
     {
