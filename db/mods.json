@@ -4984,14 +4984,18 @@
         "id": 138,
         "name": "Back to Baldur's Gate",
         "description": "Ce mod avait pour vocation de rendre les adversaires beaucoup plus forts dans Baldur's Gate (il modifiait plus de 130 créatures).",
-        "urls": [],
+        "urls": [
+            "http://forums.chosenofmystra.net/index.php?board=92.0"
+        ],
         "categories": [
             "Script et tactique"
         ],
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "xXx"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -6252,7 +6256,11 @@
             "stable"
         ],
         "last_update": "2012-07-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "BIDDE"
     },
     {
@@ -9533,7 +9541,7 @@
             "BGT"
         ],
         "authors": [
-            "MajorTomSawer"
+            "MajorTomSawyer"
         ],
         "team": [],
         "notes": [],
@@ -21497,7 +21505,7 @@
             "BG2EE"
         ],
         "authors": [
-            "CoM_Solaufein"
+            "gilalion"
         ],
         "team": [],
         "notes": [],
@@ -21511,7 +21519,11 @@
             "stable"
         ],
         "last_update": "2016-05-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
         "tp2": "Kindrek"
     },
     {
@@ -23541,6 +23553,7 @@
         "name": "Made in Heaven: Item Pack",
         "description": "Ce mod fait partie de la série \"Made in Heaven\" (avec les sorts, les tweaks et les quêtes). Il ajoute plus d'une centaine d'objets dans Baldur's Gate 1 et 2. Des composants permettent aussi de modifier certains objets du jeu.|Dans BG, un marchand est ajouté dans l'une des maisons inoccupées à gauche de l'auberge du Bras amical. Mais il ne vous vendra pas facilement son stock...",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/29992-my-new-made-in-heaven-mods/",
             "https://github.com/AngelGryph/MadeInHeaven_ItemPack"
         ],
         "categories": [
@@ -23576,6 +23589,7 @@
         "name": "Made in Heaven: Spell Pack",
         "description": "Ce mod fait partie de la série \"Made in Heaven\" (avec les objets, les tweaks et les quêtes). Il ajoute de nouveaux sorts dans Baldur's Gate 1 et 2, ainsi que quelques options pour les paladins. La plupart proviennent soit du Manuel du Joueur, soit de sources officielles sur les Royaumes Oubliés. Quelques-uns sont des créations de l'auteur.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/29992-my-new-made-in-heaven-mods/",
             "https://github.com/AngelGryph/MadeInHeaven_SpellPack"
         ],
         "categories": [
@@ -32131,15 +32145,20 @@
             "Il empêchera tous les pjs bons sauf Aerie et Imoen de rejoindre le groupe."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2012-07-01",
-        "compatibilities": {},
+        "last_update": "2007-12-24",
+        "compatibilities": {
+            "conflicts": [
+                226,
+                1062
+            ]
+        },
         "tp2": "Rylorn"
     },
     {
@@ -60444,7 +60463,8 @@
         "name": "Alexia: An NPC Assassin Mod",
         "description": "Alexia Kalila Johara Al-Mustafa ou X, comme on l'appelle, se dit originaire de la ville de Calimport, dans le pays de Calimshan. Douce et silencieuse, elle a tendance à se tenir à l'écart et à ne parler à personne. C'est une tueuse bien entraînée qui peut atteindre n'importe qui, peu importe le nombre de pièges ou de personnes qui protègent sa cible. Elle aime relever les défis qui se présentent à elle pour atteindre sa cible. Elle n'est pas vantarde, mais elle excelle dans l'art de donner le meilleur d'elle-même. Sa carte de visite est de laisser une note avec un X sur le corps de sa cible et tous les témoins sont généralement tués. Alexia n'appartient à aucune guilde, elle travaille seule et accepte les contrats qui lui plaisent. L'un de ces contrats consiste à tuer Irenicus, c'est pourquoi elle souhaite rejoindre votre groupe.|FOR 14, DEX 18, CON 12, INT 16, SAG 10, CHA 8.",
         "urls": [
-            "https://forums.beamdog.com/discussion/40896/"
+            "https://forums.beamdog.com/discussion/40896/",
+            "http://forums.chosenofmystra.net/index.php?board=95.0"
         ],
         "categories": [
             "PNJ recrutable"
@@ -61517,7 +61537,9 @@
         "id": 1758,
         "name": "Shyhinworunto Chende",
         "description": "Cette guerrière demi-orque chaotique bonne est recrutable dans les Bas quartiers.|FOR 19, DEX 17, CON 15, INT 8, SAG 12, CHA 12.",
-        "urls": [],
+        "urls": [
+            "http://forums.chosenofmystra.net/index.php?board=76.0"
+        ],
         "categories": [
             "PNJ One Day"
         ],
@@ -61526,19 +61548,18 @@
             "BGT"
         ],
         "authors": [
-            "CommandantHuckFinn"
+            "MajorTomSawyer"
         ],
         "team": [],
-        "notes": [
-            "Ce mod en version bêta a disparu en même temps que le site chosenofmystra.net"
-        ],
+        "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "missing"
+            "missing",
+            "beta"
         ],
         "last_update": "2007-11-01",
         "compatibilities": {},
@@ -66554,7 +66575,7 @@
             "en"
         ],
         "status": [
-            "archived"
+            "beta"
         ],
         "last_update": "2018-12-27",
         "compatibilities": {},

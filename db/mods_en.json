@@ -12810,10 +12810,10 @@
             "source": "Un sinistre personnage dédié à la cause de Cyric... Vous pourrez le trouver dans une zone créée pour l'occasion, le `Monastère sombre`. C'est un paladin loyal mauvais avec un kit `Blackguard` créé sur-mesure.|FOR 16, DEX 16, CON 14, INT 10, SAG 13, CHA 18."
         },
         "notes": [
-            "It will prevent all good pjs except Aerie and Imoen from joining the group."
+            "Except Aerie and Imoen no good NPC may join the party."
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Il empêchera tous les pjs bons sauf Aerie et Imoen de rejoindre le groupe."
             ]
@@ -24657,14 +24657,10 @@
             "status": "needs_review",
             "source": "Cette guerrière demi-orque chaotique bonne est recrutable dans les Bas quartiers.|FOR 19, DEX 17, CON 15, INT 8, SAG 12, CHA 12."
         },
-        "notes": [
-            "This beta mod disappeared at the same time as the chosenofmystra.net website."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Ce mod en version bêta a disparu en même temps que le site chosenofmystra.net"
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
