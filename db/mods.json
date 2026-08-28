@@ -25902,7 +25902,7 @@
     {
         "id": 732,
         "name": "NPCs Enhanced... um, for Everyone!",
-        "description": "Ce mod se veut le successeur du fantastique mod [[638]] qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[314]], [[976]], ou encore [[922]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que L1NPCs, mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier).",
+        "description": "Ce mod se veut le successeur du fantastique mod [[638]] qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[314]], [[976]], ou encore [[922]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que [[638]], mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier).",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27526-subtlemods-npc_ee-in-game-customization-for-npcs/",
             "https://forums.beamdog.com/discussion/43305/",
@@ -31292,7 +31292,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-25",
+        "last_update": "2026-08-26",
         "compatibilities": {
             "requires": [
                 "EE version >= 2.0"
@@ -34581,9 +34581,9 @@
     {
         "id": 974,
         "name": "Solestia NPC",
-        "description": "Ce petit mod ajoute un PNJ spécial dans le jeu : Solestia De'Luna. Originaire de Gullykin, cette bretteuse a l'apparence d'une humaine mais est en fait en partie halfelin. Son armure est un héritage familial et elle ne veut pas s'en séparer (petite astuce pour empêcher le jeu de changer son animation en halfling lorsqu'elle change d'armure). Vous la trouverez dans la Couronne de Cuivre avec ses deux cousins halfelins, Shorty et Slinger, qui effectuent des livraisons de vin. Vous n'aurez que trois chances de la recruter : lors de votre première conversation initiale, et deux autres lors de vos visites suivantes à l'auberge. Considérant insultant chaque rejet de ses offres de service, elle et ses cousins finiront par devenir violents.|FOR 16, DEX 17, CON 12, INT 12, SAG 8, CHA 14.",
+        "description": "Ce petit mod ajoute un PNJ spécial dans le jeu : Solestia De'Luna. Originaire de Gullykin, cette bretteuse a l'apparence d'une humaine mais est en fait en partie halfelin. Son armure est un héritage familial et elle ne veut pas s'en séparer (petite astuce pour empêcher le jeu de changer son animation en halfling lorsqu'elle change d'armure). Vous la trouverez dans la Couronne de Cuivre avec ses deux cousins halfelins, Shorty et Slinger, qui effectuent des livraisons de vin. Vous n'aurez que trois chances de la recruter : lors de votre première conversation initiale, et deux autres lors de vos visites suivantes à l'auberge. Considérant insultant chaque rejet de ses offres de service, elle et ses cousins finiront par devenir violents.|FOR 16, DEX 17, CON 12, INT 13, SAG 8, CHA 14.",
         "urls": [
-            "https://www.shsforums.net/topic/45601-missing-mods/page-2#entry492803"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/absolestia.zip"
         ],
         "categories": [
             "PNJ recrutable"
@@ -34605,7 +34605,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2010-07-23",
+        "last_update": "2008-08-11",
         "compatibilities": {},
         "tp2": "abSolestia"
     },
@@ -48899,7 +48899,8 @@
         "last_update": "2026-07-10",
         "compatibilities": {
             "conflicts": [
-                948
+                948,
+                1909
             ]
         },
         "tp2": "LCA"
@@ -50734,7 +50735,12 @@
             "Gameplay"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BGT",
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "igi"
@@ -66548,7 +66554,11 @@
             "beta"
         ],
         "last_update": "2026-06-07",
-        "compatibilities": {},
+        "compatibilities": {
+            "conflicts": [
+                1371
+            ]
+        },
         "tp2": "SoAExtended"
     },
     {
@@ -74071,5 +74081,133 @@
         "last_update": "2026-08-20",
         "compatibilities": {},
         "tp2": "SiamorphesWeaponry"
+    },
+    {
+        "id": 2133,
+        "name": "Pillars of Eternity Portrait Pack",
+        "description": "Un pack d'une centaine de portraits issus du jeu Pillars of Eternity.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/90811/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "amyae"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-08-28",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2134,
+        "name": "Lost Arcana",
+        "description": "Ce mod ajoute un nouveau kit : The Encikkar.|Dans les traditions oubliées, les dualistes représentent les prédécesseurs archaïques des mages spécialisés modernes. Plutôt que de maîtriser une seule école tout en rejetant son antithèse, un dualiste se concentre exclusivement sur deux sphères opposées de la magie, parvenant à une maîtrise totale de leur synthèse tout en rompant complètement tout lien avec toutes les autres écoles.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/129"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Issahssaire88"
+        ],
+        "team": [],
+        "notes": [
+            "⚠️ Séquenceurs et contingences : n'essayez PAS d'utiliser les parchemins « Séquenceur mineur », « Séquenceur de sorts », « Déclencheur de sorts » ou « Contingence ». Le grimoire d'Encikkar étant, par conception, complètement désactivé, toute tentative d'ouverture de l'interface de sélection des séquenceurs via un parchemin provoquera un plantage du jeu et le retour au bureau."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-08-28",
+        "compatibilities": {},
+        "tp2": "Encikkar"
+    },
+    {
+        "id": 2135,
+        "name": "NoMoreTrashRespawn",
+        "description": "Chaque zone du jeu dispose de points d'apparition uniques. Ce mod modifie leur comportement afin qu'ils ne puissent être déclenchés qu'une seule fois tant que vous ne quittez pas la zone.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/112"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "sad0"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": [
+            "hidden"
+        ],
+        "last_update": "2026-01-25",
+        "compatibilities": {},
+        "tp2": "NoMoreTrashRespawn"
+    },
+    {
+        "id": 2136,
+        "name": "Ao chosen bard kit",
+        "description": "Kit totalement surpuissant créé à des fins de test, mais tout à fait jouable si cela ne vous dérange pas d'utiliser un personnage complètement déséquilibré.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/138"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "quasart"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "es"
+        ],
+        "status": [
+            "hidden"
+        ],
+        "last_update": "2026-04-30",
+        "compatibilities": {},
+        "tp2": "quasart-aochosen"
     }
 ]

@@ -10038,7 +10038,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod se veut le successeur du fantastique mod [[638]] qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[314]], [[976]], ou encore [[922]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que L1NPCs, mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier)."
+            "source": "Ce mod se veut le successeur du fantastique mod [[638]] qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[314]], [[976]], ou encore [[922]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que [[638]], mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier)."
         },
         "notes": [],
         "notes_meta": {
@@ -13375,7 +13375,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce petit mod ajoute un PNJ spécial dans le jeu : Solestia De'Luna. Originaire de Gullykin, cette bretteuse a l'apparence d'une humaine mais est en fait en partie halfelin. Son armure est un héritage familial et elle ne veut pas s'en séparer (petite astuce pour empêcher le jeu de changer son animation en halfling lorsqu'elle change d'armure). Vous la trouverez dans la Couronne de Cuivre avec ses deux cousins halfelins, Shorty et Slinger, qui effectuent des livraisons de vin. Vous n'aurez que trois chances de la recruter : lors de votre première conversation initiale, et deux autres lors de vos visites suivantes à l'auberge. Considérant insultant chaque rejet de ses offres de service, elle et ses cousins finiront par devenir violents.|FOR 16, DEX 17, CON 12, INT 12, SAG 8, CHA 14."
+            "source": "Ce petit mod ajoute un PNJ spécial dans le jeu : Solestia De'Luna. Originaire de Gullykin, cette bretteuse a l'apparence d'une humaine mais est en fait en partie halfelin. Son armure est un héritage familial et elle ne veut pas s'en séparer (petite astuce pour empêcher le jeu de changer son animation en halfling lorsqu'elle change d'armure). Vous la trouverez dans la Couronne de Cuivre avec ses deux cousins halfelins, Shorty et Slinger, qui effectuent des livraisons de vin. Vous n'aurez que trois chances de la recruter : lors de votre première conversation initiale, et deux autres lors de vos visites suivantes à l'auberge. Considérant insultant chaque rejet de ses offres de service, elle et ses cousins finiront par devenir violents.|FOR 16, DEX 17, CON 12, INT 13, SAG 8, CHA 14."
         },
         "notes": [],
         "notes_meta": {
@@ -29021,6 +29021,60 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod ajoute un sanctuaire dédié à Siamorphe dans le quartier du Gouvernement d'Athkatla — un lieu idéal pour le culte d'une divinité vénérée par les nobles et la noblesse en général. Cependant, ce sanctuaire ne se limite pas aux services religieux habituels. Le prêtre y vend des objets inspirés par Siamorphe ou liés d'une manière ou d'une autre à son domaine de compétence. Ce mod met largement l'accent sur ce nouveau type d'objets, et bien qu'il ne s'agisse pas du seul contenu proposé par le mod, c'est la principale caractéristique de « Siamorphe's Weaponry »."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2133,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un pack d'une centaine de portraits issus du jeu Pillars of Eternity."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2134,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod ajoute un nouveau kit : The Encikkar.|Dans les traditions oubliées, les dualistes représentent les prédécesseurs archaïques des mages spécialisés modernes. Plutôt que de maîtriser une seule école tout en rejetant son antithèse, un dualiste se concentre exclusivement sur deux sphères opposées de la magie, parvenant à une maîtrise totale de leur synthèse tout en rompant complètement tout lien avec toutes les autres écoles."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "⚠️ Séquenceurs et contingences : n'essayez PAS d'utiliser les parchemins « Séquenceur mineur », « Séquenceur de sorts », « Déclencheur de sorts » ou « Contingence ». Le grimoire d'Encikkar étant, par conception, complètement désactivé, toute tentative d'ouverture de l'interface de sélection des séquenceurs via un parchemin provoquera un plantage du jeu et le retour au bureau."
+            ]
+        }
+    },
+    {
+        "id": 2135,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Chaque zone du jeu dispose de points d'apparition uniques. Ce mod modifie leur comportement afin qu'ils ne puissent être déclenchés qu'une seule fois tant que vous ne quittez pas la zone."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2136,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit totalement surpuissant créé à des fins de test, mais tout à fait jouable si cela ne vous dérange pas d'utiliser un personnage complètement déséquilibré."
         },
         "notes": [],
         "notes_meta": {
