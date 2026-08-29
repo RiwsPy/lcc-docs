@@ -36473,7 +36473,9 @@
             "White Agnus"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Bug: terminer la quête depuis ToB vous renverra à Athkatla."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -74204,10 +74206,44 @@
             "es"
         ],
         "status": [
-            "hidden"
+            "stable"
         ],
         "last_update": "2026-04-30",
         "compatibilities": {},
         "tp2": "quasart-aochosen"
+    },
+    {
+        "id": 2137,
+        "name": "BG1 Style Portraits",
+        "description": "Ce mod améliore la qualité et l'uniformité des portraits des PNJ de groupe, en particulier dans EET.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41525-bg1-style-portraits/",
+            "https://github.com/panshaigan/BG1-Style-Portraits"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "shaigan"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-08-29",
+        "compatibilities": {},
+        "tp2": "BG1StylePortraits"
     }
 ]

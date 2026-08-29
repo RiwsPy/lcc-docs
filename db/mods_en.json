@@ -14514,10 +14514,14 @@
             "status": "needs_review",
             "source": "Le magicien Nomoran a besoin de votre aide pour combattre une horde de monstres près du village d'Anegh. Nouvelles cartes, nouveaux objets et deux fins différentes selon que vous choisissiez de déclencher la quête dans SoA (Nomoran sera à Athkatla) ou ToB (le magicien sera dans Amkethran)."
         },
-        "notes": [],
+        "notes": [
+            "Bug: Ending the quest from ToB will send you back to Athkatla."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Bug: terminer la quête depuis ToB vous renverra à Athkatla."
+            ]
         }
     },
     {
@@ -29736,6 +29740,19 @@
         "description_meta": {
             "status": "done",
             "source": "Kit totalement surpuissant créé à des fins de test, mais tout à fait jouable si cela ne vous dérange pas d'utiliser un personnage complètement déséquilibré."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2137,
+        "description": "This mod improves the quality and consistency of party NPC portraits, especially in EET.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod améliore la qualité et l'uniformité des portraits des PNJ de groupe, en particulier dans EET."
         },
         "notes": [],
         "notes_meta": {

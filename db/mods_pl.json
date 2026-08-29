@@ -14113,8 +14113,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Bug: terminer la quête depuis ToB vous renverra à Athkatla."
+            ]
         }
     },
     {
@@ -29075,6 +29077,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Kit totalement surpuissant créé à des fins de test, mais tout à fait jouable si cela ne vous dérange pas d'utiliser un personnage complètement déséquilibré."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2137,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod améliore la qualité et l'uniformité des portraits des PNJ de groupe, en particulier dans EET."
         },
         "notes": [],
         "notes_meta": {

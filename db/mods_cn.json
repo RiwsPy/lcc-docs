@@ -14686,8 +14686,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Bug: terminer la quête depuis ToB vous renverra à Athkatla."
+            ]
         },
         "team": [
             "Yoshimo0417"
@@ -16452,8 +16454,8 @@
             "source": "Ce mod organise des combats d'arène contre de puissantes créatures extra planaires. Le but est simple : vaincre ou mourir ! Le combat contre le grand maître est le seul qui peut vous rapporter des objets.|Quelques puissants objets sont également en vente."
         },
         "notes": [
-			"该模组会覆盖STATS.IDS文件。"
-		],
+            "该模组会覆盖STATS.IDS文件。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -30080,6 +30082,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Kit totalement surpuissant créé à des fins de test, mais tout à fait jouable si cela ne vous dérange pas d'utiliser un personnage complètement déséquilibré."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2137,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod améliore la qualité et l'uniformité des portraits des PNJ de groupe, en particulier dans EET."
         },
         "notes": [],
         "notes_meta": {
