@@ -1,0 +1,61 @@
+    <fieldset id="game-select">
+        <div class="search_game_items">
+            <div class="search_item game">
+                <input type="radio" id="game-all" oninput="filterMod()" name="game" value="" checked>
+                <label for="game-all">{{ _(trans["all"]) }}</label>
+            </div>
+            {% for game in games %}
+                <div class="search_item game">
+                    <input type="radio" id="{{ game }}" oninput="filterMod()" name="game" value="{{ game }}">
+                    <label for="{{ game }}"><img src="{{ static }}img/ie_games_{{ game.lower() }}.avif" height="66" alt="{{ game }}" title="{{ game }}"/></label>
+                </div>
+            {% endfor %}
+        </div>
+    </fieldset>
+    <fieldset id="translation-select">
+        <legend>{{ _(trans["translation_state"]) }}</legend>
+        <div class="search_items">
+            <div class="search_item translation">
+                <input type="radio" id="translation-all" oninput="filterMod()" name="trans" value="" checked />
+                <label for="translation-all">{{ _(trans["all"]) }}</label>
+            </div>
+            {% for icon_data in attrs_icon_data.translation_state_auto.values() %}
+            <div class="search_item translation">
+                <input type="radio" id="translation-{{ loop.index }}" oninput="filterMod()" name="trans" value="{{ icon_data.icon }}" />
+                <label for="translation-{{ loop.index }}">{{ icon_data.icon }} {{ _(icon_data.label) }}</label>
+            </div>
+            {% endfor %}
+        </div>
+    </fieldset>
+
+    <fieldset id="category-select">
+        <legend>{{ _(trans["category"]) }}</legend>
+        <div class="search_items">
+            <div class="search_item">
+                <input type="radio" id="category-all" oninput="filterByCategory()" name="cat" value="" checked>
+                <label for="category-all">{{ _(trans["all_f"]) }}</label>
+            </div>
+            {% for category in categories.keys() %}
+                <div class="search_item">
+                    <input type="radio" id="{{ category.value }}" oninput="filterByCategory()" name="cat" value="{{ _(category.value) }}"/>
+                    <label for="{{ category.value }}">{{ _(category.value) }}</label>
+                </div>
+            {% endfor %}
+        </div>
+    </fieldset>
+
+    <fieldset id="quality-select">
+        <legend>{{ _(trans["mod_quality"]) }}</legend>
+        <div class="search_items">
+            <div class="search_item">
+                <input type="radio" id="quality-all" oninput="filterMod()" name="quality" value="" checked />
+                <label for="quality-all">{{ _(trans["all_f"]) }}</label>
+            </div>
+            {% for icon_data in attrs_icon_data.safe.values() %}
+                <div class="search_item">
+                    <input type="radio" id="quality-{{ loop.index }}" oninput="filterMod()" name="quality" value="{{ icon_data.icon }}"/>
+                    <label for="quality-{{ loop.index }}">{{ icon_data.icon }} {{ _(icon_data.label) }}</label>
+                </div>
+            {% endfor %}
+        </div>
+    </fieldset>
