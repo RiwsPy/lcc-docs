@@ -13255,7 +13255,7 @@
         "name": "Enhanced Edition Trilogy",
         "description": "L'équivalent de [[148]] pour les jeux EE. Il permet de jouer à la suite les volets BGEE, SoD et BG2EE.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/27756-download-links/",
+            "https://www.gibberlings3.net/forums/forum/195-enhanced-edition-trilogy/",
             "https://github.com/Gibberlings3/EET"
         ],
         "categories": [
@@ -13701,9 +13701,10 @@
     {
         "id": 384,
         "name": "Evilness",
-        "description": "Ce mod diminue la puissance de certains objets magiques (par exemple, Furie céleste devient un katana +3, Karsomir ne donne pas de résistance à la magie et ne dissipe plus la magie quand elle touche). Certains autres objets ont disparu (comme l'anneau de Gaxx). Notez que ces objets conservent leur code afin d'être reconnus par les mods forgerons.|D'autre composants permettent de modifier certains points du jeu, comme des cottes de maille elfiques sans restriction de classe, de nouveaux PNJ dans le Donjon d'Irenicus...",
+        "description": "Ce mod diminue la puissance de certains objets magiques (par exemple, Furie céleste devient un katana +3, Carsomyr ne donne pas de résistance à la magie et ne dissipe plus la magie quand elle touche). Certains autres objets ont disparu (comme l'anneau de Gaxx). Notez que ces objets conservent leur code afin d'être reconnus par les mods forgerons.|D'autre composants permettent de modifier certains points du jeu, comme des cottes de maille elfiques sans restriction de classe, de nouveaux PNJ dans le Donjon d'Irenicus...",
         "urls": [
-            "https://www.shsforums.net/topic/40495-evilness-mod-02/"
+            "https://www.shsforums.net/topic/40495-evilness-mod-02/",
+            "https://www.gibberlings3.net/forums/topic/17360-evilness-mod-02/"
         ],
         "categories": [
             "Sort et objet"
@@ -13720,13 +13721,13 @@
             "Bien que le mod soit compatible WeiDU, il s'agit d'un mod override."
         ],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en",
             "pl"
         ],
         "status": [
-            "stable"
+            "beta"
         ],
         "last_update": "2009-05-09",
         "compatibilities": {},
@@ -13800,7 +13801,7 @@
     {
         "id": 387,
         "name": "Expanded Thief Stronghold",
-        "description": "Ce mod étend la quête de la forteresse du voleur pour la rendre plus intéressante. Vous y retrouverez au passage des personnages de Baldur's Gate comme Lis Noir, Narlen Marchombre...",
+        "description": "Ce mod étend la quête de la forteresse du voleur pour la rendre plus intéressante en y ajoutant des quêtes. Vous y retrouverez au passage des personnages comme Narlen Marchombre et Lis Noir de la guilde des Voleurs de l'Ombre.",
         "urls": [
             "https://github.com/Spellhold-Studios/Expanded-Thief-Stronghold"
         ],
@@ -13833,7 +13834,11 @@
             "stable"
         ],
         "last_update": "2024-12-15",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "ToB version 26498"
+            ]
+        },
         "tp2": "gbthfkp"
     },
     {
@@ -13895,7 +13900,7 @@
         "safe": 0,
         "languages": [],
         "status": [
-            "stable"
+            "obsolete"
         ],
         "last_update": "2013-11-28",
         "compatibilities": {},
@@ -13948,7 +13953,7 @@
             "https://github.com/GraionDilach/ExtraExpandedEnhancedEncounters"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -14046,9 +14051,9 @@
     {
         "id": 394,
         "name": "Fade NPC",
-        "description": "Il s'agit d'une elfe tieffeline, une Fey'ri, d'alignement chaotique neutre, et voleuse mono-classée. C'est une des lieutenants d'Aran Linvail, et elle dispose de capacités magiques du fait de son ascendance. Sa romance peut être menée par n'importe quel personnage mâle, quel que soit sa classe, sa race ou son alignement. Recrutez-la suffisamment tôt, ses romance et quêtes personnelle étant relativement longues. À l'occasion de la sortie de la partie ToB, le mod est repassé en anglais, et sa verve est conséquente : banters avec les PNJ de Bioware et certains voleurs de l'ombre, des flirts, de nouveaux protagonistes, 2 quêtes principales et une quête plus farfelue.|FOR 14, DEX 19, CON 10, INT 16, SAG 11, CHA 16.",
+        "description": "Il s'agit d'une elfe tieffeline, une Fey'ri, d'alignement chaotique neutre, et voleuse mono-classée. C'est une des lieutenants d'Aran Linvail, et elle dispose de capacités magiques du fait de son ascendance. Sa romance peut être menée par n'importe quel personnage mâle, quel que soit sa classe, sa race ou son alignement. Recrutez-la suffisamment tôt, ses romances et quêtes personnelles étant relativement longues. À l'occasion de la sortie de la partie ToB, le mod est repassé en anglais, et sa verve est conséquente : banters avec les PNJ de Bioware et certains voleurs de l'ombre, des flirts, de nouveaux protagonistes, 2 quêtes principales et une quête plus farfelue.|FOR 14, DEX 19, CON 10, INT 16, SAG 11, CHA 16.",
         "urls": [
-            "https://www.shsforums.net/topic/57399-version-4-with-tob-part-is-now-available/",
+            "https://www.shsforums.net/forum/322-fade/",
             "https://github.com/Spellhold-Studios/Fade-NPC"
         ],
         "categories": [
@@ -21633,6 +21638,7 @@
         "description": "Ce mod ajoute des tomes magiques dans Baldur's Gate. Ces tomes peuvent attribuer un kit à votre personnage ou à un PNJ. Vous avez la possibilité d'obtenir ces tomes soit en les achetant auprès du marchand Panver à l'extérieur du Bras amical, soit comme récompense d'une nouvelle quête (dans ce cas, Panver se trouvera dans l'auberge du Chant de l'Elfe à la Porte de Baldur).",
         "urls": [
             "https://www.shsforums.net/topic/56256-kit-tomes-for-bgt-tutu-bgee/",
+            "https://forums.beamdog.com/discussion/18629/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Setup-Kittomesv201.zip"
         ],
         "categories": [
@@ -48898,11 +48904,10 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-10",
+        "last_update": "2026-08-29",
         "compatibilities": {
             "conflicts": [
-                948,
-                1909
+                948
             ]
         },
         "tp2": "LCA"
@@ -63165,7 +63170,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-11",
+        "last_update": "2026-08-31",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -66556,11 +66561,7 @@
             "beta"
         ],
         "last_update": "2026-06-07",
-        "compatibilities": {
-            "conflicts": [
-                1371
-            ]
-        },
+        "compatibilities": {},
         "tp2": "SoAExtended"
     },
     {
@@ -67021,6 +67022,7 @@
         "description": "The Forgotten Edge restaure et développe l'épée courte volée de Perdué, la transformant en une arme utile sur les deux jeux. Elle commence comme une modeste lame dans BG1 et peut ensuite être reforgé par Cromwell dans BG2 pour devenir une arme mortelle infligeant des dégâts d'acide et d'ombre. Le mod est conçu pour s'intégrer naturellement au contenu existant, sans perturber l'équilibre ou le déroulement du récit.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/40922-the-forgotten-edge-v01-%E2%80%93-perdue%E2%80%99s-sword-expanded-bg1eebg2ee/",
+            "https://forums.beamdog.com/discussion/90698/",
             "https://github.com/Secretum-Nexum/TheForgottenEdge/"
         ],
         "categories": [
@@ -74218,6 +74220,7 @@
         "description": "Ce mod améliore la qualité et l'uniformité des portraits des PNJ de groupe, en particulier dans EET.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/41525-bg1-style-portraits/",
+            "https://forums.beamdog.com/discussion/90813/",
             "https://github.com/panshaigan/BG1-Style-Portraits"
         ],
         "categories": [
@@ -74242,7 +74245,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-29",
+        "last_update": "2026-08-31",
         "compatibilities": {},
         "tp2": "BG1StylePortraits"
     }
