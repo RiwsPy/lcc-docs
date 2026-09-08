@@ -70,14 +70,10 @@
             "status": "done",
             "source": "Ce mod a pour ambition de remplacer les mécanismes de lancement de sorts des jeux IE par les règles de D&D 5e (lancement de sort \"semi-instantané\" )."
         },
-        "notes": [
-            "此模组与 2.5 版本之前的游戏版本不兼容。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Mod incompatible avec une version du jeu antérieure au patch 2.5."
-            ]
+            "source": []
         }
     },
     {
@@ -25281,14 +25277,10 @@
             "status": "done",
             "source": "Réduit le niveau de compression utilisé par l'édition améliorée du moteur Infinity Engine de Beamdog lors de l'enregistrement. Cela accélère le processus de sauvegarde pour les parties en fin de jeu, au prix d'une légère augmentation de la taille de stockage."
         },
-        "notes": [
-            "仅适用于游戏的2.6版本。"
-        ],
+        "notes": [],
         "notes_meta": {
             "status": "done",
-            "source": [
-                "Ne fonctionne que sur les versions 2.6 du jeu."
-            ]
+            "source": []
         }
     },
     {
@@ -30095,6 +30087,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod améliore la qualité et l'uniformité des portraits des PNJ de groupe, en particulier dans EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2138,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Il s'agit d'une version réduite et non officielle du mod [[622]]."
         },
         "notes": [],
         "notes_meta": {

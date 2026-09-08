@@ -155,9 +155,7 @@
             "Subtledoctor"
         ],
         "team": [],
-        "notes": [
-            "Mod incompatible avec une version du jeu antérieure au patch 2.5."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -167,8 +165,12 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-11-18",
-        "compatibilities": {},
+        "last_update": "2026-09-03",
+        "compatibilities": {
+            "requires": [
+                "EE version >= 2.5"
+            ]
+        },
         "tp2": "5E_spellcasting"
     },
     {
@@ -763,7 +765,8 @@
             "en",
             "fr",
             "ru",
-            "es"
+            "es",
+            "it"
         ],
         "status": [
             "stable"
@@ -4653,7 +4656,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-02-15",
+        "last_update": "2026-09-03",
         "compatibilities": {},
         "tp2": "BGEEClassicMovies"
     },
@@ -14161,7 +14164,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-02-22",
+        "last_update": "2026-09-03",
         "compatibilities": {
             "conflicts": [
                 297,
@@ -19398,7 +19401,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-05",
+        "last_update": "2026-08-24",
         "compatibilities": {},
         "tp2": "InLoveUndeath"
     },
@@ -21663,7 +21666,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2013-05-20",
+        "last_update": "2013-06-09",
         "compatibilities": {},
         "tp2": "kittomes"
     },
@@ -23699,7 +23702,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-11-18",
+        "last_update": "2026-09-03",
         "compatibilities": {},
         "tp2": "Magic_Battles_Revised"
     },
@@ -24342,7 +24345,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-02-22",
+        "last_update": "2026-09-03",
         "compatibilities": {
             "conflicts": [
                 894
@@ -25937,7 +25940,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-11-26",
+        "last_update": "2026-09-03",
         "compatibilities": {
             "conflicts": [
                 638
@@ -32022,6 +32025,7 @@
         "games": [
             "BG2",
             "BGT",
+            "BGEE",
             "BG2EE",
             "EET",
             "IWDEE"
@@ -32733,13 +32737,14 @@
         "safe": 0,
         "languages": [
             "en",
-            "pl"
+            "pl",
+            "fr"
         ],
         "status": [
             "embed",
             "archived"
         ],
-        "last_update": "2023-09-26",
+        "last_update": "2026-09-08",
         "compatibilities": {},
         "tp2": "scales_of_balance"
     },
@@ -33294,7 +33299,8 @@
             "BG2",
             "BGT",
             "BG2EE",
-            "EET"
+            "EET",
+            "SoD"
         ],
         "authors": [
             "Nicolas Peters"
@@ -33354,7 +33360,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-05-20",
+        "last_update": "2026-08-23",
         "compatibilities": {},
         "tp2": "k9SharteelNPC"
     },
@@ -34102,7 +34108,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-03-31",
+        "last_update": "2026-08-28",
         "compatibilities": {
             "conflicts": [
                 961,
@@ -34262,7 +34268,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-12-30",
+        "last_update": "2026-09-06",
         "compatibilities": {},
         "tp2": "SkitiaNPCs"
     },
@@ -38568,7 +38574,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04-26",
+        "last_update": "2026-08-23",
         "compatibilities": {},
         "tp2": "kuldahar"
     },
@@ -39756,12 +39762,13 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-03-19",
+        "last_update": "2026-09-03",
         "compatibilities": {},
         "tp2": "TomeAndBlood"
     },
@@ -41965,7 +41972,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-12-28",
+        "last_update": "2026-08-31",
         "compatibilities": {},
         "tp2": "Varshoon"
     },
@@ -43432,7 +43439,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-01-12",
+        "last_update": "2026-08-18",
         "compatibilities": {},
         "tp2": "willowisp"
     },
@@ -43463,12 +43470,13 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "es"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-09-20",
+        "last_update": "2026-09-04",
         "compatibilities": {},
         "tp2": "Will_to_Power"
     },
@@ -43598,6 +43606,7 @@
         "games": [
             "BG2",
             "BGT",
+            "BGEE",
             "BG2EE",
             "EET",
             "IWDEE"
@@ -43682,7 +43691,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2008-03-04",
+        "last_update": "2007-04-05",
         "compatibilities": {},
         "tp2": "worgas"
     },
@@ -45439,7 +45448,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-09-20",
+        "last_update": "2026-09-03",
         "compatibilities": {},
         "tp2": "Combat_Skill_Proficiencies"
     },
@@ -45504,12 +45513,13 @@
         "languages": [
             "en",
             "fr",
-            "pl"
+            "pl",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-02-22",
+        "last_update": "2026-09-03",
         "compatibilities": {},
         "tp2": "SubtleD_Stat_Overhauls"
     },
@@ -46553,7 +46563,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-10-03",
+        "last_update": "2026-09-03",
         "compatibilities": {},
         "tp2": "SubtleD_Spell_Tweaks"
     },
@@ -47119,7 +47129,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-12",
+        "last_update": "2026-09-05",
         "compatibilities": {},
         "tp2": "A7-WaresOfThePlanes"
     },
@@ -47252,7 +47262,8 @@
             "br",
             "cn",
             "es",
-            "fr"
+            "fr",
+            "it"
         ],
         "status": [
             "stable"
@@ -49409,7 +49420,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-29",
+        "last_update": "2026-08-29",
         "compatibilities": {},
         "tp2": "lichdom"
     },
@@ -50890,7 +50901,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-03-18",
+        "last_update": "2026-09-05",
         "compatibilities": {},
         "tp2": "Reflections_of_Destiny"
     },
@@ -53320,12 +53331,13 @@
         "languages": [
             "en",
             "pl",
-            "cn"
+            "cn",
+            "it"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-28",
+        "last_update": "2026-08-28",
         "compatibilities": {},
         "tp2": "BookOfTorment"
     },
@@ -57038,7 +57050,8 @@
             "it",
             "ru",
             "fr",
-            "pt"
+            "pt",
+            "cn"
         ],
         "status": [
             "stable"
@@ -62050,7 +62063,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-10",
+        "last_update": "2026-08-30",
         "compatibilities": {},
         "tp2": "Samourai"
     },
@@ -62317,17 +62330,19 @@
             "Bubb"
         ],
         "team": [],
-        "notes": [
-            "Ne fonctionne que sur les versions 2.6 du jeu."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": [
             "stable"
         ],
-        "last_update": "2025-08-01",
-        "compatibilities": {},
+        "last_update": "2026-08-19",
+        "compatibilities": {
+            "requires": [
+                "EE version == 2.6"
+            ]
+        },
         "tp2": "B3-ReduceSaveCompression"
     },
     {
@@ -63170,7 +63185,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-31",
+        "last_update": "2026-09-07",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -64228,7 +64243,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-17",
+        "last_update": "2026-09-05",
         "compatibilities": {},
         "tp2": "jarnip"
     },
@@ -70134,13 +70149,23 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "br",
+            "cn",
+            "de",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pl",
+            "ru"
+        ],
         "status": [
             "beta"
         ],
-        "last_update": "2026-07-19",
+        "last_update": "2026-08-30",
         "compatibilities": {
             "requires": [
                 "Windows",
@@ -70345,7 +70370,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-07-27",
+        "last_update": "2026-08-19",
         "compatibilities": {
             "requires": [
                 "Python",
@@ -70465,7 +70490,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Xgatt"
@@ -71881,7 +71907,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-08",
+        "last_update": "2026-09-06",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -71984,7 +72010,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-03-16",
+        "last_update": "2026-09-07",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
@@ -72931,7 +72957,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-30",
+        "last_update": "2026-08-23",
         "compatibilities": {
             "requires": [
                 "EE version >= 2.6"
@@ -73062,7 +73088,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-08-11",
+        "last_update": "2026-08-29",
         "compatibilities": {
             "requires": [
                 348
@@ -73102,7 +73128,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-29",
+        "last_update": "2026-08-29",
         "compatibilities": {
             "requires": [
                 2102
@@ -73142,7 +73168,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-08-01",
+        "last_update": "2026-08-29",
         "compatibilities": {
             "requires": [
                 2102
@@ -73288,7 +73314,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2022-11-22",
+        "last_update": "2022-11-23",
         "compatibilities": {},
         "tp2": "HollyElf"
     },
@@ -73322,7 +73348,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2022-11-22",
+        "last_update": "2022-11-23",
         "compatibilities": {},
         "tp2": "CtBVamp"
     },
@@ -73355,7 +73381,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-10",
+        "last_update": "2026-08-18",
         "compatibilities": {},
         "tp2": "Barbarian"
     },
@@ -74063,7 +74089,8 @@
             "https://downloads.weaselmods.net/download/siamorphes-weaponry/"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "Quête",
+            "Sort et objet"
         ],
         "games": [
             "BG2EE",
@@ -74082,7 +74109,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-20",
+        "last_update": "2026-08-23",
         "compatibilities": {},
         "tp2": "SiamorphesWeaponry"
     },
@@ -74114,7 +74141,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-28",
+        "last_update": "2026-08-27",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
@@ -74245,8 +74272,39 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-31",
+        "last_update": "2026-09-01",
         "compatibilities": {},
         "tp2": "BG1StylePortraits"
+    },
+    {
+        "id": 2138,
+        "name": "Champion of Bhaal Lite",
+        "description": "Il s'agit d'une version réduite et non officielle du mod [[622]].",
+        "urls": [
+            "https://forums.beamdog.com/discussion/90828/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "Cocrane",
+            "Mapek"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-09-07",
+        "compatibilities": {},
+        "tp2": "cdb-lite"
     }
 ]

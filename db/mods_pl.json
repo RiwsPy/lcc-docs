@@ -66,10 +66,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Mod incompatible avec une version du jeu antérieure au patch 2.5."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -24374,10 +24372,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Ne fonctionne que sur les versions 2.6 du jeu."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -29090,6 +29086,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod améliore la qualité et l'uniformité des portraits des PNJ de groupe, en particulier dans EET."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2138,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Il s'agit d'une version réduite et non officielle du mod [[622]]."
         },
         "notes": [],
         "notes_meta": {
