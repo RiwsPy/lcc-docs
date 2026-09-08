@@ -63177,7 +63177,10 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
+            "cz",
+            "de",
             "en",
+            "pl",
             "ru",
             "cn",
             "fr"
@@ -63185,7 +63188,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-07",
+        "last_update": "2026-09-09",
         "compatibilities": {
             "conflicts": [
                 1286

@@ -5496,9 +5496,9 @@
     },
     {
         "id": 384,
-        "description": "这个模组降低了某些魔法物品的威力（例如，天圣怒火变成一把+3的武士刀，卡索米尔不再提供魔法抗性，也不再在接触时驱散魔法）。其他一些物品已经消失（如加克斯的戒指）。请注意，这些物品保留了它们的代码，以便锻造模组能够识别它们。|其他组件允许修改游戏中的某些内容，例如没有职业限制的精灵锁子甲，艾瑞尼卡斯地牢中的新NPC……",
+        "description": "该模组削弱了某些魔法物品的威力（例如，“天生怒火”变为+3武士刀，卡索米尔不再提供魔法抗力且在命中时不再驱散魔法）。另有一些物品被移除（例如，葛斯之戒）。请注意，这些物品保留了其代码，以便被锻造类模组识别。|其他组件允许修改游戏中的某些方面，例如移除精灵锁子甲的职业限制、在艾瑞尼卡斯的地牢中增加新的NPC等。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod diminue la puissance de certains objets magiques (par exemple, Furie céleste devient un katana +3, Carsomyr ne donne pas de résistance à la magie et ne dissipe plus la magie quand elle touche). Certains autres objets ont disparu (comme l'anneau de Gaxx). Notez que ces objets conservent leur code afin d'être reconnus par les mods forgerons.|D'autre composants permettent de modifier certains points du jeu, comme des cottes de maille elfiques sans restriction de classe, de nouveaux PNJ dans le Donjon d'Irenicus..."
         },
         "notes": [
@@ -5539,9 +5539,9 @@
     },
     {
         "id": 387,
-        "description": "这个模组扩展了盗贼要塞的任务，使其更有趣。你会在途中遇到博德之门中的人物，如黑发莉丝、纳伦·影木……",
+        "description": "这个模组扩展了盗贼要塞的任务，通过增加一些任务使其更加有趣。你还会在其中遇到影贼公会的纳伦·影木（Narlen Marchombre）和黑发莉丝（Lis Noir）等人物。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod étend la quête de la forteresse du voleur pour la rendre plus intéressante en y ajoutant des quêtes. Vous y retrouverez au passage des personnages comme Narlen Marchombre et Lis Noir de la guilde des Voleurs de l'Ombre."
         },
         "notes": [],
@@ -10446,9 +10446,9 @@
     },
     {
         "id": 732,
-        "description": "这个模组旨在成为神奇模组[[638]]的继承者，该模组从未为EE游戏更新过，因为其作者已不再活跃。它为所有可招募角色提供了职业和职业档案的选择。对于每个角色，选择都限于作者认为合适的内容，但它也包含了来自[[314]]、[[976]]或[[922]]（同一作者）的模组职业档案，前提是这些模组已提前安装。因此，建议您在所有模组中最后安装它。因此，它不像L1NPCs那样全面和灵活，但有一个主要优点：您可以通过一个特殊的、可在游戏中使用的内在能力来改变每个NPC的职业档案。这个能力只能使用一次，所以要谨慎选择！它会触发一个对话，让您有机会为这个职业选择任何宗派……这包括您可能安装的所有模组宗派。在WeiDU安装中将明斯克设为战士，然后使用这个能力让他变成野蛮人！（野蛮人实际上，从技术上讲，是一个战士宗派）。",
+        "description": "该模组旨在成为优秀模组[[638]]的继任者，原模组从未针对增强版（EE）游戏进行更新，且其作者已不再活跃。它为所有可招募角色提供了职业和宗派选择。对于每个角色，选择范围仅限于作者认为合理的选项，但同时也包含了[[314]]、[[976]]以及[[922]]（同为该作者作品）等模组中的宗派，前提是这些模组已事先安装。因此，建议将其放在最后几个安装的模组中。|它并不像[[638]]那样全面和灵活，但有一个主要优势：你可以通过游戏中一个特殊的先天能力随时更改每个NPC的宗派。该能力只能使用一次，所以请慎重选择！它会触发一段对话，让你能够为该职业选择任意宗派……这包括你所安装的所有模组宗派。例如，你可以在WeiDU安装中让明斯克成为战士，然后再使用此能力将其变成野蛮人！（实际上，野蛮人在技术上属于战士的宗派。）",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod se veut le successeur du fantastique mod [[638]] qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[314]], [[976]], ou encore [[922]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que [[638]], mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier)."
         },
         "notes": [],
@@ -14680,9 +14680,11 @@
             "status": "done",
             "source": "Le magicien Nomoran a besoin de votre aide pour combattre une horde de monstres près du village d'Anegh. Nouvelles cartes, nouveaux objets et deux fins différentes selon que vous choisissiez de déclencher la quête dans SoA (Nomoran sera à Athkatla) ou ToB (le magicien sera dans Amkethran)."
         },
-        "notes": [],
+        "notes": [
+			"BUG：从《巴尔王座》（ToB）完成该任务会将你送回阿斯卡特拉（Athkatla）。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Bug: terminer la quête depuis ToB vous renverra à Athkatla."
             ]
@@ -30029,9 +30031,9 @@
     },
     {
         "id": 2133,
-        "description": "",
+        "description": "一个来自《永恒之柱》（Pillars of Eternity）游戏的肖像包，包含约一百张肖像。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Un pack d'une centaine de portraits issus du jeu Pillars of Eternity."
         },
         "notes": [],
@@ -30042,14 +30044,15 @@
     },
     {
         "id": 2134,
-        "description": "",
+        "description": "这个模组新增了一个宗派：“恩西卡”（The Encikkar）。 |在被遗忘的古老传统中，二元师代表着现代专精法师的古老前身。二元师并非专精于一派学派而禁制其对立学派，而是专注于两个对立的魔法学派，从而精通两者的融合，但与此同时彻底断绝了与其他所有学派的联系。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod ajoute un nouveau kit : The Encikkar.|Dans les traditions oubliées, les dualistes représentent les prédécesseurs archaïques des mages spécialisés modernes. Plutôt que de maîtriser une seule école tout en rejetant son antithèse, un dualiste se concentre exclusivement sur deux sphères opposées de la magie, parvenant à une maîtrise totale de leur synthèse tout en rompant complètement tout lien avec toutes les autres écoles."
         },
-        "notes": [],
+        "notes": ["⚠️序列器和意外术：请勿尝试使用「小型序列器」、「法术序列器」、「法术触发」或「意外术」卷轴。由于恩西卡（Encikkar）的法术书在设计上被完全禁用，任何通过卷轴打开序列器选择界面的尝试都将导致游戏崩溃并退回桌面。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "⚠️ Séquenceurs et contingences : n'essayez PAS d'utiliser les parchemins « Séquenceur mineur », « Séquenceur de sorts », « Déclencheur de sorts » ou « Contingence ». Le grimoire d'Encikkar étant, par conception, complètement désactivé, toute tentative d'ouverture de l'interface de sélection des séquenceurs via un parchemin provoquera un plantage du jeu et le retour au bureau."
             ]
@@ -30057,9 +30060,9 @@
     },
     {
         "id": 2135,
-        "description": "",
+        "description": "游戏中的每个区域都拥有独特的刷新点。这个模组修改了它们的行为，使得只要你不离开该区域，这些刷新点就只能被触发一次。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Chaque zone du jeu dispose de points d'apparition uniques. Ce mod modifie leur comportement afin qu'ils ne puissent être déclenchés qu'une seule fois tant que vous ne quittez pas la zone."
         },
         "notes": [],
@@ -30070,9 +30073,9 @@
     },
     {
         "id": 2136,
-        "description": "",
+        "description": "完全超模的职业宗派，专为测试目的而创建，但如果你不介意使用一个彻底失衡的角色，它完全可以用于正常游戏。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Kit totalement surpuissant créé à des fins de test, mais tout à fait jouable si cela ne vous dérange pas d'utiliser un personnage complètement déséquilibré."
         },
         "notes": [],
@@ -30083,9 +30086,9 @@
     },
     {
         "id": 2137,
-        "description": "",
+        "description": "该模组提升了队友NPC肖像的质量和统一性，尤其是在EET（增强版三部曲）中。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod améliore la qualité et l'uniformité des portraits des PNJ de groupe, en particulier dans EET."
         },
         "notes": [],
@@ -30096,9 +30099,9 @@
     },
     {
         "id": 2138,
-        "description": "",
+        "description": "这是[[622]]号模组的一个精简非官方版本。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Il s'agit d'une version réduite et non officielle du mod [[622]]."
         },
         "notes": [],
