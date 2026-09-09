@@ -29764,5 +29764,35 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2139,
+        "description": "This kit simulates a fighter/sorcerer. He can specialise in all weapons and carry all items.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce kit simule un guerrier/sorcier. Il peut se spécialiser dans toutes les armes et porter tous les objets."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2140,
+        "description": "This mod alters the metamorphoses of mages and druids: it modifies the characters’ weapons, making the metamorphoses more realistic and closer to their real-life counterparts.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod modifie les métamorphoses des mages et des druides : il altère l'arme des personnages rendant les métamorphoses plus réalistes et plus proches de leur version réelle."
+        },
+        "notes": [
+            "It overwrites the relevant spell files."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Il écrase les fichiers des sorts concernés."
+            ]
+        }
     }
 ]

@@ -14681,8 +14681,8 @@
             "source": "Le magicien Nomoran a besoin de votre aide pour combattre une horde de monstres près du village d'Anegh. Nouvelles cartes, nouveaux objets et deux fins différentes selon que vous choisissiez de déclencher la quête dans SoA (Nomoran sera à Athkatla) ou ToB (le magicien sera dans Amkethran)."
         },
         "notes": [
-			"BUG：从《巴尔王座》（ToB）完成该任务会将你送回阿斯卡特拉（Athkatla）。"
-		],
+            "BUG：从《巴尔王座》（ToB）完成该任务会将你送回阿斯卡特拉（Athkatla）。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -30049,8 +30049,9 @@
             "status": "done",
             "source": "Ce mod ajoute un nouveau kit : The Encikkar.|Dans les traditions oubliées, les dualistes représentent les prédécesseurs archaïques des mages spécialisés modernes. Plutôt que de maîtriser une seule école tout en rejetant son antithèse, un dualiste se concentre exclusivement sur deux sphères opposées de la magie, parvenant à une maîtrise totale de leur synthèse tout en rompant complètement tout lien avec toutes les autres écoles."
         },
-        "notes": ["⚠️序列器和意外术：请勿尝试使用「小型序列器」、「法术序列器」、「法术触发」或「意外术」卷轴。由于恩西卡（Encikkar）的法术书在设计上被完全禁用，任何通过卷轴打开序列器选择界面的尝试都将导致游戏崩溃并退回桌面。"
-		],
+        "notes": [
+            "⚠️序列器和意外术：请勿尝试使用「小型序列器」、「法术序列器」、「法术触发」或「意外术」卷轴。由于恩西卡（Encikkar）的法术书在设计上被完全禁用，任何通过卷轴打开序列器选择界面的尝试都将导致游戏崩溃并退回桌面。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -30108,6 +30109,34 @@
         "notes_meta": {
             "status": "done",
             "source": []
+        }
+    },
+    {
+        "id": 2139,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce kit simule un guerrier/sorcier. Il peut se spécialiser dans toutes les armes et porter tous les objets."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2140,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod modifie les métamorphoses des mages et des druides : il altère l'arme des personnages rendant les métamorphoses plus réalistes et plus proches de leur version réelle."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Il écrase les fichiers des sorts concernés."
+            ]
         }
     }
 ]

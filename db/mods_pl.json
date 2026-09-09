@@ -29105,5 +29105,33 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2139,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce kit simule un guerrier/sorcier. Il peut se spécialiser dans toutes les armes et porter tous les objets."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2140,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod modifie les métamorphoses des mages et des druides : il altère l'arme des personnages rendant les métamorphoses plus réalistes et plus proches de leur version réelle."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Il écrase les fichiers des sorts concernés."
+            ]
+        }
     }
 ]
