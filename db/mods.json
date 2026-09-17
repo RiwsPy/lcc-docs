@@ -10299,7 +10299,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-03-14",
+        "last_update": "2026-09-09",
         "compatibilities": {},
         "tp2": "Tidings"
     },
@@ -12459,7 +12459,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-12",
+        "last_update": "2026-09-16",
         "compatibilities": {
             "conflicts": [
                 1410
@@ -15346,7 +15346,8 @@
         "name": "Garrick: Tales of a Troubadour",
         "description": "Ce mod vise à rendre le personnage de Garrick plus intéressant à jouer, en ajoutant de nouveaux dialogues, de nouvelles situations et rencontres ainsi que des chants supplémentaires propres au barde de Bérégost. Il s'appuie pour cela sur le contenu introduit par le [[105]] et le complète.",
         "urls": [
-            "https://mirandir.baldursgateworld.fr/garrick-tt/index.html",
+            "https://mirandir.baldursgateworld.fr/garrick-tt/",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=26267",
             "https://github.com/The-Gate-Project/Garrick_Tales-of-a-Troubadour"
         ],
         "categories": [
@@ -28646,6 +28647,7 @@
         "name": "The Planar Sphere Mod",
         "description": "Ce mod augmente la durée de la quête de classe liée à la sphère et, donc l'intérêt de jouer un mage. Une grande quête supplémentaire ainsi que plusieurs petites et une sphère peuplée d'apprentis. À noter aussi la présence de 39 nouveaux sorts.|N'hésitez pas à aussi installer le mini mod complémentaire [[812]] (aussi appelé PlanarSphere Return) qui vous permettra de vous téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
         "urls": [
+            "https://www.shsforums.net/topic/24405-planar-sphere-mod-v26a/",
             "https://forums.beamdog.com/discussion/75761/",
             "https://github.com/11jo/PlanarSphere"
         ],
@@ -36541,7 +36543,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-01-10",
+        "last_update": "2026-09-12",
         "compatibilities": {},
         "tp2": "totdg"
     },
@@ -37777,7 +37779,8 @@
         "languages": [
             "en",
             "fr",
-            "cn"
+            "cn",
+            "pl"
         ],
         "status": [
             "stable"
@@ -45215,6 +45218,7 @@
         "name": "NWN2 Soundsets",
         "description": "Ce mod ajoute la plupart des soundsets des personnages de NWN2.",
         "urls": [
+            "https://forums.beamdog.com/discussion/65014/",
             "https://github.com/The-Gate-Project/NWN2SoundSets"
         ],
         "categories": [
@@ -45450,7 +45454,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-03",
+        "last_update": "2026-09-07",
         "compatibilities": {},
         "tp2": "Combat_Skill_Proficiencies"
     },
@@ -46811,7 +46815,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-02-25",
+        "last_update": "2026-09-09",
         "compatibilities": {},
         "tp2": "Loretakers"
     },
@@ -47324,7 +47328,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-08-14",
+        "last_update": "2026-09-08",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -48535,7 +48539,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-01",
+        "last_update": "2026-09-10",
         "compatibilities": {},
         "tp2": "Godcall"
     },
@@ -48840,7 +48844,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-05",
+        "last_update": "2026-09-08",
         "compatibilities": {
             "requires": [
                 "Windows"
@@ -49780,7 +49784,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04-04",
+        "last_update": "2026-09-11",
         "compatibilities": {},
         "tp2": "ZSTweaks"
     },
@@ -50911,12 +50915,13 @@
     {
         "id": 1431,
         "name": "Enhanced Creatures",
-        "description": "Ce mod ajoute des créatures dans le jeu, plutôt dans le style \"horreur\". Plus de détails dans le README.",
+        "description": "L'objectif principal du mod est de rapprocher au maximum tous les monstres du jeu de rôle sur table (P&P) en combinant les règles des 2e et 3e éditions.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/41567-enhanced-creatures/",
             "https://github.com/arnaudpourbaix/enhanced-creatures"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -50928,14 +50933,14 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
         "status": [
-            "stable"
+            "beta"
         ],
-        "last_update": "2026-08-11",
+        "last_update": "2026-09-16",
         "compatibilities": {},
         "tp2": "enhanced_creatures"
     },
@@ -63189,12 +63194,13 @@
             "pl",
             "ru",
             "cn",
-            "fr"
+            "fr",
+            "es"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-09",
+        "last_update": "2026-09-08",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -70180,7 +70186,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-08-30",
+        "last_update": "2026-09-09",
         "compatibilities": {
             "requires": [
                 "Windows",
@@ -73143,7 +73149,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-29",
+        "last_update": "2026-09-12",
         "compatibilities": {
             "requires": [
                 2102
@@ -74287,7 +74293,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-01",
+        "last_update": "2026-09-08",
         "compatibilities": {},
         "tp2": "BG1StylePortraits"
     },
@@ -74387,5 +74393,47 @@
         "compatibilities": {},
         "embedded_in": 1141,
         "tp2": "Shapeshift"
+    },
+    {
+        "id": 2141,
+        "name": "Fixing compatibility issues between DS and WeiDU 251",
+        "description": "Ce mod permet de corriger les fichiers corrompus à la suite de l'installation de mods utilisant des versions obsolètes de la bibliothèque `Detectable Spell` avec la version 251 de WeiDU.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41551-a-mod-for-fixing-compatibility-issues-between-ds-and-weidu-251/"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG",
+            "Tutu",
+            "BG2",
+            "BGEE",
+            "BG2EE",
+            "BGT",
+            "IWD",
+            "IWDEE",
+            "PST",
+            "EET",
+            "PSTEE",
+            "SoD",
+            "IWD2"
+        ],
+        "authors": [
+            "Argent77"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-09-09",
+        "compatibilities": {},
+        "tp2": "A7-StatsFix"
     }
 ]

@@ -19676,7 +19676,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod ajoute des créatures dans le jeu, plutôt dans le style \"horreur\". Plus de détails dans le README."
+            "source": "L'objectif principal du mod est de rapprocher au maximum tous les monstres du jeu de rôle sur table (P&P) en combinant les règles des 2e et 3e éditions."
         },
         "notes": [],
         "notes_meta": {
@@ -29132,6 +29132,19 @@
             "source": [
                 "Il écrase les fichiers des sorts concernés."
             ]
+        }
+    },
+    {
+        "id": 2141,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod permet de corriger les fichiers corrompus à la suite de l'installation de mods utilisant des versions obsolètes de la bibliothèque `Detectable Spell` avec la version 251 de WeiDU."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
         }
     }
 ]
