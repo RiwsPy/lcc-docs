@@ -29807,5 +29807,96 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2142,
+        "description": "This small WeiDU mod that adds the ability to the Twinkle scimitar to act as a true Defender weapon.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce petit mod WeiDU permet au cimeterre Étincelle de fonctionner comme une véritable arme « Defender »."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2143,
+        "description": "This mod will apply changes in game, in order to make several NPCs continuous without having to make any modifications to the original mods. Around ten NPCs are currently supported, including: [[39]], [[26]], [[194]], [[255]], [[560]], [[611]],  [[1104]], [[1233]], [[1239]].",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod apporte des modifications au jeu afin de rendre plusieurs PNJ plus cohérents entre les opus, sans qu'il soit nécessaire de modifier les mods d'origine. Une dizaine de pnjs sont actuellement pris en charge dont : [[39]], [[26]], [[194]], [[255]], [[560]], [[611]],  [[1104]], [[1233]], [[1239]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2144,
+        "description": "This mod patches selected classic Infinity Engine games to resolve a freezing issue caused by Windows 11.",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod apporte des correctifs à certains jeux classiques utilisant le moteur Infinity Engine afin de résoudre un problème de blocage provoqué par Windows 11."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2145,
+        "description": "This mod alters certain basic potions to make them more powerful in combat, at the expense of their duration.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod altère certaines potions de base pour les rendre plus puissantes en combat au détriment de leur durée."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2146,
+        "description": "This mod alters the weapon styles.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod altère les styles de combat."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2147,
+        "description": "This mod will drastically increase the overall difficulty of [[1011]].",
+        "description_meta": {
+            "status": "done",
+            "source": "Ce mod augmente considérablement la difficulté globale de [[1011]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2148,
+        "description": "Enhances the user interface. In addition to other various miscellaneous optional changes.",
+        "description_meta": {
+            "status": "done",
+            "source": "Enhances the user interface. In addition to other various miscellaneous optional changes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

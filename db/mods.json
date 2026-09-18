@@ -3309,6 +3309,7 @@
         "name": "Auto-detect traps for PST:EE",
         "description": "Ce petit mod permet à Annah et Sans-Nom de rechercher automatiquement les pièges.",
         "urls": [
+            "https://forums.beamdog.com/discussion/65473/",
             "https://mirandir.baldursgateworld.fr/detect_traps_for_pstee/"
         ],
         "categories": [
@@ -3322,7 +3323,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [
             "fr",
@@ -13246,7 +13247,8 @@
         "languages": [],
         "status": [
             "beta",
-            "embed"
+            "embed",
+            "hidden"
         ],
         "last_update": "2005-12-01",
         "compatibilities": {},
@@ -15039,6 +15041,7 @@
         "description": "Ce mod permet de redimensionner dans toutes les directions le journal de combat de PST:EE qui ne pouvait l'être que sur l'axe vertical.",
         "urls": [
             "https://www.shsforums.net/topic/60060-freely-resizeable-combat-log-for-pstee/",
+            "https://forums.beamdog.com/discussion/64257/",
             "https://github.com/Argent77/A7-ResizeableCombatLog"
         ],
         "categories": [
@@ -50253,6 +50256,7 @@
         "name": "Remove Specialist Restrictions mod",
         "description": "Ce petit mod vise à rendre les quelques objets et options de dialogue de PsT:EE avec des restrictions de spécialisation de classe également disponibles pour les joueurs ayant des niveaux suffisamment élevés dans ces classes. Ainsi, les tatouages autrefois réservés aux mages doublement spécialisés peuvent être achetés par tout joueur ayant un niveau de mage d'au moins 12, et les armes réservées aux combattants monospécialisés peuvent être achetées par tout joueur ayant un niveau de combattant d'au moins 7, et ainsi de suite.",
         "urls": [
+            "https://forums.beamdog.com/discussion/87607/",
             "https://github.com/Mirrorman95/RemoveSpecialistRestrictions"
         ],
         "categories": [
@@ -50267,12 +50271,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
         "status": [
-            "stable"
+            "beta"
         ],
         "last_update": "2018-08-30",
         "compatibilities": {},
@@ -51956,6 +51960,7 @@
         "name": "Classic-BG-UI",
         "description": "Une interface qui essaye de recréer l'interface utilisateur green stone UI de l'original Baldur's Gate pour l'Enhanced Edition.",
         "urls": [
+            "https://forums.beamdog.com/discussion/83508/",
             "https://github.com/dive-bomber/Classic-BG-UI"
         ],
         "categories": [
@@ -53323,6 +53328,7 @@
         "urls": [
             "https://www.gibberlings3.net/forums/topic/36119-uimodplanescape-ee-book-of-torment-discover-the-dialogues-of-torment-in-a-new-edition/",
             "https://www.nexusmods.com/planescapetormentenhancededition/mods/9",
+            "https://forums.beamdog.com/discussion/86988/",
             "https://github.com/szef501/BookOfTorment"
         ],
         "categories": [
@@ -53347,7 +53353,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-28",
+        "last_update": "2026-09-18",
         "compatibilities": {},
         "tp2": "BookOfTorment"
     },
@@ -64364,7 +64370,8 @@
         "name": "Silverrealms",
         "description": "Ce mod introduit de nouvelles zones, de nouveaux ennemis et un scénario épique qui se déroule dans les profondeurs de l'Ombreterre des Royaumes Oubliés.",
         "urls": [
-            "https://forums.beamdog.com/discussion/89632/"
+            "https://forums.beamdog.com/discussion/89632/",
+            "https://github.com/AciferBG/Silverrealms"
         ],
         "categories": [
             "Quête"
@@ -64380,13 +64387,15 @@
         "notes": [],
         "translation_state": "auto",
         "safe": 1,
-        "languages": [],
-        "status": [
-            "unreleased"
+        "languages": [
+            "de"
         ],
-        "last_update": "2025-08-03",
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-09-17",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "silverrealms"
     },
     {
         "id": 1844,
@@ -74435,5 +74444,234 @@
         "last_update": "2026-09-09",
         "compatibilities": {},
         "tp2": "A7-StatsFix"
+    },
+    {
+        "id": 2142,
+        "name": "Make Twinkle a True 'Defender' Weapon",
+        "description": "Ce petit mod WeiDU permet au cimeterre Étincelle de fonctionner comme une véritable arme « Defender ».",
+        "urls": [
+            "https://github.com/CamDawg/Twinkle_Defender"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "Tutu",
+            "BG2",
+            "BGEE",
+            "BG2EE",
+            "BGT",
+            "EET"
+        ],
+        "authors": [
+            "CamDawg"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-03-14",
+        "compatibilities": {},
+        "tp2": "cdtwinkle"
+    },
+    {
+        "id": 2143,
+        "name": "Continuous End",
+        "description": "Ce mod apporte des modifications au jeu afin de rendre plusieurs PNJ plus cohérents entre les opus, sans qu'il soit nécessaire de modifier les mods d'origine. Une dizaine de pnjs sont actuellement pris en charge dont : [[39]], [[26]], [[194]], [[255]], [[560]], [[611]],  [[1104]], [[1233]], [[1239]].",
+        "urls": [
+            "https://github.com/11jo/Continuous_End"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "JohnBob"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-09-13",
+        "compatibilities": {},
+        "tp2": "Continuous_End"
+    },
+    {
+        "id": 2144,
+        "name": "IE Win11 Fixes",
+        "description": "Ce mod apporte des correctifs à certains jeux classiques utilisant le moteur Infinity Engine afin de résoudre un problème de blocage provoqué par Windows 11.",
+        "urls": [
+            "https://github.com/Bubb13/B3-IE_Win11_Fixes"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2",
+            "IWD"
+        ],
+        "authors": [
+            "Bubb"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-09-09",
+        "compatibilities": {
+            "requires": [
+                "Microsoft Visual C++ Redistributable"
+            ]
+        },
+        "tp2": "B3-IE_Win11_Fixes"
+    },
+    {
+        "id": 2145,
+        "name": "Potion Revisions (PnP)",
+        "description": "Ce mod altère certaines potions de base pour les rendre plus puissantes en combat au détriment de leur durée.",
+        "urls": [
+            "https://github.com/Greener-Mods/Potion-Pack"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Greener"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-08-29",
+        "compatibilities": {},
+        "tp2": "Potion"
+    },
+    {
+        "id": 2146,
+        "name": "Weapon Style Revision",
+        "description": "Ce mod altère les styles de combat.",
+        "urls": [
+            "https://github.com/Greener-Mods/Weapon-Style-Revision"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Greener"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-08-29",
+        "compatibilities": {},
+        "tp2": "WeaponStyles"
+    },
+    {
+        "id": 2147,
+        "name": "scs_replacements",
+        "description": "Ce mod augmente considérablement la difficulté globale de [[1011]].",
+        "urls": [
+            "https://github.com/qvni/scs_replacements-v1"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "Tutu",
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "auiwqi"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": [
+            "obsolete"
+        ],
+        "last_update": "2020-11-08",
+        "compatibilities": {
+            "requires": [
+                1011
+            ]
+        },
+        "tp2": "scs_replacements"
+    },
+    {
+        "id": 2148,
+        "name": "ui_ex",
+        "description": "Enhances the user interface. In addition to other various miscellaneous optional changes.",
+        "urls": [
+            "https://github.com/qvni/ui_ex-v1"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "SoD"
+        ],
+        "authors": [
+            "auiwqi"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2020-11-08",
+        "compatibilities": {},
+        "tp2": "ui_ex"
     }
 ]

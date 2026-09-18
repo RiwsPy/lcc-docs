@@ -1259,6 +1259,9 @@
     },
     {
         "id": 91,
+        "team": [
+            "memory"
+        ],
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -29140,6 +29143,97 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce mod permet de corriger les fichiers corrompus à la suite de l'installation de mods utilisant des versions obsolètes de la bibliothèque `Detectable Spell` avec la version 251 de WeiDU."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2142,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce petit mod WeiDU permet au cimeterre Étincelle de fonctionner comme une véritable arme « Defender »."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2143,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod apporte des modifications au jeu afin de rendre plusieurs PNJ plus cohérents entre les opus, sans qu'il soit nécessaire de modifier les mods d'origine. Une dizaine de pnjs sont actuellement pris en charge dont : [[39]], [[26]], [[194]], [[255]], [[560]], [[611]],  [[1104]], [[1233]], [[1239]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2144,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod apporte des correctifs à certains jeux classiques utilisant le moteur Infinity Engine afin de résoudre un problème de blocage provoqué par Windows 11."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2145,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod altère certaines potions de base pour les rendre plus puissantes en combat au détriment de leur durée."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2146,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod altère les styles de combat."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2147,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod augmente considérablement la difficulté globale de [[1011]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2148,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Enhances the user interface. In addition to other various miscellaneous optional changes."
         },
         "notes": [],
         "notes_meta": {
