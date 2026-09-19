@@ -29891,7 +29891,20 @@
         "description": "Enhances the user interface. In addition to other various miscellaneous optional changes.",
         "description_meta": {
             "status": "done",
-            "source": "Enhances the user interface. In addition to other various miscellaneous optional changes."
+            "source": "Améliore l'interface utilisateur. En plus de diverses autres modifications facultatives."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2149,
+        "description": "iiEngineExtensions adds new triggers and actions that can be used in scripts.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "iiEngineExtensions ajoute de nouveaux triggers et actions disponibles pour les scripts."
         },
         "notes": [],
         "notes_meta": {

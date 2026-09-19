@@ -12431,6 +12431,7 @@
         "name": "EEex",
         "description": "EEex est un extenseur d'exécutable pour l'édition améliorée du moteur Infinity de Beamdog. Son but est d'externaliser certaines parties du moteur afin d'accorder aux moddeurs un plus grand degré de contrôle sur des mécanismes autrement codés en dur. EEex ne modifie pas le gameplay lui-même, il permet simplement à d'autres mods de le faire.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/41254-mod-eeex-v130/",
             "https://forums.beamdog.com/discussion/71798/",
             "https://github.com/Bubb13/EEex"
         ],
@@ -12464,6 +12465,9 @@
         "compatibilities": {
             "conflicts": [
                 1410
+            ],
+            "requires": [
+                "Microsoft Visual C++ Redistributable"
             ]
         },
         "tp2": "EEex"
@@ -64370,6 +64374,7 @@
         "name": "Silverrealms",
         "description": "Ce mod introduit de nouvelles zones, de nouveaux ennemis et un scénario épique qui se déroule dans les profondeurs de l'Ombreterre des Royaumes Oubliés.",
         "urls": [
+            "https://www.baldurs-gate.de/index.php?threads/46360/",
             "https://forums.beamdog.com/discussion/89632/",
             "https://github.com/AciferBG/Silverrealms"
         ],
@@ -74488,7 +74493,7 @@
             "https://github.com/11jo/Continuous_End"
         ],
         "categories": [
-            "Gameplay"
+            "PNJ (autre)"
         ],
         "games": [
             "EET"
@@ -74646,7 +74651,7 @@
     {
         "id": 2148,
         "name": "ui_ex",
-        "description": "Enhances the user interface. In addition to other various miscellaneous optional changes.",
+        "description": "Améliore l'interface utilisateur. En plus de diverses autres modifications facultatives.",
         "urls": [
             "https://github.com/qvni/ui_ex-v1"
         ],
@@ -74673,5 +74678,38 @@
         "last_update": "2020-11-08",
         "compatibilities": {},
         "tp2": "ui_ex"
+    },
+    {
+        "id": 2149,
+        "name": "iiEngineExtensions",
+        "description": "iiEngineExtensions ajoute de nouveaux triggers et actions disponibles pour les scripts.",
+        "urls": [
+            "https://github.com/btigi/iiEngineExtensions"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "igi"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-09-08",
+        "compatibilities": {
+            "requires": [
+                348
+            ]
+        },
+        "tp2": "iiEngineExtensions"
     }
 ]
