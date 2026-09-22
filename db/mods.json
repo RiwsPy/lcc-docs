@@ -5503,12 +5503,14 @@
         "translation_state": "auto",
         "safe": 1,
         "languages": [
-            "en"
+            "en",
+            "cn",
+            "de"
         ],
         "status": [
             "beta"
         ],
-        "last_update": "2023-12-08",
+        "last_update": "2026-09-20",
         "compatibilities": {},
         "tp2": "bst"
     },
@@ -18713,7 +18715,8 @@
         "last_update": "2026-01-16",
         "compatibilities": {
             "conflicts": [
-                528
+                528,
+                2150
             ]
         },
         "tp2": "imoen_forever"
@@ -43958,10 +43961,11 @@
             "en"
         ],
         "status": [
-            "stable"
+            "embed"
         ],
         "last_update": "2018-12-09",
         "compatibilities": {},
+        "embedded_in": 391,
         "tp2": "XansNewGroove"
     },
     {
@@ -45734,7 +45738,11 @@
             "stable"
         ],
         "last_update": "2026-03-27",
-        "compatibilities": {},
+        "compatibilities": {
+            "conflicts": [
+                2150
+            ]
+        },
         "tp2": "ImoenRomance"
     },
     {
@@ -70736,6 +70744,7 @@
         "name": "BG1 Style Portrait Remakes",
         "description": "Ce mod propose des portraits revisités des personnages oBG2 dans le style de BG1.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/41582-mod-bg1-style-portrait-remakes/",
             "https://forums.beamdog.com/discussion/90651/",
             "https://www.nexusmods.com/baldursgate2ee/mods/139"
         ],
@@ -71859,12 +71868,13 @@
             "en",
             "de",
             "es",
-            "cn"
+            "cn",
+            "it"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-06",
+        "last_update": "2026-09-21",
         "compatibilities": {},
         "tp2": "Poisoned_pathways"
     },
@@ -74711,5 +74721,44 @@
             ]
         },
         "tp2": "iiEngineExtensions"
+    },
+    {
+        "id": 2150,
+        "name": "A Moment With Imoen",
+        "description": "A Moment With Imoen est un mod qui consacre au personnage d'Imoen une romance dans Baldur's Gate 2.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41581-mod-a-moment-with-imoen-romance-mod-for-imoen/",
+            "https://forums.beamdog.com/discussion/90838/",
+            "https://www.nexusmods.com/baldursgate2ee/mods/170",
+            "https://github.com/Woooombat/AMWI"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE"
+        ],
+        "authors": [
+            "Wombat"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-09-20",
+        "compatibilities": {
+            "conflicts": [
+                526,
+                1284
+            ]
+        },
+        "tp2": "AMWImoen"
     }
 ]
