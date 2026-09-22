@@ -20434,9 +20434,9 @@
     },
     {
         "id": 1431,
-        "description": "此模组在游戏中添加了生物，更偏向于“恐怖”风格。README中有更多细节。",
+        "description": "这个模组的主要目标是通过融合第二版和第三版规则，尽可能让游戏中的所有怪物贴近桌面角色扮演游戏（P&P）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "L'objectif principal du mod est de rapprocher au maximum tous les monstres du jeu de rôle sur table (P&P) en combinant les règles des 2e et 3e éditions."
         },
         "notes": [],
@@ -30113,9 +30113,9 @@
     },
     {
         "id": 2139,
-        "description": "",
+        "description": "这个宗派模拟战士/术士。它可以专精所有武器，并能穿戴所有物品。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce kit simule un guerrier/sorcier. Il peut se spécialiser dans toutes les armes et porter tous les objets."
         },
         "notes": [],
@@ -30126,14 +30126,14 @@
     },
     {
         "id": 2140,
-        "description": "",
+        "description": "这个模组修改了法师和德鲁伊的变形形态：它改变了角色的武器，使变形更加逼真，更接近其真实形态。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod modifie les métamorphoses des mages et des druides : il altère l'arme des personnages rendant les métamorphoses plus réalistes et plus proches de leur version réelle."
         },
-        "notes": [],
+        "notes": ["它会覆盖相关法术的文件。"],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Il écrase les fichiers des sorts concernés."
             ]
@@ -30141,9 +30141,9 @@
     },
     {
         "id": 2141,
-        "description": "",
+        "description": "这个模组可以修复因安装了那些使用过时版本 `Detectable Spell` 库（搭配 WeiDU 251 版本）的模组而损坏的文件。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod permet de corriger les fichiers corrompus à la suite de l'installation de mods utilisant des versions obsolètes de la bibliothèque `Detectable Spell` avec la version 251 de WeiDU."
         },
         "notes": [],
@@ -30154,9 +30154,9 @@
     },
     {
         "id": 2142,
-        "description": "",
+        "description": "这个小型的WeiDU模组使弯刀“闪光”能够作为一件真正的“防御者”（Defender）武器发挥作用。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce petit mod WeiDU permet au cimeterre Étincelle de fonctionner comme une véritable arme « Defender »."
         },
         "notes": [],
@@ -30167,9 +30167,9 @@
     },
     {
         "id": 2143,
-        "description": "",
+        "description": "这个模组对游戏进行修改，以使多个NPC在各部作品之间更加连贯，而无需修改原始模组。目前支持大约十来个NPC，其中包括：[[39]]、[[26]]、[[194]]、[[255]]、[[560]]、[[611]]、[[1104]]、[[1233]]、[[1239]]。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod apporte des modifications au jeu afin de rendre plusieurs PNJ plus cohérents entre les opus, sans qu'il soit nécessaire de modifier les mods d'origine. Une dizaine de pnjs sont actuellement pris en charge dont : [[39]], [[26]], [[194]], [[255]], [[560]], [[611]],  [[1104]], [[1233]], [[1239]]."
         },
         "notes": [],
@@ -30180,9 +30180,9 @@
     },
     {
         "id": 2144,
-        "description": "",
+        "description": "这个模组为某些使用无限引擎的经典游戏提供修正，以解决由 Windows 11 引发的卡死问题。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod apporte des correctifs à certains jeux classiques utilisant le moteur Infinity Engine afin de résoudre un problème de blocage provoqué par Windows 11."
         },
         "notes": [],
@@ -30193,9 +30193,9 @@
     },
     {
         "id": 2145,
-        "description": "",
+        "description": "这个模组修改了一些基础药水，使其在战斗中更强大，但代价是持续时间缩短。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod altère certaines potions de base pour les rendre plus puissantes en combat au détriment de leur durée."
         },
         "notes": [],
@@ -30206,9 +30206,9 @@
     },
     {
         "id": 2146,
-        "description": "",
+        "description": "这个模组修改了战斗风格。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod altère les styles de combat."
         },
         "notes": [],
@@ -30219,9 +30219,9 @@
     },
     {
         "id": 2147,
-        "description": "",
+        "description": "这个模组极大地提高了[[1011]]的整体难度。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod augmente considérablement la difficulté globale de [[1011]]."
         },
         "notes": [],
@@ -30232,9 +30232,9 @@
     },
     {
         "id": 2148,
-        "description": "",
+        "description": "改善用户界面。此外还包含各种其他可选修改。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Améliore l'interface utilisateur. En plus de diverses autres modifications facultatives."
         },
         "notes": [],
@@ -30245,9 +30245,9 @@
     },
     {
         "id": 2149,
-        "description": "",
+        "description": "iiEngineExtensions 为脚本添加了新的触发器和动作。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "iiEngineExtensions ajoute de nouveaux triggers et actions disponibles pour les scripts."
         },
         "notes": [],
@@ -30258,9 +30258,9 @@
     },
     {
         "id": 2150,
-        "description": "",
+        "description": "A Moment With Imoen 是一个专门为《博德之门2》中的爱蒙（Imoen）角色加入恋爱线的模组。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "A Moment With Imoen est un mod qui consacre au personnage d'Imoen une romance dans Baldur's Gate 2."
         },
         "notes": [],
