@@ -30131,7 +30131,9 @@
             "status": "done",
             "source": "Ce mod modifie les métamorphoses des mages et des druides : il altère l'arme des personnages rendant les métamorphoses plus réalistes et plus proches de leur version réelle."
         },
-        "notes": ["它会覆盖相关法术的文件。"],
+        "notes": [
+            "它会覆盖相关法术的文件。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -30262,6 +30264,19 @@
         "description_meta": {
             "status": "done",
             "source": "A Moment With Imoen est un mod qui consacre au personnage d'Imoen une romance dans Baldur's Gate 2."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2151,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce petit mod modifie deux compétences de haut niveau : `Coup mortel` et `Coup fatal`."
         },
         "notes": [],
         "notes_meta": {

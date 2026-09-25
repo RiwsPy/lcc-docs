@@ -63218,7 +63218,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-08",
+        "last_update": "2026-09-17",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -74760,5 +74760,36 @@
             ]
         },
         "tp2": "AMWImoen"
+    },
+    {
+        "id": 2151,
+        "name": "High-Level-Abilities",
+        "description": "Ce petit mod modifie deux compétences de haut niveau : `Coup mortel` et `Coup fatal`.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41587-bg2ee-high-level-abilities-mod/",
+            "https://github.com/Greener-Mods/High-Level-Ability-Revision"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Greener"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-09-24",
+        "compatibilities": {},
+        "tp2": "HLA"
     }
 ]
