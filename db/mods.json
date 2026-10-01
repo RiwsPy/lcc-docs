@@ -3022,7 +3022,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-31",
+        "last_update": "2026-09-18",
         "compatibilities": {},
         "tp2": "Aura_BG1_2_EET"
     },
@@ -3333,7 +3333,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2018-10-01",
+        "last_update": "2018-02-06",
         "compatibilities": {},
         "tp2": "detect_traps_for_pstee"
     },
@@ -4564,15 +4564,13 @@
         "description": "Ce mod améliore grandement la qualité graphique des zones du jeu. L'auteur a soumis toutes les cartes du jeu (les fichiers images) à une IA d'amélioration graphique, pour un résultat plus vibrant et bien plus net, en particulier lors de l'utilisation du zoom (Des images de comparaison sont disponibles sur la page GitHub ou dans le fil de discussion du mod sur les forums Beamdog).",
         "urls": [
             "https://forums.beamdog.com/discussion/83893/",
-            "https://github.com/WillScarlettOhara/BGEE_AI_Denoised_Areas",
-            "https://github.com/haifengkao/EET_BGEE_AI_Denoised_Areas"
+            "https://github.com/WillScarlettOhara/BGEE_AI_Denoised_Areas"
         ],
         "categories": [
             "Cosmétique"
         ],
         "games": [
-            "BGEE",
-            "EET"
+            "BGEE"
         ],
         "authors": [
             "WillScarlettOhara"
@@ -4580,7 +4578,7 @@
         "team": [],
         "notes": [
             "À cause d'un bug dans le moteur du jeu, les cartes disposant de portes et/ou de zones d'eau présentent certains artefacts (lignes noires) qui seront réglés au fur et à mesure de la maintenance de ce mod.",
-            "Le dernier lien propose une version compatible avec EET."
+            "Il existe une version compatible avec EET : [[2153]]."
         ],
         "translation_state": "n/a",
         "safe": 2,
@@ -4588,7 +4586,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-05-08",
+        "last_update": "2022-05-07",
         "compatibilities": {
             "conflicts": [
                 146
@@ -5493,7 +5491,8 @@
         "games": [
             "BGT",
             "BGEE",
-            "EET"
+            "EET",
+            "SoD"
         ],
         "authors": [
             "Multiple"
@@ -5510,7 +5509,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-09-20",
+        "last_update": "2026-09-23",
         "compatibilities": {},
         "tp2": "bst"
     },
@@ -10297,12 +10296,13 @@
             "pl",
             "cn",
             "ru",
-            "es"
+            "es",
+            "it"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-09",
+        "last_update": "2026-09-18",
         "compatibilities": {},
         "tp2": "Tidings"
     },
@@ -13983,12 +13983,13 @@
             "ru",
             "cn",
             "es",
-            "pl"
+            "pl",
+            "de"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-21",
+        "last_update": "2026-09-26",
         "compatibilities": {},
         "tp2": "ExtraExpandedEnhancedEncounters"
     },
@@ -20029,7 +20030,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "fr",
@@ -23997,7 +23998,7 @@
         "description": "Ce mod ajoute une nouvelle traqueuse halfelin qui voyage sur la Côte des Épées, bien qu'il soit évident qu'elle n'est pas de la région. Elle aime se faire passer pour une personne inutile, timide ou innocente, même si ce n'est pas tout à fait le cas. Vous pourrez la recruter dans les mines de Nashkel.|FOR 15, DEX 17, CON 15, INT 12, SAG 14, CHA 15.",
         "urls": [
             "https://forums.beamdog.com/discussion/15867/",
-            "https://github.com/11jo/Margarita/"
+            "https://github.com/The-Gate-Project/Margarita"
         ],
         "categories": [
             "PNJ recrutable"
@@ -24025,7 +24026,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-19",
+        "last_update": "2026-09-28",
         "compatibilities": {},
         "tp2": "Margarita"
     },
@@ -33303,7 +33304,7 @@
         "name": "Sharteel NPC for BG2",
         "description": "Ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2.",
         "urls": [
-            "https://github.com/11jo/Sharteel-NPC-BG2"
+            "https://github.com/The-Gate-Project/Sharteel-NPC-BG2"
         ],
         "categories": [
             "PNJ One Day"
@@ -33329,7 +33330,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-15",
+        "last_update": "2026-09-29",
         "compatibilities": {
             "requires": [
                 "ToB"
@@ -33347,7 +33348,7 @@
         "urls": [
             "https://www.shsforums.net/topic/59065-mod-sharteel-npc-mod-for-sod/",
             "https://forums.beamdog.com/discussion/62941/",
-            "https://github.com/11jo/Sharteel-NPC-SoD"
+            "https://github.com/The-Gate-Project/Sharteel-NPC-SoD"
         ],
         "categories": [
             "PNJ recrutable"
@@ -33364,16 +33365,16 @@
             "Choisissez la version github qui est compatible EET."
         ],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en",
             "cn",
             "pl"
         ],
         "status": [
-            "beta"
+            "stable"
         ],
-        "last_update": "2026-08-23",
+        "last_update": "2026-09-28",
         "compatibilities": {},
         "tp2": "k9SharteelNPC"
     },
@@ -39131,7 +39132,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04-28",
+        "last_update": "2026-09-26",
         "compatibilities": {},
         "tp2": "whitequeen"
     },
@@ -42121,7 +42122,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-01-27",
+        "last_update": "2026-09-25",
         "compatibilities": {},
         "tp2": "verrsza"
     },
@@ -42544,7 +42545,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-13",
+        "last_update": "2026-09-25",
         "compatibilities": {},
         "tp2": "Walahnan"
     },
@@ -45465,7 +45466,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-07",
+        "last_update": "2026-09-23",
         "compatibilities": {},
         "tp2": "Combat_Skill_Proficiencies"
     },
@@ -45500,7 +45501,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-10-22",
+        "last_update": "2026-09-29",
         "compatibilities": {},
         "tp2": "SubtleD_Item_Tweaks"
     },
@@ -46790,7 +46791,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-02-04",
+        "last_update": "2026-09-26",
         "compatibilities": {},
         "tp2": "BloodiedStingsOfBarovia"
     },
@@ -46825,12 +46826,13 @@
             "cn",
             "ru",
             "es",
-            "pl"
+            "pl",
+            "it"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-09",
+        "last_update": "2026-09-17",
         "compatibilities": {},
         "tp2": "Loretakers"
     },
@@ -47343,7 +47345,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-09-08",
+        "last_update": "2026-09-30",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -48267,7 +48269,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-03",
+        "last_update": "2026-09-27",
         "compatibilities": {},
         "tp2": "randomrolls"
     },
@@ -48549,12 +48551,13 @@
             "ru",
             "es",
             "pt",
-            "pl"
+            "pl",
+            "it"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-10",
+        "last_update": "2026-09-23",
         "compatibilities": {},
         "tp2": "Godcall"
     },
@@ -49052,7 +49055,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-06",
+        "last_update": "2026-10-01",
         "compatibilities": {},
         "tp2": "infinity_ui"
     },
@@ -49794,12 +49797,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-11",
+        "last_update": "2026-09-29",
         "compatibilities": {},
         "tp2": "ZSTweaks"
     },
@@ -50408,7 +50412,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "SoD"
         ],
         "authors": [
             "Angel"
@@ -50423,7 +50428,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-08",
+        "last_update": "2026-09-30",
         "compatibilities": {},
         "tp2": "mih_fr"
     },
@@ -50697,7 +50702,8 @@
         "safe": 2,
         "languages": [
             "en",
-            "cn"
+            "cn",
+            "it"
         ],
         "status": [
             "stable"
@@ -53994,7 +54000,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-05-07",
+        "last_update": "2026-09-30",
         "compatibilities": {},
         "tp2": "how_eet"
     },
@@ -54876,12 +54882,12 @@
             "La compatibilité IWDEE n'est pas assurée."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
         "status": [
-            "stable"
+            "beta"
         ],
         "last_update": "2025-08-22",
         "compatibilities": {},
@@ -62027,7 +62033,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-09-02",
+        "last_update": "2025-09-30",
         "compatibilities": {},
         "tp2": "Derats_Powerkits"
     },
@@ -64208,7 +64214,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-09",
+        "last_update": "2026-09-24",
         "compatibilities": {},
         "tp2": "assortedadjustments"
     },
@@ -64276,7 +64282,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-05",
+        "last_update": "2026-09-24",
         "compatibilities": {},
         "tp2": "jarnip"
     },
@@ -64406,7 +64412,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-09-17",
+        "last_update": "2026-09-28",
         "compatibilities": {},
         "tp2": "silverrealms"
     },
@@ -65076,7 +65082,9 @@
             "BGEE",
             "BG2EE",
             "IWDEE",
-            "PSTEE"
+            "PSTEE",
+            "SoD",
+            "Tutu"
         ],
         "authors": [
             "Argent77"
@@ -65323,7 +65331,8 @@
         ],
         "games": [
             "EET",
-            "IWDEE"
+            "BG2EE",
+            "BGEE"
         ],
         "authors": [
             "AWizardDidIt"
@@ -65338,8 +65347,12 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-08-02",
-        "compatibilities": {},
+        "last_update": "2026-09-30",
+        "compatibilities": {
+            "requires": [
+                1528
+            ]
+        },
         "tp2": "iwd_eet-party-banter"
     },
     {
@@ -66670,15 +66683,15 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en",
             "fr"
         ],
         "status": [
-            "beta"
+            "stable"
         ],
-        "last_update": "2026-06-14",
+        "last_update": "2026-09-28",
         "compatibilities": {},
         "tp2": "Derats_Defis"
     },
@@ -69966,7 +69979,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04-06",
+        "last_update": "2026-09-22",
         "compatibilities": {
             "requires": [
                 "ToB",
@@ -70208,7 +70221,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-09-09",
+        "last_update": "2026-09-26",
         "compatibilities": {
             "requires": [
                 "Windows",
@@ -70664,7 +70677,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-01",
+        "last_update": "2026-09-22",
         "compatibilities": {},
         "tp2": "hps_portrait_project"
     },
@@ -74317,7 +74330,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-08",
+        "last_update": "2026-09-29",
         "compatibilities": {},
         "tp2": "BG1StylePortraits"
     },
@@ -74515,7 +74528,9 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": [
             "stable"
         ],
@@ -74672,7 +74687,8 @@
             "BGEE",
             "BG2EE",
             "EET",
-            "SoD"
+            "SoD",
+            "BG2"
         ],
         "authors": [
             "auiwqi"
@@ -74681,7 +74697,9 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": [
             "stable"
         ],
@@ -74752,7 +74770,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-20",
+        "last_update": "2026-09-21",
         "compatibilities": {
             "conflicts": [
                 526,
@@ -74788,8 +74806,89 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-24",
+        "last_update": "2026-09-23",
         "compatibilities": {},
         "tp2": "HLA"
+    },
+    {
+        "id": 2152,
+        "name": "Randomizer",
+        "description": "Le Randomizer est un outil permettant de générer des parties aléatoires. Au début de chaque session, un lancer de dés détermine les compagnons que vous rencontrerez au fil de la partie.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/90848/",
+            "https://github.com/EIEIEI1903/Baldurs-Gate-EE-RANDOMIZER"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "SoD"
+        ],
+        "authors": [
+            "EIEIEI1903"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "es",
+            "cn",
+            "fr",
+            "jp",
+            "pt",
+            "de",
+            "it",
+            "ru",
+            "pl",
+            "cz",
+            "kr",
+            "tr",
+            "uk",
+            "hu",
+            "uk"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-09-27",
+        "compatibilities": {},
+        "tp2": "Randomizer"
+    },
+    {
+        "id": 2153,
+        "name": "EET AI Denoised Areas",
+        "description": "Version EET du mod [[126]].",
+        "urls": [
+            "https://github.com/haifengkao/EET_BGEE_AI_Denoised_Areas"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "WillScarlettOhara",
+            "haifengkao"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2024-05-08",
+        "compatibilities": {
+            "conflicts": [
+                146
+            ]
+        },
+        "tp2": "EET_BGEE_AI_Denoised_Areas"
     }
 ]

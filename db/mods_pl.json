@@ -1756,7 +1756,7 @@
             "status": "todo",
             "source": [
                 "À cause d'un bug dans le moteur du jeu, les cartes disposant de portes et/ou de zones d'eau présentent certains artefacts (lignes noires) qui seront réglés au fur et à mesure de la maintenance de ce mod.",
-                "Le dernier lien propose une version compatible avec EET."
+                "Il existe une version compatible avec EET : [[2153]]."
             ]
         }
     },
@@ -29273,6 +29273,32 @@
         "description_meta": {
             "status": "todo",
             "source": "Ce petit mod modifie deux compétences de haut niveau : `Coup mortel` et `Coup fatal`."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2152,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Le Randomizer est un outil permettant de générer des parties aléatoires. Au début de chaque session, un lancer de dés détermine les compagnons que vous rencontrerez au fil de la partie."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2153,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Version EET du mod [[126]]."
         },
         "notes": [],
         "notes_meta": {
