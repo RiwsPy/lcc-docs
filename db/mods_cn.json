@@ -30276,9 +30276,9 @@
     },
     {
         "id": 2151,
-        "description": "",
+        "description": "这个小模组修改了两个高阶能力：`致命一击`（Coup mortel）和`致命打击`（Coup fatal）。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce petit mod modifie deux compétences de haut niveau : `Coup mortel` et `Coup fatal`."
         },
         "notes": [],
@@ -30289,9 +30289,9 @@
     },
     {
         "id": 2152,
-        "description": "",
+        "description": "Randomizer是一个用于生成随机游戏流程的工具。在每局游戏开始时，一次掷骰会决定你在整个游戏过程中将遇到哪些同伴。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Le Randomizer est un outil permettant de générer des parties aléatoires. Au début de chaque session, un lancer de dés détermine les compagnons que vous rencontrerez au fil de la partie."
         },
         "notes": [],
