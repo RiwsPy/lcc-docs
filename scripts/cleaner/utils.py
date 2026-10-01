@@ -109,6 +109,7 @@ class ModCleaner(CleanModMixin):
                 .replace("bg1", "bg")
                 .replace("totsc", "bg")
                 .replace("iwd1", "iwd")
+                .replace("totlm", "iwd")
                 .replace("tob", "bg2")
                 .strip()
             )
