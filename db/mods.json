@@ -10813,7 +10813,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04-04",
+        "last_update": "2026-10-03",
         "compatibilities": {},
         "tp2": "Derats_dawap;Derats_dawap_TOUT"
     },
@@ -13011,7 +13011,7 @@
     {
         "id": 365,
         "name": "Emily, a Half-Elf Archer",
-        "description": "Emily est une femme noble originaire de Téthyr. Lasse des luttes politiques pour déterminer le prochain héritier de la maison Castella, elle est partie vers le nord pour retrouver sa mère biologique. Malheureusement, la fermeture de la route de Baldur's Gate et la présence de bandits l'ont poussée à rechercher un guide pour l'accompagner, en échange de ses compétences martiales. Elle peut être romancée.|FOR 12, DEX 17, CON 14, INT 16, SAG 14, CHA 16",
+        "description": "Emily est une femme noble originaire de Téthyr. Lasse des luttes politiques pour déterminer le prochain héritier de la maison Castella, elle est partie vers le nord pour retrouver sa mère biologique. Malheureusement, la fermeture de la route de Baldur's Gate et la présence de bandits l'ont poussée à rechercher un guide pour l'accompagner, en échange de ses compétences martiales. Elle peut être romancée.|FOR 17, DEX 17, CON 14, INT 16, SAG 14, CHA 16",
         "urls": [
             "https://skitias-stories.com/mods-view.php?name=Emily",
             "https://forums.beamdog.com/discussion/74672/",
@@ -13022,6 +13022,7 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "EET"
         ],
         "authors": [
@@ -13037,7 +13038,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2021-10-28",
+        "last_update": "2026-10-03",
         "compatibilities": {},
         "tp2": "Emily"
     },
@@ -59451,7 +59452,7 @@
     {
         "id": 1690,
         "name": "Elric's Stormbringer",
-        "description": "Ce mod rajoute Stormbringer, l'Epée maudite d'Elric de Melniboné dans le stock du Bazar magique pour BGEE, du magasin Plume et parchemin pour BG2EE ou dans le stock de Ribald pour BG2 sans TOB.",
+        "description": "Ce mod rajoute Stormbringer, l'épée maudite d'Elric de Melniboné dans le stock du Bazar magique pour BGEE, dans le stock spécial de Ribald pour BG2 et Lazarus Librarus pour ToB.",
         "urls": [
             "https://forums.beamdog.com/discussion/33514"
         ],
@@ -59459,6 +59460,7 @@
             "Sort et objet"
         ],
         "games": [
+            "Tutu",
             "BG2",
             "BGT",
             "BGEE",
