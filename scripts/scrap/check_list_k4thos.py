@@ -4,7 +4,7 @@ import bs4
 from bs4 import BeautifulSoup as bs
 import curl_cffi
 
-from scripts.utils import ModManager, simplify_url
+from scripts.utils import ModManager, minify_url
 from settings import GameEnum
 
 """
@@ -27,7 +27,7 @@ def main(**kwargs) -> None:
 
     print("# Check K4thos list")
     compatible_links = {
-        simplify_url(str(link.attrs.get("href", "")))
+        minify_url(str(link.attrs.get("href", "")))
         for link in links
         if link.parent and link.parent.name == "li" and isinstance(link, bs4.Tag)
     }
@@ -37,7 +37,7 @@ def main(**kwargs) -> None:
 
     for mod in ModManager.get_mod_list():
         for url in mod.urls:
-            url = simplify_url(url.url)
+            url = minify_url(url.url)
             if url in compatible_links:
                 found_links.add(url)
                 if GameEnum.EET not in mod.games:

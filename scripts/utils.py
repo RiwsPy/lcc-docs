@@ -163,7 +163,7 @@ gib_net = re.compile(r"(/(forums/topic|files/file)/\w+-)[^/]+")
 shs_net = re.compile(r"(/(topic|forum)/\w+-)[^/]+")
 
 
-def simplify_url(url: str) -> str:
+def minify_url(url: str) -> str:
     # remove `www.`
     url = url.replace("://www.", "://")
 

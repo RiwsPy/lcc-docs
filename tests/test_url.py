@@ -1,5 +1,5 @@
 from models.url import HttpUrl
-from scripts.utils import simplify_url
+from scripts.utils import minify_url
 
 
 class TestUrl:
@@ -89,69 +89,69 @@ class TestUrl:
     # TODO url.image
 
 
-class Test_simplify_url:
+class Test_minify_url:
     def test_www(self):
         url = "https://www.toto.com"
         expected_value = "https://toto.com"
 
-        assert simplify_url(url) == expected_value
+        assert minify_url(url) == expected_value
 
     def test_dash_end(self):
         url = "https://toto.com/"
         expected_value = "https://toto.com"
 
-        assert simplify_url(url) == expected_value
+        assert minify_url(url) == expected_value
 
     def test_baldur_de(self):
         url = "https://baldurs-gate.de/index.php?threads/toto.5094"
         expected_value = "https://baldurs-gate.de/index.php?threads/5094"
 
-        assert simplify_url(url) == expected_value
+        assert minify_url(url) == expected_value
 
     def test_gibberlings_topic(self):
         url = "https://gibberlings3.net/forums/topic/5094-toto"
         expected_value = "https://gibberlings3.net/forums/topic/5094-l"
 
-        assert simplify_url(url) == expected_value
+        assert minify_url(url) == expected_value
 
     def test_gibberlings_file(self):
         url = "https://gibberlings3.net/files/file/5094-toto"
         expected_value = "https://gibberlings3.net/files/file/5094-l"
 
-        assert simplify_url(url) == expected_value
+        assert minify_url(url) == expected_value
 
     def test_shs_topic(self):
         url = "https://shsforums.net/topic/5094-toto"
         expected_value = "https://shsforums.net/topic/5094-l"
 
-        assert simplify_url(url) == expected_value
+        assert minify_url(url) == expected_value
 
     def test_shs_forum(self):
         url = "https://shsforums.net/forum/5094-toto"
         expected_value = "https://shsforums.net/forum/5094-l"
 
-        assert simplify_url(url) == expected_value
+        assert minify_url(url) == expected_value
 
     def test_beamdog(self):
         url = "https://forums.beamdog.com/discussion/50975/toto"
         expected_value = "https://forums.beamdog.com/discussion/50975"
 
-        assert simplify_url(url) == expected_value
+        assert minify_url(url) == expected_value
 
     def test_github(self):
         url = "https://github.com/Toto/TotoRepo/blob/main/file.txt"
         expected_value = "https://github.com/Toto/TotoRepo"
 
-        assert simplify_url(url) == expected_value
+        assert minify_url(url) == expected_value
 
     def test_github_raw_protected(self):
         url = "https://github.com/Toto/TotoRepo/raw/refs/heads/main/mod.zip"
         expected_value = url
 
-        assert simplify_url(url) == expected_value
+        assert minify_url(url) == expected_value
 
     def test_github_releases_protected(self):
         url = "https://github.com/Toto/TotoRepo/releases/download/mod.zip"
         expected_value = url
 
-        assert simplify_url(url) == expected_value
+        assert minify_url(url) == expected_value

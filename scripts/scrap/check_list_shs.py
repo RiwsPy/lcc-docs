@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup as bs
 import curl_cffi
 
 from scripts.cleaner.utils import CleanModMixin
-from scripts.utils import ModManager, github_url_prefix, simplify_url
+from scripts.utils import ModManager, github_url_prefix, minify_url
 
 LOGGER = logging.getLogger(__name__)
 
@@ -19,7 +19,7 @@ def main(**kwargs):
         return None
 
     lcc_mod_gh_links = {
-        simplify_url(url.url): mod
+        minify_url(url.url): mod
         for mod in lcc_mods
         for url in mod.urls
         if url.url.startswith(github_url_prefix)
@@ -128,4 +128,4 @@ class ShsCleanMod(CleanModMixin):
         return set(games_str.split(" ")) - {"external", "IWD2EE"}
 
     def clean_urls(self) -> list[str]:
-        return [simplify_url(url) for url in self.data["urls"]]
+        return [minify_url(url) for url in self.data["urls"]]

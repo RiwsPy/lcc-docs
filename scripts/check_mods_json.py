@@ -5,7 +5,7 @@ from typing import Pattern
 from iteration_utilities import duplicates
 from pydantic import HttpUrl
 
-from scripts.utils import ModManager, get_languages, simplify_url
+from scripts.utils import ModManager, get_languages, minify_url
 from settings import language_flags
 
 mod_link: Pattern = re.compile(r"\[\[([0-9]+)\]\]")
@@ -39,7 +39,7 @@ def check_json(language) -> None:
     mod_urls: list[HttpUrl] = list()
 
     for mod in mods:
-        mod_urls += [simplify_url(url.url) for url in mod.urls]
+        mod_urls += [minify_url(url.url) for url in mod.urls]
 
         # check links
         text = ";".join([mod.description] + mod.notes)
