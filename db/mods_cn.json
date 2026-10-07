@@ -1824,11 +1824,11 @@
             "source": "Ce mod améliore grandement la qualité graphique des zones du jeu. L'auteur a soumis toutes les cartes du jeu (les fichiers images) à une IA d'amélioration graphique, pour un résultat plus vibrant et bien plus net, en particulier lors de l'utilisation du zoom (Des images de comparaison sont disponibles sur la page GitHub ou dans le fil de discussion du mod sur les forums Beamdog)."
         },
         "notes": [
-            "由于游戏引擎中的一个错误，带有门和/或水域区域的地图会出现一些伪影（黑线），这些伪影将在该模组的维护过程中逐步修复。",
-            "最后一个链接提供了一个兼容 EET 的版本。"
+            "由于游戏引擎中的一个漏洞，带有门和/或水域的地图会出现某些瑕疵（黑线），这些将随着该模组的维护逐步修复。",
+            "存在一个兼容增强版三部曲（EET）的版本：[[2153]]。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "À cause d'un bug dans le moteur du jeu, les cartes disposant de portes et/ou de zones d'eau présentent certains artefacts (lignes noires) qui seront réglés au fur et à mesure de la maintenance de ce mod.",
                 "Il existe une version compatible avec EET : [[2153]]."
@@ -24047,9 +24047,9 @@
     },
     {
         "id": 1690,
-        "description": "这个模组在博德之门增强版的魔法集市中添加了“风暴之剑”——梅尔尼博恩的艾尔里克的诅咒之剑；在博德之门Ⅱ增强版的羽毛与羊皮纸商店中，或在未安装《巴尔王座》的博德之门Ⅱ的里巴尔商店库存中添加它。",
+        "description": "这个模组将“风暴使者”——梅尔尼博内的艾尔瑞克的诅咒之剑——添加到《博德之门：增强版》的魔法市集库存中；在《博德之门2》中添加到利博德（Ribald）的特殊库存中；在《巴尔王座》中添加到拉札卢斯·李巴卢斯（Lazarus Librarus）处。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod rajoute Stormbringer, l'épée maudite d'Elric de Melniboné dans le stock du Bazar magique pour BGEE, dans le stock spécial de Ribald pour BG2 et Lazarus Librarus pour ToB."
         },
         "notes": [],
@@ -26209,9 +26209,9 @@
     },
     {
         "id": 1849,
-        "description": "你可以在金庸的武侠小说中学习各种各样的武术招式。",
+        "description": "这个模组新增了一个牧师宗派，它牺牲了施展本职业法术的能力，以换取金庸武侠小说中各种各样的武术招式。所获得的技能根据角色的阵营和性别而有所不同。它拥有自己的高等职业能力（HLA）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute un kit de Clerc, qui sacrifie sa capacité à lancer des sorts de sa classe en échange de toutes sortes de mouvements d'arts martiaux des romans wuxia de Jin Yong. Les compétences acquises varient selon l'alignement et le sexe du personnage. Il possède ses propres HLAs."
         },
         "notes": [],
@@ -28052,9 +28052,9 @@
     },
     {
         "id": 1987,
-        "description": "这个模组为战士、圣武士、萨满和盗贼职业添加了新的宗派。",
+        "description": "这个模组添加了受《魔兽世界》和《英雄联盟》启发的新强力宗派：战争领主（战士）、白银之手圣骑士（圣武士）、自然之心（萨满）和暗夜猎手（游荡者）。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute de nouveaux kits puissants inspirés de Wolrd of Warcraft et League of Legends : Seigneur de guerre (Guerrier), Paladin de la Main d'argent (Paladin), de Cœur de la nature (Shaman) et Chasseur nocturne (Voleur)."
         },
         "notes": [],
