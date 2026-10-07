@@ -2009,7 +2009,7 @@
         "name": "Apprentice",
         "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : Apprentice, [[61]], [[271]], [[322]], [[362]], [[380]], [[428]] et [[1154]].|Celui-ci installe un profil d'expert en épées.",
         "urls": [
-            "http://www.rpgcron.karoo.net/soa/kits.htm"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/Apprentice.zip"
         ],
         "categories": [
             "Kit"
@@ -2175,7 +2175,7 @@
         "name": "Arcane Fist",
         "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], Arcane Fist, [[271]], [[322]], [[362]], [[380]], [[428]] et [[1154]].|Les Poings arcaniques sont un ancien ordre de sorciers de Faerûn, que l'on aperçoit rarement. Ils ne sont pas vraiment les maîtres du combat à mains nues, ni ceux des arts arcaniques, mais ils deviennent des adversaires redoutables lorsqu'ils combinent les deux. Dès leur plus jeune âge, ils apprennent les techniques nécessaires au combat à mains nues et acquièrent des pouvoirs mystiques. Ce sont généralement des solitaires qui ne se regroupent qu'avec leurs semblables, sauf en cas de grand danger où ils s'allient à des « étrangers ». Il existe trois sectes au sein des Poings arcaniques : l'Ordre de la Lumière, la Confrérie de Bakur et la Loi de la Mort.",
         "urls": [
-            "http://www.rpgcron.karoo.net/soa/kits.htm"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/ArcaneFist.zip"
         ],
         "categories": [
             "Kit"
@@ -9642,7 +9642,7 @@
         "name": "Crusader",
         "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], [[61]], Crusader, [[322]], [[362]], [[380]], [[428]] et [[1154]].|Celui-ci installe un profil de paladin.",
         "urls": [
-            "http://www.rpgcron.karoo.net/soa/kits.htm"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/CRUSADER.ZIP"
         ],
         "categories": [
             "Kit"
@@ -9655,9 +9655,7 @@
             "Hansoo"
         ],
         "team": [],
-        "notes": [
-            "L'utilisation de KitEditor est requise."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -9667,7 +9665,11 @@
             "stable"
         ],
         "last_update": "2002-03-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "KitEditor"
+            ]
+        },
         "tp2": "non-weidu"
     },
     {
@@ -11518,7 +11520,7 @@
         "name": "Dragon Dancer",
         "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], [[61]], [[271]], Dragon Dancer, [[362]], [[380]], [[428]] et [[1154]].|Celui-ci installe un profil de guerrier.",
         "urls": [
-            "http://www.rpgcron.karoo.net/soa/kits.htm"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/drag.zip"
         ],
         "categories": [
             "Kit"
@@ -12906,7 +12908,7 @@
         "name": "Elementalist Kit",
         "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], [[61]], [[271]], [[322]], Elementalist Kit, [[380]], [[428]] et [[1154]].|Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
         "urls": [
-            "http://www.rpgcron.karoo.net/soa/kits.htm"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/elementalist.zip"
         ],
         "categories": [
             "Kit"
@@ -12919,9 +12921,7 @@
             "Daemon"
         ],
         "team": [],
-        "notes": [
-            "L'utilisation de KitEditor est requise."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 0,
         "languages": [
@@ -12931,7 +12931,11 @@
             "stable"
         ],
         "last_update": "2002-06-01",
-        "compatibilities": {},
+        "compatibilities": {
+            "requires": [
+                "KitEditor"
+            ]
+        },
         "tp2": "non-weidu"
     },
     {
@@ -13573,7 +13577,7 @@
         "name": "Ethereal Blademaster",
         "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], [[61]], [[271]], [[322]], [[362]], Ethereal Blademaster, [[428]] et [[1154]].|Celui-ci installe un profil de rôdeur.",
         "urls": [
-            "http://www.rpgcron.karoo.net/soa/kits.htm"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/EtherBlade.zip"
         ],
         "categories": [
             "Kit"
@@ -15256,7 +15260,7 @@
         "name": "Gambler",
         "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], [[61]], [[271]], [[322]], [[362]], [[380]], Gambler et [[1154]].|Celui-ci installe un profil pour tous ceux qui pensent avoir de la chance.",
         "urls": [
-            "http://www.rpgcron.karoo.net/soa/kits.htm"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/GamblerKit.zip"
         ],
         "categories": [
             "Kit"
@@ -19948,8 +19952,7 @@
             "EET"
         ],
         "authors": [
-            "Rhaella",
-            "Freddy_Gwendo"
+            "Rhaella"
         ],
         "team": [],
         "notes": [],
@@ -41134,7 +41137,7 @@
         "name": "Undead Warrior",
         "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[56]], [[61]], [[271]], [[322]], [[362]], [[380]], [[428]] et Undead Warrior.|Celui-ci installe un profil de guerrier.",
         "urls": [
-            "http://www.rpgcron.karoo.net/soa/kits.htm"
+            "https://github.com/11jo/Unarchived_Mods/raw/refs/heads/main/UndWarKit.zip"
         ],
         "categories": [
             "Kit"
@@ -47243,11 +47246,9 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "n/a",
         "safe": 2,
-        "languages": [
-            "fr"
-        ],
+        "languages": [],
         "status": [
             "stable"
         ],
@@ -74851,9 +74852,8 @@
             "cz",
             "kr",
             "tr",
-            "uk",
             "hu",
-            "uk"
+            "ua"
         ],
         "status": [
             "beta"
