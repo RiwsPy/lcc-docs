@@ -2,7 +2,7 @@ from dataclasses import fields
 import json
 import re
 
-from models import Mod
+from models import Mod, last_update_date_format
 from settings import GameEnum
 
 
@@ -189,7 +189,7 @@ class ModCleaner(CleanModMixin):
 
     def clean_last_update(self) -> str:
         try:
-            last_update = self.data["last_update"].strftime(Mod.last_update_date_format)
+            last_update = self.data["last_update"].strftime(last_update_date_format)
         except Exception:
             last_update = ""
 

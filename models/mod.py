@@ -1,9 +1,9 @@
-from datetime import datetime
+from datetime import date, datetime
 import enum
 import re
 from typing import Annotated, Literal
 
-from pydantic import ConfigDict, PositiveInt, StringConstraints, field_validator
+from pydantic import BeforeValidator, ConfigDict, Field, PositiveInt
 from pydantic.dataclasses import dataclass
 
 from i18n import _g, current_language
@@ -19,7 +19,23 @@ from settings import (
 link_regex = re.compile(r"\[\[[^].]+\]\]")
 external_link_regex = re.compile(r"\[(?P<name>[^\]]+)\]\((?P<url>[^)]+)\)")
 quote_regex = re.compile(r"`[^`]+`")
-DateFormat = Annotated[str, StringConstraints(pattern=r"^(\d{4}-\d{2}-\d{2})?$")]
+last_update_date_format = "%Y-%m-%d"
+
+
+def to_date(date_str: str) -> date:
+    if not date_str:
+        return date(2021, 1, 1)
+    try:
+        return datetime.strptime(date_str, last_update_date_format).date()
+    except ValueError as e:
+        raise ValueError("Expected date format: YYYY-MM-DD") from e
+
+
+DateFormat = Annotated[
+    date,
+    BeforeValidator(to_date),
+    Field(ge=date(1999, 1, 1), le=datetime.now().date()),
+]
 
 
 class ModStatus(enum.StrEnum):
@@ -69,24 +85,6 @@ class Mod:
     notes_meta: dict | None = None
     urls_extra: list[HttpUrl] | None = None
     notes_extra: list[str] | None = None
-
-    last_update_date_format = "%Y-%m-%d"
-
-    @field_validator("last_update")
-    def check_last_update(cls, v):
-        if not v:
-            return v
-
-        try:
-            datetime.strptime(v, cls.last_update_date_format)
-        except Exception as e:
-            raise e
-
-        current_date = datetime.now().strftime(cls.last_update_date_format)
-        min_date = "1999-01-01"
-        if min_date <= v <= current_date:
-            return v
-        raise ValueError(f"Date not possible, must be between {min_date} and {current_date}")
 
     @property
     def translation_state_auto(self) -> TranslationStateEnum:
@@ -195,9 +193,9 @@ class Mod:
             self.last_update
             and self.is_EE
             and (
-                self.last_update < "2016-04-01"
+                self.last_update < date(2016, 4, 1)
                 or (
-                    self.last_update < "2021-04-01"
+                    self.last_update < date(2021, 4, 1)
                     and CategoryEnum.INTERFACE in self.categories
                 )
             )
@@ -209,14 +207,12 @@ class Mod:
         if self.embedded_in:
             auto_notes.append(_g("Inclus dans [[{mod_id}]].").format(mod_id=self.embedded_in))
 
-        if self.is_outdated and self.safe <= 1:
-            year, _ = self.last_update.split("-", 1)
-            if self.is_EE:
-                auto_notes.append(
-                    _g(
-                        "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec la dernière version du jeu."
-                    ).format(year=year)
-                )
+        if self.is_outdated and self.safe <= 1 and self.is_EE:
+            auto_notes.append(
+                _g(
+                    "⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec la dernière version du jeu."
+                ).format(year=self.last_update.year)
+            )
 
         if not self.is_weidu:
             auto_notes.append(
