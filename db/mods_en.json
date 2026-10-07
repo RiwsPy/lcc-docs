@@ -2790,7 +2790,7 @@
     },
     {
         "id": 198,
-        "description": "The mod adds a new NPC – a Gnoll Bruiser, a former bandit, who worked for Garclax, a gnoll you may also encounter in the original game during the investigation of the Bandit Camp. Bristlelick is a frontline warrior of neutral character. He enjoys battle, a fine meal, and seeks vengeance for the death of his trusted companion, Bull-Tall.|The NPC may join your party near the rocky road on the Bandit Camp area. In Siege of Dragonspear, he may join the team near the first camp.|STR 19, DEX 16, CON 18, INT 13, WIS 8, CHA 7.",
+        "description": "The mod adds a new NPC – a Gnoll Bruiser, a former bandit, who worked for Garclax, a gnoll you may also encounter in the original game during the investigation of the Bandit Camp. Bristlelick is a frontline fighter of neutral character. He enjoys battle, a fine meal, and seeks vengeance for the death of his trusted companion, Bull-Tall.|The NPC may join your party near the rocky road on the Bandit Camp area. In Siege of Dragonspear, he may join the team near the first camp.|STR 19, DEX 16, CON 18, INT 13, WIS 8, CHA 7.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute un PNJ, un ancien bandit qui a travaillé pour Garclax, un gnoll que vous pouvez également rencontrer dans le jeu original, lors de l'enquête sur le camp de bandits. Bristlelick est un guerrier de première ligne au caractère maléfique. Il aime la bataille, un bon repas et cherche à se venger du meurtre de son fidèle compagnon, Bull-Tall. Pour qu'il s'intègre parfaitement au concept, il dispose de son propre profil, celui de gnoll cogneur.|Vous pouvez le recruter près de la route rocheuse dans la zone du camp de bandits. Dans SoD, il peut rejoindre l'équipe près du premier camp.|FOR 19, DEX 16, CON 18, INT 13, SAG 8, CHA 7."
@@ -4791,7 +4791,7 @@
     },
     {
         "id": 339,
-        "description": "This mod features a new NPC joining to the party: Dusk, the Wizard Slayer. Ardusk Aldant, also know as Dusk, is a warrior from Cormyr, trained in the Order of the Purple Dragons. After a long journey to Athkatla, Dusk now becomes a notable Wizard Slayer who just wants to live in peace. But a dark figure attacks in the peaceful Waukeen's Promenade.",
+        "description": "This mod features a new NPC joining to the party: Dusk, the Wizard Slayer. Ardusk Aldant, also know as Dusk, is a fighter from Cormyr, trained in the Order of the Purple Dragons. After a long journey to Athkatla, Dusk now becomes a notable Wizard Slayer who just wants to live in peace. But a dark figure attacks in the peaceful Waukeen's Promenade.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod propose un nouveau PNJ : Dusk, le tueur de sorciers. Ardusk Aldant, également connu sous le nom de Dusk, est un guerrier du Cormyr, formé dans l'Ordre des Dragons Pourpres. Après un long voyage jusqu'à Athkatla, Dusk est devenu un notable tueur de sorciers qui ne demande qu'à vivre en paix. Mais un sombre personnage attaque la paisible promenade de Waukyne."
@@ -7297,7 +7297,7 @@
     },
     {
         "id": 516,
-        "description": "This mod adds loquacious new NPCs with banters, NPC interactions and daring romances, unless you don't recruit Salomeya and Sir Wind Nord. You can make up a ready-made team of 6 characters, or create your PJ and add 5 new NPCs from the 10 available (5 men and 5 women): Diriel (a bad neutral elf druid), Hildury (a good chaotic half-orc barbarian), Jaemal (a good neutral aasimar sorcerer), Nikosh Bracegirdle (a strict neutral halfling rogue), Sir Wind Nord (a lawful good human paladin), Peony (a neutral chaotic gnome illusionist), Prachi (a lawful neutral human nun), Rizdaer (a lawful evil drow fighter), Salomeya (a chaotic evil half-elf bard) and Valeero (a good neutral human priestess of Lathander).",
+        "description": "This mod adds loquacious new NPCs with banters, NPC interactions and daring romances, unless you don't recruit Salomeya and Sir Wind Nord. You can make up a ready-made team of 6 characters, or create your PJ and add 5 new NPCs from the 10 available (5 men and 5 women): Diriel (a bad neutral elf druid), Hildury (a good chaotic half-orc barbarian), Jaemal (a good neutral aasimar sorcerer), Nikosh Bracegirdle (a strict neutral halfling thief), Sir Wind Nord (a lawful good human paladin), Peony (a neutral chaotic gnome illusionist), Prachi (a lawful neutral human nun), Rizdaer (a lawful evil drow fighter), Salomeya (a chaotic evil half-elf bard) and Valeero (a good neutral human priestess of Lathander).",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod ajoute de nouveaux PNJ loquaces disposant de banters, d'interactions avec le PJ et de romances assez osées, à moins que vous ne recrutiez pas Salomeya et Sir Wind Nord. Vous pouvez constituer une équipe de 6 personnages toute faite, ou créer votre PJ et ajouter 5 nouveaux PNJ parmi les 10 disponibles (5 hommes et 5 femmes) : Diriel (un druide elfe neutre mauvais), Hildury (une barbare demi-orque chaotique bonne), Jaemal (un sorcier aasimar neutre bon), Nikosh Bracegirdle (un roublard halfling neutre strict), Sir Wind Nord (un paladin humain loyal bon), Peony (une illusionniste gnome chaotique neutre), Prachi (une moniale humaine loyale neutre), Rizdaer (un guerrier drow loyal mauvais), Salomeya (une barde demi-elfe chaotique mauvaise) et Valeero (une prêtresse de Lathandre humaine neutre bonne)."
@@ -25898,10 +25898,10 @@
     },
     {
         "id": 1849,
-        "description": "You can learn all kinds of martial-arts moves from Jin Yong’s wuxia novels.",
+        "description": "This mod adds a Cleric kit, which sacrifices the character's ability to cast class spells in exchange for all manner of martial arts moves from Jin Yong's wuxia novels. The skills acquired vary depending on the character's alignment and gender. It has its own HLAs.",
         "description_meta": {
-            "status": "done",
-            "source": "Vous pouvez apprendre toutes sortes de mouvements d'arts martiaux dans les romans wuxia de Jin Yong."
+            "status": "needs_review",
+            "source": "Ce mod ajoute un kit de Clerc, qui sacrifie sa capacité à lancer des sorts de sa classe en échange de toutes sortes de mouvements d'arts martiaux des romans wuxia de Jin Yong. Les compétences acquises varient selon l'alignement et le sexe du personnage. Il possède ses propres HLAs."
         },
         "notes": [],
         "notes_meta": {
@@ -27736,10 +27736,10 @@
     },
     {
         "id": 1987,
-        "description": "This mod adds new kits for the Warrior, Paladin, Shaman and Thief classes.",
+        "description": "This mod adds powerful new kits inspired by World of Warcraft and League of Legends: Warlord (Fighter), Silver Hand Paladin (Paladin), Heart of Nature (Shaman) and Night Hunter (Thief).",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod ajoute de nouveaux kits pour les classes de Guerrier, de Paladin, de Shaman et de Voleur."
+            "source": "Ce mod ajoute de nouveaux kits puissants inspirés de Wolrd of Warcraft et League of Legends : Seigneur de guerre (Guerrier), Paladin de la Main d'argent (Paladin), de Cœur de la nature (Shaman) et Chasseur nocturne (Voleur)."
         },
         "notes": [],
         "notes_meta": {
@@ -27951,7 +27951,7 @@
     },
     {
         "id": 2002,
-        "description": "Mike is a human warrior with a neutral alignment; he has the minimum content.|STR 16, DEX 14, CON 16, INT 17, WIS 6, CHA 12.",
+        "description": "Mike is a human fighter with a neutral alignment; he has the minimum content.|STR 16, DEX 14, CON 16, INT 17, WIS 6, CHA 12.",
         "description_meta": {
             "status": "needs_review",
             "source": "Mike est un guerrier humain sans kit d'alignement neutre, il a le contenu minimum.|FOR 16, DEX 14, CON 16, INT 17, SAG 6, CHA 12."
@@ -29607,7 +29607,7 @@
     },
     {
         "id": 2127,
-        "description": "Part magician and part artist, a Sword Dancer is a warrior who uses telekinetic powers to influence their movements in combat. A Sword Dancer's powers come less from muscle and more from magic, allowing them to strike more often at the expense of reducing the force of each blow. Sword Dancers rely on the speed of their weapons to disrupt and disable their opponents, and prefer to use lighter and quicker weapons, which are easier to move using telekinesis.",
+        "description": "Part magician and part artist, a Sword Dancer is a fighter who uses telekinetic powers to influence their movements in combat. A Sword Dancer's powers come less from muscle and more from magic, allowing them to strike more often at the expense of reducing the force of each blow. Sword Dancers rely on the speed of their weapons to disrupt and disable their opponents, and prefer to use lighter and quicker weapons, which are easier to move using telekinesis.",
         "description_meta": {
             "status": "done",
             "source": "À la fois magicien et artiste, le « danseur d'épée » est un guerrier qui utilise ses pouvoirs télékinétiques pour influencer ses mouvements au combat. Ses pouvoirs proviennent moins de sa force physique que de la magie, ce qui lui permet de frapper plus souvent, au prix d'une force réduite à chaque coup. Les danseurs d'épée misent sur la vitesse de leurs armes pour déstabiliser et neutraliser leurs adversaires, et préfèrent utiliser des armes plus légères et plus rapides, plus faciles à manier grâce à la télékinésie."

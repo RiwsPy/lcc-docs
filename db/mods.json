@@ -5481,6 +5481,7 @@
         "name": "BS Balduran's Seatower",
         "description": "Ce mod est le fruit d'une collaboration entre de nombreux moddeurs. Il ajoute un nouveau quartier à La Porte de Baldur, avec de nombreuses quêtes qui vous obligeront à arpenter la Côte des Épées.",
         "urls": [
+            "https://www.baldurs-gate.de/index.php?threads/44842/",
             "https://www.gibberlings3.net/mods/quests/baldurans-seatower/",
             "https://forums.beamdog.com/discussion/77570/",
             "https://github.com/Gibberlings3/BS_Baldurans_Seatower"
@@ -64575,7 +64576,7 @@
     {
         "id": 1849,
         "name": "Disciple of Jin Yong",
-        "description": "Vous pouvez apprendre toutes sortes de mouvements d'arts martiaux dans les romans wuxia de Jin Yong.",
+        "description": "Ce mod ajoute un kit de Clerc, qui sacrifie sa capacité à lancer des sorts de sa classe en échange de toutes sortes de mouvements d'arts martiaux des romans wuxia de Jin Yong. Les compétences acquises varient selon l'alignement et le sexe du personnage. Il possède ses propres HLAs.",
         "urls": [
             "https://trow.cc/board/showtopic=14828",
             "https://github.com/trow/Disciple-of-Jin-Yong"
@@ -69249,7 +69250,7 @@
     {
         "id": 1987,
         "name": "Kits Rework",
-        "description": "Ce mod ajoute de nouveaux kits pour les classes de Guerrier, de Paladin, de Shaman et de Voleur.",
+        "description": "Ce mod ajoute de nouveaux kits puissants inspirés de Wolrd of Warcraft et League of Legends : Seigneur de guerre (Guerrier), Paladin de la Main d'argent (Paladin), de Cœur de la nature (Shaman) et Chasseur nocturne (Voleur).",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=48322",
             "https://github.com/trow/Qin06Kits_Rework"
@@ -74817,6 +74818,7 @@
         "name": "Randomizer",
         "description": "Le Randomizer est un outil permettant de générer des parties aléatoires. Au début de chaque session, un lancer de dés détermine les compagnons que vous rencontrerez au fil de la partie.",
         "urls": [
+            "https://www.baldurs-gate.de/index.php?threads/46363/",
             "https://forums.beamdog.com/discussion/90848/",
             "https://github.com/EIEIEI1903/Baldurs-Gate-EE-RANDOMIZER"
         ],
@@ -74834,7 +74836,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "es",
@@ -74854,7 +74856,7 @@
             "uk"
         ],
         "status": [
-            "stable"
+            "beta"
         ],
         "last_update": "2026-09-27",
         "compatibilities": {},
