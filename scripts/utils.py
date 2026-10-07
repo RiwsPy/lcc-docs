@@ -3,6 +3,7 @@ import json
 from json import JSONDecodeError
 import logging
 import os
+import re
 
 from i18n import LANGUAGE_DEFAULT, current_language
 from models.mod import Mod, ModStatus
@@ -152,7 +153,20 @@ class CleanModMixin:
                     self.cleaned_data[attr] = cleaned_value
 
 
+# https://baldurs-gate.de/: threads/topic_name.id → threads/id
+baldur_de = re.compile(r"(/?threads/)[^./]+\.")
+
+# https://gibberlings3.net/: topic/id-topic_name → topic/id-x
+gib_net = re.compile(r"(/(forums/topic|files/file)/\w+-)[^/]+")
+
+# https://shsforums.net/: topic/id-topic_name → topic/id-x / forum/id-forum_name → forum/id-x
+shs_net = re.compile(r"(/(topic|forum)/\w+-)[^/]+")
+
+
 def simplify_url(url: str) -> str:
+    # remove `www.`
+    url = url.replace("://www.", "://")
+
     if (
         url.startswith(github_url_prefix)
         and "raw/refs/heads/" not in url
@@ -161,6 +175,14 @@ def simplify_url(url: str) -> str:
         and not url.startswith("https://forums.beamdog.com/discussion/comment/")
     ):
         url = "/".join(url.split("/")[:5])
+
+    if url.startswith("https://baldurs-gate.de/index.php?threads/"):
+        url = baldur_de.sub(r"\1", url)
+    elif url.startswith("https://gibberlings3.net/"):
+        url = gib_net.sub(r"\1l", url)
+    elif url.startswith("https://shsforums.net/"):
+        url = shs_net.sub(r"\1l", url)
+
     return url.removesuffix("/")
 
 
