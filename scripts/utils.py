@@ -10,6 +10,8 @@ from settings import DB_PATH
 
 logger = logging.getLogger(__name__)
 
+github_url_prefix = "https://github.com/"
+
 
 class ModManager:
     mod_filename: str = "mods.json"
@@ -152,7 +154,7 @@ class CleanModMixin:
 
 def simplify_url(url: str) -> str:
     if (
-        url.startswith("https://github.com")
+        url.startswith(github_url_prefix)
         and "raw/refs/heads/" not in url
         and "releases/download/" not in url
         or url.startswith("https://forums.beamdog.com/discussion/")
