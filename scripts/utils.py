@@ -169,7 +169,7 @@ def minify_url(url: str) -> str:
 
     if (
         url.startswith(github_url_prefix)
-        and "raw/refs/heads/" not in url
+        and "/raw/" not in url
         and "releases/download/" not in url
         or url.startswith("https://forums.beamdog.com/discussion/")
         and not url.startswith("https://forums.beamdog.com/discussion/comment/")
