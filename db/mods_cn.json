@@ -18438,8 +18438,10 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "todo",
+            "source": [
+                "Une version compatible EE est diponible dans [[2156]]."
+            ]
         }
     },
     {
@@ -30298,6 +30300,58 @@
         "description_meta": {
             "status": "done",
             "source": "Version EET du mod [[126]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2154,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "BG Pathfinding Redux est un mod qui supprime l'obstruction causée par les créatures alliées lors de la planification et de l'exécution des déplacements. Les alliés peuvent désormais se faufiler les uns à travers les autres et passer par des embrasures de portes étroites. Les murs, les portes fermées, les PNJ neutres et les ennemis conservent leur comportement de blocage d'origine."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2155,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce mod propose une refonte de la classe de Paladin. Le principe directeur de l'auteur est que les bonus passifs sont ennuyeux et qu'il vaut mieux avoir plus de boutons, dans la mesure du raisonnable."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2156,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Portage EE du mod [[1294]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2157,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Portage EE du mod [[1299]]."
         },
         "notes": [],
         "notes_meta": {

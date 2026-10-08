@@ -18213,10 +18213,14 @@
             "status": "needs_review",
             "source": "Parfois appelé Weimer's Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité...|À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent).|FOR 18/21, DEX 18, CON 10, INT 18, SAG 10, CHA 16."
         },
-        "notes": [],
+        "notes": [
+            "An EE-compatible version is available in [[2156]]."
+        ],
         "notes_meta": {
-            "status": "done",
-            "source": []
+            "status": "needs_review",
+            "source": [
+                "Une version compatible EE est diponible dans [[2156]]."
+            ]
         }
     },
     {
@@ -29951,6 +29955,58 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Version EET du mod [[126]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2154,
+        "description": "BG Pathfinding Redux is an EEex mod for Baldur's Gate: Enhanced Edition, Siege of Dragonspear, and Baldur's Gate II: Enhanced Edition that removes allied creature obstruction from movement planning and execution. Allies can flow through one another and through cramped doorways. Walls, closed doors, neutral NPCs, and enemies retain their native blocking behavior.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "BG Pathfinding Redux est un mod qui supprime l'obstruction causée par les créatures alliées lors de la planification et de l'exécution des déplacements. Les alliés peuvent désormais se faufiler les uns à travers les autres et passer par des embrasures de portes étroites. Les murs, les portes fermées, les PNJ neutres et les ennemis conservent leur comportement de blocage d'origine."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2155,
+        "description": "This mod offers a rework of the Paladin class. The author’s guiding principle is that passive bonuses are boring and more buttons is more better, within reason.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ce mod propose une refonte de la classe de Paladin. Le principe directeur de l'auteur est que les bonus passifs sont ennuyeux et qu'il vaut mieux avoir plus de boutons, dans la mesure du raisonnable."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2156,
+        "description": "EE port of mod [[1294]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Portage EE du mod [[1294]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2157,
+        "description": "EE port of mod [[1299]].",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Portage EE du mod [[1299]]."
         },
         "notes": [],
         "notes_meta": {

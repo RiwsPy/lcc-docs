@@ -33327,7 +33327,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "de",
             "fr"
@@ -46101,7 +46101,9 @@
             "Wes Weimer"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Une version compatible EE est diponible dans [[2156]]."
+        ],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -46321,7 +46323,11 @@
             "stable"
         ],
         "last_update": "2020-12-25",
-        "compatibilities": {},
+        "compatibilities": {
+            "conflicts": [
+                2157
+            ]
+        },
         "tp2": "Valen"
     },
     {
@@ -62434,7 +62440,7 @@
             "BG2EE"
         ],
         "authors": [
-            "AlbiesEmporium"
+            "Allbrother"
         ],
         "team": [],
         "notes": [],
@@ -68803,7 +68809,7 @@
             "BGEE"
         ],
         "authors": [
-            "AlbiesEmporium"
+            "Allbrother"
         ],
         "team": [],
         "notes": [],
@@ -74894,5 +74900,159 @@
             ]
         },
         "tp2": "EET_BGEE_AI_Denoised_Areas"
+    },
+    {
+        "id": 2154,
+        "name": "BG Pathfinding Redux",
+        "description": "BG Pathfinding Redux est un mod qui supprime l'obstruction causée par les créatures alliées lors de la planification et de l'exécution des déplacements. Les alliés peuvent désormais se faufiler les uns à travers les autres et passer par des embrasures de portes étroites. Les murs, les portes fermées, les PNJ neutres et les ennemis conservent leur comportement de blocage d'origine.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41613-mod-pathfinding-redux-pathfinding-finally-fixed",
+            "https://github.com/zach-hopkins/bg-pathfinding-redux"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Zach Hopkins"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-10-08",
+        "compatibilities": {
+            "requires": [
+                348
+            ]
+        },
+        "tp2": "bg-redux-movement"
+    },
+    {
+        "id": 2155,
+        "name": "WL Classes and Kits",
+        "description": "Ce mod propose une refonte de la classe de Paladin. Le principe directeur de l'auteur est que les bonus passifs sont ennuyeux et qu'il vaut mieux avoir plus de boutons, dans la mesure du raisonnable.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/171"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Allbrother"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-10-07",
+        "compatibilities": {},
+        "tp2": "wl_CK_Paladins"
+    },
+    {
+        "id": 2156,
+        "name": "Solaufein NPC",
+        "description": "Portage EE du mod [[1294]].",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41614-mod-solaufein-and-valen-%E2%80%94-modern-eeeet-editions/",
+            "https://github.com/CelestialFury-BG/SolaufeinEE"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Wes Weimer",
+            "Celestial Fury"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "it",
+            "de",
+            "fr",
+            "pt",
+            "pl",
+            "ru",
+            "es"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-10-09",
+        "compatibilities": {},
+        "tp2": "solaufeinEE"
+    },
+    {
+        "id": 2157,
+        "name": "Valen NPC",
+        "description": "Portage EE du mod [[1299]].",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41614-mod-solaufein-and-valen-%E2%80%94-modern-eeeet-editions/",
+            "https://github.com/CelestialFury-BG/ValenEE"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Wes Weimer",
+            "Celestial Fury"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "it",
+            "de",
+            "fr",
+            "pl",
+            "ru",
+            "es",
+            "cn",
+            "jp"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-10-09",
+        "compatibilities": {
+            "conflicts": [
+                1299
+            ]
+        },
+        "tp2": "valenEE"
     }
 ]
