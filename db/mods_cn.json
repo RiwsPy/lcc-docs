@@ -13287,6 +13287,9 @@
     },
     {
         "id": 930,
+        "team": [
+            "MephistoSatanDevil"
+        ],
         "description": "这个模组旨在解决博德之门增强版和博德之门Ⅱ增强版中缺少亮度调节的问题。它提供了二十多种预设，您需要选择其中一种。只需重新安装模组即可选择另一个。该[模组readme](https://argent77.github.io/A7-LightingPackEE/index.html)还说明了安装后如何修改文件以根据自己的喜好调整设置。",
         "description_meta": {
             "status": "done",
@@ -27042,8 +27045,8 @@
         "id": 1911,
         "description": "在您选定的地点（阿斯卡特拉、观察者堡垒或安姆克萨兰），您将遇到一尊钻石魔像，它会向您提出挑战。每项挑战都是一个“竞技场”，您需要在其中找到并击杀首领以取得胜利。| 这是一个尚未完成的版本，目前仅包含计划中11个竞技场里的8个。",
         "description_meta": {
-            "status": "done",
-            "source": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de diamant qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous devez trouver et tuer le boss pour valider la victoire.|Ceci est un version Wip, ne proposant que 8 arènes sur les 11 prévues."
+            "status": "needs_review",
+            "source": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de mithril qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous rencontrerez des dizaines de monstres aléatoires et où vous devrez trouver et tuer le boss pour valider la victoire.|Il y a 10 défis à relever, plus le défi final quand vous aurez triomphé des 10 premiers défis."
         },
         "notes": [],
         "notes_meta": {

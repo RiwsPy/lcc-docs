@@ -4586,7 +4586,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2022-05-07",
+        "last_update": "2022-05-05",
         "compatibilities": {
             "conflicts": [
                 146
@@ -6054,7 +6054,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-10-26",
+        "last_update": "2026-10-08",
         "compatibilities": {},
         "tp2": "d2-script"
     },
@@ -9926,7 +9926,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-29",
+        "last_update": "2026-10-02",
         "compatibilities": {},
         "tp2": "d2-mira"
     },
@@ -9962,7 +9962,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-02",
+        "last_update": "2026-10-02",
         "compatibilities": {},
         "tp2": "d2-weapon"
     },
@@ -10780,7 +10780,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-08-30",
+        "last_update": "2026-10-04",
         "compatibilities": {},
         "tp2": "Derats_kits"
     },
@@ -10816,7 +10816,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-03",
+        "last_update": "2026-10-02",
         "compatibilities": {},
         "tp2": "Derats_dawap;Derats_dawap_TOUT"
     },
@@ -12466,7 +12466,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-16",
+        "last_update": "2026-10-07",
         "compatibilities": {
             "conflicts": [
                 1410
@@ -17302,7 +17302,8 @@
             "pl",
             "ru",
             "es",
-            "cn"
+            "cn",
+            "it"
         ],
         "status": [
             "stable"
@@ -19420,7 +19421,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-24",
+        "last_update": "2026-10-10",
         "compatibilities": {},
         "tp2": "InLoveUndeath"
     },
@@ -24363,7 +24364,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-03",
+        "last_update": "2026-10-04",
         "compatibilities": {
             "conflicts": [
                 894
@@ -33047,7 +33048,8 @@
             "en",
             "de",
             "pl",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
@@ -33097,7 +33099,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-02",
+        "last_update": "2026-10-10",
         "compatibilities": {},
         "tp2": "SotSC"
     },
@@ -33335,7 +33337,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-29",
+        "last_update": "2026-09-28",
         "compatibilities": {
             "requires": [
                 "ToB"
@@ -33629,7 +33631,7 @@
         "name": "Sheena - The Half Dragon Tale",
         "description": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ?|Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).|Forme humaine : FOR 16, DEX 12, CON 16, INT 15, SAG 10, CHA 15.|Forme draconique : FOR 20, DEX 12, CON 18, INT 15, SAG 10, CHA 15.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/download.php",
+            "http://forums.blackwyrmlair.net/index.php?showforum=98",
             "https://forums.beamdog.com/discussion/60784/"
         ],
         "categories": [
@@ -33642,8 +33644,8 @@
             "EET"
         ],
         "authors": [
-            "Edvin",
-            "Red Knight"
+            "Red Knight",
+            "Edvin"
         ],
         "team": [],
         "notes": [
@@ -46802,7 +46804,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-26",
+        "last_update": "2026-10-10",
         "compatibilities": {},
         "tp2": "BloodiedStingsOfBarovia"
     },
@@ -46843,7 +46845,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-17",
+        "last_update": "2026-10-10",
         "compatibilities": {},
         "tp2": "Loretakers"
     },
@@ -47163,7 +47165,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-05",
+        "last_update": "2026-10-10",
         "compatibilities": {},
         "tp2": "A7-WaresOfThePlanes"
     },
@@ -48871,7 +48873,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-08",
+        "last_update": "2026-10-01",
         "compatibilities": {
             "requires": [
                 "Windows"
@@ -49099,7 +49101,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04-27",
+        "last_update": "2026-10-10",
         "compatibilities": {},
         "tp2": "JuniperAndTheStoneLeech"
     },
@@ -50971,7 +50973,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-09-16",
+        "last_update": "2026-10-09",
         "compatibilities": {},
         "tp2": "enhanced_creatures"
     },
@@ -53957,6 +53959,7 @@
             "Portrait et son"
         ],
         "games": [
+            "BG2",
             "BGEE",
             "BG2EE",
             "EET"
@@ -61226,12 +61229,13 @@
             "es",
             "ru",
             "pt",
-            "pl"
+            "pl",
+            "it"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-01",
+        "last_update": "2026-10-10",
         "compatibilities": {},
         "tp2": "ThroneoftheMadGod"
     },
@@ -62043,7 +62047,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-09-30",
+        "last_update": "2026-09-30",
         "compatibilities": {},
         "tp2": "Derats_Powerkits"
     },
@@ -63234,7 +63238,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-17",
+        "last_update": "2026-10-09",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -64224,7 +64228,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-24",
+        "last_update": "2026-10-10",
         "compatibilities": {},
         "tp2": "assortedadjustments"
     },
@@ -64422,7 +64426,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-09-28",
+        "last_update": "2026-10-11",
         "compatibilities": {},
         "tp2": "silverrealms"
     },
@@ -66673,7 +66677,7 @@
     {
         "id": 1911,
         "name": "Défis insurmontables de Telim'Gar",
-        "description": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de diamant qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous devez trouver et tuer le boss pour valider la victoire.|Ceci est un version Wip, ne proposant que 8 arènes sur les 11 prévues.",
+        "description": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de mithril qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous rencontrerez des dizaines de monstres aléatoires et où vous devrez trouver et tuer le boss pour valider la victoire.|Il y a 10 défis à relever, plus le défi final quand vous aurez triomphé des 10 premiers défis.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34557",
             "https://forums.beamdog.com/discussion/90555/",
@@ -66735,7 +66739,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-07-18",
+        "last_update": "2026-10-07",
         "compatibilities": {},
         "tp2": "JOining_Party_Select"
     },
@@ -67329,7 +67333,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-01-03",
+        "last_update": "2026-10-09",
         "compatibilities": {},
         "tp2": "weapons_reforged"
     },
@@ -70140,7 +70144,8 @@
         "games": [
             "IWD",
             "IWD2",
-            "IWDEE"
+            "IWDEE",
+            "EET"
         ],
         "authors": [
             "Yovaneth",
@@ -71251,7 +71256,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-02",
+        "last_update": "2026-10-03",
         "compatibilities": {},
         "tp2": "InkGallery"
     },
@@ -71892,12 +71897,13 @@
             "de",
             "es",
             "cn",
-            "it"
+            "it",
+            "ru"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-21",
+        "last_update": "2026-10-09",
         "compatibilities": {},
         "tp2": "Poisoned_pathways"
     },
@@ -72129,7 +72135,13 @@
             "Utilitaire"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BG2EE",
+            "BGEE",
+            "BGT",
+            "EET",
+            "IWDEE",
+            "Tutu"
         ],
         "authors": [
             "CamDawg"
@@ -74340,7 +74352,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-29",
+        "last_update": "2026-10-06",
         "compatibilities": {},
         "tp2": "BG1StylePortraits"
     },
@@ -74907,6 +74919,7 @@
         "description": "BG Pathfinding Redux est un mod qui supprime l'obstruction causée par les créatures alliées lors de la planification et de l'exécution des déplacements. Les alliés peuvent désormais se faufiler les uns à travers les autres et passer par des embrasures de portes étroites. Les murs, les portes fermées, les PNJ neutres et les ennemis conservent leur comportement de blocage d'origine.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/41613-mod-pathfinding-redux-pathfinding-finally-fixed",
+            "https://forums.beamdog.com/discussion/90858",
             "https://github.com/zach-hopkins/bg-pathfinding-redux"
         ],
         "categories": [
@@ -74929,7 +74942,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-10-08",
+        "last_update": "2026-10-11",
         "compatibilities": {
             "requires": [
                 348
@@ -74982,6 +74995,7 @@
             "PNJ recrutable"
         ],
         "games": [
+            "BG2",
             "BG2EE",
             "EET"
         ],
@@ -75022,6 +75036,7 @@
             "PNJ recrutable"
         ],
         "games": [
+            "BG2",
             "BG2EE",
             "EET"
         ],
