@@ -13004,12 +13004,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE.",
-                "[Ce lien](https://www.dropbox.com/s/mxavndwl5ptvshx/) contient la traduction russe.",
-                "[Ce lien](https://github.com/MephistoSatanDevil/Sheena/) contient la traduction chinoise (EE uniquement)."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -29205,7 +29201,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod altère les styles de combat."
+            "source": "Ce mod altère les styles de combat. Il ajoute un troisième emplacement à tous les styles d'armes et n'est disponible que pour les combattants non multi-classés (à l'exception des barbares). De plus, l'auteur a tenté de rééquilibrer les styles d'armes, afin que le style « deux armes » ne soit plus aussi dominant."
         },
         "notes": [],
         "notes_meta": {
@@ -29349,6 +29345,19 @@
         "description_meta": {
             "status": "todo",
             "source": "Portage EE du mod [[1299]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2158,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Pont IPC basé sur des fichiers permettant d'exécuter du code Lua au sein d'une partie de BG:EE/BG2:EE en cours d'exécution à l'aide d'EEex."
         },
         "notes": [],
         "notes_meta": {

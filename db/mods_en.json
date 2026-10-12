@@ -13373,18 +13373,10 @@
             "status": "needs_review",
             "source": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ?|Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).|Forme humaine : FOR 16, DEX 12, CON 16, INT 15, SAG 10, CHA 15.|Forme draconique : FOR 20, DEX 12, CON 18, INT 15, SAG 10, CHA 15."
         },
-        "notes": [
-            "Use the Beamdog link to download the version for EE games.",
-            "[This link](https://www.dropbox.com/s/mxavndwl5ptvshx/) contains the Russian translation.",
-            "[This link](https://github.com/MephistoSatanDevil/Sheena/) contains the Chinese translation (EE only)."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE.",
-                "[Ce lien](https://www.dropbox.com/s/mxavndwl5ptvshx/) contient la traduction russe.",
-                "[Ce lien](https://github.com/MephistoSatanDevil/Sheena/) contient la traduction chinoise (EE uniquement)."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -29860,10 +29852,10 @@
     },
     {
         "id": 2146,
-        "description": "This mod alters the weapon styles.",
+        "description": "This mod alters the weapon styles. It adds a third slot to all the weapon styles and is available for single class fighters only (excluding Barbarians). In addition, the author have attempted to rebalance the weapon styles, so that two-weapon style is no longer as dominant.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Ce mod altère les styles de combat."
+            "source": "Ce mod altère les styles de combat. Il ajoute un troisième emplacement à tous les styles d'armes et n'est disponible que pour les combattants non multi-classés (à l'exception des barbares). De plus, l'auteur a tenté de rééquilibrer les styles d'armes, afin que le style « deux armes » ne soit plus aussi dominant."
         },
         "notes": [],
         "notes_meta": {
@@ -29977,7 +29969,7 @@
     },
     {
         "id": 2155,
-        "description": "This mod offers a rework of the Paladin class. The author’s guiding principle is that passive bonuses are boring and more buttons is more better, within reason.",
+        "description": "This mod offers a rework of the Paladin class. The author's guiding principle is that passive bonuses are boring and more buttons is more better, within reason.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod propose une refonte de la classe de Paladin. Le principe directeur de l'auteur est que les bonus passifs sont ennuyeux et qu'il vaut mieux avoir plus de boutons, dans la mesure du raisonnable."
@@ -30007,6 +29999,19 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Portage EE du mod [[1299]]."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2158,
+        "description": "File-based IPC bridge for executing Lua inside a running BG:EE/BG2:EE game with EEex.",
+        "description_meta": {
+            "status": "done",
+            "source": "Pont IPC basé sur des fichiers permettant d'exécuter du code Lua au sein d'une partie de BG:EE/BG2:EE en cours d'exécution à l'aide d'EEex."
         },
         "notes": [],
         "notes_meta": {

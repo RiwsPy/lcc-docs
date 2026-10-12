@@ -33632,7 +33632,8 @@
         "description": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ?|Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).|Forme humaine : FOR 16, DEX 12, CON 16, INT 15, SAG 10, CHA 15.|Forme draconique : FOR 20, DEX 12, CON 18, INT 15, SAG 10, CHA 15.",
         "urls": [
             "http://forums.blackwyrmlair.net/index.php?showforum=98",
-            "https://forums.beamdog.com/discussion/60784/"
+            "https://forums.beamdog.com/discussion/60784/",
+            "https://github.com/11jo/Sheena"
         ],
         "categories": [
             "PNJ recrutable"
@@ -33648,23 +33649,21 @@
             "Edvin"
         ],
         "team": [],
-        "notes": [
-            "Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE.",
-            "[Ce lien](https://www.dropbox.com/s/mxavndwl5ptvshx/) contient la traduction russe.",
-            "[Ce lien](https://github.com/MephistoSatanDevil/Sheena/) contient la traduction chinoise (EE uniquement)."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
             "en",
             "fr",
             "es",
-            "cz"
+            "cz",
+            "ru",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2018-01-19",
+        "last_update": "2026-10-12",
         "compatibilities": {},
         "tp2": "Sheena"
     },
@@ -74629,8 +74628,9 @@
     {
         "id": 2146,
         "name": "Weapon Style Revision",
-        "description": "Ce mod altère les styles de combat.",
+        "description": "Ce mod altère les styles de combat. Il ajoute un troisième emplacement à tous les styles d'armes et n'est disponible que pour les combattants non multi-classés (à l'exception des barbares). De plus, l'auteur a tenté de rééquilibrer les styles d'armes, afin que le style « deux armes » ne soit plus aussi dominant.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/41630-bgee-and-bg2ee-weapon-style-revisions/",
             "https://github.com/Greener-Mods/Weapon-Style-Revision"
         ],
         "categories": [
@@ -74653,7 +74653,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-29",
+        "last_update": "2026-10-12",
         "compatibilities": {},
         "tp2": "WeaponStyles"
     },
@@ -75069,5 +75069,42 @@
             ]
         },
         "tp2": "valenEE"
+    },
+    {
+        "id": 2158,
+        "name": "EEex Remote Console",
+        "description": "Pont IPC basé sur des fichiers permettant d'exécuter du code Lua au sein d'une partie de BG:EE/BG2:EE en cours d'exécution à l'aide d'EEex.",
+        "urls": [
+            "https://github.com/Chrizhermann/eeex-remote-console"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "ChrizFader"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-07-11",
+        "compatibilities": {
+            "requires": [
+                348,
+                "EEex LuaJIT component"
+            ]
+        },
+        "tp2": "eeexremote"
     }
 ]
