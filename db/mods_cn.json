@@ -18431,9 +18431,11 @@
             "status": "done",
             "source": "Parfois appelé Weimer's Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité...|À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent).|FOR 18/21, DEX 18, CON 10, INT 18, SAG 10, CHA 16."
         },
-        "notes": [],
+        "notes": [
+			"一个兼容增强版（EE）的版本可在[[2156]]中找到。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Une version compatible EE est diponible dans [[2156]]."
             ]
@@ -27035,9 +27037,9 @@
     },
     {
         "id": 1911,
-        "description": "在您选定的地点（阿斯卡特拉、观察者堡垒或安姆克萨兰），您将遇到一尊钻石魔像，它会向您提出挑战。每项挑战都是一个“竞技场”，您需要在其中找到并击杀首领以取得胜利。| 这是一个尚未完成的版本，目前仅包含计划中11个竞技场里的8个。",
+        "description": "在你选择的地点（阿斯卡特拉、观察者堡垒或安姆克萨兰），你会遇到一个秘银魔像，它会向你提出挑战。每项挑战都是一个“竞技场”，在其中你会遇到数十个随机怪物，并且你必须找到并杀死首领才能获胜。|共有10项挑战可供完成，当你战胜前10项挑战后，还有最终挑战。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de mithril qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous rencontrerez des dizaines de monstres aléatoires et où vous devrez trouver et tuer le boss pour valider la victoire.|Il y a 10 défis à relever, plus le défi final quand vous aurez triomphé des 10 premiers défis."
         },
         "notes": [],
@@ -30200,9 +30202,9 @@
     },
     {
         "id": 2146,
-        "description": "这个模组修改了战斗风格。",
+        "description": "这个模组修改了战斗风格。它为所有武器风格增加了一个第三槽位，并且仅对非兼职的战斗职业者开放（野蛮人除外）。此外，作者还尝试重新平衡武器风格，以使“双武器”风格不再那么占据主导地位。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod altère les styles de combat. Il ajoute un troisième emplacement à tous les styles d'armes et n'est disponible que pour les combattants non multi-classés (à l'exception des barbares). De plus, l'auteur a tenté de rééquilibrer les styles d'armes, afin que le style « deux armes » ne soit plus aussi dominant."
         },
         "notes": [],
@@ -30239,7 +30241,7 @@
     },
     {
         "id": 2149,
-        "description": "iiEngineExtensions 为脚本添加了新的触发器和动作。",
+        "description": "iiEngineExtensions为脚本添加了新的触发器和动作。",
         "description_meta": {
             "status": "done",
             "source": "iiEngineExtensions ajoute de nouveaux triggers et actions disponibles pour les scripts."
@@ -30252,7 +30254,7 @@
     },
     {
         "id": 2150,
-        "description": "A Moment With Imoen 是一个专门为《博德之门2》中的爱蒙（Imoen）角色加入恋爱线的模组。",
+        "description": "A Moment With Imoen是一个专门为《博德之门2》中的爱蒙（Imoen）角色加入恋爱线的模组。",
         "description_meta": {
             "status": "done",
             "source": "A Moment With Imoen est un mod qui consacre au personnage d'Imoen une romance dans Baldur's Gate 2."
@@ -30304,9 +30306,9 @@
     },
     {
         "id": 2154,
-        "description": "",
+        "description": "BG Pathfinding Redux是一个模组，它移除了在规划与执行移动时由友方生物造成的阻挡。盟友现在可以相互穿过，并能通过狭窄的门缝。墙壁、关闭的门、中立NPC和敌人则保留原有的阻挡行为。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "BG Pathfinding Redux est un mod qui supprime l'obstruction causée par les créatures alliées lors de la planification et de l'exécution des déplacements. Les alliés peuvent désormais se faufiler les uns à travers les autres et passer par des embrasures de portes étroites. Les murs, les portes fermées, les PNJ neutres et les ennemis conservent leur comportement de blocage d'origine."
         },
         "notes": [],
@@ -30317,9 +30319,9 @@
     },
     {
         "id": 2155,
-        "description": "",
+        "description": "这个模组对圣武士职业进行了重制。作者的指导原则是：被动加成很无聊，在合理的前提下，最好拥有更多可操作的技能按钮。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose une refonte de la classe de Paladin. Le principe directeur de l'auteur est que les bonus passifs sont ennuyeux et qu'il vaut mieux avoir plus de boutons, dans la mesure du raisonnable."
         },
         "notes": [],
@@ -30330,9 +30332,9 @@
     },
     {
         "id": 2156,
-        "description": "",
+        "description": "模组[[1294]]的增强版（EE）移植。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Portage EE du mod [[1294]]."
         },
         "notes": [],
@@ -30343,9 +30345,9 @@
     },
     {
         "id": 2157,
-        "description": "",
+        "description": "模组[[1299]]的增强版（EE）移植。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Portage EE du mod [[1299]]."
         },
         "notes": [],
@@ -30356,9 +30358,9 @@
     },
     {
         "id": 2158,
-        "description": "",
+        "description": "基于文件的IPC桥，允许借助EEex在正在运行的《博德之门：增强版》/《博德之门II：增强版》游戏进程中执行Lua代码。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Pont IPC basé sur des fichiers permettant d'exécuter du code Lua au sein d'une partie de BG:EE/BG2:EE en cours d'exécution à l'aide d'EEex."
         },
         "notes": [],
