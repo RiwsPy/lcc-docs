@@ -10219,7 +10219,7 @@
     {
         "id": 287,
         "name": "Dark Side of the Sword Coast",
-        "description": "Dark Side of the Sword Coast est un mod pour Baldur's Gate + Tales of the Sword Coast. Il ajoute 5 quêtes (plus ou moins importantes) comportant de nouvelles zones, de nouveaux monstres (des morts-vivants en particulier) et 9 nouveaux personnages recrutables. Il ajoute aussi de nouveaux sorts et objets répartis un peu partout dans le jeu, soit sur des adversaires existants, soit sur de nouveaux personnages, soit encore dans des magasins ou des lieux.|La version BG1 (v106) est traduite en français, la version BG:EE (v102) de Red Carnelian ne l'est pas.",
+        "description": "Dark Side of the Sword Coast est un mod qui ajoute 5 quêtes (plus ou moins importantes) comportant de nouvelles zones, de nouveaux monstres (des morts-vivants en particulier) et 9 nouveaux personnages recrutables. Il ajoute aussi de nouveaux sorts et objets répartis un peu partout dans le jeu, soit sur des adversaires existants, soit sur de nouveaux personnages, soit encore dans des magasins ou des lieux.",
         "urls": [
             "https://forums.beamdog.com/discussion/73241/",
             "https://baldurs-gate.de/index.php?threads/44031/",
@@ -10230,8 +10230,6 @@
             "Quête"
         ],
         "games": [
-            "BG",
-            "Tutu",
             "BGT",
             "BGEE",
             "EET"
@@ -10244,10 +10242,7 @@
             "jastey"
         ],
         "team": [],
-        "notes": [
-            "Attention : Il existe des versions spécifiques à BG, BG:EE, BGT et EET, via des téléchargements différents. Prenez garde à télécharger la version appropriée !",
-            "Malheureusement, à l'installation de la version BG1, le français n'est plus disponible..."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -37944,7 +37939,7 @@
     {
         "id": 1065,
         "name": "The Elven Package",
-        "description": "Ce mod ajoute deux profils de guerrier elfe : Bladesinger et Elven Knight.",
+        "description": "Ce mod ajoute deux nouveaux kits de guerrier elfe :|Bladesinger : Les elfes dotés d'un talent particulier pour la magie, les arts martiaux, le chant et la danse sont parfois formés à ce style de combat particulier. Le Bladesinger s'appuie principalement sur des sorts qui renforcent ses capacités au corps à corps, mais il ne faut en aucun cas le sous-estimer.|Elven Knight : Les Elven Knight sont issus de l'élite des combattants elfiques. Ils sont choisis pour leur maîtrise des armes, leur loyauté et leur vertu. Entraînés à combattre aussi bien les orques que les Srii-Tel'Quessir (Drows), ils doivent répondre sans hésiter à l'appel de leur seigneur et respecter un code moral rigoureux.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/9227-racial-packages/",
             "https://america.iegmc.com/racialpacks/elven_pack.rar"
@@ -37976,7 +37971,7 @@
     {
         "id": 1066,
         "name": "The Fields of the Dead",
-        "description": "Fields of the Dead est un mod qui étend et met à jour Baldur's Gate Tales of the Sword Coast. Il reprend un grand nombre de règles du jeu pour les rendre aussi proches que possible de celles de la deuxième édition d'AD&D, dans la mesure où l'Infinity Engine le permet. Il s'agit de modifications, mais aussi d'ajouts. Ceci inclut notamment les caractéristiques des créatures et des sorts.|Il ajoute aussi de nouveaux éléments dans le même esprit, aussi bien des créatures que des sorts ou des objets, répartis un peu partout dans le jeu (adversaires, magasins). L'IA a été entièrement revue pour que les adversaires exploitent les possibilités du jeu (coopération, meilleur usage des potions et des sorts).|Les changements affecteront également l'intelligence artificielle de toutes les créatures : ennemis et alliés.|Enfin, le mod ajoute une nouvelle zone sur la carte du monde (Battle of Bones) accessible à tout moment, mais il est recommandé de l'explorer avec un groupe expérimenté.",
+        "description": "The Fields of the Dead est un mod qui étend et met à jour Baldur's Gate Tales of the Sword Coast. Il reprend un grand nombre de règles du jeu pour les rendre aussi proches que possible de celles de la deuxième édition d'AD&D, dans la mesure où l'Infinity Engine le permet. Il s'agit de modifications, mais aussi d'ajouts. Ceci inclut notamment les caractéristiques des créatures et des sorts.|Il ajoute aussi de nouveaux éléments dans le même esprit, aussi bien des créatures que des sorts ou des objets, répartis un peu partout dans le jeu (adversaires, magasins). L'IA a été entièrement revue pour que les adversaires exploitent les possibilités du jeu (coopération, meilleur usage des potions et des sorts).|Les changements affecteront également l'intelligence artificielle de toutes les créatures : ennemis et alliés.|Enfin, le mod ajoute une nouvelle zone sur la carte du monde (Battle of Bones) accessible à tout moment, mais il est recommandé de l'explorer avec un groupe expérimenté.",
         "urls": [
             "https://www.pocketplane.net/the-fields-of-the-dead/",
             "https://github.com/Pocket-Plane-Group/TheFieldsOfTheDead/"
@@ -37995,7 +37990,7 @@
         ],
         "team": [],
         "notes": [
-            "Depuis la version 2.0, le mod est désormais compatible avec BGT, BG1Tutu et BG:EE. Attention, il s'agit d'une version bêta. Mais à cette occasion, la compatibilité avec BG a disparu. Utilisez ce [lien direct](https://mods.pocketplane.net/FotDv107.rar) pour télécharger la version précédente compatible BG-TotSC."
+            "Depuis la version 2.0, la compatibilité avec BG a disparu. Utilisez ce [lien direct](https://mods.pocketplane.net/FotDv107.rar) pour télécharger la version précédente compatible BG-TotSC."
         ],
         "translation_state": "auto",
         "safe": 1,
@@ -38012,7 +38007,7 @@
     {
         "id": 1067,
         "name": "The Gorgon's Eye",
-        "description": "Ce mod ajoute un repaire de voleurs souterrain sous la ville de Bérégost. Il contient de nouvelles quêtes, de nouveaux personnages, de nouveaux magasins et de nouveaux objets. La zone est accessible immédiatement après avoir quitté Château-Suif et est ouverte à tous les joueurs, à l'exception de ceux qui sont d'alignement Loyal Bon. Préparez-vous à vous comporter comme un voleur. Cependant, il existe des alternatives pour les alignements bon ou neutre.",
+        "description": "Ce mod ajoute un repaire de voleurs souterrain dans la ville de Bérégost. Il contient de nouvelles quêtes, de nouveaux personnages, de nouveaux magasins et de nouveaux objets. Cette zone est accessible dès la sortie de Château-Suif et ouverte à tous les joueurs, à l'exception de ceux qui sont d'alignement Loyal Bon.|Une fois que vous aurez rejoint The Gorgon's Eye, vous devrez accomplir des missions propres aux activités d'une guilde de voleurs classique. On vous demandera de vous livrer à des activités telles que le vol, l'extorsion, la contrebande et la chasse aux primes. Il convient toutefois de noter qu'il existe des alternatives intéressantes pour les joueurs Bon ou Neutre. Si, à un moment donné, vous constatez que les méthodes de la guilde ne vous conviennent pas, vous avez la possibilité de changer d'allégeance et d'aider la Garde de la ville à organiser un raid contre The Gorgon's Eye.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/35938-the-gorgons-eye-thieves-guild-in-beregost-mod/",
             "https://forums.beamdog.com/discussion/85054/",
@@ -44960,6 +44955,7 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "BG2EE",
             "EET",
             "IWDEE"
@@ -44984,7 +44980,7 @@
     {
         "id": 1264,
         "name": "Weapon Oils",
-        "description": "Ce petit mod propose un nouveau type d'objet les « weapon oils ». Il s'agit de potions consommables qui permettent d'appliquer un effet supplémentaire aux armes.",
+        "description": "Ce petit mod propose un nouveau type d'objet les « weapon oils ». En résumé, ce sont des potions consommables qui confèrent un effet modeste à vos attaques au corps à corps et à distance pendant 1 tour.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38730-kaelyns-weapon-oils-zs_weaponoils-do-not-use-deprecated/",
             "https://github.com/szaumoor/ZS_WeaponOils"
@@ -45018,7 +45014,7 @@
     {
         "id": 1265,
         "name": "Peacespeaker, the Anti-Violence Sword",
-        "description": "Embarquez pour une courte quête mettant en scène une épée intelligente, une apprentie qui n'en fait qu'à sa tête et un sorcier grincheux.",
+        "description": "Embarquez pour une courte quête mettant en scène une épée intelligente (un cimeterre), une apprentie complètement dépassée par les évènements et un Mage Cagoulé grincheux.",
         "urls": [
             "https://github.com/bucketfulofsunshine/peacespeaker"
         ],
@@ -46813,8 +46809,8 @@
         "description": "L'intrigue se déroule dans la ville de Baldur's Gate. Il ajoute de nouvelles zones (dont un donjon à deux niveaux), de nouveaux ennemis et de nouvelles quêtes et quelques objets. Le contenu dure approximativement entre 1 à 2 heures de jeu.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38310-mod-loretakers-a-quest-mod-for-bg1ee/",
-            "https://forums.beamdog.com/discussion/88530/",
             "https://baldurs-gate.de/index.php?threads/45989/",
+            "https://forums.beamdog.com/discussion/88530/",
             "https://github.com/AciferBG/Loretakers"
         ],
         "categories": [
@@ -47134,9 +47130,9 @@
         "name": "Wares of the Planes",
         "description": "Ce mod introduit un grand nombre d'armes et d'accessoires de l'univers Planescape dans la série Baldur's Gate. Les objets peuvent être achetés auprès d'un marchand ambulant qui est disponible tout au long du jeu.|Plusieurs objets de Planescape : Torment ont été légèrement modifiés pour mieux s'intégrer à la série BG car les objets de l'univers de Planescape sont généralement plus puissants et uniques que leurs équivalents des Royaumes oubliés.",
         "urls": [
-            "https://forums.beamdog.com/discussion/88361/",
             "https://www.gibberlings3.net/forums/topic/38054-wares-of-the-planes-planescape-items-for-baldurs-gate",
             "https://baldurs-gate.de/index.php?threads/45916/",
+            "https://forums.beamdog.com/discussion/88361/",
             "https://github.com/Argent77/A7-WaresOfThePlanes"
         ],
         "categories": [
@@ -48086,12 +48082,13 @@
         "languages": [
             "en",
             "cn",
-            "br"
+            "br",
+            "fr"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-05-27",
+        "last_update": "2026-10-13",
         "compatibilities": {},
         "tp2": "Blackhearts"
     },
@@ -48124,7 +48121,8 @@
             "en",
             "cn",
             "ru",
-            "pl"
+            "pl",
+            "fr"
         ],
         "status": [
             "stable"
@@ -61888,12 +61886,12 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
         "status": [
-            "stable"
+            "beta"
         ],
         "last_update": "2025-10-25",
         "compatibilities": {},
@@ -62516,7 +62514,8 @@
         "languages": [
             "en",
             "cn",
-            "es"
+            "es",
+            "fr"
         ],
         "status": [
             "stable"
@@ -64115,12 +64114,13 @@
         "languages": [
             "en",
             "es",
-            "cn"
+            "cn",
+            "fr"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-30",
+        "last_update": "2026-10-14",
         "compatibilities": {},
         "tp2": "TPoJ"
     },

@@ -1816,7 +1816,7 @@
     },
     {
         "id": 128,
-        "description": "This mod allows you to restore BG's old 3D movies in place of those remade for BG:EE. The films have been enlarged to 1280x720, the same size as the new BG:EE films. The voices in some films will be in English.",
+        "description": "This mod restores the 'classic' movies from the original BG in place of those remade for BG:EE. The classic movies have been resized to 1280x720, the same size as the new BG:EE movies. The voices in some movies will be in English.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod permet de remettre les anciens films en 3D de BG à la place de ceux refaits pour BG:EE. Les films ont été agrandis en 1280x720, la dimension des nouveaux films réalisés pour BG:EE. Les voix de certains films seront en anglais."
@@ -1919,13 +1919,13 @@
     },
     {
         "id": 135,
-        "description": "This mod allowing you to modify certain game behaviors, particularly in the Baldur's Gate and Legend of the Lost Isle sections. In particular, you can automatically explore towns, randomize traps in the Pirate's Cave, add sacks on the Sword Coast, add more bandit scalps, modify the effects of iron scarcity on breakable items, restore BG2 XP for lock picking, trap defusing and spell learning, add exotic weapons in Taerom's forge, import more items from Baldur's Gate to Shadows of Amn...",
+        "description": "This mod allowing you to modify certain game behaviors, particularly in the Baldur's Gate and Tales of the Sword Coast sections. In particular, you can automatically explore towns, randomize traps in the Pirate's Cave, add sacks on the Sword Coast, add more bandit scalps, modify the effects of iron scarcity on breakable items, restore BG2 XP for lock picking, trap defusing and spell learning, add exotic weapons in Taerom's forge, import more items from Baldur's Gate to Shadows of Amn...",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod permet de modifier certains comportements du jeu, notamment dans la partie Baldur's Gate et Légende de l'Île perdue. Vous pouvez notamment explorer automatiquement les villes, rendre aléatoires les pièges dans la caverne des pirates, ajouter des sacs de contenance sur la Côte des Épées, ajouter davantage de scalps de bandits, modifier les effets de la pénurie de fer sur les objets susceptibles de se briser, restaurer l'XP de BG2 pour le crochetage des serrures, le désamorçage des pièges et l'apprentissage des sorts, ajouter des armes exotiques dans la forge de Taerom, importer davantage d'objets depuis Baldur's Gate vers Shadows of Amn..."
         },
         "notes": [
-            "If you're planning to install [[133]], don't install BGT Tweak Pack's \"Modify Random Enemy Creation\" component, as both modify the same thing."
+            "If you're planning to install [[133]], don't install BGT Tweak Pack's `Modify Random Enemy Creation` component, as both modify the same thing."
         ],
         "notes_meta": {
             "status": "needs_review",
@@ -1975,7 +1975,7 @@
     },
     {
         "id": 139,
-        "description": "The mod begins in chapter 6 when a messenger intercepts you near the Adventurer Mart. You'll have to accompany a hooded mage to help him rescue another victim of Irenicus' experiments. The mod features additional content for Imoen and for the [[1233]] mod.",
+        "description": "The mod takes place in Chapter 6, when a messenger finds you next to the Adventurer's Mart. You'll have to accompany a Cowled Wizard to help him rescue another victim of Irenicus' experiments. The mod features additional content for Imoen and for the [[1233]] mod.",
         "description_meta": {
             "status": "needs_review",
             "source": "Le mod débute au chapitre 6 lorsqu'un messager vous intercepte près du Marché de l'Aventurier. Vous devrez accompagner un mage cagoulé afin de l'aider à secourir une autre victime des expérimentations d'Irenicus. Le mod dispose de contenu supplémentaire pour Imoen et pour le mod [[1233]]."
@@ -2429,7 +2429,7 @@
     },
     {
         "id": 172,
-        "description": "This mod features two recruitable NPCs, Kiyone (lawful good half-elf ranger) and Kova (chaotic good half-elf mage/thief), non-separable (like [[601]]) who have a potential romance (with each other), banters with everyone, and a very interesting quest on the links between the Hooded Ones, the Shadow Thieves and the Council of Six, not to mention a bunch of fights throughout SoA (and now interjections in the Watcher's keep and several romance epilogues in ToB).|Kiyone : STR 15, DEX 17, CON 13, INT 14, WIS 15, CHA 12.|Kova : STR 14, DEX 17, CON 13, INT 17, WIS 10, CHA 11.",
+        "description": "This mod features two recruitable NPCs, Kiyone (lawful good half-elf ranger) and Kova (chaotic good half-elf mage/thief), non-separable (like [[601]]) who have a potential romance (with each other), banters with everyone, and a very interesting quest on the links between the Cowled Wizards, the Shadow Thieves and the Council of Six, not to mention a bunch of fights throughout SoA (and now interjections in the Watcher's keep and several romance epilogues in ToB).|Kiyone : STR 15, DEX 17, CON 13, INT 14, WIS 15, CHA 12.|Kova : STR 14, DEX 17, CON 13, INT 17, WIS 10, CHA 11.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod propose deux PNJ recrutables, Kiyone (rôdeuse demi-elfe loyal bon) et Kova (mage/voleuse demi-elfe chaotique bon), non-séparables (comme [[601]]) qui ont une romance potentielle (entre eux), des banters avec tout le monde, et une très intéressante quête sur les liens entre les Cagoulés, les Voleurs de l'Ombre et le Conseil des Six, sans parler d'un tas de combats tout au long de SoA (et désormais des interjections dans la Tour de Garde et plusieurs épilogues de romance dans ToB).|Kiyone : FOR 15, DEX 17, CON 13, INT 14, SAG 15, CHA 12.|Kova : FOR 14, DEX 17, CON 13, INT 17, SAG 10, CHA 11."
@@ -4049,21 +4049,15 @@
     },
     {
         "id": 287,
-        "description": "Dark Side of the Sword Coast is a mod for Baldur's Gate + Tales of the Sword Coast. It adds 5 quests (more or less important) featuring new areas, new monsters (undead in particular) and 9 new recruitable characters. It also adds new spells and items scattered throughout the game, either on existing opponents, on new characters, or in stores or locations.|The BG1 (v106) version is translated into French, the BG:EE (v102) version of Red Carnelian is not.",
+        "description": "Dark Side of the Sword Coast adds 5 quests (more or less important) featuring new areas, new monsters (undead in particular) and 9 new recruitable characters. It also adds new spells and items scattered throughout the game, either on existing opponents, on new characters, or in stores or locations.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Dark Side of the Sword Coast est un mod pour Baldur's Gate + Tales of the Sword Coast. Il ajoute 5 quêtes (plus ou moins importantes) comportant de nouvelles zones, de nouveaux monstres (des morts-vivants en particulier) et 9 nouveaux personnages recrutables. Il ajoute aussi de nouveaux sorts et objets répartis un peu partout dans le jeu, soit sur des adversaires existants, soit sur de nouveaux personnages, soit encore dans des magasins ou des lieux.|La version BG1 (v106) est traduite en français, la version BG:EE (v102) de Red Carnelian ne l'est pas."
+            "source": "Dark Side of the Sword Coast est un mod qui ajoute 5 quêtes (plus ou moins importantes) comportant de nouvelles zones, de nouveaux monstres (des morts-vivants en particulier) et 9 nouveaux personnages recrutables. Il ajoute aussi de nouveaux sorts et objets répartis un peu partout dans le jeu, soit sur des adversaires existants, soit sur de nouveaux personnages, soit encore dans des magasins ou des lieux."
         },
-        "notes": [
-            "Please note: BG, BG:EE, BGT and EET are available in separate download versions. Make sure you download the right version!",
-            "Unfortunately, when installing the BG1 version, French is no longer available..."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Attention : Il existe des versions spécifiques à BG, BG:EE, BGT et EET, via des téléchargements différents. Prenez garde à télécharger la version appropriée !",
-                "Malheureusement, à l'installation de la version BG1, le français n'est plus disponible..."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -7451,7 +7445,7 @@
     },
     {
         "id": 528,
-        "description": "This mini-mod petrifies Imoen during combat on the Waukeen's Promenade. The idea is to ease the NPC's conscience in order to complete all the quests in Chapter 2, bearing in mind that Imoen doesn't suffer - and can be brought back to life like Branwen in BG1 - once in Spellhold. She will still be captured by the hooded mages, and Irenicus will have her depowered for his experiments until the PC arrives in the asylum. None of the content of the original scenario has been altered.",
+        "description": "This mini-mod petrifies Imoen during combat on the Waukeen's Promenade. The idea is to ease the NPC's conscience in order to complete all the quests in Chapter 2, bearing in mind that Imoen doesn't suffer - and can be brought back to life like Branwen in BG1 - once in Spellhold. She will still be captured by the Cowled Wizards, and Irenicus will have her depowered for his experiments until the PC arrives in the asylum. None of the content of the original scenario has been altered.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mini mod pétrifie Imoen lors du combat sur la Promenade de Waukyne. L'idée est de soulager la conscience du PJ pour effectuer toutes les quêtes du chapitre 2, sachant qu'Imoen ne souffre pas - et peut être ramenée à la vie comme Branwen dans BG1 - une fois dans Spellhold. Elle sera toujours capturée par les mages cagoulés, et Irenicus l'aura dépétrifiée pour ses expériences jusqu'à ce que le PC arrive dans l'asile. Aucun contenu du scénario original n'a été modifié."
@@ -15009,9 +15003,9 @@
     },
     {
         "id": 1061,
-        "description": "Someone has been working in the shadows, manipulating events on the Sword Coast to his own advantage. Unravel the mysteries of the Twisted Rune and investigate the actions of the Hooded Mages.",
+        "description": "Someone has been working in the shadows, manipulating events on the Sword Coast to their advantage. Unravel the mysteries of the Twisted Rune and progress beyond fighting the last wave of Cowled Wizards.",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Quelqu'un a œuvré dans l'ombre, manipulant les événements de la Côte des Épées à son avantage. Percez les mystères de la Rune tordue et enquêtez sur les agissements des Mages cagoulés."
         },
         "notes": [],
@@ -15052,7 +15046,7 @@
     },
     {
         "id": 1064,
-        "description": "Drizzt is on his way back from the Sword Coast to the Vale of Bise. What he doesn't know is that dark times lie ahead in the Valley, and his companions will lead him, and you, on an adventure of epic proportions.|This mod features a major quest, alongside the famous character of R.A. Salvatore, which begins the moment you meet him in the game. This adventure takes place in new areas inspired by Icewind Dale, and includes numerous side quests, new monsters, new spells and equipment...|There are two versions: one for ToSC, the other for BG1tutu, BGT and BG:EE.",
+        "description": "Drizzt is on his way back to Icewind Dale from an errand in the Sword Coast. What he doesn't know is that dark times are upon Dale and his companions will lead him and the protagonist to an adventure of epic proportions.|This mod features a major quest, alongside the famous character of R.A. Salvatore, which begins the moment you meet him in the game. This adventure takes place in new areas inspired by Icewind Dale, and includes numerous side quests, new creatures, new spells and items...|There are two versions: one for ToSC, the other for BG1tutu, BGT and BG:EE.",
         "description_meta": {
             "status": "needs_review",
             "source": "Drizzt est sur le chemin du retour depuis la Côte des Épées en direction du Val de Bise. Ce qu'il ne sait pas, c'est que des temps sombres se profilent sur le Val et ses compagnons l'entraîneront, lui comme vous, dans une aventure aux dimensions épiques.|Ce mod vous propose une quête majeure, aux côtés du célèbre personnage de R.A. Salvatore, qui débute au moment où vous le rencontrez dans le jeu. Cette aventure prend place dans de nouvelles zones inspirées d'Icewind Dale et englobe de nombreuses quêtes secondaires, des monstres inédits, de nouveaux sorts et équipements...|Il existe deux versions : l'une pour ToSC qui ne comprend pas le français, l'autre pour BG1tutu, BGT et BG:EE, disponible en français."
@@ -15069,10 +15063,10 @@
     },
     {
         "id": 1065,
-        "description": "This mod adds two elf fighter kits: Bladesinger and Elven Knight.",
+        "description": "This mod adds two news kit for Elves fighter:|Bladesinger : Elves with a special talent in magic, martial arts, singing and dancing are sometimes trained in this special style of combat. The Bladesinger relies mostly on spells effecting their melee capability, but should none regardless be underestimated.|Elven Knight : Elven Knights are chosen from the elite of the elven fighters. They are chosen for their skill at arms, loyalty and their virtue. Trained in fighting both orcs and Srii-Tel'Quessir (Drow) they're expected to readilly answer the call of their liege and maintaning a strict moral code.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod ajoute deux profils de guerrier elfe : Bladesinger et Elven Knight."
+            "status": "done",
+            "source": "Ce mod ajoute deux nouveaux kits de guerrier elfe :|Bladesinger : Les elfes dotés d'un talent particulier pour la magie, les arts martiaux, le chant et la danse sont parfois formés à ce style de combat particulier. Le Bladesinger s'appuie principalement sur des sorts qui renforcent ses capacités au corps à corps, mais il ne faut en aucun cas le sous-estimer.|Elven Knight : Les Elven Knight sont issus de l'élite des combattants elfiques. Ils sont choisis pour leur maîtrise des armes, leur loyauté et leur vertu. Entraînés à combattre aussi bien les orques que les Srii-Tel'Quessir (Drows), ils doivent répondre sans hésiter à l'appel de leur seigneur et respecter un code moral rigoureux."
         },
         "notes": [],
         "notes_meta": {
@@ -15082,27 +15076,27 @@
     },
     {
         "id": 1066,
-        "description": "Fields of the Dead is a mod that extends and updates Baldur's Gate Tales of the Sword Coast. It takes many of the game's rules and makes them as close as possible to those of AD&D Second Edition, insofar as the Infinity Engine allows. This involves both modifications and additions. These include the characteristics of creatures and spells, as well as new elements in the same spirit, from creatures to spells and items, scattered throughout the game (opponents, stores). The AI has been completely overhauled, so that opponents can make the most of the game's possibilities (cooperation, better use of potions and spells).|The changes will also affect the artificial intelligence of all creatures: enemies and allies.|Finally, the mod adds a new area on the world map (Battle of Bones) that can be accessed at any time, but is best explored with an experienced group.",
+        "description": "The Fields of the Dead is a mod that extends and renews Baldur's Gate Tales of the Sword Coast. It takes many of the game's rules and makes them as close as possible to those of AD&D Second Edition, insofar as the Infinity Engine allows. This involves both modifications and additions. These include the characteristics of creatures and spells, as well as new elements in the same spirit, from creatures to spells and items, scattered throughout the game (opponents, stores). The AI has been completely overhauled, so that opponents can make the most of the game's possibilities (cooperation, better use of potions and spells).|The changes will also affect the artificial intelligence of all creatures: enemies and allies.|Lastly, the mod adds a new area to the world map (Battle of Bones) that can be explored at any time, but is designed to provide a challenge for experienced parties.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Fields of the Dead est un mod qui étend et met à jour Baldur's Gate Tales of the Sword Coast. Il reprend un grand nombre de règles du jeu pour les rendre aussi proches que possible de celles de la deuxième édition d'AD&D, dans la mesure où l'Infinity Engine le permet. Il s'agit de modifications, mais aussi d'ajouts. Ceci inclut notamment les caractéristiques des créatures et des sorts.|Il ajoute aussi de nouveaux éléments dans le même esprit, aussi bien des créatures que des sorts ou des objets, répartis un peu partout dans le jeu (adversaires, magasins). L'IA a été entièrement revue pour que les adversaires exploitent les possibilités du jeu (coopération, meilleur usage des potions et des sorts).|Les changements affecteront également l'intelligence artificielle de toutes les créatures : ennemis et alliés.|Enfin, le mod ajoute une nouvelle zone sur la carte du monde (Battle of Bones) accessible à tout moment, mais il est recommandé de l'explorer avec un groupe expérimenté."
+            "source": "The Fields of the Dead est un mod qui étend et met à jour Baldur's Gate Tales of the Sword Coast. Il reprend un grand nombre de règles du jeu pour les rendre aussi proches que possible de celles de la deuxième édition d'AD&D, dans la mesure où l'Infinity Engine le permet. Il s'agit de modifications, mais aussi d'ajouts. Ceci inclut notamment les caractéristiques des créatures et des sorts.|Il ajoute aussi de nouveaux éléments dans le même esprit, aussi bien des créatures que des sorts ou des objets, répartis un peu partout dans le jeu (adversaires, magasins). L'IA a été entièrement revue pour que les adversaires exploitent les possibilités du jeu (coopération, meilleur usage des potions et des sorts).|Les changements affecteront également l'intelligence artificielle de toutes les créatures : ennemis et alliés.|Enfin, le mod ajoute une nouvelle zone sur la carte du monde (Battle of Bones) accessible à tout moment, mais il est recommandé de l'explorer avec un groupe expérimenté."
         },
         "notes": [
-            "As of version 2.0, the mod is now compatible with BGT, BG1Tutu and BG:EE. Please note that this is a beta version. But on this occasion, compatibility with BG has disappeared. Use this [direct link](https://mods.pocketplane.net/FotDv107.rar) to download the previous BG-TotSC-compatible version."
+            "As of version 2.0, compatibility with BG has disappeared. Use this [direct link](https://mods.pocketplane.net/FotDv107.rar) to download the previous BG-TotSC-compatible version."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Depuis la version 2.0, le mod est désormais compatible avec BGT, BG1Tutu et BG:EE. Attention, il s'agit d'une version bêta. Mais à cette occasion, la compatibilité avec BG a disparu. Utilisez ce [lien direct](https://mods.pocketplane.net/FotDv107.rar) pour télécharger la version précédente compatible BG-TotSC."
+                "Depuis la version 2.0, la compatibilité avec BG a disparu. Utilisez ce [lien direct](https://mods.pocketplane.net/FotDv107.rar) pour télécharger la version précédente compatible BG-TotSC."
             ]
         }
     },
     {
         "id": 1067,
-        "description": "This mod adds an underground den of thieves beneath the city of Beregost. It features new quests, characters, stores and items. The area is accessible immediately after leaving Candlekeep and is open to all players except those of Lawful Good alignment. Be prepared to behave like a thief. However, there are alternatives for Good and Neutral alignments.",
+        "description": "This mod adds an underground thieves den into the town of Beregost. It contains new quests, characters, stores and items. The area can be accessed immediately after leaving Candlekeep and is open to all players, excluding those with a lawful-good alignment.|After enlisting in the Gorgon's Eye, you'll find yourself undertaking tasks that align with the operations of a typical thieves guild. You'll be expected to engage in activities such as theft, extortion, smuggling, and bounty hunting. However, it's worth noting that there are some satisfying options for good and neutral-aligned players. If at any point you find the guild's ways aren't to your liking, you have the option to switch allegiances and aid the City Watch in a raid against the Gorgon's Eye.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce mod ajoute un repaire de voleurs souterrain sous la ville de Bérégost. Il contient de nouvelles quêtes, de nouveaux personnages, de nouveaux magasins et de nouveaux objets. La zone est accessible immédiatement après avoir quitté Château-Suif et est ouverte à tous les joueurs, à l'exception de ceux qui sont d'alignement Loyal Bon. Préparez-vous à vous comporter comme un voleur. Cependant, il existe des alternatives pour les alignements bon ou neutre."
+            "status": "done",
+            "source": "Ce mod ajoute un repaire de voleurs souterrain dans la ville de Bérégost. Il contient de nouvelles quêtes, de nouveaux personnages, de nouveaux magasins et de nouveaux objets. Cette zone est accessible dès la sortie de Château-Suif et ouverte à tous les joueurs, à l'exception de ceux qui sont d'alignement Loyal Bon.|Une fois que vous aurez rejoint The Gorgon's Eye, vous devrez accomplir des missions propres aux activités d'une guilde de voleurs classique. On vous demandera de vous livrer à des activités telles que le vol, l'extorsion, la contrebande et la chasse aux primes. Il convient toutefois de noter qu'il existe des alternatives intéressantes pour les joueurs Bon ou Neutre. Si, à un moment donné, vous constatez que les méthodes de la guilde ne vous conviennent pas, vous avez la possibilité de changer d'allégeance et d'aider la Garde de la ville à organiser un raid contre The Gorgon's Eye."
         },
         "notes": [],
         "notes_meta": {
@@ -15522,7 +15516,7 @@
     },
     {
         "id": 1098,
-        "description": "This mod includes small quests and battles, too small to be published as separate mods. These components range from the serious to the absurd, from strict adherence to the rules to outright cheating. Among them:|- Mprolla, the spammer: If you haven't got the joke yet, this component is probably not for you. In any case, it's inspired by a guy (Mike Prolla) who used to spam and troll all the Infinity Engine modding communities a long time ago. In the mod, Mprolla is a level 25 buffoon that you can find (well) hidden in the Waukeen's Promenade. When you see him, after a scene where he loses his brain, he'll start taunting you, until he fights you openly. This fight is a real panty party. All his taunts are real quotes. The optional element `Mprolla, the cheat` is also part of this component: it makes combat more difficult by adding cheating.|- Large-scale battle: Amn is besieged by an army of orcs and must resign itself to defeat due to their overwhelming numbers. Hooded mages and Amnian soldiers need the help of experienced adventurers to strike a decisive blow against the attackers. After accepting, you're thrown into an area no larger than a standard ambush, but containing well over a hundred orcs, with more popping up all the time until you kill their commander. On your side, you have a few Amnian soldiers and hooded mages. Who's going to win?",
+        "description": "This mod includes small quests and battles, too small to be published as separate mods. These components range from the serious to the absurd, from strict adherence to the rules to outright cheating. Among them:|- Mprolla, the spammer: If you haven't got the joke yet, this component is probably not for you. In any case, it's inspired by a guy (Mike Prolla) who used to spam and troll all the Infinity Engine modding communities a long time ago. In the mod, Mprolla is a level 25 buffoon that you can find (well) hidden in the Waukeen's Promenade. When you see him, after a scene where he loses his brain, he'll start taunting you, until he fights you openly. This fight is a real panty party. All his taunts are real quotes. The optional element `Mprolla, the cheat` is also part of this component: it makes combat more difficult by adding cheating.|- Large-scale battle: Amn is besieged by an army of orcs and must resign itself to defeat due to their overwhelming numbers. Cowled Wizards and Amnian soldiers need the help of experienced adventurers to strike a decisive blow against the attackers. After accepting, you're thrown into an area no larger than a standard ambush, but containing well over a hundred orcs, with more popping up all the time until you kill their commander. On your side, you have a few Amnian soldiers and Cowled Wizards. Who's going to win?",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod comprend de petites quêtes et batailles, trop petites pour être publiées sous forme de mods séparés. Ces composants vont du sérieux à l'absurde, du respect strict des règles à la tricherie pure et simple. Parmi eux :|- Mprolla, le spammeur : Si vous n'avez pas encore compris la blague, ce composant n'est probablement pas pour vous. En tout cas, il est inspiré par un gars (Mike Prolla) qui avait l'habitude de spammer et de troller sur toutes les communautés de modding d'Infinity Engine il y a très longtemps. Dans le mod, Mprolla est un bouffon de niveau 25 que vous pouvez trouver (bien) caché dans la Promenade de Waukyne. Lorsque vous le verrez, après une scène où il perd son cerveau, il commencera à vous narguer, jusqu'à ce qu'il vous combatte ouvertement. Ce combat est une véritable fête du slip. Toutes ses railleries sont de véritables citations. L'élément optionnel `Mprolla, le tricheur` fait également partie de ce composant : il rend le combat plus difficile en ajoutant de la triche.|- Bataille à grande échelle : Amn est assiégé par une armée d'orques et doit se résoudre à la défaite en raison de leur nombre écrasant. Les mages cagoulés et les soldats amiens ont besoin de l'aide d'aventuriers expérimentés pour porter un coup décisif aux assaillants. Après avoir accepté, vous êtes projeté(e) dans une zone pas plus grande que celle des embuscades standard, mais qui contient bien plus d'une centaine d'orques, et d'autres surgissent sans cesse jusqu'à ce que vous tuiez leur commandant. De votre côté, vous avez quelques soldats amniens et mages cagoulés. Qui va gagner ? Le mod [[865]] est requis.|- Duel de mage : dans la cité drow, vous rencontrez un mage drow sans nom près de la tour de Deirex (il utilise l'avatar elfe) ; si un mage masculin lui parle, il peut dire (au hasard) qu'il a peur que vous soyez venu prendre sa place à Sorcere. Avec ce composant installé, vous obtiendrez toujours cette phrase si vous lui parlez (son nom est maintenant Laniz) avec un mage (pur ou multiclasse), un barde ou un ensorceleur, et il vous provoquera en duel. Vous pouvez accepter ou refuser."
@@ -16539,7 +16533,7 @@
     },
     {
         "id": 1173,
-        "description": "If you've ever wanted to find out more about the mysterious Hooded Mage organization, this mod is for you. Determined to investigate rumors of the presence of demons in the vicinity of Nashkel, Witch Valerie awaits brave companions in the town to unravel the truth from falsehood in the mines and perhaps beyond. Banters, interjections, friendship and flirtation are all on the agenda.|STR 10, DEX 14, CON 8, INT 16, WIS 14, CHA 13.",
+        "description": "If you've ever wanted to find out more about the mysterious Cowled Wizards organization, this mod is for you. Determined to investigate rumors of the presence of demons in the vicinity of Nashkel, Witch Valerie awaits brave companions in the town to unravel the truth from falsehood in the mines and perhaps beyond. Banters, interjections, friendship and flirtation are all on the agenda.|STR 10, DEX 14, CON 8, INT 16, WIS 14, CHA 13.",
         "description_meta": {
             "status": "needs_review",
             "source": "Si vous avez toujours rêvé d'en savoir plus sur la mystérieuse organisation des Mages cagoulés, ce mod est fait pour vous. Décidée à enquêter sur les rumeurs de présence de démons à proximité de Nashkel, la sorcière Valérie attend de valeureux compagnons dans la ville pour dénouer le vrai du faux dans les mines et peut-être même au-delà. Banters, interjections, voie de l'amitié avec flirts sont au programme.|FOR 10, DEX 14, CON 8, INT 16, SAG 14, CHA 13."
@@ -17767,7 +17761,7 @@
     },
     {
         "id": 1263,
-        "description": "This mod offers a Ranger kit: the Forest Ranger. A protector of nature, he is resourceful and has little or no regard for the laws of the \"civilized\" world. He has access to certain abilities such as projectile creation, and can also set traps or heal with poultices. The mod also adds a number of useful items for rangers.",
+        "description": "This mod adds a Ranger kit: the Warden.|He serves to protect nature, he is resourceful and has little or no consideration given to the laws of the \"civilized\" world. He has access to certain abilities such as projectile creation, and can also set traps or heal with poultices. The mod also adds a number of useful items for rangers.",
         "description_meta": {
             "status": "needs_review",
             "source": "Ce mod offre un kit pour Rôdeur : le Garde Forestier. Protecteur de la nature, il est débrouillard et n'a pas ou peu de considération pour les lois du monde « civilisé ». Il a accès à certaines capacités comme la création de projectiles, il peut également poser des pièges ou soigner grâce à des cataplasmes. Le mod ajoute également quelques objets utiles aux rôdeurs."
@@ -17780,10 +17774,10 @@
     },
     {
         "id": 1264,
-        "description": "This little mod introduces a new type of item called \"weapon oils\". These are consumable potions that apply an additional effect to weapons.",
+        "description": "This small mod simply adds a new class of items called \"weapon oils\". Essentially, they are consumable potions that apply a somewhat mild melee/ranged effect to your melee and ranged attacks for 1 turn.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Ce petit mod propose un nouveau type d'objet les « weapon oils ». Il s'agit de potions consommables qui permettent d'appliquer un effet supplémentaire aux armes."
+            "status": "done",
+            "source": "Ce petit mod propose un nouveau type d'objet les « weapon oils ». En résumé, ce sont des potions consommables qui confèrent un effet modeste à vos attaques au corps à corps et à distance pendant 1 tour."
         },
         "notes": [],
         "notes_meta": {
@@ -17793,10 +17787,10 @@
     },
     {
         "id": 1265,
-        "description": "Embark on a short quest featuring a clever sword, a wily apprentice and a grumpy wizard.",
+        "description": "Embark on a short quest featuring a sentient sword (scimitar), an apprentice who's in way over her head, & a grumpy Cowled Wizard.",
         "description_meta": {
-            "status": "needs_review",
-            "source": "Embarquez pour une courte quête mettant en scène une épée intelligente, une apprentie qui n'en fait qu'à sa tête et un sorcier grincheux."
+            "status": "done",
+            "source": "Embarquez pour une courte quête mettant en scène une épée intelligente (un cimeterre), une apprentie complètement dépassée par les évènements et un Mage Cagoulé grincheux."
         },
         "notes": [],
         "notes_meta": {
