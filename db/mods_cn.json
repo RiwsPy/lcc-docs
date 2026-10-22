@@ -4122,9 +4122,9 @@
     },
     {
         "id": 287,
-        "description": "《黑暗剑湾》是《博德之门》+《剑湾传奇》的模组。它增加了5个（或多或少重要的）任务，包含新区域、新怪物（尤其是不死生物）和9个可招募的新角色。它还增加了新法术和物品，散布在游戏各处，要么在现有敌人身上，要么在新角色身上，要么在商店或地点中。",
+        "description": "《黑暗剑湾》（Dark Side of the Sword Coast）模组，添加了5个（规模不等的）任务，包含新区域、新怪物（尤其是不死生物）以及9个新的可招募角色。它还在游戏各处——无论是现有敌人身上、新角色身上，还是商店或地点中——添加了新的法术和物品。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Dark Side of the Sword Coast est un mod qui ajoute 5 quêtes (plus ou moins importantes) comportant de nouvelles zones, de nouveaux monstres (des morts-vivants en particulier) et 9 nouveaux personnages recrutables. Il ajoute aussi de nouveaux sorts et objets répartis un peu partout dans le jeu, soit sur des adversaires existants, soit sur de nouveaux personnages, soit encore dans des magasins ou des lieux."
         },
         "notes": [],
@@ -15156,7 +15156,7 @@
     },
     {
         "id": 1058,
-        "description": "这个小型模组在黛德尔的冒险者商店中添加了一个新的巴尔登黄油刀版本。这是一把+1的匕首，每次攻击都能减缓其目标的速度。",
+        "description": "这个小型模组在黛德尔的冒险者商店中添加了一个新的博德安黄油刀版本。这是一把+1的匕首，每次攻击都能减缓其目标的速度。",
         "description_meta": {
             "status": "done",
             "source": "Ce mini mod ajoute une nouvelle version du Couteau à beurre de Baldurien dans l'échoppe de Deidre (Marché de l'Aventurier) Il s'agit d'une dague +1 qui peut ralentir sa cible à chaque coup porté."
@@ -15265,9 +15265,9 @@
     },
     {
         "id": 1065,
-        "description": "这个模组添加了两个精灵战士职业：剑舞者和精灵骑士。",
+        "description": "这个模组增加了两个新的精灵战士宗派：|剑舞者（Bladesinger）：那些在魔法、武术、歌唱和舞蹈方面具有特殊天赋的精灵，有时会接受这种特殊战斗风格的训练。剑舞者主要依靠增强其近战能力的法术，但无论如何都不可低估他。|精灵骑士（Elven Knight）：精灵骑士出自精灵战士中的精英。他们因精通武器、忠诚和美德而被选中。他们受训与兽人以及斯瑞-泰尔奎西尔（Srii-Tel'Quessir，即卓尔）作战，必须毫不犹豫地响应领主的召唤，并遵守严格的道德准则。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute deux nouveaux kits de guerrier elfe :|Bladesinger : Les elfes dotés d'un talent particulier pour la magie, les arts martiaux, le chant et la danse sont parfois formés à ce style de combat particulier. Le Bladesinger s'appuie principalement sur des sorts qui renforcent ses capacités au corps à corps, mais il ne faut en aucun cas le sous-estimer.|Elven Knight : Les Elven Knight sont issus de l'élite des combattants elfiques. Ils sont choisis pour leur maîtrise des armes, leur loyauté et leur vertu. Entraînés à combattre aussi bien les orques que les Srii-Tel'Quessir (Drows), ils doivent répondre sans hésiter à l'appel de leur seigneur et respecter un code moral rigoureux."
         },
         "notes": [],
@@ -15278,16 +15278,16 @@
     },
     {
         "id": 1066,
-        "description": "死者之野是一个扩展和更新博德之门剑湾传奇的模组。它重新采用了大量游戏规则，使其尽可能接近第二版高级龙与地下城的规则，前提是无限引擎允许。这包括修改，也包括添加。这尤其包括生物和法术的特性。|它还在同一精神下添加了新元素，无论是生物、法术还是物品，都分布在游戏各处（敌人、商店）。人工智能已完全重写，以便敌人能利用游戏的可能性（合作、更好地使用药水和法术）。|这些变化也将影响所有生物的人工智能：敌人和盟友。|最后，该模组在世界地图上添加了一个新区域（骸骨之战），随时可以进入，但建议由经验丰富的团队探索。",
+        "description": "《亡者之野》（The Fields of the Dead）是一个扩展并更新《博德之门：剑湾传奇》的模组。它采用了大量游戏规则，使其尽可能贴近AD&D第二版规则，前提是无限引擎允许这样做。这些既是修改，也是新增内容，尤其包括生物和法术的属性。|它还在同一理念下添加了新元素，包括生物、法术和物品，散布在游戏各处（对手、商店）。AI已被全面重制，使对手能充分利用游戏的可能性（协同作战、更好地使用药水和法术）。|这些改动也会影响所有生物——包括敌人和盟友——的AI。|最后，该模组在世界地图上新增了一个区域（白骨之战/Battle of Bones），随时可前往，但建议带着经验丰富的队伍去探索。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "The Fields of the Dead est un mod qui étend et met à jour Baldur's Gate Tales of the Sword Coast. Il reprend un grand nombre de règles du jeu pour les rendre aussi proches que possible de celles de la deuxième édition d'AD&D, dans la mesure où l'Infinity Engine le permet. Il s'agit de modifications, mais aussi d'ajouts. Ceci inclut notamment les caractéristiques des créatures et des sorts.|Il ajoute aussi de nouveaux éléments dans le même esprit, aussi bien des créatures que des sorts ou des objets, répartis un peu partout dans le jeu (adversaires, magasins). L'IA a été entièrement revue pour que les adversaires exploitent les possibilités du jeu (coopération, meilleur usage des potions et des sorts).|Les changements affecteront également l'intelligence artificielle de toutes les créatures : ennemis et alliés.|Enfin, le mod ajoute une nouvelle zone sur la carte du monde (Battle of Bones) accessible à tout moment, mais il est recommandé de l'explorer avec un groupe expérimenté."
         },
         "notes": [
-            "从 2.0 版本开始，该模组现在与 BGT、BG1Tutu 和 BG:EE 兼容。请注意，这是一个测试版。但在此过程中，与 BG 的兼容性已消失。请使用此[直接链接](https://mods.pocketplane.net/FotDv107.rar)下载与 BG-TotSC 兼容的旧版本。"
+            "自2.0版本起，对《博德之门》的兼容性已被移除。请使用此[直接链接](https://mods.pocketplane.net/FotDv107.rar) 下载先前兼容《博德之门：剑湾传奇》的版本。"
         ],
         "notes_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": [
                 "Depuis la version 2.0, la compatibilité avec BG a disparu. Utilisez ce [lien direct](https://mods.pocketplane.net/FotDv107.rar) pour télécharger la version précédente compatible BG-TotSC."
             ]
@@ -15299,9 +15299,9 @@
             "Lzw104522773",
             "Esceen"
         ],
-        "description": "这个模组在贝尔苟斯特市下方添加了一个盗贼地下巢穴。它包含新任务、新角色、新商店和新物品。该区域在离开烛堡后即可立即进入，对所有玩家开放，守序善良阵营的除外。准备好像盗贼一样行事。然而，善良或中立阵营有替代方案。",
+        "description": "这个模组在贝尔苟斯特城（Bérégost）增加了一处地下盗贼巢穴。它包含新任务、新角色、新商店和新物品。该区域在离开“油脂城堡”（Château-Suif）后即可进入，对所有玩家开放，但守序善良阵营的玩家除外。|一旦你加入“蛇发女妖之眼”（The Gorgon's Eye），你就需要执行典型盗贼公会的专属任务。你会被要求从事偷窃、勒索、走私和悬赏猎杀等活动。但请注意，善良或中立阵营的玩家也有有趣的替代选择。如果在某个时刻你发现公会的手段不合你的心意，你可以改变效忠对象，帮助城市卫队组织对“蛇发女妖之眼”的突袭。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod ajoute un repaire de voleurs souterrain dans la ville de Bérégost. Il contient de nouvelles quêtes, de nouveaux personnages, de nouveaux magasins et de nouveaux objets. Cette zone est accessible dès la sortie de Château-Suif et ouverte à tous les joueurs, à l'exception de ceux qui sont d'alignement Loyal Bon.|Une fois que vous aurez rejoint The Gorgon's Eye, vous devrez accomplir des missions propres aux activités d'une guilde de voleurs classique. On vous demandera de vous livrer à des activités telles que le vol, l'extorsion, la contrebande et la chasse aux primes. Il convient toutefois de noter qu'il existe des alternatives intéressantes pour les joueurs Bon ou Neutre. Si, à un moment donné, vous constatez que les méthodes de la guilde ne vous conviennent pas, vous avez la possibilité de changer d'allégeance et d'aider la Garde de la ville à organiser un raid contre The Gorgon's Eye."
         },
         "notes": [],
@@ -18006,9 +18006,9 @@
     },
     {
         "id": 1264,
-        "description": "这个小型模组引入了一种新类型的物品——“武器油”。它们是消耗性药水，可以为武器附加额外效果。",
+        "description": "这个小模组提供了一种新类型的物品——“武器油”。简而言之，它们是消耗性药水，能在1回合内为你的近战和远程攻击赋予适度效果。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce petit mod propose un nouveau type d'objet les « weapon oils ». En résumé, ce sont des potions consommables qui confèrent un effet modeste à vos attaques au corps à corps et à distance pendant 1 tour."
         },
         "notes": [],
@@ -18019,9 +18019,9 @@
     },
     {
         "id": 1265,
-        "description": "登上一次短途任务，任务中涉及一把智能长剑、一个任性的学徒和一个脾气暴躁的法师。",
+        "description": "踏上一次短途任务，故事围绕一把智能弯刀、一名完全被事态搞得手足无措的学徒，以及一位脾气暴躁的蒙面法师展开。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Embarquez pour une courte quête mettant en scène une épée intelligente (un cimeterre), une apprentie complètement dépassée par les évènements et un Mage Cagoulé grincheux."
         },
         "notes": [],
@@ -18435,9 +18435,11 @@
             "status": "done",
             "source": "Parfois appelé Weimer's Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité...|À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent).|FOR 18/21, DEX 18, CON 10, INT 18, SAG 10, CHA 16."
         },
-        "notes": [],
+        "notes": [
+			"一个兼容增强版（EE）的版本可在[[2156]]中找到。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Une version compatible EE est diponible dans [[2156]]."
             ]
@@ -27039,9 +27041,9 @@
     },
     {
         "id": 1911,
-        "description": "在您选定的地点（阿斯卡特拉、观察者堡垒或安姆克萨兰），您将遇到一尊钻石魔像，它会向您提出挑战。每项挑战都是一个“竞技场”，您需要在其中找到并击杀首领以取得胜利。| 这是一个尚未完成的版本，目前仅包含计划中11个竞技场里的8个。",
+        "description": "在你选择的地点（阿斯卡特拉、观察者堡垒或安姆克萨兰），你会遇到一个秘银魔像，它会向你提出挑战。每项挑战都是一个“竞技场”，在其中你会遇到数十个随机怪物，并且你必须找到并杀死首领才能获胜。|共有10项挑战可供完成，当你战胜前10项挑战后，还有最终挑战。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "À l'endroit que vous choisirez (Athkatla, Tour de garde ou Amkethran) vous rencontrerez un golem de mithril qui vous proposera de relever des défis. Chaque défi consiste en une 'arène' dans laquelle vous rencontrerez des dizaines de monstres aléatoires et où vous devrez trouver et tuer le boss pour valider la victoire.|Il y a 10 défis à relever, plus le défi final quand vous aurez triomphé des 10 premiers défis."
         },
         "notes": [],
@@ -30204,9 +30206,9 @@
     },
     {
         "id": 2146,
-        "description": "这个模组修改了战斗风格。",
+        "description": "这个模组修改了战斗风格。它为所有武器风格增加了一个第三槽位，并且仅对非兼职的战斗职业者开放（野蛮人除外）。此外，作者还尝试重新平衡武器风格，以使“双武器”风格不再那么占据主导地位。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Ce mod altère les styles de combat. Il ajoute un troisième emplacement à tous les styles d'armes et n'est disponible que pour les combattants non multi-classés (à l'exception des barbares). De plus, l'auteur a tenté de rééquilibrer les styles d'armes, afin que le style « deux armes » ne soit plus aussi dominant."
         },
         "notes": [],
@@ -30243,7 +30245,7 @@
     },
     {
         "id": 2149,
-        "description": "iiEngineExtensions 为脚本添加了新的触发器和动作。",
+        "description": "iiEngineExtensions为脚本添加了新的触发器和动作。",
         "description_meta": {
             "status": "done",
             "source": "iiEngineExtensions ajoute de nouveaux triggers et actions disponibles pour les scripts."
@@ -30256,7 +30258,7 @@
     },
     {
         "id": 2150,
-        "description": "A Moment With Imoen 是一个专门为《博德之门2》中的爱蒙（Imoen）角色加入恋爱线的模组。",
+        "description": "A Moment With Imoen是一个专门为《博德之门2》中的爱蒙（Imoen）角色加入恋爱线的模组。",
         "description_meta": {
             "status": "done",
             "source": "A Moment With Imoen est un mod qui consacre au personnage d'Imoen une romance dans Baldur's Gate 2."
@@ -30308,9 +30310,9 @@
     },
     {
         "id": 2154,
-        "description": "",
+        "description": "BG Pathfinding Redux是一个模组，它移除了在规划与执行移动时由友方生物造成的阻挡。盟友现在可以相互穿过，并能通过狭窄的门缝。墙壁、关闭的门、中立NPC和敌人则保留原有的阻挡行为。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "BG Pathfinding Redux est un mod qui supprime l'obstruction causée par les créatures alliées lors de la planification et de l'exécution des déplacements. Les alliés peuvent désormais se faufiler les uns à travers les autres et passer par des embrasures de portes étroites. Les murs, les portes fermées, les PNJ neutres et les ennemis conservent leur comportement de blocage d'origine."
         },
         "notes": [],
@@ -30321,9 +30323,9 @@
     },
     {
         "id": 2155,
-        "description": "",
+        "description": "这个模组对圣武士职业进行了重制。作者的指导原则是：被动加成很无聊，在合理的前提下，最好拥有更多可操作的技能按钮。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ce mod propose une refonte de la classe de Paladin. Le principe directeur de l'auteur est que les bonus passifs sont ennuyeux et qu'il vaut mieux avoir plus de boutons, dans la mesure du raisonnable."
         },
         "notes": [],
@@ -30334,9 +30336,9 @@
     },
     {
         "id": 2156,
-        "description": "",
+        "description": "模组[[1294]]的增强版（EE）移植。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Portage EE du mod [[1294]]."
         },
         "notes": [],
@@ -30347,9 +30349,9 @@
     },
     {
         "id": 2157,
-        "description": "",
+        "description": "模组[[1299]]的增强版（EE）移植。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Portage EE du mod [[1299]]."
         },
         "notes": [],
@@ -30360,9 +30362,9 @@
     },
     {
         "id": 2158,
-        "description": "",
+        "description": "基于文件的IPC桥，允许借助EEex在正在运行的《博德之门：增强版》/《博德之门II：增强版》游戏进程中执行Lua代码。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Pont IPC basé sur des fichiers permettant d'exécuter du code Lua au sein d'une partie de BG:EE/BG2:EE en cours d'exécution à l'aide d'EEex."
         },
         "notes": [],
