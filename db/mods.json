@@ -1006,7 +1006,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-12-01",
+        "last_update": "2026-10-19",
         "compatibilities": {},
         "tp2": "akgear"
     },
@@ -4451,7 +4451,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-16",
+        "last_update": "2026-10-22",
         "compatibilities": {
             "requires": [
                 "ToB"
@@ -6054,7 +6054,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-08",
+        "last_update": "2026-10-13",
         "compatibilities": {},
         "tp2": "d2-script"
     },
@@ -13033,7 +13033,8 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
@@ -41387,7 +41388,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-03-04",
+        "last_update": "2026-10-21",
         "compatibilities": {},
         "tp2": "ua"
     },
@@ -46835,12 +46836,13 @@
             "ru",
             "es",
             "pl",
-            "it"
+            "it",
+            "fr"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-10",
+        "last_update": "2026-10-27",
         "compatibilities": {},
         "tp2": "Loretakers"
     },
@@ -47351,7 +47353,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-09-30",
+        "last_update": "2026-10-15",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -48482,7 +48484,8 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "fr"
         ],
         "status": [
             "stable"
@@ -48560,12 +48563,13 @@
             "es",
             "pt",
             "pl",
-            "it"
+            "it",
+            "fr"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-23",
+        "last_update": "2026-10-17",
         "compatibilities": {},
         "tp2": "Godcall"
     },
@@ -52983,7 +52987,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-07-23",
+        "last_update": "2026-10-14",
         "compatibilities": {},
         "tp2": "reactivitypack"
     },
@@ -61227,12 +61231,13 @@
             "ru",
             "pt",
             "pl",
-            "it"
+            "it",
+            "fr"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-10",
+        "last_update": "2026-10-17",
         "compatibilities": {},
         "tp2": "ThroneoftheMadGod"
     },
@@ -62520,7 +62525,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-04-22",
+        "last_update": "2026-10-14",
         "compatibilities": {},
         "tp2": "lfgp"
     },
@@ -63236,7 +63241,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-09",
+        "last_update": "2026-10-23",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -64263,7 +64268,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-12-01",
+        "last_update": "2026-10-22",
         "compatibilities": {},
         "tp2": "tutorils_he"
     },
@@ -64425,7 +64430,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-10-11",
+        "last_update": "2026-10-21",
         "compatibilities": {},
         "tp2": "silverrealms"
     },
@@ -64485,7 +64490,7 @@
         "safe": 0,
         "languages": [],
         "status": [
-            "stable"
+            "missing"
         ],
         "last_update": "2025-09-27",
         "compatibilities": {},
@@ -68093,12 +68098,14 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "cn",
+            "fr"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-06-25",
+        "last_update": "2026-10-13",
         "compatibilities": {},
         "tp2": "PartyToDieFor"
     },
@@ -70088,7 +70095,7 @@
         "safe": 1,
         "languages": [],
         "status": [
-            "stable"
+            "missing"
         ],
         "last_update": "2026-04-04",
         "compatibilities": {
@@ -70235,7 +70242,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-09-26",
+        "last_update": "2026-10-23",
         "compatibilities": {
             "requires": [
                 "Windows",
@@ -70440,7 +70447,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-08-19",
+        "last_update": "2026-10-20",
         "compatibilities": {
             "requires": [
                 "Python",
@@ -71897,12 +71904,13 @@
             "es",
             "cn",
             "it",
-            "ru"
+            "ru",
+            "fr"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-09",
+        "last_update": "2026-10-17",
         "compatibilities": {},
         "tp2": "Poisoned_pathways"
     },
@@ -71944,7 +71952,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-19",
+        "last_update": "2026-10-13",
         "compatibilities": {},
         "tp2": "A7-MiscTweaks"
     },
@@ -74188,7 +74196,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-23",
+        "last_update": "2026-10-18",
         "compatibilities": {},
         "tp2": "SiamorphesWeaponry"
     },
@@ -74653,7 +74661,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-12",
+        "last_update": "2026-10-11",
         "compatibilities": {},
         "tp2": "WeaponStyles"
     },
@@ -74942,7 +74950,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-10-11",
+        "last_update": "2026-10-12",
         "compatibilities": {
             "requires": [
                 348
@@ -75097,7 +75105,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-07-11",
+        "last_update": "2026-10-22",
         "compatibilities": {
             "requires": [
                 348,
@@ -75105,5 +75113,91 @@
             ]
         },
         "tp2": "eeexremote"
+    },
+    {
+        "id": 2159,
+        "name": "chriz-sod-rebalance",
+        "description": "Un mod de remix/refonte + rééquilibrage pour (SoD) sur BG2:EE et EET. Allège SoD, conserve tous les compagnons, remanie l'arc narratif.",
+        "urls": [
+            "https://github.com/Chrizhermann/chriz-sod-rebalance"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "ChrizFader"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-10-22",
+        "compatibilities": {},
+        "tp2": "chriz-sod-remix"
+    },
+    {
+        "id": 2160,
+        "name": "Party Stash",
+        "description": "Un coffre infini partagé par tout le groupe, façon Pillars of Eternity, intégré à une page d'inventaire repensée.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41660-weidu-party-stash-v10-a-shared-infinite-stash-on-a-redesigned-inventory-page-bgee-sod-bg2ee-eeex/",
+            "https://forums.beamdog.com/discussion/90867/",
+            "https://www.nexusmods.com/baldursgate/mods/134",
+            "https://github.com/sad0/PartyStash-EE"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "sad0"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "cn",
+            "cz",
+            "de",
+            "en",
+            "es",
+            "fr",
+            "hu",
+            "it",
+            "jp",
+            "kr",
+            "pl",
+            "pt",
+            "ru",
+            "tr",
+            "ua"
+        ],
+        "status": [
+            "beta"
+        ],
+        "last_update": "2026-10-22",
+        "compatibilities": {
+            "requires": [
+                "EE version >= 2.6",
+                348
+            ]
+        },
+        "tp2": "PartyStash"
     }
 ]

@@ -18436,8 +18436,8 @@
             "source": "Parfois appelé Weimer's Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité...|À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent).|FOR 18/21, DEX 18, CON 10, INT 18, SAG 10, CHA 16."
         },
         "notes": [
-			"一个兼容增强版（EE）的版本可在[[2156]]中找到。"
-		],
+            "一个兼容增强版（EE）的版本可在[[2156]]中找到。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -30366,6 +30366,32 @@
         "description_meta": {
             "status": "done",
             "source": "Pont IPC basé sur des fichiers permettant d'exécuter du code Lua au sein d'une partie de BG:EE/BG2:EE en cours d'exécution à l'aide d'EEex."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2159,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un mod de remix/refonte + rééquilibrage pour (SoD) sur BG2:EE et EET. Allège SoD, conserve tous les compagnons, remanie l'arc narratif."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2160,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Un coffre infini partagé par tout le groupe, façon Pillars of Eternity, intégré à une page d'inventaire repensée."
         },
         "notes": [],
         "notes_meta": {
