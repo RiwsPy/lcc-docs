@@ -75160,6 +75160,7 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -75189,15 +75190,104 @@
             "ua"
         ],
         "status": [
-            "beta"
+            "embed"
         ],
-        "last_update": "2026-10-22",
+        "last_update": "2026-10-25",
         "compatibilities": {
             "requires": [
                 "EE version >= 2.6",
                 348
             ]
         },
+        "embedded_in": 2161,
         "tp2": "PartyStash"
+    },
+    {
+        "id": 2161,
+        "name": "SadoEE",
+        "description": "Groupes plus importants (7 à 32 membres, les dialogues fonctionnent), inventaire partagé, camp de repos avec recrutement et réaffectation de points de caractéristiques, mannequins d'entraînement pour nécromanciens, améliorations de la qualité de vie.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41664-weidu-sadoee-v101-bigger-party-7-32-members-banters-work-shared-stash-rest-camp-recruit-respec-necromancer-target-dummies-bgee-bg2ee-eet/",
+            "https://forums.beamdog.com/discussion/90874/",
+            "https://github.com/sad0/SadoEE"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "sad0"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en",
+            "cn",
+            "cz",
+            "de",
+            "en",
+            "es",
+            "fr",
+            "hu",
+            "it",
+            "jp",
+            "kr",
+            "pl",
+            "pt",
+            "ru",
+            "tr",
+            "ua"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-10-26",
+        "compatibilities": {
+            "requires": [
+                "EE version >= 2.6",
+                348
+            ]
+        },
+        "tp2": "SadoEE"
+    },
+    {
+        "id": 2162,
+        "name": "Chronicles of the Sword Coast",
+        "description": "Vous êtes-vous déjà interrogé sur le mystère de l'Île de Glace où Shandalar vous envoie ? Avez-vous déjà imaginé ce que cela ferait de croiser Astarion ou Randalla Brasshorn dans les jeux classiques ? Avez-vous déjà rêvé de villes plus fidèles à l'univers des Royaumes Oubliés, avec une plus grande diversité parmi les roturiers et les paysans ? Chronicles of the Sword Coast est un mod de quêtes modulaire qui ajoute de nombreuses petites quêtes au jeu, ainsi que divers éléments introduisant de nouvelles mécaniques, des objets et des interventions de personnages de BioWare et Beamdog. Nous vous recommandons tout particulièrement de garder Viconia dans votre groupe, car c'est elle qui offre le plus de contenu et de quêtes supplémentaires.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41670-mod-release-baldurs-gate-chronicles-of-the-sword-coast/",
+            "https://forums.beamdog.com/discussion/90876/",
+            "https://github.com/HotaruPL/Chronicles-of-the-Sword-Coast"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "Hotaru",
+            "Mapek"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-10-29",
+        "compatibilities": {},
+        "tp2": "qac"
     }
 ]
