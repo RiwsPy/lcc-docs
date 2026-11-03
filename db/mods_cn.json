@@ -7158,7 +7158,7 @@
     },
     {
         "id": 499,
-        "description": "有些人注定拥有辉煌的未来，有些人充满力量和才华，还有些人则性感得让你害怕。但所有人都需要一个好厨师：这就是我们蔬菜商人德鲁伊Hubelpot的用处。您可以在渥金商场Enge的果蔬店找到他。Hubelpot提供了大约三十个笑话，没有一个打破第四面墙，也没有一个包含“烂”这个词。他与所有BioWare的NPC互动，除了沙洛佛克。在巴尔王座中，他相当安静，只有在被召唤时、与沃罗交谈以及在巴尔王座结束时才会说话。他还拥有一个充满转折的丰富任务，奖励也很不寻常。|力量12，敏捷8，体质10，智力10，智慧14，魅力13。",
+        "description": "有些人注定拥有辉煌的未来，有些人充满力量和才华，还有些人则性感得让你害怕。但所有人都需要一个好厨师：这就是我们蔬菜商人德鲁伊Hubelpot的用处。您可以在渥金商场Enge的果蔬店找到他。Hubelpot提供了大约三十个笑话，没有一个打破第四面墙，也没有一个包含“烂”这个词。他与所有BioWare的NPC互动，除了沙洛佛克。在巴尔王座中，他相当安静，只有在被召唤时、与瓦罗交谈以及在巴尔王座结束时才会说话。他还拥有一个充满转折的丰富任务，奖励也很不寻常。|力量12，敏捷8，体质10，智力10，智慧14，魅力13。",
         "description_meta": {
             "status": "done",
             "source": "Il y des gens destinés à un avenir grandiose, d'autres remplis de pouvoir et de talents, enfin d'autres plus sexy-que-moi-tu-meurs. Mais tous ont besoin d'un bon cuistot : d'où l'utilité de notre druide marchand de légumes Hubelpot. Vous pouvez le trouver dans le magasin de fruits et légumes d'Enge sur la promenade de Waukyne. Hubelpot propose une trentaine de plaisanteries, aucune ne brise le 4e mur et aucune ne comporte le mot \"navet\". Il interagit avec tous les PNJ Bioware à l'exception de Sarevok. Dans ToB, il est encore assez silencieux, ne parlant que lorsqu'il est appelé, avec Volo et à la fin de ToB. Il dispose aussi d'une quête riche en rebondissements, avec une récompense inhabituelle.|FOR 12, DEX 8, CON 10, INT 10, SAG 14, CHA 13."
@@ -7909,7 +7909,7 @@
     },
     {
         "id": 553,
-        "description": "这是一个针对旅店、商店和酒馆的小型调整集合：|- 根据《沃罗的剑湾海岸指南》描述，调整旅店房间的类别和价格。|- 在博德之门：增强版中，限制在某些专业商店鉴定魔法物品的能力。另一个组件负责龙矛围攻的部分。|- 吟游诗人酒馆二楼的商人是一个销赃者，现在会收购被盗物品。|- 商队强盗和销赃者会忽略团队的低名誉（仅限博德之门：增强版/龙矛围攻）。",
+        "description": "这是一个针对旅店、商店和酒馆的小型调整集合：|- 根据《瓦罗的剑湾海岸指南》描述，调整旅店房间的类别和价格。|- 在博德之门：增强版中，限制在某些专业商店鉴定魔法物品的能力。另一个组件负责龙矛围攻的部分。|- 吟游诗人酒馆二楼的商人是一个销赃者，现在会收购被盗物品。|- 商队强盗和销赃者会忽略团队的低名誉（仅限博德之门：增强版/龙矛围攻）。",
         "description_meta": {
             "status": "done",
             "source": "Il s'agit d'une collection de petits ajustements pour les auberges, les boutique et les tavernes :|- Ajustement des catégories et des tarifs des chambres des auberges en fonction des descriptions du \"Guide de Volo sur la Côte des Épées\".|- Restriction de la possibilité d'identifier les objets magiques à certains magasins spécialisés dans BG:EE. Un autre composant s'occupe de la partie SoD.|- Le marchand du 2e étage de la taverne du Chant de l'Elfe est un receleur et achète désormais des objets volés.|- Les bandits marchands et les receleurs ignorent la faible réputation du groupe (uniquement BG:EE/SoD)."
@@ -21203,7 +21203,7 @@
     },
     {
         "id": 1486,
-        "description": "这是一个未完成的模组，它对博德之门增强版的主线任务进行了修改。它提供了将原始书籍中的材料整合到游戏中的组件——就像《沃罗的剑湾指南》和《阴谋之地》对这些地区的描述一样。它还提供了区域和乐……",
+        "description": "这是一个未完成的模组，它对博德之门增强版的主线任务进行了修改。它提供了将原始书籍中的材料整合到游戏中的组件——就像《瓦罗的剑湾指南》和《阴谋之地》对这些地区的描述一样。它还提供了区域和乐……",
         "description_meta": {
             "status": "done",
             "source": "Il s'agit d'un mod non terminé qui apporte des modifications à la quête principale de Baldur's Gate Enhanced Edition. Il propose des composants qui intègrent le matériel des livres originaux dans le jeu - comme Volo's Guide to the Sword Coast et Lands of Intrigue ont à dire sur ces régions. Il fournit également des zones et des jo..."
@@ -30401,9 +30401,9 @@
     },
     {
         "id": 2161,
-        "description": "",
+        "description": "更大的队伍规模（7至32名成员，对话系统仍能正常运行）、共享物品栏、带招募与属性点重分配功能的休息营地、供死灵法师使用的训练假人，以及生活质量改进。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Groupes plus importants (7 à 32 membres, les dialogues fonctionnent), inventaire partagé, camp de repos avec recrutement et réaffectation de points de caractéristiques, mannequins d'entraînement pour nécromanciens, améliorations de la qualité de vie."
         },
         "notes": [],
@@ -30414,9 +30414,9 @@
     },
     {
         "id": 2162,
-        "description": "",
+        "description": "您是否曾对珊达拉（Shandalar）将您送往的冰岛之谜感到好奇？您是否曾想象过，在经典游戏中遇到阿斯代伦（Astarion）或兰达拉·铜号角（Randalla Brasshorn）会是什么样子？您是否曾梦想过更忠实于被遗忘的国度（Royaumes Oubliés）设定的城市，让平民和农民更具多样性？《剑湾编年史》（Chronicles of the Sword Coast）是一个模块化任务模组，为游戏添加了许多小任务，以及各种引入新机制、物品和BioWare与Beamdog角色插话的元素。我们特别建议您将维康妮亚（Viconia）留在队伍中，因为她提供最多的额外内容和任务。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Vous êtes-vous déjà interrogé sur le mystère de l'Île de Glace où Shandalar vous envoie ? Avez-vous déjà imaginé ce que cela ferait de croiser Astarion ou Randalla Brasshorn dans les jeux classiques ? Avez-vous déjà rêvé de villes plus fidèles à l'univers des Royaumes Oubliés, avec une plus grande diversité parmi les roturiers et les paysans ? Chronicles of the Sword Coast est un mod de quêtes modulaire qui ajoute de nombreuses petites quêtes au jeu, ainsi que divers éléments introduisant de nouvelles mécaniques, des objets et des interventions de personnages de BioWare et Beamdog. Nous vous recommandons tout particulièrement de garder Viconia dans votre groupe, car c'est elle qui offre le plus de contenu et de quêtes supplémentaires."
         },
         "notes": [],
