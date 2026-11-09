@@ -129,7 +129,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2018-02-13",
+        "last_update": "2019-06-25",
         "compatibilities": {},
         "tp2": "35weaponstyle"
     },
@@ -13297,12 +13297,13 @@
             "fr",
             "pl",
             "ru",
-            "cn"
+            "cn",
+            "it"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-04-07",
+        "last_update": "2026-11-08",
         "compatibilities": {
             "requires": [
                 "BGEE",
@@ -14993,7 +14994,8 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
@@ -21915,7 +21917,8 @@
             "BGT",
             "BG2EE",
             "EET",
-            "IWDEE"
+            "IWDEE",
+            "PSTEE"
         ],
         "authors": [
             "Deratiseur"
@@ -21931,7 +21934,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-05",
+        "last_update": "2026-11-08",
         "compatibilities": {},
         "tp2": "derats_magasin_2"
     },
@@ -25885,7 +25888,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-02-06",
+        "last_update": "2026-11-04",
         "compatibilities": {},
         "tp2": "npc-bodies"
     },
@@ -31317,7 +31320,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-26",
+        "last_update": "2026-10-31",
         "compatibilities": {
             "requires": [
                 "EE version >= 2.0"
@@ -34528,7 +34531,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-02-21",
+        "last_update": "2026-11-01",
         "compatibilities": {},
         "tp2": "Snowytoes"
     },
@@ -35552,7 +35555,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-01-27",
+        "last_update": "2026-11-02",
         "compatibilities": {},
         "tp2": "subrace"
     },
@@ -39171,7 +39174,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-07-29",
+        "last_update": "2026-11-05",
         "compatibilities": {},
         "tp2": "d2-workshopkits"
     },
@@ -41388,7 +41391,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-21",
+        "last_update": "2026-11-09",
         "compatibilities": {},
         "tp2": "ua"
     },
@@ -45327,7 +45330,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-08-07",
+        "last_update": "2026-11-04",
         "compatibilities": {},
         "tp2": "Derats_Combino"
     },
@@ -47353,7 +47356,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-10-15",
+        "last_update": "2026-11-04",
         "compatibilities": {},
         "tp2": "eefixpack"
     },
@@ -49067,7 +49070,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-01",
+        "last_update": "2026-11-05",
         "compatibilities": {},
         "tp2": "infinity_ui"
     },
@@ -50435,12 +50438,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-30",
+        "last_update": "2026-11-03",
         "compatibilities": {},
         "tp2": "mih_fr"
     },
@@ -50720,7 +50724,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-26",
+        "last_update": "2026-10-27",
         "compatibilities": {},
         "tp2": "ZS_ShadowdancerOverhaul"
     },
@@ -50974,7 +50978,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-10-09",
+        "last_update": "2026-11-04",
         "compatibilities": {},
         "tp2": "enhanced_creatures"
     },
@@ -53383,7 +53387,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-18",
+        "last_update": "2026-10-29",
         "compatibilities": {},
         "tp2": "BookOfTorment"
     },
@@ -61833,7 +61837,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-12-07",
+        "last_update": "2026-11-04",
         "compatibilities": {},
         "tp2": "Derats_Oops"
     },
@@ -62013,7 +62017,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-29",
+        "last_update": "2026-11-06",
         "compatibilities": {},
         "tp2": "Derats_KriBinn"
     },
@@ -63236,12 +63240,13 @@
             "ru",
             "cn",
             "fr",
-            "es"
+            "es",
+            "it"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-23",
+        "last_update": "2026-11-05",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -64232,7 +64237,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-10",
+        "last_update": "2026-11-05",
         "compatibilities": {},
         "tp2": "assortedadjustments"
     },
@@ -64365,7 +64370,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2025-09-08",
+        "last_update": "2026-10-31",
         "compatibilities": {},
         "tp2": "BGEE-NPC-Revamp"
     },
@@ -64430,7 +64435,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-10-21",
+        "last_update": "2026-10-25",
         "compatibilities": {},
         "tp2": "silverrealms"
     },
@@ -64716,7 +64721,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-05-01",
+        "last_update": "2026-10-28",
         "compatibilities": {},
         "tp2": "Smoke_and_Mirrors"
     },
@@ -65012,7 +65017,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-05-03",
+        "last_update": "2026-11-03",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -66709,7 +66714,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-28",
+        "last_update": "2026-10-28",
         "compatibilities": {},
         "tp2": "Derats_Defis"
     },
@@ -69847,6 +69852,7 @@
         "games": [
             "BGEE",
             "SoD",
+            "BG2EE",
             "EET"
         ],
         "authors": [
@@ -70242,7 +70248,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-10-23",
+        "last_update": "2026-11-08",
         "compatibilities": {
             "requires": [
                 "Windows",
@@ -73698,7 +73704,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-27",
+        "last_update": "2026-11-08",
         "compatibilities": {},
         "tp2": "ForcedSlayerTransform"
     },
@@ -74359,7 +74365,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-06",
+        "last_update": "2026-10-30",
         "compatibilities": {},
         "tp2": "BG1StylePortraits"
     },
@@ -74937,7 +74943,9 @@
             "BGEE",
             "SoD",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE",
+            "IWD2"
         ],
         "authors": [
             "Zach Hopkins"
@@ -74950,7 +74958,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-10-12",
+        "last_update": "2026-11-07",
         "compatibilities": {
             "requires": [
                 348
@@ -75141,7 +75149,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-10-22",
+        "last_update": "2026-11-08",
         "compatibilities": {},
         "tp2": "chriz-sod-remix"
     },
@@ -75172,7 +75180,6 @@
         "translation_state": "auto",
         "safe": 1,
         "languages": [
-            "en",
             "cn",
             "cz",
             "de",
@@ -75228,7 +75235,6 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en",
             "cn",
             "cz",
             "de",
@@ -75248,7 +75254,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-26",
+        "last_update": "2026-11-08",
         "compatibilities": {
             "requires": [
                 "EE version >= 2.6",
@@ -75286,7 +75292,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-29",
+        "last_update": "2026-11-03",
         "compatibilities": {},
         "tp2": "qac"
     }
