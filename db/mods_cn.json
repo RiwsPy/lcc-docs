@@ -8792,8 +8792,8 @@
         "id": 616,
         "description": "异界商店是一个出售近100件原创物品和一百多种新法术的商店。它还可以组合数十种药水。它位于BG2的渥金商场，并且可以通过在冰风谷：增强版中 Yetis 洞穴里找到一个物品来访问。",
         "description_meta": {
-            "status": "done",
-            "source": "L'interplan est un magasin qui vend près de 100 objets originaux et plus d'une centaine de nouveaux sorts. Il peut aussi combiner plusieurs dizaines de potions. Il se trouve sur la Promenade de Waukyne dans BG2, et est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE."
+            "status": "needs_review",
+            "source": "L'interplan est un magasin qui vend plus de 100 objets originaux et plus de 150 nouveaux sorts. Il peut aussi combiner plusieurs dizaines de potions. Il se trouve sur la Promenade de Waukyne dans BG2, est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE et dans l'enclave des marchands dans les Fosses Noires II."
         },
         "notes": [],
         "notes_meta": {
@@ -25042,8 +25042,8 @@
         "id": 1764,
         "description": "欧普是一个非常特别的角色：他拥有将法术卷轴转化为特殊能力的能力。具体来说，把你想要作为每日一次特殊能力的法术卷轴带给欧普，为法术的每个等级支付10000金币，你会失去卷轴，但获得一个新的能力。|你可以在观察者堡垒的西南侧找到欧普。他的位置是为了在安姆阴影和巴尔王座中都能访问到。|此模组也管理着来自其他模组（如 [[616]], [[926]], [[1218]]）的法术书。",
         "description_meta": {
-            "status": "done",
-            "source": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale.  Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 10000 po par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité.|Vous trouverez Oops à coté de la Tour de Garde, au sud ouest. Il est là pour être accessible aussi bien dans SOA que dans TOB.|Le mod gère aussi des grimoires tirés d'autres mods comme [[616]], [[926]], [[1218]]."
+            "status": "needs_review",
+            "source": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale. Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 5 000 po et 1 000 XP par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité. Renouvelable à volonté tant que vous avez de quoi payer et des parchemins à fournir.|Vous trouverez Oops le magicien à coté de la Tour de Garde, près du dolmen.|Le mod gère aussi des grimoires tirés d'autres mods comme [[616]], [[926]], [[1218]]."
         },
         "notes": [],
         "notes_meta": {
@@ -25115,8 +25115,8 @@
         "id": 1769,
         "description": "Gilbertus 出售一个半机械的蜘蛛，它会像第七个同伴一样跟着你。准备很多金币。如果你真的准备了很多金币，并且很有说服力，你也许能买到“更多”。|Kri'binn ：力量 15，敏捷 9，体质 9，智力 9，智慧 9，魅力 9。|Kro'tan ：力量 18/50，敏捷 9，体质 9，智力 9，智慧 9，魅力 9。",
         "description_meta": {
-            "status": "done",
-            "source": "Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or. Si vous prévoyez vraiment beaucoup de pièce d'or et si vous êtes persuasif, vous pourrez peut être acheter 'plus'.|Kri'binn : FOR 15, DEX 9, CON 9, INT 9, SAG 9, CHA 9.|Kro'tan : FOR 18/50, DEX 9, CON 9, INT 9, SAG 9, CHA 9."
+            "status": "needs_review",
+            "source": "Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièces d'or.|L'araignée est quasi-invulnérable et peut être améliorée avec des potions.|Si, quand vous parlez au vendeur, vous avez vraiment énormément de pièces d'or, vous pourrez peut-être acheter 'plus'.|Kri'binn : FOR 15, DEX 9, CON 9, INT 9, SAG 9, CHA 9.|Kro'tan : FOR 18/50, DEX 9, CON 9, INT 9, SAG 9, CHA 9."
         },
         "notes": [],
         "notes_meta": {

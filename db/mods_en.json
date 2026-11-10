@@ -8663,13 +8663,14 @@
     },
     {
         "id": 616,
+        "name": "The Interplan",
         "team": [
             "Dragonian"
         ],
-        "description": "L'interplan is a store selling a wide range of original items and over a hundred new spells. It can also combine several dozens of potions. It can be found on the Waukeen's Promenade in BG2, and is accessible via an item in the Yetis Cave in IWD:EE.",
+        "description": "The Interplan is a store selling a wide range of original items and more than 150 new spells. It can also combine several dozens of potions. It can be found on the Waukeen's Promenade in BG2, is accessible via an item in the Yeti Cave in IWD:EE and in the merchants' enclave in The Black Pits II.",
         "description_meta": {
             "status": "needs_review",
-            "source": "L'interplan est un magasin qui vend près de 100 objets originaux et plus d'une centaine de nouveaux sorts. Il peut aussi combiner plusieurs dizaines de potions. Il se trouve sur la Promenade de Waukyne dans BG2, et est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE."
+            "source": "L'interplan est un magasin qui vend plus de 100 objets originaux et plus de 150 nouveaux sorts. Il peut aussi combiner plusieurs dizaines de potions. Il se trouve sur la Promenade de Waukyne dans BG2, est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE et dans l'enclave des marchands dans les Fosses Noires II."
         },
         "notes": [],
         "notes_meta": {
@@ -17908,7 +17909,7 @@
     {
         "id": 1273,
         "name": "Kurosaï the combiner",
-        "description": "Kurosai is a pnj who, for a lot of gold, can combine three +x items into one +x+1 item. This works for almost all '+x' items, from weapons to armour to jewellery. He can thus combine items up to +6. He appears in Trademeet after the Daos have left. Later in the game he will move to Saradush, and disappear with the destruction of the town.",
+        "description": "Kurosai is a npc who, for a lot of gold, can combine three +x items into one +x+1 item. This works for almost all '+x' items, from weapons to armour to jewellery. He can thus combine items up to +6. He appears in Trademeet after the Daos have left. Later in the game he will move to Saradush, and disappear with the destruction of the town.",
         "description_meta": {
             "status": "done",
             "source": "Kurosaï est un pnj qui peut moyennant moult pièces d'or combiner trois objets +x en un objet +x+1. Cela marche pour presque tous les objets +x, des armes aux armures en passant par les bijoux. Il peut ainsi combiner les objets jusqu'à +6. Il apparaît à Francmarché après que les Daos soient partis. Plus tard dans le jeu il se déplacera à Saradush, et il disparaîtra avec la destruction de la ville."
@@ -24719,10 +24720,10 @@
     {
         "id": 1764,
         "name": "Oops the magician",
-        "description": "Oops is a very special character: he has the ability to change a spell scroll into a special ability.  In concrete terms, bring Oops the scroll of the spell you'd like to have as a special ability 1x/day, pay him 10,000 po per level of the desired spell, you lose the scroll but you gain a new ability. You'll find Oops next to the Watcher's keep, to the south-west. It is designed to be accessible in both SOA and TOB.|The mod also handles grimoires drawn from other mods like [[616]], [[926]], [[1218]].",
+        "description": "Oops is a very special character: he has the ability to change a spell scroll into a special ability. In concrete terms, bring Oops the scroll of the spell you'd like to have as a special ability 1x/day, pay him 5,000 gp and 1,000 XP per level of the desired spell, you lose the scroll but you gain a new ability. You can repeat this as often as you like, as long as you have enough to pay and scrolls to provide.|You'll find Oops the magician next to the Watcher's Keep, near the dolmen.|The mod also handles grimoires drawn from other mods like [[616]], [[926]], [[1218]].",
         "description_meta": {
             "status": "needs_review",
-            "source": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale.  Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 10000 po par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité.|Vous trouverez Oops à coté de la Tour de Garde, au sud ouest. Il est là pour être accessible aussi bien dans SOA que dans TOB.|Le mod gère aussi des grimoires tirés d'autres mods comme [[616]], [[926]], [[1218]]."
+            "source": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale. Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 5 000 po et 1 000 XP par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité. Renouvelable à volonté tant que vous avez de quoi payer et des parchemins à fournir.|Vous trouverez Oops le magicien à coté de la Tour de Garde, près du dolmen.|Le mod gère aussi des grimoires tirés d'autres mods comme [[616]], [[926]], [[1218]]."
         },
         "notes": [],
         "notes_meta": {
@@ -24796,10 +24797,10 @@
     {
         "id": 1769,
         "name": "Kri'binn the semi-mechanical spider",
-        "description": "Gilbertus sells a semi-mechanical spider that will follow you around like a 7th companion. Expect lots of gold coins. If you really plan to spend a lot of gold and are persuasive, you may be able to buy 'more'.|Kri'binn : STR 15, DEX 9, CON 9, INT 9, WIS 9, CHA 9.|Kro'tan : STR 18/50, DEX 9, CON 9, INT 9, WIS 9, CHA 9.",
+        "description": "Gilbertus sells a semi-mechanical spider that will follow you as a 7th companion. Expect to spend a lot of gold.|The spider is almost invulnerable and can be upgraded with potions.|If you have a truly huge amount of gold when you talk to the vendor, you may be able to buy 'more'.|Kri'binn : STR 15, DEX 9, CON 9, INT 9, WIS 9, CHA 9.|Kro'tan : STR 18/50, DEX 9, CON 9, INT 9, WIS 9, CHA 9.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièce d'or. Si vous prévoyez vraiment beaucoup de pièce d'or et si vous êtes persuasif, vous pourrez peut être acheter 'plus'.|Kri'binn : FOR 15, DEX 9, CON 9, INT 9, SAG 9, CHA 9.|Kro'tan : FOR 18/50, DEX 9, CON 9, INT 9, SAG 9, CHA 9."
+            "source": "Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièces d'or.|L'araignée est quasi-invulnérable et peut être améliorée avec des potions.|Si, quand vous parlez au vendeur, vous avez vraiment énormément de pièces d'or, vous pourrez peut-être acheter 'plus'.|Kri'binn : FOR 15, DEX 9, CON 9, INT 9, SAG 9, CHA 9.|Kro'tan : FOR 18/50, DEX 9, CON 9, INT 9, SAG 9, CHA 9."
         },
         "notes": [],
         "notes_meta": {
