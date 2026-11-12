@@ -1,0 +1,54 @@
+<div class="row mod" id="m{{ mod.id }}">
+    <details class="column title update-hash-parent">
+        <summary class="name">{{ mod.name }}</summary>
+    </details>
+    <div class="column icons">
+        {% for icon in mod.icons %}<span aria-label='{{ _(icon.label) }}'>{{ icon.icon }}</span>{% endfor %}
+    </div>
+    <div class="column jeu">
+        {% for game in mod.games_ordered %}<p>{{ game }}</p>{% endfor %}
+    </div>
+    {% if mod.authors|length <= 1 %}
+        <div class="column team">
+            {% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}
+        </div>
+    {% else %}
+        <details class="column team">
+            <summary>{{ _(trans["team"]) }}</summary>
+            <div class="content">{% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}</div>
+        </details>
+    {% endif %}
+    {% if mod.team|length <= 1 %}
+    <div class="column team translator">
+        {% for user in mod.team %}<p>{{ user }}</p>{% endfor %}
+    </div>
+    {% else %}
+    <details class="column team translator">
+        <summary>{{ _(trans["team"]) }}</summary>
+        <div class="content">{% for user in mod.team %}<p>{{ user }}</p>{% endfor %}</div>
+    </details>
+    {% endif %}
+    <div class="column url">
+        {% for url in mod.get_urls() %}
+            <a class="{% if url.is_direct_archive %} security_check{% endif %}" href="{{ url.url }}" target="{% if url.is_external %}_blank{% else %}_self{% endif %}">
+            {% if url.is_direct_archive %}
+                🔐
+            {% elif url.image %}
+                {% set img = url.image %}
+                <img src="{{ static }}{{ img.src }}" alt="{{ img.alt|default('Lien vers le mod',true) }}" width="{{ img.width }}" height="{{ img.height }}" title="{{ img.title }}" lazy="loading">
+            {% else %}
+                {{ _(trans["link"]) }}
+            {% endif %}
+            </a>
+        {% endfor %}
+    </div>
+    <div class="column desc">
+        <div class="content">
+            {{ mod.get_description(mod_id_to_name=mod_id_to_name)|safe }}
+            {% set notes = mod.get_notes(mod_id_to_name=mod_id_to_name) %}
+            {% if notes|length > 0 %}
+            <br/><br/>{% for note in notes %}{{ note|safe }}{% if not loop.last %}<br/>{% endif %}{% endfor %}
+            {% endif %}
+        </div>
+    </div>
+</div>
