@@ -8790,9 +8790,9 @@
     },
     {
         "id": 616,
-        "description": "异界商店是一个出售近100件原创物品和一百多种新法术的商店。它还可以组合数十种药水。它位于BG2的渥金商场，并且可以通过在冰风谷：增强版中 Yetis 洞穴里找到一个物品来访问。",
+        "description": "“异界商店”（L'interplan）是一家商店，出售100多件原创物品和150多个新法术。它还能组合数十种药水。在《博德之门2》中位于渥金商场（Promenade de Waukyne）；在《冰风谷：增强版》中可通过雪人洞穴里拾取的一件物品进入；在《死斗黑坑II》中则位于商人营地内。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "L'interplan est un magasin qui vend plus de 100 objets originaux et plus de 150 nouveaux sorts. Il peut aussi combiner plusieurs dizaines de potions. Il se trouve sur la Promenade de Waukyne dans BG2, est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE et dans l'enclave des marchands dans les Fosses Noires II."
         },
         "notes": [],
@@ -25040,9 +25040,9 @@
     },
     {
         "id": 1764,
-        "description": "欧普是一个非常特别的角色：他拥有将法术卷轴转化为特殊能力的能力。具体来说，把你想要作为每日一次特殊能力的法术卷轴带给欧普，为法术的每个等级支付10000金币，你会失去卷轴，但获得一个新的能力。|你可以在观察者堡垒的西南侧找到欧普。他的位置是为了在安姆阴影和巴尔王座中都能访问到。|此模组也管理着来自其他模组（如 [[616]], [[926]], [[1218]]）的法术书。",
+        "description": "“Oops”（欧普）是一个很特殊的角色：他拥有把法术卷轴转化为特殊能力的能力。具体来说，把你想要变成每天一次特殊能力的法术卷轴交给 Oops，支付 5000 金币以及每个法术等级 1000 点经验值，你会失去该卷轴，但会获得一项新能力。只要你有足够的钱和卷轴可供支付，就可以任意重复。|你会在观察者堡垒（Tour de Garde）旁边、巨石阵（dolmen）附近找到法师 Oops。|该模组还支持来自其他模组（如 [[616]]、[[926]]、[[1218]]）的法术书。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale. Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 5 000 po et 1 000 XP par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité. Renouvelable à volonté tant que vous avez de quoi payer et des parchemins à fournir.|Vous trouverez Oops le magicien à coté de la Tour de Garde, près du dolmen.|Le mod gère aussi des grimoires tirés d'autres mods comme [[616]], [[926]], [[1218]]."
         },
         "notes": [],
@@ -25113,9 +25113,9 @@
     },
     {
         "id": 1769,
-        "description": "Gilbertus 出售一个半机械的蜘蛛，它会像第七个同伴一样跟着你。准备很多金币。如果你真的准备了很多金币，并且很有说服力，你也许能买到“更多”。|Kri'binn ：力量 15，敏捷 9，体质 9，智力 9，智慧 9，魅力 9。|Kro'tan ：力量 18/50，敏捷 9，体质 9，智力 9，智慧 9，魅力 9。",
+        "description": "吉尔伯特斯（Gilbertus）出售一只半机械蜘蛛，它会像第七名同伴一样跟随你。请准备大量金币。|这只蜘蛛几乎无敌，并且可以用药水进行升级。|如果你在与商人交谈时拥有真正海量的金币，或许还能买到“更多”。|克里宾（Kri'binn）：力量15，敏捷9，体质9，智力9，智慧9，魅力9。|克洛坦（Kro'tan）：力量18/50，敏捷9，体质9，智力9，智慧9，魅力9。",
         "description_meta": {
-            "status": "needs_review",
+            "status": "done",
             "source": "Gilbertus vend une araignée semi-mécanique qui vous suivra comme un 7ème compagnon. Prévoyez beaucoup de pièces d'or.|L'araignée est quasi-invulnérable et peut être améliorée avec des potions.|Si, quand vous parlez au vendeur, vous avez vraiment énormément de pièces d'or, vous pourrez peut-être acheter 'plus'.|Kri'binn : FOR 15, DEX 9, CON 9, INT 9, SAG 9, CHA 9.|Kro'tan : FOR 18/50, DEX 9, CON 9, INT 9, SAG 9, CHA 9."
         },
         "notes": [],
