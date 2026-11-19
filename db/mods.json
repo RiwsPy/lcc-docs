@@ -677,7 +677,7 @@
     {
         "id": 20,
         "name": "Aeon",
-        "description": "Aeon est un jeune abjurateur/voleur fougueux, heureux possesseur d'une épée de lune. Dénichez-le au fin fond du cimetière pour découvrir pourquoi cet humain peut porter une telle arme. Vous pourrez également expérimenter un nouveau genre de relations basée sur la fraternité ; cette voie étant réservée à des PJ mâles uniquement.",
+        "description": "Aeon est un jeune abjurateur/voleur fougueux, heureux possesseur d'une épée de lune. Dénichez-le au fin fond du cimetière pour découvrir pourquoi cet humain peut porter une telle arme. Vous pourrez également expérimenter un nouveau genre de relations basée sur la fraternité ; cette voie étant réservée à des PJ mâles uniquement.|FOR 11, DEX 18, CON 9, INT 17, SAG 11, CHA 16.",
         "urls": [
             "https://downloads.weaselmods.net/download/aeon/"
         ],
@@ -2547,7 +2547,7 @@
     {
         "id": 72,
         "name": "Ascalon's Breagar",
-        "description": "Ce mod ajoute Breagar du clan Bardormar en tant que PNJ recrutable. D'alignement loyal bon, il dispose de son propre kit de forgeron nain. Le mod contient des dialogues, des créatures, des objets et des quêtes.|Pour BGT et EET, Breagar fonctionne comme un personnage continu tout au long de la trilogie. Il existe trois épilogues différents dans ToB selon les choix du joueur.",
+        "description": "Ce mod ajoute Breagar du clan Bardormar en tant que PNJ recrutable. D'alignement loyal bon, il dispose de son propre kit de forgeron nain. Le mod contient des dialogues, des créatures, des objets et des quêtes.|Pour BGT et EET, Breagar fonctionne comme un personnage continu tout au long de la trilogie. Il existe trois épilogues différents dans ToB selon les choix du joueur.|FOR 17, DEX 14, CON 19, INT 10, SAG 12, CHA 11.",
         "urls": [
             "https://baldurs-gate.de/index.php?threads/44520/",
             "https://www.gibberlings3.net/forums/topic/29259-breagar-npc-mod-for-bg1-and-bgii-kerzenburgforum/",
@@ -2696,7 +2696,7 @@
     {
         "id": 75,
         "name": "Ashar NPC",
-        "description": "Ce mod ajoute un nouveau PNJ recrutable, la barbare demi-orque Ashar qui se trouve près de l'entrée de la Couronne de Cuivre, juste après la mort du propriétaire de la taverne, Lehtinan. Ayant subi l'esclavage, Ashar est une femme agressive, simple, mais aussi un peu confuse. N'hésitez pas à lui dire ce que vous voulez, lors de vos entretiens, il n'y a pas de réponses \"correctes\" ou \"incorrectes\". Cependant, n'oubliez pas que vos paroles et vos actes peuvent avoir un grand impact sur son caractère. Le mod propose environ 20 dialogues avec le personnage principal, une petite romance, ainsi que de nombreuses interactions, commentaires et plaisanteries avec tous les PNJ officiels.",
+        "description": "Ce mod ajoute un nouveau PNJ recrutable, la barbare demi-orque Ashar qui se trouve près de l'entrée de la Couronne de Cuivre, juste après la mort du propriétaire de la taverne, Lehtinan. Ayant subi l'esclavage, Ashar est une femme agressive, simple, mais aussi un peu confuse. N'hésitez pas à lui dire ce que vous voulez, lors de vos entretiens, il n'y a pas de réponses \"correctes\" ou \"incorrectes\". Cependant, n'oubliez pas que vos paroles et vos actes peuvent avoir un grand impact sur son caractère. Le mod propose environ 20 dialogues avec le personnage principal, une petite romance, ainsi que de nombreuses interactions, commentaires et plaisanteries avec tous les PNJ officiels.|FOR 17, DEX 17, CON 17, INT 10, SAG 10, CHA 8.",
         "urls": [
             "https://athkatla.cob-bg.pl/viewtopic.php?t=6982",
             "https://www.shsforums.net/topic/59654-mod-ashar-npc/",
@@ -2962,7 +2962,7 @@
     {
         "id": 82,
         "name": "Auden NPC",
-        "description": "Ce mod ajoute un nouveau PNJ recrutable, Auden, un moine loyal neutre, que vous pouvez recruter dans la Couronne de Cuivre, caché dans la fumerie d'opium. Si vous ne voulez pas qu'il se joigne à vous, demandez-lui de vous parler d'Athkatla...",
+        "description": "Ce mod ajoute un nouveau PNJ recrutable, Auden, un moine loyal neutre, que vous pouvez recruter dans la Couronne de Cuivre, caché dans la fumerie d'opium. Si vous ne voulez pas qu'il se joigne à vous, demandez-lui de vous parler d'Athkatla...|FOR 15, DEX 18, CON 17, INT 13, SAG 17, CHA 8.",
         "urls": [
             "https://www.shsforums.net/topic/50833-auden-npc-monk-mod-for-bg2soa/#entry544318",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/Auden-BG2-Mod-v1.3c.zip"
@@ -3416,7 +3416,7 @@
     {
         "id": 94,
         "name": "Avi Maya Project",
-        "description": "Ce mod ajoute une femme spectrale nommée Avi Maya. C'est une barde mort-vivante qui est impatiente de rejoindre votre groupe. Elle a ses propres quêtes, peut être romancée et dispose d'interactions avec les autres membres du groupe. Selon l'auteur, les dialogues ont été écrit avec beaucoup d'humour noir.",
+        "description": "Ce mod ajoute une femme spectrale nommée Avi Maya. C'est une barde mort-vivante qui est impatiente de rejoindre votre groupe. Elle a ses propres quêtes, peut être romancée et dispose d'interactions avec les autres membres du groupe. Selon l'auteur, les dialogues ont été écrit avec beaucoup d'humour noir.|FOR 13, DEX 15, CON 10, INT 19, SAG 16, CHA 16.",
         "urls": [
             "https://athkatla.cob-bg.pl/viewtopic.php?t=2996",
             "https://baldur.cob-bg.pl/node/1161"
@@ -3448,7 +3448,7 @@
     {
         "id": 95,
         "name": "Ayden Project",
-        "description": "Ayden est avant tout un mod PNJ, mais il est livré avec un ensemble de composants supplémentaires :|- Profil de Warlock pour la classe des voleurs, basée sur la classe Warlock de la troisième édition de D&D. |- Ayden NPC : un PNJ recrutable avec ses propres dialogues, badinages et quêtes.|- Marche dans l'ombre : une capacité permettant de réduire la vitesse de déplacement.|- L'abri d'Ayden : un plan de poche où le groupe peut se reposer et stocker des objets.|- Création d'objets : un système simple de création d'objets, sous forme de dialogue avec le PNJ.|- Baguettes pour les voleurs : permet l'utilisation des baguettes pour tous les profils de voleur.|- Compétences des voleurs : tous les profils de voleurs peuvent utiliser des masses et des lances.",
+        "description": "Ayden est avant tout un mod PNJ, mais il est livré avec un ensemble de composants supplémentaires :|- Profil de Warlock pour la classe des voleurs, basée sur la classe Warlock de la troisième édition de D&D. |- Ayden NPC : un PNJ recrutable avec ses propres dialogues, badinages et quêtes.|- Marche dans l'ombre : une capacité permettant de réduire la vitesse de déplacement.|- L'abri d'Ayden : un plan de poche où le groupe peut se reposer et stocker des objets.|- Création d'objets : un système simple de création d'objets, sous forme de dialogue avec le PNJ.|- Baguettes pour les voleurs : permet l'utilisation des baguettes pour tous les profils de voleur.|- Compétences des voleurs : tous les profils de voleurs peuvent utiliser des masses et des lances.|FOR 13, DEX 16, CON 8, INT 13, SAG 12, CHA 17.",
         "urls": [
             "https://keneth-dev.github.io/bgee-ayden/",
             "https://www.gibberlings3.net/forums/topic/34019-v2619-ayden-project-bgee-bgsod/",
@@ -7439,7 +7439,7 @@
     {
         "id": 208,
         "name": "Calin",
-        "description": "Ce mod ajoute Calin, un maître-lame humain dans BG2. Calin est neutre et bon et romancera une femme elfe, demi-elfe, humaine et d'alignement non-maléfique. Il a des banters avec tous les PNJ de Bioware; ainsi qu'une voie de l'amitié. Il a un sérieux problème avec les voleurs, et ses commentaires dans le jeu sont durs, mais il a une raison pour cela. Il fera la cour aux voleuses, mais il demandera au PC de faire un sacrifice pour que la romance ait lieu si le PC s'est affilié à la guilde des voleurs... Sinon, il quittera le groupe.",
+        "description": "Ce mod ajoute Calin, un maître-lame humain dans BG2. Calin est neutre et bon et romancera une femme elfe, demi-elfe, humaine et d'alignement non-maléfique. Il a des banters avec tous les PNJ de Bioware; ainsi qu'une voie de l'amitié. Il a un sérieux problème avec les voleurs, et ses commentaires dans le jeu sont durs, mais il a une raison pour cela. Il fera la cour aux voleuses, mais il demandera au PC de faire un sacrifice pour que la romance ait lieu si le PC s'est affilié à la guilde des voleurs... Sinon, il quittera le groupe.|FOR 16, DEX 18, CON 14, INT 11, SAG 10, CHA 15.",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/calin",
             "https://www.nexusmods.com/baldursgate2ee/mods/30"
@@ -7533,7 +7533,7 @@
     {
         "id": 211,
         "name": "Cassia-NPC",
-        "description": "Ce mod ajoute un nouveau compagnon à l'IWD:EE - la tiefling Cassia. Cassia est une jeune clerc de Heaum originaire de Mirabar qui s'est rendue à Easthaven à la demande de son église pour apporter toute l'aide possible à l'expédition de Hrothgar. En tant que heaumite dévouée, elle fera tout ce qui est en son pouvoir pour protéger les Dix Cités et éradiquer les maux qui les menacent. Mais sera-t-elle à la hauteur de la tâche ou cédera-t-elle sous la responsabilité ?||Cassia est un clerc de classe unique avec le kit prêtre de Heaum et peut être recrutée à l'extérieur du Temple de Tempus à Easthaven. Elle est associée à une petite quête qui se terminera naturellement au cours du jeu et peut être romancée par des nains, des humains, des elfes, des demi-elfes et des demi-orques mâles ayant un score de charisme de 10 ou plus. Elle réagira et interviendra à la fois dans le jeu principal et dans l'extension. Elle a tendance à mieux s'entendre avec les personnages bons, mais elle n'hésitera pas à suivre l'exemple d'un joueur mauvais tant qu'il ne franchit pas de ligne rouge morale.||Cassia a un contenu partagé avec [[1082]], [[1025]], [[165]], [[971]] et [[1043]].",
+        "description": "Ce mod ajoute un nouveau compagnon à l'IWD:EE - la tiefling Cassia. Cassia est une jeune clerc de Heaum originaire de Mirabar qui s'est rendue à Easthaven à la demande de son église pour apporter toute l'aide possible à l'expédition de Hrothgar. En tant que heaumite dévouée, elle fera tout ce qui est en son pouvoir pour protéger les Dix Cités et éradiquer les maux qui les menacent. Mais sera-t-elle à la hauteur de la tâche ou cédera-t-elle sous la responsabilité ?||Cassia est un clerc de classe unique avec le kit prêtre de Heaum et peut être recrutée à l'extérieur du Temple de Tempus à Easthaven. Elle est associée à une petite quête qui se terminera naturellement au cours du jeu et peut être romancée par des nains, des humains, des elfes, des demi-elfes et des demi-orques mâles ayant un score de charisme de 10 ou plus. Elle réagira et interviendra à la fois dans le jeu principal et dans l'extension. Elle a tendance à mieux s'entendre avec les personnages bons, mais elle n'hésitera pas à suivre l'exemple d'un joueur mauvais tant qu'il ne franchit pas de ligne rouge morale.||Cassia a un contenu partagé avec [[1082]], [[1025]], [[165]], [[971]] et [[1043]].|FOR 18, DEX 16, CON 15, INT 11, SAG 10, CHA 15.",
         "urls": [
             "https://forums.beamdog.com/discussion/87511/",
             "https://github.com/Arvendor/CassiaNPC"
@@ -9043,7 +9043,7 @@
     {
         "id": 254,
         "name": "Coondred NPC",
-        "description": "Ce mod ajoute un PNJ particulier : un raton laveur, druide totémique, qui a été élevé par un clan de druides demi-elfes.",
+        "description": "Ce mod ajoute un PNJ particulier : un raton laveur, druide totémique, qui a été élevé par un clan de druides demi-elfes.|FOR 12, DEX 17, CON 11, INT 10, SAG 15, CHA 16.",
         "urls": [
             "https://www.mediafire.com/download/1z8wa841ynoa6u3/Coondred1.3.rar."
         ],
@@ -9336,7 +9336,7 @@
     {
         "id": 262,
         "name": "Corwin",
-        "description": "Ce mod rend la capitaine Corwin Poing Enflammé disponible en tant que PNJ recrutable dès que vous entrez dans la ville de La Porte de Baldur. Scar vous la présente lors de votre première rencontre, et vous pouvez la recruter pour vous aider dans les affaires qui agitent sa ville natale. Cependant, elle vous quittera lors de votre départ vers Amn, car elle est loyale envers sa ville, ses habitants et le Poing Flamboyant, et ne les abandonnera pas. Ce mod contient :|- des interactions avec le protagoniste pour étoffer l'amitié initiale (ou non) qui se transforme en une possible romance dans SoD.|- Des rencontres et des cinématiques qui enrichissent l'histoire de Corwin.|- Une Corwin continue : Elle vous suivra dans le premier donjon de SoD. Elle gardera son rôle original accompagnatrice sans vous rejoindre, mais ses dialogues et réactions refléteront le fait qu'elle vous connaît déjà et a voyagé avec vous. Elle redevient à nouveau recrutable dès que vous quittez la ville et elle continuera à jouer le même rôle que dans BG1.|- Le contenu original de SoD (y compris la romance) est préservé, mais adapté à la possibilité qu'elle connaisse déjà le protagoniste avant la croisade. Dans l'ensemble, le contenu pré-SoD est destiné à donner à Corwin une personnalité plus profonde et à rendre ses actions et décisions dans SoD plus transparentes.|Note : Corwin est une archère utile dans BG1. Elle conservera donc ses gains de statistiques, son XP, son équipement, etc., lorsqu'elle vous rejoint à nouveau dans SoD.",
+        "description": "Ce mod rend la capitaine Corwin Poing Enflammé disponible en tant que PNJ recrutable dès que vous entrez dans la ville de La Porte de Baldur. Scar vous la présente lors de votre première rencontre, et vous pouvez la recruter pour vous aider dans les affaires qui agitent sa ville natale. Cependant, elle vous quittera lors de votre départ vers Amn, car elle est loyale envers sa ville, ses habitants et le Poing Flamboyant, et ne les abandonnera pas. Ce mod contient :|- des interactions avec le protagoniste pour étoffer l'amitié initiale (ou non) qui se transforme en une possible romance dans SoD.|- Des rencontres et des cinématiques qui enrichissent l'histoire de Corwin.|- Une Corwin continue : Elle vous suivra dans le premier donjon de SoD. Elle gardera son rôle original accompagnatrice sans vous rejoindre, mais ses dialogues et réactions refléteront le fait qu'elle vous connaît déjà et a voyagé avec vous. Elle redevient à nouveau recrutable dès que vous quittez la ville et elle continuera à jouer le même rôle que dans BG1.|- Le contenu original de SoD (y compris la romance) est préservé, mais adapté à la possibilité qu'elle connaisse déjà le protagoniste avant la croisade. Dans l'ensemble, le contenu pré-SoD est destiné à donner à Corwin une personnalité plus profonde et à rendre ses actions et décisions dans SoD plus transparentes.|Note : Corwin est une archère utile dans BG1. Elle conservera donc ses gains de statistiques, son XP, son équipement, etc., lorsqu'elle vous rejoint à nouveau dans SoD.|FOR 18/5, DEX 15, CON 14, INT 12, SAG 14, CHA 14.",
         "urls": [
             "https://github.com/RoxanneSHS/Corwin"
         ],
@@ -9969,7 +9969,7 @@
     {
         "id": 280,
         "name": "Dace NPC",
-        "description": "Dace Linton est une chasseuse de primes chaotique neutre trentenaire. Vous la trouverez dans la partie basse de la Promenade de Waukyne d'où elle vous interpellera si vous quittez ou pénétrez dans le lieu. Elle dispose de contenu pour SoA et ToB avec notamment une romance disponible pour les PJ masculins et féminins sans restriction de race, une voie de l'amitié sur le même principe, de nombreux banters et interjections, de nouvelles musiques, des objets personnels et un petit cadeau pour le PJ dans ToB.",
+        "description": "Dace Linton est une chasseuse de primes chaotique neutre trentenaire. Vous la trouverez dans la partie basse de la Promenade de Waukyne d'où elle vous interpellera si vous quittez ou pénétrez dans le lieu. Elle dispose de contenu pour SoA et ToB avec notamment une romance disponible pour les PJ masculins et féminins sans restriction de race, une voie de l'amitié sur le même principe, de nombreux banters et interjections, de nouvelles musiques, des objets personnels et un petit cadeau pour le PJ dans ToB.|FOR 13, DEX 17, CON 15, INT 14, SAG 12, CHA 12.",
         "urls": [
             "https://www.shsforums.net/forum/572-dace/",
             "https://github.com/Spellhold-Studios/Dace-NPC"
@@ -46674,7 +46674,7 @@
     {
         "id": 1309,
         "name": "Bethany",
-        "description": "Le mod ajoute un nouveau compagnon, Bethany Vivielle Helena Corthala, une médium (kit de shaman) qui a toujours rêvé d'être chapelière. Cependant, elle a la capacité de voir les morts et il est vraiment difficile d'être une experte de la mode, d'assister à tous ces événements sociaux et de montrer à tout le monde à quel point on peut être génial quand on est hanté par les morts. Elle a donc besoin d'un peu de distraction et... de célébrité, car cela peut être lui très utile car elle veut ouvrir sa propre entreprise quand tout sera fini.",
+        "description": "Le mod ajoute un nouveau compagnon, Bethany Vivielle Helena Corthala, une médium (kit de shaman) qui a toujours rêvé d'être chapelière. Cependant, elle a la capacité de voir les morts et il est vraiment difficile d'être une experte de la mode, d'assister à tous ces événements sociaux et de montrer à tout le monde à quel point on peut être génial quand on est hanté par les morts. Elle a donc besoin d'un peu de distraction et... de célébrité, car cela peut être lui très utile car elle veut ouvrir sa propre entreprise quand tout sera fini.|FOR 9, DEX 18, CON 12, INT 13, SAG 17, CHA 17.",
         "urls": [
             "https://weaselmods.net/forumdisplay.php?fid=69",
             "https://forums.beamdog.com/discussion/88348/",
@@ -57174,7 +57174,7 @@
     {
         "id": 1619,
         "name": "Areen NPC for BGIIEE",
-        "description": "Areen est un mage sauvage doué qui aborde son art de manière très sérieuse et académique. Bien qu'il ait des statistiques bien optimisées, il a aussi un problème qui peut être résolu progressivement au cours du jeu. Pour le moment il dispose de peu de banters avec les autres personnages Bioware. Il dispose aussi de quelques objets.",
+        "description": "Areen est un entropiste doué qui aborde son art de manière très sérieuse et académique. Bien qu'il ait des statistiques bien optimisées, il a aussi un problème qui peut être résolu progressivement au cours du jeu. Pour le moment il dispose de peu de banters avec les autres personnages Bioware. Il dispose aussi de quelques objets.|FOR 14, DEX 10, CON 16, INT 19, SAG 16, CHA 12.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/39345-npc-mod-release-areen-the-wild-mage-for-bg2ee-and-eet/",
             "https://github.com/BE-Mods/Areen2"
@@ -57206,7 +57206,7 @@
     {
         "id": 1620,
         "name": "Areen",
-        "description": "Areen est un mage sauvage doué qui aborde son art de manière très sérieuse et académique. Il peut être recruté au chapitre 1 et est très difficile à manquer. Bien qu'il ait des statistiques bien optimisées, il a aussi un problème qui peut être résolu progressivement au cours du jeu. Pour le moment il dispose de peu de banters avec les autres personnages Bioware. Il dispose aussi de quelques objets.",
+        "description": "Areen est un entropiste doué qui aborde son art de manière très sérieuse et académique. Il peut être recruté au chapitre 1 et est très difficile à manquer. Bien qu'il ait des statistiques bien optimisées, il a aussi un problème qui peut être résolu progressivement au cours du jeu. Pour le moment il dispose de peu de banters avec les autres personnages Bioware. Il dispose aussi de quelques objets.|FOR 14, DEX 10, CON 16, INT 19, SAG 16, CHA 12.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/39228-npc-mod-release-areen-the-wild-mage-for-bgee-version-13/",
             "https://github.com/BE-Mods/Areen1/"
@@ -61876,7 +61876,7 @@
     {
         "id": 1766,
         "name": "Arszyk's Wonderful Decay",
-        "description": "Arszyk est un guerrier/druide d'alignement neutre mauvais, un vampire qui a été envoyé à Icewind Dale pour trouver un artefact perdu, mais qui entre-temps s'est attiré des ennuis et a besoin d'un coup de main s'il veut reprendre ses recherches. Il est accompagné de quelques interjections, objets et d'un kit de druide (Decay Overseer, inclus également dans [[1516]] du même auteur).|Vous pouvez flirter avec Arszyk, mais le mod ne comprend pas de véritable romance.",
+        "description": "Arszyk est un guerrier/druide d'alignement neutre mauvais, un vampire qui a été envoyé à Icewind Dale pour trouver un artefact perdu, mais qui entre-temps s'est attiré des ennuis et a besoin d'un coup de main s'il veut reprendre ses recherches. Il est accompagné de quelques interjections, objets et d'un kit de druide (Decay Overseer, inclus également dans [[1516]] du même auteur).|Vous pouvez flirter avec Arszyk, mais le mod ne comprend pas de véritable romance.|FOR 21, DEX 16, CON 17, INT 14, SAG 19, CHA 15.",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=71",
             "https://forums.beamdog.com/discussion/89395/",
