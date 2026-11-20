@@ -256,7 +256,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "auto",
         "safe": 2,
         "languages": [
             "en",
@@ -2023,9 +2023,11 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": [
             "stable"
         ],
@@ -2189,9 +2191,11 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": [
             "embed"
         ],
@@ -11532,9 +11536,11 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "auto",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": [
             "stable"
         ],
@@ -13591,9 +13597,11 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": [
             "beta"
         ],
@@ -15275,9 +15283,11 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": [
             "stable"
         ],
@@ -16195,7 +16205,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "todo",
         "safe": 2,
         "languages": [
             "de",
@@ -21918,12 +21928,9 @@
             "Sort et objet"
         ],
         "games": [
-            "BG2",
-            "BGT",
             "BG2EE",
             "EET",
-            "IWDEE",
-            "PSTEE"
+            "IWDEE"
         ],
         "authors": [
             "Deratiseur"
@@ -31975,7 +31982,7 @@
     {
         "id": 901,
         "name": "Rukrakia",
-        "description": "Ce mod ajoute un nouveau PNJ, Rukrakia, originaire des montagnes du Calimshan. Généralement amicale et sympathique, c'est aussi une guerrière/voleuse compétente qui se sert impitoyablement de son couteau. Elle est ouverte à une romance avec un personnage masculin et dispose de ses propres quêtes. De nombreuses heures de jeu, de nouvelles zones (ToB uniquement).|FOR 15, DEX 24, CON 16, INT 18, SAG 16, CHA 21.",
+        "description": "Ce mod ajoute un nouveau PNJ, Rukrakia, originaire des montagnes du Calimshan. Généralement amicale et sympathique, c'est aussi une guerrière/voleuse compétente qui se sert impitoyablement de son couteau. Elle est ouverte à une romance avec un personnage masculin et dispose de ses propres quêtes. De nombreuses heures de jeu, de nouvelles zones (ToB uniquement). Attention, ce mod écrase les fichiers, dont la worldmap.|FOR 15, DEX 24, CON 16, INT 18, SAG 16, CHA 21.",
         "urls": [
             "https://www.shsforums.net/topic/61044-rukrakia/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/1309492052_rukrakiav.08.7z"
@@ -31995,7 +32002,7 @@
             "L'audio est en anglais."
         ],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "kr"
         ],
@@ -38969,7 +38976,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "auto",
+        "translation_state": "todo",
         "safe": 2,
         "languages": [
             "en",
@@ -41158,9 +41165,11 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "auto",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": [
             "stable"
         ],
@@ -52472,7 +52481,7 @@
     {
         "id": 1478,
         "name": "Dualadins - Paladins can dual-class",
-        "description": "Ce mod propose de lever des restrictions du moteur jeu qui empêche les Paladins d'être multiclassé. Même l'utilisation d'éditeurs de sauvegardes entraînait un plantage du jeu.",
+        "description": "Ce mod propose de lever des restrictions du moteur jeu qui empêche les Paladins d'être multiclassé. Mais l'utilisation d'éditeurs de sauvegardes entraînait un plantage du jeu.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38553-sci-dualadins/",
             "https://www.nexusmods.com/baldursgate/mods/75/",
@@ -58724,11 +58733,11 @@
             "cz"
         ],
         "status": [
-            "missing"
+            "stable"
         ],
         "last_update": "2009-04-01",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "setup-trap"
     },
     {
         "id": 1666,
@@ -66705,8 +66714,7 @@
         ],
         "games": [
             "BG2EE",
-            "EET",
-            "IWDEE"
+            "EET"
         ],
         "authors": [
             "Deratiseur"
