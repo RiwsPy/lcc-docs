@@ -29418,5 +29418,161 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2163,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Traduction russe de Planescape: Torment comprenant le jeu, son interface, des polices cyrilliques, les mods de Qwinn et divers ajouts."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2164,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ensemble de correctifs complémentaires pour [[2167]] : corrections et ajustements apportés à la version finale, puis affinés grâce aux retours des joueurs."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2165,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Éditeur de cartes dans le navigateur utilisant les modèles et sprites de Lionheart: Legacy of the Crusader pour créer des cartes statiques compatibles Infinity Engine. Permet de composer des terrains, placer des objets avec leurs ombres et exporter l'intégralité des cartes sous format PNG ou BAM."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2166,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Born2BSalty's Infinity Orchestrator (BIO) est un programme d'installation automatisé de mods capable d'installer des configurations complètes de mods, de 0 à 100 %, en un seul clic. C'est également un puissant outil de création de listes de mods qui vous aide à créer d'énormes configurations de « mégamods », que ce soit pour votre usage personnel ou pour les partager avec d'autres."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2167,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Compilation personnalisée pour une installation Big World, réunissant correctifs, équilibrages, changements de règles, objets, PNJ, renforcement des ennemis, randomisation et kits spécifiques."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2168,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ce paquet permet d'ajouter ou de supprimer des entrées dans le menu contextuel des gestionnaires de fichiers afin d'installer des mods WeiDU, notamment sous Windows et Linux."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2169,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Projet permettant d’explorer Athas, le monde de Dark Sun, dans Baldur’s Gate II au moyen de nouvelles zones et d’une interface rappelant les premiers jeux Zelda."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2170,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Collection de portraits, voix, dialogues et personnages préconfigurés à importer. Comprend notamment des personnages de Skyrim, Neverwinter Nights 2 et The Legend of Korra."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2171,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Pack chinois de voix personnalisées pour BG2, à utiliser lors de la création d’un personnage."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2172,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Pack de voix de Neverwinter Nights adaptées à BG2 : voix masculines délirante et nerveuse, puis voix féminines et répliques contextuelles supplémentaires."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2173,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Remplace certains effets visuels de sorts de BG2 par les animations d’Icewind Dale II."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2174,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Remplace les silhouettes d’équipement de BG2 par des versions inspirées de BG1, tout en conservant les icônes d’objets de BG2."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

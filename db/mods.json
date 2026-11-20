@@ -5857,7 +5857,8 @@
         "name": "Battle of Helm's Deep",
         "description": "Egrevyn a testé ce mod, inspiré de la bataille du gouffre de Helm dans le Seigneur des Anneaux : \"<i>À part un bug très chiant (CluaConsole obligatoire), c'est vraiment amusant comme mod. Niveau difficulté, c'est du gâteau, pas tellement d'opposition. Et c'est très basique au niveau gameplay, au début, on doit se borner à concentrer nos tirs d'arc sur les orques. Mais on passe un très bon moment, car c'est vraiment sympa de retrouver l'ambiance du SdA dans BG. Portraits et voix du film intégrés. Ne cherchez pas à jouer à BG avec ce mod, mais juste à diriger la bataille de Helm. Marrant</i>\".",
         "urls": [
-            "https://america.iegmc.com/bohd/bohd_v100.zip"
+            "https://america.iegmc.com/bohd/bohd_v100.zip",
+            "https://fileplanet.download.it/p-6598/BATTLE-at-the-DEEP-mini-mod"
         ],
         "categories": [
             "Conversion"
@@ -5958,7 +5959,8 @@
         "name": "Berserker Minsc",
         "description": "Ce mod attribue à Minsc un profil de Berserker fait sur mesure qui l'empêche d'attaquer le groupe quand il est sous furie furieuse.",
         "urls": [
-            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Berserker_Minsc.zip"
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Berserker_Minsc.zip",
+            "https://america.iegmc.com/drew/Berserker_Minsc.zip"
         ],
         "categories": [
             "PNJ (autre)"
@@ -5990,7 +5992,8 @@
         "description": "Ce très vieux mod permettait de contourner la contrainte du moteur du jeu qui disposait d'un nombre limité d'animations de créatures qu'il pouvait utiliser. Il ajoutait donc de nombreuses animations des jeux IWD, IWD2 et BG1 dans BG2. Cependant, sa nature très technique (en gros, il utilisait les armes dont les créatures étaient équipées pour modifier leur apparence) le rend difficile à utiliser.",
         "urls": [
             "http://forums.blackwyrmlair.net/index.php?showforum=65",
-            "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=15"
+            "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=15",
+            "https://america.iegmc.com/galactygon/LC_BestialAnimP1V1.exe"
         ],
         "categories": [
             "Cosmétique"
@@ -19347,6 +19350,7 @@
         "name": "Improved Summons",
         "description": "Vous êtes du genre à envoyer une armée de chair à canon à l'assaut de vos ennemis ? Vous cherchez des solaires plus puissants ? Vous désirez invoquer des spectateurs à la place de ces ridicules vers charognards ? Vous préférez les vampires aux wivernes et regrettez que vos mort-vivants ne soient pas un peu plus costauds ? Ce mod est fait pour vous !",
         "urls": [
+            "https://trow.cc/board/index.php?showtopic=5471",
             "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Improved_Summons.rar",
             "https://github.com/Plutonium-X/SORTS_Summons"
         ],
@@ -20563,6 +20567,7 @@
         "name": "Jedi & Sith Kits",
         "description": "Ce mod ajoute deux profils de guerrier : Jedi et Sith.",
         "urls": [
+            "https://trow.cc/board/index.php?showtopic=9083",
             "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Jedi_and_Sith.rar"
         ],
         "categories": [
@@ -22321,6 +22326,7 @@
         "name": "Legion of Hell",
         "description": "Ce mod ajoute cinq nouveaux profils tirés des chapitres interdits (D&D 3e édition) : Disciple de Dispater (guerrier), Disciple de Mammon (voleur), Disciple de Méphistophélès (guerrier), Disciple de Belzébuth (voleur) et Disciple d'Asmodée (prêtre).",
         "urls": [
+            "https://trow.cc/board/index.php?showtopic=15191",
             "https://www.shsforums.net/topic/55145-bwp-v112-released/page-6#entry557184"
         ],
         "categories": [
@@ -22331,7 +22337,8 @@
             "BGT"
         ],
         "authors": [
-            "Leonardo Watson"
+            "Niulang Aljin",
+            "HALF-FIEND"
         ],
         "team": [],
         "notes": [
@@ -35012,7 +35019,7 @@
         "name": "Spell Weapons",
         "description": "Aussi appelé `Make the Zerth Blade Useful`, ce mod vous donne une fenêtre de 60 secondes après avoir déséquipé l'épée Lame Zerth, pour le ré-équiper sans perdre vos emplacements de sorts supplémentaires. Il fonctionne également sur les armes similaires dans IWD:EE, telles que les dagues de mage et les marteaux de guerre sanctifiés.",
         "urls": [
-            "https://github.com/UnearthedArcana/spell_weapons"
+            "https://www.mediafire.com/file/35gi9rkq75f2wzx/spell_weapons.zip/file"
         ],
         "categories": [
             "Sort et objet"
@@ -35035,7 +35042,7 @@
             "en"
         ],
         "status": [
-            "missing"
+            "archived"
         ],
         "last_update": "2017-08-01",
         "compatibilities": {
@@ -50115,7 +50122,8 @@
         "description": "Ce mod propose d'améliorer les moines kittés ou non (avec choix de composant). Il gagne de nouvelles compétences au fil des niveaux comme la capacité de soigner, d'utiliser Poussière scintillante ou Grande Malédiction, de devenir invisible… À haut niveau, ce moine peut apprendre et utiliser les compétences de Balthazar.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=16339",
-            "https://www.gibberlings3.net/forums/topic/38590-improvedmonk-balthazar-mode-armed-monk/"
+            "https://www.gibberlings3.net/forums/topic/38590-improvedmonk-balthazar-mode-armed-monk/",
+            "https://trow.cc/board/index.php?showtopic=12966"
         ],
         "categories": [
             "Kit"
@@ -51899,7 +51907,7 @@
         "name": "Dancing Sword mod",
         "description": "Ce mod crée un objet qui permet d'invoquer une épée dansante de Mordenkainen une fois par jour.",
         "urls": [
-            "https://github.com/AaronKummer/DancingSwordMod"
+            "https://www.mediafire.com/file/c69nllqlxmxpshr/Dancing_Sword.zip/file"
         ],
         "categories": [
             "Sort et objet"
@@ -51920,7 +51928,7 @@
             "en"
         ],
         "status": [
-            "missing"
+            "archived"
         ],
         "last_update": "2021-07-01",
         "compatibilities": {},
@@ -63572,7 +63580,7 @@
         "name": "Heracles el Gólem",
         "description": "Ce mod vous permet d'avoir votre propre golem comme familier et garde personnel : Heracles. Ses capacités de combat s'améliorent en fonction du niveau du personnage joueur.",
         "urls": [
-            "http://www.clandlan.net/foros/topic/70630-presentando-a-heracles-el-golem-solicitud-de-guionistaescritor/"
+            "https://web.archive.org/web/20220528230348/http://www.clandlan.net/foros/topic/70630-presentando-a-heracles-el-golem-solicitud-de-guionistaescritor/"
         ],
         "categories": [
             "PNJ One Day"
@@ -75295,5 +75303,386 @@
         "last_update": "2026-11-03",
         "compatibilities": {},
         "tp2": "qac"
+    },
+    {
+        "id": 2163,
+        "name": "PST Arcane Pack",
+        "description": "Traduction russe de Planescape: Torment comprenant le jeu, son interface, des polices cyrilliques, les mods de Qwinn et divers ajouts.",
+        "urls": [
+            "https://www.arcanecoast.ru/forum/viewtopic.php?f=32&t=95"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "PST"
+        ],
+        "authors": [
+            "Macbeth",
+            "Aldark",
+            "Refiler",
+            "Si1ver",
+            "wooder"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "ru"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2021-12-31",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2164,
+        "name": "烤肉大世界修正合集 (BWP_Cabob Fix Collection)",
+        "description": "Ensemble de correctifs complémentaires pour [[2167]] : corrections et ajustements apportés à la version finale, puis affinés grâce aux retours des joueurs.",
+        "urls": [
+            "https://github.com/Sebastian-c4/Cabob_Utility"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "c4_angel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2018-10-10",
+        "compatibilities": {},
+        "tp2": "Cabob_Utility"
+    },
+    {
+        "id": 2165,
+        "name": "Lionheart Map Editor",
+        "description": "Éditeur de cartes dans le navigateur utilisant les modèles et sprites de Lionheart: Legacy of the Crusader pour créer des cartes statiques compatibles Infinity Engine. Permet de composer des terrains, placer des objets avec leurs ombres et exporter l'intégralité des cartes sous format PNG ou BAM.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41346-lionheart-map-editor/",
+            "https://www.shsforums.net/topic/62299-lionheart-map-editor/",
+            "https://github.com/AlleyV-Sc2/Lionheart-BG---Map-Editor-"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "AlleyV"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-07-06",
+        "compatibilities": {},
+        "tp2": "n/a"
+    },
+    {
+        "id": 2166,
+        "name": "Born2BSalty's Infinity Orchestrator",
+        "description": "Born2BSalty's Infinity Orchestrator (BIO) est un programme d'installation automatisé de mods capable d'installer des configurations complètes de mods, de 0 à 100 %, en un seul clic. C'est également un puissant outil de création de listes de mods qui vous aide à créer d'énormes configurations de « mégamods », que ce soit pour votre usage personnel ou pour les partager avec d'autres.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41606-tool-release-born2bsaltys-infinity-orchestrator-modlist-builder-and-one-click-auto-installer-wabbajack-equivalent/",
+            "https://forums.beamdog.com/discussion/90720/",
+            "https://github.com/Born2BSalty/Born2BSaltys_Infinity_Orchestrator"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Born2BSalty"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-11-14",
+        "compatibilities": {},
+        "tp2": "n/a"
+    },
+    {
+        "id": 2167,
+        "name": "烤肉版大世界 (BWP_Cabob)",
+        "description": "Compilation personnalisée pour une installation Big World, réunissant correctifs, équilibrages, changements de règles, objets, PNJ, renforcement des ennemis, randomisation et kits spécifiques.",
+        "urls": [
+            "https://trow.cc/board/showtopic=29768"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "四是而非"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2018-07-23",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2168,
+        "name": "WeiDU Context Menu",
+        "description": "Ce paquet permet d'ajouter ou de supprimer des entrées dans le menu contextuel des gestionnaires de fichiers afin d'installer des mods WeiDU, notamment sous Windows et Linux.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41505-install-with-weidu-context-menu-for-windows-and-linux/",
+            "https://github.com/InfinityTools/WeiDU-Context-Menu"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG",
+            "Tutu",
+            "BG2",
+            "BG2EE",
+            "BGT",
+            "EET",
+            "IWD",
+            "IWD2",
+            "PST",
+            "PSTEE",
+            "SoD",
+            "IWDEE"
+        ],
+        "authors": [
+            "Argent77"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-09-01",
+        "compatibilities": {},
+        "tp2": "n/a"
+    },
+    {
+        "id": 2169,
+        "name": "Dark Sun: Shattered Lands",
+        "description": "Projet permettant d’explorer Athas, le monde de Dark Sun, dans Baldur’s Gate II au moyen de nouvelles zones et d’une interface rappelant les premiers jeux Zelda.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/72931/"
+        ],
+        "categories": [
+            "Conversion"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Darkmaeko"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2019-09-27",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2170,
+        "name": "NWN2 Character Pack for BG:EE and IWD2",
+        "description": "Collection de portraits, voix, dialogues et personnages préconfigurés à importer. Comprend notamment des personnages de Skyrim, Neverwinter Nights 2 et The Legend of Korra.",
+        "urls": [
+            "https://www.playground.ru/baldurs_gate_enhanced_edition/file/baldurs_gate_enhanced_edition_nwn2_character_pack_for_bg_ee_and_iwd2-988181"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "IWD2"
+        ],
+        "authors": [
+            "Serzh_ak"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2016-10-24",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2171,
+        "name": "BG2原创配音 (BG2 Original Voice Pack)",
+        "description": "Pack chinois de voix personnalisées pour BG2, à utiliser lors de la création d’un personnage.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=11164"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Hieik"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2007-10-21",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2172,
+        "name": "[无冬1声音] 精神病 与 神经质 (NWN1 Voices: Psychotic & Neurotic)",
+        "description": "Pack de voix de Neverwinter Nights adaptées à BG2 : voix masculines délirante et nerveuse, puis voix féminines et répliques contextuelles supplémentaires.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=13987"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "ilwjw222"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-07-11",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2173,
+        "name": "michaelzihan做的IWD2法术效果 (IWD2 Spell Effects by michaelzihan)",
+        "description": "Remplace certains effets visuels de sorts de BG2 par les animations d’Icewind Dale II.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=10323"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "michaelzihan",
+            "sherlockye"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2007-08-05",
+        "compatibilities": {},
+        "tp2": "IWD2bam"
+    },
+    {
+        "id": 2174,
+        "name": "我修改后的纸娃娃美化 (Modified Paper Doll Enhancement)",
+        "description": "Remplace les silhouettes d’équipement de BG2 par des versions inspirées de BG1, tout en conservant les icônes d’objets de BG2.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=13984"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "xokboy"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2004-07-03",
+        "compatibilities": {},
+        "tp2": "non-weidu"
     }
 ]
