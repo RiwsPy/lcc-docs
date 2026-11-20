@@ -75684,5 +75684,389 @@
         "last_update": "2004-07-03",
         "compatibilities": {},
         "tp2": "non-weidu"
+    },
+    {
+        "id": 2175,
+        "name": "Andy B's Item Excel Mod",
+        "description": "Permet d'assouplir les restrictions de cumul des objets magiques influençant la classe d'armure en modifiant la table ITEMEXCL.2DA.",
+        "urls": [
+            "https://america.iegmc.com/mods_by_ab/abitemexcelmod/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "IWD",
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Andy B"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2006-11-25",
+        "compatibilities": {},
+        "tp2": "ABItemExcelMod"
+    },
+    {
+        "id": 2176,
+        "name": "Melee Option for Throwing Daggers",
+        "description": "Ajoute une option d'attaque en mêlée aux dagues de lancer de BG et BG2, y compris la dague de lancer empoisonnée de BG2. Ne s'installe pas si le composant équivalent du BG2 Fixpack est déjà installé.",
+        "urls": [
+            "https://america.iegmc.com/mods_by_ab/abm4dagg/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "BGT",
+            "Tutu",
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Andy B"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2007-01-01",
+        "compatibilities": {},
+        "tp2": "ABM4DAGG"
+    },
+    {
+        "id": 2177,
+        "name": "Andy B's Stackables Mod",
+        "description": "Permet de modifier les limites d'empilement de nombreux objets du jeu, avec plusieurs choix possibles lors de l'installation.",
+        "urls": [
+            "https://america.iegmc.com/mods_by_ab/abstak/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "BGT",
+            "Tutu",
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Andy B"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2006-11-25",
+        "compatibilities": {},
+        "tp2": "ABStackablesMod"
+    },
+    {
+        "id": 2178,
+        "name": "Andy B's Container Capacity Mod",
+        "description": "Permet de définir une capacité maximale de stockage pour les contenants du jeu.",
+        "urls": [
+            "https://america.iegmc.com/mods_by_ab/abccapmod/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "BGT",
+            "Tutu",
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Andy B"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2006-12-28",
+        "compatibilities": {},
+        "tp2": "ABContainerCapMod"
+    },
+    {
+        "id": 2179,
+        "name": "FixPack 1 for Baldur's Gate 1 & Easy TUTU",
+        "description": "Réunit au format WeiDU les correctifs Baldurdash pour BG1 et Easy Tutu, en améliore certains et en ajoute d'autres.",
+        "urls": [
+            "https://america.iegmc.com/mods_by_ab/abfixpack1/"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG",
+            "Tutu"
+        ],
+        "authors": [
+            "Andy B"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2006-12-31",
+        "compatibilities": {},
+        "tp2": "ABFixPack1"
+    },
+    {
+        "id": 2180,
+        "name": "BG2美化及增强mod (BG2 Beautification and Enhancement Mod)",
+        "description": "Compilation de personnalisations graphiques et d'ajustements de gameplay pour BG2/BGT : effets et icônes d'Icewind Dale, silhouettes des personnages, règles, classes, PNJ et objets. Certains composants peuvent recouper d'autres packs de modifications.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=14267"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "lksnake"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-08-20",
+        "compatibilities": {},
+        "tp2": "bam"
+    },
+    {
+        "id": 2181,
+        "name": "我的变形者“平衡”补丁 (My Shapeshifter Balance Patch)",
+        "description": "Rééquilibre le Métamorphe en faisant progresser ses formes de loup-garou selon le niveau. La forme normale devient polyvalente, tandis que le Grand loup-garou privilégie la mêlée, la régénération et la défense. Installation par remplacement de fichiers.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=6173"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "sherlockye"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2006-06-20",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2182,
+        "name": "博德之门 新增6个储物袋 (6 New Storage Bags)",
+        "description": "Ajoute six sacs de contenance à BGEE et BG2EE : trois dans la tente du festival de Nashkel où se trouvent Zordral et Bentha, et trois à l'étage de la maison de Gaelan Bayle.",
+        "urls": [
+            "https://mod.3dmgame.com/mod/25341"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "博德玩家"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2017-11-07",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2183,
+        "name": "巫妖商人v1.1 (Lich Items)",
+        "description": "Ajoute au Marché de l'Aventurier un marchand liche vendant des équipements rares : objets issus ou inspirés d'anciens mods, équipements améliorés de compagnons et créations originales.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=11890"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "lksnake"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2017-12-29",
+        "compatibilities": {},
+        "tp2": "lich"
+    },
+    {
+        "id": 2184,
+        "name": "巫妖物品1.1增强版 (Lich Items 1.1 Enhanced Edition)",
+        "description": "Extension de Lich Items 1.1 qui reprend le mod original et élargit le catalogue du marchand avec des équipements issus d'autres mods et des adaptations en chinois.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=15085"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "barkingdog"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-11-18",
+        "compatibilities": {},
+        "tp2": "lich"
+    },
+    {
+        "id": 2185,
+        "name": "Cow Kings Leathers for BG2TOB",
+        "description": "Ajoute trois pièces d'équipement inspirées du Cow King de Diablo et offrant des bonus supplémentaires lorsqu'elles sont portées ensemble. Les objets sont dissimulés sur des vaches d'Athkatla.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=13228"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "shohy"
+        ],
+        "team": [],
+        "notes": [
+            "Installer de préférence avant de visiter les zones où se trouvent les vaches concernées."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn",
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2010-09-09",
+        "compatibilities": {},
+        "tp2": "d2cow"
+    },
+    {
+        "id": 2186,
+        "name": "新人必备YYmod组件1 (YYmod Component 1)",
+        "description": "Premier composant fantaisiste du YYmod : ajoute une potion de vie à régénération prolongée et une potion de magie permettant temporairement de lancer beaucoup plus librement des sorts.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=16326"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "shadowword"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2009-05-05",
+        "compatibilities": {},
+        "tp2": ""
     }
 ]
