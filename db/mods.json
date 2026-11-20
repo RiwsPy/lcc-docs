@@ -75299,7 +75299,7 @@
     {
         "id": 2163,
         "name": "PST Arcane Pack",
-        "description": "Traduction russe de Planescape: Torment comprenant le jeu, son interface, des polices cyrilliques, les mods de Qwinn et divers ajouts réalisés par Aldark et Refiler.",
+        "description": "Traduction russe de Planescape: Torment comprenant le jeu, son interface, des polices cyrilliques, les mods de Qwinn et divers ajouts.",
         "urls": [
             "https://www.arcanecoast.ru/forum/viewtopic.php?f=32&t=95"
         ],
@@ -75310,8 +75310,11 @@
             "PST"
         ],
         "authors": [
+            "Macbeth",
             "Aldark",
-            "Refiler"
+            "Refiler",
+            "Si1ver",
+            "wooder"
         ],
         "team": [],
         "notes": [],
@@ -75323,14 +75326,14 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2021-12-31",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
     {
         "id": 2164,
         "name": "烤肉大世界修正合集 (BWP_Cabob Fix Collection)",
-        "description": "Ensemble de correctifs complémentaires pour BWP_Cabob : corrections et ajustements apportés à la version finale, puis affinés grâce aux retours des joueurs.",
+        "description": "Ensemble de correctifs complémentaires pour [[2167]] : corrections et ajustements apportés à la version finale, puis affinés grâce aux retours des joueurs.",
         "urls": [
             "https://github.com/Sebastian-c4/Cabob_Utility"
         ],
@@ -75355,14 +75358,16 @@
         ],
         "last_update": "2018-10-10",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "Cabob_Utility"
     },
     {
         "id": 2165,
         "name": "Lionheart Map Editor",
-        "description": "Éditeur de cartes dans le navigateur utilisant les modèles et sprites de Lionheart: Legacy of the Crusader pour créer des cartes statiques compatibles Infinity Engine. Permet de composer des terrains, placer des objets avec leurs ombres et exporter des cartes PNG ou des BAM.",
+        "description": "Éditeur de cartes dans le navigateur utilisant les modèles et sprites de Lionheart: Legacy of the Crusader pour créer des cartes statiques compatibles Infinity Engine. Permet de composer des terrains, placer des objets avec leurs ombres et exporter l'intégralité des cartes sous format PNG ou BAM.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/41346-lionheart-map-editor/"
+            "https://www.gibberlings3.net/forums/topic/41346-lionheart-map-editor/",
+            "https://www.shsforums.net/topic/62299-lionheart-map-editor/",
+            "https://github.com/AlleyV-Sc2/Lionheart-BG---Map-Editor-"
         ],
         "categories": [
             "Utilitaire"
@@ -75373,7 +75378,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "AlleyV"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -75382,15 +75389,17 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2026-07-06",
         "compatibilities": {},
         "tp2": "n/a"
     },
     {
         "id": 2166,
         "name": "Born2BSalty's Infinity Orchestrator",
-        "description": "Programme de gestion des installations WeiDU et de leur ordre pour les jeux Enhanced Edition, notamment BGEE, BG2EE et EET.",
+        "description": "Born2BSalty's Infinity Orchestrator (BIO) est un programme d'installation automatisé de mods capable d'installer des configurations complètes de mods, de 0 à 100 %, en un seul clic. C'est également un puissant outil de création de listes de mods qui vous aide à créer d'énormes configurations de « mégamods », que ce soit pour votre usage personnel ou pour les partager avec d'autres.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/41606-tool-release-born2bsaltys-infinity-orchestrator-modlist-builder-and-one-click-auto-installer-wabbajack-equivalent/",
+            "https://forums.beamdog.com/discussion/90720/",
             "https://github.com/Born2BSalty/Born2BSaltys_Infinity_Orchestrator"
         ],
         "categories": [
@@ -75399,7 +75408,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Born2BSalty"
@@ -75424,7 +75434,7 @@
             "https://trow.cc/board/showtopic=29768"
         ],
         "categories": [
-            "Utilitaire"
+            "Gameplay"
         ],
         "games": [
             "BG2"
@@ -75442,14 +75452,14 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2018-07-23",
         "compatibilities": {},
         "tp2": ""
     },
     {
         "id": 2168,
         "name": "WeiDU Context Menu",
-        "description": "Ajoute des commandes d’installation WeiDU au menu contextuel des gestionnaires de fichiers, notamment sous Windows et Linux.",
+        "description": "Ce paquet permet d'ajouter ou de supprimer des entrées dans le menu contextuel des gestionnaires de fichiers afin d'installer des mods WeiDU, notamment sous Windows et Linux.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/41505-install-with-weidu-context-menu-for-windows-and-linux/",
             "https://github.com/InfinityTools/WeiDU-Context-Menu"
@@ -75457,8 +75467,23 @@
         "categories": [
             "Utilitaire"
         ],
-        "games": [],
-        "authors": [],
+        "games": [
+            "BG",
+            "Tutu",
+            "BG2",
+            "BG2EE",
+            "BGT",
+            "EET",
+            "IWD",
+            "IWD2",
+            "PST",
+            "PSTEE",
+            "SoD",
+            "IWDEE"
+        ],
+        "authors": [
+            "Argent77"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -75474,9 +75499,9 @@
     {
         "id": 2169,
         "name": "Dark Sun: Shattered Lands",
-        "description": "Projet permettant d’explorer Athas, le monde de Dark Sun, dans Baldur’s Gate II au moyen de nouvelles zones et d’une interface rappelant les premiers jeux Zelda. L’accès se fait via des fichiers placés dans Override, puis une nouvelle partie.",
+        "description": "Projet permettant d’explorer Athas, le monde de Dark Sun, dans Baldur’s Gate II au moyen de nouvelles zones et d’une interface rappelant les premiers jeux Zelda.",
         "urls": [
-            "https://forums.beamdog.com/discussion/72931/dark-sun-shattered-lands/p1"
+            "https://forums.beamdog.com/discussion/72931/"
         ],
         "categories": [
             "Conversion"
@@ -75484,7 +75509,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Darkmaeko"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
@@ -75495,7 +75522,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2019-09-27",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
@@ -75513,7 +75540,9 @@
             "BGEE",
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Serzh_ak"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
@@ -75525,16 +75554,16 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2016-10-24",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
     {
         "id": 2171,
         "name": "BG2原创配音 (BG2 Original Voice Pack)",
-        "description": "Pack chinois de voix personnalisées pour BG2, à installer manuellement dans le dossier sounds puis à sélectionner lors de la création d’un personnage.",
+        "description": "Pack chinois de voix personnalisées pour BG2, à utiliser lors de la création d’un personnage.",
         "urls": [
-            "https://trow.cc/board/index.php?showtopic=11164&hl="
+            "https://trow.cc/board/index.php?showtopic=11164"
         ],
         "categories": [
             "Portrait et son"
@@ -75562,7 +75591,7 @@
     {
         "id": 2172,
         "name": "[无冬1声音] 精神病 与 神经质 (NWN1 Voices: Psychotic & Neurotic)",
-        "description": "Pack de voix de Neverwinter Nights adaptées à BG2 : voix masculines délirante et nerveuse, puis voix féminines et répliques contextuelles supplémentaires. Installation dans le dossier sounds.",
+        "description": "Pack de voix de Neverwinter Nights adaptées à BG2 : voix masculines délirante et nerveuse, puis voix féminines et répliques contextuelles supplémentaires.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=13987"
         ],
@@ -75592,7 +75621,7 @@
     {
         "id": 2173,
         "name": "michaelzihan做的IWD2法术效果 (IWD2 Spell Effects by michaelzihan)",
-        "description": "Remplace certains effets visuels de sorts de BG2 par les animations d’Icewind Dale II. Graphismes de michaelzihan, avec adaptation WeiDU par sherlockye.",
+        "description": "Remplace certains effets visuels de sorts de BG2 par les animations d’Icewind Dale II.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=10323"
         ],
@@ -75623,7 +75652,7 @@
     {
         "id": 2174,
         "name": "我修改后的纸娃娃美化 (Modified Paper Doll Enhancement)",
-        "description": "Remplace les silhouettes d’équipement de BG2 par des versions inspirées de BG1, tout en conservant les icônes d’objets de BG2. Installation manuelle dans Override.",
+        "description": "Remplace les silhouettes d’équipement de BG2 par des versions inspirées de BG1, tout en conservant les icônes d’objets de BG2.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=13984"
         ],
