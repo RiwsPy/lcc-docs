@@ -75295,5 +75295,357 @@
         "last_update": "2026-11-03",
         "compatibilities": {},
         "tp2": "qac"
+    },
+    {
+        "id": 2163,
+        "name": "PST Arcane Pack",
+        "description": "Traduction russe de Planescape: Torment comprenant le jeu, son interface, des polices cyrilliques, les mods de Qwinn et divers ajouts réalisés par Aldark et Refiler.",
+        "urls": [
+            "https://www.arcanecoast.ru/forum/viewtopic.php?f=32&t=95"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "PST"
+        ],
+        "authors": [
+            "Aldark",
+            "Refiler"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "ru"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2164,
+        "name": "烤肉大世界修正合集 (BWP_Cabob Fix Collection)",
+        "description": "Ensemble de correctifs complémentaires pour BWP_Cabob : corrections et ajustements apportés à la version finale, puis affinés grâce aux retours des joueurs.",
+        "urls": [
+            "https://github.com/Sebastian-c4/Cabob_Utility"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "c4_angel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2018-10-10",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2165,
+        "name": "Lionheart Map Editor",
+        "description": "Éditeur de cartes dans le navigateur utilisant les modèles et sprites de Lionheart: Legacy of the Crusader pour créer des cartes statiques compatibles Infinity Engine. Permet de composer des terrains, placer des objets avec leurs ombres et exporter des cartes PNG ou des BAM.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41346-lionheart-map-editor/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": "n/a"
+    },
+    {
+        "id": 2166,
+        "name": "Born2BSalty's Infinity Orchestrator",
+        "description": "Programme de gestion des installations WeiDU et de leur ordre pour les jeux Enhanced Edition, notamment BGEE, BG2EE et EET.",
+        "urls": [
+            "https://github.com/Born2BSalty/Born2BSaltys_Infinity_Orchestrator"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Born2BSalty"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-11-14",
+        "compatibilities": {},
+        "tp2": "n/a"
+    },
+    {
+        "id": 2167,
+        "name": "烤肉版大世界 (BWP_Cabob)",
+        "description": "Compilation personnalisée pour une installation Big World, réunissant correctifs, équilibrages, changements de règles, objets, PNJ, renforcement des ennemis, randomisation et kits spécifiques.",
+        "urls": [
+            "https://trow.cc/board/showtopic=29768"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "四是而非"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2168,
+        "name": "WeiDU Context Menu",
+        "description": "Ajoute des commandes d’installation WeiDU au menu contextuel des gestionnaires de fichiers, notamment sous Windows et Linux.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/41505-install-with-weidu-context-menu-for-windows-and-linux/",
+            "https://github.com/InfinityTools/WeiDU-Context-Menu"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-09-01",
+        "compatibilities": {},
+        "tp2": "n/a"
+    },
+    {
+        "id": 2169,
+        "name": "Dark Sun: Shattered Lands",
+        "description": "Projet permettant d’explorer Athas, le monde de Dark Sun, dans Baldur’s Gate II au moyen de nouvelles zones et d’une interface rappelant les premiers jeux Zelda. L’accès se fait via des fichiers placés dans Override, puis une nouvelle partie.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/72931/dark-sun-shattered-lands/p1"
+        ],
+        "categories": [
+            "Conversion"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2170,
+        "name": "NWN2 Character Pack for BG:EE and IWD2",
+        "description": "Collection de portraits, voix, dialogues et personnages préconfigurés à importer. Comprend notamment des personnages de Skyrim, Neverwinter Nights 2 et The Legend of Korra.",
+        "urls": [
+            "https://www.playground.ru/baldurs_gate_enhanced_edition/file/baldurs_gate_enhanced_edition_nwn2_character_pack_for_bg_ee_and_iwd2-988181"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "IWD2"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2171,
+        "name": "BG2原创配音 (BG2 Original Voice Pack)",
+        "description": "Pack chinois de voix personnalisées pour BG2, à installer manuellement dans le dossier sounds puis à sélectionner lors de la création d’un personnage.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=11164&hl="
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Hieik"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2007-10-21",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2172,
+        "name": "[无冬1声音] 精神病 与 神经质 (NWN1 Voices: Psychotic & Neurotic)",
+        "description": "Pack de voix de Neverwinter Nights adaptées à BG2 : voix masculines délirante et nerveuse, puis voix féminines et répliques contextuelles supplémentaires. Installation dans le dossier sounds.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=13987"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "ilwjw222"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-07-11",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2173,
+        "name": "michaelzihan做的IWD2法术效果 (IWD2 Spell Effects by michaelzihan)",
+        "description": "Remplace certains effets visuels de sorts de BG2 par les animations d’Icewind Dale II. Graphismes de michaelzihan, avec adaptation WeiDU par sherlockye.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=10323"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "michaelzihan",
+            "sherlockye"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2007-08-05",
+        "compatibilities": {},
+        "tp2": "IWD2bam"
+    },
+    {
+        "id": 2174,
+        "name": "我修改后的纸娃娃美化 (Modified Paper Doll Enhancement)",
+        "description": "Remplace les silhouettes d’équipement de BG2 par des versions inspirées de BG1, tout en conservant les icônes d’objets de BG2. Installation manuelle dans Override.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=13984"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "xokboy"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2004-07-03",
+        "compatibilities": {},
+        "tp2": "non-weidu"
     }
 ]
