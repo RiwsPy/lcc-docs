@@ -1,0 +1,4 @@
+docs/templates/*.html linguist-language=HTML
+docs/static/css/*.css linguist-language=CSS
+docs/static/js/*.js linguist-language=JavaScript
+*.py linguist-language=Python
