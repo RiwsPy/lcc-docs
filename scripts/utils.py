@@ -190,7 +190,7 @@ with open(DB_PATH / "author_pseudos.json", "r", encoding="utf-8") as f:
     author_pseudos = json.load(f)
 
 AUTHOR_PSEUDOS: dict[str, tuple[str]] = {
-    pseudo: k for k, pseudos in author_pseudos.items() for pseudo in pseudos
+    pseudo: k for k, pseudos in author_pseudos.items() for pseudo in pseudos if k != pseudo
 }
 
 

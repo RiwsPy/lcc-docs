@@ -5,7 +5,7 @@ from typing import Pattern
 from iteration_utilities import duplicates
 from pydantic import HttpUrl
 
-from scripts.utils import ModManager, get_languages, minify_url
+from scripts.utils import AUTHOR_PSEUDOS, ModManager, get_languages, minify_url
 from settings import language_flags
 
 mod_link: Pattern = re.compile(r"\[\[([0-9]+)\]\]")
@@ -18,9 +18,21 @@ def main(**kwargs):
     assert not duplicate_ids, f"🔴 ID duplicates : {' ; '.join(duplicate_ids)}"
 
     for language in get_languages():
+        print("\n" + "═" * 40)
+        print(f"LANGUAGE {language}")
         check_json(language)
 
+    # check authors pseudos
+    print("\n" + "═" * 40)
+    print("AUTHORS")
+    for mod in mod_list:
+        for author in mod["authors"]:
+            if author in AUTHOR_PSEUDOS:
+                print(f"🟡 {author} is a pseudo, should be {AUTHOR_PSEUDOS[author]}")
+
     # check tp2 unicity
+    print("\n" + "═" * 40)
+    print("TP2")
     duplicate_tp2s = set(duplicates(str(mod["tp2"]) for mod in mod_list))
     duplicate_tp2s -= {"", "n/a", "non-weidu"}
     if duplicate_tp2s:
