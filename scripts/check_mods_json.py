@@ -5,7 +5,7 @@ from typing import Pattern
 from iteration_utilities import duplicates
 from pydantic import HttpUrl
 
-from scripts.utils import ModManager, get_languages, minify_url
+from scripts.utils import AUTHOR_PSEUDOS, ModManager, get_languages, minify_url
 from settings import language_flags
 
 mod_link: Pattern = re.compile(r"\[\[([0-9]+)\]\]")
@@ -18,9 +18,22 @@ def main(**kwargs):
     assert not duplicate_ids, f"🔴 ID duplicates : {' ; '.join(duplicate_ids)}"
 
     for language in get_languages():
-        check_json(language)
+        mods = ModManager.get_mod_list(language=language)
+
+        print("\n" + "═" * 40)
+        print(f"LANGUAGE {language}")
+        check_json(language, mods=mods)
+
+        # check authors and team pseudos
+        print("\n" + "═" * 40)
+        print(f"AUTHORS AND TEAM {language}")
+        for mod in mods:
+            for author in set(mod.authors + mod.team) & AUTHOR_PSEUDOS.keys():
+                print(f"🟡 {author} is a pseudo, should be {AUTHOR_PSEUDOS[author]}")
 
     # check tp2 unicity
+    print("\n" + "═" * 40)
+    print("TP2")
     duplicate_tp2s = set(duplicates(str(mod["tp2"]) for mod in mod_list))
     duplicate_tp2s -= {"", "n/a", "non-weidu"}
     if duplicate_tp2s:
@@ -31,9 +44,7 @@ def main(**kwargs):
     print("✅ Tests")
 
 
-def check_json(language) -> None:
-    mods = ModManager.get_mod_list(language=language)
-
+def check_json(language, mods: list) -> None:
     mod_ids = set(str(mod.id) for mod in mods)
     nb_warnings = 0
     mod_urls: list[HttpUrl] = list()
