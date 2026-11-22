@@ -75937,11 +75937,9 @@
             "博德玩家"
         ],
         "team": [],
-        "notes": [
-            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
-        ],
+        "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "cn"
         ],
@@ -75950,7 +75948,7 @@
         ],
         "last_update": "2017-11-07",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "id": 2183,
@@ -76080,7 +76078,7 @@
     {
         "id": 2187,
         "name": "Archmage Kit",
-        "description": "Ajoute un kit de mage inspiré librement de l’Archmage de D&D, pensé autour d’une magie plus durable et plus flexible. Il sacrifie une partie de ses emplacements de sorts de haut niveau et de sa puissance explosive en échange de techniques arcaniques réutilisables, d’un accès très souple aux sorts et d’une progression qui améliore progressivement sa maîtrise de la magie. Réservé aux Enhanced Editions 2.0 ou supérieures.",
+        "description": "Ajoute un kit de mage inspiré librement de l’Archmage de D&D, pensé autour d’une magie plus durable et plus flexible. Il sacrifie une partie de ses emplacements de sorts de haut niveau et de sa puissance explosive en échange de techniques arcaniques réutilisables, d’un accès très souple aux sorts et d’une progression qui améliore progressivement sa maîtrise de la magie.",
         "urls": [
             "https://mod.3dmgame.com/mod/27665"
         ],
@@ -76096,9 +76094,7 @@
             "X内姆"
         ],
         "team": [],
-        "notes": [
-            "Nécessite une version Enhanced Edition 2.0 ou supérieure."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -76107,8 +76103,12 @@
         "status": [
             "stable"
         ],
-        "last_update": "2017-08-20",
-        "compatibilities": {},
+        "last_update": "2017-08-27",
+        "compatibilities": {
+            "requires": [
+                "EE version >= 2.0"
+            ]
+        },
         "tp2": "Archmage"
     },
     {
@@ -76130,9 +76130,7 @@
             "博德玩家"
         ],
         "team": [],
-        "notes": [
-            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -76141,16 +76139,16 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2017-11-14",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "GDQS"
     },
     {
         "id": 2189,
         "name": "Sword Immortal",
         "description": "Ajoute un guerrier dérivé du Kensai qui pousse son entraînement jusqu’à une représentation wuxia du « Sword Immortal ». Toujours privé d’armure et d’équipement défensif lourd, il complète le combat à l’épée par des techniques de Qi : projections de lames à distance, variantes élémentaires, protections et déplacements surnaturels. Le résultat est une version nettement plus puissante et polyvalente du Kensai.",
         "urls": [
-            "https://mod.3dmgame.com/mod/24679"
+            "https://mod.3dmgame.com/mod/27642"
         ],
         "categories": [
             "Kit"
@@ -76164,9 +76162,7 @@
             "博德玩家"
         ],
         "team": [],
-        "notes": [
-            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -76175,16 +76171,16 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2018-03-15",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "JXJX"
     },
     {
         "id": 2190,
         "name": "Azeroth Warrior",
         "description": "Kit de guerrier directement inspiré de World of Warcraft. Il transpose ses trois grandes approches de mêlée — armes à deux mains, fureur à deux armes et défense au bouclier — dans Baldur’s Gate, avec des techniques adaptées à chaque rôle. Le personnage peut ainsi passer d’un combattant offensif à un berserker ou à un protecteur selon son équipement et son développement.",
         "urls": [
-            "https://mod.3dmgame.com/mod/27642"
+            "https://mod.3dmgame.com/mod/24679"
         ],
         "categories": [
             "Kit"
@@ -76195,12 +76191,10 @@
             "EET"
         ],
         "authors": [
-            "qinsisuo06"
+            "Qinsisuo06"
         ],
         "team": [],
-        "notes": [
-            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -76209,14 +76203,14 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2014-11-12",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "WOWZS"
     },
     {
         "id": 2191,
         "name": "Frost Mage Kit",
-        "description": "Kit de mage avec de nombreux nouveaux sorts et capacités basés sur le froid. Il peut aussi lancer un bouclier de feu bleu uber-amélioré qui dure 8 heures et devient permanent au niveau 30",
+        "description": "Kit de mage avec de nombreux nouveaux sorts et capacités basés sur le froid. Il peut aussi lancer un bouclier de feu bleu uber-amélioré qui dure 8 heures et devient permanent au niveau 30.",
         "urls": [
             "https://mod.3dmgame.com/mod/24639"
         ],
@@ -76229,12 +76223,10 @@
             "EET"
         ],
         "authors": [
-            "qinsisuo06"
+            "S1尚"
         ],
         "team": [],
-        "notes": [
-            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -76243,9 +76235,9 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2015-01-15",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "SCmage"
     },
     {
         "id": 2192,
@@ -76258,8 +76250,6 @@
             "Kit"
         ],
         "games": [
-            "BG2",
-            "BGT",
             "BGEE",
             "BG2EE",
             "EET"
@@ -76268,9 +76258,7 @@
             "X内姆"
         ],
         "team": [],
-        "notes": [
-            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -76279,9 +76267,9 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2017-05-12",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "Shura"
     },
     {
         "id": 2193,
@@ -76304,9 +76292,7 @@
             "博德玩家"
         ],
         "team": [],
-        "notes": [
-            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -76315,14 +76301,14 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2017-07-11",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "WuDaoZZ;WuLinZZ"
     },
     {
         "id": 2194,
         "name": "Mad Priest",
-        "description": "Kit de prêtre qui a une capacité de mêlée passive plus de très nombreux nouveaux sorts. Certains sont aléatoires (119 effets différents), permettant d'invoquer des créatures aléatoires (parmi 179 différentes) ou de se métamorphoser en 201 différentes créature. Imaginer la folie !  A haut niveau, ce clerc lance même des sorts spécifiques de mage (séquenceur, Contingence, Enchaînement, etc...",
+        "description": "Kit de prêtre qui a une capacité de mêlée passive plus de très nombreux nouveaux sorts. Certains sont aléatoires (119 effets différents), permettant d'invoquer des créatures aléatoires (parmi 179 différentes) ou de se métamorphoser en 201 différentes créature. Imaginer la folie ! À haut niveau, ce clerc lance même des sorts spécifiques de mage (Séquenceur, Contingence, Enchaînement, etc...",
         "urls": [
             "https://mod.3dmgame.com/mod/24272"
         ],
@@ -76338,9 +76324,7 @@
             "博德玩家"
         ],
         "team": [],
-        "notes": [
-            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -76349,7 +76333,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2017-08-23",
         "compatibilities": {},
         "tp2": ""
     },
@@ -76372,9 +76356,7 @@
             "博德玩家"
         ],
         "team": [],
-        "notes": [
-            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -76383,9 +76365,9 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2017-09-08",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "BXZ"
     },
     {
         "id": 2196,
@@ -76406,9 +76388,7 @@
             "博德玩家"
         ],
         "team": [],
-        "notes": [
-            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -76417,9 +76397,9 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2017-09-14",
         "compatibilities": {},
-        "tp2": ""
+        "tp2": "WXMJ"
     },
     {
         "id": 2197,
@@ -76451,14 +76431,14 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2018-06-13",
         "compatibilities": {},
         "tp2": ""
     },
     {
         "id": 2198,
         "name": "邪龙脉术士 (Dark Dragonblood Sorcerer)",
-        "description": "Kit d’ensorceleur qui pousse l’héritage draconique jusqu’à l’éveil simultané des cinq lignées chromatiques. Il peut adopter différentes formes de wyverne ou de dragon, continuer à lancer des sorts une fois transformé et passer d’une forme draconique à l’autre selon la situation. En contrepartie de cette polyvalence et de sa forte puissance physique, il dispose d’un lancement de sort de moins par niveau et par jour. Une version destinée à IWDEE est également proposée.",
+        "description": "Kit d’ensorceleur qui pousse l’héritage draconique jusqu’à l’éveil simultané des cinq lignées chromatiques. Il peut adopter différentes formes de wyverne ou de dragon, continuer à lancer des sorts une fois transformé et passer d’une forme draconique à l’autre selon la situation. En contrepartie de cette polyvalence et de sa forte puissance physique, il dispose d’un lancement de sort de moins par niveau et par jour.",
         "urls": [
             "https://dl.3dmgame.com/patch/113785.html"
         ],
@@ -76492,34 +76472,6 @@
     },
     {
         "id": 2199,
-        "name": "Fighter-sorcerer",
-        "description": "Ce kit émule un guerrier/sorcier. Il peut commencer avec 19 partout, il peut atteindre la grande maîtrise avec toutes les armes (mais n'a toujours qu'un point de compétence 6/niveaux et une APR) et il peut porter tous les objets.",
-        "urls": [
-            "https://forums.beamdog.com/discussion/40859/arnaeus-fighter-sorcerer-rp-w-party-no-reload-scs/p1"
-        ],
-        "categories": [
-            "Kit"
-        ],
-        "games": [
-            "BG2EE"
-        ],
-        "authors": [
-            "Arnaeus"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "n/a",
-        "safe": 1,
-        "languages": [],
-        "status": [
-            "stable"
-        ],
-        "last_update": "2015-04-09",
-        "compatibilities": {},
-        "tp2": "FightSorc"
-    },
-    {
-        "id": 2200,
         "name": "兩個新宗派 (Two New Kits)",
         "description": "Petit pack réunissant deux kits très différents. Le Time-Space Harmonizer est un prêtre qui manipule le temps et l’espace en échange de sacrifices temporaires de caractéristiques, tandis que le Shadow Dancer est un voleur beaucoup plus tourné vers le combat et les pouvoirs d’ombre que vers les fonctions utilitaires traditionnelles.",
         "urls": [
@@ -76537,9 +76489,7 @@
             "伊鸦xvii"
         ],
         "team": [],
-        "notes": [
-            "Deux kits : Time-Space Harmonizer (STObserver, 12/01/2008) et Shadow Dancer (Shadow, 29/01/2008)."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
