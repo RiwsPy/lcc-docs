@@ -30221,5 +30221,169 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2175,
+        "description": "Allows the restrictions on stacking magical items that affect AC to be relaxed by modifying the ITEMEXCL.2DA table.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Permet d'assouplir les restrictions de cumul des objets magiques influençant la classe d'armure en modifiant la table ITEMEXCL.2DA."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2176,
+        "description": "Adds a melee attack option to the throwing daggers in BG and BG2, including the poisoned throwing dagger from BG2. Will not install if the equivalent component from the BG2 Fixpack is already installed.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ajoute une option d'attaque en mêlée aux dagues de lancer de BG et BG2, y compris la dague de lancer empoisonnée de BG2. Ne s'installe pas si le composant équivalent du BG2 Fixpack est déjà installé."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2177,
+        "description": "Allows you to change the stacking limits for many in-game objects, with several options available during installation.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Permet de modifier les limites d'empilement de nombreux objets du jeu, avec plusieurs choix possibles lors de l'installation."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2178,
+        "description": "Allows you to set a maximum storage capacity for the game's containers.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Permet de définir une capacité maximale de stockage pour les contenants du jeu."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2179,
+        "description": "Combines the Baldurdash patches for BG1 and Easy Tutu in the WeiDU format, improves some of them and adds others.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Réunit au format WeiDU les correctifs Baldurdash pour BG1 et Easy Tutu, en améliore certains et en ajoute d'autres."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2180,
+        "description": "A compilation of graphical customisations and gameplay tweaks: Icewind Dale effects and icons, character silhouettes, rules, classes, NPCs and items. Some elements may overlap with other mod packs.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Compilation de personnalisations graphiques et d'ajustements de gameplay : effets et icônes d'Icewind Dale, silhouettes des personnages, règles, classes, PNJ et objets. Certains composants peuvent recouper d'autres packs de modifications."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2181,
+        "description": "Rebalances the Shapeshifter by adjusting its werewolf forms according to level. The normal form becomes versatile, whilst the Great Werewolf focuses on melee combat, regeneration and defence.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Rééquilibre le Métamorphe en faisant progresser ses formes de loup-garou selon le niveau. La forme normale devient polyvalente, tandis que le Grand loup-garou privilégie la mêlée, la régénération et la défense."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2182,
+        "description": "Add six bags: three in the Nashkel festival tent where Zordral and Bentha are, and three upstairs in Gaelan Bayle's house.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ajoute six sacs de contenance : trois dans la tente du festival de Nashkel où se trouvent Zordral et Bentha, et trois à l'étage de la maison de Gaelan Bayle."
+        },
+        "notes": [
+            "Download subject to a CAPTCHA requiring a mobile phone."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+            ]
+        }
+    },
+    {
+        "id": 2183,
+        "description": "Adds a lich merchant to the Adventurer's Market who sells rare equipment: items derived from or inspired by old mods, upgraded companion gear and original creations.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ajoute au Marché de l'Aventurier un marchand liche vendant des équipements rares : objets issus ou inspirés d'anciens mods, équipements améliorés de compagnons et créations originales."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2184,
+        "description": "An expansion of [[2183]] which builds on the original mod and expands the merchant's catalogue with equipment from other mods.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Extension de [[2183]] qui reprend le mod original et élargit le catalogue du marchand avec des équipements issus d'autres mods."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2185,
+        "description": "Adds three pieces of equipment inspired by Diablo's Cow King, which provide additional bonuses when worn together. The items are hidden on cows in Athkatla.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ajoute trois pièces d'équipement inspirées du Cow King de Diablo et offrant des bonus supplémentaires lorsqu'elles sont portées ensemble. Les objets sont dissimulés sur des vaches d'Athkatla."
+        },
+        "notes": [
+            "It is advisable to install this before visiting the areas where the affected cows are located."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Installer de préférence avant de visiter les zones où se trouvent les vaches concernées."
+            ]
+        }
+    },
+    {
+        "id": 2186,
+        "description": "The first whimsical component of the YYmod: adds a potion of health with prolonged regeneration and a potion of magic that temporarily allows you to cast spells much more freely.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Premier composant fantaisiste du YYmod : ajoute une potion de vie à régénération prolongée et une potion de magie permettant temporairement de lancer beaucoup plus librement des sorts."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]

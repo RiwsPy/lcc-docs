@@ -29574,5 +29574,165 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2175,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Permet d'assouplir les restrictions de cumul des objets magiques influençant la classe d'armure en modifiant la table ITEMEXCL.2DA."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2176,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ajoute une option d'attaque en mêlée aux dagues de lancer de BG et BG2, y compris la dague de lancer empoisonnée de BG2. Ne s'installe pas si le composant équivalent du BG2 Fixpack est déjà installé."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2177,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Permet de modifier les limites d'empilement de nombreux objets du jeu, avec plusieurs choix possibles lors de l'installation."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2178,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Permet de définir une capacité maximale de stockage pour les contenants du jeu."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2179,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Réunit au format WeiDU les correctifs Baldurdash pour BG1 et Easy Tutu, en améliore certains et en ajoute d'autres."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2180,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Compilation de personnalisations graphiques et d'ajustements de gameplay : effets et icônes d'Icewind Dale, silhouettes des personnages, règles, classes, PNJ et objets. Certains composants peuvent recouper d'autres packs de modifications."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2181,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Rééquilibre le Métamorphe en faisant progresser ses formes de loup-garou selon le niveau. La forme normale devient polyvalente, tandis que le Grand loup-garou privilégie la mêlée, la régénération et la défense."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2182,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ajoute six sacs de contenance : trois dans la tente du festival de Nashkel où se trouvent Zordral et Bentha, et trois à l'étage de la maison de Gaelan Bayle."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+            ]
+        }
+    },
+    {
+        "id": 2183,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ajoute au Marché de l'Aventurier un marchand liche vendant des équipements rares : objets issus ou inspirés d'anciens mods, équipements améliorés de compagnons et créations originales."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2184,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Extension de [[2183]] qui reprend le mod original et élargit le catalogue du marchand avec des équipements issus d'autres mods."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2185,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ajoute trois pièces d'équipement inspirées du Cow King de Diablo et offrant des bonus supplémentaires lorsqu'elles sont portées ensemble. Les objets sont dissimulés sur des vaches d'Athkatla."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Installer de préférence avant de visiter les zones où se trouvent les vaches concernées."
+            ]
+        }
+    },
+    {
+        "id": 2186,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Premier composant fantaisiste du YYmod : ajoute une potion de vie à régénération prolongée et une potion de magie permettant temporairement de lancer beaucoup plus librement des sorts."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]
