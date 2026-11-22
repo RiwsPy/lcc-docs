@@ -76076,5 +76076,480 @@
         "last_update": "2009-05-05",
         "compatibilities": {},
         "tp2": "YYmod"
+    },
+    {
+        "id": 2187,
+        "name": "Archmage Kit",
+        "description": "Ajoute un kit de mage inspiré librement de l’Archmage de D&D, pensé autour d’une magie plus durable et plus flexible. Il sacrifie une partie de ses emplacements de sorts de haut niveau et de sa puissance explosive en échange de techniques arcaniques réutilisables, d’un accès très souple aux sorts et d’une progression qui améliore progressivement sa maîtrise de la magie. Réservé aux Enhanced Editions 2.0 ou supérieures.",
+        "urls": [
+            "https://mod.3dmgame.com/mod/27665"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "X内姆"
+        ],
+        "team": [],
+        "notes": [
+            "Nécessite une version Enhanced Edition 2.0 ou supérieure."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2017-08-20",
+        "compatibilities": {},
+        "tp2": "Archmage"
+    },
+    {
+        "id": 2188,
+        "name": "High Knight Kit",
+        "description": "Ajoute le High Knight, une version d’élite du Cavalier destinée aux personnages humains. Le kit conserve l’identité du chevalier classique mais accentue son rôle de combattant héroïque contre les dragons et les démons, avec un ensemble de pouvoirs inspirés des huit vertus chevaleresques. Il est volontairement plus puissant que le kit d’origine et n’écrase pas le Cavalier standard.",
+        "urls": [
+            "https://mod.3dmgame.com/mod/25531"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "博德玩家"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2189,
+        "name": "Sword Immortal",
+        "description": "Ajoute un guerrier dérivé du Kensai qui pousse son entraînement jusqu’à une représentation wuxia du « Sword Immortal ». Toujours privé d’armure et d’équipement défensif lourd, il complète le combat à l’épée par des techniques de Qi : projections de lames à distance, variantes élémentaires, protections et déplacements surnaturels. Le résultat est une version nettement plus puissante et polyvalente du Kensai.",
+        "urls": [
+            "https://mod.3dmgame.com/mod/24679"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "博德玩家"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2190,
+        "name": "Azeroth Warrior",
+        "description": "Kit de guerrier directement inspiré de World of Warcraft. Il transpose ses trois grandes approches de mêlée — armes à deux mains, fureur à deux armes et défense au bouclier — dans Baldur’s Gate, avec des techniques adaptées à chaque rôle. Le personnage peut ainsi passer d’un combattant offensif à un berserker ou à un protecteur selon son équipement et son développement.",
+        "urls": [
+            "https://mod.3dmgame.com/mod/27642"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "qinsisuo06"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2191,
+        "name": "Frost Mage Kit",
+        "description": "Kit de mage avec de nombreux nouveaux sorts et capacités basés sur le froid. Il peut aussi lancer un bouclier de feu bleu uber-amélioré qui dure 8 heures et devient permanent au niveau 30",
+        "urls": [
+            "https://mod.3dmgame.com/mod/24639"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "qinsisuo06"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2192,
+        "name": "Asura",
+        "description": "Ajoute le Shura, un guerrier-magicien conçu pour dépendre le moins possible des caractéristiques et de l’équipement. Son gameplay repose sur l’alternance entre un mode martial et un mode de lancer de sorts, puis sur la combinaison de techniques physiques et magiques plutôt que sur la simple accumulation de bonus. Très flexible et plus puissant que les classes d’origine, il demande surtout au joueur de bien exploiter ses deux facettes.",
+        "urls": [
+            "https://mod.3dmgame.com/mod/24592"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "X内姆"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2193,
+        "name": "Martial Arts Supreme",
+        "description": "Ajoute un combattant d’arts martiaux conçu pour rendre la mêlée aussi variée à jouer qu’un lanceur de sorts. Plutôt que de reposer sur quelques bonus passifs, le kit propose un grand nombre de techniques originales qui doivent être combinées selon la situation, avec une progression et des capacités avancées propres. Il vise clairement une expérience plus active et plus puissante que celle des guerriers classiques.",
+        "urls": [
+            "https://mod.3dmgame.com/mod/24590"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "博德玩家"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2194,
+        "name": "Mad Priest",
+        "description": "Kit de prêtre qui a une capacité de mêlée passive plus de très nombreux nouveaux sorts. Certains sont aléatoires (119 effets différents), permettant d'invoquer des créatures aléatoires (parmi 179 différentes) ou de se métamorphoser en 201 différentes créature. Imaginer la folie !  A haut niveau, ce clerc lance même des sorts spécifiques de mage (séquenceur, Contingence, Enchaînement, etc...",
+        "urls": [
+            "https://mod.3dmgame.com/mod/24272"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "博德玩家"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2195,
+        "name": "Ultimate Metamorph Druid Class",
+        "description": "Ajoute un druide entièrement consacré à la métamorphose. Au fil des niveaux, il débloque plusieurs séries de formes de plus en plus variées et puissantes, chacune destinée à offrir des avantages différents selon la situation plutôt qu’une seule transformation dominante. Le kit transforme ainsi la métamorphose en véritable système de progression et constitue une alternative beaucoup plus riche au druide classique.",
+        "urls": [
+            "https://mod.3dmgame.com/mod/24265"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "博德玩家"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2196,
+        "name": "Unrivaled Barbarian General",
+        "description": "Ajoute un barbare d’élite conçu pour le combat frontal. Il conserve l’identité brutale du barbare mais y ajoute un état de combat spécial et plusieurs techniques permettant de convertir l’agressivité du personnage en poussées de puissance, jusqu’à une attaque signature de type « Musou ». Le kit est volontairement spectaculaire et sensiblement plus puissant que le barbare d’origine.",
+        "urls": [
+            "https://mod.3dmgame.com/mod/24258"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "博德玩家"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2197,
+        "name": "吸血鬼王 (Vampire King)",
+        "description": "Ajoute un puissant archétype de seigneur vampire, débarrassé d’une grande partie des faiblesses habituellement associées aux vampires tout en conservant leurs principaux atouts. Son gameplay repose sur les changements de forme et sur diverses techniques sanguines permettant de se renforcer, de créer des serviteurs ou d’affaiblir durablement ses victimes. Le kit est volontairement très puissant et représente un vampire arrivé au sommet de sa lignée plutôt qu’un hybride encore vulnérable.",
+        "urls": [
+            "https://trow.cc/board/showtopic=30121"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "lms170712"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2198,
+        "name": "邪龙脉术士 (Dark Dragonblood Sorcerer)",
+        "description": "Kit d’ensorceleur qui pousse l’héritage draconique jusqu’à l’éveil simultané des cinq lignées chromatiques. Il peut adopter différentes formes de wyverne ou de dragon, continuer à lancer des sorts une fois transformé et passer d’une forme draconique à l’autre selon la situation. En contrepartie de cette polyvalence et de sa forte puissance physique, il dispose d’un lancement de sort de moins par niveau et par jour. Une version destinée à IWDEE est également proposée.",
+        "urls": [
+            "https://dl.3dmgame.com/patch/113785.html"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "博德玩家"
+        ],
+        "team": [],
+        "notes": [
+            "L’ancien lien 3DM indiqué dans la source est signalé comme recyclé et n’a pas été repris."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2017-08-28",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2199,
+        "name": "Fighter-sorcerer",
+        "description": "Ce kit émule un guerrier/sorcier. Il peut commencer avec 19 partout, il peut atteindre la grande maîtrise avec toutes les armes (mais n'a toujours qu'un point de compétence 6/niveaux et une APR) et il peut porter tous les objets.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/40859/arnaeus-fighter-sorcerer-rp-w-party-no-reload-scs/p1"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Arnaeus"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2015-04-09",
+        "compatibilities": {},
+        "tp2": "FightSorc"
+    },
+    {
+        "id": 2200,
+        "name": "兩個新宗派 (Two New Kits)",
+        "description": "Petit pack réunissant deux kits très différents. Le Time-Space Harmonizer est un prêtre qui manipule le temps et l’espace en échange de sacrifices temporaires de caractéristiques, tandis que le Shadow Dancer est un voleur beaucoup plus tourné vers le combat et les pouvoirs d’ombre que vers les fonctions utilitaires traditionnelles.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=12181"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "伊鸦xvii"
+        ],
+        "team": [],
+        "notes": [
+            "Deux kits : Time-Space Harmonizer (STObserver, 12/01/2008) et Shadow Dancer (Shadow, 29/01/2008)."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-01-29",
+        "compatibilities": {},
+        "tp2": "STObserver;Shadow"
     }
 ]
