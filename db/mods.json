@@ -75349,8 +75349,8 @@
     },
     {
         "id": 2164,
-        "name": "烤肉大世界修正合集 (BWP_Cabob Fix Collection)",
-        "description": "Ensemble de correctifs complémentaires pour [cette compilation](https://trow.cc/board/showtopic=29768) : corrections et ajustements apportés à la version finale, puis affinés grâce aux retours des joueurs.",
+        "name": "烤肉大世界修正合集 (BWP Cabob Utility)",
+        "description": "Ensemble de correctifs complémentaires déjà utilisés dans [cette compilation](https://trow.cc/board/showtopic=29768) : corrections et ajustements apportés à la version finale, puis affinés grâce aux retours des joueurs.",
         "urls": [
             "https://github.com/Sebastian-c4/Cabob_Utility"
         ],
@@ -75358,7 +75358,7 @@
             "Patch non officiel"
         ],
         "games": [
-            "BG2"
+            "BGT"
         ],
         "authors": [
             "c4_angel"
