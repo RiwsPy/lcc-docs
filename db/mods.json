@@ -76452,8 +76452,8 @@
     },
     {
         "id": 2199,
-        "name": "兩個新宗派 (Two New Kits)",
-        "description": "Petit pack réunissant deux kits très différents. Le Time-Space Harmonizer est un prêtre qui manipule le temps et l’espace en échange de sacrifices temporaires de caractéristiques, tandis que le Shadow Dancer est un voleur beaucoup plus tourné vers le combat et les pouvoirs d’ombre que vers les fonctions utilitaires traditionnelles.",
+        "name": "Time-Space Harmonizer",
+        "description": "Le Time-Space Harmonizer est un prêtre qui manipule le temps et l’espace en échange de sacrifices temporaires de caractéristiques.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=12181"
         ],
@@ -76461,9 +76461,8 @@
             "Kit"
         ],
         "games": [
-            "BGEE",
-            "BG2EE",
-            "EET"
+            "BG",
+            "BG2"
         ],
         "authors": [
             "伊鸦xvii"
@@ -76480,6 +76479,40 @@
         ],
         "last_update": "2008-01-29",
         "compatibilities": {},
-        "tp2": "STObserver;Shadow"
+        "tp2": "STObserver"
+    },
+    {
+        "id": 2200,
+        "name": "Shadow Dancer",
+        "description": "Le Shadow Dancer est un voleur davantage tourné vers le combat et les pouvoirs d’ombre que vers les fonctions utilitaires traditionnelles.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=12181"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "伊鸦xvii"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-01-29",
+        "compatibilities": {
+            "requires": [
+                "ToB"
+            ]
+        },
+        "tp2": "Shadow"
     }
 ]
