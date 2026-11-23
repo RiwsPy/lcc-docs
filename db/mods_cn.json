@@ -30443,8 +30443,8 @@
         "id": 2164,
         "description": "[[2167]]的补充修正合集：对最终版本所做的修正与调整，并借助玩家反馈进一步打磨。",
         "description_meta": {
-            "status": "done",
-            "source": "Ensemble de correctifs complémentaires pour [[2167]] : corrections et ajustements apportés à la version finale, puis affinés grâce aux retours des joueurs."
+            "status": "needs_review",
+            "source": "Ensemble de correctifs complémentaires pour [cette compilation](https://trow.cc/board/showtopic=29768) : corrections et ajustements apportés à la version finale, puis affinés grâce aux retours des joueurs."
         },
         "notes": [],
         "notes_meta": {
@@ -30471,19 +30471,6 @@
         "description_meta": {
             "status": "done",
             "source": "Born2BSalty's Infinity Orchestrator (BIO) est un programme d'installation automatisé de mods capable d'installer des configurations complètes de mods, de 0 à 100 %, en un seul clic. C'est également un puissant outil de création de listes de mods qui vous aide à créer d'énormes configurations de « mégamods », que ce soit pour votre usage personnel ou pour les partager avec d'autres."
-        },
-        "notes": [],
-        "notes_meta": {
-            "status": "done",
-            "source": []
-        }
-    },
-    {
-        "id": 2167,
-        "description": "针对“Big World”安装的定制编译包，汇集了修正、平衡调整、规则变更、物品、NPC、敌人强化、随机化以及特定宗派。",
-        "description_meta": {
-            "status": "done",
-            "source": "Compilation personnalisée pour une installation Big World, réunissant correctifs, équilibrages, changements de règles, objets, PNJ, renforcement des ennemis, randomisation et kits spécifiques."
         },
         "notes": [],
         "notes_meta": {

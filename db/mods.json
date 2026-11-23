@@ -75350,7 +75350,7 @@
     {
         "id": 2164,
         "name": "烤肉大世界修正合集 (BWP_Cabob Fix Collection)",
-        "description": "Ensemble de correctifs complémentaires pour [[2167]] : corrections et ajustements apportés à la version finale, puis affinés grâce aux retours des joueurs.",
+        "description": "Ensemble de correctifs complémentaires pour [cette compilation](https://trow.cc/board/showtopic=29768) : corrections et ajustements apportés à la version finale, puis affinés grâce aux retours des joueurs.",
         "urls": [
             "https://github.com/Sebastian-c4/Cabob_Utility"
         ],
@@ -75366,12 +75366,13 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "cn"
         ],
         "status": [
-            "stable"
+            "stable",
+            "hidden"
         ],
         "last_update": "2018-10-10",
         "compatibilities": {},
@@ -75442,36 +75443,6 @@
         "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "n/a"
-    },
-    {
-        "id": 2167,
-        "name": "烤肉版大世界 (BWP_Cabob)",
-        "description": "Compilation personnalisée pour une installation Big World, réunissant correctifs, équilibrages, changements de règles, objets, PNJ, renforcement des ennemis, randomisation et kits spécifiques.",
-        "urls": [
-            "https://trow.cc/board/showtopic=29768"
-        ],
-        "categories": [
-            "Gameplay"
-        ],
-        "games": [
-            "BG2"
-        ],
-        "authors": [
-            "c4_angel"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "auto",
-        "safe": 2,
-        "languages": [
-            "cn"
-        ],
-        "status": [
-            "stable"
-        ],
-        "last_update": "2018-07-23",
-        "compatibilities": {},
-        "tp2": ""
     },
     {
         "id": 2168,
