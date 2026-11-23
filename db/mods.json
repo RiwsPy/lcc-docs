@@ -76514,5 +76514,378 @@
             ]
         },
         "tp2": "Shadow"
+    },
+    {
+        "id": 2201,
+        "name": "Urkodoël",
+        "description": "Urkodoël est une anarchiliche que vous pouvez trouver dans le cimetière d'Athkatla, dans le cul-de-sac à côté de l'oncle Lester (BG2EE) ou dans la petite grotte en bas à gauche de la Passe de Kuldahar (IWDEE).|Il peut apprendre à n'importe quel clerc, druide ou chaman (multiclasses incluses) des sorts arcaniques. Cela ne coûte pas d'or. À la place, ça coûte des points de vie maximaux définitivement perdus, 1 point de vie par niveau de sort.|Comme cela fait cher pour un sort, Urkodoël donne aussi la capacité de mémorisation qui accompagne le sort.|Urkodoël propose aussi les sorts de niveaux 8, 9 et épiques (HLA), qui sont appris comme des sorts de niveau 7.|Urkodoël vend aussi du matériel, dont 3 amulettes qui peuvent changer son fonctionnement.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=35477",
+            "https://forums.beamdog.com/discussion/90896",
+            "https://github.com/Deratiseur/Urkodoel/",
+            "https://app.mediafire.com/folder/depaqus3ma8bt/BG2_Mes_créations"
+        ],
+        "categories": [
+            "Forgeron et marchand",
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Deratiseur"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "fr",
+            "en"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-11-22",
+        "compatibilities": {},
+        "tp2": "Derats_Urkodoel"
+    },
+    {
+        "id": 2202,
+        "name": "黑袍法师 (Thief: Black Robe Mage)",
+        "description": "Kit de voleur pensé avant tout comme une étape vers un jumelage en mage. Il concentre l’essentiel de ses avantages dans les neuf premiers niveaux, avec une forte orientation anti-magie et plusieurs moyens d’imiter ou de soutenir la magie profane, puis évolue presque comme un voleur normal et ne reçoit pas de HLA. L’auteur le présente comme un choix volontairement très polyvalent plutôt que strictement équilibré.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=11370"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "伊鸦xvii"
+        ],
+        "team": [],
+        "notes": [
+            "Le lien original du forum comporte un suffixe « &hl= » indiqué comme problématique dans le fichier source ; ce suffixe a été retiré."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2007-11-11",
+        "compatibilities": {},
+        "tp2": "DarkRobe"
+    },
+    {
+        "id": 2203,
+        "name": "盗贼宗派－－血族隐者 (Thief Kit – Vampire-Blooded Hermit)",
+        "description": "Kit de voleur vampirique très élaboré dans lequel le personnage alterne entre forme humaine, forme de vampire et forme de chauve-souris. Son gameplay repose sur le sang, qui remplace en grande partie les soins ordinaires et peut être utilisé de plusieurs manières offensives ou défensives. Cette puissance s’accompagne de vraies contraintes : vulnérabilité au soleil, limitations de voleur, progression plus lente et impossibilité de profiter normalement des soins et HLA classiques.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=14464"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "bpcc"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2011-02-17",
+        "compatibilities": {},
+        "tp2": "vphermit"
+    },
+    {
+        "id": 2204,
+        "name": "德鲁伊宗派－－幻化大师 (Druid Kit — Shapeshifter Master)",
+        "description": "Kit de druide entièrement construit autour de la métamorphose. Il remplace les formes naturelles habituelles par une progression en plusieurs paliers donnant accès à un très grand nombre de corps humanoïdes, animaux, monstrueux puis légendaires, chacun ayant un rôle et des propriétés propres. Le joueur choisit donc la forme adaptée à la situation plutôt que de simplement débloquer une transformation toujours meilleure, au prix de plusieurs capacités traditionnelles du druide.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=14528"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "bpcc"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2009-08-04",
+        "compatibilities": {},
+        "tp2": "shmst"
+    },
+    {
+        "id": 2205,
+        "name": "盗贼宗派——大地旅者 (Thief Kit – Earth Traveler)",
+        "description": "Adaptation en kit de voleur du Horizon Walker / Earth Traveler de D&D 3e. À mesure qu’il progresse, le personnage choisit les terrains naturels ou planaires qu’il maîtrise et reçoit des avantages permanents ainsi qu’une meilleure efficacité contre les dangers et créatures associés. Il peut se spécialiser fortement dans quelques environnements ou devenir un voyageur polyvalent, ce qui en fait un kit très modulable.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=14686"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Macholy"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-10-09",
+        "compatibilities": {},
+        "tp2": "HORIZONWALKER"
+    },
+    {
+        "id": 2206,
+        "name": "魂刃者 (Soul Blader)",
+        "description": "Ajoute un ensorceleur de combat léger inspiré d’Archer/EMIYA de Fate, sans chercher à le reproduire à l’identique. Le Soul Blader matérialise sa magie sous forme d’armes et associe une vraie progression martiale à son répertoire de sorts. Sa capacité emblématique de très haut niveau reprend l’idée d’Unlimited Blade Works sous la forme d’une longue incantation en plusieurs étapes, qui peut être interrompue si le personnage est blessé.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=16410"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "wyk1987314"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2009-04-30",
+        "compatibilities": {},
+        "tp2": "SOUL"
+    },
+    {
+        "id": 2207,
+        "name": "有些BUG的FATE英雄王 (FATE – Hero King, Somewhat “Bugged”)",
+        "description": "Kit de guerrier inspiré de Gilgamesh, le Roi des Héros de Fate, conçu avant tout comme un mod « pour le fun » et volontairement extrêmement puissant. Son gameplay tourne autour d’un trésor surnaturel permettant de projeter ou d’invoquer tout un arsenal, avec des techniques de contrôle et une attaque ultime emblématique. L’auteur reconnaît lui-même que la puissance du kit est proche du « bug » assumé.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=16399"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "wyk1987314"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-07-05",
+        "compatibilities": {},
+        "tp2": "GARCHER"
+    },
+    {
+        "id": 2208,
+        "name": "火焰君王 (Flame Lord)",
+        "description": "Second kit proposé dans le même mod, centré entièrement sur la maîtrise du feu. Il combine invocations de créatures enflammées, contrôle de zones, protections élémentaires et attaques de grande ampleur, avec une forte résistance au feu mais une faiblesse marquée au froid. La version d’origine étant elle aussi volontairement excessive, l’auteur a ensuite fourni une variante réduisant sa puissance.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=16399"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "wyk1987314"
+        ],
+        "team": [],
+        "notes": [
+            "Une variante moins puissante est indiquée dans le fichier source, datée du 28/04/2009."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-12-11",
+        "compatibilities": {},
+        "tp2": "FLAMELORD"
+    },
+    {
+        "id": 2209,
+        "name": "吟遊詩人宗派，輕量級遠程戰法師——擲彈手 (Bard Kit — Lightweight Ranged Battle Mage: Grenadier)",
+        "description": "Transforme le barde en mage de combat à distance spécialisé dans des projectiles magiques qu’il fabrique lui-même et utilise comme des armes de lancer. Le kit privilégie donc le harcèlement à distance et une progression offensive plus proche d’un tireur que d’un barde traditionnel, tout en conservant son identité de lanceur de sorts léger.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=16544"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "caseypie"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2009-05-10",
+        "compatibilities": {},
+        "tp2": "Grenadier"
+    },
+    {
+        "id": 2210,
+        "name": "牧师宗派－邪术师 (Cleric Kit — Warlock)",
+        "description": "Transforme le prêtre en Warlock inspiré de D&D 3.5. Il abandonne la magie divine classique au profit d’invocations utilisables à volonté, acquises par des pactes qui peuvent coûter des points de vie ou des caractéristiques. Son attaque magique principale peut être remodelée en portée, type de dégâts ou effets, puis le personnage se spécialise dans l’une de plusieurs voies occultes.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=16702"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "bpcc"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2009-09-11",
+        "compatibilities": {},
+        "tp2": "warlock"
+    },
+    {
+        "id": 2211,
+        "name": "为Minsc特制宗派。狂暴游侠 (Berserker Ranger)",
+        "description": "Kit conçu spécialement pour Minsc, qui remplace sa rage incontrôlable par une forme de berserk plus exploitable en combat. Il conserve l’identité de rôdeur brutal du personnage tout en supprimant certains pouvoirs plus classiques du rôdeur. Le mod ne remplace pas directement le fichier de Minsc afin d’éviter les conflits : le kit doit lui être attribué séparément, par exemple avec Shadow Keeper.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=13588"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "atjl"
+        ],
+        "team": [],
+        "notes": [
+            "Le kit doit être attribué à Minsc séparément, par exemple avec Shadow Keeper."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-05-29",
+        "compatibilities": {},
+        "tp2": "minscer"
+    },
+    {
+        "id": 2212,
+        "name": "强化宗派MOD (Enhanced Kit MOD)",
+        "description": "Pack de sept kits volontairement très puissants, couvrant la plupart des grandes familles de classes. Leur principe est de combiner plusieurs rôles ou avantages normalement séparés entre différents kits, avec des progressions et HLA propres, afin de permettre au groupe de rivaliser avec les mods de difficulté les plus agressifs. Il ne cherche donc pas à rester au niveau d’équilibrage des classes originales.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=13678"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "每周虎"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2008-06-05",
+        "compatibilities": {},
+        "tp2": "ImproveKit"
     }
 ]
