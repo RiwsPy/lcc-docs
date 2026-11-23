@@ -53,9 +53,11 @@
             "status": "needs_review",
             "source": "Ce mod rééquilibre les quatre compétences de \"style d'arme\" pour les rendre plus conformes à leur fonctionnement dans AD&D 3.5 et Pathfinder, et pour corriger le déséquilibre assez important entre les styles d'armes dans BG2, dans lequel investir 2 étoiles dans tout autre style que \"2 armes\" était plutôt inutile et le double maniement presque toujours la construction optimale pour un guerrier. Il propose les 5 composants optionnels suivants :|- Rééquilibrage des styles de combat (3.5 Édition) : deux étoiles suffisent à obtenir la spécialisation maximale, presque toutes les classes peuvent placer au moins un point de compétence dans chaque style.|- Styles d'armes étendus pour les non-guerriers : permet aux voleurs et aux bardes d'investir 2 points dans le style à deux armes et le style à une arme.|- Les bâtons ne peuvent pas effectuer d'attaques sournoises.|- Les rôdeurs n'ont pas de pénalité de toucher en main gauche.|- Mise à jour de la cape de Montolio : pour être en harmonie avec le composant précédent."
         },
-        "notes": [],
+        "notes": [
+            "It overwrites STYLBONU.2DA and CLCK32.itm, changing the latter's description to English."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Il écrase les fichiers STYLBONU.2DA ainsi que CLCK32.itm en passant sa description en anglais."
             ]
@@ -574,9 +576,11 @@
             "status": "needs_review",
             "source": "En gros, ce mod implémente un système de basé sur le mana dans BG2. Vous pouvez mémoriser des sorts à tout moment en appuyant sur la touche `V`. Vous pouvez voir combien de points de mana il vous reste en appuyant sur `N`. Lorsque vos points de mana tombent en dessous de 0, vous subissez une pénalité et ne pourrez plus lancer de sorts jusqu'à ce que vous vous reposiez. Les sorts retirent autant de points de mana égales que leur niveau d'incantation. De légères modifications sont également apportées aux sorts existants.|Le lancement de sorts de très bas niveau est maintenant autorisé à Athkatla tant qu'il ne constitue pas une perturbation suffisamment importante pour que le Conseil des Six s'en alarme."
         },
-        "notes": [],
+        "notes": [
+            "This mod dates back to 2004 and overwrites many spells and their descriptions."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "C'est un mod qui date de 2004 qui écrase de nombreux sorts ainsi que leurs descriptions."
             ]
@@ -1593,9 +1597,11 @@
             "status": "needs_review",
             "source": "À l'instar du mod du même nom pour Baldur's Gate II, ce mod vient combler un certain nombre d'oublis ou d'éléments inachevés dans le jeu d'origine. Il réintroduit donc dans le jeu un certain nombre de quêtes, d'objets, de personnages... qui figuraient dans le jeu, mais n'étaient pas exploités ou inachevés (en particulier des réactions des personnages recrutables). Vous trouverez notamment le deuxième niveau de l'île des Glaces de BG1, faire que Branwen reconnaisse Tranzig, donner un usage à la potion mystérieuse trouvée dans les mines, etc. Il corrige également certains bugs."
         },
-        "notes": [],
+        "notes": [
+            "It must be installed before [[372]]."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Il doit être installé avant [[372]]."
             ]
@@ -2285,9 +2291,11 @@
             "status": "needs_review",
             "source": "Ce mod ajoute 5 nouveaux profils de bardes disposant chacun d'un chant de guerre spécial (Abettor of Mask, Dancer, Deathsinger, Storm Drummer et Troubadour), ainsi qu'un nouveau marchand vendant des objets de barde."
         },
-        "notes": [],
+        "notes": [
+            "Some components require [[348]]."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Certains modules requièrent [[348]]."
             ]
@@ -3485,11 +3493,11 @@
             "source": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires."
         },
         "notes": [
-            "This mod overwrites the HPCLASS.2da and HPCONBON.2da files.",
-            "A component of [[1279]] does the same thing, you should use the latter."
+            "This mod overwrites HPCLASS.2da and HPCONBON.2da.",
+            "A component of [[1279]] does the same thing; the latter is recommended."
         ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Ce mod écrase les fichiers HPCLASS.2da et HPCONBON.2da.",
                 "Un composant de [[1279]] fait la même chose, privilégiez ce dernier."
@@ -5801,9 +5809,11 @@
             "status": "needs_review",
             "source": "Anciennement `Convenience Tweaks and Glaicas Fix`, ce mod est une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants :|- Toujours gagner contre Aesgareth|- Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse|- Rendre la Machine de Lum le Fou plus facile à utiliser|- Libérer plus facilement Glaicas de son charme|- Les armes de jet ne bénéficient plus de bonus de force au toucher"
         },
-        "notes": [],
+        "notes": [
+            "Note: the last component is missing from the latest mod release."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Attention, le dernier composant est absent de la dernière release du mod."
             ]
@@ -5833,9 +5843,11 @@
             "status": "needs_review",
             "source": "Ce mini mod corrige les dégâts infligés par l'épée Sangplan contre les créatures extra planaires. Désormais, elles causera les mêmes dégâts supplémentaires contre les solaires et planétaires, les élémentaires, les githyankis, les diablotins, les génies et les tiefelins."
         },
-        "notes": [],
+        "notes": [
+            "Overwrites SW1H62.itm and SW1H63.itm."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Écrase SW1H62.itm et SW1H63.itm."
             ]
@@ -7206,9 +7218,11 @@
             "status": "needs_review",
             "source": "Ce mod modifie plusieurs règles (caractéristiques des races, armes utilisables par tous), augmente le score de connaissance des mages et augmente le multiplicateur d'attaque sournoise à x6 au niveau 26."
         },
-        "notes": [],
+        "notes": [
+            "Overwrites ABRACEAD.2DA, BACKSTAB.2DA, and LORE.2DA."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Écrase ABRACEAD.2DA, BACKSTAB.2DA et LORE.2DA."
             ]
@@ -7565,9 +7579,11 @@
             "status": "needs_review",
             "source": "Ce mod rend la cape de non-détection utile dans le jeu. Elle protège désormais contre tous les sorts dissipant l'illusion (Vision véritable, Oracle, Détection des illusions...)."
         },
-        "notes": [],
+        "notes": [
+            "Overwrites CLCK06.itm."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Écrase CLCK06.itm."
             ]
@@ -8424,9 +8440,11 @@
             "status": "needs_review",
             "source": "Ce mod restaure Khalid, le mari de Jaheira que l'on peut trouver dans le quartier général des ménestrels. On peut l'installer comme guerrier ou comme guerrier/mage."
         },
-        "notes": [],
+        "notes": [
+            "The version on CoB is newer than the one on SHS."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "La version sur cob est plus récente que celle sur shs."
             ]
@@ -9339,9 +9357,11 @@
             "status": "needs_review",
             "source": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Ce mod ajoute de nombreux ajustements au jeu."
         },
-        "notes": [],
+        "notes": [
+            "If this mod interests you, an early English translation is available [here](https://github.com/cygarniczka/NMTP-English)."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise [ici](https://github.com/cygarniczka/NMTP-English)."
             ]
@@ -12554,9 +12574,12 @@
             "status": "needs_review",
             "source": "Rjali est une clerc/voleuse amoureuse qui ne vous quittera pas. Elle acceptera vos autres amours tant que vous prendrez bien soin d'elle. Elle a une romance complète avec le PC, des flirts initiés par les joueurs/PNJ, des plaisanteries avec d'autres PNJ, un certain nombre d'interjections, de réactions de personnages et d'autres dialogues. Contenu adulte."
         },
-        "notes": [],
+        "notes": [
+            "The latest data version (12.6) is available here: http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=389",
+            "This mod has a prequel by the same author: [[580]]."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "La dernière version en data (12.6) est disponible ici : http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=389",
                 "Ce mod possède une préquelle du même auteur : [[580]]."
@@ -13297,9 +13320,11 @@
             "status": "needs_review",
             "source": "Pack de voix (en anglais) pour un homme d'alignement mauvais."
         },
-        "notes": [],
+        "notes": [
+            "Included in compilation [[1187]]."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "A été intégré dans la compilation [[1187]]."
             ]
@@ -13312,9 +13337,11 @@
             "status": "needs_review",
             "source": "Pack de voix (en anglais) pour un homme d'alignement loyal mauvais."
         },
-        "notes": [],
+        "notes": [
+            "Included in compilation [[1187]]."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "A été intégré dans la compilation [[1187]]."
             ]
@@ -13327,9 +13354,11 @@
             "status": "needs_review",
             "source": "Pack de voix (en anglais) pour un homme chaotique neutre."
         },
-        "notes": [],
+        "notes": [
+            "Included in compilation [[1187]]."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "A été intégré dans la compilation [[1187]]."
             ]
@@ -13342,9 +13371,11 @@
             "status": "needs_review",
             "source": "Pack de voix (en anglais) pour un homme loyal bon."
         },
-        "notes": [],
+        "notes": [
+            "Included in compilation [[1187]]."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "A été intégré dans la compilation [[1187]]."
             ]
@@ -17116,9 +17147,11 @@
             "status": "needs_review",
             "source": "Ce mod est une combinaison de patchs et de modifications d'interface graphique de jeu permettant de jouer à BG (avec son extension TotSC), BG2 (avec ou sans ToB), Icewind Dale (avec ses extensions HoW et TotLM) et Icewind Dale 2 et Planescape:Torment dans des résolutions autres que celles imposées (pour BG et PsT) ou celles proposées par les jeux (pour BG2, Icewind Dale avec son extension HoW et Icewind Dale 2).|Le terme de patch indique qu'il modifie l'exécutable du jeu pour forcer la résolution que vous choisissez lors de l'installation. La conséquence est que le mod n'est compatible qu'avec Windows (et Linux via l'émulation Windows). Désolé pour les utilisateurs de Mac."
         },
-        "notes": [],
+        "notes": [
+            "An improved version for BG only is available in mod [[1964]]."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Une version améliorée est proposée pour BG uniquement dans le mod [[1964]]."
             ]
@@ -20165,9 +20198,11 @@
             "status": "needs_review",
             "source": "Mod Weidu qui ajoute des voix off en anglais générées par l'IA pour tous les personnages de Baldur's Gate 1."
         },
-        "notes": [],
+        "notes": [
+            "A version for SoD is available: [[1779]]."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Une version pour SoD existe : [[1779]]."
             ]
@@ -20246,9 +20281,9 @@
     },
     {
         "id": 1439,
-        "description": "",
+        "description": "A script to make traveling through Baldur's Gate easier. It handles common actions such as attacking, fleeing, using active abilities, and managing traps.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Un script pour voyager facilement dans Baldur's Gate. Il permet de gérer les actions courantes comme l'attaque, la fuite, l'utilisation des compétences actives et la gestion des pièges."
         },
         "notes": [],
@@ -20800,10 +20835,10 @@
             "source": "Ce mod introduit un nouveau kit pour le voleur. Il est légèrement inspiré du jeu Arcanum : Of Steamworks and Magick Obscura. Les inventeurs sont des voleurs qui se sont consacrés à l'étude des sciences et de l'artisanat. Avec l'expérience, ils peuvent créer et développer des inventions de plus en plus complexes, que l'on peut qualifier de synthétiques et d'avant-gardistes compte tenu des réalités du royaume. Souvent inspirés par les doctrines de Gond, ils peuvent créer de véritables chefs-d'œuvre techniques à partir de tout ce qu'ils rencontrent au cours de leurs voyages. Seuls les gnomes peuvent devenir des inventeurs."
         },
         "notes": [
-            "The cob version is outdated but it does include Polish translation."
+            "The CoB version is outdated but includes the Polish translation."
         ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "La version cob n'est plus à jour mais possède la traduction polonaise."
             ]
@@ -22695,9 +22730,11 @@
             "status": "needs_review",
             "source": "Ce mod corrige les animations des armes des anges et planétaires."
         },
-        "notes": [],
+        "notes": [
+            "Compatible with BG2EE and EET."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Compatible BG2EE et EET."
             ]
@@ -24825,9 +24862,9 @@
     },
     {
         "id": 1771,
-        "description": "",
+        "description": "This mod allows traps to be triggered by any character, including enemies and summons, making them useful for tactical purposes. Be careful, though: some creatures and innocent bystanders wander around on their own and may be killed as a result.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ce mod permet aux pièges d'être activés par n'importe quel personnage, y compris des ennemis ou des invocations. Cela permet notamment de les utiliser à des fins tactiques. Attention, certaines créatures ou des innocents errent naturellement et peuvent donc être tués."
         },
         "notes": [],
@@ -24838,9 +24875,9 @@
     },
     {
         "id": 1772,
-        "description": "",
+        "description": "Samurai are professional warriors belonging to the noble class and trained in the arts of war. They are not merely trained for their role in society: they are born into a system of allegiance, loyalty, and honor that shapes every stage of their lives. A samurai cut off from this system is no longer a samurai but an ordinary fighter, a ronin without honor or social standing. Samurai can attain grand mastery in katanas, wakizashis, flails, halberds, and longbows. They can use Kai to raise their Strength to 18/00 and increase the damage they deal for one round. At level 9, they gain Greater Kai, which allows them to stun opponents with every attack.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Les samouraïs sont des guerriers professionnels, membres de la classe noble, formés aux arts de la guerre. Ils ne sont pas seulement formés pour leur rôle dans la société, ils sont nés dans un système d'allégeance, de loyauté et d'honneur qui influence chaque étape de leur vie. Un samouraï détaché de ce système n'est plus un samouraï ; c'est un combattant ordinaire, un ronin sans honneur et sans statut dans la société. Il peut devenir grand maître en maîtrise de katana, wakizashi, fléau, hallebarde et arc long. Il peut lancer Kai qui lui permet d'augmenter sa Force jusqu'à 18/00 et les dégâts infligés pendant 1 round. Au niveau 9, il obtient un Kai majeur qui lui permet d'étourdir ses adversaires à chaque attaque."
         },
         "notes": [],
@@ -24851,14 +24888,16 @@
     },
     {
         "id": 1773,
-        "description": "",
+        "description": "This mod changes the way many spells work, modifies a few items to make the game more challenging, and also adds an arena for duels.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ce mod modifie le fonctionnement de nombreux sorts, modifie quelques objets afin de rendre le jeu plus difficile et propose également une arène pour des duels."
         },
-        "notes": [],
+        "notes": [
+            "It overwrites a great many spells and projectiles."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Il override de très nombreux sorts et projectiles."
             ]
@@ -24866,9 +24905,9 @@
     },
     {
         "id": 1774,
-        "description": "",
+        "description": "This mod adds a strange cloak that greatly improves its wearer's ability to hide in shadows and dodge some projectile attacks. In return, the wearer's Charisma is reduced and, more importantly, they may enter a state of extreme panic at any moment. Potions can cure this condition, but first you have to find a way to make a panicking character drink one…",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ce mod ajoute une cape étrange qui permet à son porteur d'améliorer grandement sa capacité à se camoufler dans les ombres et d'esquiver une partie des attaques de projectiles. En contrepartie, le charisme du porteur est réduit mais surtout, il peut à tout moment rentrer dans un état de grande panique. Des potions permettent de soigner de cet état, encore faut-il trouver un moyen de faire boire une potion à un personnage paniqué…"
         },
         "notes": [],
@@ -24884,9 +24923,11 @@
             "status": "done",
             "source": "Avec ce mod toutes les armures, armes et boucliers du jeu, avec un enchantement supérieur ou égale à +3, commenceront à briller d'une lumière pulsante lorsqu'ils seront équipés (la couleur de cette lumière dépend du type de l'objet et de mes préférences - par exemple, les objets elfiques brilleront d'une lumière verte, etc.)."
         },
-        "notes": [],
+        "notes": [
+            "Overwrites the TLK file and all vanilla +3 items."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Écrase le fichier tlk et tous les objets +3 vanilla."
             ]
@@ -24907,9 +24948,9 @@
     },
     {
         "id": 1777,
-        "description": "",
+        "description": "Pause the game and hover your cursor over a creature: the combat log will display all of its statistics, including hit points, resistances, Armor Class, and more.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Mettez le jeu en pause, passez votre curseur sur une créature et le log affichera toutes les caractéristiques de cette créature : points de vie, résistance, classe d'armure, etc..."
         },
         "notes": [],
@@ -24937,14 +24978,16 @@
     },
     {
         "id": 1779,
-        "description": "",
+        "description": "A WeiDU mod that adds AI-generated English voiceovers for all characters in SoD.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Mod Weidu qui ajoute des voix off en anglais générées par l'IA pour tous les personnages de SoD."
         },
-        "notes": [],
+        "notes": [
+            "A version for BGEE is available: [[1433]]."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Il existe une version pour BGEE : [[1433]]."
             ]
@@ -25040,11 +25083,11 @@
             "source": "Ce mod ajoute 3 capacités spéciales au joueur afin de rendre le jeu un peu plus facile : Résurrection, Sanctuaire et Soin des blessures graves. Pour obtenir ces sorts, il faut boire la potion rouge ou bleue posée dans sur la table à côté des cellules dans le donjon d'Irenicus."
         },
         "notes": [
-            "It erases the dialog.tlk (in English) and ar0602.are. Avoid as much as possible.",
-            "A version for BGEE exists: [[1437]]"
+            "Overwrites dialog.tlk (in English) and ar0602.are. Best avoided if possible.",
+            "A version for BGEE is available: [[1437]]."
         ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Il écrase le fichier dialog.tlk (en anglais) et ar0602.are. À éviter autant que possible.",
                 "Une version pour BGEE existe : [[1437]]."
@@ -25108,6 +25151,19 @@
         }
     },
     {
+        "id": 1791,
+        "description": "Merging two kit mods ([[1420]] and [[1406]]). This mod also offers an upgrade to the Wizard Slayer kit with a passive ability and new HLA, the Beastmaster, which greatly improves the intelligence and abilities of allied animals, and finally the Dragon Disciple with a reincarnation ability.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Fusion de deux mods de kit comme [[1420]] et [[1406]]. Ce mod propose également une amélioration du kit de Tueur de magicien avec une capacité passive et de nouvelles HLA, du Druide totémique qui améliore grandement l'intelligence et les capacités des animaux alliés et enfin du Disciple du dragon avec une capacité de réincarnation."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
         "id": 1792,
         "description": "Here's an anachronic merchant mod that sells some modern firearms (e.g., assault rifles, sniper rifles), military supplies (e.g., bulletproof vests, tactical grenades), and advanced gear. Players with sufficient combat strength can challenge the merchant for rare rewards.|You can find him to the Second floor of Sorcerous Sundries in Baldur's Gate. In SoA, he's at the TradeMeet. In ToB, he's at the Oasis.",
         "description_meta": {
@@ -25122,19 +25178,6 @@
             "source": [
                 "À installer après tous les mods qui ajoutent de l'équipement car celui-ci mdifie les armures."
             ]
-        }
-    },
-    {
-        "id": 1791,
-        "description": "Merging two kit mods ([[1420]] and [[1406]]). This mod also offers an upgrade to the Wizard Slayer kit with a passive ability and new HLA, the Beastmaster, which greatly improves the intelligence and abilities of allied animals, and finally the Dragon Disciple with a reincarnation ability.",
-        "description_meta": {
-            "status": "needs_review",
-            "source": "Fusion de deux mods de kit comme [[1420]] et [[1406]]. Ce mod propose également une amélioration du kit de Tueur de magicien avec une capacité passive et de nouvelles HLA, du Druide totémique qui améliore grandement l'intelligence et les capacités des animaux alliés et enfin du Disciple du dragon avec une capacité de réincarnation."
-        },
-        "notes": [],
-        "notes_meta": {
-            "status": "done",
-            "source": []
         }
     },
     {
@@ -25950,9 +25993,9 @@
     },
     {
         "id": 1854,
-        "description": "",
+        "description": "This small merchant mod adds a seller of armor, helmets, and shields to BG2EE/EET, all available for a modest fee. You can find him in the Adventurer's Mart.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Voici un petit mod de marchand qui vous fournira contre menue monnaie des armures, des heaumes et des boucliers dans vos parties de BG2EE / EET. Vous le trouverez dans le Marché des Aventuriers."
         },
         "notes": [],
@@ -25966,9 +26009,9 @@
         "team": [
             "Lauriel"
         ],
-        "description": "",
+        "description": "This mod adds a new spell merchant, Kaya, whom you can meet at the Adventurer's Mart on Waukeen's Promenade (BG2EE/EET) or at Gerth's shop (IWDEE). For a price, she sells all the protection (green) and arcane scrolls available in the game, along with some very useful artifacts for mages.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ce mod fournit une nouvelle marchande de sorts, Kaya, que l'on peut rencontrer dans le Marché des Aventuriers sur la Promenade de Waukyne (BG2EE/EET) ou la boutique de Gerth (IWDEE). Elle vous fournira contre espèces sonnantes et trébuchantes tous les parchemins de protection (verts) et arcaniques disponibles dans le jeu, sans oublier des artefacts très utiles pour les mages."
         },
         "notes": [],
@@ -25979,9 +26022,9 @@
     },
     {
         "id": 1856,
-        "description": "",
+        "description": "Pym is a jeweler who buys and sells all kinds of gemstones, as you will discover for yourself. You can find him in the Adventurer's Mart on Waukeen's Promenade.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Voici un joailler, Pym, qui vous achètera et vous vendra maintes pierres précieuses comme vous le constaterez par vous-même. On peut renconter Pym dans le Marché des Aventuriers sur la Promenade de Waukyne."
         },
         "notes": [],
@@ -25992,9 +26035,9 @@
     },
     {
         "id": 1857,
-        "description": "",
+        "description": "This mini-mod lets you convert the holy sword Carsomyr into either a bastard sword or a two-handed sword.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ce mini-mod propose de choisir une converson de l'épée sainte Pâle Justicière en épée bâtarde ou en épée à deux mains."
         },
         "notes": [],
@@ -26005,9 +26048,9 @@
     },
     {
         "id": 1858,
-        "description": "",
+        "description": "This small mod introduces a new merchant, Emerson, whom you can meet at the Adventurer's Mart on Waukeen's Promenade (BG2EE/EET) or at Gerth's shop (IWDEE). He sells powerful and useful items and weapons for BG2EE/IWDEE, for a suitable price. The mod also places two additional sets of dragon scales in the game. Altogether, it adds several dozen very powerful new items.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Voici un petit mod introduisant un nouveau marchand, Emerson, que l'on peut renconter dans le Marché des Aventuriers sur la Promenade de Waukyne (BG2EE / EET) ou la boutique de Gerth (IWDEE), qui vous fournira contre moult pièces sonnantes et trébuchantes des objets et des armes plutôt efficaces et fort utiles pour BG2EE/IWDEE ; ce mod placera en outre deux sets d’écailles de dragons supplémentaires. Au total, ce mod ajoute plusieurs dizaines de nouveaux objets très puissants."
         },
         "notes": [],
@@ -26018,9 +26061,9 @@
     },
     {
         "id": 1859,
-        "description": "",
+        "description": "This mod adds a new smith, Artemus, at the Adventurer's Mart. He can improve around thirty items, particularly those belonging to BioWare NPCs. The mod complements other smithing mods such as [[1329]], [[895]], [[738]], and [[900]].",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Voici un nouveau forgeron, Artemus, que l'on trouvera au Marché des Aventuriers, qui permet d'améliorer une trentaine d'objets, notamment les objets des PNJs BioWare. Ce mod est complémentaire aux autres mods de forgeron comme [[1329]], [[895]], [[738]] et [[900]]."
         },
         "notes": [],
@@ -26031,9 +26074,9 @@
     },
     {
         "id": 1860,
-        "description": "",
+        "description": "This small merchant mod adds Aramyr, who sells throwing weapons and ammunition of all kinds for a modest fee in BG2EE/EET. He is located in the Adventurer's Mart.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Voici un petit mod de marchand qui vous fournira contre menue monnaie des armes de jet et des projectiles de tous types dans vos parties de BG2EE / EET. Aramyr est situé dans le Marché des Aventuriers."
         },
         "notes": [],
@@ -26161,14 +26204,16 @@
     },
     {
         "id": 1870,
-        "description": "",
+        "description": "An unofficial patch for the German version of Baldur's Gate. It fixes numerous translation errors and improves menus and item and spell descriptions. The patch is based on official version 1.3.5512 and can also be used with other game versions and installed modifications.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Il s'agit d'un patch non officiel pour la version allemande de Baldurs Gate. Il corrige de nombreuses erreurs de traduction et améliore les menus et les descriptions des objets et des sorts. Le patch est basé sur la version officielle 1.3.5512 et peut également être utilisé avec d'autres versions du jeu ainsi qu'avec des modifications installées."
         },
-        "notes": [],
+        "notes": [
+            "It must be installed before BGT or Tutu."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Il doit être installé avant BGT ou Tutu."
             ]
@@ -26189,9 +26234,9 @@
     },
     {
         "id": 1872,
-        "description": "",
+        "description": "An unofficial patch for the German version of Baldur's Gate II. It fixes numerous translation errors and improves menus and item and spell descriptions. The patch is based on the latest original version of the game and can be used with all earlier versions.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Il s'agit d'un patch non officiel pour la version allemande de Baldurs Gate II. Il corrige de nombreuses erreurs de traduction et améliore les menus et les descriptions des objets et des sorts. Le patch est basé sur la dernière version originale du jeu et peut être utilisé sur toutes les versions précédentes."
         },
         "notes": [],
@@ -26366,9 +26411,9 @@
     },
     {
         "id": 1885,
-        "description": "",
+        "description": "Meet Lilarcor, the talking, murder-obsessed sword. You know it, you love it! It is now available as a soundset for an equally murderous and obsessive player character, with full support for thief skills and everything else.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Voici Lilarcor, l'épée meurtrière qui parle et qui est obnubilée par une seule chose. Vous la connaissez, vous l'adorez ! Elle est désormais disponible sous forme de pack de sons pour un personnage tout aussi meurtrier et obnubilé, avec une prise en charge complète des compétences de voleur et tout le reste."
         },
         "notes": [],
@@ -26379,9 +26424,9 @@
     },
     {
         "id": 1886,
-        "description": "",
+        "description": "Meet Jon Irenicus, the arrogant, megalomaniacal villain we all know and love, voiced by none other than David Warner. He is now available as a soundset for an equally arrogant and megalomaniacal player character, with full support for thief skills and everything else.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Voici Jon Irenicus, le méchant mégalomane et arrogant que nous connaissons et aimons tous, doublé par nul autre que David Warner. Il est désormais disponible sous forme de pack vocal pour un personnage joueur tout aussi mégalomane et arrogant, avec une prise en charge complète des compétences de voleur et tout le reste."
         },
         "notes": [],
@@ -26470,9 +26515,9 @@
     },
     {
         "id": 1893,
-        "description": "",
+        "description": "A compilation of mods [[150]], [[268]], and Baldur's Goth Expansion Pack.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Regroupement des mods [[150]], [[268]] et Baldur's Goth Expansion Pack."
         },
         "notes": [],
@@ -26600,9 +26645,9 @@
     },
     {
         "id": 1903,
-        "description": "",
+        "description": "Pirates of the Realms was intended to let players travel to Maztica, featuring a ship-travel system, three episodes, new recruitable NPCs, new kits, new spells, more than a hundred new areas, and new quests.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Pirates of the Realms devait permettre aux joueurs de rejoindre Maztica et proposait une gestion du voyage en bateau, 3 épisodes, des nouveaux pnjs recrutables, des nouveaux kits, des nouveaux sorts, plus d'une centaine de nouvelles zones et de nouvelles quêtes."
         },
         "notes": [],
@@ -26613,9 +26658,9 @@
     },
     {
         "id": 1904,
-        "description": "",
+        "description": "This mod offers quests, items, and challenging battles.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ce mod propose des quêtes, des objets et des combats difficiles."
         },
         "notes": [],
@@ -26626,9 +26671,9 @@
     },
     {
         "id": 1905,
-        "description": "",
+        "description": "This mod brings NPCs encountered only in Baldur's Gate 1 into Siege of Dragonspear and Baldur's Gate 2. It requires EET and provides a continuous version of these characters across the later games. All the statistics, experience, skills, spells, and other attributes assigned to the NPCs in BG1 will carry over when they appear in SoD and BG2. An NPC must first be recruited in BG1 to appear in SoD and BG2.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ce mod ajoute les PNJ rencontrés uniquement dans Baldur's Gate 1 à Siege of Dragonspear et Baldur's Gate 2. Le mod lui-même nécessite EET et présentera une version continue de ces personnages dans les jeux suivants. Cela signifie que toutes les statistiques, expériences, compétences, sorts, etc. attribués aux PNJ dans BG1 seront présents lorsqu'ils apparaîtront dans SoD et BG2. Pour qu'un PNJ apparaisse dans SoD et BG2, il doit d'abord être recruté dans BG1."
         },
         "notes": [
@@ -28116,9 +28161,11 @@
             "status": "needs_review",
             "source": "Ce mod ajoute une copie de la classe de base « Druide » sous la forme d'un nouveau kit de Clerc, afin de permettre au joueur d'opter pour une double classe entre Druide et Mage ou autre. Il intègre également des scripts de joueur, à l'instar du mod [[722]], qui permettent aux joueurs de choisir le Druide comme option pour leurs multiclasses de Clerc. Les doubles et multiclasses de Guerrier font exception : le joueur doit utiliser les versions d'origine de ces classes à la place."
         },
-        "notes": [],
+        "notes": [
+            "For the EE games, choose [[396]] or [[1338]]."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Pour les versions EE, optez pour [[396]] ou [[1338]]."
             ]
@@ -28139,9 +28186,9 @@
     },
     {
         "id": 2017,
-        "description": "This self-installing archive package contains several separate fix archives to resolve post-official-patch problems in Baldur's Gate/Tales Of The Sword Coast. This ReadMe file has been placed in your Baldur's Gate 2 folder; you may leave it there or delete it at your discretion.",
+        "description": "One of the earliest fixpacks, correcting several known bugs.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Un des premiers fixpack qui corrige plusieurs bugs connus."
         },
         "notes": [],
@@ -28222,9 +28269,11 @@
             "status": "needs_review",
             "source": "Une quête de [[226]] en stand-alone."
         },
-        "notes": [],
+        "notes": [
+            "Copyright issue"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Copyright issue"
             ]
@@ -28362,9 +28411,9 @@
     },
     {
         "id": 2034,
-        "description": "This kitpack add 3 kits :|Thug: Combatant Thief. The Thug uses his brute force to take what he wants when he wants.  He is a vicious ruffian and murderer.|Mercenary: Professional Soldier for Hire.  The Mercenary is a rogue soldier, well rounded in all forms of combat.  He is willing to serve in any guerilla organization, or for any private citizen if the price is right.|Cutthroat: This is the most sly and ruthless thief.  He is the master of the Dagger, and shortsword, and his backstabbing abilities are only matched by that of the assassin. As quick and cunning as an assassin, but very restricted in his choice of weaponry. As ruthless and murderous as a thug, but prefers not to use brute force, or engage in face to face confrontation.  The Cutthroat will take out an enemy when he is least expected",
+        "description": "This kitpack adds three kits:|Thug: A fighting thief. The Thug uses brute force to take whatever he wants, whenever he wants. He is a vicious ruffian and murderer.|Mercenary: A professional soldier for hire. The Mercenary is a rogue soldier skilled in all forms of combat. He is willing to serve any guerrilla organization or private individual, provided the price is right.|Cutthroat: The most cunning and ruthless kind of thief. A master of the dagger and short sword, his backstabbing abilities are surpassed only by those of the assassin. He is as quick and cunning as an assassin but has a very limited choice of weapons. As ruthless and murderous as a Thug, he nevertheless prefers to avoid brute force and face-to-face confrontations. The Cutthroat strikes when his enemy least expects it.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ce kitpack ajoute 3 kits :|Thug : Combattant voleur. Le Thug utilise sa force brute pour prendre ce qu'il veut quand il le veut. C'est un voyou vicieux et un meurtrier.|Mercenaire : Soldat professionnel à louer. Le Mercenaire est un soldat rebelle, doué dans toutes les formes de combat. Il est prêt à servir dans n'importe quelle organisation de guérilla, ou pour n'importe quel particulier si le prix est correct.|Cutthroat : C'est le voleur le plus rusé et le plus impitoyable. Il est passé maître dans le maniement de la dague et de l'épée courte, et sa maîtrise de l'attaque sournoise n'est surpassée que par celle de l'assassin. Aussi rapide et rusé qu'un assassin, mais très limité dans son choix d'armes. Aussi impitoyable et meurtrier qu'un voyou, mais il préfère ne pas recourir à la force brute ni s'engager dans des affrontements en face à face. Le Cutthroat éliminera un ennemi au moment où celui-ci s'y attend le moins"
         },
         "notes": [],
@@ -28392,14 +28441,16 @@
     },
     {
         "id": 2036,
-        "description": "",
+        "description": "A standalone version of a quest from [[226]].",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Une quête de [[226]] en stand-alone."
         },
-        "notes": [],
+        "notes": [
+            "Copyright issue"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Copyright issue"
             ]
@@ -28407,14 +28458,16 @@
     },
     {
         "id": 2037,
-        "description": "",
+        "description": "A standalone version of a quest from [[226]].",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Une quête de [[226]] en stand-alone."
         },
-        "notes": [],
+        "notes": [
+            "Copyright issue"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Copyright issue"
             ]
@@ -28422,14 +28475,16 @@
     },
     {
         "id": 2038,
-        "description": "",
+        "description": "A standalone version of a quest from [[226]].",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Une quête de [[226]] en stand-alone."
         },
-        "notes": [],
+        "notes": [
+            "Copyright issue"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Copyright issue"
             ]
@@ -28437,14 +28492,16 @@
     },
     {
         "id": 2039,
-        "description": "",
+        "description": "A standalone version of a quest from [[226]].",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Une quête de [[226]] en stand-alone."
         },
-        "notes": [],
+        "notes": [
+            "Copyright issue"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Copyright issue"
             ]
@@ -28452,14 +28509,16 @@
     },
     {
         "id": 2040,
-        "description": "",
+        "description": "A standalone version of a quest from [[226]].",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Une quête de [[226]] en stand-alone."
         },
-        "notes": [],
+        "notes": [
+            "Copyright issue"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Copyright issue"
             ]
@@ -28528,9 +28587,11 @@
             "status": "needs_review",
             "source": "Version Roxanne de [[811]]."
         },
-        "notes": [],
+        "notes": [
+            "Copyright issue"
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Copyright issue"
             ]
@@ -29058,9 +29119,9 @@
     },
     {
         "id": 2087,
-        "description": "This mod offers general changes to items (such as prices, a new attack speed system for weapons, adjustments to critical hit, etc.) and additional equipment.",
+        "description": "This mod offers general item tweaks (including prices, a new weapon attack-speed system, changes to critical-hit probabilities, and more), as well as additional equipment.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ce mod propose des modifications génériques d'objets (comme les prix, un nouveau concept de vitesse d'attaque pour les armes, des modifications des probabilités de coup critique etc) et de l'équipement supplémentaire."
         },
         "notes": [],
@@ -29097,9 +29158,9 @@
     },
     {
         "id": 2090,
-        "description": "A small pack that adds quivers of unlimited projectiles to a new shop.",
+        "description": "A small pack that adds quivers of unlimited ammunition to a new shop.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Un petit pack qui ajoute des carquois de projectiles illimité dans un nouveau magasin."
         },
         "notes": [],
@@ -29685,9 +29746,9 @@
     },
     {
         "id": 2134,
-        "description": "|In forgotten magical lore, Dualists represent the archaic predecessors to modern specialist mages. Rather than mastering a single school while rejecting its antithesis, a Dualist focuses purely on two opposing spheres of magic—achieving total mastery over their synthesis while entirely severing their connection to all other schools.",
+        "description": "This mod adds a new kit: the Encikkar.|In forgotten magical traditions, Dualists are the archaic predecessors of modern specialist mages. Rather than mastering one school while rejecting its opposite, a Dualist focuses exclusively on two opposing spheres of magic, achieving complete mastery of their synthesis while severing all ties with every other school.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ce mod ajoute un nouveau kit : The Encikkar.|Dans les traditions oubliées, les dualistes représentent les prédécesseurs archaïques des mages spécialisés modernes. Plutôt que de maîtriser une seule école tout en rejetant son antithèse, un dualiste se concentre exclusivement sur deux sphères opposées de la magie, parvenant à une maîtrise totale de leur synthèse tout en rompant complètement tout lien avec toutes les autres écoles."
         },
         "notes": [
@@ -29810,9 +29871,9 @@
     },
     {
         "id": 2143,
-        "description": "This mod will apply changes in game, in order to make several NPCs continuous without having to make any modifications to the original mods. Around ten NPCs are currently supported, including: [[39]], [[26]], [[194]], [[255]], [[560]], [[611]],  [[1104]], [[1233]], [[1239]].",
+        "description": "This mod changes the game to make several NPCs more consistent across installments, without requiring changes to the original mods. Around ten NPCs are currently supported, including [[39]], [[26]], [[194]], [[255]], [[560]], [[611]], [[1104]], [[1233]], and [[1239]].",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ce mod apporte des modifications au jeu afin de rendre plusieurs PNJ plus cohérents entre les opus, sans qu'il soit nécessaire de modifier les mods d'origine. Une dizaine de pnjs sont actuellement pris en charge dont : [[39]], [[26]], [[194]], [[255]], [[560]], [[611]],  [[1104]], [[1233]], [[1239]]."
         },
         "notes": [],
@@ -30373,9 +30434,9 @@
     },
     {
         "id": 2187,
-        "description": "",
+        "description": "Adds a mage kit loosely inspired by the D&D Archmage, built around more sustainable and flexible magic. It sacrifices some high-level spell slots and burst power in exchange for reusable arcane techniques, highly flexible access to spells, and a progression that gradually improves its mastery of magic.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ajoute un kit de mage inspiré librement de l’Archmage de D&D, pensé autour d’une magie plus durable et plus flexible. Il sacrifie une partie de ses emplacements de sorts de haut niveau et de sa puissance explosive en échange de techniques arcaniques réutilisables, d’un accès très souple aux sorts et d’une progression qui améliore progressivement sa maîtrise de la magie."
         },
         "notes": [],
@@ -30386,9 +30447,9 @@
     },
     {
         "id": 2188,
-        "description": "",
+        "description": "Adds the High Knight, an elite version of the Cavalier intended for human characters. The kit preserves the identity of the classic knight but emphasizes heroic combat against dragons and demons, with powers inspired by the eight chivalric virtues. It is deliberately more powerful than the original kit and does not overwrite the standard Cavalier.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ajoute le High Knight, une version d’élite du Cavalier destinée aux personnages humains. Le kit conserve l’identité du chevalier classique mais accentue son rôle de combattant héroïque contre les dragons et les démons, avec un ensemble de pouvoirs inspirés des huit vertus chevaleresques. Il est volontairement plus puissant que le kit d’origine et n’écrase pas le Cavalier standard."
         },
         "notes": [],
@@ -30399,9 +30460,9 @@
     },
     {
         "id": 2189,
-        "description": "",
+        "description": "Adds a fighter derived from the Kensai who takes sword training to the wuxia ideal of a 'Sword Immortal.' Still unable to wear armor or heavy defensive equipment, this fighter complements swordsmanship with Qi techniques: ranged blade projections, elemental variants, protections, and supernatural movement. The result is a considerably more powerful and versatile version of the Kensai.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ajoute un guerrier dérivé du Kensai qui pousse son entraînement jusqu’à une représentation wuxia du « Sword Immortal ». Toujours privé d’armure et d’équipement défensif lourd, il complète le combat à l’épée par des techniques de Qi : projections de lames à distance, variantes élémentaires, protections et déplacements surnaturels. Le résultat est une version nettement plus puissante et polyvalente du Kensai."
         },
         "notes": [],
@@ -30412,9 +30473,9 @@
     },
     {
         "id": 2190,
-        "description": "",
+        "description": "A fighter kit directly inspired by World of Warcraft. It brings its three main melee approaches—two-handed weapons, dual-wielding fury, and shield defense—into Baldur's Gate, with techniques suited to each role. Depending on equipment and progression, the character can shift between an offensive fighter, a berserker, and a protector.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Kit de guerrier directement inspiré de World of Warcraft. Il transpose ses trois grandes approches de mêlée — armes à deux mains, fureur à deux armes et défense au bouclier — dans Baldur’s Gate, avec des techniques adaptées à chaque rôle. Le personnage peut ainsi passer d’un combattant offensif à un berserker ou à un protecteur selon son équipement et son développement."
         },
         "notes": [],
@@ -30425,9 +30486,9 @@
     },
     {
         "id": 2191,
-        "description": "",
+        "description": "A mage kit featuring numerous new cold-based spells and abilities. It can also cast a greatly enhanced blue Fireshield that lasts eight hours and becomes permanent at level 30.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Kit de mage avec de nombreux nouveaux sorts et capacités basés sur le froid. Il peut aussi lancer un bouclier de feu bleu uber-amélioré qui dure 8 heures et devient permanent au niveau 30."
         },
         "notes": [],
@@ -30438,9 +30499,9 @@
     },
     {
         "id": 2192,
-        "description": "",
+        "description": "Adds the Shura, a fighter-mage designed to depend as little as possible on attributes and equipment. Gameplay revolves around alternating between martial and spellcasting modes, then combining physical and magical techniques instead of simply stacking bonuses. Highly flexible and more powerful than the original classes, it chiefly rewards players who make good use of both aspects.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ajoute le Shura, un guerrier-magicien conçu pour dépendre le moins possible des caractéristiques et de l’équipement. Son gameplay repose sur l’alternance entre un mode martial et un mode de lancer de sorts, puis sur la combinaison de techniques physiques et magiques plutôt que sur la simple accumulation de bonus. Très flexible et plus puissant que les classes d’origine, il demande surtout au joueur de bien exploiter ses deux facettes."
         },
         "notes": [],
@@ -30451,9 +30512,9 @@
     },
     {
         "id": 2193,
-        "description": "",
+        "description": "Adds a martial-arts fighter designed to make melee combat as varied to play as a spellcaster. Rather than relying on a handful of passive bonuses, the kit offers many original techniques to combine according to the situation, with its own progression and advanced abilities. It clearly aims for a more active and powerful experience than that of traditional fighters.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ajoute un combattant d’arts martiaux conçu pour rendre la mêlée aussi variée à jouer qu’un lanceur de sorts. Plutôt que de reposer sur quelques bonus passifs, le kit propose un grand nombre de techniques originales qui doivent être combinées selon la situation, avec une progression et des capacités avancées propres. Il vise clairement une expérience plus active et plus puissante que celle des guerriers classiques."
         },
         "notes": [],
@@ -30464,9 +30525,9 @@
     },
     {
         "id": 2194,
-        "description": "",
+        "description": "A priest kit with passive melee abilities and a great many new spells. Some are random (119 different effects), allowing the summoning of random creatures (from a pool of 179) or transformation into 201 different creatures. Imagine the madness! At high levels, this cleric can even cast specific mage spells (Spell Sequencer, Contingency, Spell Trigger, etc.).",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Kit de prêtre qui a une capacité de mêlée passive plus de très nombreux nouveaux sorts. Certains sont aléatoires (119 effets différents), permettant d'invoquer des créatures aléatoires (parmi 179 différentes) ou de se métamorphoser en 201 différentes créature. Imaginer la folie ! À haut niveau, ce clerc lance même des sorts spécifiques de mage (Séquenceur, Contingence, Enchaînement, etc..."
         },
         "notes": [],
@@ -30477,9 +30538,9 @@
     },
     {
         "id": 2195,
-        "description": "",
+        "description": "Adds a druid entirely devoted to shapeshifting. As the character levels up, they unlock several sets of increasingly varied and powerful forms, each offering different advantages depending on the situation rather than one dominant transformation. The kit turns shapeshifting into a progression system in its own right and offers a much richer alternative to the classic druid.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ajoute un druide entièrement consacré à la métamorphose. Au fil des niveaux, il débloque plusieurs séries de formes de plus en plus variées et puissantes, chacune destinée à offrir des avantages différents selon la situation plutôt qu’une seule transformation dominante. Le kit transforme ainsi la métamorphose en véritable système de progression et constitue une alternative beaucoup plus riche au druide classique."
         },
         "notes": [],
@@ -30490,9 +30551,9 @@
     },
     {
         "id": 2196,
-        "description": "",
+        "description": "Adds an elite barbarian designed for head-on combat. It retains the barbarian's brutal identity while introducing a special combat state and several techniques that turn the character's aggression into surges of power, culminating in a signature 'Musou'-style attack. The kit is deliberately spectacular and noticeably more powerful than the original barbarian.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ajoute un barbare d’élite conçu pour le combat frontal. Il conserve l’identité brutale du barbare mais y ajoute un état de combat spécial et plusieurs techniques permettant de convertir l’agressivité du personnage en poussées de puissance, jusqu’à une attaque signature de type « Musou ». Le kit est volontairement spectaculaire et sensiblement plus puissant que le barbare d’origine."
         },
         "notes": [],
@@ -30503,14 +30564,16 @@
     },
     {
         "id": 2197,
-        "description": "",
+        "description": "Adds a powerful vampire-lord archetype, free of many weaknesses normally associated with vampires while retaining their main strengths. Gameplay centers on shapeshifting and blood-based techniques used to grow stronger, create servants, or inflict lasting weakness on victims. The kit is deliberately very powerful and represents a vampire at the pinnacle of its bloodline rather than a still-vulnerable hybrid.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ajoute un puissant archétype de seigneur vampire, débarrassé d’une grande partie des faiblesses habituellement associées aux vampires tout en conservant leurs principaux atouts. Son gameplay repose sur les changements de forme et sur diverses techniques sanguines permettant de se renforcer, de créer des serviteurs ou d’affaiblir durablement ses victimes. Le kit est volontairement très puissant et représente un vampire arrivé au sommet de sa lignée plutôt qu’un hybride encore vulnérable."
         },
-        "notes": [],
+        "notes": [
+            "Downloading requires a CAPTCHA that needs a phone."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
             ]
@@ -30518,14 +30581,16 @@
     },
     {
         "id": 2198,
-        "description": "",
+        "description": "A sorcerer kit that takes draconic heritage to the simultaneous awakening of all five chromatic bloodlines. It can assume different wyvern or dragon forms, continue casting spells while transformed, and switch between dragon forms as the situation demands. In exchange for this versatility and considerable physical strength, it can cast one fewer spell per spell level per day.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Kit d’ensorceleur qui pousse l’héritage draconique jusqu’à l’éveil simultané des cinq lignées chromatiques. Il peut adopter différentes formes de wyverne ou de dragon, continuer à lancer des sorts une fois transformé et passer d’une forme draconique à l’autre selon la situation. En contrepartie de cette polyvalence et de sa forte puissance physique, il dispose d’un lancement de sort de moins par niveau et par jour."
         },
-        "notes": [],
+        "notes": [
+            "The old 3DM link given in the source is reported to have been repurposed and was therefore not retained."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "L’ancien lien 3DM indiqué dans la source est signalé comme recyclé et n’a pas été repris."
             ]
@@ -30533,9 +30598,9 @@
     },
     {
         "id": 2199,
-        "description": "",
+        "description": "The Time-Space Harmonizer is a priest who manipulates time and space in exchange for temporary sacrifices to ability scores.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Le Time-Space Harmonizer est un prêtre qui manipule le temps et l’espace en échange de sacrifices temporaires de caractéristiques."
         },
         "notes": [],
@@ -30546,9 +30611,9 @@
     },
     {
         "id": 2200,
-        "description": "",
+        "description": "The Shadow Dancer is a thief focused more on combat and shadow powers than on traditional utility skills.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Le Shadow Dancer est un voleur davantage tourné vers le combat et les pouvoirs d’ombre que vers les fonctions utilitaires traditionnelles."
         },
         "notes": [],
@@ -30559,9 +30624,9 @@
     },
     {
         "id": 2201,
-        "description": "",
+        "description": "Urkodoël is an anarchilich whom you can find in Athkatla's Graveyard, in the dead end beside Uncle Lester (BG2EE), or in the small cave in the lower-left corner of Kuldahar Pass (IWDEE).|He can teach arcane spells to any cleric, druid, or shaman (including multiclass characters). This costs no gold. Instead, it permanently reduces maximum hit points by 1 per spell level.|Since that is a steep price for a single spell, Urkodoël also grants the corresponding spell memorization slot.|Urkodoël also offers level 8, level 9, and epic (HLA) spells, learned as level 7 spells.|Urkodoël also sells equipment, including three amulets that can alter how his services work.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Urkodoël est une anarchiliche que vous pouvez trouver dans le cimetière d'Athkatla, dans le cul-de-sac à côté de l'oncle Lester (BG2EE) ou dans la petite grotte en bas à gauche de la Passe de Kuldahar (IWDEE).|Il peut apprendre à n'importe quel clerc, druide ou chaman (multiclasses incluses) des sorts arcaniques. Cela ne coûte pas d'or. À la place, ça coûte des points de vie maximaux définitivement perdus, 1 point de vie par niveau de sort.|Comme cela fait cher pour un sort, Urkodoël donne aussi la capacité de mémorisation qui accompagne le sort.|Urkodoël propose aussi les sorts de niveaux 8, 9 et épiques (HLA), qui sont appris comme des sorts de niveau 7.|Urkodoël vend aussi du matériel, dont 3 amulettes qui peuvent changer son fonctionnement."
         },
         "notes": [],
@@ -30572,9 +30637,9 @@
     },
     {
         "id": 2202,
-        "description": "",
+        "description": "A thief kit primarily intended as a stepping stone toward dual-classing into a mage. Most of its advantages are concentrated in the first nine levels, with a strong anti-magic focus and several ways to imitate or support arcane magic. Afterward, it progresses almost like a normal thief and receives no HLAs. The author presents it as a deliberately versatile choice rather than a strictly balanced one.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Kit de voleur pensé avant tout comme une étape vers un jumelage en mage. Il concentre l’essentiel de ses avantages dans les neuf premiers niveaux, avec une forte orientation anti-magie et plusieurs moyens d’imiter ou de soutenir la magie profane, puis évolue presque comme un voleur normal et ne reçoit pas de HLA. L’auteur le présente comme un choix volontairement très polyvalent plutôt que strictement équilibré."
         },
         "notes": [],
@@ -30585,9 +30650,9 @@
     },
     {
         "id": 2203,
-        "description": "",
+        "description": "An elaborate vampiric thief kit in which the character alternates between human, vampire, and bat forms. Gameplay revolves around blood, which largely replaces conventional healing and can be used in several offensive or defensive ways. This power comes with real limitations: vulnerability to sunlight, restrictions on thief abilities, slower progression, and an inability to benefit normally from conventional healing and HLAs.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Kit de voleur vampirique très élaboré dans lequel le personnage alterne entre forme humaine, forme de vampire et forme de chauve-souris. Son gameplay repose sur le sang, qui remplace en grande partie les soins ordinaires et peut être utilisé de plusieurs manières offensives ou défensives. Cette puissance s’accompagne de vraies contraintes : vulnérabilité au soleil, limitations de voleur, progression plus lente et impossibilité de profiter normalement des soins et HLA classiques."
         },
         "notes": [],
@@ -30598,9 +30663,9 @@
     },
     {
         "id": 2204,
-        "description": "",
+        "description": "A druid kit built entirely around shapeshifting. It replaces the usual natural forms with a multi-stage progression granting access to a vast array of humanoid, animal, monstrous, and eventually legendary bodies, each with its own role and properties. Players choose the form best suited to the situation rather than simply unlocking an ever-better transformation, at the cost of several traditional druid abilities.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Kit de druide entièrement construit autour de la métamorphose. Il remplace les formes naturelles habituelles par une progression en plusieurs paliers donnant accès à un très grand nombre de corps humanoïdes, animaux, monstrueux puis légendaires, chacun ayant un rôle et des propriétés propres. Le joueur choisit donc la forme adaptée à la situation plutôt que de simplement débloquer une transformation toujours meilleure, au prix de plusieurs capacités traditionnelles du druide."
         },
         "notes": [],
@@ -30611,9 +30676,9 @@
     },
     {
         "id": 2205,
-        "description": "",
+        "description": "A thief-kit adaptation of the Horizon Walker / Earth Traveler from D&D 3e. As the character advances, they choose the natural or planar terrains they master, gaining permanent advantages and greater effectiveness against associated dangers and creatures. They can specialize heavily in a few environments or become a versatile traveler, making this a highly customizable kit.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Adaptation en kit de voleur du Horizon Walker / Earth Traveler de D&D 3e. À mesure qu’il progresse, le personnage choisit les terrains naturels ou planaires qu’il maîtrise et reçoit des avantages permanents ainsi qu’une meilleure efficacité contre les dangers et créatures associés. Il peut se spécialiser fortement dans quelques environnements ou devenir un voyageur polyvalent, ce qui en fait un kit très modulable."
         },
         "notes": [],
@@ -30624,9 +30689,9 @@
     },
     {
         "id": 2206,
-        "description": "",
+        "description": "Adds a lightly armored combat sorcerer inspired by Archer/EMIYA from Fate, without attempting an exact recreation. The Soul Blader materializes magic as weapons and combines genuine martial progression with a spell repertoire. Its signature high-level ability draws on the idea of Unlimited Blade Works as a lengthy, multi-stage incantation that can be interrupted if the character is injured.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Ajoute un ensorceleur de combat léger inspiré d’Archer/EMIYA de Fate, sans chercher à le reproduire à l’identique. Le Soul Blader matérialise sa magie sous forme d’armes et associe une vraie progression martiale à son répertoire de sorts. Sa capacité emblématique de très haut niveau reprend l’idée d’Unlimited Blade Works sous la forme d’une longue incantation en plusieurs étapes, qui peut être interrompue si le personnage est blessé."
         },
         "notes": [],
@@ -30637,9 +30702,9 @@
     },
     {
         "id": 2207,
-        "description": "",
+        "description": "A fighter kit inspired by Gilgamesh, the King of Heroes from Fate, primarily designed as a 'just for fun' mod and deliberately extremely powerful. Its gameplay revolves around a supernatural treasury from which it can launch or summon a whole arsenal, alongside control techniques and an iconic ultimate attack. The author acknowledges that the kit's power level is almost intentionally 'bugged.'",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Kit de guerrier inspiré de Gilgamesh, le Roi des Héros de Fate, conçu avant tout comme un mod « pour le fun » et volontairement extrêmement puissant. Son gameplay tourne autour d’un trésor surnaturel permettant de projeter ou d’invoquer tout un arsenal, avec des techniques de contrôle et une attaque ultime emblématique. L’auteur reconnaît lui-même que la puissance du kit est proche du « bug » assumé."
         },
         "notes": [],
@@ -30650,14 +30715,16 @@
     },
     {
         "id": 2208,
-        "description": "",
+        "description": "A second kit included in the same mod, devoted entirely to mastering fire. It combines summons of fiery creatures, area control, elemental protections, and large-scale attacks, with strong fire resistance but a pronounced weakness to cold. As the original version was also deliberately excessive, the author subsequently provided a toned-down variant.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Second kit proposé dans le même mod, centré entièrement sur la maîtrise du feu. Il combine invocations de créatures enflammées, contrôle de zones, protections élémentaires et attaques de grande ampleur, avec une forte résistance au feu mais une faiblesse marquée au froid. La version d’origine étant elle aussi volontairement excessive, l’auteur a ensuite fourni une variante réduisant sa puissance."
         },
-        "notes": [],
+        "notes": [
+            "The source file mentions a less powerful variant dated 28 April 2009."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Une variante moins puissante est indiquée dans le fichier source, datée du 28/04/2009."
             ]
@@ -30665,9 +30732,9 @@
     },
     {
         "id": 2209,
-        "description": "",
+        "description": "Turns the bard into a ranged battlemage specializing in magical projectiles that they manufacture and use as thrown weapons. The kit therefore favors ranged harassment and offensive progression closer to a marksman than a traditional bard, while retaining its identity as a light spellcaster.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Transforme le barde en mage de combat à distance spécialisé dans des projectiles magiques qu’il fabrique lui-même et utilise comme des armes de lancer. Le kit privilégie donc le harcèlement à distance et une progression offensive plus proche d’un tireur que d’un barde traditionnel, tout en conservant son identité de lanceur de sorts léger."
         },
         "notes": [],
@@ -30678,9 +30745,9 @@
     },
     {
         "id": 2210,
-        "description": "",
+        "description": "Turns the priest into a Warlock inspired by D&D 3.5. It abandons traditional divine magic in favor of at-will invocations gained through pacts that may cost hit points or ability scores. Its main magical attack can be reshaped in range, damage type, or effects, after which the character specializes in one of several occult paths.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Transforme le prêtre en Warlock inspiré de D&D 3.5. Il abandonne la magie divine classique au profit d’invocations utilisables à volonté, acquises par des pactes qui peuvent coûter des points de vie ou des caractéristiques. Son attaque magique principale peut être remodelée en portée, type de dégâts ou effets, puis le personnage se spécialise dans l’une de plusieurs voies occultes."
         },
         "notes": [],
@@ -30691,14 +30758,16 @@
     },
     {
         "id": 2211,
-        "description": "",
+        "description": "A kit designed specifically for Minsc, replacing his uncontrollable rage with a more manageable form of berserking in combat. It preserves his identity as a brutal ranger while removing some more traditional ranger powers. To avoid conflicts, the mod does not directly replace Minsc's character file: the kit must be assigned to him separately, for example with Shadow Keeper.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Kit conçu spécialement pour Minsc, qui remplace sa rage incontrôlable par une forme de berserk plus exploitable en combat. Il conserve l’identité de rôdeur brutal du personnage tout en supprimant certains pouvoirs plus classiques du rôdeur. Le mod ne remplace pas directement le fichier de Minsc afin d’éviter les conflits : le kit doit lui être attribué séparément, par exemple avec Shadow Keeper."
         },
-        "notes": [],
+        "notes": [
+            "The kit must be assigned to Minsc separately, for example with Shadow Keeper."
+        ],
         "notes_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": [
                 "Le kit doit être attribué à Minsc séparément, par exemple avec Shadow Keeper."
             ]
@@ -30706,9 +30775,9 @@
     },
     {
         "id": 2212,
-        "description": "",
+        "description": "A pack of seven deliberately very powerful kits covering most major class families. The idea is to combine roles or advantages normally divided among different kits, with their own progression and HLAs, so that the party can compete with the most aggressive difficulty mods. The pack does not aim to match the balance of the original classes.",
         "description_meta": {
-            "status": "todo",
+            "status": "needs_review",
             "source": "Pack de sept kits volontairement très puissants, couvrant la plupart des grandes familles de classes. Leur principe est de combiner plusieurs rôles ou avantages normalement séparés entre différents kits, avec des progressions et HLA propres, afin de permettre au groupe de rivaliser avec les mods de difficulté les plus agressifs. Il ne cherche donc pas à rester au niveau d’équilibrage des classes originales."
         },
         "notes": [],
