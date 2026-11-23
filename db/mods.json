@@ -31982,7 +31982,7 @@
     {
         "id": 901,
         "name": "Rukrakia",
-        "description": "Ce mod ajoute un nouveau PNJ, Rukrakia, originaire des montagnes du Calimshan. Généralement amicale et sympathique, c'est aussi une guerrière/voleuse compétente qui se sert impitoyablement de son couteau. Elle est ouverte à une romance avec un personnage masculin et dispose de ses propres quêtes. De nombreuses heures de jeu, de nouvelles zones (ToB uniquement). Attention, ce mod écrase les fichiers, dont la worldmap.|FOR 15, DEX 24, CON 16, INT 18, SAG 16, CHA 21.",
+        "description": "Ce mod ajoute un nouveau PNJ, Rukrakia, originaire des montagnes du Calimshan. Généralement amicale et sympathique, c'est aussi une guerrière/voleuse compétente qui se sert impitoyablement de son couteau. Elle est ouverte à une romance avec un personnage masculin et dispose de ses propres quêtes. De nombreuses heures de jeu, de nouvelles zones (ToB uniquement).|FOR 15, DEX 24, CON 16, INT 18, SAG 16, CHA 21.",
         "urls": [
             "https://www.shsforums.net/topic/61044-rukrakia/",
             "https://github.com/Spellhold-Studios/Miscellaneous/raw/refs/heads/main/mods/1309492052_rukrakiav.08.7z"
@@ -31999,7 +31999,8 @@
         ],
         "team": [],
         "notes": [
-            "L'audio est en anglais."
+            "L'audio est en anglais.",
+            "Attention, ce mod écrase les fichiers, dont la worldmap."
         ],
         "translation_state": "auto",
         "safe": 0,
@@ -52481,7 +52482,7 @@
     {
         "id": 1478,
         "name": "Dualadins - Paladins can dual-class",
-        "description": "Ce mod propose de lever des restrictions du moteur jeu qui empêche les Paladins d'être multiclassé. Mais l'utilisation d'éditeurs de sauvegardes entraînait un plantage du jeu.",
+        "description": "Ce mod propose de lever des restrictions du moteur jeu qui empêche les Paladins d'être multiclassé alors que même l'utilisation d'éditeurs de sauvegardes entraîne un plantage du jeu.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/38553-sci-dualadins/",
             "https://www.nexusmods.com/baldursgate/mods/75/",

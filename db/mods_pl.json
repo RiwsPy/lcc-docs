@@ -12371,7 +12371,8 @@
         "notes_meta": {
             "status": "todo",
             "source": [
-                "L'audio est en anglais."
+                "L'audio est en anglais.",
+                "Attention, ce mod écrase les fichiers, dont la worldmap."
             ]
         }
     },
@@ -20310,7 +20311,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod propose de lever des restrictions du moteur jeu qui empêche les Paladins d'être multiclassé. Même l'utilisation d'éditeurs de sauvegardes entraînait un plantage du jeu."
+            "source": "Ce mod propose de lever des restrictions du moteur jeu qui empêche les Paladins d'être multiclassé alors que même l'utilisation d'éditeurs de sauvegardes entraîne un plantage du jeu."
         },
         "notes": [],
         "notes_meta": {
@@ -28294,7 +28295,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Un tout petit mod qui ajoute sept répliques entre Boo et Wilson. Au fil des échanges, Boo apprend peu à peu à mieux connaître Wilson et tire quelques leçons du meilleur ours du monde."
+            "source": "Un tout petit mod qui ajoute sept banters entre Boo et Wilson. Au fil des échanges, Boo apprend peu à peu à mieux connaître Wilson et tire quelques leçons du meilleur ours du monde."
         },
         "notes": [],
         "notes_meta": {
@@ -29675,10 +29676,8 @@
         },
         "notes": [],
         "notes_meta": {
-            "status": "todo",
-            "source": [
-                "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -29728,6 +29727,179 @@
         "description_meta": {
             "status": "todo",
             "source": "Premier composant fantaisiste du YYmod : ajoute une potion de vie à régénération prolongée et une potion de magie permettant temporairement de lancer beaucoup plus librement des sorts."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2187,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ajoute un kit de mage inspiré librement de l’Archmage de D&D, pensé autour d’une magie plus durable et plus flexible. Il sacrifie une partie de ses emplacements de sorts de haut niveau et de sa puissance explosive en échange de techniques arcaniques réutilisables, d’un accès très souple aux sorts et d’une progression qui améliore progressivement sa maîtrise de la magie."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2188,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ajoute le High Knight, une version d’élite du Cavalier destinée aux personnages humains. Le kit conserve l’identité du chevalier classique mais accentue son rôle de combattant héroïque contre les dragons et les démons, avec un ensemble de pouvoirs inspirés des huit vertus chevaleresques. Il est volontairement plus puissant que le kit d’origine et n’écrase pas le Cavalier standard."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2189,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ajoute un guerrier dérivé du Kensai qui pousse son entraînement jusqu’à une représentation wuxia du « Sword Immortal ». Toujours privé d’armure et d’équipement défensif lourd, il complète le combat à l’épée par des techniques de Qi : projections de lames à distance, variantes élémentaires, protections et déplacements surnaturels. Le résultat est une version nettement plus puissante et polyvalente du Kensai."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2190,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de guerrier directement inspiré de World of Warcraft. Il transpose ses trois grandes approches de mêlée — armes à deux mains, fureur à deux armes et défense au bouclier — dans Baldur’s Gate, avec des techniques adaptées à chaque rôle. Le personnage peut ainsi passer d’un combattant offensif à un berserker ou à un protecteur selon son équipement et son développement."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2191,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de mage avec de nombreux nouveaux sorts et capacités basés sur le froid. Il peut aussi lancer un bouclier de feu bleu uber-amélioré qui dure 8 heures et devient permanent au niveau 30."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2192,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ajoute le Shura, un guerrier-magicien conçu pour dépendre le moins possible des caractéristiques et de l’équipement. Son gameplay repose sur l’alternance entre un mode martial et un mode de lancer de sorts, puis sur la combinaison de techniques physiques et magiques plutôt que sur la simple accumulation de bonus. Très flexible et plus puissant que les classes d’origine, il demande surtout au joueur de bien exploiter ses deux facettes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2193,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ajoute un combattant d’arts martiaux conçu pour rendre la mêlée aussi variée à jouer qu’un lanceur de sorts. Plutôt que de reposer sur quelques bonus passifs, le kit propose un grand nombre de techniques originales qui doivent être combinées selon la situation, avec une progression et des capacités avancées propres. Il vise clairement une expérience plus active et plus puissante que celle des guerriers classiques."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2194,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de prêtre qui a une capacité de mêlée passive plus de très nombreux nouveaux sorts. Certains sont aléatoires (119 effets différents), permettant d'invoquer des créatures aléatoires (parmi 179 différentes) ou de se métamorphoser en 201 différentes créature. Imaginer la folie ! À haut niveau, ce clerc lance même des sorts spécifiques de mage (Séquenceur, Contingence, Enchaînement, etc..."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2195,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ajoute un druide entièrement consacré à la métamorphose. Au fil des niveaux, il débloque plusieurs séries de formes de plus en plus variées et puissantes, chacune destinée à offrir des avantages différents selon la situation plutôt qu’une seule transformation dominante. Le kit transforme ainsi la métamorphose en véritable système de progression et constitue une alternative beaucoup plus riche au druide classique."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2196,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ajoute un barbare d’élite conçu pour le combat frontal. Il conserve l’identité brutale du barbare mais y ajoute un état de combat spécial et plusieurs techniques permettant de convertir l’agressivité du personnage en poussées de puissance, jusqu’à une attaque signature de type « Musou ». Le kit est volontairement spectaculaire et sensiblement plus puissant que le barbare d’origine."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2197,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ajoute un puissant archétype de seigneur vampire, débarrassé d’une grande partie des faiblesses habituellement associées aux vampires tout en conservant leurs principaux atouts. Son gameplay repose sur les changements de forme et sur diverses techniques sanguines permettant de se renforcer, de créer des serviteurs ou d’affaiblir durablement ses victimes. Le kit est volontairement très puissant et représente un vampire arrivé au sommet de sa lignée plutôt qu’un hybride encore vulnérable."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+            ]
+        }
+    },
+    {
+        "id": 2198,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit d’ensorceleur qui pousse l’héritage draconique jusqu’à l’éveil simultané des cinq lignées chromatiques. Il peut adopter différentes formes de wyverne ou de dragon, continuer à lancer des sorts une fois transformé et passer d’une forme draconique à l’autre selon la situation. En contrepartie de cette polyvalence et de sa forte puissance physique, il dispose d’un lancement de sort de moins par niveau et par jour."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "L’ancien lien 3DM indiqué dans la source est signalé comme recyclé et n’a pas été repris."
+            ]
+        }
+    },
+    {
+        "id": 2199,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Petit pack réunissant deux kits très différents. Le Time-Space Harmonizer est un prêtre qui manipule le temps et l’espace en échange de sacrifices temporaires de caractéristiques, tandis que le Shadow Dancer est un voleur beaucoup plus tourné vers le combat et les pouvoirs d’ombre que vers les fonctions utilitaires traditionnelles."
         },
         "notes": [],
         "notes_meta": {
