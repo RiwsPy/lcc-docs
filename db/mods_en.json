@@ -30785,5 +30785,148 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2213,
+        "description": "A thief kit devoted to Taoist arts, wielding numerous 'taos': supernatural powers that take longer to cast than conventional spells but are more potent. It also gains combat techniques, healing abilities, shapeshifting and even the ability to brew elixirs. Its AC, THAC0 and saving throws improve every four levels, but using these powers temporarily slows casting and increases fatigue and saving-throw penalties.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de voleur pratiquant les arts taoïstes, capable d'utiliser de nombreux « taos », des pouvoirs surnaturels plus lents à lancer que les sorts classiques, mais plus puissants. Il dispose de techniques de combat, de soins, de transformations et peut même fabriquer des élixirs. Il gagne des bonus à la CA, au TAC0 et aux jets de sauvegarde tous les quatre niveaux, mais l'utilisation de ses pouvoirs entraîne des pénalités temporaires à l'incantation, à la fatigue et aux jets de sauvegarde."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2214,
+        "description": "A druid kit that spontaneously casts nature magic, with an expanded selection of offensive, crowd-control and support spells. It can take the form of a werewolf, dryad or various elementals, and eventually gain the benefits of those forms without transforming. Its abilities improve every five levels, and its high-level powers grant numerous immunities, but it cannot dual-class or multiclass.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de druide capable de lancer spontanément des sorts de magie naturelle, avec un répertoire enrichi de sorts offensifs, de contrôle et de soutien. Il peut se transformer en loup-garou, en dryade ou en différents élémentaires, puis acquérir leurs pouvoirs sans changer de forme. Ses capacités progressent tous les cinq niveaux et ses pouvoirs de haut niveau lui accordent de nombreuses immunités, mais il ne peut ni se jumeler ni se multiclasser."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2215,
+        "description": "A mage kit combining traditional and spontaneous spellcasting, with many additional spells and powerful transformations. Every ten levels it improves its AC, THAC0, Intelligence, Charisma and casting speed. From level 20, its arcane energy reserve can restore memorized spells, while mythic powers unlock enhanced forms and free spellcasting at the cost of a 25% reduction in experience gained.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de mage combinant magie classique et magie spontanée, avec de nombreux sorts supplémentaires et de puissantes métamorphoses. Il gagne tous les dix niveaux des bonus à la CA, au TAC0, à l'Intelligence, au Charisme et à la vitesse d'incantation. Sa réserve d'énergie arcanique permet de récupérer des sorts mémorisés dès le niveau 20, tandis que ses pouvoirs mythiques offrent des transformations améliorées et des sorts gratuits, au prix d'une réduction de 25 % de l'expérience gagnée."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2216,
+        "description": "A kit whose song improves luck and vision and grants various immunities as it levels up. It combines supernatural combat techniques with teleportation, powerful attacks and temporary protection. At high levels, it can resonate with different planes to gain resistances, extra spell slots and new magical abilities. It has no special restrictions.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit utilisant un chant qui améliore la chance, la vision et accorde diverses immunités au fil des niveaux. Il dispose de techniques de combat surnaturelles mêlant téléportation, attaques puissantes et protections temporaires. À haut niveau, il peut entrer en résonance avec différents plans pour obtenir des résistances, des emplacements de sorts supplémentaires et de nouvelles capacités magiques. Aucune restriction particulière."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2217,
+        "description": "A Dota-inspired thief kit built around mobility, evasion and explosive burst damage. It can blink to enemies, throw magical daggers, turn invisible and deal devastating damage through critical strikes. Its AC, THAC0 and damage improve every five levels, but it sacrifices backstab multipliers and access to traps before gaining high-level abilities.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de voleur inspiré de Dota, spécialisé dans la mobilité, l'esquive et les dégâts explosifs. Il peut se téléporter sur ses ennemis, lancer des dagues magiques, devenir invisible et infliger des dégâts considérables grâce à ses coups critiques. Il gagne des bonus à la CA, au TAC0 et aux dégâts tous les cinq niveaux, mais perd les multiplicateurs d'attaque sournoise et l'accès aux pièges avant les capacités de haut niveau."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2218,
+        "description": "A support-oriented kit designed for multiclassing, able to cast cleric spells and some druid spells spontaneously. Focused on party healing, it channels positive energy to heal several allies and can apply numerous protective spells in a single casting. It also gains improved resistances, saving throws and casting speed, along with immunity to disease and poison.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de soutien conçu pour le multiclassage, capable de lancer spontanément les sorts de prêtre et certains sorts de druide. Spécialisé dans les soins de groupe, il peut canaliser l'énergie positive pour soigner plusieurs alliés et lancer de nombreuses protections en une seule incantation. Il gagne des bonus aux résistances, aux jets de sauvegarde et à la vitesse d'incantation, ainsi que des immunités aux maladies et aux poisons."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2219,
+        "description": "A versatile fighter kit with a choice of combat techniques, including rage, whirlwind attacks, inspiring allies and enhanced defense. At higher levels, it unlocks stronger moves that let it leap at enemies, taunt multiple foes, unleash a blade storm or survive otherwise fatal blows. Tougher than a conventional fighter, it trades away some weapon mastery.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de guerrier polyvalent qui peut choisir parmi diverses techniques de combat : rage, attaques tournoyantes, encouragement des alliés ou défense renforcée. À haut niveau, il débloque des capacités plus puissantes permettant notamment de bondir sur ses ennemis, de provoquer plusieurs adversaires, de déclencher une tempête de lames ou de survivre à des coups mortels. Plus résistant qu'un guerrier classique, il sacrifie en contrepartie une partie de sa maîtrise des armes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2220,
+        "description": "A sorcerer kit with exclusive spells and three magical bloodlines—arcane, fey and fel—that it can switch between to change its abilities. It mixes offensive magic, life draining, healing and demonic transformations, while benefiting from more favorable wild magic with no surges for most spells. Its high-level abilities enhance elemental power and defenses, replacing the usual high-level abilities.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit d'ensorceleur doté de sorts exclusifs et de trois lignées magiques — arcanique, féerique et gangrenée — entre lesquelles il peut alterner pour changer ses pouvoirs. Il combine magie offensive, drain de vie, soins et transformations démoniaques, tout en bénéficiant d'une magie entropique plus favorable et sans risque de hiatus pour la plupart de ses sorts. Ses capacités de haut niveau renforcent ses pouvoirs élémentaires et ses défenses, mais remplacent les capacités de haut niveau habituelles."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2221,
+        "description": "A paladin kit dedicated to battling demons, undead and creatures that corrupt souls. It combines spontaneous divine spells, acrobatic combat techniques and defensive powers, with abilities that recharge automatically. At high levels, it can choose between two paths: a protector wielding a spiritual shield or a celestial crusader focused on devastating two-handed attacks.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de paladin spécialisé dans la lutte contre les démons, les morts-vivants et les créatures qui corrompent les âmes. Il combine sorts divins spontanés, techniques de combat acrobatiques et pouvoirs défensifs, avec des capacités qui se rechargent automatiquement. À haut niveau, il peut choisir entre deux voies : un protecteur équipé d'un bouclier spirituel ou un croisé céleste privilégiant les attaques dévastatrices à deux mains."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2222,
+        "description": "A divine warrior kit designed to protect and support the party, combining spontaneous cleric spells, area healing and martial techniques. It can switch between offensive, defensive and spellcasting-focused fighting styles, using rolls, teleportation and parries that restore its spells. Particularly suited to parties facing formidable enemies, it can also create magical duplicates to fight alongside it.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de combattant divin conçu pour protéger et soutenir son groupe, combinant sorts de prêtre spontanés, soins de zone et techniques martiales. Il peut alterner entre plusieurs styles de combat offensifs, défensifs ou favorisant l'incantation, tout en utilisant des roulades, des téléportations et des parades qui restaurent ses sorts. Particulièrement adapté aux groupes affrontant des ennemis très puissants, il peut également créer des doubles magiques pour l'aider au combat."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2223,
+        "description": "A ranger kit blending exploration, thief skills and animal-companion mastery. It can summon and strengthen creatures such as phase spiders, basilisks and shadow wolves, while using tracking, escape and trapping techniques. Its elemental powers let it adapt its fighting style, and its high-level abilities enhance both its companions and its exploration skills.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de rôdeur mêlant exploration, compétences de voleur et maîtrise des compagnons animaux. Il peut invoquer et améliorer diverses créatures, comme des araignées éclipsantes, des basilics ou des loups des ombres, tout en utilisant des techniques de pistage, de fuite et de capture. Ses pouvoirs élémentaires lui permettent d'adapter son style de combat, tandis que ses capacités de haut niveau renforcent ses compagnons et ses talents d'explorateur."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
     }
 ]
