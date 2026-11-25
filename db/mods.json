@@ -2038,7 +2038,7 @@
     {
         "id": 57,
         "name": "Aran Whitehand",
-        "description": "Toujours en version bêta, ce mod est un peu particulier dans la mesure ou son code est \"open source\". Son auteur l'a laissé à la disposition d'autres modeurs pour le faire évoluer.|Aran Whitehand a des quêtes facultatives mineures avec une nouvelle zone, mais n'a pas d'armes spéciales ni d'objets évolutifs - sa spécialité est d'interagir avec les membres du groupe et de s'adapter aux situations. Pour lui, le travail est primordial, et son travail est d'accompagner le joueur. Il n'est pas réticent à devoir exécuter des ordres qui déforment la morale, bien qu'il déteste le faire. Il se liera d'amitié avec n'importe quel protagoniste de n'importe quelle race ou alignement, bien que la façon dont il réagira aux situations fera certainement savoir au joueur ce qu'il ressent. Homme rude, habitué au mercenariat, Aran peut être embauché comme scribe, comptable, mais aussi garde du corps. Son langage est rude, son approche peu raffinée. Et si vous ne l'aimez pas, il se fera un plaisir de vous dire exactement ce que vaut votre opinion.|C'est un combattant humain, double classable, afin qu'il puisse être bricoleur, tailleur, soldat, espion... tout ce dont votre groupe a besoin. En gros, un couteau suisse humain enrôlé pour l'amitié/les câlins. Il convient de noter que ce mod est conçu par des adultes pour des adultes et ne doit pas être installé à moins que vous ne soyez à l'aise avec les jurons fééruniens et la partie romance pour adultes.",
+        "description": "Ce mod est un peu particulier dans la mesure ou son code est \"open source\". Son auteur l'a laissé à la disposition d'autres modeurs pour le faire évoluer.|Aran Whitehand a des quêtes facultatives mineures avec une nouvelle zone, mais n'a pas d'armes spéciales ni d'objets évolutifs - sa spécialité est d'interagir avec les membres du groupe et de s'adapter aux situations. Pour lui, le travail est primordial, et son travail est d'accompagner le joueur. Il n'est pas réticent à devoir exécuter des ordres qui déforment la morale, bien qu'il déteste le faire. Il se liera d'amitié avec n'importe quel protagoniste de n'importe quelle race ou alignement, bien que la façon dont il réagira aux situations fera certainement savoir au joueur ce qu'il ressent. Homme rude, habitué au mercenariat, Aran peut être embauché comme scribe, comptable, mais aussi garde du corps. Son langage est rude, son approche peu raffinée. Et si vous ne l'aimez pas, il se fera un plaisir de vous dire exactement ce que vaut votre opinion.|C'est un combattant humain, double classable, afin qu'il puisse être bricoleur, tailleur, soldat, espion... tout ce dont votre groupe a besoin. En gros, un couteau suisse humain enrôlé pour l'amitié/les câlins. Il convient de noter que ce mod est conçu par des adultes pour des adultes et ne doit pas être installé à moins que vous ne soyez à l'aise avec les jurons fééruniens et la partie romance pour adultes.",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/aranw/",
             "https://github.com/Gibberlings3/Aran-Whitehand"
@@ -8325,7 +8325,7 @@
     {
         "id": 232,
         "name": "Cirerrek's AI Scripts: iSeries",
-        "description": "Il s'agit d'une collection de scripts d'IA en version bêta pour Icewind Dale II. Ils n'utilisent encore qu'un nombre limité de sorts. Utilisez iBard pour les bardes, iArcher pour les mages, iFighter pour les types combattants ou les clercs et iThief pour les voleurs.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-iseries.html) pour plus détails.",
+        "description": "Il s'agit d'une collection de scripts d'IA. Ils n'utilisent encore qu'un nombre limité de sorts. Utilisez iBard pour les bardes, iArcher pour les mages, iFighter pour les types combattants ou les clercs et iThief pour les voleurs.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-iseries.html) pour plus détails.",
         "urls": [
             "https://www.gibberlings3.net/files/file/720-cirerreks-ai-scripts-iseries/"
         ],
@@ -8341,12 +8341,12 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
         "status": [
-            "stable"
+            "beta"
         ],
         "last_update": "2019-02-02",
         "compatibilities": {},
@@ -39844,7 +39844,7 @@
         "description": "Hommage au manga `Tomoyo After : It's a Wonderful Life`, ce mod ajoute une ville souterraine (dont l'entrée se trouve dans la crypte de la liche aux Portes de la ville). Ceux qui ne sont pas rebutés par une histoire déconnectée de celle de BG2 y trouveront une suite de cartes enchaînées, sur lesquelles vous allez affronter des centaines de monstres qui dropperont une foule d'objets, certains extrêmement puissants. Vous rencontrerez et pourrez engager Tomoyo Sakagami, héroïne du manga Clannad et de ses continuations. Vous n'êtes cependant pas obligé de la garder dans le groupe, elle est muette et n'a aucune incidence sur la suite.|FOR 16, DEX 19, CON 15, INT 18, SAG 13, CHA 17.",
         "urls": [
             "https://trow.cc/board/showtopic=13751",
-			"https://github.com/trow/DNT",
+            "https://github.com/trow/DNT",
             "https://github.com/Plutonium-X/FIGHT_Tomoyo"
         ],
         "categories": [
@@ -75840,7 +75840,7 @@
     },
     {
         "id": 2180,
-        "name": "BG2美化及增强mod (BG2 Beautification and Enhancement Mod)",
+        "name": "BG2 Beautification and Enhancement Mod",
         "description": "Compilation de personnalisations graphiques et d'ajustements de gameplay : effets et icônes d'Icewind Dale, silhouettes des personnages, règles, classes, PNJ et objets. Certains composants peuvent recouper d'autres packs de modifications.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=14267"
@@ -75871,7 +75871,7 @@
     },
     {
         "id": 2181,
-        "name": "我的变形者“平衡”补丁 (My Shapeshifter Balance Patch)",
+        "name": "My Shapeshifter Balance Patch",
         "description": "Rééquilibre le Métamorphe en faisant progresser ses formes de loup-garou selon le niveau. La forme normale devient polyvalente, tandis que le Grand loup-garou privilégie la mêlée, la régénération et la défense.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=6173"
@@ -75901,7 +75901,7 @@
     },
     {
         "id": 2182,
-        "name": "博德之门 新增6个储物袋 (6 New Storage Bags)",
+        "name": "6 New Storage Bags",
         "description": "Ajoute six sacs de contenance : trois dans la tente du festival de Nashkel où se trouvent Zordral et Bentha, et trois à l'étage de la maison de Gaelan Bayle.",
         "urls": [
             "https://mod.3dmgame.com/mod/25341"
@@ -75933,7 +75933,7 @@
     },
     {
         "id": 2183,
-        "name": "巫妖商人v1.1 (Lich Items)",
+        "name": "Lich Items",
         "description": "Ajoute au Marché de l'Aventurier un marchand liche vendant des équipements rares : objets issus ou inspirés d'anciens mods, équipements améliorés de compagnons et créations originales.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=11890"
@@ -75964,7 +75964,7 @@
     },
     {
         "id": 2184,
-        "name": "巫妖物品1.1增强版 (Lich Items 1.1 Enhanced Edition)",
+        "name": "Lich Items 1.1 Enhanced Edition",
         "description": "Extension de [[2183]] qui reprend le mod original et élargit le catalogue du marchand avec des équipements issus d'autres mods.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=15085"
@@ -76028,7 +76028,7 @@
     },
     {
         "id": 2186,
-        "name": "新人必备YYmod组件1 (YYmod Component 1)",
+        "name": "YYmod Component 1",
         "description": "Premier composant fantaisiste du YYmod : ajoute une potion de vie à régénération prolongée et une potion de magie permettant temporairement de lancer beaucoup plus librement des sorts.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=16326"
@@ -76384,7 +76384,7 @@
     },
     {
         "id": 2197,
-        "name": "吸血鬼王 (Vampire King)",
+        "name": "Vampire King",
         "description": "Ajoute un puissant archétype de seigneur vampire, débarrassé d’une grande partie des faiblesses habituellement associées aux vampires tout en conservant leurs principaux atouts. Son gameplay repose sur les changements de forme et sur diverses techniques sanguines permettant de se renforcer, de créer des serviteurs ou d’affaiblir durablement ses victimes. Le kit est volontairement très puissant et représente un vampire arrivé au sommet de sa lignée plutôt qu’un hybride encore vulnérable.",
         "urls": [
             "https://trow.cc/board/showtopic=30121"
@@ -76418,7 +76418,7 @@
     },
     {
         "id": 2198,
-        "name": "邪龙脉术士 (Dark Dragonblood Sorcerer)",
+        "name": "Dark Dragonblood Sorcerer",
         "description": "Kit d’ensorceleur qui pousse l’héritage draconique jusqu’à l’éveil simultané des cinq lignées chromatiques. Il peut adopter différentes formes de wyverne ou de dragon, continuer à lancer des sorts une fois transformé et passer d’une forme draconique à l’autre selon la situation. En contrepartie de cette polyvalence et de sa forte puissance physique, il dispose d’un lancement de sort de moins par niveau et par jour.",
         "urls": [
             "https://dl.3dmgame.com/patch/113785.html"
@@ -76555,7 +76555,7 @@
     },
     {
         "id": 2202,
-        "name": "黑袍法师 (Thief: Black Robe Mage)",
+        "name": "Thief: Black Robe Mage",
         "description": "Kit de voleur pensé avant tout comme une étape vers un jumelage en mage. Il concentre l’essentiel de ses avantages dans les neuf premiers niveaux, avec une forte orientation anti-magie et plusieurs moyens d’imiter ou de soutenir la magie profane, puis évolue presque comme un voleur normal et ne reçoit pas de HLA. L’auteur le présente comme un choix volontairement très polyvalent plutôt que strictement équilibré.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=11370"
@@ -76585,7 +76585,7 @@
     },
     {
         "id": 2203,
-        "name": "盗贼宗派－－血族隐者 (Thief Kit – Vampire-Blooded Hermit)",
+        "name": "Thief Kit – Vampire-Blooded Hermit",
         "description": "Kit de voleur vampirique très élaboré dans lequel le personnage alterne entre forme humaine, forme de vampire et forme de chauve-souris. Son gameplay repose sur le sang, qui remplace en grande partie les soins ordinaires et peut être utilisé de plusieurs manières offensives ou défensives. Cette puissance s’accompagne de vraies contraintes : vulnérabilité au soleil, limitations de voleur, progression plus lente et impossibilité de profiter normalement des soins et HLA classiques.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=14464"
@@ -76615,7 +76615,7 @@
     },
     {
         "id": 2204,
-        "name": "德鲁伊宗派－－幻化大师 (Druid Kit — Shapeshifter Master)",
+        "name": "Druid Kit — Shapeshifter Master",
         "description": "Kit de druide entièrement construit autour de la métamorphose. Il remplace les formes naturelles habituelles par une progression en plusieurs paliers donnant accès à un très grand nombre de corps humanoïdes, animaux, monstrueux puis légendaires, chacun ayant un rôle et des propriétés propres. Le joueur choisit donc la forme adaptée à la situation plutôt que de simplement débloquer une transformation toujours meilleure, au prix de plusieurs capacités traditionnelles du druide.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=14528"
@@ -76645,7 +76645,7 @@
     },
     {
         "id": 2205,
-        "name": "盗贼宗派——大地旅者 (Thief Kit – Earth Traveler)",
+        "name": "Thief Kit – Earth Traveler",
         "description": "Adaptation en kit de voleur du Horizon Walker / Earth Traveler de D&D 3e. À mesure qu’il progresse, le personnage choisit les terrains naturels ou planaires qu’il maîtrise et reçoit des avantages permanents ainsi qu’une meilleure efficacité contre les dangers et créatures associés. Il peut se spécialiser fortement dans quelques environnements ou devenir un voyageur polyvalent, ce qui en fait un kit très modulable.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=14686"
@@ -76675,7 +76675,7 @@
     },
     {
         "id": 2206,
-        "name": "魂刃者 (Soul Blader)",
+        "name": "Soul Blader",
         "description": "Ajoute un ensorceleur de combat léger inspiré d’Archer/EMIYA de Fate, sans chercher à le reproduire à l’identique. Le Soul Blader matérialise sa magie sous forme d’armes et associe une vraie progression martiale à son répertoire de sorts. Sa capacité emblématique de très haut niveau reprend l’idée d’Unlimited Blade Works sous la forme d’une longue incantation en plusieurs étapes, qui peut être interrompue si le personnage est blessé.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=16410"
@@ -76705,7 +76705,7 @@
     },
     {
         "id": 2207,
-        "name": "有些BUG的FATE英雄王 (FATE – Hero King, Somewhat “Bugged”)",
+        "name": "FATE – Hero King, Somewhat “Bugged”",
         "description": "Kit de guerrier inspiré de Gilgamesh, le Roi des Héros de Fate, conçu avant tout comme un mod « pour le fun » et volontairement extrêmement puissant. Son gameplay tourne autour d’un trésor surnaturel permettant de projeter ou d’invoquer tout un arsenal, avec des techniques de contrôle et une attaque ultime emblématique. L’auteur reconnaît lui-même que la puissance du kit est proche du « bug » assumé.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=16399"
@@ -76735,7 +76735,7 @@
     },
     {
         "id": 2208,
-        "name": "火焰君王 (Flame Lord)",
+        "name": "Flame Lord",
         "description": "Second kit proposé dans le même mod, centré entièrement sur la maîtrise du feu. Il combine invocations de créatures enflammées, contrôle de zones, protections élémentaires et attaques de grande ampleur, avec une forte résistance au feu mais une faiblesse marquée au froid. La version d’origine étant elle aussi volontairement excessive, l’auteur a ensuite fourni une variante réduisant sa puissance.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=16399"
@@ -76767,7 +76767,7 @@
     },
     {
         "id": 2209,
-        "name": "吟遊詩人宗派，輕量級遠程戰法師——擲彈手 (Bard Kit — Lightweight Ranged Battle Mage: Grenadier)",
+        "name": "Bard Kit — Lightweight Ranged Battle Mage: Grenadier",
         "description": "Transforme le barde en mage de combat à distance spécialisé dans des projectiles magiques qu’il fabrique lui-même et utilise comme des armes de lancer. Le kit privilégie donc le harcèlement à distance et une progression offensive plus proche d’un tireur que d’un barde traditionnel, tout en conservant son identité de lanceur de sorts léger.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=16544"
@@ -76797,7 +76797,7 @@
     },
     {
         "id": 2210,
-        "name": "牧师宗派－邪术师 (Cleric Kit — Warlock)",
+        "name": "Cleric Kit — Warlock",
         "description": "Transforme le prêtre en Warlock inspiré de D&D 3.5. Il abandonne la magie divine classique au profit d’invocations utilisables à volonté, acquises par des pactes qui peuvent coûter des points de vie ou des caractéristiques. Son attaque magique principale peut être remodelée en portée, type de dégâts ou effets, puis le personnage se spécialise dans l’une de plusieurs voies occultes.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=16702"
@@ -76827,7 +76827,7 @@
     },
     {
         "id": 2211,
-        "name": "为Minsc特制宗派。狂暴游侠 (Berserker Ranger)",
+        "name": "Berserker Ranger",
         "description": "Kit conçu spécialement pour Minsc, qui remplace sa rage incontrôlable par une forme de berserk plus exploitable en combat. Il conserve l’identité de rôdeur brutal du personnage tout en supprimant certains pouvoirs plus classiques du rôdeur. Le mod ne remplace pas directement le fichier de Minsc afin d’éviter les conflits : le kit doit lui être attribué séparément, par exemple avec Shadow Keeper.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=13588"
@@ -76859,7 +76859,7 @@
     },
     {
         "id": 2212,
-        "name": "强化宗派MOD (Enhanced Kit MOD)",
+        "name": "Enhanced Kit MOD",
         "description": "Pack de sept kits volontairement très puissants, couvrant la plupart des grandes familles de classes. Leur principe est de combiner plusieurs rôles ou avantages normalement séparés entre différents kits, avec des progressions et HLA propres, afin de permettre au groupe de rivaliser avec les mods de difficulté les plus agressifs. Il ne cherche donc pas à rester au niveau d’équilibrage des classes originales.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=13678"
@@ -76889,7 +76889,7 @@
     },
     {
         "id": 2213,
-        "name": "修道者 (Adept of the Way)",
+        "name": "Adept of the Way",
         "description": "Kit de voleur pratiquant les arts taoïstes, capable d'utiliser de nombreux « taos », des pouvoirs surnaturels plus lents à lancer que les sorts classiques, mais plus puissants. Il dispose de techniques de combat, de soins, de transformations et peut même fabriquer des élixirs. Il gagne des bonus à la CA, au TAC0 et aux jets de sauvegarde tous les quatre niveaux, mais l'utilisation de ses pouvoirs entraîne des pénalités temporaires à l'incantation, à la fatigue et aux jets de sauvegarde.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -76921,7 +76921,7 @@
     },
     {
         "id": 2214,
-        "name": "自然巫师 (Nature Sorcerer)",
+        "name": "Nature Sorcerer",
         "description": "Kit de druide capable de lancer spontanément des sorts de magie naturelle, avec un répertoire enrichi de sorts offensifs, de contrôle et de soutien. Il peut se transformer en loup-garou, en dryade ou en différents élémentaires, puis acquérir leurs pouvoirs sans changer de forme. Ses capacités progressent tous les cinq niveaux et ses pouvoirs de haut niveau lui accordent de nombreuses immunités, mais il ne peut ni se jumeler ni se multiclasser.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -76953,7 +76953,7 @@
     },
     {
         "id": 2215,
-        "name": "奥能大法师 (Arcane Archmage)",
+        "name": "Arcane Archmage",
         "description": "Kit de mage combinant magie classique et magie spontanée, avec de nombreux sorts supplémentaires et de puissantes métamorphoses. Il gagne tous les dix niveaux des bonus à la CA, au TAC0, à l'Intelligence, au Charisme et à la vitesse d'incantation. Sa réserve d'énergie arcanique permet de récupérer des sorts mémorisés dès le niveau 20, tandis que ses pouvoirs mythiques offrent des transformations améliorées et des sorts gratuits, au prix d'une réduction de 25 % de l'expérience gagnée.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -76985,7 +76985,7 @@
     },
     {
         "id": 2216,
-        "name": "超弦咏者 (Superstring Chanter)",
+        "name": "Superstring Chanter",
         "description": "Kit utilisant un chant qui améliore la chance, la vision et accorde diverses immunités au fil des niveaux. Il dispose de techniques de combat surnaturelles mêlant téléportation, attaques puissantes et protections temporaires. À haut niveau, il peut entrer en résonance avec différents plans pour obtenir des résistances, des emplacements de sorts supplémentaires et de nouvelles capacités magiques. Aucune restriction particulière.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77017,7 +77017,7 @@
     },
     {
         "id": 2217,
-        "name": "幻影刺客 (Phantom Assassin)",
+        "name": "Phantom Assassin",
         "description": "Kit de voleur inspiré de Dota, spécialisé dans la mobilité, l'esquive et les dégâts explosifs. Il peut se téléporter sur ses ennemis, lancer des dagues magiques, devenir invisible et infliger des dégâts considérables grâce à ses coups critiques. Il gagne des bonus à la CA, au TAC0 et aux dégâts tous les cinq niveaux, mais perd les multiplicateurs d'attaque sournoise et l'accès aux pièges avant les capacités de haut niveau.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77049,7 +77049,7 @@
     },
     {
         "id": 2218,
-        "name": "灵境天佑者 (Spirit Realm Blessed)",
+        "name": "Spirit Realm Blessed",
         "description": "Kit de soutien conçu pour le multiclassage, capable de lancer spontanément les sorts de prêtre et certains sorts de druide. Spécialisé dans les soins de groupe, il peut canaliser l'énergie positive pour soigner plusieurs alliés et lancer de nombreuses protections en une seule incantation. Il gagne des bonus aux résistances, aux jets de sauvegarde et à la vitesse d'incantation, ainsi que des immunités aux maladies et aux poisons.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77081,7 +77081,7 @@
     },
     {
         "id": 2219,
-        "name": "灵境勇士 (Spirit Realm Warrior)",
+        "name": "Spirit Realm Warrior",
         "description": "Kit de guerrier polyvalent qui peut choisir parmi diverses techniques de combat : rage, attaques tournoyantes, encouragement des alliés ou défense renforcée. À haut niveau, il débloque des capacités plus puissantes permettant notamment de bondir sur ses ennemis, de provoquer plusieurs adversaires, de déclencher une tempête de lames ou de survivre à des coups mortels. Plus résistant qu'un guerrier classique, il sacrifie en contrepartie une partie de sa maîtrise des armes.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77113,7 +77113,7 @@
     },
     {
         "id": 2220,
-        "name": "灵境术士 (Spirit Realm Sorcerer)",
+        "name": "Spirit Realm Sorcerer",
         "description": "Kit d'ensorceleur doté de sorts exclusifs et de trois lignées magiques — arcanique, féerique et gangrenée — entre lesquelles il peut alterner pour changer ses pouvoirs. Il combine magie offensive, drain de vie, soins et transformations démoniaques, tout en bénéficiant d'une magie entropique plus favorable et sans risque de hiatus pour la plupart de ses sorts. Ses capacités de haut niveau renforcent ses pouvoirs élémentaires et ses défenses, mais remplacent les capacités de haut niveau habituelles.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77145,7 +77145,7 @@
     },
     {
         "id": 2221,
-        "name": "灵光守护者 (Spiritual Light Guardian)",
+        "name": "Spiritual Light Guardian",
         "description": "Kit de paladin spécialisé dans la lutte contre les démons, les morts-vivants et les créatures qui corrompent les âmes. Il combine sorts divins spontanés, techniques de combat acrobatiques et pouvoirs défensifs, avec des capacités qui se rechargent automatiquement. À haut niveau, il peut choisir entre deux voies : un protecteur équipé d'un bouclier spirituel ou un croisé céleste privilégiant les attaques dévastatrices à deux mains.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77177,7 +77177,7 @@
     },
     {
         "id": 2222,
-        "name": "灵境守卫 (Spirit Realm Guardian)",
+        "name": "Spirit Realm Guardian",
         "description": "Kit de combattant divin conçu pour protéger et soutenir son groupe, combinant sorts de prêtre spontanés, soins de zone et techniques martiales. Il peut alterner entre plusieurs styles de combat offensifs, défensifs ou favorisant l'incantation, tout en utilisant des roulades, des téléportations et des parades qui restaurent ses sorts. Particulièrement adapté aux groupes affrontant des ennemis très puissants, il peut également créer des doubles magiques pour l'aider au combat.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77209,7 +77209,7 @@
     },
     {
         "id": 2223,
-        "name": "灵境探索者 (Spirit Realm Explorer)",
+        "name": "Spirit Realm Explorer",
         "description": "Kit de rôdeur mêlant exploration, compétences de voleur et maîtrise des compagnons animaux. Il peut invoquer et améliorer diverses créatures, comme des araignées éclipsantes, des basilics ou des loups des ombres, tout en utilisant des techniques de pistage, de fuite et de capture. Ses pouvoirs élémentaires lui permettent d'adapter son style de combat, tandis que ses capacités de haut niveau renforcent ses compagnons et ses talents d'explorateur.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"

@@ -837,8 +837,8 @@
         "id": 57,
         "description": "仍处于测试版，这个模组有点特别，因为它的代码是“开源”的。它的作者将其留给其他模组制作者以供其发展。|Aran Whitehand 有一个带有新区域的可选小任务，但没有特殊武器或可进化物品——他的专长是与团队成员互动并适应情况。对他来说，工作至上，他的工作是陪伴玩家。他并不抗拒执行会扭曲道德的命令，尽管他厌恶这样做。他会与任何种族或任何阵营的主角建立友谊，尽管他对情况的反应方式肯定会向玩家表明他的感受。Aran 是一个粗鲁的男人，习惯于雇佣兵生涯，可以被雇佣为抄写员、会计，甚至是保镖。他的语言粗鲁，方式也不够文雅。而且如果你不喜欢他，他会很乐意告诉你你的意见到底值多少钱。|他是一个人类双重职业角色，这样他就可以成为工匠、裁缝、士兵、间谍……你的团队所需要的任何角色。总而言之，一个为了友谊/拥抱而被征召的人类瑞士军刀。需要注意的是，这个模组是由成年人设计给成年人使用的，除非你能够接受费伦世界的粗话和成人浪漫剧情，否则不应安装。",
         "description_meta": {
-            "status": "done",
-            "source": "Toujours en version bêta, ce mod est un peu particulier dans la mesure ou son code est \"open source\". Son auteur l'a laissé à la disposition d'autres modeurs pour le faire évoluer.|Aran Whitehand a des quêtes facultatives mineures avec une nouvelle zone, mais n'a pas d'armes spéciales ni d'objets évolutifs - sa spécialité est d'interagir avec les membres du groupe et de s'adapter aux situations. Pour lui, le travail est primordial, et son travail est d'accompagner le joueur. Il n'est pas réticent à devoir exécuter des ordres qui déforment la morale, bien qu'il déteste le faire. Il se liera d'amitié avec n'importe quel protagoniste de n'importe quelle race ou alignement, bien que la façon dont il réagira aux situations fera certainement savoir au joueur ce qu'il ressent. Homme rude, habitué au mercenariat, Aran peut être embauché comme scribe, comptable, mais aussi garde du corps. Son langage est rude, son approche peu raffinée. Et si vous ne l'aimez pas, il se fera un plaisir de vous dire exactement ce que vaut votre opinion.|C'est un combattant humain, double classable, afin qu'il puisse être bricoleur, tailleur, soldat, espion... tout ce dont votre groupe a besoin. En gros, un couteau suisse humain enrôlé pour l'amitié/les câlins. Il convient de noter que ce mod est conçu par des adultes pour des adultes et ne doit pas être installé à moins que vous ne soyez à l'aise avec les jurons fééruniens et la partie romance pour adultes."
+            "status": "needs_review",
+            "source": "Ce mod est un peu particulier dans la mesure ou son code est \"open source\". Son auteur l'a laissé à la disposition d'autres modeurs pour le faire évoluer.|Aran Whitehand a des quêtes facultatives mineures avec une nouvelle zone, mais n'a pas d'armes spéciales ni d'objets évolutifs - sa spécialité est d'interagir avec les membres du groupe et de s'adapter aux situations. Pour lui, le travail est primordial, et son travail est d'accompagner le joueur. Il n'est pas réticent à devoir exécuter des ordres qui déforment la morale, bien qu'il déteste le faire. Il se liera d'amitié avec n'importe quel protagoniste de n'importe quelle race ou alignement, bien que la façon dont il réagira aux situations fera certainement savoir au joueur ce qu'il ressent. Homme rude, habitué au mercenariat, Aran peut être embauché comme scribe, comptable, mais aussi garde du corps. Son langage est rude, son approche peu raffinée. Et si vous ne l'aimez pas, il se fera un plaisir de vous dire exactement ce que vaut votre opinion.|C'est un combattant humain, double classable, afin qu'il puisse être bricoleur, tailleur, soldat, espion... tout ce dont votre groupe a besoin. En gros, un couteau suisse humain enrôlé pour l'amitié/les câlins. Il convient de noter que ce mod est conçu par des adultes pour des adultes et ne doit pas être installé à moins que vous ne soyez à l'aise avec les jurons fééruniens et la partie romance pour adultes."
         },
         "notes": [],
         "notes_meta": {
@@ -3331,8 +3331,8 @@
         "id": 232,
         "description": "|这是一套为冰风谷II设计的测试版AI脚本。它们目前仅使用有限数量的法术。吟游诗人请使用iBard，法师请使用iArcher，战斗型职业或牧师请使用iFighter，盗贼请使用iThief。请参阅 [readme](https://gibberlings3.github.io/Documentation/readmes/readme-iseries.html) 了解更多详情。",
         "description_meta": {
-            "status": "done",
-            "source": "Il s'agit d'une collection de scripts d'IA en version bêta pour Icewind Dale II. Ils n'utilisent encore qu'un nombre limité de sorts. Utilisez iBard pour les bardes, iArcher pour les mages, iFighter pour les types combattants ou les clercs et iThief pour les voleurs.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-iseries.html) pour plus détails."
+            "status": "needs_review",
+            "source": "Il s'agit d'une collection de scripts d'IA. Ils n'utilisent encore qu'un nombre limité de sorts. Utilisez iBard pour les bardes, iArcher pour les mages, iFighter pour les types combattants ou les clercs et iThief pour les voleurs.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-iseries.html) pour plus détails."
         },
         "notes": [],
         "notes_meta": {
@@ -30637,6 +30637,7 @@
     },
     {
         "id": 2180,
+        "original_name": "BG2美化及增强mod",
         "description": "图形自定义与游戏性调整合集：包括《冰风谷》的效果与图标、角色外观剪影、规则、职业、NPC 和物品。某些组件可能与其他修改包存在重叠。",
         "description_meta": {
             "status": "done",
@@ -30650,6 +30651,7 @@
     },
     {
         "id": 2181,
+        "original_name": "我的变形者“平衡”补丁",
         "description": "重新平衡变形者，使其狼人形态随等级提升而成长。普通形态变得多面全能，而大狼人形态则侧重近战、再生和防御。",
         "description_meta": {
             "status": "done",
@@ -30663,6 +30665,7 @@
     },
     {
         "id": 2182,
+        "original_name": "博德之门 新增6个储物袋",
         "description": "添加六个容器袋：三个位于纳西凯节庆帐篷中佐德罗尔（Zordral）和本莎（Bentha）所在处，另外三个位于盖兰·贝尔（Gaelan Bayle）宅邸的楼上。",
         "description_meta": {
             "status": "done",
@@ -30676,6 +30679,7 @@
     },
     {
         "id": 2183,
+        "original_name": "巫妖商人v1.1",
         "description": "在“冒险者集市”（Marché de l'Aventurier）添加一位巫妖商人，出售稀有装备：来自旧模组或受其启发的物品、队友强化装备以及原创作品。",
         "description_meta": {
             "status": "done",
@@ -30689,6 +30693,7 @@
     },
     {
         "id": 2184,
+        "original_name": "巫妖物品1.1增强版",
         "description": "[[2183]]号模组的扩展，沿用原模组并扩展了商人的商品目录，加入来自其他模组的装备。",
         "description_meta": {
             "status": "done",
@@ -30719,6 +30724,7 @@
     },
     {
         "id": 2186,
+        "original_name": "新人必备YYmod组件1",
         "description": "YYmod 的第一个趣味组件：添加一种具有持续再生效果的生命药水，以及一种魔法药水，可暂时让你更自由地施展法术。",
         "description_meta": {
             "status": "done",
@@ -30862,6 +30868,7 @@
     },
     {
         "id": 2197,
+        "original_name": "吸血鬼王",
         "description": "添加一个强大的吸血鬼领主原型，摆脱了吸血鬼通常具有的大部分弱点，同时保留了其主要优势。其玩法围绕形态变化以及各种血系技法，用于强化自身、创造仆从或持久削弱受害者。该宗派刻意设计得极为强大，代表的是达到其血脉顶峰的吸血鬼，而非仍显脆弱的混血种。",
         "description_meta": {
             "status": "done",
@@ -30879,6 +30886,7 @@
     },
     {
         "id": 2198,
+        "original_name": "邪龙脉术士",
         "description": "一个术士宗派，将龙脉传承推至同时觉醒五种彩色龙血脉。他可以变身为不同的双足飞龙或龙形态，变形后仍能继续施法，并根据情况在龙形态之间切换。作为这种多面性和强大物理力量的代价，他每法术等级每日的施法次数少一次。",
         "description_meta": {
             "status": "done",
@@ -30935,6 +30943,7 @@
     },
     {
         "id": 2202,
+        "original_name": "黑袍法师",
         "description": "一个主要被设计为转职法师过渡阶段的盗贼宗派。它把大部分优势集中在最初九级，强烈偏向反魔法，并提供多种模仿或辅助奥术的手段；此后它几乎像普通盗贼一样发展，且不会获得高等职业能力（HLA）。作者将其定位为一个刻意追求高度多面性、而非严格平衡的选择。",
         "description_meta": {
             "status": "done",
@@ -30948,6 +30957,7 @@
     },
     {
         "id": 2203,
+        "original_name": "盗贼宗派－－血族隐者",
         "description": "一个精心设计的吸血鬼盗贼宗派，角色在人形、吸血鬼形态和蝙蝠形态之间切换。其玩法基于血液——血液在很大程度上取代了普通治疗，并可通过多种方式用于进攻或防御。这种力量伴随着实实在在的限制：阳光脆弱、盗贼限制、升级更慢，且无法正常享受治疗和经典高等职业能力（HLA）。",
         "description_meta": {
             "status": "done",
@@ -30961,6 +30971,7 @@
     },
     {
         "id": 2204,
+        "original_name": "德鲁伊宗派－－幻化大师",
         "description": "一个完全围绕变形构建的德鲁伊宗派。它以分多个阶段推进的成长体系取代通常的自然形态，让角色能够获得大量类人、动物、怪物乃至传奇形态，每种形态都有各自的作用和特性。因此，玩家选择的是适合当前情况的形态，而不是单纯解锁一个越来越强的变身，代价是失去若干德鲁伊传统能力。",
         "description_meta": {
             "status": "done",
@@ -30974,6 +30985,7 @@
     },
     {
         "id": 2205,
+        "original_name": "盗贼宗派——大地旅者",
         "description": "将D&D3版的Horizon Walker/Earth Traveler改编为盗贼宗派。随着角色成长，角色会选择其精通的自然地形或位面地形，并获得永久优势，同时对相关危险和生物拥有更高的应对效率。他可以深度专精于少数环境，也可以成为多面手旅行者，因此这是一个高度可定制的宗派。",
         "description_meta": {
             "status": "done",
@@ -30987,6 +30999,7 @@
     },
     {
         "id": 2206,
+        "original_name": "魂刃者",
         "description": "添加一个受《Fate》中Archer/EMIYA启发的轻战斗术士，但并不追求完全复刻。“灵魂剑士”（Soul Blader）将自己的魔法具现为武器形态，并将真正的武技成长与法术体系相结合。其标志性的极高等级能力借鉴了“无限剑制”（Unlimited Blade Works）的理念，表现为一段多阶段的长吟唱，若角色受伤则可能被打断。",
         "description_meta": {
             "status": "done",
@@ -31000,6 +31013,7 @@
     },
     {
         "id": 2207,
+        "original_name": "有些BUG的FATE英雄王",
         "description": "一个受《Fate》中“英雄王”吉尔伽美什启发的战士宗派，首先被设计成一个“为了好玩”的模组，并刻意做得极其强大。其玩法围绕一个超自然宝库展开，能够投射或召唤一整套武器库，并配有控制技法和标志性终极攻击。作者本人也承认，该宗派的强度接近一种“有意为之的 bug”。",
         "description_meta": {
             "status": "done",
@@ -31013,14 +31027,15 @@
     },
     {
         "id": 2208,
+        "original_name": "火焰君王",
         "description": "同一模组中提供的第二个宗派，完全专注于火焰掌控。它结合了召唤火焰生物、区域控制、元素防护和大范围攻击，拥有很高的火焰抗性，但对寒冷有明显弱点。由于原版同样刻意做得过于强大，作者后来提供了一个削弱其强度的变体。",
         "description_meta": {
             "status": "done",
             "source": "Second kit proposé dans le même mod, centré entièrement sur la maîtrise du feu. Il combine invocations de créatures enflammées, contrôle de zones, protections élémentaires et attaques de grande ampleur, avec une forte résistance au feu mais une faiblesse marquée au froid. La version d’origine étant elle aussi volontairement excessive, l’auteur a ensuite fourni une variante réduisant sa puissance."
         },
         "notes": [
-			"源文件中标注了一个威力较弱的变体，日期为2009年4月28日。"
-		],
+            "源文件中标注了一个威力较弱的变体，日期为2009年4月28日。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -31030,6 +31045,7 @@
     },
     {
         "id": 2209,
+        "original_name": "吟遊詩人宗派，輕量級遠程戰法師——擲彈手",
         "description": "将吟游诗人转变为一名远程战斗法师，专精于自己制造并当作投掷武器使用的魔法投射物。因此，该宗派侧重远程骚扰，以及更接近射手而非传统吟游诗人的进攻性成长路线，同时保留其轻型施法者的身份。",
         "description_meta": {
             "status": "done",
@@ -31043,6 +31059,7 @@
     },
     {
         "id": 2210,
+        "original_name": "牧师宗派－邪术师",
         "description": "将牧师转变为受D&D 3.5启发的邪术师。它放弃经典神术，转而使用可随意施展的邪术；这些邪术通过契约获得，而契约可能消耗生命值或属性。其主要魔法攻击可以重塑射程、伤害类型或效果，随后角色会专精于数条秘法道途之一。",
         "description_meta": {
             "status": "done",
@@ -31056,14 +31073,15 @@
     },
     {
         "id": 2211,
+        "original_name": "为Minsc特制宗派。狂暴游侠",
         "description": "这个宗派专为明斯克（Minsc）设计，将他不可控的狂暴替换为一种在战斗中更便于利用的狂暴形态。它保留了该角色凶悍游侠的身份，同时移除了游侠某些较为经典的能力。该模组不会直接替换明斯克的文件，以避免冲突：这个宗派必须单独分配给他，例如使用 Shadow Keeper。",
         "description_meta": {
             "status": "done",
             "source": "Kit conçu spécialement pour Minsc, qui remplace sa rage incontrôlable par une forme de berserk plus exploitable en combat. Il conserve l’identité de rôdeur brutal du personnage tout en supprimant certains pouvoirs plus classiques du rôdeur. Le mod ne remplace pas directement le fichier de Minsc afin d’éviter les conflits : le kit doit lui être attribué séparément, par exemple avec Shadow Keeper."
         },
         "notes": [
-			"该宗派必须单独赋予明斯克，例如使用 Shadow Keeper。"
-		],
+            "该宗派必须单独赋予明斯克，例如使用 Shadow Keeper。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -31073,6 +31091,7 @@
     },
     {
         "id": 2212,
+        "original_name": "强化宗派MOD",
         "description": "一个包含七个宗派的整合包，这些宗派刻意做得非常强大，涵盖大多数主要职业大类。其设计原则是结合通常分散在不同宗派中的多种角色定位或优势，并配有各自的成长体系和高等职业能力（HLA），以便让队伍能够与最激进的高难度模组相抗衡。因此，它并不追求保持在原版职业的平衡水平上。",
         "description_meta": {
             "status": "done",
@@ -31086,6 +31105,7 @@
     },
     {
         "id": 2213,
+        "original_name": "修道者",
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -31099,6 +31119,7 @@
     },
     {
         "id": 2214,
+        "original_name": "自然巫师",
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -31112,6 +31133,7 @@
     },
     {
         "id": 2215,
+        "original_name": "奥能大法师",
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -31125,6 +31147,7 @@
     },
     {
         "id": 2216,
+        "original_name": "超弦咏者",
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -31138,6 +31161,7 @@
     },
     {
         "id": 2217,
+        "original_name": "幻影刺客",
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -31151,6 +31175,7 @@
     },
     {
         "id": 2218,
+        "original_name": "灵境天佑者",
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -31164,6 +31189,7 @@
     },
     {
         "id": 2219,
+        "original_name": "灵境勇士",
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -31177,6 +31203,7 @@
     },
     {
         "id": 2220,
+        "original_name": "灵境术士",
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -31190,6 +31217,7 @@
     },
     {
         "id": 2221,
+        "original_name": "灵光守护者",
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -31203,6 +31231,7 @@
     },
     {
         "id": 2222,
+        "original_name": "灵境守卫",
         "description": "",
         "description_meta": {
             "status": "todo",
@@ -31216,6 +31245,7 @@
     },
     {
         "id": 2223,
+        "original_name": "灵境探索者",
         "description": "",
         "description_meta": {
             "status": "todo",
