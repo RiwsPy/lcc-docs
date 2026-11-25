@@ -7404,8 +7404,8 @@
         "id": 516,
         "description": "此模组添加了新的健谈NPC，他们拥有闲谈、与玩家角色互动以及相当大胆的浪漫剧情，除非您没有招募萨洛梅娅和北风爵士。您可以组建一个由6名预设角色组成的团队，或者创建自己的玩家角色，并在10名可用的新NPC（5名男性和5名女性）中添加5名：迪里尔（一名中立邪恶的精灵德鲁伊），希尔杜丽（一名混乱善良的半兽人野蛮人），杰玛尔（一名中立善良的阿斯莫星法师），尼科什·布雷塞格德（一名真正中立的半身人盗贼），北风爵士（一名守序善良的人类圣武士），佩奥尼（一名混乱中立的侏儒幻术师），普拉琪（一名守序中立的人类武僧），里兹戴尔（一名守序邪恶的卓尔精灵战士），萨洛梅娅（一名混乱邪恶的半精灵吟游诗人）和瓦莱罗（一名中立善良的人类洛山达牧师）。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute de nouveaux PNJ loquaces disposant de banters, d'interactions avec le PJ et de romances assez osées, à moins que vous ne recrutiez pas Salomeya et Sir Wind Nord. Vous pouvez constituer une équipe de 6 personnages toute faite, ou créer votre PJ et ajouter 5 nouveaux PNJ parmi les 10 disponibles (5 hommes et 5 femmes) : Diriel (un druide elfe neutre mauvais), Hildury (une barbare demi-orque chaotique bonne), Jaemal (un sorcier aasimar neutre bon), Nikosh Bracegirdle (un roublard halfling neutre strict), Sir Wind Nord (un paladin humain loyal bon), Peony (une illusionniste gnome chaotique neutre), Prachi (une moniale humaine loyale neutre), Rizdaer (un guerrier drow loyal mauvais), Salomeya (une barde demi-elfe chaotique mauvaise) et Valeero (une prêtresse de Lathandre humaine neutre bonne)."
+            "status": "needs_review",
+            "source": "Ce mod ajoute de nouveaux PNJ loquaces disposant de banters, d'interactions avec le PJ et de romances assez osées, à moins que vous ne recrutiez pas Salomeya et Sir Wind Nord. Vous pouvez constituer une équipe de 6 personnages toute faite, ou créer votre PJ et ajouter 5 nouveaux PNJ parmi les 10 disponibles (5 hommes et 5 femmes) : Diriel (un druide elfe neutre mauvais), Hildury (une barbare demi-orque chaotique bonne), Jaemal (un sorcier aasimar neutre bon), Nikosh Bracegirdle (un roublard halfling neutre strict), Sir Wind Nord (un paladin humain loyal bon), Peony (une illusionniste gnome chaotique neutre), Prachi (une moniale humaine loyale neutre), Rizdaer (un guerrier drow loyal mauvais), Salomeya (une barde demi-elfe chaotique mauvaise) et Valeero (une prêtresse de Lathandre humaine neutre bonne).|Diriel, Druide : FOR 12, DEX 16, CON 10, INT 13, SAG 18, CHA 8.|Hildury, Barbare : FOR 18, DEX 14, CON 14, INT 8, SAG 12, CHA 8.|Jaemal, Ensorceleur : FOR 14, DEX 14, CON 12, INT 12, SAG 12, CHA 16.|Nikosh Bracegirdle, Voleur : FOR 12, DEX 16, CON 12, INT 16, SAG 11, CHA 9.|Sir Wind Nord, Paladin de Heaume : FOR 17, DEX 10, CON 16, INT 10, SAG 13, CHA 12.|Peony, Illusionniste : FOR 10, DEX 14, CON 11, INT 17, SAG 10, CHA 14.|Prachi, Moine : FOR 15, DEX 16, CON 12, INT 10, SAG 16, CHA 8.|Rizdaer, Guerrier : FOR 17, DEX 17, CON 15, INT 10, SAG 9, CHA 12.|Salomeya, Barde : FOR 10, DEX 14, CON 10, INT 14, SAG 12, CHA 16.|Valeero, Prêtresse de Lathandre : FOR 14, DEX 12, CON 12, INT 10, SAG 16, CHA 12."
         },
         "notes": [
             "此模组也与 [[1616]] 兼容。"
@@ -8390,8 +8390,8 @@
         "id": 587,
         "description": "卡莱是一个可能经历过也可能未经历过伟大冒险的说书人，他是一个来自沟谷的半身人，自称“英雄”，笑容灿烂，披风鲜艳。然而，他看起来比外表要阴沉，他的笑容掩盖了他因无法长高而产生的挫败感。你的队伍给了他一个向自己和世界证明自己的机会，他很乐意带来他那巧妙地承受大量打击并屹立不倒的能力。|在博德之门：增强版中，卡莱是一个野蛮人，但在博德之门Ⅱ：增强版中，并且可能在博德之门：增强版中，他可以获得守护者宗派。|在龙矛围攻中，他在精灵之歌酒馆里。因为他非常不喜欢与地精一起旅行的想法，所以你必须说服他忍受，否则他会离开队伍。|在博德之门Ⅱ：增强版中，他在铜冠旅店外，在得知他父亲去世后不久。",
         "description_meta": {
-            "status": "done",
-            "source": "Conteur de grandes aventures qu'il a peut-être eues ou non, Kale est une petite-personne de Gullykind, se prétendant \"héroïque\", avec un sourire rapide et une cape fringante. Cependant, il semble plus sombre qu'il n'y paraît, son sourire cachant ses frustrations face à l'incapacité d'être grand. Votre groupe lui offre une chance de faire ses preuves auprès de lui-même et du reste du monde, et il apportera volontiers sa capacité astucieuse à prendre beaucoup de coups et à rester debout.|Dans BG:EE, Kale est un barbare, mais dans BG2:EE et éventuellement dans BG:EE, il peut être doté d'un kit de gardien.|Dans SoD, il se trouve dans la taverne du Chant de l'Elfe. Comme il n'aime pas du tout l'idée de voyager avec un gobelin, il faudra le persuader de le supporter ou il ne quittera le groupe.|Dans BG2:EE, il se trouve à l'extérieur de la Couronne de Cuivre, peu de temps après avoir appris la mort de son père."
+            "status": "needs_review",
+            "source": "Conteur de grandes aventures qu'il a peut-être eues ou non, Kale est une petite-personne de Gullykind, se prétendant \"héroïque\", avec un sourire rapide et une cape fringante. Cependant, il semble plus sombre qu'il n'y paraît, son sourire cachant ses frustrations face à l'incapacité d'être grand. Votre groupe lui offre une chance de faire ses preuves auprès de lui-même et du reste du monde, et il apportera volontiers sa capacité astucieuse à prendre beaucoup de coups et à rester debout.|Dans BG:EE, Kale est un barbare, mais dans BG2:EE et éventuellement dans BG:EE, il peut être doté d'un kit de gardien.|Dans SoD, il se trouve dans la taverne du Chant de l'Elfe. Comme il n'aime pas du tout l'idée de voyager avec un gobelin, il faudra le persuader de le supporter ou il ne quittera le groupe.|Dans BG2:EE, il se trouve à l'extérieur de la Couronne de Cuivre, peu de temps après avoir appris la mort de son père.|FOR 16, DEX 17, CON 18, INT 11, SAG 9, CHA 12."
         },
         "notes": [],
         "notes_meta": {
@@ -8546,8 +8546,8 @@
         "id": 599,
         "description": "此模组恢复了卡立德，贾希拉的丈夫，你可以在游吟诗人公会总部找到他。你可以将他安装为战士或战士/法师。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod restaure Khalid, le mari de Jaheira que l'on peut trouver dans le quartier général des ménestrels. On peut l'installer comme guerrier ou comme guerrier/mage."
+            "status": "needs_review",
+            "source": "Ce mod restaure Khalid, le mari de Jaheira que l'on peut trouver dans le quartier général des ménestrels. On peut l'installer comme guerrier ou comme guerrier/mage.|FOR 15, DEX 16, CON 17, INT 15, SAG 10, CHA 9."
         },
         "notes": [
             "cob上的版本比shs上的版本更新。"
@@ -8563,8 +8563,8 @@
         "id": 600,
         "description": "此模组允许你决定在博德之门Ⅱ和巴尔王座期间谁可以留在队伍中：卡立德或贾希拉。它将卡立德放在贾希拉的笼子附近。帮助他，你就不能再招募贾希拉，因为是她被艾瑞尼卡斯带走了，而卡立德会为她哭泣。帮助贾希拉，卡立德将面临他最初的命运。做出你的选择，然后……嗯……承担后果吧。|此模组包含一个新的肖像、新的语音、一条友谊路线、男爵普罗耶尔任务和游吟诗人问题的新版本、新物品，甚至有可能让卡立德在幽暗地域后获得新的职业。|没有浪漫关系，但为男性NPC提供了一条新的非浪漫路线。这是一段深厚但非浪漫的友谊，由卡立德在卡林珊与异母兄弟的艰难关系，以及巴尔之子与沙洛佛克缺乏父爱的关系所触发。女性角色玩家也会得到一些东西：一份贾希拉在十字军东征时期找到并交给卡立德的特殊礼物，希望他们有一天能一起交给他们的领袖。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod permet de décider qui peut rester dans le groupe pendant BG2 et ToB : Khalid ou Jaheira. Il place Khalid près de la cage de Jaheira. Aidez-le, et vous ne pourrez plus recruter Jaheira puisque c'est elle qui aura été emmenée par Irenicus, et Khalid la pleurera. Aidez Jaheira, et Khalid subira son sort initial. Faites votre choix et... bien... vivez avec les conséquences.|Ce mod inclut un nouveau portrait, une nouvelle voix, un chemin de l'amitié, de nouvelles versions des quêtes du Baron Ployer et des problèmes avec les ménestrels, de nouveaux objets, et même la possibilité que Khalid obtienne un nouveau profil après l'Ombreterre.|Il n'y a pas de romance, mais un nouveau chemin non romantique pour les PNJ masculins. Il s'agit d'une amitié profonde, mais non romantique, déclenchée par la relation difficile de Khalid avec ses demi-frères à Calimshan et la relation pas très fraternelle de l'enfant de Bhaal avec Sarevok et leur manque de père. Les PJ féminins reçoivent également quelque chose : un cadeau spécial que Jaheira a trouvé à l'époque de la Croisade et qu'elle a donné à Khalid, espérant qu'ils le donneraient un jour ensemble à leur chef."
+            "status": "needs_review",
+            "source": "Ce mod permet de décider qui peut rester dans le groupe pendant BG2 et ToB : Khalid ou Jaheira. Il place Khalid près de la cage de Jaheira. Aidez-le, et vous ne pourrez plus recruter Jaheira puisque c'est elle qui aura été emmenée par Irenicus, et Khalid la pleurera. Aidez Jaheira, et Khalid subira son sort initial. Faites votre choix et... bien... vivez avec les conséquences.|Ce mod inclut un nouveau portrait, une nouvelle voix, un chemin de l'amitié, de nouvelles versions des quêtes du Baron Ployer et des problèmes avec les ménestrels, de nouveaux objets, et même la possibilité que Khalid obtienne un nouveau profil après l'Ombreterre.|Il n'y a pas de romance, mais un nouveau chemin non romantique pour les PNJ masculins. Il s'agit d'une amitié profonde, mais non romantique, déclenchée par la relation difficile de Khalid avec ses demi-frères à Calimshan et la relation pas très fraternelle de l'enfant de Bhaal avec Sarevok et leur manque de père. Les PJ féminins reçoivent également quelque chose : un cadeau spécial que Jaheira a trouvé à l'époque de la Croisade et qu'elle a donné à Khalid, espérant qu'ils le donneraient un jour ensemble à leur chef.|FOR 15, DEX 16, CON 17, INT 15, SAG 10, CHA 9."
         },
         "notes": [],
         "notes_meta": {
@@ -8779,8 +8779,8 @@
         "id": 615,
         "description": "此模组在冰风谷：增强版中添加了一个新NPC：安娜·法尔提斯拉，一位精灵圣武士——米瑞恩·萨拉斯的神话探寻者。帮助她找到名为米萨拉丝-蒂尔的圣剑。与她交谈，了解更多关于她的过去以及诸如米德诺、昂达斯或林恩等古老精灵之地。帮助她，她也会帮助你调查凛谷所面临的奇怪事件。|她可以与非邪恶阵营的男性精灵发展浪漫关系。|你可以在库达哈的树根洞穴旅店中招募她。|",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : L'anna Falthisslar, une paladine elfe - Mythseeker of Mythrien Sarath. Aidez-la à trouver la lame sacrée connue sous le nom de Mythalass-Teel. Parlez-lui, apprenez-en plus sur son passé et sur les anciens lieux elfiques comme Myth Drannor, Myth Ondath ou Myth Rhynn. Aidez-la, et elle vous aidera dans enquête sur les événements étranges auxquels le Val de bise est confronté.|Elle peut engager une romance avec les hommes elfes d'alignement non mauvais.|Vous pouvez la recruter dans la taverne de la Cave aux racines, à Kuldahar."
+            "status": "needs_review",
+            "source": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : L'anna Falthisslar, une paladine elfe - Mythseeker of Mythrien Sarath. Aidez-la à trouver la lame sacrée connue sous le nom de Mythalass-Teel. Parlez-lui, apprenez-en plus sur son passé et sur les anciens lieux elfiques comme Myth Drannor, Myth Ondath ou Myth Rhynn. Aidez-la, et elle vous aidera dans enquête sur les événements étranges auxquels le Val de bise est confronté.|Elle peut engager une romance avec les hommes elfes d'alignement non mauvais.|Vous pouvez la recruter dans la taverne de la Cave aux racines, à Kuldahar.|FOR 18/66, DEX 15, CON 15, INT 12, SAG 12, CHA 17."
         },
         "notes": [],
         "notes_meta": {
@@ -9153,8 +9153,8 @@
         "id": 641,
         "description": "您将遇到兰恩·瓦尔多夫，一位堕落的混乱善良游侠。他来自一个曾经显赫的阿斯卡特拉家族，但家族失去了遗产，陷入了困境。您会帮助他打破别人眼中的诅咒，还是不幸的事件会继续发生？||该模组包含了一些扩展阿斯卡特拉行政区区域的任务，包括在本地监狱上方增加的瓦尔多夫庄园。如果您愿意善意地倾听兰恩，您可以建立友谊或爱情关系，这将帮助您更好地了解他……也许还会发现他的另一面。男性和女性都可以与他建立恋爱关系，但charname不能是混乱邪恶，才能开始这段关系。||要找到兰恩，请前往位于城门外的“扭曲骷髅”旅店。初次相遇将是他第一个任务的起点。",
         "description_meta": {
-            "status": "done",
-            "source": "Rencontez Lhannd Valdove, un rôdeur déchu chaotique bon. Il est issu d'une famille athkatlienne autrefois noble qui a perdu son héritage et sombré dans les problèmes. Allez-vous l'aider à briser ce que les autres considèrent comme une malédiction, ou la série d'événements malheureux va-t-elle se poursuivre ?||Le mod comprend des quêtes qui élargissent le quartier du gouvernement d'Athkatla, notamment l'ajout du domaine Valdove, situé au-dessus de la prison locale. Si vous êtes prêt à écouter Lhannd avec bienveillance, vous pourrez vous engager dans une relation amicale ou amoureuse qui vous aidera à mieux le connaître et... peut-être à découvrir son autre facette. Les hommes comme les femmes peuvent avoir une relation amoureuse avec lui, mais charname ne peut pas être chaotique mauvais pour que la relation puisse commencer.||Pour trouver Lhannd, aventurez-vous dans l'auberge du Crâne Tordu située aux portes de la ville. La première rencontre sert de point de départ à sa première quête."
+            "status": "needs_review",
+            "source": "Rencontez Lhannd Valdove, un rôdeur déchu chaotique bon. Il est issu d'une famille athkatlienne autrefois noble qui a perdu son héritage et sombré dans les problèmes. Allez-vous l'aider à briser ce que les autres considèrent comme une malédiction, ou la série d'événements malheureux va-t-elle se poursuivre ?||Le mod comprend des quêtes qui élargissent le quartier du gouvernement d'Athkatla, notamment l'ajout du domaine Valdove, situé au-dessus de la prison locale. Si vous êtes prêt à écouter Lhannd avec bienveillance, vous pourrez vous engager dans une relation amicale ou amoureuse qui vous aidera à mieux le connaître et... peut-être à découvrir son autre facette. Les hommes comme les femmes peuvent avoir une relation amoureuse avec lui, mais charname ne peut pas être chaotique mauvais pour que la relation puisse commencer.||Pour trouver Lhannd, aventurez-vous dans l'auberge du Crâne Tordu située aux portes de la ville. La première rencontre sert de point de départ à sa première quête.|FOR 16, DEX 18, CON 15, INT 11, SAG 14, CHA 12."
         },
         "notes": [],
         "notes_meta": {
@@ -10672,8 +10672,8 @@
         "id": 748,
         "description": "这是一个由波兰社区发起的巨大模组项目，整合了两个旧的模组（Project X 和 BG:EE 10 NPC Project）。它包括：|- 10个新的可招募NPC，附带他们的任务、友谊路线、浪漫关系和互动。|- 全新且原创的任务。|- 新的区域。|- 超过100个新角色，包括危险的对手。|作者警告说，它只适合成年人。",
         "description_meta": {
-            "status": "done",
-            "source": "Il s'agit d'un énorme projet de mod de la communauté polonaise regroupant deux anciens mods (Project X et BG:EE 10 NPC Project). Il comporte entre autres :|- 10 nouveaux PNJ recrutables avec leur quête, voie d'amitié, romance et interactions.|- des quêtes entièrement nouvelles et originales.|- des nouvelles zones.|- plus de 100 nouveaux personnages, dont des adversaires dangereux.|Ses auteurs préviennent qu'il n'est destiné qu'aux adultes."
+            "status": "needs_review",
+            "source": "Il s'agit d'un énorme projet de mod de la communauté polonaise regroupant deux anciens mods (Project X et BG:EE 10 NPC Project). Il comporte entre autres :|- 10 nouveaux PNJ recrutables avec leur quête, voie d'amitié, romance et interactions.|- des quêtes entièrement nouvelles et originales.|- des nouvelles zones.|- plus de 100 nouveaux personnages, dont des adversaires dangereux.|Ses auteurs préviennent qu'il n'est destiné qu'aux adultes.|Miranda, Belluaire : FOR 15, DEX 14, CON 14, INT 12, SAG 16, CHA 15.|Masambe, Barbare : FOR 18/57, DEX 16, CON 17, INT 9, SAG 11, CHA 10.|Alethra, Bretteur : FOR 17, DEX 18, CON 14, INT 16, SAG 11, CHA 15.|Rimardo, Prêtre de Lathandre : FOR 13, DEX 16, CON 15, INT 10, SAG 17, CHA 13.|Talindra, Chasseur de morts-vivants : FOR 17, DEX 14, CON 15, INT 11, SAG 14, CHA 17.|Theodor, Rôdeur : FOR 18/50, DEX 16, CON 15, INT 9, SAG 14, CHA 10.|Ariadne, Mage : FOR 8, DEX 10, CON 14, INT 19, SAG 15, CHA 15.|Nathan, Disciple du dragon : FOR 14, DEX 14, CON 15, INT 17, SAG 8, CHA 15.|Kasandra, Tueur de magiciens : FOR 18/86, DEX 17, CON 16, INT 8, SAG 7, CHA 11.|Namiir, Maître des ombres : FOR 14, DEX 18, CON 13, INT 14, SAG 9, CHA 14."
         },
         "notes": [],
         "notes_meta": {
@@ -10901,8 +10901,8 @@
         "id": 764,
         "description": "此模组在《冰风谷：增强版》中添加了一个新的NPC：一个黑暗的精类生物，一个猎人，有些人描述他像鹿一样的人类。然而，他既不是鹿，也不是人类。这个非凡的存在是鹿王之子，在拉西曼更为人所知。他是个局外人，一个能让大多数盖洛因（冰原）的男人和女人感到不安的人。你愿意冒着风险去更好地了解他吗？你能将他视为与你平等的人吗？你会给予他足够的信任，去与一个在凛谷中如此与众不同的人建立可能的关系吗？|一旦你找到并操控了一块带有发光符文的特殊石头，Oak-Maw就可以加入你的队伍。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute un nouveau PNJ dans IWD:EE : une créature féérique sombre, un chasseur, que certains décrivent comme un humain ressemblant à un cerf. Pourtant, il n'est ni cerf, ni humain. Cet être inhabituel est le fils du Roi des cerfs, plus connu en Rashéménie. C'est un étranger, quelqu'un qui peut mettre mal à l'aise la plupart des hommes et des femmes de Gélointain (Frozenfar). Allez-vous risquer votre réputation et apprendre à mieux le connaître ? Serez-vous capable de le voir comme quelqu'un d'égal à vous-même ? Lui ferez-vous suffisamment confiance pour construire une éventuelle relation avec quelqu'un de si différent de tous les autres hommes du Val de Bise ?|Oak-Maw pourra se joindre à vous une fois que vous aurez trouvé et manipulé une pierre spéciale, marquée d'une rune lumineuse."
+            "status": "needs_review",
+            "source": "Ce mod ajoute un nouveau PNJ dans IWD:EE : une créature féérique sombre, un chasseur, que certains décrivent comme un humain ressemblant à un cerf. Pourtant, il n'est ni cerf, ni humain. Cet être inhabituel est le fils du Roi des cerfs, plus connu en Rashéménie. C'est un étranger, quelqu'un qui peut mettre mal à l'aise la plupart des hommes et des femmes de Gélointain (Frozenfar). Allez-vous risquer votre réputation et apprendre à mieux le connaître ? Serez-vous capable de le voir comme quelqu'un d'égal à vous-même ? Lui ferez-vous suffisamment confiance pour construire une éventuelle relation avec quelqu'un de si différent de tous les autres hommes du Val de Bise ?|Oak-Maw pourra se joindre à vous une fois que vous aurez trouvé et manipulé une pierre spéciale, marquée d'une rune lumineuse.|FOR 19, DEX 12, CON 18, INT 12, SAG 13, CHA 7."
         },
         "notes": [],
         "notes_meta": {
@@ -11128,8 +11128,8 @@
         "id": 780,
         "description": "此模组在《冰风谷：增强版》中添加了一个新的NPC：奥拉，一名战士/法师/牧师。她是一位心地诚实的女性，来自遥远的Kozakura土地。她喜欢宁静、真理和陪伴。听听她的故事，和她交谈，也许你们会成为朋友。|该模组不包含爱情线，原因将在您的对话中解释。您可以在游戏一开始，在哈夫瑞德斯特的木制平台上，靠近艾莉西亚的地方招募她。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Orra, une guerrière/mage/clerc. Une femme au cœur honnête, qui vient d'une terre lointaine de Kozakura. Elle apprécie la tranquillité, la vérité et la compagnie. Écoutez ses histoires, parlez-lui, et peut-être deviendrez-vous amis.|Le mod n'inclut pas de romance, raison qui sera expliqué lors de vos conversations. Vous pouvez la recruter dès le début du jeu, à Havredest, sur la plate-forme en bois, non loin d'Elisia."
+            "status": "needs_review",
+            "source": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Orra, une guerrière/mage/clerc. Une femme au cœur honnête, qui vient d'une terre lointaine de Kozakura. Elle apprécie la tranquillité, la vérité et la compagnie. Écoutez ses histoires, parlez-lui, et peut-être deviendrez-vous amis.|Le mod n'inclut pas de romance, raison qui sera expliqué lors de vos conversations. Vous pouvez la recruter dès le début du jeu, à Havredest, sur la plate-forme en bois, non loin d'Elisia.|FOR 17, DEX 14, CON 16, INT 16, SAG 16, CHA 10."
         },
         "notes": [],
         "notes_meta": {
@@ -11458,8 +11458,8 @@
         ],
         "description": "多产的作者Lava为你带来一位年轻的半身人吟游诗人，她话多、爱玩、还有点疯疯癫癫。她不太强壮，但应该能为你的队伍增添不少活力。《巴尔王座》部分的内容尚不完善，而在《安姆阴影》中则有一段新任务。侏儒、矮人和半身人可以与她发展恋情，不受职业和阵营限制。你可以在“海之恩赐”（taverne de la Bonté marine）找到她。",
         "description_meta": {
-            "status": "done",
-            "source": "Le prolifique Lava vous présente une jeune petite-personne barde, bavarde, joueuse et un brin déjantée. Elle n'est pas très costaud mais devrait égayer votre groupe. La partie ToB n'est pas encore très développée, une nouvelle quête étant disponible dans la partie SoA. Les gnomes, nains et petites-personnes pourront accéder à sa romance, sans restriction de classes, ni d'alignements. Vous la trouverez dans la taverne de la Bonté marine."
+            "status": "needs_review",
+            "source": "Le prolifique Lava vous présente une jeune petite-personne barde, bavarde, joueuse et un brin déjantée. Elle n'est pas très costaud mais devrait égayer votre groupe. La partie ToB n'est pas encore très développée, une nouvelle quête étant disponible dans la partie SoA. Les gnomes, nains et petites-personnes pourront accéder à sa romance, sans restriction de classes, ni d'alignements. Vous la trouverez dans la taverne de la Bonté marine.|FOR 12, DEX 17, CON 12, INT 17, SAG 12, CHA 17."
         },
         "notes": [],
         "notes_meta": {
@@ -12266,8 +12266,8 @@
         "id": 860,
         "description": "罗瑟是一位侏儒吟游诗人，博学多才，出生于兰坦国，但为安姆的欧格玛教会工作。尽管她在武器使用上不如其他吟游诗人有效，但她的力量在于她的歌声和魔法，这使她能够保护她的团队免受危险的魅惑，并且施放的魔法比其他吟游诗人更多。她有一只名叫古斯塔夫的活泼雪貂，如果要求，它会勇敢地担任侦察兵。|她倾向于温和、仁慈和理解的方式，尽可能采用非暴力的解决方案，但也明白在别无选择时的情况。她也欣赏艺术和音乐，那些欣赏她的演奏并善待她的人将赢得她的友谊和喜爱。|你首先会在友善之臂遇到她，但只能在巫尔卡斯特废墟的入口处招募她。在龙矛围攻中，你会在公爵宫外找到她。在博德之门Ⅱ中，她在欧格玛神殿的码头区。",
         "description_meta": {
-            "status": "done",
-            "source": "Recorder est une ménestrel gnome, érudite, née dans la nation de Lantan, mais qui travaille pour l'Église d'Oghma en Amn. Bien qu'elle soit moins efficace avec les armes que les autres bardes, sa force réside dans son chant et sa magie, lui permettant de protéger son groupe des enchantements dangereux et de lancer plus de magie que les autres bardes. Elle possède un furet fougueux nommé Gustav qui pat bravement en éclaireur si on le lui demande.|Elle préfère l'approche douce, la miséricorde et la compréhension lorsque cela est possible, et les solutions non violentes, mais comprendra quand il n'y a pas le choix. Elle apprécie également l'art et la musique, et ceux qui apprécient son jeu et sont gentils avec elle gagneront son amitié et son affection.|On la rencontre d'abord à Château-Suif, mais on ne pourra la recruter qu'à l'entrée des ruines d'Ulcaster. Dans SoD, vous la trouverez à l'extérieur du Palais Ducal. Dans BG2, elle se trouve dans le temple d'Oghma, dans le quartier des docks."
+            "status": "needs_review",
+            "source": "Recorder est une ménestrel gnome, érudite, née dans la nation de Lantan, mais qui travaille pour l'Église d'Oghma en Amn. Bien qu'elle soit moins efficace avec les armes que les autres bardes, sa force réside dans son chant et sa magie, lui permettant de protéger son groupe des enchantements dangereux et de lancer plus de magie que les autres bardes. Elle possède un furet fougueux nommé Gustav qui pat bravement en éclaireur si on le lui demande.|Elle préfère l'approche douce, la miséricorde et la compréhension lorsque cela est possible, et les solutions non violentes, mais comprendra quand il n'y a pas le choix. Elle apprécie également l'art et la musique, et ceux qui apprécient son jeu et sont gentils avec elle gagneront son amitié et son affection.|On la rencontre d'abord à Château-Suif, mais on ne pourra la recruter qu'à l'entrée des ruines d'Ulcaster. Dans SoD, vous la trouverez à l'extérieur du Palais Ducal. Dans BG2, elle se trouve dans le temple d'Oghma, dans le quartier des docks.|FOR 10, DEX 17, CON 11, INT 17, SAG 15, CHA 15."
         },
         "notes": [],
         "notes_meta": {
@@ -12711,8 +12711,8 @@
         "id": 890,
         "description": "Rjali是一位爱上你的牧师/盗贼，她不会离开你。只要你好好待她，她会接受你的其他爱人。她与玩家角色（PC）有完整的爱情线，包括由玩家/非玩家角色（NPC）发起的调情、与其他NPC的玩笑、大量的感叹词、角色反应和其他对话。内容为成人向。",
         "description_meta": {
-            "status": "done",
-            "source": "Rjali est une clerc/voleuse amoureuse qui ne vous quittera pas. Elle acceptera vos autres amours tant que vous prendrez bien soin d'elle. Elle a une romance complète avec le PC, des flirts initiés par les joueurs/PNJ, des plaisanteries avec d'autres PNJ, un certain nombre d'interjections, de réactions de personnages et d'autres dialogues. Contenu adulte."
+            "status": "needs_review",
+            "source": "Rjali est une clerc/voleuse amoureuse qui ne vous quittera pas. Elle acceptera vos autres amours tant que vous prendrez bien soin d'elle. Elle a une romance complète avec le PC, des flirts initiés par les joueurs/PNJ, des plaisanteries avec d'autres PNJ, un certain nombre d'interjections, de réactions de personnages et d'autres dialogues. Contenu adulte.|FOR 15, DEX 17, CON 17, INT 11, SAG 18, CHA 12."
         },
         "notes": [
             "最后的数据版本（12.6）可在此处获取：http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=389",
@@ -13024,8 +13024,8 @@
         "id": 911,
         "description": "剑湾海岸的调情女贼是博德之门增强版中经过重大修改的NPC之一，并在龙矛围攻扩展中成为一个有趣的角色。不幸的是，游戏在这次战役结束时给了她一个令人失望的结局。此模组专为增强版三部曲设计，它改变了龙矛围攻中莎法娜的结局，并让她能继续在安姆和泰斯尔与队伍同行：|- 一个覆盖整个增强版三部曲游戏的持续NPC。|- 一段为男性玩家提供的持续浪漫剧情。|- 在博德之门Ⅱ中的多个小任务。|- 对游戏中多个任务的替代解决方案，让玩家能利用自己的才能。|- 如果莎法娜在队伍中，非盗贼玩家有机会获得麦瓦的公会。|- 贯穿游戏全程的插话和闲聊。|- 一进入安姆就能获得一个有天赋的盗贼，莎法娜就在盖兰·贝勒旁边。|- 她与科朗关系的新结局。",
         "description_meta": {
-            "status": "done",
-            "source": "La voleuse flirteuse de la Côte des Épées est l'un des PNJ qui a été considérablement remanié dans BG:EE, et elle est devenue un personnage intéressant dans l'extension SoD. Malheureusement, le jeu lui donne une fin décevante à la fin de cette campagne. Conçu pour EET, ce mod modifie la fin de SoD pour Safana et lui permet de continuer avec le groupe en Amn et en Téthyr :|- un PNJ continu pour l'ensemble du jeu EET.|- une romance continue pour un joueur masculin.|- plusieurs petites quêtes dans BG2.|- des solutions alternatives à un certain nombre de quêtes du jeu qui permettent au joueur d'utiliser ses talents.|- une possibilité pour un joueur non voleur d'obtenir la guilde de MaeVar si Safana est dans le groupe.|- des interjections et des banters tout au long du jeu.|- la possibilité d'obtenir un voleur talentueux dès le début d'Amn, Safana se trouve juste à côté de Gaelan Bayle.|- une nouvelle fin à sa relation avec Coran."
+            "status": "needs_review",
+            "source": "La voleuse flirteuse de la Côte des Épées est l'un des PNJ qui a été considérablement remanié dans BG:EE, et elle est devenue un personnage intéressant dans l'extension SoD. Malheureusement, le jeu lui donne une fin décevante à la fin de cette campagne. Conçu pour EET, ce mod modifie la fin de SoD pour Safana et lui permet de continuer avec le groupe en Amn et en Téthyr :|- un PNJ continu pour l'ensemble du jeu EET.|- une romance continue pour un joueur masculin.|- plusieurs petites quêtes dans BG2.|- des solutions alternatives à un certain nombre de quêtes du jeu qui permettent au joueur d'utiliser ses talents.|- une possibilité pour un joueur non voleur d'obtenir la guilde de MaeVar si Safana est dans le groupe.|- des interjections et des banters tout au long du jeu.|- la possibilité d'obtenir un voleur talentueux dès le début d'Amn, Safana se trouve juste à côté de Gaelan Bayle.|- une nouvelle fin à sa relation avec Coran.|FOR 13, DEX 17, CON 10, INT 16, SAG 9, CHA 17."
         },
         "notes": [],
         "notes_meta": {
@@ -13418,8 +13418,8 @@
         ],
         "description": "这个模组允许在扩展包《龙矛围攻》中招募莎蒂。你可以在火拳司令部监狱的一间牢房里找到她。|她在游戏中的对话非常有限（并且所有内容都是旁白形式，因此没有高亮文本）。这将使她与其他NPC区别开来。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ."
+            "status": "needs_review",
+            "source": "Ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ.|FOR 18/58, DEX 17, CON 9, INT 14, SAG 7, CHA 11."
         },
         "notes": [
             "选择兼容EET的GitHub版本。"
@@ -13726,8 +13726,8 @@
         "id": 960,
         "description": "这是Lava的一个新模组，涉及史姬。龙矛围攻给了银盾家族的安塔尔之女在剧情中非常重要的角色，而这个模组让玩家有机会在游戏的博德之门Ⅱ部分中继续她的故事。它包含三个组件：|- 一个为博德之门Ⅱ增强版设计的新任务，让玩家有机会在龙矛围攻发生的事情后拯救史姬。然而，拯救她是有代价的。模组从艾瑞尼卡斯的地牢开始，当你找到主要任务物品时。|- 如果你成功帮助她，史姬可以被招募。她稍后会在某些旅店找你，所以别忘了时不时地停下来休息。她将会有许多互动，但没有浪漫情节。|- 在渥金商场，一个新商人出售与龙矛围攻中某些角色、地点或事件相关的物品。此组件可以独立于其他组件安装。",
         "description_meta": {
-            "status": "done",
-            "source": "Un nouveau mod de Lava qui traite de Skie. Siege of Dragonspear a donné à la fille d'Entar Écudargent un rôle très important dans l'intrigue, et ce mod donne au joueur la possibilité de la poursuivre dans la partie BG2 du jeu. Il comprend trois composants :|- Une nouvelle quête pour BG2:EE qui donne au joueur une chance de sauver Skie après ce qui s'est passé dans SoD. Cependant, la sauver a un prix. Le mod commence dans le donjon d'Irenicus, lorsque vous trouvez l'objet de la quête principale.|- Skie peut être recrutée si vous parvenez à l'aider. Elle vous cherchera un peu plus tard dans certaines auberges, alors n'oubliez pas de vous arrêter et de vous reposer de temps en temps. Elle disposera de nombreuses interactions, mais pas de romance.|- Sur la Promenade de Waukyne, un nouveau marchand vend des objets ayant une relation avec certains personnages, lieux ou événements de SoD. Ce composant peut être installé indépendamment des autres."
+            "status": "needs_review",
+            "source": "Un nouveau mod de Lava qui traite de Skie. Siege of Dragonspear a donné à la fille d'Entar Écudargent un rôle très important dans l'intrigue, et ce mod donne au joueur la possibilité de la poursuivre dans la partie BG2 du jeu. Il comprend trois composants :|- Une nouvelle quête pour BG2:EE qui donne au joueur une chance de sauver Skie après ce qui s'est passé dans SoD. Cependant, la sauver a un prix. Le mod commence dans le donjon d'Irenicus, lorsque vous trouvez l'objet de la quête principale.|- Skie peut être recrutée si vous parvenez à l'aider. Elle vous cherchera un peu plus tard dans certaines auberges, alors n'oubliez pas de vous arrêter et de vous reposer de temps en temps. Elle disposera de nombreuses interactions, mais pas de romance.|- Sur la Promenade de Waukyne, un nouveau marchand vend des objets ayant une relation avec certains personnages, lieux ou événements de SoD. Ce composant peut être installé indépendamment des autres.|FOR 11, DEX 18, CON 15, INT 15, SAG 8, CHA 13."
         },
         "notes": [],
         "notes_meta": {
@@ -14722,8 +14722,8 @@
         ],
         "description": "此模组添加了塔莫科，即沙洛佛克的前任恋人，作为《博德之门：增强版》结尾和《龙矛围攻》期间可招募的非玩家角色。在地下城中击败沙洛佛克，并离开宫殿去追捕他最后的追随者时，你会遇到塔莫科并可以招募她（除非你之前已经杀了她）。她的属性和装备与原版角色相同。她是一个中立邪恶的牧师。她不想再成为过去的受害者，希望通过加入你，在她经历两次悲剧性失败后，或许能有第三次改变命运的机会。她将与你一同经历《龙矛围攻》的战役，直到她迎来自己的命运……",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute Tamoko, l'ancien amour de Sarevok, comme PNJ recrutable à la fin de BG:EE et pendant SoD. Après avoir vaincu Sarevok dans la ville souterraine, et en quittant le palais pour aller pourchasser ses derniers partisans, vous rencontrez Tamoko et pouvez la recruter (à moins que vous ne l'ayez tuée auparavant). Elle a les mêmes statistiques et équipement que le personnage original. C'est une prêtresse neutre mauvaise. Ne voulant plus être victime de son passé, elle espère, en vous rejoignant, avoir peut-être une troisième chance de changer les choses après les deux échecs tragiques qu'elle a subis. Elle restera avec vous pendant la campagne SoD jusqu'à ce qu'elle rencontre son destin..."
+            "status": "needs_review",
+            "source": "Ce mod ajoute Tamoko, l'ancien amour de Sarevok, comme PNJ recrutable à la fin de BG:EE et pendant SoD. Après avoir vaincu Sarevok dans la ville souterraine, et en quittant le palais pour aller pourchasser ses derniers partisans, vous rencontrez Tamoko et pouvez la recruter (à moins que vous ne l'ayez tuée auparavant). Elle a les mêmes statistiques et équipement que le personnage original. C'est une prêtresse neutre mauvaise. Ne voulant plus être victime de son passé, elle espère, en vous rejoignant, avoir peut-être une troisième chance de changer les choses après les deux échecs tragiques qu'elle a subis. Elle restera avec vous pendant la campagne SoD jusqu'à ce qu'elle rencontre son destin...|FOR 17, DEX 17, CON 15, INT 13, SAG 17, CHA 16."
         },
         "notes": [],
         "notes_meta": {
@@ -15048,8 +15048,8 @@
         "id": 1050,
         "description": "此模组增加了一个精灵附魔师/盗贼和一个隐藏的NPC。你可以在城市外的扭曲骷髅旅店门口找到米妮雅·波林。他包含自定义肖像、米妮雅和隐藏NPC的友谊路线、许多笑话和感叹词、遭遇和任务、两个NPC的语音（只有米妮雅有完整的配音）、与BioWare NPC的浪漫关系……|力量 11, 敏捷 19, 体质 12, 智力 17, 智慧 12, 魅力 16。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute un enchanteur/voleur elfe et un PNJ caché. Vous trouverez Minyae Beaurin à l'extérieur de l'auberge du Crâne tordu, aux portes de la ville. Il comprend des portraits personnalisés, une voie de l'amitié pour Minyae et le PNJ caché, de nombreuses plaisanteries et interjections, des rencontres et des quêtes, une voix pour les deux PNJ (seule Minyae dispose d'un jeu complet), une romance avec un PNJ Bioware...|FOR 11, DEX 19, CON 12, INT 17, SAG 12, CHA 16."
+            "status": "needs_review",
+            "source": "Ce mod ajoute un enchanteur/voleur elfe et un PNJ caché. Vous trouverez Minyae Beaurin à l'extérieur de l'auberge du Crâne tordu, aux portes de la ville. Il comprend des portraits personnalisés, une voie de l'amitié pour Minyae et le PNJ caché, de nombreuses plaisanteries et interjections, des rencontres et des quêtes, une voix pour les deux PNJ (seule Minyae dispose d'un jeu complet), une romance avec un PNJ Bioware...|Minyae : FOR 11, DEX 19, CON 12, INT 17, SAG 12, CHA 16.|Personnage caché : FOR 17, DEX 19, CON 16, INT 12, SAG 16, CHA 14."
         },
         "notes": [
             "由 [TamikaProud](https://www.deviantart.com/tamikaproud) 在 DeviantArt 上创作的肖像。"
@@ -15389,8 +15389,8 @@
         "id": 1073,
         "description": "《前往温恩丘陵》是为BG2EE设计的一款IWD风格冒险，在游戏中，你被派往一个名为温恩丘陵的新地区寻找一名男子。但请注意，这个地方以栖息着飞龙而闻名，但这并非你将面临的唯一威胁。此外，为什么有人会想住在这样的地方？通过访问这个新地区并探索山下的道路来发现答案。|这个模组还包含一个可招募的秘密角色：阿福-祖维，一个混乱中立的牧师/盗贼。他与BioWare的每个角色都有互动对话，拥有自己的宗派、声音和装备。",
         "description_meta": {
-            "status": "done",
-            "source": "The Journey to the Whin Hill est une aventure de type IWD pour BG2EE, dans laquelle vous êtes envoyé à la recherche d'un homme dans une nouvelle région connue sous le nom de Whin Hill. Mais attention, l'endroit est connu pour abriter des wyverns, mais ce n'est pas la seule menace que vous y trouverez. De plus, pourquoi quelqu'un voudrait-il vivre dans un tel endroit ? Découvrez-le en visitant cette nouvelle zone et en suivant le chemin sous la colline.|Ce mod contient également, un personnage recrutable secret : Afu-Zuuvi, un clerc/voleur chaotique neutre. Il possède des banters avec chaque personnage de BioWare, son propre kit, sa voix et son équipement."
+            "status": "needs_review",
+            "source": "The Journey to the Whin Hill est une aventure de type IWD pour BG2EE, dans laquelle vous êtes envoyé à la recherche d'un homme dans une nouvelle région connue sous le nom de Whin Hill. Mais attention, l'endroit est connu pour abriter des wyverns, mais ce n'est pas la seule menace que vous y trouverez. De plus, pourquoi quelqu'un voudrait-il vivre dans un tel endroit ? Découvrez-le en visitant cette nouvelle zone et en suivant le chemin sous la colline.|Ce mod contient également, un personnage recrutable secret : Afu-Zuuvi, un clerc/voleur chaotique neutre. Il possède des banters avec chaque personnage de BioWare, son propre kit, sa voix et son équipement.|FOR 8, DEX 19, CON 15, INT 9, SAG 16, CHA 15."
         },
         "notes": [],
         "notes_meta": {
@@ -15657,8 +15657,8 @@
         "id": 1092,
         "description": "此模组添加了两个NPC，卡利斯托·萨兰（女性精灵，中立邪恶狂战士）和[[1488]]（精灵战士/法师，守序中立）。还有与卡利斯托任务（原为[[303]]）相关的新遭遇、七个新商店、三个新任务、闲聊和插话。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute deux PNJ, Callisto T'sarran (elfe femme berserker neutre mauvaise) et [[1488]] (elfe guerrière/mage loyale neutre). De nouvelles rencontres en rapport avec la quête de Callisto (anciennement [[303]]), sept nouveaux magasins, trois nouvelles quêtes, banters et interjections sont également au programme."
+            "status": "needs_review",
+            "source": "Ce mod ajoute deux PNJ, Callisto T'sarran (elfe femme berserker neutre mauvaise) et [[1488]] (elfe guerrière/mage loyale neutre). De nouvelles rencontres en rapport avec la quête de Callisto (anciennement [[303]]), sept nouveaux magasins, trois nouvelles quêtes, banters et interjections sont également au programme.|Callisto T'sarran : FOR 17, DEX 18, CON 16, INT 16, SAG 11, CHA 12.|Ninafer : FOR 15, DEX 19, CON 12, INT 18, SAG 9, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -15873,8 +15873,8 @@
         "id": 1108,
         "description": "此模组在《冰风谷：增强版》中添加了一个新的NPC：提普斯·拉特特尔，一个半身人地脉法师。几年前，他在被遗忘者神殿入口附近被石化，现在他可以回到活人的世界，并加入由冰风谷英雄领导的队伍。|该模组包含友谊对话、插话、新物品以及某些种族的爱情线：如果你的主角是半身人、侏儒或矮人，可能会产生超越友谊的感情。虽然所有玩家角色都可以触发，但女性角色触发爱情线可能稍微容易一些，但一个有魅力或智慧的男性角色也可以发展一段认真的关系（如果遵守种族限制）。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute un nouveau PNJ dans IWD:EE : Tipps Rattletattle, un sorcier géomancien halfelin. Transformé en pierre il y a quelques années près de l'entrée du Temple du Dieu Oublié, il peut maintenant revenir dans le monde des vivants et rejoindre le groupe dirigé par le héros de Icewind Dale.|Le mod inclut des discussions d'amitié, des des interjections, de nouveaux objets et une romance pour certaines races : si votre personnage principal est un halfelin, un gnome ou un nain, quelque chose de plus que de l'amitié peut émerger. Bien que cela puisse être déclenché par tous les PJ, la romance peut être légèrement plus facile pour les personnages féminins, cependant un homme charismatique ou sage peut également poursuivre une relation sérieuse (si les restrictions raciales sont respectées)."
+            "status": "needs_review",
+            "source": "Ce mod ajoute un nouveau PNJ dans IWD:EE : Tipps Rattletattle, un sorcier géomancien halfelin. Transformé en pierre il y a quelques années près de l'entrée du Temple du Dieu Oublié, il peut maintenant revenir dans le monde des vivants et rejoindre le groupe dirigé par le héros de Icewind Dale.|Le mod inclut des discussions d'amitié, des des interjections, de nouveaux objets et une romance pour certaines races : si votre personnage principal est un halfelin, un gnome ou un nain, quelque chose de plus que de l'amitié peut émerger. Bien que cela puisse être déclenché par tous les PJ, la romance peut être légèrement plus facile pour les personnages féminins, cependant un homme charismatique ou sage peut également poursuivre une relation sérieuse (si les restrictions raciales sont respectées).|FOR 11, DEX 16, CON 13, INT 19, SAG 15, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -16009,8 +16009,8 @@
         "id": 1118,
         "description": "“受折磨的灵魂”是一个总称，涵盖了所有内心困扰的NPC。这个模组添加了许多对话、4段新的浪漫关系，其中一段在善最和千子之间，以及一个巨大的新任务。具体来说：|- 5名新的可招募NPC，包括西姆（艾朗·林维尔的女儿，如果你在第三章为她的公会工作，她会和父亲一起加入）、千子（在艾瑞尼卡斯的监狱中）、戴娜黑（西姆和明斯克必须在队伍中）、科朗（在泰斯尔的森林中可找到）以及芭荻（如果你在第三章选择为她的公会工作）。|- 一段女性角色与瓦里格的浪漫关系，始于安姆阴影，并在巴尔王座中延续。|- 一段关于前往咒禁之途的相当庞大的新任务，主角将是善最和千子。|- 一段适用于所有性别角色的西姆的浪漫关系。|- 几个西姆特有的任务，其中一个会在模组的主线任务中让你两次面对一个敌人（第一次遭遇时无法被摧毁）。|- “多职业任务”组件，允许多职业角色完成其所有子职业的任务。|- 对扭曲符文战的轻微改进。|- 大量新物品（主要来自冰风谷1）。|要招募千子，善最必须加入你的队伍。同样，要招募科朗，必须在冒险者市场触发一个小任务（你必须让贾希拉不在队伍中进入市场）。|此版本与[[1051]]和大多数WeiDU模组兼容。",
         "description_meta": {
-            "status": "done",
-            "source": "« Les Âmes Torturées » est un terme générique pour englober tous les PNJ qui sont troublés. Ce mod ajoute de nombreux banters, 4 nouvelles romances dont une entre Yoshimo et Kachiko, et une énorme nouvelle quête. Plus précisément :|- 5 nouveaux PNJ recrutables dont Sime (la fille d'Aran Linvail, aux côtés de son père si vous avez travaillé pour sa guilde au chapitre 3), Kachiko (dans le donjon d'Irenicus), Dynahéir (Sime et Minsc doivent être dans le groupe), Coran (disponible dans la forêt du Téthyr) et Bodhi (si vous avez choisi de travailler pour sa guilde au chapitre 3).|Une romance avec Valygar pour un PJ féminin, qui débute dans SoA et se poursuit dans ToB.|- Une nouvelle quête assez vaste sur la route de Spellhold, dont les protagonistes seront Yoshimo et Kachiko.|- Une romance avec Sime pour les PJ des 2 sexes.|- Plusieurs quêtes spécifiques à Sime, dont l'une vous amènera à affronter par 2 fois un ennemi (indestructible dans la 1ère rencontre) lors de la quête principale du mod.|- Le composant `Quêtes de classe multiples` pour les PJ multi-classés, leur autorisant à effectuer les quêtes de toutes leur sous-classes.|- Une légère amélioration du combat de la Rune Tordue.|- Une multitude de nouveaux objets (provenant en grande partie d'IWD1).|Yoshimo doit faire partie de votre groupe pour pouvoir recruter Kachiko. De même, le recrutement de Coran ne pourra se faire qu'en déclenchant une mini-quête dans le Marché de l'Aventurier (vous devez y pénétrer sans que Jaheira fasse partie de votre groupe).|Cette version est compatible avec [[1051]] et la plupart des mods WeiDU."
+            "status": "needs_review",
+            "source": "« Les Âmes Torturées » est un terme générique pour englober tous les PNJ qui sont troublés. Ce mod ajoute de nombreux banters, 4 nouvelles romances dont une entre Yoshimo et Kachiko, et une énorme nouvelle quête. Plus précisément :|- 5 nouveaux PNJ recrutables dont Sime (la fille d'Aran Linvail, aux côtés de son père si vous avez travaillé pour sa guilde au chapitre 3), Kachiko (dans le donjon d'Irenicus), Dynahéir (Sime et Minsc doivent être dans le groupe), Coran (disponible dans la forêt du Téthyr) et Bodhi (si vous avez choisi de travailler pour sa guilde au chapitre 3).|Une romance avec Valygar pour un PJ féminin, qui débute dans SoA et se poursuit dans ToB.|- Une nouvelle quête assez vaste sur la route de Spellhold, dont les protagonistes seront Yoshimo et Kachiko.|- Une romance avec Sime pour les PJ des 2 sexes.|- Plusieurs quêtes spécifiques à Sime, dont l'une vous amènera à affronter par 2 fois un ennemi (indestructible dans la 1ère rencontre) lors de la quête principale du mod.|- Le composant `Quêtes de classe multiples` pour les PJ multi-classés, leur autorisant à effectuer les quêtes de toutes leur sous-classes.|- Une légère amélioration du combat de la Rune Tordue.|- Une multitude de nouveaux objets (provenant en grande partie d'IWD1).|Yoshimo doit faire partie de votre groupe pour pouvoir recruter Kachiko. De même, le recrutement de Coran ne pourra se faire qu'en déclenchant une mini-quête dans le Marché de l'Aventurier (vous devez y pénétrer sans que Jaheira fasse partie de votre groupe).|Cette version est compatible avec [[1051]] et la plupart des mods WeiDU.|Kachiko : FOR 15, DEX 17, CON 16, INT 18, SAG 10, CHA 13.|Coran : FOR 14, DEX 20, CON 12, INT 14, SAG 9, CHA 16.|Dynahéir : FOR 11, DEX 13, CON 16, INT 17, SAG 15, CHA 12.|Bodhi : FOR 20, DEX 20, CON 9, INT 20, SAG 9, CHA 19.|Sime : FOR 15, DEX 16, CON 18, INT 12, SAG 17, CHA 15."
         },
         "notes": [],
         "notes_meta": {
@@ -16225,8 +16225,8 @@
         "id": 1134,
         "description": "月是一个混乱中立的双性恋法师/盗贼，是费伦最卑劣的恶棍之一。他的父母是深水城的精灵和卡拉-图的一位东方女孩。这种基因的混合产生了一个真正的杂种。他很狡猾。不要相信他。就像一只试图捕捉猎物的黄鼠狼。躲在草丛中，等待鸟儿离开巢穴。他总是想站在胜利者这边……这就是为什么他把它交给了芭荻女士……",
         "description_meta": {
-            "status": "done",
-            "source": "Tsuki est un mage/voleur chaotique neutre et bisexuel, l'une des pires ordures de Féérune. Ses parents étaient un elfe d'Eauprofonde et une fille orientale de Kara-Tur. Ce mélange de gènes a donné vie à un vrai bâtard. Il est rusé. Ne lui faites pas confiance. C'est comme une belette qui essaie d'attraper sa proie. Se cachant dans les herbes, attendant que l'oiseau quitte le nid. Il veut toujours être du côté des vainqueurs... c'est pourquoi il a confié à Maîtresse Bodhi..."
+            "status": "needs_review",
+            "source": "Tsuki est un mage/voleur chaotique neutre et bisexuel, l'une des pires ordures de Féérune. Ses parents étaient un elfe d'Eauprofonde et une fille orientale de Kara-Tur. Ce mélange de gènes a donné vie à un vrai bâtard. Il est rusé. Ne lui faites pas confiance. C'est comme une belette qui essaie d'attraper sa proie. Se cachant dans les herbes, attendant que l'oiseau quitte le nid. Il veut toujours être du côté des vainqueurs... c'est pourquoi il a confié à Maîtresse Bodhi...|FOR 11, DEX 17, CON 9, INT 17, SAG 13, CHA 16."
         },
         "notes": [],
         "notes_meta": {
@@ -16238,8 +16238,8 @@
         "id": 1135,
         "description": "仍在测试版中，这个模组在冰风谷：增强版中添加了一个新的NPC：图拉尔德·铁拳，一个中立善良的矮人战士/牧师。这位流浪牧师马瑟莫·杜因从矮人的角度来看待冰风谷的事件。目前，该模组包含与主角的对话、插话、玩家发起的讨论以及与其他模组NPC的内容，但没有恋爱线。你可以在坦帕斯神殿找到他，该神殿位于避风港。",
         "description_meta": {
-            "status": "done",
-            "source": "Encore en version bêta, ce mod ajoute un nouveau PNJ dans IWD:EE : Turald Ironfist, un guerrier/prêtre nain neutre bon. Ce prêtre itinérant de Marthammor Duin considère les événements du Val de bise du point de vue des nains. En l'état, le mod inclut des dialogues avec le personnage principal, des interjections, des discussions initiées par le joueur et du contenu avec des PNJ d'autres mods, mais pas de romance. Vous le trouverez dans le temple de Tempus à Havredest."
+            "status": "needs_review",
+            "source": "Ce mod ajoute un nouveau PNJ dans IWD:EE : Turald Ironfist, un guerrier/prêtre nain neutre bon. Ce prêtre itinérant de Marthammor Duin considère les événements du Val de bise du point de vue des nains. En l'état, le mod inclut des dialogues avec le personnage principal, des interjections, des discussions initiées par le joueur et du contenu avec des PNJ d'autres mods, mais pas de romance. Vous le trouverez dans le temple de Tempus à Havredest.|FOR 17, DEX 13, CON 19, INT 12, SAG 18, CHA 12."
         },
         "notes": [],
         "notes_meta": {
@@ -16371,8 +16371,8 @@
         "id": 1145,
         "description": "乌尔达是一个半兽人野蛮人，可以加入你的队伍。他在铜冠旅店找到他。在巴尔王座中，你可以在前厅召唤他。该模组没有任何恋爱线，但提供了大量的对话和互动，几乎总是有多种回答选项。",
         "description_meta": {
-            "status": "done",
-            "source": "Uldar est un barbare demi-orque qui peut rejoindre votre groupe. On le trouve à la Couronne de Cuivre. Dans ToB, on peut l'invoquer dans l'antichambre. Le mod n'a aucune romance, mais fournit beaucoup de dialogues et d'interactions, presque toujours avec plusieurs options de réponse."
+            "status": "needs_review",
+            "source": "Uldar est un barbare demi-orque qui peut rejoindre votre groupe. On le trouve à la Couronne de Cuivre. Dans ToB, on peut l'invoquer dans l'antichambre. Le mod n'a aucune romance, mais fournit beaucoup de dialogues et d'interactions, presque toujours avec plusieurs options de réponse.|FOR 19, DEX 16, CON 20, INT 8, SAG 8, CHA 5."
         },
         "notes": [
             "有一个非官方的增强版移植版本，带有英文版，[在此处](https://github.com/PaulaMigrate/Uldar)。"
@@ -16706,8 +16706,8 @@
         "id": 1169,
         "description": "这个模组在冰风谷：增强版中添加了一个特殊的NPC：Urchin。它是一种由夜女巫创造的奇特生物。它拥有自己专属的宗派——Hag's Varmint。要招募它，您必须找到一个新地点：一片月光林空地。|它的运作方式类似于博德之门Ⅱ：增强版中的熊之典范Wilson。它无法使用大多数物品，但每次升级时都会变得更加强大和有力。您想以一种不同的方式体验冰风谷吗？有些人会觉得Urchin很奇怪，另一些人则会认为它有一种奇特的魅力。|要加入Urchin，您必须找到一个新地点：一片月光林空地。需要提示吗？请在库达哈附近磨坊相关的区域中寻找。该模组还包括一个真正微小的新商店，里面有一些新奇物品。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute un PNJ particulier dans IWD:EE : Urchin. Il s'agit d'une créature inhabituelle, crée par une guenaude de la nuit. Il est livré avec son kit personnalisé, le Hag's Varmint. Pour le recruter, vous devrez trouver un nouveau site : une clairière de la nuit.|Il fonctionne comme Wilson, le parangon d'ours de BG2:EE. Il ne pourra pas utiliser la plupart des objets, mais deviendra plus fort et beaucoup plus puissant à chaque niveau. Saisirez-vous la chance de jouer à IWD d'une manière un peu différente ? Certains trouveront Urchin étrange, d'autres penseront qu'il a un charme bizarre.|Pour rejoindre Urchin, vous devez trouver un nouvel emplacement : une clairière nocturne. Besoin d'un indice ? Cherchez dans les zones liées d'une manière ou d'une autre au moulin près de Kuldahar. Le mod inclut également une nouvelle boutique vraiment minuscule avec quelques nouveautés."
+            "status": "needs_review",
+            "source": "Ce mod ajoute un PNJ particulier dans IWD:EE : Urchin. Il s'agit d'une créature inhabituelle, crée par une guenaude de la nuit. Il est livré avec son kit personnalisé, le Hag's Varmint. Pour le recruter, vous devrez trouver un nouveau site : une clairière de la nuit.|Il fonctionne comme Wilson, le parangon d'ours de BG2:EE. Il ne pourra pas utiliser la plupart des objets, mais deviendra plus fort et beaucoup plus puissant à chaque niveau. Saisirez-vous la chance de jouer à IWD d'une manière un peu différente ? Certains trouveront Urchin étrange, d'autres penseront qu'il a un charme bizarre.|Pour rejoindre Urchin, vous devez trouver un nouvel emplacement : une clairière nocturne. Besoin d'un indice ? Cherchez dans les zones liées d'une manière ou d'une autre au moulin près de Kuldahar. Le mod inclut également une nouvelle boutique vraiment minuscule avec quelques nouveautés.|FOR 19, DEX 17, CON 20, INT 7, SAG 6, CHA 5."
         },
         "notes": [],
         "notes_meta": {
@@ -16866,8 +16866,8 @@
         "id": 1181,
         "description": "这个模组将邪兽鬼同伴维尔萨带到了博德之门Ⅱ。这是由同一作者编写的模组[[1182]]的续作。然而，虽然这些模组是为了允许巴尔之子与维尔萨的伙伴关系得以延续而编写的，但也可以选择开启一段全新的关系，而不是继续博德之门Ⅰ的内容。|维尔萨是一个邪恶阵营的游侠；并不总是很在意人类的律法。他很务实，遵循自己设定的规则以及他认为事物应该如何发展的理念。然而，他也对学习感兴趣。他并不粗鲁。他并不鲁莽，虽然他不是耐心的典范，但他明白某些问题需要不同类型的行动和态度。该模组包含爱情线（适用于任何性别的巴尔之子），根据你是否从博德之门Ⅰ继续这段关系，可能会有所不同。|请注意，由于NPC的态度和语言，该模组的内容可能被认为是露骨的。该模组是为成年玩家编写的。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod amène Verr’Sza, le compagnon rakshasa, dans Baldur's Gate 2. C'est une continuation du mod [[1182]], écrit par le même auteur. Cependant, si les mods ont été écrits pour permettre la poursuite du partenariat entre l'Enfant de Bhaal et Verr’Sza, il est possible de démarrer une toute nouvelle relation avec Verr’Sza, au lieu de continuer le contenu de BG.|Verr’Sza est un rôdeur maléfique ; pas toujours très préoccupé par la loi des hommes. Il est pragmatique, et suit les règles qu'il s'est lui-même fixées et son idée de la façon dont les choses doivent être faites. Pourtant, il s'intéresse aussi à l'apprentissage. Il n'est pas grossier. Il n'est pas imprudent, même s'il n'est pas un exemple de patience, il comprend que certaines questions nécessitent différents types d'actions et d'attitudes. Le mod inclut la romance (pour les enfants de Bhaal, quel que soit leur sexe), qui peut différer légèrement, selon que vous poursuivez ou non votre romance depuis BG1.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes."
+            "status": "needs_review",
+            "source": "Ce mod amène Verr’Sza, le compagnon rakshasa, dans Baldur's Gate 2. C'est une continuation du mod [[1182]], écrit par le même auteur. Cependant, si les mods ont été écrits pour permettre la poursuite du partenariat entre l'Enfant de Bhaal et Verr’Sza, il est possible de démarrer une toute nouvelle relation avec Verr’Sza, au lieu de continuer le contenu de BG.|Verr’Sza est un rôdeur maléfique ; pas toujours très préoccupé par la loi des hommes. Il est pragmatique, et suit les règles qu'il s'est lui-même fixées et son idée de la façon dont les choses doivent être faites. Pourtant, il s'intéresse aussi à l'apprentissage. Il n'est pas grossier. Il n'est pas imprudent, même s'il n'est pas un exemple de patience, il comprend que certaines questions nécessitent différents types d'actions et d'attitudes. Le mod inclut la romance (pour les enfants de Bhaal, quel que soit leur sexe), qui peut différer légèrement, selon que vous poursuivez ou non votre romance depuis BG1.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes.|FOR 16, DEX 19, CON 13, INT 14, SAG 13, CHA 7."
         },
         "notes": [],
         "notes_meta": {
@@ -16879,8 +16879,8 @@
         "id": 1182,
         "description": "维尔萨是一只邪恶阵营的邪兽鬼猎人，可以在友善之臂旅店招募。该模组与龙矛围攻兼容，并拥有专属于此扩展的内容，以及与模组[[958]]相关的内容。|它包含一些任务，以及为男性和女性角色提供的爱情线（唯一条件是阵营不能是守序善良）。尽管技术上这是一条爱情线，但维尔萨并不是一个很浪漫的角色。更确切地说，是让他尊重你，并且不要试图以任何方式束缚他。他可能会以自己扭曲和粗暴的方式变得具有保护欲。|请注意，由于NPC的态度和语言，该模组的内容可能被认为是露骨的。该模组是为成年玩家编写的。",
         "description_meta": {
-            "status": "done",
-            "source": "Verr’Sza est un chasseur rakshasa d'alignement mauvais que l'on peut recruter à l'auberge de Brasamical. Le mod est compatible avec Siege of Dragonspear et dispose de contenu propre à cette extension, ainsi qu'en rapport avec le mod [[958]].|Il comprend quelques quêtes, ainsi qu'une romance pour les personnages masculins et féminins (la seule condition est de ne pas être d'alignement loyal bon). Bien qu'il s'agisse techniquement d'une romance, Verr’Sza n'est pas un personnage très romantique. Il s'agit plutôt de le faire vous respecter et de ne pas essayer de le lier de quelque façon que ce soit. Il peut être protecteur à sa manière tordue et brutale.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes."
+            "status": "needs_review",
+            "source": "Verr’Sza est un chasseur rakshasa d'alignement mauvais que l'on peut recruter à l'auberge de Brasamical. Le mod est compatible avec Siege of Dragonspear et dispose de contenu propre à cette extension, ainsi qu'en rapport avec le mod [[958]].|Il comprend quelques quêtes, ainsi qu'une romance pour les personnages masculins et féminins (la seule condition est de ne pas être d'alignement loyal bon). Bien qu'il s'agisse techniquement d'une romance, Verr’Sza n'est pas un personnage très romantique. Il s'agit plutôt de le faire vous respecter et de ne pas essayer de le lier de quelque façon que ce soit. Il peut être protecteur à sa manière tordue et brutale.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes.|FOR 16, DEX 19, CON 13, INT 14, SAG 13, CHA 7."
         },
         "notes": [],
         "notes_meta": {
@@ -16974,8 +16974,8 @@
         "id": 1189,
         "description": "温德是一名卓尔刺客，可以在贝尔苟斯特的燃烧的法师旅店招募。尽管他是邪恶阵营，但他不会因为声誉而离开队伍（注意：这不适用于博德之门：增强版）。他与主角、BioWare的NPC以及增强版专属的NPC都有对话，还有许多队伍外的互动和玩家主动发起的对话。",
         "description_meta": {
-            "status": "done",
-            "source": "Vynd est un assassin drow, recrutable à la taverne du Magicien ardent à Bérégost. Bien qu'il soit d'alignement mauvais, il ne quittera pas le groupe en raison de sa réputation (nota : cela ne fonctionne pas avec BG:EE). Il possède des dialogues avec le personnage principal, avec les PNJ de Bioware et ceux propres à l'Enhanced Edition ainsi que de nombreuses interactions hors du groupe et des dialogues à l'initiative du joueur."
+            "status": "needs_review",
+            "source": "Vynd est un assassin drow, recrutable à la taverne du Magicien ardent à Bérégost. Bien qu'il soit d'alignement mauvais, il ne quittera pas le groupe en raison de sa réputation (nota : cela ne fonctionne pas avec BG:EE). Il possède des dialogues avec le personnage principal, avec les PNJ de Bioware et ceux propres à l'Enhanced Edition ainsi que de nombreuses interactions hors du groupe et des dialogues à l'initiative du joueur.|FOR 16, DEX 19, CON 15, INT 16, SAG 10, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -17212,8 +17212,8 @@
         "id": 1207,
         "description": "",
         "description_meta": {
-            "status": "done",
-            "source": ""
+            "status": "todo",
+            "source": "Forme humaine : FOR 14, DEX 12, CON 10, INT 15, SAG 18, CHA 15.|Forme de Yuan-Ti : FOR 18/00, DEX 12, CON 10, INT 15, SAG 18, CHA 19."
         },
         "notes": [],
         "notes_meta": {
@@ -17319,8 +17319,8 @@
         "id": 1215,
         "description": "这个模组添加了一个2级的人类野蛮人（因此请尽快招募他），他也可以证明自己是个优秀的猎人。你可以在巫尔卡斯特废墟的入口附近招募他。男性玩家角色，不限种族，魅力值至少11点，力量值至少12点，可以尝试与他发展恋情。调情、感叹词和与其他所有NPC（包括博德之门增强版中的3个）的插科打诨也都在计划之中。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute un barbare humain de niveau 2 (tachez donc de le recruter assez vite) qui peut aussi se révéler bon chasseur. Vous pouvez le recruter près de l'entrée des ruines d'Ulcaster. Les PJ masculins, sans restriction de race, disposant d'au moins 11 de Charisme et 12 de Force peuvent tenter de le romancer. Flirts, interjections et banters avec tous les PNJ (y compris les 3 de BG:EE) sont également au programme."
+            "status": "needs_review",
+            "source": "Ce mod ajoute un barbare humain de niveau 2 (tachez donc de le recruter assez vite) qui peut aussi se révéler bon chasseur. Vous pouvez le recruter près de l'entrée des ruines d'Ulcaster. Les PJ masculins, sans restriction de race, disposant d'au moins 11 de Charisme et 12 de Force peuvent tenter de le romancer. Flirts, interjections et banters avec tous les PNJ (y compris les 3 de BG:EE) sont également au programme.|FOR 18/30, DEX 15, CON 17, INT 13, SAG 10, CHA 10."
         },
         "notes": [
             "需要在[[372]]之前安装。"
@@ -17586,8 +17586,8 @@
         "id": 1233,
         "description": "你还记得在博德之门中那个如此快乐和乐观的角色吗（对知情者来说是反讽）？嗯，他现在在博德之门II中回归了。我们这位抑郁的法师与博德之门II中的所有角色都有许多互动，还有一些过场动画和一个语音包。如果你的角色是一个漂亮的精灵女性，他甚至提供双向的浪漫关系。总之，这足以让这位附魔师的粉丝感到高兴。|如果您愿意，可以安装[[1336]]。在这种情况下，您必须在Xan BG2之后安装它。",
         "description_meta": {
-            "status": "done",
-            "source": "Vous vous souvenez de ce personnage si joyeux et optimiste dans BG (ironie inside pour les connaisseurs) ? Eh bien, le voici de retour dans BG2. Notre magicien dépressif a de nombreuses interactions avec l'ensemble des personnages de BG2, quelques cinématiques et un kit de voix. Il propose même une romance à deux voies si votre personnage est une jolie elfette. Bref, de quoi ravir les fans de cet enchanteur.|Si vous le souhaitez, vous pouvez installer [[1336]]. Dans ce cas, vous devez l'installer après Xan BG2."
+            "status": "needs_review",
+            "source": "Vous vous souvenez de ce personnage si joyeux et optimiste dans BG (ironie inside pour les connaisseurs) ? Eh bien, le voici de retour dans BG2. Notre magicien dépressif a de nombreuses interactions avec l'ensemble des personnages de BG2, quelques cinématiques et un kit de voix. Il propose même une romance à deux voies si votre personnage est une jolie elfette. Bref, de quoi ravir les fans de cet enchanteur.|Si vous le souhaitez, vous pouvez installer [[1336]]. Dans ce cas, vous devez l'installer après Xan BG2.|FOR 13, DEX 16, CON 7, INT 17, SAG 14, CHA 16."
         },
         "notes": [],
         "notes_meta": {
@@ -17693,8 +17693,8 @@
         ],
         "description": "你是否曾获得过一张卷轴，上面除了几行魔法文字外别无他物？你就是这样认识伊薇特的。帮助她回忆起自己的过去，让她体验新的冒险，让她陪伴你，也许你能比普通朋友更深刻地触动她。伊薇特有安姆阴影和巴尔王座的内容，对话和插话也包含在内。",
         "description_meta": {
-            "status": "done",
-            "source": "Vous êtes-vous déjà procuré un parchemin renfermant autre chose que quelques lignes magiques ? C'est ainsi que vous ferez la connaissance d'Yvette. Aidez-la à se souvenir de son passé, laissez la vivre de nouvelles aventures, laissez la vous accompagner et peut-être pourrez-vous la toucher plus profondément qu'une simple amie. Yvette a du contenu pour SoA et ToB, banters et interjections sont également de la partie."
+            "status": "needs_review",
+            "source": "Vous êtes-vous déjà procuré un parchemin renfermant autre chose que quelques lignes magiques ? C'est ainsi que vous ferez la connaissance d'Yvette. Aidez-la à se souvenir de son passé, laissez la vivre de nouvelles aventures, laissez la vous accompagner et peut-être pourrez-vous la toucher plus profondément qu'une simple amie. Yvette a du contenu pour SoA et ToB, banters et interjections sont également de la partie.|FOR 10, DEX 16, CON 11, INT 13, SAG 17, CHA 14."
         },
         "notes": [],
         "notes_meta": {
@@ -17732,8 +17732,8 @@
         "id": 1244,
         "description": "非常古老的模组，这是Smiling Imp最早的作品之一，基于他童年时看的一系列动画片。它添加了许多任务、数百件物品、区域等。",
         "description_meta": {
-            "status": "done",
-            "source": "Très vieux mod, c'est l'une des premières créations de Smiling Imp basée sur une série de dessins animés qu'il regardait enfant. Il ajoute de nombreuses quêtes, des centaines d'objets, des zones etc"
+            "status": "needs_review",
+            "source": "Très vieux mod, c'est l'une des premières créations de Smiling Imp basée sur une série de dessins animés qu'il regardait enfant. Il ajoute de nombreuses quêtes, des centaines d'objets, des zones etc|Link : FOR 17, DEX 18, CON 7, INT 7, SAG 7, CHA 18."
         },
         "notes": [],
         "notes_meta": {
@@ -18408,8 +18408,8 @@
         "id": 1292,
         "description": "这个模组让你能招募盗贼赛姆，艾朗·林维尔曾派她监督你在布林罗的行程。但赛姆有个人原因要进入疯人院并查看里面的情况。因此，即使你选择与芭荻结盟，她也会出现在布林罗。你可以在进入疯人院之前在那里招募她。请注意，如果你在进入疯人院前拒绝了她，她会像计划中一样继续担任向导，但不会再加入你的队伍。|她拥有与原版游戏中相同的属性，但在加入你时会配备更现实的装备。此外，她还与失踪的家人成员或盗贼相关的小任务。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod permet de rendre recrutable la voleuse Sime qu'Aran Linvail a envoyée superviser votre trajet à Brynnlaw. Mais Sime a une raison personnelle d'accéder à l'Asile et de voir ce qui s'y passe. C'est pourquoi elle se trouvera à Brynnlaw même si vous choisissez de vous allier à Bodhi. Vous pourrons donc l'y recruter avant de pénétrer dans l'asile. Notez que si vous la rejetez avant d'entrer dans l'asile, elle reprendra son rôle de guide comme prévu, mais ne vous rejoindra plus.|Elle possède les mêmes caractéristiques que dans le jeu original, mais dispose d'un équipement plus réaliste lorsqu'elle vous rejoint. Par ailleurs, elle bénéficie de petites quêtes liées à des membres de sa famille disparus ou de voleur."
+            "status": "needs_review",
+            "source": "Ce mod permet de rendre recrutable la voleuse Sime qu'Aran Linvail a envoyée superviser votre trajet à Brynnlaw. Mais Sime a une raison personnelle d'accéder à l'Asile et de voir ce qui s'y passe. C'est pourquoi elle se trouvera à Brynnlaw même si vous choisissez de vous allier à Bodhi. Vous pourrons donc l'y recruter avant de pénétrer dans l'asile. Notez que si vous la rejetez avant d'entrer dans l'asile, elle reprendra son rôle de guide comme prévu, mais ne vous rejoindra plus.|Elle possède les mêmes caractéristiques que dans le jeu original, mais dispose d'un équipement plus réaliste lorsqu'elle vous rejoint. Par ailleurs, elle bénéficie de petites quêtes liées à des membres de sa famille disparus ou de voleur.|FOR 18, DEX 18, CON 9, INT 16, SAG 9, CHA 16."
         },
         "notes": [],
         "notes_meta": {
@@ -18464,8 +18464,8 @@
         "id": 1296,
         "description": "这个模组是著名的[[1294]]的一个替代品。|在招募索劳芬之前，你必须先把他从蛛化精灵的房间里解救出来。无论他之后是否加入队伍，这个任务都可以独立进行。|如果你的队伍已经满员6人，索劳芬也可以作为“第七名队伍成员”跟随你。更多相关细节，请阅读自述文件。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod est une alternative au célèbre [[1294]].|Avant de pouvoir recruter Solaufein, vous devez le libérer des chambres des driders. Cette quête peut être jouée indépendamment du fait qu'il doive ensuite rejoindre le groupe ou non.|Solaufein peut également vous suivre en tant que « 7e membre du groupe » si votre groupe se compose déjà de 6 personnes. Pour plus de détails à ce sujet, veuillez lire le fichier readme."
+            "status": "needs_review",
+            "source": "Ce mod est une alternative au célèbre [[1294]].|Avant de pouvoir recruter Solaufein, vous devez le libérer des chambres des driders. Cette quête peut être jouée indépendamment du fait qu'il doive ensuite rejoindre le groupe ou non.|Solaufein peut également vous suivre en tant que « 7e membre du groupe » si votre groupe se compose déjà de 6 personnes. Pour plus de détails à ce sujet, veuillez lire le fichier readme.|FOR 17, DEX 16, CON 15, INT 14, SAG 11, CHA 10."
         },
         "notes": [],
         "notes_meta": {
@@ -18481,8 +18481,8 @@
         ],
         "description": "终于，艾瑞尼卡斯在《巴尔王座》一开始就成为一个可招募的角色！这个模组增加了任务、对话，以及一个同样令人惊叹的结局。注意，你的回答会极大地影响你和艾瑞尼卡斯的关系，并且将他纳入队伍时与他签订的协议也会带来负面影响。",
         "description_meta": {
-            "status": "done",
-            "source": "Enfin, Irenicus devient un personnage recrutable dès le début de ToB ! Ce mod rajoute des quêtes, des dialogues, et un final autrement époustouflant. Attention, vos réponses influent grandement sur vos relations avec Irenicus, et le contrat que vous remplissez avec lui en l'intégrant à votre équipe aura aussi des répercussions négatives."
+            "status": "needs_review",
+            "source": "Enfin, Irenicus devient un personnage recrutable dès le début de ToB ! Ce mod rajoute des quêtes, des dialogues, et un final autrement époustouflant. Attention, vos réponses influent grandement sur vos relations avec Irenicus, et le contrat que vous remplissez avec lui en l'intégrant à votre équipe aura aussi des répercussions négatives.|FOR 13, DEX 20, CON 14, INT 19, SAG 18, CHA 17."
         },
         "notes": [],
         "notes_meta": {
@@ -18653,8 +18653,8 @@
         ],
         "description": "这个模组在Xzar和蒙塔罗的原始任务结束后添加了一个新任务。完成任务后，你可以加入这个死灵师和战士/盗贼，并更多地了解他们的抱负和计划。该模组还引入了两个完整的同伴、定时对话、关于风景的讨论、玩笑、插话、小型任务/遭遇、物品……以及，希望，一些娱乐。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute une nouvelle quête après la fin de la quête originale de Xzar et Montaron. En terminant la quête, vous pourrez rejoindre le nécromancien et le combattant/voleur et en apprendre plus sur leurs aspirations et leurs plans. Le mod introduit également deux compagnons à part entière, des conversations chronométrées, des discussions sur le paysage, des plaisanteries, des interjections, des mini-quêtes/rencontres, des objets... et, espérons-le, un peu de divertissement."
+            "status": "needs_review",
+            "source": "Ce mod ajoute une nouvelle quête après la fin de la quête originale de Xzar et Montaron. En terminant la quête, vous pourrez rejoindre le nécromancien et le combattant/voleur et en apprendre plus sur leurs aspirations et leurs plans. Le mod introduit également deux compagnons à part entière, des conversations chronométrées, des discussions sur le paysage, des plaisanteries, des interjections, des mini-quêtes/rencontres, des objets... et, espérons-le, un peu de divertissement.|Xzar : FOR 14, DEX 16, CON 10, INT 17, SAG 16, CHA 10.|Montaron : FOR 16, DEX 17, CON 15, INT 12, SAG 13, CHA 9."
         },
         "notes": [],
         "notes_meta": {
@@ -18679,8 +18679,8 @@
         "id": 1310,
         "description": "Xikâsz的混沌林地是一个为《冰风谷：增强版》添加新任务并为玩家提供新可招募同伴的模组：Xikâsz——一个中立邪恶的战士狂乱法师/盗贼精灵。|在这个模组中，你将有机会调查库达哈附近的一个新区域。一个可疑人物被发现的古老小树林附近。是朋友？是敌人？这取决于你去那里并发现它。但要小心，因为在调查过程中，你可能需要面对新的野兽。",
         "description_meta": {
-            "status": "done",
-            "source": "Xikâsz’s Grove of Chaos est un mod qui ajoute une nouvelle quête à IWD:EE et fournit aux joueurs un nouveau compagnon recrutable : Xikâsz - un combattant elfe entropiste/voleur d'alignement neutre.|Dans ce mod, vous aurez l'occasion d'enquêter sur une nouvelle zone près de Kuldahar. Un vieux bosquet près duquel un personnage louche a été repéré. Ami ? Ennemi ? C'est à vous d'y aller et de le découvrir. Mais soyez prudent, car vous devrez peut-être affronter de nouvelles bêtes au cours de votre enquête."
+            "status": "needs_review",
+            "source": "Xikâsz’s Grove of Chaos est un mod qui ajoute une nouvelle quête à IWD:EE et fournit aux joueurs un nouveau compagnon recrutable : Xikâsz - un combattant elfe entropiste/voleur d'alignement neutre.|Dans ce mod, vous aurez l'occasion d'enquêter sur une nouvelle zone près de Kuldahar. Un vieux bosquet près duquel un personnage louche a été repéré. Ami ? Ennemi ? C'est à vous d'y aller et de le découvrir. Mais soyez prudent, car vous devrez peut-être affronter de nouvelles bêtes au cours de votre enquête.|FOR 16, DEX 19, CON 16, INT 18, SAG 12, CHA 7."
         },
         "notes": [],
         "notes_meta": {
@@ -19496,8 +19496,8 @@
         "id": 1366,
         "description": "这个模组允许你在队伍中使用崔斯特，同时让他与其他角色等级相近，以避免让游戏变得过于简单。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod vous permet de jouer avec Drizzt dans votre groupe tout en ayant un niveau similaire aux autres personnages pour éviter de rendre le jeu trop facile."
+            "status": "needs_review",
+            "source": "Ce mod vous permet de jouer avec Drizzt dans votre groupe tout en ayant un niveau similaire aux autres personnages pour éviter de rendre le jeu trop facile.|FOR 13, DEX 20, CON 15, INT 17, SAG 17, CHA 14."
         },
         "notes": [],
         "notes_meta": {
@@ -19567,8 +19567,8 @@
         "id": 1371,
         "description": "这个模组允许在安姆阴影中招募科温，在巴尔王座中招募凯拉。玩家可以继续他们在龙矛围攻中与科温开始的浪漫关系，也可以在她到达阿斯卡特拉后开始一段新的浪漫。该模组为传奇四部曲增加了200多个新对话。此外，还有数十个新物品、任务和场景可供欣赏。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod permet de recruter Corwin dans SoA, et Caelar dans ToB. Les joueurs peuvent soit continuer la romance qu'ils ont commencée avec Corwin dans SoD, soit commencer une nouvelle romance avec elle après son arrivée à Athkatla. Le mod ajoute plus de 200 nouveaux dialogues répartis sur les quatre jeux de la saga. De plus, il y a des dizaines de nouveaux objets, quêtes et scènes à apprécier."
+            "status": "needs_review",
+            "source": "Ce mod permet de recruter Corwin dans SoA, et Caelar dans ToB. Les joueurs peuvent soit continuer la romance qu'ils ont commencée avec Corwin dans SoD, soit commencer une nouvelle romance avec elle après son arrivée à Athkatla. Le mod ajoute plus de 200 nouveaux dialogues répartis sur les quatre jeux de la saga. De plus, il y a des dizaines de nouveaux objets, quêtes et scènes à apprécier.|Corwin : FOR 18/05, DEX 15, CON 14, INT 12, SAG 14, CHA 14.|Caelar : FOR 18/81, DEX 17, CON 16, INT 12, SAG 12, CHA 18."
         },
         "notes": [
             "该模组有一个针对露骨内容的补丁：[[2078]]。"
@@ -20956,8 +20956,8 @@
         "id": 1469,
         "description": "这个为巴尔王座制作的模组允许你在前厅遇见你的妹妹。你会像一个友善的家庭成员一样行事，还是会屈服于巴尔的召唤而将她刺杀？新的伙伴角色有3种类型的结局，并且他的存在为最终结局增加了两个额外选择。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod pour ToB vous permet de rencontrer votre sœur dans l'Antichambre. Allez-vous vous comporter comme un membre de la famille bienveillant ou succomberez-vous à l'appel de Bhaal en l'assassinant ? Le nouveau PNJ a 3 types d'épilogues et sa présence ajoute deux choix supplémentaires pour le final."
+            "status": "needs_review",
+            "source": "Ce mod pour ToB vous permet de rencontrer votre sœur dans l'Antichambre. Allez-vous vous comporter comme un membre de la famille bienveillant ou succomberez-vous à l'appel de Bhaal en l'assassinant ? Le nouveau PNJ a 3 types d'épilogues et sa présence ajoute deux choix supplémentaires pour le final.|FOR 22, DEX 23, CON 21, INT 10, SAG 9, CHA 9."
         },
         "notes": [],
         "notes_meta": {
@@ -21303,8 +21303,8 @@
         "id": 1492,
         "description": "此模组将《龙矛围攻》中的哥布林同伴米金·殖虫者添加到博德之门Ⅱ增强版中，作为一个可招募的NPC。主角可以选择在SOA中认识她或与她重逢。她可以在神殿区招募。她拥有多个闲聊、大量互动以及一个小型任务。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute M'Khiin Grubdoubler, le compagnon gobelin de Siege of Dragonspear, à BG2EE en tant que PNJ recrutable. Charname peut choisir de la connaître ou de la rencontrer à nouveau dans SOA. Elle peut être recrutée dans le district du Temple. Elle possède plusieurs banters, bon nombre d'interactions ainsi qu'une petite quête."
+            "status": "needs_review",
+            "source": "Ce mod ajoute M'Khiin Grubdoubler, le compagnon gobelin de Siege of Dragonspear, à BG2EE en tant que PNJ recrutable. Charname peut choisir de la connaître ou de la rencontrer à nouveau dans SOA. Elle peut être recrutée dans le district du Temple. Elle possède plusieurs banters, bon nombre d'interactions ainsi qu'une petite quête.|FOR 10, DEX 16, CON 15, INT 14, SAG 17, CHA 12."
         },
         "notes": [],
         "notes_meta": {
@@ -21962,8 +21962,8 @@
         "id": 1538,
         "description": "这是 [[1117]] 中 Sime 的独立版本。",
         "description_meta": {
-            "status": "done",
-            "source": "Voici la version stand-alone de Sime issue de [[1117]]."
+            "status": "needs_review",
+            "source": "Voici la version stand-alone de Sime issue de [[1117]].|FOR 15, DEX 16, CON 18, INT 12, SAG 17, CHA 15."
         },
         "notes": [],
         "notes_meta": {
@@ -22172,8 +22172,8 @@
         ],
         "description": "此模组引入了角色西贝尔·阿尔卡尼斯，一位年轻的冒险家，她请求主角的帮助，以揭开导致其祖先死亡的阴谋背后的真相。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod introduit le personnage Sibel Arcanis, une jeune aventurière qui demande de l'aide du protagoniste pour découvrir la vérité derrière la conspiration qui a causé la mort de ses ancêtres."
+            "status": "needs_review",
+            "source": "Ce mod introduit le personnage Sibel Arcanis, une jeune aventurière qui demande de l'aide du protagoniste pour découvrir la vérité derrière la conspiration qui a causé la mort de ses ancêtres.|FOR 17, DEX 18, CON 16, INT 12, SAG 18, CHA 10."
         },
         "notes": [
             "此模组是[[530]]的独立版本。"
@@ -25522,8 +25522,8 @@
         ],
         "description": "阿卡尼斯，烛堡团队成员和矮人观察者，在官方DLC《龙矛围攻》中作为潜在同伴回归。他已晋升为圣武士。该角色拥有友好对话、插话、笑话，以及可能与非邪恶角色发展浪漫关系的剧情（性别和属性值不重要，但在友好过程中您必须至少两次向他示意或给出线索，以让他注意到您的兴趣）。您一离开博德之门，他就可以加入队伍。",
         "description_meta": {
-            "status": "done",
-            "source": "Arkanis, membre de l'équipe Château-Suif et Watcher nain, revient en tant que compagnon potentiel dans le DLC officiel Siege of Dragonspear. Il a été promu et est désormais paladin. Le personnage est doté de dialogues amicaux, d'interjections, de plaisanteries et d'une possible romance avec des personnages non maléfiques (le sexe et les statistiques n'ont pas d'importance, mais vous devez lui faire signe ou lui donner des indices au moins deux fois pendant le parcours amical pour qu'il remarque votre intérêt). Il peut rejoindre le groupe dès que vous quittez Baldur's Gate."
+            "status": "needs_review",
+            "source": "Arkanis, membre de l'équipe Château-Suif et Watcher nain, revient en tant que compagnon potentiel dans le DLC officiel Siege of Dragonspear. Il a été promu et est désormais paladin. Le personnage est doté de dialogues amicaux, d'interjections, de plaisanteries et d'une possible romance avec des personnages non maléfiques (le sexe et les statistiques n'ont pas d'importance, mais vous devez lui faire signe ou lui donner des indices au moins deux fois pendant le parcours amical pour qu'il remarque votre intérêt). Il peut rejoindre le groupe dès que vous quittez Baldur's Gate.|FOR 18/53, DEX 12, CON 19, INT 15, SAG 14, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -25561,8 +25561,8 @@
         "id": 1800,
         "description": "这个模组为官方DLC《龙矛围攻》添加了一个新同伴。她自称“迷失的母亲”，但随着时间的推移，您会发现她的真名。该角色可以在DLC后期，在幽冥界传送门附近加入您的队伍；因此，有些人可能会认为她是一个临时角色。她在寻找另一个角色，而您，作为巴尔之子，注定要面对这个角色。这个角色是一个亡灵战士，只会说几句话/评论。为了更好地欣赏这个角色，建议您先玩《冰风谷》和《冰风谷2》，因为她引用了这两款游戏的事件，而这个模组是为了进一步拉近两个系列而创建的。注意，它包含两个战役的剧透。",
         "description_meta": {
-            "status": "done",
-            "source": "Le mod ajoute un nouveau compagnon pour le DLC officiel Siege of Dragonspear. Elle se fait appeler Mother Lost, mais vous découvrirez son vrai nom au fil du temps. Le personnage peut vous rejoindre tardivement dans le DLC, près du portail Fugue Plane ; certains peuvent donc la considérer comme un personnage temporaire. Elle recherche un autre personnage que vous, l'Enfant de Bhaal, êtes destiné à affronter. Ce personnage est une combattante morte-vivante et ne prononce que quelques phrases/commentaires. Pour mieux apprécier ce personnage, il est suggéré de jouer d'abord à IWD et IWD2, car il fait référence à des événements des deux jeux, et ce mod a été créé pour rapprocher encore davantage les deux séries. Attention, il contient des spoilers pour les deux campagnes."
+            "status": "needs_review",
+            "source": "Le mod ajoute un nouveau compagnon pour le DLC officiel Siege of Dragonspear. Elle se fait appeler Mother Lost, mais vous découvrirez son vrai nom au fil du temps. Le personnage peut vous rejoindre tardivement dans le DLC, près du portail Fugue Plane ; certains peuvent donc la considérer comme un personnage temporaire. Elle recherche un autre personnage que vous, l'Enfant de Bhaal, êtes destiné à affronter. Ce personnage est une combattante morte-vivante et ne prononce que quelques phrases/commentaires. Pour mieux apprécier ce personnage, il est suggéré de jouer d'abord à IWD et IWD2, car il fait référence à des événements des deux jeux, et ce mod a été créé pour rapprocher encore davantage les deux séries. Attention, il contient des spoilers pour les deux campagnes.|FOR 14, DEX 18, CON 15, INT 14, SAG 12, CHA 15."
         },
         "notes": [],
         "notes_meta": {
@@ -26898,8 +26898,8 @@
         "id": 1900,
         "description": "这个模组添加了一个新的同伴：维托，一个中立肯努预言师（法师）。一旦你到达库达哈山口，他就可以加入队伍。维托预见到了他自己的死亡，而你，作为雪崩的幸存者，可能是改变一个他拒绝接受的未来的关键。这个模组包含一个小任务、一段友谊进程、一系列浪漫对话、新法术和一些新物品。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute un nouveau compagnon : Vito, un devin kenku neutre (mage). Il peut rejoindre le groupe une fois que vous avez atteint le col de Kuldahar. Vito a prévu sa propre mort, et vous, le survivant de l'avalanche, pourriez être la clé pour changer un avenir qu'il refuse d'accepter. Le mod comprend une petite quête, un parcours d'amitié, une série de dialogues romantiques, de nouveaux sorts et quelques nouveaux objets."
+            "status": "needs_review",
+            "source": "Ce mod ajoute un nouveau compagnon : Vito, un devin kenku neutre (mage). Il peut rejoindre le groupe une fois que vous avez atteint le col de Kuldahar. Vito a prévu sa propre mort, et vous, le survivant de l'avalanche, pourriez être la clé pour changer un avenir qu'il refuse d'accepter. Le mod comprend une petite quête, un parcours d'amitié, une série de dialogues romantiques, de nouveaux sorts et quelques nouveaux objets.|FOR 12, DEX 18, CON 15, INT 18, SAG 16, CHA 9."
         },
         "notes": [],
         "notes_meta": {
@@ -27830,8 +27830,8 @@
         "id": 1970,
         "description": "维克里尔是一个神秘的角色，职业为战/法/盗三修。他拥有一件专属武器（需要找到），并附带一个迷你任务和一些闲聊互动。",
         "description_meta": {
-            "status": "done",
-            "source": "Vicril est un personnage mystérieux, tri-classé G/M/V, il possède une arme spécifique (qu'il faut trouver), une mini-quête et quelques banters."
+            "status": "needs_review",
+            "source": "Vicril est un personnage mystérieux, tri-classé G/M/V, il possède une arme spécifique (qu'il faut trouver), une mini-quête et quelques banters.|FOR 11, DEX 16, CON 14, INT 17, SAG 17, CHA 10."
         },
         "notes": [],
         "notes_meta": {
@@ -28369,8 +28369,8 @@
         "id": 2009,
         "description": "这个模组在 [[1526]] 之后添加了艾瑞贝斯作为可招募角色。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute Aribeth comme personnage recrutable après [[1526]]."
+            "status": "needs_review",
+            "source": "Ce mod ajoute Aribeth comme personnage recrutable après [[1526]].|FOR 15, DEX 18, CON 16, INT 12, SAG 13, CHA 17."
         },
         "notes": [],
         "notes_meta": {
@@ -29471,8 +29471,8 @@
         "id": 2091,
         "description": "“莎儿-蒂尔（Shar-Teel） for BG2EE”模组正如其名，让玩家在《博德之门II：增强版》的战役中能够遇到并招募莎儿-蒂尔。|该模组提供与主角的“附带好处的同伴”关系，但前提是主角必须为男性，且阵营不能是善良（即邪恶或守序/混乱/真正中立均可），同时力量和魅力属性均需达到10或以上。|你可以在芭荻（Bodhi）的老巢遇到她，无论你选择站在芭荻一边还是影贼（Voleurs de l'Ombre）一边。不过，你所选择的路线会影响她的对话和装备，因为她可以以“死亡掠夺者”（Deathly Reaver，对 humans 有额外加成，免疫等级吸取，可施展吸血鬼之触）或“热血掠夺者”（Hot-Blooded Reaver，对不死生物有额外加成，对死亡豁免有显著加值，可对自身施展加速术）的身份登场。无论你选择哪个版本，她还拥有另一项次要能力，能体现她对男性的厌恶。",
         "description_meta": {
-            "status": "done",
-            "source": "Le mod « Shar-Teel for BG2EE » fait exactement ce que son titre laisse entendre : il permet aux joueurs de rencontrer et de recruter Shar-Teel au cours de la campagne de Baldur's Gate II : Enhanced Edition.|Le mod propose une relation de « companions with benefits » avec le personnage principal, à condition que le PJ soit un homme dont l'alignement n'est pas Bon (Mauvais ou Loyal/Chaotique/Neutre strict), et dont la Force et le Charisme sont supérieurs ou égaux à 10.|Vous pouvez la rencontrer dans l'Antre de Bodhi, quel que soit votre camp : Bodhi ou les Voleurs de l'Ombre. Sachez toutefois que le chemin que vous avez emprunté influence ses répliques et son équipement, car elle peut débuter soit en tant que « Deathly Reaver » (bénéficie d'un bonus contre les humains, d'une immunité au drain de niveau et peut lancer Toucher vampirique), soit en tant que « Hot-Blooded Reaver » (bénéficie d'un bonus contre les morts-vivants, d'un bonus important aux jets de sauvegarde contre la mort et peut se lancer Hâte). Quel que soit votre choix, elle bénéficie également d'une autre capacité mineure qui reflète son aversion pour les hommes."
+            "status": "needs_review",
+            "source": "Le mod « Shar-Teel for BG2EE » fait exactement ce que son titre laisse entendre : il permet aux joueurs de rencontrer et de recruter Shar-Teel au cours de la campagne de Baldur's Gate II : Enhanced Edition.|Le mod propose une relation de « companions with benefits » avec le personnage principal, à condition que le PJ soit un homme dont l'alignement n'est pas Bon (Mauvais ou Loyal/Chaotique/Neutre strict), et dont la Force et le Charisme sont supérieurs ou égaux à 10.|Vous pouvez la rencontrer dans l'Antre de Bodhi, quel que soit votre camp : Bodhi ou les Voleurs de l'Ombre. Sachez toutefois que le chemin que vous avez emprunté influence ses répliques et son équipement, car elle peut débuter soit en tant que « Deathly Reaver » (bénéficie d'un bonus contre les humains, d'une immunité au drain de niveau et peut lancer Toucher vampirique), soit en tant que « Hot-Blooded Reaver » (bénéficie d'un bonus contre les morts-vivants, d'un bonus important aux jets de sauvegarde contre la mort et peut se lancer Hâte). Quel que soit votre choix, elle bénéficie également d'une autre capacité mineure qui reflète son aversion pour les hommes.|FOR 18/58, DEX 17, CON 9, INT 14, SAG 7, CHA 11."
         },
         "notes": [],
         "notes_meta": {
@@ -31073,6 +31073,149 @@
         "description_meta": {
             "status": "todo",
             "source": "Pack de sept kits volontairement très puissants, couvrant la plupart des grandes familles de classes. Leur principe est de combiner plusieurs rôles ou avantages normalement séparés entre différents kits, avec des progressions et HLA propres, afin de permettre au groupe de rivaliser avec les mods de difficulté les plus agressifs. Il ne cherche donc pas à rester au niveau d’équilibrage des classes originales."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2213,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de voleur pratiquant les arts taoïstes, capable d'utiliser de nombreux « taos », des pouvoirs surnaturels plus lents à lancer que les sorts classiques, mais plus puissants. Il dispose de techniques de combat, de soins, de transformations et peut même fabriquer des élixirs. Il gagne des bonus à la CA, au TAC0 et aux jets de sauvegarde tous les quatre niveaux, mais l'utilisation de ses pouvoirs entraîne des pénalités temporaires à l'incantation, à la fatigue et aux jets de sauvegarde."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2214,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de druide capable de lancer spontanément des sorts de magie naturelle, avec un répertoire enrichi de sorts offensifs, de contrôle et de soutien. Il peut se transformer en loup-garou, en dryade ou en différents élémentaires, puis acquérir leurs pouvoirs sans changer de forme. Ses capacités progressent tous les cinq niveaux et ses pouvoirs de haut niveau lui accordent de nombreuses immunités, mais il ne peut ni se jumeler ni se multiclasser."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2215,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de mage combinant magie classique et magie spontanée, avec de nombreux sorts supplémentaires et de puissantes métamorphoses. Il gagne tous les dix niveaux des bonus à la CA, au TAC0, à l'Intelligence, au Charisme et à la vitesse d'incantation. Sa réserve d'énergie arcanique permet de récupérer des sorts mémorisés dès le niveau 20, tandis que ses pouvoirs mythiques offrent des transformations améliorées et des sorts gratuits, au prix d'une réduction de 25 % de l'expérience gagnée."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2216,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit utilisant un chant qui améliore la chance, la vision et accorde diverses immunités au fil des niveaux. Il dispose de techniques de combat surnaturelles mêlant téléportation, attaques puissantes et protections temporaires. À haut niveau, il peut entrer en résonance avec différents plans pour obtenir des résistances, des emplacements de sorts supplémentaires et de nouvelles capacités magiques. Aucune restriction particulière."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2217,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de voleur inspiré de Dota, spécialisé dans la mobilité, l'esquive et les dégâts explosifs. Il peut se téléporter sur ses ennemis, lancer des dagues magiques, devenir invisible et infliger des dégâts considérables grâce à ses coups critiques. Il gagne des bonus à la CA, au TAC0 et aux dégâts tous les cinq niveaux, mais perd les multiplicateurs d'attaque sournoise et l'accès aux pièges avant les capacités de haut niveau."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2218,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de soutien conçu pour le multiclassage, capable de lancer spontanément les sorts de prêtre et certains sorts de druide. Spécialisé dans les soins de groupe, il peut canaliser l'énergie positive pour soigner plusieurs alliés et lancer de nombreuses protections en une seule incantation. Il gagne des bonus aux résistances, aux jets de sauvegarde et à la vitesse d'incantation, ainsi que des immunités aux maladies et aux poisons."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2219,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de guerrier polyvalent qui peut choisir parmi diverses techniques de combat : rage, attaques tournoyantes, encouragement des alliés ou défense renforcée. À haut niveau, il débloque des capacités plus puissantes permettant notamment de bondir sur ses ennemis, de provoquer plusieurs adversaires, de déclencher une tempête de lames ou de survivre à des coups mortels. Plus résistant qu'un guerrier classique, il sacrifie en contrepartie une partie de sa maîtrise des armes."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2220,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit d'ensorceleur doté de sorts exclusifs et de trois lignées magiques — arcanique, féerique et gangrenée — entre lesquelles il peut alterner pour changer ses pouvoirs. Il combine magie offensive, drain de vie, soins et transformations démoniaques, tout en bénéficiant d'une magie entropique plus favorable et sans risque de hiatus pour la plupart de ses sorts. Ses capacités de haut niveau renforcent ses pouvoirs élémentaires et ses défenses, mais remplacent les capacités de haut niveau habituelles."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2221,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de paladin spécialisé dans la lutte contre les démons, les morts-vivants et les créatures qui corrompent les âmes. Il combine sorts divins spontanés, techniques de combat acrobatiques et pouvoirs défensifs, avec des capacités qui se rechargent automatiquement. À haut niveau, il peut choisir entre deux voies : un protecteur équipé d'un bouclier spirituel ou un croisé céleste privilégiant les attaques dévastatrices à deux mains."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2222,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de combattant divin conçu pour protéger et soutenir son groupe, combinant sorts de prêtre spontanés, soins de zone et techniques martiales. Il peut alterner entre plusieurs styles de combat offensifs, défensifs ou favorisant l'incantation, tout en utilisant des roulades, des téléportations et des parades qui restaurent ses sorts. Particulièrement adapté aux groupes affrontant des ennemis très puissants, il peut également créer des doubles magiques pour l'aider au combat."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2223,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de rôdeur mêlant exploration, compétences de voleur et maîtrise des compagnons animaux. Il peut invoquer et améliorer diverses créatures, comme des araignées éclipsantes, des basilics ou des loups des ombres, tout en utilisant des techniques de pistage, de fuite et de capture. Ses pouvoirs élémentaires lui permettent d'adapter son style de combat, tandis que ses capacités de haut niveau renforcent ses compagnons et ses talents d'explorateur."
         },
         "notes": [],
         "notes_meta": {
