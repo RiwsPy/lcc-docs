@@ -3342,7 +3342,7 @@
     },
     {
         "id": 233,
-        "description": "|如同博德之门Ⅱ的eSeries，tSeries是为异域风景：苦难设计的AI脚本集合，其灵感来自Gebhard Blucher的《异域风景：苦难玩家AI脚本》文档。|然而，与最新的IE游戏相比，异域风景：Torment的脚本命令非常有限，但它们仍然可以自动化某些任务，例如施法、使用物品、在阴影中攻击和潜行。这些脚本会锁定最近的敌人，并根据该敌人的经验值，用他们拥有并认为合适的一切手段进行攻击。请参阅 [readme](https://gibberlings3.github.io/Documentation/readmes/readme-tseries.html) 了解更多详情。",
+        "description": "|如同博德之门Ⅱ的eSeries，tSeries是为异域风景：苦难设计的AI脚本集合，其灵感来自Gebhard Blucher的《异域风景：苦难》玩家AI脚本文档。|然而，与最新的IE游戏相比，异域风景：Torment的脚本命令非常有限，但它们仍然可以自动化某些任务，例如施法、使用物品、在阴影中攻击和潜行。这些脚本会锁定最近的敌人，并根据该敌人的经验值，用他们拥有并认为合适的一切手段进行攻击。请参阅 [readme](https://gibberlings3.github.io/Documentation/readmes/readme-tseries.html) 了解更多详情。",
         "description_meta": {
             "status": "done",
             "source": "Comme les eSeries pour BG2, tSeries est une collection de scripts d'IA pour Planescape: Torment, inspirés par la documentation \"<i>Planescape: Torment Player AI Scripts</i>\" de Gebhard Blucher's.|Cependant, les commandes de script de Planescape : Torment sont très limitées en comparaison avec  celles des jeux IE les plus récents, mais elles permettent toujours l'automatisation de certaines tâches, comme le lancement de sorts, l'utilisation d'objets, l'attaque et la dissimulation dans l'ombre. Les scripts ciblent l'ennemi le plus proche et l'attaquent par tous les moyens qu'ils ont à leur disposition et qu'ils jugent appropriés, en fonction des points d'expérience de l'ennemi le plus proche.|Veuillez consulter le [readme](https://gibberlings3.github.io/Documentation/readmes/readme-tseries.html) pour plus détails."
@@ -30429,7 +30429,7 @@
     },
     {
         "id": 2163,
-        "description": "《异度风景：苦难》的俄语翻译版，包含游戏本体、其界面、西里尔字体、Qwinn的模组以及各种附加内容。",
+        "description": "《异域风景：苦难》的俄语翻译版，包含游戏本体、其界面、西里尔字体、Qwinn的模组以及各种附加内容。",
         "description_meta": {
             "status": "done",
             "source": "Traduction russe de Planescape: Torment comprenant le jeu, son interface, des polices cyrilliques, les mods de Qwinn et divers ajouts."
@@ -30922,9 +30922,9 @@
     },
     {
         "id": 2201,
-        "description": "",
+        "description": "乌尔科多尔（Urkodoël）是一个无政府巫妖，你可以在阿斯卡特拉墓园中找到它——位于莱斯特叔叔（oncle Lester）旁边的死胡同里（《博德之门II：增强版》），或者在库达哈山道（Passe de Kuldahar）左下方的小洞穴中（《冰风谷：增强版》）。|它能够教会任何牧师、德鲁伊或萨满（包括兼职角色）奥术法术。这不需要花费金币，取而代之的是永久损失最大生命值，每个法术等级1点生命值。|由于这对一个法术来说代价高昂，乌尔科多尔还会一并给予与该法术对应的记忆能力。|乌尔科多尔还提供8级、9级和史诗级（HLA）法术，这些法术将作为7级法术学习。|乌尔科多尔也出售装备，其中包括3个可以改变其运作方式的护身符。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Urkodoël est une anarchiliche que vous pouvez trouver dans le cimetière d'Athkatla, dans le cul-de-sac à côté de l'oncle Lester (BG2EE) ou dans la petite grotte en bas à gauche de la Passe de Kuldahar (IWDEE).|Il peut apprendre à n'importe quel clerc, druide ou chaman (multiclasses incluses) des sorts arcaniques. Cela ne coûte pas d'or. À la place, ça coûte des points de vie maximaux définitivement perdus, 1 point de vie par niveau de sort.|Comme cela fait cher pour un sort, Urkodoël donne aussi la capacité de mémorisation qui accompagne le sort.|Urkodoël propose aussi les sorts de niveaux 8, 9 et épiques (HLA), qui sont appris comme des sorts de niveau 7.|Urkodoël vend aussi du matériel, dont 3 amulettes qui peuvent changer son fonctionnement."
         },
         "notes": [],
@@ -30935,9 +30935,9 @@
     },
     {
         "id": 2202,
-        "description": "",
+        "description": "一个主要被设计为转职法师过渡阶段的盗贼宗派。它把大部分优势集中在最初九级，强烈偏向反魔法，并提供多种模仿或辅助奥术的手段；此后它几乎像普通盗贼一样发展，且不会获得高等职业能力（HLA）。作者将其定位为一个刻意追求高度多面性、而非严格平衡的选择。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Kit de voleur pensé avant tout comme une étape vers un jumelage en mage. Il concentre l’essentiel de ses avantages dans les neuf premiers niveaux, avec une forte orientation anti-magie et plusieurs moyens d’imiter ou de soutenir la magie profane, puis évolue presque comme un voleur normal et ne reçoit pas de HLA. L’auteur le présente comme un choix volontairement très polyvalent plutôt que strictement équilibré."
         },
         "notes": [],
@@ -30948,9 +30948,9 @@
     },
     {
         "id": 2203,
-        "description": "",
+        "description": "一个精心设计的吸血鬼盗贼宗派，角色在人形、吸血鬼形态和蝙蝠形态之间切换。其玩法基于血液——血液在很大程度上取代了普通治疗，并可通过多种方式用于进攻或防御。这种力量伴随着实实在在的限制：阳光脆弱、盗贼限制、升级更慢，且无法正常享受治疗和经典高等职业能力（HLA）。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Kit de voleur vampirique très élaboré dans lequel le personnage alterne entre forme humaine, forme de vampire et forme de chauve-souris. Son gameplay repose sur le sang, qui remplace en grande partie les soins ordinaires et peut être utilisé de plusieurs manières offensives ou défensives. Cette puissance s’accompagne de vraies contraintes : vulnérabilité au soleil, limitations de voleur, progression plus lente et impossibilité de profiter normalement des soins et HLA classiques."
         },
         "notes": [],
@@ -30961,9 +30961,9 @@
     },
     {
         "id": 2204,
-        "description": "",
+        "description": "一个完全围绕变形构建的德鲁伊宗派。它以分多个阶段推进的成长体系取代通常的自然形态，让角色能够获得大量类人、动物、怪物乃至传奇形态，每种形态都有各自的作用和特性。因此，玩家选择的是适合当前情况的形态，而不是单纯解锁一个越来越强的变身，代价是失去若干德鲁伊传统能力。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Kit de druide entièrement construit autour de la métamorphose. Il remplace les formes naturelles habituelles par une progression en plusieurs paliers donnant accès à un très grand nombre de corps humanoïdes, animaux, monstrueux puis légendaires, chacun ayant un rôle et des propriétés propres. Le joueur choisit donc la forme adaptée à la situation plutôt que de simplement débloquer une transformation toujours meilleure, au prix de plusieurs capacités traditionnelles du druide."
         },
         "notes": [],
@@ -30974,9 +30974,9 @@
     },
     {
         "id": 2205,
-        "description": "",
+        "description": "将D&D3版的Horizon Walker/Earth Traveler改编为盗贼宗派。随着角色成长，角色会选择其精通的自然地形或位面地形，并获得永久优势，同时对相关危险和生物拥有更高的应对效率。他可以深度专精于少数环境，也可以成为多面手旅行者，因此这是一个高度可定制的宗派。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Adaptation en kit de voleur du Horizon Walker / Earth Traveler de D&D 3e. À mesure qu’il progresse, le personnage choisit les terrains naturels ou planaires qu’il maîtrise et reçoit des avantages permanents ainsi qu’une meilleure efficacité contre les dangers et créatures associés. Il peut se spécialiser fortement dans quelques environnements ou devenir un voyageur polyvalent, ce qui en fait un kit très modulable."
         },
         "notes": [],
@@ -30987,9 +30987,9 @@
     },
     {
         "id": 2206,
-        "description": "",
+        "description": "添加一个受《Fate》中Archer/EMIYA启发的轻战斗术士，但并不追求完全复刻。“灵魂剑士”（Soul Blader）将自己的魔法具现为武器形态，并将真正的武技成长与法术体系相结合。其标志性的极高等级能力借鉴了“无限剑制”（Unlimited Blade Works）的理念，表现为一段多阶段的长吟唱，若角色受伤则可能被打断。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Ajoute un ensorceleur de combat léger inspiré d’Archer/EMIYA de Fate, sans chercher à le reproduire à l’identique. Le Soul Blader matérialise sa magie sous forme d’armes et associe une vraie progression martiale à son répertoire de sorts. Sa capacité emblématique de très haut niveau reprend l’idée d’Unlimited Blade Works sous la forme d’une longue incantation en plusieurs étapes, qui peut être interrompue si le personnage est blessé."
         },
         "notes": [],
@@ -31000,9 +31000,9 @@
     },
     {
         "id": 2207,
-        "description": "",
+        "description": "一个受《Fate》中“英雄王”吉尔伽美什启发的战士宗派，首先被设计成一个“为了好玩”的模组，并刻意做得极其强大。其玩法围绕一个超自然宝库展开，能够投射或召唤一整套武器库，并配有控制技法和标志性终极攻击。作者本人也承认，该宗派的强度接近一种“有意为之的 bug”。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Kit de guerrier inspiré de Gilgamesh, le Roi des Héros de Fate, conçu avant tout comme un mod « pour le fun » et volontairement extrêmement puissant. Son gameplay tourne autour d’un trésor surnaturel permettant de projeter ou d’invoquer tout un arsenal, avec des techniques de contrôle et une attaque ultime emblématique. L’auteur reconnaît lui-même que la puissance du kit est proche du « bug » assumé."
         },
         "notes": [],
@@ -31013,14 +31013,16 @@
     },
     {
         "id": 2208,
-        "description": "",
+        "description": "同一模组中提供的第二个宗派，完全专注于火焰掌控。它结合了召唤火焰生物、区域控制、元素防护和大范围攻击，拥有很高的火焰抗性，但对寒冷有明显弱点。由于原版同样刻意做得过于强大，作者后来提供了一个削弱其强度的变体。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Second kit proposé dans le même mod, centré entièrement sur la maîtrise du feu. Il combine invocations de créatures enflammées, contrôle de zones, protections élémentaires et attaques de grande ampleur, avec une forte résistance au feu mais une faiblesse marquée au froid. La version d’origine étant elle aussi volontairement excessive, l’auteur a ensuite fourni une variante réduisant sa puissance."
         },
-        "notes": [],
+        "notes": [
+			"源文件中标注了一个威力较弱的变体，日期为2009年4月28日。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Une variante moins puissante est indiquée dans le fichier source, datée du 28/04/2009."
             ]
@@ -31028,9 +31030,9 @@
     },
     {
         "id": 2209,
-        "description": "",
+        "description": "将吟游诗人转变为一名远程战斗法师，专精于自己制造并当作投掷武器使用的魔法投射物。因此，该宗派侧重远程骚扰，以及更接近射手而非传统吟游诗人的进攻性成长路线，同时保留其轻型施法者的身份。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Transforme le barde en mage de combat à distance spécialisé dans des projectiles magiques qu’il fabrique lui-même et utilise comme des armes de lancer. Le kit privilégie donc le harcèlement à distance et une progression offensive plus proche d’un tireur que d’un barde traditionnel, tout en conservant son identité de lanceur de sorts léger."
         },
         "notes": [],
@@ -31041,9 +31043,9 @@
     },
     {
         "id": 2210,
-        "description": "",
+        "description": "将牧师转变为受D&D 3.5启发的邪术师。它放弃经典神术，转而使用可随意施展的邪术；这些邪术通过契约获得，而契约可能消耗生命值或属性。其主要魔法攻击可以重塑射程、伤害类型或效果，随后角色会专精于数条秘法道途之一。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Transforme le prêtre en Warlock inspiré de D&D 3.5. Il abandonne la magie divine classique au profit d’invocations utilisables à volonté, acquises par des pactes qui peuvent coûter des points de vie ou des caractéristiques. Son attaque magique principale peut être remodelée en portée, type de dégâts ou effets, puis le personnage se spécialise dans l’une de plusieurs voies occultes."
         },
         "notes": [],
@@ -31054,14 +31056,16 @@
     },
     {
         "id": 2211,
-        "description": "",
+        "description": "这个宗派专为明斯克（Minsc）设计，将他不可控的狂暴替换为一种在战斗中更便于利用的狂暴形态。它保留了该角色凶悍游侠的身份，同时移除了游侠某些较为经典的能力。该模组不会直接替换明斯克的文件，以避免冲突：这个宗派必须单独分配给他，例如使用 Shadow Keeper。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Kit conçu spécialement pour Minsc, qui remplace sa rage incontrôlable par une forme de berserk plus exploitable en combat. Il conserve l’identité de rôdeur brutal du personnage tout en supprimant certains pouvoirs plus classiques du rôdeur. Le mod ne remplace pas directement le fichier de Minsc afin d’éviter les conflits : le kit doit lui être attribué séparément, par exemple avec Shadow Keeper."
         },
-        "notes": [],
+        "notes": [
+			"该宗派必须单独赋予明斯克，例如使用 Shadow Keeper。"
+		],
         "notes_meta": {
-            "status": "todo",
+            "status": "done",
             "source": [
                 "Le kit doit être attribué à Minsc séparément, par exemple avec Shadow Keeper."
             ]
@@ -31069,9 +31073,9 @@
     },
     {
         "id": 2212,
-        "description": "",
+        "description": "一个包含七个宗派的整合包，这些宗派刻意做得非常强大，涵盖大多数主要职业大类。其设计原则是结合通常分散在不同宗派中的多种角色定位或优势，并配有各自的成长体系和高等职业能力（HLA），以便让队伍能够与最激进的高难度模组相抗衡。因此，它并不追求保持在原版职业的平衡水平上。",
         "description_meta": {
-            "status": "todo",
+            "status": "done",
             "source": "Pack de sept kits volontairement très puissants, couvrant la plupart des grandes familles de classes. Leur principe est de combiner plusieurs rôles ou avantages normalement séparés entre différents kits, avec des progressions et HLA propres, afin de permettre au groupe de rivaliser avec les mods de difficulté les plus agressifs. Il ne cherche donc pas à rester au niveau d’équilibrage des classes originales."
         },
         "notes": [],
