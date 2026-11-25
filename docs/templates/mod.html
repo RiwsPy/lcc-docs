@@ -1,6 +1,6 @@
 <div class="row mod" id="m{{ mod.id }}">
     <details class="column title update-hash-parent">
-        <summary class="name">{{ mod.name }}</summary>
+        <summary class="name">{% if mod.original_name and mod.original_name != mod.name %}{{mod.original_name}} ({{ mod.name }}){% else %}{{ mod.name }}{% endif %}</summary>
     </details>
     <div class="column icons">
         {% for icon in mod.icons %}<span aria-label='{{ _(icon.label) }}'>{{ icon.icon }}</span>{% endfor %}

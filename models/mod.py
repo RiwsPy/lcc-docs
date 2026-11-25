@@ -80,6 +80,7 @@ class Mod:
     last_update: DateFormat
     tp2: str
     compatibilities: dict[Literal["requires", "conflicts"], list[int | str]]
+    original_name: str | None = None
     embedded_in: PositiveInt | None = None
     description_meta: dict | None = None
     notes_meta: dict | None = None
