@@ -75919,7 +75919,7 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "cn"
         ],
@@ -76888,7 +76888,7 @@
     },
     {
         "id": 2213,
-        "name": "修道者 (Adepte de la Voie)",
+        "name": "修道者 (Adept of the Way)",
         "description": "Kit de voleur pratiquant les arts taoïstes, capable d'utiliser de nombreux « taos », des pouvoirs surnaturels plus lents à lancer que les sorts classiques, mais plus puissants. Il dispose de techniques de combat, de soins, de transformations et peut même fabriquer des élixirs. Il gagne des bonus à la CA, au TAC0 et aux jets de sauvegarde tous les quatre niveaux, mais l'utilisation de ses pouvoirs entraîne des pénalités temporaires à l'incantation, à la fatigue et aux jets de sauvegarde.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -76920,7 +76920,7 @@
     },
     {
         "id": 2214,
-        "name": "自然巫师 (Sorcier de la nature)",
+        "name": "自然巫师 (Nature Sorcerer)",
         "description": "Kit de druide capable de lancer spontanément des sorts de magie naturelle, avec un répertoire enrichi de sorts offensifs, de contrôle et de soutien. Il peut se transformer en loup-garou, en dryade ou en différents élémentaires, puis acquérir leurs pouvoirs sans changer de forme. Ses capacités progressent tous les cinq niveaux et ses pouvoirs de haut niveau lui accordent de nombreuses immunités, mais il ne peut ni se jumeler ni se multiclasser.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -76952,7 +76952,7 @@
     },
     {
         "id": 2215,
-        "name": "奥能大法师 (Archimage arcanique)",
+        "name": "奥能大法师 (Arcane Archmage)",
         "description": "Kit de mage combinant magie classique et magie spontanée, avec de nombreux sorts supplémentaires et de puissantes métamorphoses. Il gagne tous les dix niveaux des bonus à la CA, au TAC0, à l'Intelligence, au Charisme et à la vitesse d'incantation. Sa réserve d'énergie arcanique permet de récupérer des sorts mémorisés dès le niveau 20, tandis que ses pouvoirs mythiques offrent des transformations améliorées et des sorts gratuits, au prix d'une réduction de 25 % de l'expérience gagnée.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -76984,7 +76984,7 @@
     },
     {
         "id": 2216,
-        "name": "超弦咏者 (Chantre des supercordes)",
+        "name": "超弦咏者 (Superstring Chanter)",
         "description": "Kit utilisant un chant qui améliore la chance, la vision et accorde diverses immunités au fil des niveaux. Il dispose de techniques de combat surnaturelles mêlant téléportation, attaques puissantes et protections temporaires. À haut niveau, il peut entrer en résonance avec différents plans pour obtenir des résistances, des emplacements de sorts supplémentaires et de nouvelles capacités magiques. Aucune restriction particulière.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77016,7 +77016,7 @@
     },
     {
         "id": 2217,
-        "name": "幻影刺客 (Assassin fantôme)",
+        "name": "幻影刺客 (Phantom Assassin)",
         "description": "Kit de voleur inspiré de Dota, spécialisé dans la mobilité, l'esquive et les dégâts explosifs. Il peut se téléporter sur ses ennemis, lancer des dagues magiques, devenir invisible et infliger des dégâts considérables grâce à ses coups critiques. Il gagne des bonus à la CA, au TAC0 et aux dégâts tous les cinq niveaux, mais perd les multiplicateurs d'attaque sournoise et l'accès aux pièges avant les capacités de haut niveau.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77048,7 +77048,7 @@
     },
     {
         "id": 2218,
-        "name": "灵境天佑者 (Béni du royaume spirituel)",
+        "name": "灵境天佑者 (Spirit Realm Blessed)",
         "description": "Kit de soutien conçu pour le multiclassage, capable de lancer spontanément les sorts de prêtre et certains sorts de druide. Spécialisé dans les soins de groupe, il peut canaliser l'énergie positive pour soigner plusieurs alliés et lancer de nombreuses protections en une seule incantation. Il gagne des bonus aux résistances, aux jets de sauvegarde et à la vitesse d'incantation, ainsi que des immunités aux maladies et aux poisons.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77080,7 +77080,7 @@
     },
     {
         "id": 2219,
-        "name": "灵境勇士 (Guerrier du royaume spirituel)",
+        "name": "灵境勇士 (Spirit Realm Warrior)",
         "description": "Kit de guerrier polyvalent qui peut choisir parmi diverses techniques de combat : rage, attaques tournoyantes, encouragement des alliés ou défense renforcée. À haut niveau, il débloque des capacités plus puissantes permettant notamment de bondir sur ses ennemis, de provoquer plusieurs adversaires, de déclencher une tempête de lames ou de survivre à des coups mortels. Plus résistant qu'un guerrier classique, il sacrifie en contrepartie une partie de sa maîtrise des armes.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77112,7 +77112,7 @@
     },
     {
         "id": 2220,
-        "name": "灵境术士 (Ensorceleur du royaume spirituel)",
+        "name": "灵境术士 (Spirit Realm Sorcerer)",
         "description": "Kit d'ensorceleur doté de sorts exclusifs et de trois lignées magiques — arcanique, féerique et gangrenée — entre lesquelles il peut alterner pour changer ses pouvoirs. Il combine magie offensive, drain de vie, soins et transformations démoniaques, tout en bénéficiant d'une magie entropique plus favorable et sans risque de hiatus pour la plupart de ses sorts. Ses capacités de haut niveau renforcent ses pouvoirs élémentaires et ses défenses, mais remplacent les capacités de haut niveau habituelles.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77144,7 +77144,7 @@
     },
     {
         "id": 2221,
-        "name": "灵光守护者 (Gardien de la lumière spirituelle)",
+        "name": "灵光守护者 (Spiritual Light Guardian)",
         "description": "Kit de paladin spécialisé dans la lutte contre les démons, les morts-vivants et les créatures qui corrompent les âmes. Il combine sorts divins spontanés, techniques de combat acrobatiques et pouvoirs défensifs, avec des capacités qui se rechargent automatiquement. À haut niveau, il peut choisir entre deux voies : un protecteur équipé d'un bouclier spirituel ou un croisé céleste privilégiant les attaques dévastatrices à deux mains.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77176,7 +77176,7 @@
     },
     {
         "id": 2222,
-        "name": "灵境守卫 (Gardien du royaume spirituel)",
+        "name": "灵境守卫 (Spirit Realm Guardian)",
         "description": "Kit de combattant divin conçu pour protéger et soutenir son groupe, combinant sorts de prêtre spontanés, soins de zone et techniques martiales. Il peut alterner entre plusieurs styles de combat offensifs, défensifs ou favorisant l'incantation, tout en utilisant des roulades, des téléportations et des parades qui restaurent ses sorts. Particulièrement adapté aux groupes affrontant des ennemis très puissants, il peut également créer des doubles magiques pour l'aider au combat.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
@@ -77208,7 +77208,7 @@
     },
     {
         "id": 2223,
-        "name": "灵境探索者 (Explorateur du royaume spirituel)",
+        "name": "灵境探索者 (Spirit Realm Explorer)",
         "description": "Kit de rôdeur mêlant exploration, compétences de voleur et maîtrise des compagnons animaux. Il peut invoquer et améliorer diverses créatures, comme des araignées éclipsantes, des basilics ou des loups des ombres, tout en utilisant des techniques de pistage, de fuite et de capture. Ses pouvoirs élémentaires lui permettent d'adapter son style de combat, tandis que ses capacités de haut niveau renforcent ses compagnons et ses talents d'explorateur.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49741"
