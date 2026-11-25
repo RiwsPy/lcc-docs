@@ -65296,7 +65296,7 @@
     {
         "id": 1869,
         "name": "The Blade of Cut-throat",
-        "description": "Un kit de voleur qui excelle dans la collecte d'essence provenant de diverses créatures et dans sa transformation en poison. Doté de compétences spéciales uniques et de capacités avancées. Devenez un maître du poison et un collecteur d'essence !",
+        "description": "Kit d’assassin oriental qui fait de la collecte d’essences sur les créatures vaincues le cœur de son système de poisons. Ces essences permettent d’adapter et d’enrichir progressivement ses armes, tandis qu’une technique d’exécution remplace en partie le backstab par une attaque préparée depuis une invisibilité totale. Le kit ajoute également quelques outils de méditation et de lancer, mais réduit fortement la polyvalence du voleur classique.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=17182",
             "https://forums.beamdog.com/discussion/88763/",
@@ -76955,7 +76955,8 @@
         "name": "奥能大法师 (Arcane Archmage)",
         "description": "Kit de mage combinant magie classique et magie spontanée, avec de nombreux sorts supplémentaires et de puissantes métamorphoses. Il gagne tous les dix niveaux des bonus à la CA, au TAC0, à l'Intelligence, au Charisme et à la vitesse d'incantation. Sa réserve d'énergie arcanique permet de récupérer des sorts mémorisés dès le niveau 20, tandis que ses pouvoirs mythiques offrent des transformations améliorées et des sorts gratuits, au prix d'une réduction de 25 % de l'expérience gagnée.",
         "urls": [
-            "https://trow.cc/board/index.php?showtopic=49741"
+            "https://trow.cc/board/index.php?showtopic=49741",
+            "https://trow.cc/board/index.php?showtopic=50172"
         ],
         "categories": [
             "Kit"
@@ -77237,5 +77238,361 @@
         "last_update": "2026-11-18",
         "compatibilities": {},
         "tp2": "FairyLandExplorer"
+    },
+    {
+        "id": 2224,
+        "name": "肉搏型超强术士再次出击 (Melee Super-Powered Sorcerer Strikes Again)",
+        "description": "Modification de l’ensorceleur qui reste relativement proche de la classe normale au début, puis devient progressivement un véritable mage-guerrier à haut niveau. Sa progression s’étend jusqu’au niveau 50 et débloque des améliorations permanentes au combat, à la vitesse et à la maîtrise des armes, ainsi qu’un répertoire magique élargi. L’ensemble est volontairement très puissant, mais demande beaucoup d’expérience avant d’atteindre son plein potentiel.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=3405"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "晶欣"
+        ],
+        "team": [],
+        "notes": [
+            "Les fichiers sont à copier dans l'override."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2005-11-19",
+        "compatibilities": {},
+        "tp2": "non-weidu"
+    },
+    {
+        "id": 2225,
+        "name": "武僧宗派：醉仙罗汉 (Monk Kit – Drunken Immortal Arhat)",
+        "description": "Kit de moine inspiré du Drunken Master de D&D et du cinéma de Jackie Chan. Son système de combat repose sur une gourde personnelle : boire permet de contrôler progressivement son degré d’ivresse et d’accéder à différents styles inspirés des Huit Immortels. L’ivresse devient ainsi une ressource, un moyen de défense et un outil offensif, en échange d’une partie de la discipline et des avantages traditionnels du moine.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=53839"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "shohy"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "embed",
+            "archived"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": "",
+        "embedded_in": 1791
+    },
+    {
+        "id": 2226,
+        "name": "蔷薇骑士 (Rose Knight)",
+        "description": "Paladin de soutien très personnalisable, conçu comme un combattant de première ligne capable d’améliorer les capacités de tout le groupe. Il alterne entre différentes auras non cumulables, complétées par des bénédictions et des sceaux, et dispose d’une progression de haut niveau permettant de l’orienter vers plusieurs rôles. En contrepartie, son autodiscipline permanente impose d’importantes restrictions sur les styles d’armes et certains équipements.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=53807"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "qinsisuo0606066"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-08-07",
+        "compatibilities": {},
+        "tp2": "qin06qs"
+    },
+    {
+        "id": 2227,
+        "name": "圣武士宗派MOD-圣誓骑士 (Paladin Kit Mod – Oath Knight)",
+        "description": "Kit de paladin inspiré des versions de la classe proposées par D&D 3.5, D&D 5e et Pathfinder, construit autour du Châtiment du Mal. Son Charisme renforce directement plusieurs défenses et effets de soutien du groupe, tandis que son arsenal sacré privilégie l’affrontement des ennemis maléfiques. Il renonce toutefois aux sorts de prêtre, au renvoi des morts-vivants et aux armes à distance ; une variante optionnelle plus équilibrée réduit fortement ses avantages.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=53513"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "neo500"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2025-07-05",
+        "compatibilities": {},
+        "tp2": "Oathsworn"
+    },
+    {
+        "id": 2228,
+        "name": "战土 (Warrior)",
+        "description": "Guerrier lourd dont le combat repose sur trois postures : à deux mains, à deux armes ou avec un bouclier. Chacune transforme son rôle sur le champ de bataille et possède sa propre progression. À haut niveau, il doit choisir une spécialisation avancée correspondant à l’un de ces styles. Le kit privilégie donc l’adaptation et la personnalisation plutôt que la maîtrise traditionnelle des armes, et n’est compatible qu’avec les Enhanced Editions.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=53796"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "qinsisuo0606066"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-05-25",
+        "compatibilities": {},
+        "tp2": "qin06zs"
+    },
+    {
+        "id": 2229,
+        "name": "潜行者 2.03EE (Stalker 2.03EE)",
+        "description": "Kit de voleur de mêlée dont le fonctionnement repose sur un système de points de combo. Le personnage enchaîne attaques d’ouverture, techniques permettant d’accumuler des points et coups de finition, tout en conservant des capacités de mobilité et de survie propres aux voleurs d’élite. Trois spécialisations permettent ensuite d’accentuer le duel, l’exécution rapide ou un style plus risqué ; en contrepartie, les pièges, les attaques sournoises et certaines options d’armes sont fortement limités.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=53231"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "qinsisuo0606066"
+        ],
+        "team": [],
+        "notes": [
+            "Le TP2 indiqué dans la source est également celui du kit Warrior : à vérifier dans les archives."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-05-25",
+        "compatibilities": {},
+        "tp2": "qin06zs"
+    },
+    {
+        "id": 2230,
+        "name": "觅心射手 (Soulseeker)",
+        "description": "Kit de voleur spécialisé dans l’arbalète et les pouvoirs psioniques, combinant mobilité, attaques à distance et contrôle mental. Il s’appuie sur une arbalète évolutive et des pouvoirs instantanés dont l’usage répété provoque une fatigue psychique. À haut niveau, il peut privilégier soit la maîtrise psionique, soit l’amélioration de son arme.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=25386"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "菲拉洛"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2013-09-08",
+        "compatibilities": {},
+        "tp2": "MindShoter"
+    },
+    {
+        "id": 2231,
+        "name": "五火球神教信徒-燃烬使者 (Cultist of the Five Fireballs – Ashbringer)",
+        "description": "Clerc chaotique entièrement consacré au culte du feu et, surtout, de la boule de feu. Il remplace une grande partie de son répertoire divin traditionnel par une magie offensive mêlant influences profanes et variantes de feu. Sa principale particularité est de pouvoir créer des boules de feu runiques en combinant différents modificateurs. Très spécialisé et volontairement extravagant, il gagne en puissance magique au prix d’une fragilité physique croissante et de la perte de plusieurs capacités classiques du prêtre.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=49562"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "EpicWizard"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2020-08-14",
+        "compatibilities": {},
+        "tp2": "P5F"
+    },
+    {
+        "id": 2232,
+        "name": "强化宗派修订版 (Revised Enhanced Kits)",
+        "description": "Révision de l’Enhanced Kit Mod destinée surtout à prolonger et à corriger sa progression. Elle étend les tables de niveaux et de capacités jusqu’au niveau 50, rétablit ou ajuste plusieurs progressions de combat et corrige diverses erreurs dans les capacités de haut niveau et les tables de classes. Il s’agit donc d’un correctif de maintenance et d’extension du mod original, et non d’un nouveau pack de kits.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=27223"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "单身游侠"
+        ],
+        "team": [],
+        "notes": [
+            "Révision du mod Enhanced Kit MOD ([[2212]]), distribuée séparément."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2014-09-09",
+        "compatibilities": {},
+        "tp2": "ImproveKit"
+    },
+    {
+        "id": 2233,
+        "name": "翡翠德鲁伊 (Emerald Druid)",
+        "description": "Druide inspiré du Rêve d’Émeraude, dont le style de jeu repose sur trois formes complémentaires consacrées au soutien, à la résistance et au combat félin. Chaque forme possède ses propres mécaniques et ressources, tandis que des sorts et talents exclusifs permettent de spécialiser le personnage dans les soins, la magie naturelle ou le combat sauvage. Cette polyvalence se paie par plusieurs restrictions sur les capacités et l’équipement du druide classique.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=53368"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "qinsisuo0606066"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-08-07",
+        "compatibilities": {},
+        "tp2": "qin06xd"
+    },
+    {
+        "id": 2234,
+        "name": "亵渎 (Blasphemy)",
+        "description": "Petit mod de combat inspiré du roman chinois 亵渎 de 烟雨江南. Il ajoute à Shadows of Amn un premier adversaire près de la fontaine de la promenade de Waukyne. Sa défaite permet d’obtenir un anneau de téléportation donnant accès au domaine glacé de Fengyue, où attend un groupe d’ennemis bien plus redoutables, destiné à des personnages du niveau de Throne of Bhaal. Le mod ne comporte pratiquement aucune intrigue et se concentre sur des combats difficiles et des récompenses très puissantes. La composition du groupe ennemi varie selon le niveau de difficulté, certains adversaires n’apparaissant qu’aux difficultés les plus élevées.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=7856"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "lighting_pig"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2006-10-21",
+        "compatibilities": {},
+        "tp2": "xiedu"
     }
 ]
