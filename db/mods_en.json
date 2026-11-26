@@ -26177,10 +26177,10 @@
     },
     {
         "id": 1869,
-        "description": "A thief kit that is good at collecting essence from various creatures and refining it into poison. Having unique special skills and advanced abilities. Be an poison-master and essence-collector!",
+        "description": "An Eastern-inspired assassin kit built around harvesting essences from defeated creatures to produce poisons. These essences can be used to adapt and progressively enhance weapons, while a finishing technique partly replaces backstabbing with a prepared strike from complete invisibility. Additional meditation and throwing techniques round out the kit, at the cost of much of a standard thief's versatility.",
         "description_meta": {
-            "status": "done",
-            "source": "Un kit de voleur qui excelle dans la collecte d'essence provenant de diverses créatures et dans sa transformation en poison. Doté de compétences spéciales uniques et de capacités avancées. Devenez un maître du poison et un collecteur d'essence !"
+            "status": "needs_review",
+            "source": "Kit d’assassin oriental qui fait de la collecte d’essences sur les créatures vaincues le cœur de son système de poisons. Ces essences permettent d’adapter et d’enrichir progressivement ses armes, tandis qu’une technique d’exécution remplace en partie le backstab par une attaque préparée depuis une invisibilité totale. Le kit ajoute également quelques outils de méditation et de lancer, mais réduit fortement la polyvalence du voleur classique."
         },
         "notes": [],
         "notes_meta": {
@@ -30907,6 +30907,166 @@
         "description_meta": {
             "status": "needs_review",
             "source": "Kit de rôdeur mêlant exploration, compétences de voleur et maîtrise des compagnons animaux. Il peut invoquer et améliorer diverses créatures, comme des araignées éclipsantes, des basilics ou des loups des ombres, tout en utilisant des techniques de pistage, de fuite et de capture. Ses pouvoirs élémentaires lui permettent d'adapter son style de combat, tandis que ses capacités de haut niveau renforcent ses compagnons et ses talents d'explorateur."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2224,
+        "description": "An overhaul of the sorcerer that begins close to the standard class, then gradually develops into a formidable warrior-mage at higher levels. Level progression extends to 50, unlocking permanent improvements to combat prowess, speed and weapon proficiency alongside an expanded spell repertoire. Deliberately overpowered, it requires a substantial experience investment to reach its full potential.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Modification de l’ensorceleur qui reste relativement proche de la classe normale au début, puis devient progressivement un véritable mage-guerrier à haut niveau. Sa progression s’étend jusqu’au niveau 50 et débloque des améliorations permanentes au combat, à la vitesse et à la maîtrise des armes, ainsi qu’un répertoire magique élargi. L’ensemble est volontairement très puissant, mais demande beaucoup d’expérience avant d’atteindre son plein potentiel."
+        },
+        "notes": [
+            "Copy the files into the override folder."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Les fichiers sont à copier dans l'override."
+            ]
+        }
+    },
+    {
+        "id": 2225,
+        "description": "A monk kit inspired by D&D's Drunken Master and Jackie Chan's films. Its fighting style revolves around a personal drinking gourd: drinking lets the character manage their level of intoxication and unlock styles inspired by the Eight Immortals. Drunkenness becomes a resource, a defence and an offensive weapon, at the cost of some of the traditional monk's discipline and abilities.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de moine inspiré du Drunken Master de D&D et du cinéma de Jackie Chan. Son système de combat repose sur une gourde personnelle : boire permet de contrôler progressivement son degré d’ivresse et d’accéder à différents styles inspirés des Huit Immortels. L’ivresse devient ainsi une ressource, un moyen de défense et un outil offensif, en échange d’une partie de la discipline et des avantages traditionnels du moine."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        },
+        "status": [
+            "embed",
+            "archived"
+        ],
+        "embedded_in": 1791
+    },
+    {
+        "id": 2226,
+        "description": "A highly customizable support paladin built to fight on the front line while strengthening the entire party. It switches between mutually exclusive auras, supplemented by blessings and seals, while its high-level progression allows several distinct roles. In return, its constant state of self-discipline imposes substantial restrictions on weapon styles and certain equipment.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Paladin de soutien très personnalisable, conçu comme un combattant de première ligne capable d’améliorer les capacités de tout le groupe. Il alterne entre différentes auras non cumulables, complétées par des bénédictions et des sceaux, et dispose d’une progression de haut niveau permettant de l’orienter vers plusieurs rôles. En contrepartie, son autodiscipline permanente impose d’importantes restrictions sur les styles d’armes et certains équipements."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2227,
+        "description": "A paladin kit drawing on the 3.5e, 5e and Pathfinder interpretations of the class, centred on Smite Evil. Charisma directly bolsters several defences and party-support effects, while its sacred abilities favour fighting evil foes. It gives up priest spells, turning undead and ranged weapons; an optional, more balanced variant considerably reduces its advantages.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de paladin inspiré des versions de la classe proposées par D&D 3.5, D&D 5e et Pathfinder, construit autour du Châtiment du Mal. Son Charisme renforce directement plusieurs défenses et effets de soutien du groupe, tandis que son arsenal sacré privilégie l’affrontement des ennemis maléfiques. Il renonce toutefois aux sorts de prêtre, au renvoi des morts-vivants et aux armes à distance ; une variante optionnelle plus équilibrée réduit fortement ses avantages."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2228,
+        "description": "A heavily armoured fighter built around three stances: two-handed weapons, dual wielding or shield use. Each changes the character's battlefield role and follows its own progression, while high-level abilities require a matching advanced specialization. The kit favours adaptability and character-building choices over traditional weapon mastery, and works only with the Enhanced Editions.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Guerrier lourd dont le combat repose sur trois postures : à deux mains, à deux armes ou avec un bouclier. Chacune transforme son rôle sur le champ de bataille et possède sa propre progression. À haut niveau, il doit choisir une spécialisation avancée correspondant à l’un de ces styles. Le kit privilégie donc l’adaptation et la personnalisation plutôt que la maîtrise traditionnelle des armes, et n’est compatible qu’avec les Enhanced Editions."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2229,
+        "description": "A melee thief kit built around a combo-point system. The character chains opening moves, combo builders and finishing attacks while retaining mobility and survival tools suited to an elite rogue. Three specializations then favour duelling, swift execution or a riskier fighting style, at the cost of major restrictions on traps, backstabbing and certain weapons.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de voleur de mêlée dont le fonctionnement repose sur un système de points de combo. Le personnage enchaîne attaques d’ouverture, techniques permettant d’accumuler des points et coups de finition, tout en conservant des capacités de mobilité et de survie propres aux voleurs d’élite. Trois spécialisations permettent ensuite d’accentuer le duel, l’exécution rapide ou un style plus risqué ; en contrepartie, les pièges, les attaques sournoises et certaines options d’armes sont fortement limités."
+        },
+        "notes": [
+            "The TP2 filename given in the source is also listed for the Warrior kit; check the archives."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Le TP2 indiqué dans la source est également celui du kit Warrior : à vérifier dans les archives."
+            ]
+        }
+    },
+    {
+        "id": 2230,
+        "description": "A thief kit specializing in crossbows and psionic powers, combining mobility, ranged attacks and mind control. It relies on an evolving crossbow and instant powers whose repeated use causes mental fatigue. At higher levels, the character can focus either on psionic mastery or further improving the weapon.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de voleur spécialisé dans l’arbalète et les pouvoirs psioniques, combinant mobilité, attaques à distance et contrôle mental. Il s’appuie sur une arbalète évolutive et des pouvoirs instantanés dont l’usage répété provoque une fatigue psychique. À haut niveau, il peut privilégier soit la maîtrise psionique, soit l’amélioration de son arme."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2231,
+        "description": "A chaotic cleric devoted entirely to fire worship—and especially Fireball. It replaces much of the traditional divine spell repertoire with offensive magic drawing on arcane spells and fire variants. Its central mechanic lets the player assemble runic fireballs by combining modifiers. Deliberately extravagant and highly specialized, it gains magical power at the expense of increasing physical frailty and several standard cleric abilities.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Clerc chaotique entièrement consacré au culte du feu et, surtout, de la boule de feu. Il remplace une grande partie de son répertoire divin traditionnel par une magie offensive mêlant influences profanes et variantes de feu. Sa principale particularité est de pouvoir créer des boules de feu runiques en combinant différents modificateurs. Très spécialisé et volontairement extravagant, il gagne en puissance magique au prix d’une fragilité physique croissante et de la perte de plusieurs capacités classiques du prêtre."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2232,
+        "description": "A revision of Enhanced Kit Mod focused on extending and fixing its progression. It expands level and ability tables up to level 50, restores or adjusts several combat progressions, and fixes problems in high-level abilities and class tables. This is a maintenance and expansion patch for the original mod, not a new kit pack.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Révision de l’Enhanced Kit Mod destinée surtout à prolonger et à corriger sa progression. Elle étend les tables de niveaux et de capacités jusqu’au niveau 50, rétablit ou ajuste plusieurs progressions de combat et corrige diverses erreurs dans les capacités de haut niveau et les tables de classes. Il s’agit donc d’un correctif de maintenance et d’extension du mod original, et non d’un nouveau pack de kits."
+        },
+        "notes": [
+            "A separately distributed revision of Enhanced Kit MOD ([[2212]])."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Révision du mod Enhanced Kit MOD ([[2212]]), distribuée séparément."
+            ]
+        }
+    },
+    {
+        "id": 2233,
+        "description": "A druid inspired by the Emerald Dream, built around three complementary forms specializing in support, durability and feline combat. Each form has its own mechanics and resources, while exclusive spells and talents let the character focus on healing, nature magic or feral fighting. This versatility comes with several restrictions on the standard druid's abilities and equipment.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Druide inspiré du Rêve d’Émeraude, dont le style de jeu repose sur trois formes complémentaires consacrées au soutien, à la résistance et au combat félin. Chaque forme possède ses propres mécaniques et ressources, tandis que des sorts et talents exclusifs permettent de spécialiser le personnage dans les soins, la magie naturelle ou le combat sauvage. Cette polyvalence se paie par plusieurs restrictions sur les capacités et l’équipement du druide classique."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2234,
+        "description": "A combat-focused mini-mod inspired by the Chinese novel 亵渎 by 烟雨江南. It adds an initial opponent near the fountain on Waukeen's Promenade in Shadows of Amn. Defeating this enemy rewards the party with a teleportation ring that leads to Fengyue's frozen domain, where a much more powerful group of foes awaits, better suited to a Throne of Bhaal-level party. There is very little story: the emphasis is on challenging battles and extremely powerful rewards. The enemy lineup varies with the difficulty setting, and some opponents appear only on the highest difficulties.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Petit mod de combat inspiré du roman chinois 亵渎 de 烟雨江南. Il ajoute à Shadows of Amn un premier adversaire près de la fontaine de la promenade de Waukyne. Sa défaite permet d’obtenir un anneau de téléportation donnant accès au domaine glacé de Fengyue, où attend un groupe d’ennemis bien plus redoutables, destiné à des personnages du niveau de Throne of Bhaal. Le mod ne comporte pratiquement aucune intrigue et se concentre sur des combats difficiles et des récompenses très puissantes. La composition du groupe ennemi varie selon le niveau de difficulté, certains adversaires n’apparaissant qu’aux difficultés les plus élevées."
         },
         "notes": [],
         "notes_meta": {
