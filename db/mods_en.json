@@ -31065,5 +31065,82 @@
             "status": "done",
             "source": []
         }
+    },
+    {
+        "id": 2235,
+        "description": "A shaman kit inspired by ancient Chinese myths and focused on supporting the party. Drawing on nature, ancestral spirits and primordial deities, it uses distinctive spells and dances that are especially effective in a large group. In return, it loses some standard shaman abilities, including summoning spirits through its dance, and is restricted to relatively light equipment.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de chaman spécialisé dans le soutien du groupe et inspiré des anciens mythes chinois. Il canalise la nature, les esprits ancestraux et les divinités primordiales grâce à des sorts et des danses propres au kit, particulièrement efficaces au sein d'une équipe nombreuse. En contrepartie, il renonce à certaines capacités habituelles du chaman, notamment l'invocation d'esprits par la danse, et doit se contenter d'un équipement relativement léger."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2236,
+        "description": "A metamagic-focused mage kit inspired by D&D's archmage and the Spell Master from Pathfinder: Wrath of the Righteous. It emphasizes flexible spell manipulation and works especially well alongside other spellcasters, at the cost of severe physical weaknesses and an inability to receive divine healing normally. Version 1.04 also revises its high-level abilities, some of which now require sacrifices of magical power.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Kit de mage spécialisé dans la métamagie, inspiré de l'archimage de D&D et du Spell Master de Pathfinder: Wrath of the Righteous. Il privilégie la manipulation des sorts et la polyvalence magique, notamment lorsqu'il combat aux côtés d'autres lanceurs de sorts. En échange, il souffre de graves faiblesses physiques et ne peut pas recevoir normalement les soins divins. La version 1.04 remanie également ses capacités de haut niveau, dont certaines exigent désormais de sacrifier une partie de sa puissance magique."
+        },
+        "notes": [
+            "Available in Chinese only."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Mod uniquement disponible en chinois."
+            ]
+        }
+    },
+    {
+        "id": 2237,
+        "description": "An enhancement to the Wizard Slayer that improves its ability to disrupt enemy spellcasters without turning it into a new class. Its mere presence interferes with nearby spellcasting, while its high-level abilities make it harder to dispel its defenses and let it temporarily suppress magic across an entire area. An optional component relaxes equipment restrictions. Designed for the Enhanced Editions, the patch can be installed after other changes to the same kit.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Amélioration du Pourfendeur de magicien qui renforce sa capacité à perturber les lanceurs de sorts ennemis sans en faire une nouvelle classe. Sa présence gêne les incantations à courte portée, tandis que ses capacités de haut niveau améliorent sa résistance aux dissipations et lui permettent de neutraliser temporairement la magie dans une zone entière. Un composant optionnel assouplit aussi les restrictions d'équipement. Réservé aux Enhanced Editions, ce patch peut être installé après d'autres modifications du même kit."
+        },
+        "notes": [
+            "Download requires a CAPTCHA that needs a phone."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+            ]
+        }
+    },
+    {
+        "id": 2238,
+        "description": "A collection of four kits primarily inspired by World of Warcraft and League of Legends. Each offers a distinct playstyle: a stance-based warrior, a paladin using seals and auras, a crossbow specialist, or a shapeshifting druid. All four have their own mechanics and high-level abilities. They are intentionally stronger than the original classes and are best suited to games with difficulty-enhancing mods.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Collection de quatre kits inspirés principalement de World of Warcraft et de League of Legends. Ils proposent des styles de jeu très différents : guerrier à postures, paladin utilisant sceaux et auras, tireur à l'arbalète et druide métamorphe. Chacun possède ses propres mécaniques et capacités de haut niveau. Volontairement plus puissants que les classes originales, ces kits sont surtout destinés aux parties utilisant des mods qui augmentent la difficulté."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2239,
+        "description": "An old Korean mod for BG2 that adds Diablo-inspired items and greatly increases combat difficulty. The author also planned to introduce monster animations from Diablo II. The mod is now missing following the disappearance of baldursgate2.co.kr.",
+        "description_meta": {
+            "status": "needs_review",
+            "source": "Ancien mod coréen pour BG2 qui ajoute des objets inspirés de Diablo et augmente considérablement la difficulté des combats. L'ajout d'animations de monstres provenant de Diablo II était également prévu. Le mod est devenu introuvable après la disparition du site baldursgate2.co.kr."
+        },
+        "notes": [
+            "The mod disappeared with the shutdown of www.baldursgate2.co.kr."
+        ],
+        "notes_meta": {
+            "status": "needs_review",
+            "source": [
+                "Mod disparu avec le site www.baldursgate2.co.kr."
+            ]
+        }
     }
 ]
