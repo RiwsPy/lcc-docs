@@ -76876,13 +76876,14 @@
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "cn"
         ],
         "status": [
-            "stable"
+            "embed"
         ],
+        "embedded_in": 2232,
         "last_update": "2008-06-05",
         "compatibilities": {},
         "tp2": "ImproveKit"
@@ -77242,7 +77243,7 @@
     },
     {
         "id": 2224,
-        "name": "肉搏型超强术士再次出击 (Melee Super-Powered Sorcerer Strikes Again)",
+        "name": "Melee Super-Powered Sorcerer Strikes Again",
         "description": "Modification de l’ensorceleur qui reste relativement proche de la classe normale au début, puis devient progressivement un véritable mage-guerrier à haut niveau. Sa progression s’étend jusqu’au niveau 50 et débloque des améliorations permanentes au combat, à la vitesse et à la maîtrise des armes, ainsi qu’un répertoire magique élargi. L’ensemble est volontairement très puissant, mais demande beaucoup d’expérience avant d’atteindre son plein potentiel.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=3405"
@@ -77258,9 +77259,7 @@
             "晶欣"
         ],
         "team": [],
-        "notes": [
-            "Les fichiers sont à copier dans l'override."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 1,
         "languages": [
@@ -77275,7 +77274,7 @@
     },
     {
         "id": 2225,
-        "name": "武僧宗派：醉仙罗汉 (Monk Kit – Drunken Immortal Arhat)",
+        "name": "Monk Kit – Drunken Immortal Arhat",
         "description": "Kit de moine inspiré du Drunken Master de D&D et du cinéma de Jackie Chan. Son système de combat repose sur une gourde personnelle : boire permet de contrôler progressivement son degré d’ivresse et d’accéder à différents styles inspirés des Huit Immortels. L’ivresse devient ainsi une ressource, un moyen de défense et un outil offensif, en échange d’une partie de la discipline et des avantages traditionnels du moine.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=53839"
@@ -77289,12 +77288,12 @@
             "EET"
         ],
         "authors": [
-            "shohy"
+            "Shohy"
         ],
         "team": [],
         "notes": [],
         "translation_state": "auto",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "cn"
         ],
@@ -77302,14 +77301,14 @@
             "embed",
             "archived"
         ],
-        "last_update": "",
+        "embedded_in": 1791,
+        "last_update": "2026-02-13",
         "compatibilities": {},
-        "tp2": "",
-        "embedded_in": 1791
+        "tp2": ""
     },
     {
         "id": 2226,
-        "name": "蔷薇骑士 (Rose Knight)",
+        "name": "Rose Knight",
         "description": "Paladin de soutien très personnalisable, conçu comme un combattant de première ligne capable d’améliorer les capacités de tout le groupe. Il alterne entre différentes auras non cumulables, complétées par des bénédictions et des sceaux, et dispose d’une progression de haut niveau permettant de l’orienter vers plusieurs rôles. En contrepartie, son autodiscipline permanente impose d’importantes restrictions sur les styles d’armes et certains équipements.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=53807"
@@ -77341,7 +77340,7 @@
     },
     {
         "id": 2227,
-        "name": "圣武士宗派MOD-圣誓骑士 (Paladin Kit Mod – Oath Knight)",
+        "name": "Paladin Kit Mod – Oath Knight",
         "description": "Kit de paladin inspiré des versions de la classe proposées par D&D 3.5, D&D 5e et Pathfinder, construit autour du Châtiment du Mal. Son Charisme renforce directement plusieurs défenses et effets de soutien du groupe, tandis que son arsenal sacré privilégie l’affrontement des ennemis maléfiques. Il renonce toutefois aux sorts de prêtre, au renvoi des morts-vivants et aux armes à distance ; une variante optionnelle plus équilibrée réduit fortement ses avantages.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=53513"
@@ -77373,7 +77372,7 @@
     },
     {
         "id": 2228,
-        "name": "战土 (Warrior)",
+        "name": "Warrior",
         "description": "Guerrier lourd dont le combat repose sur trois postures : à deux mains, à deux armes ou avec un bouclier. Chacune transforme son rôle sur le champ de bataille et possède sa propre progression. À haut niveau, il doit choisir une spécialisation avancée correspondant à l’un de ces styles. Le kit privilégie donc l’adaptation et la personnalisation plutôt que la maîtrise traditionnelle des armes, et n’est compatible qu’avec les Enhanced Editions.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=53796"
@@ -77405,7 +77404,7 @@
     },
     {
         "id": 2229,
-        "name": "潜行者 2.03EE (Stalker 2.03EE)",
+        "name": "Stalker 2.03EE",
         "description": "Kit de voleur de mêlée dont le fonctionnement repose sur un système de points de combo. Le personnage enchaîne attaques d’ouverture, techniques permettant d’accumuler des points et coups de finition, tout en conservant des capacités de mobilité et de survie propres aux voleurs d’élite. Trois spécialisations permettent ensuite d’accentuer le duel, l’exécution rapide ou un style plus risqué ; en contrepartie, les pièges, les attaques sournoises et certaines options d’armes sont fortement limités.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=53231"
@@ -77423,7 +77422,7 @@
         ],
         "team": [],
         "notes": [
-            "Le TP2 indiqué dans la source est également celui du kit Warrior : à vérifier dans les archives."
+            "Le TP2 indiqué dans la source est également celui de [[2228]] : à vérifier dans les archives."
         ],
         "translation_state": "auto",
         "safe": 2,
@@ -77439,7 +77438,7 @@
     },
     {
         "id": 2230,
-        "name": "觅心射手 (Soulseeker)",
+        "name": "Soulseeker",
         "description": "Kit de voleur spécialisé dans l’arbalète et les pouvoirs psioniques, combinant mobilité, attaques à distance et contrôle mental. Il s’appuie sur une arbalète évolutive et des pouvoirs instantanés dont l’usage répété provoque une fatigue psychique. À haut niveau, il peut privilégier soit la maîtrise psionique, soit l’amélioration de son arme.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=25386"
@@ -77470,7 +77469,7 @@
     },
     {
         "id": 2231,
-        "name": "五火球神教信徒-燃烬使者 (Cultist of the Five Fireballs – Ashbringer)",
+        "name": "Cultist of the Five Fireballs – Ashbringer",
         "description": "Clerc chaotique entièrement consacré au culte du feu et, surtout, de la boule de feu. Il remplace une grande partie de son répertoire divin traditionnel par une magie offensive mêlant influences profanes et variantes de feu. Sa principale particularité est de pouvoir créer des boules de feu runiques en combinant différents modificateurs. Très spécialisé et volontairement extravagant, il gagne en puissance magique au prix d’une fragilité physique croissante et de la perte de plusieurs capacités classiques du prêtre.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=49562"
@@ -77502,8 +77501,8 @@
     },
     {
         "id": 2232,
-        "name": "强化宗派修订版 (Revised Enhanced Kits)",
-        "description": "Révision de l’Enhanced Kit Mod destinée surtout à prolonger et à corriger sa progression. Elle étend les tables de niveaux et de capacités jusqu’au niveau 50, rétablit ou ajuste plusieurs progressions de combat et corrige diverses erreurs dans les capacités de haut niveau et les tables de classes. Il s’agit donc d’un correctif de maintenance et d’extension du mod original, et non d’un nouveau pack de kits.",
+        "name": "Revised Enhanced Kits",
+        "description": "Révision de [[2212]] destinée surtout à prolonger et à corriger sa progression. Elle étend les tables de niveaux et de capacités jusqu’au niveau 50, rétablit ou ajuste plusieurs progressions de combat et corrige diverses erreurs dans les capacités de haut niveau et les tables de classes. Il s’agit donc d’un correctif de maintenance et d’extension du mod original, et non d’un nouveau pack de kits.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=27223"
         ],
@@ -77518,9 +77517,7 @@
             "单身游侠"
         ],
         "team": [],
-        "notes": [
-            "Révision du mod Enhanced Kit MOD ([[2212]]), distribuée séparément."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -77535,7 +77532,7 @@
     },
     {
         "id": 2233,
-        "name": "翡翠德鲁伊 (Emerald Druid)",
+        "name": "Emerald Druid",
         "description": "Druide inspiré du Rêve d’Émeraude, dont le style de jeu repose sur trois formes complémentaires consacrées au soutien, à la résistance et au combat félin. Chaque forme possède ses propres mécaniques et ressources, tandis que des sorts et talents exclusifs permettent de spécialiser le personnage dans les soins, la magie naturelle ou le combat sauvage. Cette polyvalence se paie par plusieurs restrictions sur les capacités et l’équipement du druide classique.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=53368"
@@ -77567,7 +77564,7 @@
     },
     {
         "id": 2234,
-        "name": "亵渎 (Blasphemy)",
+        "name": "Blasphemy",
         "description": "Petit mod de combat inspiré du roman chinois 亵渎 de 烟雨江南. Il ajoute à Shadows of Amn un premier adversaire près de la fontaine de la promenade de Waukyne. Sa défaite permet d’obtenir un anneau de téléportation donnant accès au domaine glacé de Fengyue, où attend un groupe d’ennemis bien plus redoutables, destiné à des personnages du niveau de Throne of Bhaal. Le mod ne comporte pratiquement aucune intrigue et se concentre sur des combats difficiles et des récompenses très puissantes. La composition du groupe ennemi varie selon le niveau de difficulté, certains adversaires n’apparaissant qu’aux difficultés les plus élevées.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=7856"

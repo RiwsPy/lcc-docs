@@ -25543,7 +25543,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Un kit de voleur qui excelle dans la collecte d'essence provenant de diverses créatures et dans sa transformation en poison. Doté de compétences spéciales uniques et de capacités avancées. Devenez un maître du poison et un collecteur d'essence !"
+            "source": "Kit d’assassin oriental qui fait de la collecte d’essences sur les créatures vaincues le cœur de son système de poisons. Ces essences permettent d’adapter et d’enrichir progressivement ses armes, tandis qu’une technique d’exécution remplace en partie le backstab par une attaque préparée depuis une invisibilité totale. Le kit ajoute également quelques outils de méditation et de lancer, mais réduit fortement la polyvalence du voleur classique."
         },
         "notes": [],
         "notes_meta": {
@@ -30204,6 +30204,151 @@
         "description_meta": {
             "status": "todo",
             "source": "Kit de rôdeur mêlant exploration, compétences de voleur et maîtrise des compagnons animaux. Il peut invoquer et améliorer diverses créatures, comme des araignées éclipsantes, des basilics ou des loups des ombres, tout en utilisant des techniques de pistage, de fuite et de capture. Ses pouvoirs élémentaires lui permettent d'adapter son style de combat, tandis que ses capacités de haut niveau renforcent ses compagnons et ses talents d'explorateur."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2224,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Modification de l’ensorceleur qui reste relativement proche de la classe normale au début, puis devient progressivement un véritable mage-guerrier à haut niveau. Sa progression s’étend jusqu’au niveau 50 et débloque des améliorations permanentes au combat, à la vitesse et à la maîtrise des armes, ainsi qu’un répertoire magique élargi. L’ensemble est volontairement très puissant, mais demande beaucoup d’expérience avant d’atteindre son plein potentiel."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2225,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de moine inspiré du Drunken Master de D&D et du cinéma de Jackie Chan. Son système de combat repose sur une gourde personnelle : boire permet de contrôler progressivement son degré d’ivresse et d’accéder à différents styles inspirés des Huit Immortels. L’ivresse devient ainsi une ressource, un moyen de défense et un outil offensif, en échange d’une partie de la discipline et des avantages traditionnels du moine."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2226,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Paladin de soutien très personnalisable, conçu comme un combattant de première ligne capable d’améliorer les capacités de tout le groupe. Il alterne entre différentes auras non cumulables, complétées par des bénédictions et des sceaux, et dispose d’une progression de haut niveau permettant de l’orienter vers plusieurs rôles. En contrepartie, son autodiscipline permanente impose d’importantes restrictions sur les styles d’armes et certains équipements."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2227,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de paladin inspiré des versions de la classe proposées par D&D 3.5, D&D 5e et Pathfinder, construit autour du Châtiment du Mal. Son Charisme renforce directement plusieurs défenses et effets de soutien du groupe, tandis que son arsenal sacré privilégie l’affrontement des ennemis maléfiques. Il renonce toutefois aux sorts de prêtre, au renvoi des morts-vivants et aux armes à distance ; une variante optionnelle plus équilibrée réduit fortement ses avantages."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2228,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Guerrier lourd dont le combat repose sur trois postures : à deux mains, à deux armes ou avec un bouclier. Chacune transforme son rôle sur le champ de bataille et possède sa propre progression. À haut niveau, il doit choisir une spécialisation avancée correspondant à l’un de ces styles. Le kit privilégie donc l’adaptation et la personnalisation plutôt que la maîtrise traditionnelle des armes, et n’est compatible qu’avec les Enhanced Editions."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2229,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de voleur de mêlée dont le fonctionnement repose sur un système de points de combo. Le personnage enchaîne attaques d’ouverture, techniques permettant d’accumuler des points et coups de finition, tout en conservant des capacités de mobilité et de survie propres aux voleurs d’élite. Trois spécialisations permettent ensuite d’accentuer le duel, l’exécution rapide ou un style plus risqué ; en contrepartie, les pièges, les attaques sournoises et certaines options d’armes sont fortement limités."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Le TP2 indiqué dans la source est également celui de [[2228]] : à vérifier dans les archives."
+            ]
+        }
+    },
+    {
+        "id": 2230,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de voleur spécialisé dans l’arbalète et les pouvoirs psioniques, combinant mobilité, attaques à distance et contrôle mental. Il s’appuie sur une arbalète évolutive et des pouvoirs instantanés dont l’usage répété provoque une fatigue psychique. À haut niveau, il peut privilégier soit la maîtrise psionique, soit l’amélioration de son arme."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2231,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Clerc chaotique entièrement consacré au culte du feu et, surtout, de la boule de feu. Il remplace une grande partie de son répertoire divin traditionnel par une magie offensive mêlant influences profanes et variantes de feu. Sa principale particularité est de pouvoir créer des boules de feu runiques en combinant différents modificateurs. Très spécialisé et volontairement extravagant, il gagne en puissance magique au prix d’une fragilité physique croissante et de la perte de plusieurs capacités classiques du prêtre."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2232,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Révision de [[2212]] destinée surtout à prolonger et à corriger sa progression. Elle étend les tables de niveaux et de capacités jusqu’au niveau 50, rétablit ou ajuste plusieurs progressions de combat et corrige diverses erreurs dans les capacités de haut niveau et les tables de classes. Il s’agit donc d’un correctif de maintenance et d’extension du mod original, et non d’un nouveau pack de kits."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2233,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Druide inspiré du Rêve d’Émeraude, dont le style de jeu repose sur trois formes complémentaires consacrées au soutien, à la résistance et au combat félin. Chaque forme possède ses propres mécaniques et ressources, tandis que des sorts et talents exclusifs permettent de spécialiser le personnage dans les soins, la magie naturelle ou le combat sauvage. Cette polyvalence se paie par plusieurs restrictions sur les capacités et l’équipement du druide classique."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2234,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Petit mod de combat inspiré du roman chinois 亵渎 de 烟雨江南. Il ajoute à Shadows of Amn un premier adversaire près de la fontaine de la promenade de Waukyne. Sa défaite permet d’obtenir un anneau de téléportation donnant accès au domaine glacé de Fengyue, où attend un groupe d’ennemis bien plus redoutables, destiné à des personnages du niveau de Throne of Bhaal. Le mod ne comporte pratiquement aucune intrigue et se concentre sur des combats difficiles et des récompenses très puissantes. La composition du groupe ennemi varie selon le niveau de difficulté, certains adversaires n’apparaissant qu’aux difficultés les plus élevées."
         },
         "notes": [],
         "notes_meta": {

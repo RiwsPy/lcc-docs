@@ -30921,14 +30921,10 @@
             "status": "needs_review",
             "source": "Modification de l’ensorceleur qui reste relativement proche de la classe normale au début, puis devient progressivement un véritable mage-guerrier à haut niveau. Sa progression s’étend jusqu’au niveau 50 et débloque des améliorations permanentes au combat, à la vitesse et à la maîtrise des armes, ainsi qu’un répertoire magique élargi. L’ensemble est volontairement très puissant, mais demande beaucoup d’expérience avant d’atteindre son plein potentiel."
         },
-        "notes": [
-            "Copy the files into the override folder."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Les fichiers sont à copier dans l'override."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
@@ -30996,12 +30992,12 @@
             "source": "Kit de voleur de mêlée dont le fonctionnement repose sur un système de points de combo. Le personnage enchaîne attaques d’ouverture, techniques permettant d’accumuler des points et coups de finition, tout en conservant des capacités de mobilité et de survie propres aux voleurs d’élite. Trois spécialisations permettent ensuite d’accentuer le duel, l’exécution rapide ou un style plus risqué ; en contrepartie, les pièges, les attaques sournoises et certaines options d’armes sont fortement limités."
         },
         "notes": [
-            "The TP2 filename given in the source is also listed for the Warrior kit; check the archives."
+            "The TP2 filename given in the source is also listed for the [[2228]]; check the archives."
         ],
         "notes_meta": {
             "status": "needs_review",
             "source": [
-                "Le TP2 indiqué dans la source est également celui du kit Warrior : à vérifier dans les archives."
+                "Le TP2 indiqué dans la source est également celui de [[2228]] : à vérifier dans les archives."
             ]
         }
     },
@@ -31033,19 +31029,15 @@
     },
     {
         "id": 2232,
-        "description": "A revision of Enhanced Kit Mod focused on extending and fixing its progression. It expands level and ability tables up to level 50, restores or adjusts several combat progressions, and fixes problems in high-level abilities and class tables. This is a maintenance and expansion patch for the original mod, not a new kit pack.",
+        "description": "A revision of [[2212]] focused on extending and fixing its progression. It expands level and ability tables up to level 50, restores or adjusts several combat progressions, and fixes problems in high-level abilities and class tables. This is a maintenance and expansion patch for the original mod, not a new kit pack.",
         "description_meta": {
             "status": "needs_review",
-            "source": "Révision de l’Enhanced Kit Mod destinée surtout à prolonger et à corriger sa progression. Elle étend les tables de niveaux et de capacités jusqu’au niveau 50, rétablit ou ajuste plusieurs progressions de combat et corrige diverses erreurs dans les capacités de haut niveau et les tables de classes. Il s’agit donc d’un correctif de maintenance et d’extension du mod original, et non d’un nouveau pack de kits."
+            "source": "Révision de [[2212]] destinée surtout à prolonger et à corriger sa progression. Elle étend les tables de niveaux et de capacités jusqu’au niveau 50, rétablit ou ajuste plusieurs progressions de combat et corrige diverses erreurs dans les capacités de haut niveau et les tables de classes. Il s’agit donc d’un correctif de maintenance et d’extension du mod original, et non d’un nouveau pack de kits."
         },
-        "notes": [
-            "A separately distributed revision of Enhanced Kit MOD ([[2212]])."
-        ],
+        "notes": [],
         "notes_meta": {
-            "status": "needs_review",
-            "source": [
-                "Révision du mod Enhanced Kit MOD ([[2212]]), distribuée séparément."
-            ]
+            "status": "done",
+            "source": []
         }
     },
     {
