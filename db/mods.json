@@ -77592,5 +77592,173 @@
         "last_update": "2006-10-21",
         "compatibilities": {},
         "tp2": "xiedu"
+    },
+    {
+        "id": 2235,
+        "name": "Primordial Shaman",
+        "description": "Kit de chaman spécialisé dans le soutien du groupe et inspiré des anciens mythes chinois. Il canalise la nature, les esprits ancestraux et les divinités primordiales grâce à des sorts et des danses propres au kit, particulièrement efficaces au sein d'une équipe nombreuse. En contrepartie, il renonce à certaines capacités habituelles du chaman, notamment l'invocation d'esprits par la danse, et doit se contenter d'un équipement relativement léger.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=30161"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "博德玩家"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2020-04-05",
+        "compatibilities": {},
+        "tp2": "HHWZ"
+    },
+    {
+        "id": 2236,
+        "name": "Spell Master",
+        "description": "Kit de mage spécialisé dans la métamagie, inspiré de l'archimage de D&D et du Spell Master de Pathfinder: Wrath of the Righteous. Il privilégie la manipulation des sorts et la polyvalence magique, notamment lorsqu'il combat aux côtés d'autres lanceurs de sorts. En échange, il souffre de graves faiblesses physiques et ne peut pas recevoir normalement les soins divins. La version 1.04 remanie également ses capacités de haut niveau, dont certaines exigent désormais de sacrifier une partie de sa puissance magique.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=53487"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "neo500"
+        ],
+        "team": [],
+        "notes": [
+            "Mod uniquement disponible en chinois."
+        ],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2026-01-19",
+        "compatibilities": {},
+        "tp2": "SpellMaster"
+    },
+    {
+        "id": 2237,
+        "name": "Wizard Slayer Enhancement",
+        "description": "Amélioration du Pourfendeur de magicien qui renforce sa capacité à perturber les lanceurs de sorts ennemis sans en faire une nouvelle classe. Sa présence gêne les incantations à courte portée, tandis que ses capacités de haut niveau améliorent sa résistance aux dissipations et lui permettent de neutraliser temporairement la magie dans une zone entière. Un composant optionnel assouplit aussi les restrictions d'équipement. Réservé aux Enhanced Editions, ce patch peut être installé après d'autres modifications du même kit.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=53162"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "shohy"
+        ],
+        "team": [],
+        "notes": [
+            "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+        ],
+        "translation_state": "auto",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
+    },
+    {
+        "id": 2238,
+        "name": "QC Kit Collection",
+        "description": "Collection de quatre kits inspirés principalement de World of Warcraft et de League of Legends. Ils proposent des styles de jeu très différents : guerrier à postures, paladin utilisant sceaux et auras, tireur à l'arbalète et druide métamorphe. Chacun possède ses propres mécaniques et capacités de haut niveau. Volontairement plus puissants que les classes originales, ces kits sont surtout destinés aux parties utilisant des mods qui augmentent la difficulté.",
+        "urls": [
+            "https://trow.cc/board/index.php?showtopic=48322",
+            "https://github.com/Sebastian-c4/Qin06Kits_Rework"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "c4_angel",
+            "qinsisuo06"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "auto",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": [
+            "stable"
+        ],
+        "last_update": "2019-08-24",
+        "compatibilities": {},
+        "tp2": "c4Q06KitPack"
+    },
+    {
+        "id": 2239,
+        "name": "Diablo Mod",
+        "description": "Ancien mod coréen pour BG2 qui ajoute des objets inspirés de Diablo et augmente considérablement la difficulté des combats. L'ajout d'animations de monstres provenant de Diablo II était également prévu. Le mod est devenu introuvable après la disparition du site baldursgate2.co.kr.",
+        "urls": [],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Wolfedge"
+        ],
+        "team": [],
+        "notes": [
+            "Mod disparu avec le site www.baldursgate2.co.kr."
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [
+            "ko"
+        ],
+        "status": [
+            "missing"
+        ],
+        "last_update": "",
+        "compatibilities": {},
+        "tp2": ""
     }
 ]
