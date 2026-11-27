@@ -1079,12 +1079,13 @@
         "languages": [
             "en",
             "fr",
-            "de"
+            "de",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2024-11-14",
+        "last_update": "2026-11-14",
         "compatibilities": {
             "requires": [
                 "ToB"
@@ -3374,7 +3375,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-03-30",
+        "last_update": "2026-11-11",
         "compatibilities": {},
         "tp2": "AutoDescription"
     },
@@ -6061,7 +6062,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-13",
+        "last_update": "2026-11-19",
         "compatibilities": {},
         "tp2": "d2-script"
     },
@@ -7601,12 +7602,13 @@
             "en",
             "fr",
             "de",
-            "it"
+            "it",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2024-11-14",
+        "last_update": "2026-11-13",
         "compatibilities": {},
         "tp2": "Cassius"
     },
@@ -8162,12 +8164,13 @@
         "languages": [
             "de",
             "fr",
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-02-07",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "Chiara"
     },
@@ -9933,7 +9936,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-02",
+        "last_update": "2026-11-19",
         "compatibilities": {},
         "tp2": "d2-mira"
     },
@@ -9969,7 +9972,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-02",
+        "last_update": "2026-11-19",
         "compatibilities": {},
         "tp2": "d2-weapon"
     },
@@ -10782,7 +10785,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-04",
+        "last_update": "2026-10-25",
         "compatibilities": {},
         "tp2": "Derats_kits"
     },
@@ -14003,7 +14006,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-26",
+        "last_update": "2026-11-19",
         "compatibilities": {},
         "tp2": "ExtraExpandedEnhancedEncounters"
     },
@@ -15586,12 +15589,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2024-11-15",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "Gemma"
     },
@@ -17690,7 +17694,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-18",
+        "last_update": "2026-11-19",
         "compatibilities": {},
         "tp2": "Horace"
     },
@@ -20942,7 +20946,8 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
@@ -21946,7 +21951,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-11-08",
+        "last_update": "2026-11-12",
         "compatibilities": {},
         "tp2": "derats_magasin_2"
     },
@@ -21980,12 +21985,13 @@
         "languages": [
             "en",
             "fr",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-04-25",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "Derats_Ogre"
     },
@@ -22083,12 +22089,13 @@
         "languages": [
             "pl",
             "en",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-02-26",
+        "last_update": "2026-11-15",
         "compatibilities": {},
         "tp2": "Larsha"
     },
@@ -23904,12 +23911,13 @@
         "languages": [
             "de",
             "fr",
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-01-03",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "Malthis"
     },
@@ -24079,12 +24087,13 @@
             "en",
             "es",
             "it",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-01-07",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "MawgulNPC"
     },
@@ -24330,12 +24339,13 @@
             "en",
             "fr",
             "it",
-            "es"
+            "es",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-10-14",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "mhoram"
     },
@@ -24684,7 +24694,7 @@
             "stable",
             "embed"
         ],
-        "last_update": "2025-07-29",
+        "last_update": "2026-11-18",
         "compatibilities": {},
         "embedded_in": 1097,
         "tp2": "d2-randomkits"
@@ -24929,12 +24939,13 @@
             "ru",
             "en",
             "fr",
-            "de"
+            "de",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-23",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "FoxMonster"
     },
@@ -25425,7 +25436,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-12-22",
+        "last_update": "2026-11-23",
         "compatibilities": {},
         "tp2": "Mortis"
     },
@@ -29331,7 +29342,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-01-01",
+        "last_update": "2026-11-09",
         "compatibilities": {},
         "tp2": "d2-portrait-separator"
     },
@@ -29739,7 +29750,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-03-22",
+        "last_update": "2026-11-16",
         "compatibilities": {},
         "tp2": "P!Bhaal"
     },
@@ -30471,12 +30482,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-08-05",
+        "last_update": "2026-11-11",
         "compatibilities": {},
         "tp2": "Recorder"
     },
@@ -32441,12 +32453,13 @@
         "safe": 1,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2024-11-28",
+        "last_update": "2026-11-23",
         "compatibilities": {},
         "tp2": "SandrahNPC"
     },
@@ -32778,7 +32791,7 @@
             "embed",
             "archived"
         ],
-        "last_update": "2026-09-08",
+        "last_update": "2026-11-13",
         "compatibilities": {},
         "tp2": "scales_of_balance"
     },
@@ -37249,12 +37262,13 @@
             "fr",
             "es",
             "de",
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-09-30",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "Thael"
     },
@@ -38918,12 +38932,13 @@
             "fr",
             "it",
             "ru",
-            "es"
+            "es",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-01-05",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "TTSQ"
     },
@@ -39189,7 +39204,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-11-05",
+        "last_update": "2026-11-18",
         "compatibilities": {},
         "tp2": "d2-workshopkits"
     },
@@ -39871,7 +39886,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-03-22",
+        "last_update": "2026-11-18",
         "compatibilities": {},
         "tp2": "DNT"
     },
@@ -39987,12 +40002,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2022-10-14",
+        "last_update": "2026-11-23",
         "compatibilities": {},
         "tp2": "touched"
     },
@@ -41034,19 +41050,18 @@
             "lijing_hi"
         ],
         "team": [],
-        "notes": [
-            "Le mod override le fichier STATS.IDS."
-        ],
+        "notes": [],
         "translation_state": "auto",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "cn",
-            "en"
+            "en",
+            "fr"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-10-04",
+        "last_update": "2026-11-25",
         "compatibilities": {},
         "tp2": "UoT"
     },
@@ -41409,7 +41424,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-11-09",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "ua"
     },
@@ -42214,12 +42229,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2024-11-04",
+        "last_update": "2026-11-11",
         "compatibilities": {},
         "tp2": "Vienxay"
     },
@@ -44267,7 +44283,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-03-06",
+        "last_update": "2026-11-05",
         "compatibilities": {},
         "tp2": "Zakrion_BG1"
     },
@@ -44338,7 +44354,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2023-05-16",
+        "last_update": "2026-11-27",
         "compatibilities": {},
         "tp2": "ZELINK"
     },
@@ -45379,12 +45395,13 @@
         "languages": [
             "en",
             "fr",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-07-29",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "derats_jazon"
     },
@@ -45561,7 +45578,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-03",
+        "last_update": "2026-11-13",
         "compatibilities": {},
         "tp2": "SubtleD_Stat_Overhauls"
     },
@@ -46056,12 +46073,13 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2023-06-05",
+        "last_update": "2026-11-23",
         "compatibilities": {},
         "tp2": "SimeNPC"
     },
@@ -47001,7 +47019,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-01-25",
+        "last_update": "2026-11-18",
         "compatibilities": {},
         "tp2": "IEEE_Halforc_Voice_Classic"
     },
@@ -47037,7 +47055,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-01-25",
+        "last_update": "2026-11-18",
         "compatibilities": {},
         "tp2": "IEEE_Dwarven_Voice_Classic"
     },
@@ -48369,7 +48387,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-06-29",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "zbpod"
     },
@@ -48655,12 +48673,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-11-17",
+        "last_update": "2026-11-13",
         "compatibilities": {},
         "tp2": "valkrana"
     },
@@ -48895,7 +48914,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-01",
+        "last_update": "2026-11-25",
         "compatibilities": {
             "requires": [
                 "Windows"
@@ -48972,7 +48991,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-29",
+        "last_update": "2026-11-17",
         "compatibilities": {
             "conflicts": [
                 948
@@ -50463,7 +50482,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-11-03",
+        "last_update": "2026-11-18",
         "compatibilities": {},
         "tp2": "mih_fr"
     },
@@ -50743,7 +50762,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-27",
+        "last_update": "2026-11-11",
         "compatibilities": {},
         "tp2": "ZS_ShadowdancerOverhaul"
     },
@@ -50965,7 +50984,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-09-05",
+        "last_update": "2026-11-15",
         "compatibilities": {},
         "tp2": "Reflections_of_Destiny"
     },
@@ -52842,12 +52861,13 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2024-12-07",
+        "last_update": "2026-11-13",
         "compatibilities": {},
         "tp2": "Nina"
     },
@@ -53406,7 +53426,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-29",
+        "last_update": "2026-11-17",
         "compatibilities": {},
         "tp2": "BookOfTorment"
     },
@@ -53936,7 +53956,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-09-04",
+        "last_update": "2025-11-15",
         "compatibilities": {},
         "tp2": "Derats_Mods_Tweaker"
     },
@@ -54394,12 +54414,13 @@
         "safe": 2,
         "languages": [
             "pl",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-08-29",
+        "last_update": "2026-11-10",
         "compatibilities": {},
         "tp2": "Kalah"
     },
@@ -56181,7 +56202,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2024-09-22",
+        "last_update": "2026-11-26",
         "compatibilities": {},
         "tp2": "c4Monk"
     },
@@ -61556,12 +61577,13 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-07-12",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "Banana"
     },
@@ -61624,12 +61646,13 @@
         "safe": 2,
         "languages": [
             "pl",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2025-05-11",
+        "last_update": "2026-11-14",
         "compatibilities": {},
         "tp2": "Xardas"
     },
@@ -61856,7 +61879,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-11-04",
+        "last_update": "2026-11-15",
         "compatibilities": {},
         "tp2": "Derats_Oops"
     },
@@ -63265,7 +63288,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-11-05",
+        "last_update": "2026-11-19",
         "compatibilities": {
             "conflicts": [
                 1286
@@ -64256,7 +64279,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-11-05",
+        "last_update": "2026-11-13",
         "compatibilities": {},
         "tp2": "assortedadjustments"
     },
@@ -64454,7 +64477,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-10-25",
+        "last_update": "2026-11-16",
         "compatibilities": {},
         "tp2": "silverrealms"
     },
@@ -65290,7 +65313,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-17",
+        "last_update": "2026-11-20",
         "compatibilities": {},
         "tp2": "dragondruid"
     },
@@ -65325,7 +65348,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2025-08-08",
+        "last_update": "2026-11-25",
         "compatibilities": {},
         "tp2": "ib"
     },
@@ -65600,13 +65623,14 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": [
             "stable",
             "hidden"
         ],
-        "last_update": "2022-11-23",
+        "last_update": "2026-11-23",
         "compatibilities": {},
         "tp2": "rosere"
     },
@@ -65645,7 +65669,7 @@
             "stable",
             "hidden"
         ],
-        "last_update": "2024-12-09",
+        "last_update": "2026-11-23",
         "compatibilities": {
             "requires": [
                 1229
@@ -68431,12 +68455,13 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-03-07",
+        "last_update": "2026-11-18",
         "compatibilities": {
             "requires": [
                 "ToB"
@@ -69318,7 +69343,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-01-01",
+        "last_update": "2026-11-19",
         "compatibilities": {},
         "tp2": "c4Q06KitPack"
     },
@@ -70266,7 +70291,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-11-08",
+        "last_update": "2026-11-16",
         "compatibilities": {
             "requires": [
                 "Windows",
@@ -70471,7 +70496,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-10-20",
+        "last_update": "2026-11-10",
         "compatibilities": {
             "requires": [
                 "Python",
@@ -71054,13 +71079,14 @@
         "safe": 1,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": [
             "stable",
             "hidden"
         ],
-        "last_update": "2024-01-06",
+        "last_update": "2026-11-23",
         "compatibilities": {},
         "tp2": "Ryberg"
     },
@@ -72083,7 +72109,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-06-26",
+        "last_update": "2026-11-17",
         "compatibilities": {},
         "tp2": "SPC"
     },
@@ -72359,7 +72385,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-08-08",
+        "last_update": "2026-11-16",
         "compatibilities": {},
         "tp2": "InterspeciesFriendship"
     },
@@ -74383,7 +74409,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-10-30",
+        "last_update": "2026-11-13",
         "compatibilities": {},
         "tp2": "BG1StylePortraits"
     },
@@ -75132,7 +75158,7 @@
         "status": [
             "beta"
         ],
-        "last_update": "2026-10-22",
+        "last_update": "2026-11-22",
         "compatibilities": {
             "requires": [
                 348,
@@ -75273,7 +75299,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-11-08",
+        "last_update": "2026-11-23",
         "compatibilities": {
             "requires": [
                 "EE version >= 2.6",
@@ -75306,14 +75332,15 @@
         "translation_state": "auto",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": [
             "stable"
         ],
-        "last_update": "2026-11-03",
+        "last_update": "2026-11-21",
         "compatibilities": {},
-        "tp2": "qac"
+        "tp2": "CotSC"
     },
     {
         "id": 2163,
@@ -75351,7 +75378,7 @@
     },
     {
         "id": 2164,
-        "name": "烤肉大世界修正合集 (BWP Cabob Utility)",
+        "name": "BWP Cabob Utility",
         "description": "Ensemble de correctifs complémentaires déjà utilisés dans [cette compilation](https://trow.cc/board/showtopic=29768) : corrections et ajustements apportés à la version finale, puis affinés grâce aux retours des joueurs.",
         "urls": [
             "https://github.com/Sebastian-c4/Cabob_Utility"
@@ -75428,8 +75455,7 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "EET",
-            "IWDEE"
+            "EET"
         ],
         "authors": [
             "Born2BSalty"
@@ -75442,7 +75468,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2026-11-14",
+        "last_update": "2026-11-03",
         "compatibilities": {},
         "tp2": "n/a"
     },
@@ -75512,7 +75538,7 @@
         "status": [
             "stable"
         ],
-        "last_update": "2019-09-27",
+        "last_update": "2019-01-27",
         "compatibilities": {},
         "tp2": "non-weidu"
     },
