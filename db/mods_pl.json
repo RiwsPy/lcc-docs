@@ -27107,7 +27107,7 @@
         "description": "",
         "description_meta": {
             "status": "todo",
-            "source": "Ce mod ajoute de nouveaux kits puissants inspirés de Wolrd of Warcraft et League of Legends : Seigneur de guerre (Guerrier), Paladin de la Main d'argent (Paladin), de Cœur de la nature (Shaman) et Chasseur nocturne (Voleur)."
+            "source": "Ce mod ajoute de nouveaux kits puissants inspirés de Wolrd of Warcraft et League of Legends : Seigneur de guerre (Guerrier), Paladin de la Main d'argent (Paladin), de Cœur de la nature (Shaman) et Chasseur nocturne (Voleur). Ils proposent des styles de jeu très différents : guerrier à postures, paladin utilisant sceaux et auras, tireur à l'arbalète et druide métamorphe. Chacun possède ses propres mécaniques et capacités de haut niveau. Volontairement plus puissants que les classes originales, ces kits sont surtout destinés aux parties utilisant des mods qui augmentent la difficulté."
         },
         "notes": [],
         "notes_meta": {
@@ -30349,6 +30349,60 @@
         "description_meta": {
             "status": "todo",
             "source": "Petit mod de combat inspiré du roman chinois 亵渎 de 烟雨江南. Il ajoute à Shadows of Amn un premier adversaire près de la fontaine de la promenade de Waukyne. Sa défaite permet d’obtenir un anneau de téléportation donnant accès au domaine glacé de Fengyue, où attend un groupe d’ennemis bien plus redoutables, destiné à des personnages du niveau de Throne of Bhaal. Le mod ne comporte pratiquement aucune intrigue et se concentre sur des combats difficiles et des récompenses très puissantes. La composition du groupe ennemi varie selon le niveau de difficulté, certains adversaires n’apparaissant qu’aux difficultés les plus élevées."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2235,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de chaman spécialisé dans le soutien du groupe et inspiré des anciens mythes chinois. Il canalise la nature, les esprits ancestraux et les divinités primordiales grâce à des sorts et des danses propres au kit, particulièrement efficaces au sein d'une équipe nombreuse. En contrepartie, il renonce à certaines capacités habituelles du chaman, notamment l'invocation d'esprits par la danse, et doit se contenter d'un équipement relativement léger."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2236,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de mage spécialisé dans la métamagie, inspiré de l'archimage de D&D et du Spell Master de Pathfinder: Wrath of the Righteous. Il privilégie la manipulation des sorts et la polyvalence magique, notamment lorsqu'il combat aux côtés d'autres lanceurs de sorts. En échange, il souffre de graves faiblesses physiques et ne peut pas recevoir normalement les soins divins. La version 1.04 remanie également ses capacités de haut niveau, dont certaines exigent désormais de sacrifier une partie de sa puissance magique."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2237,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Amélioration du Tueur de magicien qui renforce sa capacité à perturber les lanceurs de sorts ennemis sans en faire une nouvelle classe. Sa présence gêne les incantations à courte portée, tandis que ses capacités de haut niveau améliorent sa résistance aux dissipations et lui permettent de neutraliser temporairement la magie dans une zone entière. Un composant optionnel assouplit aussi les restrictions d'équipement. Réservé aux Enhanced Editions, ce patch peut être installé après d'autres modifications du même kit."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+            ]
+        }
+    },
+    {
+        "id": 2238,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ancien mod coréen pour BG2 qui ajoute des objets inspirés de Diablo et augmente considérablement la difficulté des combats. L'ajout d'animations de monstres provenant de Diablo II était également prévu."
         },
         "notes": [],
         "notes_meta": {

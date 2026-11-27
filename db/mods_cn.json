@@ -28057,10 +28057,11 @@
     },
     {
         "id": 1987,
+        "original_name": "QC宗派集合",
         "description": "这个模组添加了受《魔兽世界》和《英雄联盟》启发的新强力宗派：战争领主（战士）、白银之手圣骑士（圣武士）、自然之心（萨满）和暗夜猎手（游荡者）。",
         "description_meta": {
-            "status": "done",
-            "source": "Ce mod ajoute de nouveaux kits puissants inspirés de Wolrd of Warcraft et League of Legends : Seigneur de guerre (Guerrier), Paladin de la Main d'argent (Paladin), de Cœur de la nature (Shaman) et Chasseur nocturne (Voleur)."
+            "status": "needs_review",
+            "source": "Ce mod ajoute de nouveaux kits puissants inspirés de Wolrd of Warcraft et League of Legends : Seigneur de guerre (Guerrier), Paladin de la Main d'argent (Paladin), de Cœur de la nature (Shaman) et Chasseur nocturne (Voleur). Ils proposent des styles de jeu très différents : guerrier à postures, paladin utilisant sceaux et auras, tireur à l'arbalète et druide métamorphe. Chacun possède ses propres mécaniques et capacités de haut niveau. Volontairement plus puissants que les classes originales, ces kits sont surtout destinés aux parties utilisant des mods qui augmentent la difficulté."
         },
         "notes": [],
         "notes_meta": {
@@ -31336,8 +31337,8 @@
             "source": "Kit de voleur de mêlée dont le fonctionnement repose sur un système de points de combo. Le personnage enchaîne attaques d’ouverture, techniques permettant d’accumuler des points et coups de finition, tout en conservant des capacités de mobilité et de survie propres aux voleurs d’élite. Trois spécialisations permettent ensuite d’accentuer le duel, l’exécution rapide ou un style plus risqué ; en contrepartie, les pièges, les attaques sournoises et certaines options d’armes sont fortement limités."
         },
         "notes": [
-			"来源中标注的 TP2 同时也是[[2228]]的 TP2：需在存档中核实。"
-		],
+            "来源中标注的 TP2 同时也是[[2228]]的 TP2：需在存档中核实。"
+        ],
         "notes_meta": {
             "status": "done",
             "source": [
@@ -31408,6 +31409,63 @@
         "description_meta": {
             "status": "done",
             "source": "Petit mod de combat inspiré du roman chinois 亵渎 de 烟雨江南. Il ajoute à Shadows of Amn un premier adversaire près de la fontaine de la promenade de Waukyne. Sa défaite permet d’obtenir un anneau de téléportation donnant accès au domaine glacé de Fengyue, où attend un groupe d’ennemis bien plus redoutables, destiné à des personnages du niveau de Throne of Bhaal. Le mod ne comporte pratiquement aucune intrigue et se concentre sur des combats difficiles et des récompenses très puissantes. La composition du groupe ennemi varie selon le niveau de difficulté, certains adversaires n’apparaissant qu’aux difficultés les plus élevées."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2235,
+        "original_name": "洪荒巫祝",
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de chaman spécialisé dans le soutien du groupe et inspiré des anciens mythes chinois. Il canalise la nature, les esprits ancestraux et les divinités primordiales grâce à des sorts et des danses propres au kit, particulièrement efficaces au sein d'une équipe nombreuse. En contrepartie, il renonce à certaines capacités habituelles du chaman, notamment l'invocation d'esprits par la danse, et doit se contenter d'un équipement relativement léger."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2236,
+        "original_name": "法术大师",
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Kit de mage spécialisé dans la métamagie, inspiré de l'archimage de D&D et du Spell Master de Pathfinder: Wrath of the Righteous. Il privilégie la manipulation des sorts et la polyvalence magique, notamment lorsqu'il combat aux côtés d'autres lanceurs de sorts. En échange, il souffre de graves faiblesses physiques et ne peut pas recevoir normalement les soins divins. La version 1.04 remanie également ses capacités de haut niveau, dont certaines exigent désormais de sacrifier une partie de sa puissance magique."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "done",
+            "source": []
+        }
+    },
+    {
+        "id": 2237,
+        "original_name": "法师杀手强化",
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Amélioration du Tueur de magicien qui renforce sa capacité à perturber les lanceurs de sorts ennemis sans en faire une nouvelle classe. Sa présence gêne les incantations à courte portée, tandis que ses capacités de haut niveau améliorent sa résistance aux dissipations et lui permettent de neutraliser temporairement la magie dans une zone entière. Un composant optionnel assouplit aussi les restrictions d'équipement. Réservé aux Enhanced Editions, ce patch peut être installé après d'autres modifications du même kit."
+        },
+        "notes": [],
+        "notes_meta": {
+            "status": "todo",
+            "source": [
+                "Téléchargement soumis à un CAPTCHA nécessitant un téléphone."
+            ]
+        }
+    },
+    {
+        "id": 2238,
+        "description": "",
+        "description_meta": {
+            "status": "todo",
+            "source": "Ancien mod coréen pour BG2 qui ajoute des objets inspirés de Diablo et augmente considérablement la difficulté des combats. L'ajout d'animations de monstres provenant de Diablo II était également prévu."
         },
         "notes": [],
         "notes_meta": {

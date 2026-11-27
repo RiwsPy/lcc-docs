@@ -69290,7 +69290,7 @@
     {
         "id": 1987,
         "name": "Kits Rework",
-        "description": "Ce mod ajoute de nouveaux kits puissants inspirés de Wolrd of Warcraft et League of Legends : Seigneur de guerre (Guerrier), Paladin de la Main d'argent (Paladin), de Cœur de la nature (Shaman) et Chasseur nocturne (Voleur).",
+        "description": "Ce mod ajoute de nouveaux kits puissants inspirés de Wolrd of Warcraft et League of Legends : Seigneur de guerre (Guerrier), Paladin de la Main d'argent (Paladin), de Cœur de la nature (Shaman) et Chasseur nocturne (Voleur). Ils proposent des styles de jeu très différents : guerrier à postures, paladin utilisant sceaux et auras, tireur à l'arbalète et druide métamorphe. Chacun possède ses propres mécaniques et capacités de haut niveau. Volontairement plus puissants que les classes originales, ces kits sont surtout destinés aux parties utilisant des mods qui augmentent la difficulté.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=48322",
             "https://github.com/trow/Qin06Kits_Rework"
@@ -74566,6 +74566,7 @@
         "name": "Continuous End",
         "description": "Ce mod apporte des modifications au jeu afin de rendre plusieurs PNJ plus cohérents entre les opus, sans qu'il soit nécessaire de modifier les mods d'origine. Une dizaine de pnjs sont actuellement pris en charge dont : [[39]], [[26]], [[194]], [[255]], [[560]], [[611]],  [[1104]], [[1233]], [[1239]].",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/36756-the-gate-project/page/18/#comment-361075",
             "https://github.com/11jo/Continuous_End"
         ],
         "categories": [
@@ -77645,9 +77646,7 @@
             "neo500"
         ],
         "team": [],
-        "notes": [
-            "Mod uniquement disponible en chinois."
-        ],
+        "notes": [],
         "translation_state": "auto",
         "safe": 2,
         "languages": [
@@ -77663,7 +77662,7 @@
     {
         "id": 2237,
         "name": "Wizard Slayer Enhancement",
-        "description": "Amélioration du Pourfendeur de magicien qui renforce sa capacité à perturber les lanceurs de sorts ennemis sans en faire une nouvelle classe. Sa présence gêne les incantations à courte portée, tandis que ses capacités de haut niveau améliorent sa résistance aux dissipations et lui permettent de neutraliser temporairement la magie dans une zone entière. Un composant optionnel assouplit aussi les restrictions d'équipement. Réservé aux Enhanced Editions, ce patch peut être installé après d'autres modifications du même kit.",
+        "description": "Amélioration du Tueur de magicien qui renforce sa capacité à perturber les lanceurs de sorts ennemis sans en faire une nouvelle classe. Sa présence gêne les incantations à courte portée, tandis que ses capacités de haut niveau améliorent sa résistance aux dissipations et lui permettent de neutraliser temporairement la magie dans une zone entière. Un composant optionnel assouplit aussi les restrictions d'équipement. Réservé aux Enhanced Editions, ce patch peut être installé après d'autres modifications du même kit.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=53162"
         ],
@@ -77677,7 +77676,7 @@
             "EET"
         ],
         "authors": [
-            "shohy"
+            "Shohy"
         ],
         "team": [],
         "notes": [
@@ -77691,50 +77690,17 @@
         "status": [
             "stable"
         ],
-        "last_update": "",
+        "last_update": "2025-01-18",
         "compatibilities": {},
         "tp2": ""
     },
     {
         "id": 2238,
-        "name": "QC Kit Collection",
-        "description": "Collection de quatre kits inspirés principalement de World of Warcraft et de League of Legends. Ils proposent des styles de jeu très différents : guerrier à postures, paladin utilisant sceaux et auras, tireur à l'arbalète et druide métamorphe. Chacun possède ses propres mécaniques et capacités de haut niveau. Volontairement plus puissants que les classes originales, ces kits sont surtout destinés aux parties utilisant des mods qui augmentent la difficulté.",
-        "urls": [
-            "https://trow.cc/board/index.php?showtopic=48322",
-            "https://github.com/Sebastian-c4/Qin06Kits_Rework"
-        ],
-        "categories": [
-            "Kit"
-        ],
-        "games": [
-            "BGEE",
-            "SoD",
-            "BG2EE",
-            "EET"
-        ],
-        "authors": [
-            "c4_angel",
-            "qinsisuo06"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "auto",
-        "safe": 2,
-        "languages": [
-            "cn"
-        ],
-        "status": [
-            "stable"
-        ],
-        "last_update": "2019-08-24",
-        "compatibilities": {},
-        "tp2": "c4Q06KitPack"
-    },
-    {
-        "id": 2239,
         "name": "Diablo Mod",
-        "description": "Ancien mod coréen pour BG2 qui ajoute des objets inspirés de Diablo et augmente considérablement la difficulté des combats. L'ajout d'animations de monstres provenant de Diablo II était également prévu. Le mod est devenu introuvable après la disparition du site baldursgate2.co.kr.",
-        "urls": [],
+        "description": "Ancien mod coréen pour BG2 qui ajoute des objets inspirés de Diablo et augmente considérablement la difficulté des combats. L'ajout d'animations de monstres provenant de Diablo II était également prévu.",
+        "urls": [
+            "https://baldursgate2.co.kr/"
+        ],
         "categories": [
             "Gameplay"
         ],
@@ -77746,9 +77712,7 @@
             "Wolfedge"
         ],
         "team": [],
-        "notes": [
-            "Mod disparu avec le site www.baldursgate2.co.kr."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [
